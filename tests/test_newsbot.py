@@ -167,6 +167,13 @@ def test_no_link_mode():
     assert post == "GPT-6 is out.\n\nvia The Hindu"
 
 
+def test_blank_line_between_hook_and_take():
+    expected = "Microsoft offered buyouts.\n\nNothing says the future is here.\n\nvia The New York Times"
+    for body in ("Microsoft offered buyouts.\nNothing says the future is here.",
+                 "Microsoft offered buyouts.\n\n\n  Nothing says the future is here.  "):
+        assert newsbot.compose_post(body, "The New York Times", "", False) == expected
+
+
 def test_shipped_config_is_valid():
     cfg = newsbot.load_config()
     names = [f["name"] for f in cfg["feeds"]]

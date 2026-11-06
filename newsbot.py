@@ -152,6 +152,8 @@ def trim_to(text: str, budget: int) -> str:
 
 
 def compose_post(body: str, source: str, url: str, include_link: bool) -> str:
+    # One blank line between the hook and the take, however Gemini spaced them.
+    body = "\n\n".join(line.strip() for line in body.splitlines() if line.strip())
     suffix = f"\n\nvia {source}"
     if include_link and url:
         suffix += f" {url}"
@@ -234,7 +236,7 @@ feed's short blurb). Do three things:
 
 POST RULES (built for what X's ranking rewards: replies, reposts, profile clicks)
 - 100–200 characters total, English, in exactly two short lines separated by a
-  line break:
+  blank line:
     Line 1 = the hook: the news itself, punchy, headline-style, scannable in
              one glance (who did what).
     Line 2 = your take: one witty line, an implication, or a sharp question.
