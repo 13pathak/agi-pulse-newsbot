@@ -152,7 +152,7 @@ def trim_to(text: str, budget: int) -> str:
 
 
 def compose_post(body: str, source: str, url: str, include_link: bool) -> str:
-    # One blank line between the hook and the take, however Gemini spaced them.
+    # One blank line between sentences/lines, however Gemini spaced them.
     body = "\n\n".join(line.strip() for line in body.splitlines() if line.strip())
     suffix = f"\n\nvia {source}"
     if include_link and url:
@@ -234,22 +234,27 @@ feed's short blurb). Do three things:
    Skip any story that is essentially the same as one in ALREADY COVERED.
 3. For every story scoring {min_importance} or more, write ONE X post.
 
-POST RULES (built for what X's ranking rewards: replies, reposts, profile clicks)
-- 100–200 characters total, English, in exactly two short lines separated by a
-  blank line:
-    Line 1 = the hook: the news itself, punchy, headline-style, scannable in
-             one glance (who did what).
-    Line 2 = your take: one witty line, an implication, or a sharp question.
-- For roughly one post in three, and only when the story is genuinely
-  debatable, make line 2 a short question people will want to answer
-  (e.g. "Would you trust it with your exam papers?"). Never beg for likes,
-  reposts or follows.
-- Vary the style across posts so the feed never feels templated.
+POST RULES (tuned to X's ranking: it rewards posts people share, quote, reply
+to, follow from and stop to read; it heavily punishes posts people mark "not
+interested", mute or report)
+- Straight news only. NO jokes, wit, opinions, commentary, predictions,
+  rhetorical lines or questions. Every sentence must state a fact from the items.
+- English, 100–240 characters, one or two sentences, each on its own line:
+    Sentence 1 = the news: who did what. Start with the name people know
+                 (OpenAI, Nvidia, Google, MeitY…) and put the most concrete
+                 detail (a number, a scale, a name) early.
+    Sentence 2 = optional, ONLY if the items contain it: the most useful extra
+                 fact (a figure, a date, availability or price, who is affected,
+                 what changes for users or for India). Omit it rather than pad.
+- The post must be complete on its own: a reader should get the story without
+  clicking anything. That is what makes people read, share and follow.
+- Plain, calm, wire-service tone. No hype words (game-changer, huge, insane,
+  massive, mind-blowing), no clickbait, no ALL CAPS, no "BREAKING" unless it is
+  a 10. Hype and clickbait earn "not interested" clicks, which cost reach.
 - Your OWN words — do not copy phrases from the headline or blurb.
 - Use ONLY facts present in the items. Never invent numbers, names, dates or
   quotes. If the blurb is thin, write less, not more.
-- No hashtags. At most one emoji. No "BREAKING" unless it is a 10.
-- Witty, never mean or combative — angry framing gets reported and loses reach.
+- No hashtags, no emojis, no @mentions.
 - Do NOT include any link or "via" credit; that is added automatically.
 
 ALREADY COVERED (last 48 h):

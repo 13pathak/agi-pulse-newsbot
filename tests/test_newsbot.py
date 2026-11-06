@@ -39,7 +39,7 @@ CONFIG = {
                  "lookback_hours": 18, "max_candidates": 50,
                  "quiet_hours_ist": ["23:00", "06:30"], "include_link": True,
                  "gemini_model": "gemini-flash-latest", "gemini_fallback_model": "gemini-2.5-flash"},
-    "persona": "Witty AI news writer.",
+    "persona": "Factual AI news writer.",
     "keywords": ["artificial intelligence", "OpenAI", "Sarvam"],
     "feeds": [
         {"name": "The Verge", "url": "https://verge.test/ai", "ai_only": True},
