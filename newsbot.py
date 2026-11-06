@@ -428,8 +428,11 @@ def run(dry_run: bool = False, now: datetime | None = None,
     except GeminiUnavailable as e:
         log.warning("Gemini unavailable (%s) — nothing sent; will retry next run", e)
         return 0
-    picks = select_picks(result, cands, s["min_importance"], room)
-    log.info("Gemini picked %d stories", len(picks))
+    qualified = select_picks(result, cands, s["min_importance"], len(cands))
+    picks, held = qualified[:room], qualified[room:]
+    # Good stories that didn't fit this run stay unseen, so the next run reconsiders them.
+    held_ids = {c["id"] for p in held for c in [p["item"], *p["related"]]}
+    log.info("Gemini picked %d stories (%d held for later runs)", len(picks), len(held))
 
     token, chat_id = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
     if not dry_run and not (token and chat_id):
@@ -453,8 +456,9 @@ def run(dry_run: bool = False, now: datetime | None = None,
 
     if dry_run:
         return 0
-    for c in cands:  # everything Gemini has judged is now "seen"
-        state["seen"][c["id"]] = now.isoformat()
+    for c in cands:  # everything Gemini has judged is now "seen", except held picks
+        if c["id"] not in held_ids:
+            state["seen"][c["id"]] = now.isoformat()
     save_state(state, now, state_path)
     return 0
 

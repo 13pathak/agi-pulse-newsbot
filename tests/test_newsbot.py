@@ -154,6 +154,19 @@ def test_daily_cap(env):
     assert len(env["sent"]) == 1 and "GPT-6" in env["sent"][0]["text"]
 
 
+def test_per_run_cap_holds_extra_stories_for_next_run(env):
+    import yaml
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["settings"]["max_drafts_per_run"] = 1
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert len(env["sent"]) == 1 and "GPT-6" in env["sent"][0]["text"]
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert len(env["sent"]) == 2 and "Sarvam" in env["sent"][1]["text"]   # held, not lost
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert len(env["sent"]) == 2                                           # nothing left
+
+
 def test_x_length_and_trimming():
     long_body = "word " * 100
     post = newsbot.compose_post(long_body, "The Hindu", "https://example.com/" + "a" * 200, True)

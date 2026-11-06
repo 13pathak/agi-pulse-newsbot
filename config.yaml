@@ -3,7 +3,7 @@
 # ─────────────────────────────────────────────────────────────
 
 settings:
-  max_drafts_per_run: 3        # at most this many Telegram drafts per run (every 30 min)
+  max_drafts_per_run: 1        # 1 draft per run (every 30 min) keeps your posts spaced out; X ranks back-to-back posts from one author lower
   max_drafts_per_day: 10       # daily ceiling so your phone doesn't become a slot machine
   min_importance: 6            # 1–10; Gemini scores every story, below this is ignored
   lookback_hours: 18           # ignore articles older than this
