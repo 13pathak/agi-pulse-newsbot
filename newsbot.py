@@ -232,12 +232,22 @@ feed's short blurb). Do three things:
    Skip any story that is essentially the same as one in ALREADY COVERED.
 3. For every story scoring {min_importance} or more, write ONE X post.
 
-POST RULES
-- Max 200 characters. English. Lead with the news, end with a one-line witty take.
+POST RULES (built for what X's ranking rewards: replies, reposts, profile clicks)
+- 100–200 characters total, English, in exactly two short lines separated by a
+  line break:
+    Line 1 = the hook: the news itself, punchy, headline-style, scannable in
+             one glance (who did what).
+    Line 2 = your take: one witty line, an implication, or a sharp question.
+- For roughly one post in three, and only when the story is genuinely
+  debatable, make line 2 a short question people will want to answer
+  (e.g. "Would you trust it with your exam papers?"). Never beg for likes,
+  reposts or follows.
+- Vary the style across posts so the feed never feels templated.
 - Your OWN words — do not copy phrases from the headline or blurb.
 - Use ONLY facts present in the items. Never invent numbers, names, dates or
   quotes. If the blurb is thin, write less, not more.
-- At most one emoji and at most one hashtag. No "BREAKING" unless it is a 10.
+- No hashtags. At most one emoji. No "BREAKING" unless it is a 10.
+- Witty, never mean or combative — angry framing gets reported and loses reach.
 - Do NOT include any link or "via" credit; that is added automatically.
 
 ALREADY COVERED (last 48 h):
