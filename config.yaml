@@ -1,0 +1,109 @@
+# ─────────────────────────────────────────────────────────────
+#  AGI Pulse NewsBot — settings you can tweak without touching code
+# ─────────────────────────────────────────────────────────────
+
+settings:
+  max_drafts_per_run: 3        # at most this many Telegram drafts per run (every 30 min)
+  max_drafts_per_day: 10       # daily ceiling so your phone doesn't become a slot machine
+  min_importance: 6            # 1–10; Gemini scores every story, below this is ignored
+  lookback_hours: 18           # ignore articles older than this
+  max_candidates: 50           # newest N unseen articles sent to Gemini per run
+  quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
+  include_link: false          # posts end with "via <Outlet>" only; set true to also add the article link
+  gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
+  gemini_fallback_model: "gemini-2.5-flash"
+
+# The voice Gemini writes in. Edit freely — this is your account's personality.
+persona: |
+  You write posts for @AGI_Pulse, an X account about AI run by Ram, a librarian
+  from Varanasi who follows AI obsessively. Voice: sharp, witty and a little
+  cheeky, like a clever friend explaining the news over chai. The humour comes
+  from the news itself (irony, scale, absurdity), never from mocking people or
+  groups. Accuracy beats jokes, every time.
+
+# Words that mark a story as AI-related (used only for feeds with ai_only: false).
+# "AI" is matched as a whole word, case-sensitive; the rest are case-insensitive.
+keywords:
+  - artificial intelligence
+  - generative
+  - machine learning
+  - deep learning
+  - neural
+  - LLM
+  - large language model
+  - chatbot
+  - OpenAI
+  - ChatGPT
+  - Anthropic
+  - Claude
+  - Gemini
+  - DeepMind
+  - Grok
+  - xAI
+  - Copilot
+  - Llama
+  - Mistral
+  - DeepSeek
+  - Nvidia
+  - AGI
+  - deepfake
+  - Sarvam
+  - Krutrim
+  - IndiaAI
+
+# Feeds. ai_only: true  → the feed is already about AI, take everything.
+#        ai_only: false → general tech feed, keep only stories matching keywords.
+# Set enabled: false to switch one off. Broken feeds are skipped and logged.
+feeds:
+  # Big newspapers (paywalled, but the bot only needs the headline + blurb from RSS)
+  - name: The New York Times
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    ai_only: false
+  - name: The Wall Street Journal
+    url: https://feeds.content.dowjones.io/public/rss/RSSWSJD
+    ai_only: false
+
+  # Global tech press
+  - name: The Verge
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    ai_only: true
+  - name: TechCrunch
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    ai_only: true
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    ai_only: true
+  - name: Ars Technica
+    url: https://arstechnica.com/ai/feed/
+    ai_only: true
+  - name: Wired
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+    ai_only: true
+  - name: VentureBeat
+    url: https://venturebeat.com/category/ai/feed/
+    ai_only: true
+
+  # Indian press
+  - name: The Hindu
+    url: https://www.thehindu.com/sci-tech/technology/feeder/default.rss
+    ai_only: false
+  - name: The Indian Express
+    url: https://indianexpress.com/section/technology/feed/
+    ai_only: false
+  - name: Analytics India Magazine
+    url: https://analyticsindiamag.com/feed/
+    ai_only: false
+
+  # Straight from the labs (often hours ahead of the newspapers)
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    ai_only: true
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    ai_only: true
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    ai_only: true
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    ai_only: true
