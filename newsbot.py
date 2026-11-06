@@ -273,23 +273,48 @@ def build_prompt(config: dict, state: dict, cands: list[dict]) -> str:
                          items=json.dumps(items, ensure_ascii=False, indent=1))
 
 
+TRANSIENT_STATUS = (429, 500, 502, 503, 504)
+
+
+class GeminiUnavailable(Exception):
+    """Gemini was slow or overloaded; safe to try again on the next run."""
+
+
+def _post_gemini(url: str, body: dict, api_key: str, model: str) -> requests.Response:
+    """Two tries at one model. Raises GeminiUnavailable on timeouts / overload."""
+    last = ""
+    for attempt in range(2):
+        try:
+            r = requests.post(url, json=body, timeout=(10, 90),
+                              headers={"x-goog-api-key": api_key})
+        except (requests.Timeout, requests.ConnectionError) as e:
+            last = f"{type(e).__name__}"
+        else:
+            if r.status_code not in TRANSIENT_STATUS:
+                return r
+            last = f"HTTP {r.status_code}"
+        if attempt == 0:
+            log.warning("Gemini %s (%s), retrying in 15s", model, last)
+            time.sleep(15)
+    raise GeminiUnavailable(f"{model}: {last}")
+
+
 def call_gemini(prompt: str, api_key: str, model: str, fallback: str | None = None) -> dict:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.8}}
-    for attempt in range(3):
-        r = requests.post(url, json=body, timeout=120,
-                          headers={"x-goog-api-key": api_key})
-        if r.status_code == 404 and fallback and fallback != model:
-            log.warning("model %s not found, falling back to %s", model, fallback)
-            return call_gemini(prompt, api_key, fallback, None)
-        if r.status_code in (429, 500, 502, 503, 504) and attempt < 2:
-            wait = 20 * (attempt + 1)
-            log.warning("Gemini %s, retrying in %ss", r.status_code, wait)
-            time.sleep(wait)
-            continue
-        r.raise_for_status()
-        break
+    use_fallback = fallback and fallback != model
+    try:
+        r = _post_gemini(url, body, api_key, model)
+    except GeminiUnavailable as e:
+        if not use_fallback:
+            raise
+        log.warning("%s; falling back to %s", e, fallback)
+        return call_gemini(prompt, api_key, fallback, None)
+    if r.status_code == 404 and use_fallback:
+        log.warning("model %s not found, falling back to %s", model, fallback)
+        return call_gemini(prompt, api_key, fallback, None)
+    r.raise_for_status()
     data = r.json()
     parts = data["candidates"][0]["content"]["parts"]
     text = "".join(p.get("text", "") for p in parts).strip()
@@ -390,8 +415,12 @@ def run(dry_run: bool = False, now: datetime | None = None,
         log.error("GEMINI_API_KEY is not set")
         return 1
     model = os.environ.get("GEMINI_MODEL") or s.get("gemini_model", "gemini-flash-latest")
-    result = call_gemini(build_prompt(config, state, cands), api_key, model,
-                         s.get("gemini_fallback_model"))
+    try:
+        result = call_gemini(build_prompt(config, state, cands), api_key, model,
+                             s.get("gemini_fallback_model"))
+    except GeminiUnavailable as e:
+        log.warning("Gemini unavailable (%s) — nothing sent; will retry next run", e)
+        return 0
     picks = select_picks(result, cands, s["min_importance"], room)
     log.info("Gemini picked %d stories", len(picks))
 
