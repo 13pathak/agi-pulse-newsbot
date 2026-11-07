@@ -460,7 +460,8 @@ def check_feeds(config: dict) -> int:
         except Exception as exc:
             bad += 1
             print(f"FAILED  {feed['name']:<26} {exc}")
-    print(f"\n{len(config['feeds']) - bad} working, {bad} failed")
+    off = sum(f.get("enabled", True) is False for f in config["feeds"])
+    print(f"\n{len(config['feeds']) - off - bad} working, {bad} failed, {off} switched off")
     return 0
 
 
