@@ -3,14 +3,15 @@
 AGI Pulse NewsBot
 =================
 Every run (GitHub Actions, every 30 min):
-  1. Reads AI news RSS feeds listed in config.yaml
+  1. Reads the sources listed in config.yaml (RSS feeds, news pages,
+     Hugging Face papers and models)
   2. Drops anything already seen, too old, or not about AI
   3. Asks Gemini to group duplicate stories, score importance, and write
-     an X post for the best ones (in the @AGI_Pulse voice)
-  4. Sends each draft to your Telegram with a "Post on X" button that opens
-     X with the text pre-filled — you review, edit if you like, and tap Post.
+     an X post for the best ones in the configured persona
+  4. Sends each draft to Telegram with a "Post on X" button that opens X
+     with the text pre-filled, for an editor to review and publish.
 
-Nothing is ever posted to X without you. No X API, no API bill.
+Nothing is posted to X without human approval. No X API is used.
 
 Usage:
   python newsbot.py               # normal run
