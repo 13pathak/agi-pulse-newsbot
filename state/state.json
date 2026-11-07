@@ -128,7 +128,22 @@
   "52e86082237709a5": "2026-11-07T08:07:23.026316+00:00",
   "66bc3985cbef65e4": "2026-11-07T08:37:20.697583+00:00",
   "9dd4c5fa836a0e17": "2026-11-07T08:37:20.697583+00:00",
-  "08a8d09d2f45131d": "2026-11-07T08:37:20.697583+00:00"
+  "08a8d09d2f45131d": "2026-11-07T08:37:20.697583+00:00",
+  "a734472336686289": "2026-11-07T11:07:20.401640+00:00",
+  "7838c87736f9082f": "2026-11-07T11:07:20.401640+00:00",
+  "b64f9c5c9d11790b": "2026-11-07T11:07:20.401640+00:00",
+  "7689272c32cddea8": "2026-11-07T11:07:20.401640+00:00",
+  "507023ef4131f072": "2026-11-07T11:07:20.401640+00:00",
+  "a58bbed52fff75b1": "2026-11-07T11:07:20.401640+00:00",
+  "aae7d52c6eaba4c2": "2026-11-07T11:07:20.401640+00:00",
+  "b7ff11958707349f": "2026-11-07T11:07:20.401640+00:00",
+  "3d865336cb50a056": "2026-11-07T11:07:20.401640+00:00",
+  "3fe5fd55c77b023a": "2026-11-07T11:07:20.401640+00:00",
+  "e0e31e4f635cae3a": "2026-11-07T11:07:20.401640+00:00",
+  "6bbb9c4f0600736f": "2026-11-07T11:07:20.401640+00:00",
+  "a70ff41e70ad1fe6": "2026-11-07T11:07:20.401640+00:00",
+  "95e756c01fde1e58": "2026-11-07T11:07:20.401640+00:00",
+  "f90dfea2fa01318d": "2026-11-07T11:07:20.401640+00:00"
  },
  "covered": [
   {
@@ -182,11 +197,15 @@
   {
    "headline": "Microsoft winds down Oracle deal to rent AI cloud capacity",
    "ts": "2026-11-07T08:37:20.697583+00:00"
+  },
+  {
+   "headline": "Moonshot AI releases open-weight Kimi-K3.1-Pro model",
+   "ts": "2026-11-07T11:07:20.401640+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -344,6 +363,9 @@
    "desc": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "published": "2026-09-17T00:00:00.000Z"
+  },
+  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
+   "card": "📰 Tech Blog | 🚀 API Quickstart 1. Model Introduction Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series. With a 1-million-token context window, Kimi K3.1 Pro delivers substantial improvements in coding, 3D creation, financial research, factual accuracy, and other agentic capabilities. 2. Model Summary Architecture Mixture-of-Experts (MoE) Total Parameters 2.8T Activated Parameters 104B Number of Layers 93 Number of Dense Layers 1 Attention-Layer Composition 69 KDA + 24 Gated DSA Attention Hidden Dimension 7168 Number of Attention Heads 96 DSA Index Head Dimension 128 DSA Index Number of Heads 32 DSA Index Top-K 2048 Latent MoE Dimension 3584 MoE Hidden Dimension (per Expert) 3072 Number of Experts 896 Selected Experts per Token 16 Number of Shared Experts 2 Vocabulary Size 160K Context Length 1048576 Attention Mechanism KDA & Gated DSA Activation Function SiTU-GLU Vision Encoder MoonViT-V2 Parameters of Vision Encoder 401M Quantization MXFP4 weights / MXFP8 activations (q…"
   }
  }
 }
