@@ -207,14 +207,69 @@ def test_partial_telegram_failure_preserves_unsent_draft_and_successful_delivery
         return send(*args)
 
     monkeypatch.setattr(newsbot, "send_telegram", flaky)
-    with pytest.raises(newsbot.requests.ConnectionError):
-        run(env)
+    assert run(env) == 1   # failed run is visible, but state is saved
     saved = json.loads(env["state"].read_text())
     assert saved["daily"]["count"] == 1 and len(saved["covered"]) == 1
     assert len(saved["pending"]) == 1 and "Sarvam" in saved["pending"][0]["headline"]
+    assert saved["pending"][0]["delivery_attempts"] == 1
     monkeypatch.setattr(newsbot, "send_telegram", send)
-    run(env)
+    assert run(env) == 0
     assert len(env["sent"]) == 2 and len(env["prompts"]) == 1
+
+
+def test_rejected_draft_is_retired_and_next_story_is_delivered_same_run(env, monkeypatch):
+    one_per_run(env)
+    send = newsbot.send_telegram
+
+    def reject_gpt6(token, chat, text, *rest):
+        if "GPT-6" in text:
+            raise newsbot.TelegramError(400, "Bad Request: can't parse entities")
+        return send(token, chat, text, *rest)
+
+    monkeypatch.setattr(newsbot, "send_telegram", reject_gpt6)
+    assert run(env) == 1
+    saved = json.loads(env["state"].read_text())
+    assert len(env["sent"]) == 1 and "Sarvam" in env["sent"][0]["text"]   # queue not blocked
+    assert saved["pending"] == [] and saved["daily"]["count"] == 1
+    assert all("GPT-6" not in c["headline"] for c in saved["covered"])   # retired, not delivered
+    # Marked seen: the next run neither re-drafts nor retries it (a retry would fail again).
+    assert run(env, NOW + timedelta(minutes=30)) == 0 and len(env["sent"]) == 1
+
+
+def test_temporary_failures_keep_draft_until_attempt_limit(env, monkeypatch):
+    one_per_run(env)
+
+    def offline(*_):
+        raise newsbot.requests.ConnectionError("Telegram offline")
+
+    monkeypatch.setattr(newsbot, "send_telegram", offline)
+    for attempt in range(1, newsbot.MAX_DELIVERY_ATTEMPTS):
+        assert run(env, NOW + timedelta(minutes=30 * attempt)) == 1
+        head = json.loads(env["state"].read_text())["pending"][0]
+        assert "GPT-6" in head["headline"] and head["delivery_attempts"] == attempt
+    assert run(env, NOW + timedelta(hours=4)) == 1
+    pending = json.loads(env["state"].read_text())["pending"]
+    assert [p["headline"] for p in pending] == ["Sarvam Hindi voice model"]
+
+
+@pytest.mark.parametrize("status", [401, 403, 429, 502])
+def test_account_or_service_errors_never_retire_on_first_failure(status):
+    assert not newsbot.TelegramError(status, "x").rejected
+    assert newsbot.TelegramError(400, "x").rejected
+
+
+def test_picture_timeout_falls_back_to_text(monkeypatch):
+    calls = []
+
+    def post(url, json=None, **kw):
+        calls.append(url.rsplit("/", 1)[1])
+        if url.endswith("sendPhoto"):
+            raise newsbot.requests.ReadTimeout("slow image host")
+        return type("R", (), {"ok": True})()
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    newsbot.send_telegram("t", "1", "draft", [], photo="https://slow.test/x.png")
+    assert calls == ["sendPhoto", "sendMessage"]
 
 
 def test_dry_run_leaves_queue_file_unchanged_and_sends_nothing(env):

@@ -1041,26 +1041,55 @@ def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
     return "\n".join(lines)
 
 
+class TelegramError(RuntimeError):
+    """Telegram refused a message; `rejected` means this draft itself can never be sent."""
+
+    def __init__(self, status: int, detail: str):
+        super().__init__(f"Telegram error {status}: {detail}")
+        self.status = status
+
+    @property
+    def rejected(self) -> bool:
+        # 400/413 describe the message (bad markup, button URL, size). 401/403/404 are
+        # token or chat problems and 429/5xx are temporary: those affect every draft.
+        return self.status in (400, 413)
+
+
+MAX_DELIVERY_ATTEMPTS = 6   # backstop: ~3 hours of 30-minute runs before a draft is dropped
+
+
 def send_telegram(token: str, chat_id: str, text: str, buttons: list[list[dict]],
                   photo: str = "") -> None:
     """Send the draft. With `photo`, send it as a picture with the draft as its caption
     (save it and attach it on X); if Telegram can't use the picture, send text only."""
     api = f"https://api.telegram.org/bot{token}"
     if photo and len(text) <= 1024:   # Telegram's caption limit
-        r = requests.post(f"{api}/sendPhoto", timeout=30, json={
-            "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
-            "reply_markup": {"inline_keyboard": buttons},
-        })
-        if r.ok:
-            return
-        log.warning("Telegram couldn't use the picture (%s); sending text only", r.status_code)
+        try:
+            r = requests.post(f"{api}/sendPhoto", timeout=30, json={
+                "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
+                "reply_markup": {"inline_keyboard": buttons},
+            })
+        except requests.RequestException as e:   # e.g. a slow image host timed out
+            log.warning("Telegram couldn't use the picture (%s); sending text only", e)
+        else:
+            if r.ok:
+                return
+            log.warning("Telegram couldn't use the picture (%s); sending text only", r.status_code)
     r = requests.post(f"{api}/sendMessage", timeout=20, json={
         "chat_id": chat_id, "text": text, "parse_mode": "HTML",
         "link_preview_options": {"is_disabled": True},
         "reply_markup": {"inline_keyboard": buttons},
     })
     if not r.ok:
-        raise RuntimeError(f"Telegram error {r.status_code}: {r.text[:300]}")
+        raise TelegramError(r.status_code, r.text[:300])
+
+
+def retire_undeliverable(state: dict, pick: dict, now: datetime, error: Exception) -> None:
+    """Drop a draft that can't be delivered so it stops blocking the rest of the queue."""
+    remember_story(state, pick, now)
+    state["pending"].remove(pick)
+    log.error("queue retired: %s (undeliverable after %d attempt(s): %s) — %s",
+              pick["headline"], pick.get("delivery_attempts", 1), error, pick["item"]["url"])
 
 
 # ───────────────────────── main ─────────────────────────
@@ -1150,11 +1179,10 @@ def run(dry_run: bool = False, now: datetime | None = None,
             for represented in [c, *c.get("duplicates", [])]:
                 if represented["id"] not in held_ids:
                     state["seen"][represented["id"]] = now.isoformat()
-    picks = state["pending"][:room]
-    log.info("queue: %d ready, %d selected", len(state["pending"]), len(picks))
+    log.info("queue: %d ready, %d selected", len(state["pending"]), min(room, len(state["pending"])))
     if not dry_run:
         save_state(state, now, state_path)  # durable before any delivery attempt
-    if not picks:
+    if not state["pending"]:
         return 0
 
     token, chat_id = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
@@ -1162,7 +1190,10 @@ def run(dry_run: bool = False, now: datetime | None = None,
         log.error("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set")
         return 1
 
-    for pick in picks:
+    delivered, exit_code = 0, 0
+    for pick in list(state["pending"]):   # highest priority first; skip past rejected drafts
+        if delivered >= room:
+            break
         log.info("selected %.2f: %s (%s)", pick["priority"], pick["headline"], pick["selection_reason"])
         it = pick["item"]
         post = compose_post(pick["post"], it["source"], it["url"], s.get("include_link", True),
@@ -1178,17 +1209,34 @@ def run(dry_run: bool = False, now: datetime | None = None,
             print(f"({x_len(post)}/280)  {intent_url(post)[:90]}…")
             if photo:
                 print(f"image: {photo}")
+            delivered += 1
             continue
         buttons = [[{"text": "✅ Post on X", "url": intent_url(post)}],
                    [{"text": "📖 Read article", "url": it["url"]}]]
-        send_telegram(token, chat_id, telegram_message(pick, post, bool(photo)), buttons, photo)
+        try:
+            send_telegram(token, chat_id, telegram_message(pick, post, bool(photo)), buttons, photo)
+        except (TelegramError, requests.RequestException) as e:
+            pick["delivery_attempts"] = pick.get("delivery_attempts", 0) + 1
+            exit_code = 1   # fail the run so the problem is visible in Actions
+            if isinstance(e, TelegramError) and e.rejected:
+                retire_undeliverable(state, pick, now, e)
+                save_state(state, now, state_path)
+                continue   # this draft is the problem; try the next one
+            if pick["delivery_attempts"] >= MAX_DELIVERY_ATTEMPTS:
+                retire_undeliverable(state, pick, now, e)
+            else:
+                log.error("Telegram delivery failed (%s) — attempt %d/%d; will retry next run",
+                          e, pick["delivery_attempts"], MAX_DELIVERY_ATTEMPTS)
+            save_state(state, now, state_path)
+            break      # Telegram itself is likely unavailable; don't hammer it
         state["covered"].append({"headline": pick["headline"], "ts": now.isoformat()})
         state["daily"]["count"] += 1
+        delivered += 1
         remember_story(state, pick, now)
         state["pending"].remove(pick)
         save_state(state, now, state_path)  # preserve earlier successes if a later send fails
 
-    return 0
+    return exit_code
 
 
 def main(argv: list[str] | None = None) -> int:

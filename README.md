@@ -45,6 +45,8 @@ For example, important older research can beat a routine new update, while a maj
 
 The bot still controls **draft delivery**, not confirmed publication on X. Quiet hours and daily/per-run delivery caps still apply. If new candidates exist but Gemini is unavailable, retain the queue and retry next run before delivering potentially superseded drafts. Dry runs and candidate inspection do not send messages or save state. A network failure after Telegram accepts a message but before its success is recorded can still cause a retry; Telegram delivery is not transactional with the state file.
 
+A draft Telegram rejects outright (HTTP 400/413: bad markup, an invalid button URL, too long) is retired at once, logged with its article URL, and the next story is tried in the same run, so one bad draft cannot block the queue. Token, chat, rate-limit and server errors (401/403/429/5xx) and network failures leave the draft queued and stop the run; after 6 failed attempts (about 3 hours) the draft is retired as a backstop. A picture Telegram can't fetch, including a timeout, falls back to a text-only draft. Any delivery failure marks the Actions run as failed so it is visible.
+
 ## Sources
 
 | Category | Examples |
@@ -193,6 +195,8 @@ tests/test_queue.py           editorial queue decisions, persistence and recover
 | A run finishes in about 15 seconds | Quiet hours, no new items, or the daily cap was reached. The log says which. |
 | `queue: 0 ready, 0 selected` | No unexpired qualifying drafts are available. |
 | `Gemini unavailable … will retry next run` | Every model was busy. Existing drafts are retained; new items stay unseen and are retried. |
+| `queue retired: … (undeliverable …)` | Telegram rejected that draft. Its article URL is in the log line if you want to post it by hand. |
+| `Telegram delivery failed … attempt n/6` | Telegram or the network was unavailable, or the bot token or chat ID is wrong. The draft stays queued. |
 | `model … not found` | Google retired a model. Update `gemini_fallback_models` from the [models page](https://aistudio.google.com/docs/models). |
 | `feed FAILED` | The site blocked the request or changed its URL. Fix the URL or set `enabled: false`. |
 | No runs at all | Check the external cron job and that its access token hasn't expired. |
