@@ -198,7 +198,11 @@
   "7cbbe0978467f6ea": "2026-11-07T15:07:23.759119+00:00",
   "055e03fe8fc4b1cc": "2026-11-07T15:07:23.759119+00:00",
   "eb20fdeaf759b817": "2026-11-07T15:07:23.759119+00:00",
-  "01ebb04662f29807": "2026-11-07T15:07:23.759119+00:00"
+  "01ebb04662f29807": "2026-11-07T15:07:23.759119+00:00",
+  "b508ad447b2f725e": "2026-11-07T16:07:22.282656+00:00",
+  "fa06ff8fdc83e259": "2026-11-07T16:07:22.282656+00:00",
+  "73be1ddc7ff24f89": "2026-11-07T16:07:22.282656+00:00",
+  "575c2dec8f26ca76": "2026-11-07T16:07:22.282656+00:00"
  },
  "covered": [
   {
@@ -288,11 +292,15 @@
   {
    "headline": "Epoch AI estimates Huawei data center capacity at 7 percent of Colossus 2",
    "ts": "2026-11-07T15:07:23.759119+00:00"
+  },
+  {
+   "headline": "Open and closed AI model cyber capabilities gap",
+   "ts": "2026-11-07T16:07:22.282656+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1257,6 +1265,37 @@
    "desc": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
    "image": "https://media.x.ai/v1/website/enterprise-8d754a35.webp",
    "published": "2024-11-04T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-2": {
+   "title": "Grok-2 Beta Release",
+   "desc": "We announce our new Grok-2 and Grok-2 mini models.",
+   "image": "https://media.x.ai/v1/website/grok-2-3ef8e989.webp",
+   "published": "2024-08-13T00:00:00+00:00"
+  },
+  "https://x.ai/news/series-b": {
+   "title": "Series B funding round",
+   "desc": "xAI is pleased to announce our series B funding round of $6 billion.",
+   "image": "https://media.x.ai/v1/website/funding-4172b5d5.webp",
+   "published": "2024-05-26T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-os": {
+   "title": "Open Release of Grok-1",
+   "desc": "We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1.",
+   "image": "https://media.x.ai/v1/website/default-06ae9dd9.webp",
+   "published": "2024-03-17T00:00:00+00:00"
+  },
+  "https://x.ai/news/prompt-ide": {
+   "title": "Announcing PromptIDE",
+   "desc": "Integrated development environment for prompt engineering and interpretability research.",
+   "image": "https://media.x.ai/v1/website/enterprise-8d754a35.webp",
+   "published": "2023-11-06T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok": {
+   "title": "Announcing Grok",
+   "desc": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
+   "image": "https://media.x.ai/v1/website/grok-1-75591dd5.webp",
+   "published": "2023-11-03T00:00:00+00:00"
   }
- }
+ },
+ "pending": []
 }
