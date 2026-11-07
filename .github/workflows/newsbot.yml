@@ -33,6 +33,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Run bot
+        id: run_bot
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -47,6 +48,8 @@ jobs:
           esac
 
       - name: Save state
+        # Keep queued drafts and successful deliveries even if a later send fails.
+        if: ${{ !cancelled() && steps.run_bot.outcome != 'skipped' && (github.event.inputs.mode == 'normal' || github.event.inputs.mode == '') }}
         run: |
           git config user.name  "agi-pulse-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -7,6 +7,16 @@ settings:
   max_drafts_per_day: 0        # 0 = no daily limit; set a number (e.g. 10) to cap drafts per day
   min_importance: 6            # 1–10; Gemini scores every story, below this is ignored
   lookback_hours: 18           # ignore articles older than this
+  max_pending_stories: 40      # durable queue of qualifying, unsent stories
+  breaking_window_hours: 6     # urgency boost fades after 6h, disappears after 12h
+  waiting_boost_hours: 12      # reach the capped +0.75 waiting boost after 12h
+  story_ttl_hours:             # expire from publication time, or discovery if undated
+    news: 36
+    primary: 48
+    research: 96
+    policy: 72
+    paper: 96
+    model: 168
   max_candidates: 60           # hard item limit, shared by every source type
   max_prompt_chars: 48000       # hard limit for the COMPLETE Gemini prompt, including history
   max_candidates_per_source: 3  # prevents one busy feed from dominating; sources can override

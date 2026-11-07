@@ -16,10 +16,11 @@ An automated AI-news desk. It monitors 55 enabled sources across news outlets, l
 - **Primary sources first:** category reservations and per-source caps prioritize lab announcements while preserving room for research, policy and original reporting. Identical substantive headlines and canonical URLs are collapsed before Gemini.
 - **Bounded Gemini input:** at most 60 candidates and 48,000 characters for the complete prompt, including instructions, history and JSON. No extra model calls for prioritization or summary extraction.
 - **Editorial ranking:** Gemini groups duplicate coverage into one story, scores each story 1–10 and drafts posts only for those above a configurable threshold.
+- **Persistent editorial queue:** qualifying drafts survive missing feed entries and discovery lookback limits. Importance, short-lived urgency, bounded waiting time and story expiry determine the next Telegram draft. Each draft includes a short reason for its selection.
 - **Human in the loop:** drafts go to Telegram with a one-tap **Post on X** button. No X API is used, so there are no API costs and every post is published by a person.
 - **Factual style:** posts are written as plain, wire-service news in one or two sentences, with no opinions, hype or invented details. The rules follow the engagement signals in X's open-source ranking code.
 - **Images:** drafts include the source's preview image, ready to attach to the post.
-- **Resilient:** retries when Gemini is busy, falls back to backup models, skips broken feeds, and never sends the same story twice.
+- **Resilient:** retries when Gemini is busy, falls back to backup models, skips broken feeds, and remembers stories and their duplicate aliases to suppress repeat drafts.
 - **Runs free:** on GitHub Actions (public repository) with Gemini's free tier.
 
 ## How it works
@@ -27,9 +28,22 @@ An automated AI-news desk. It monitors 55 enabled sources across news outlets, l
 Each run (every 30 minutes):
 
 1. **Collect and shortlist:** fetch sources with bounded concurrency, filter by date and keywords, and collapse duplicate URLs and identical substantive headlines. Reserve category slots and rotate across sources, lending unused slots in priority order. Fetch public descriptions only for shortlisted entries that need them, subject to a separate request cap.
-2. **Rank and write:** enforce the complete prompt-size limit, then send one batch to Gemini. Gemini groups remaining paraphrases of the same story, scores importance and writes a post for each qualifying story. Source priority does not give marketing posts an automatic high score.
-3. **Deliver:** send the top story (one per run by default) to Telegram with its picture, the original headline, a character count, and **Post on X** / **Read article** buttons.
-4. **Remember:** save seen items, their duplicate aliases and covered headlines to `state/state.json`. Strong stories held for another run keep all their aliases unseen. Candidates omitted by source, category or prompt limits also remain unseen and can be reconsidered while within their lookback window.
+2. **Rank and write:** enforce the complete prompt-size limit, then send one batch of new items to Gemini, with publication times, the current time and compact context for every queued story. Gemini groups duplicate coverage, assesses importance and urgency, and drafts qualifying stories. It can identify duplicate or explicitly superseded queued stories. Source priority does not give marketing posts an automatic high score.
+3. **Queue and select:** persist qualifying drafts, their sources and aliases, original publication/discovery times and expiry in `state/state.json`. Compare saved stories with new arrivals using the deterministic priority policy below. Cached stories need no further Gemini call when there are no new candidates.
+4. **Deliver and remember:** send the highest-priority story (one per run by default) to Telegram with its picture, headline, selection reason, character count and **Post on X** / **Read article** buttons. Remove a story from the queue only after successful delivery; save after each success. The workflow also saves state after a failed delivery, preserving unsent drafts and earlier successes. Candidates omitted by source, category or prompt limits remain unseen and can be reconsidered within their discovery lookback window.
+
+### How the next story is chosen
+
+Priority = importance (1–10) + urgency boost + waiting boost − age penalty:
+
+- **Urgency:** a dated, major breaking story (importance at least 8) gets +2 during its first 6 hours. Timely stories get +0.5 during their first 12 hours; breaking stories fall to that same boost after 6 hours. All urgency boosts then disappear. Unknown or future publication dates receive no urgency boost.
+- **Waiting:** grows from 0 to +0.75 over 12 hours in the queue, then stops growing. This helps comparable stories without making weak stories important simply because they waited.
+- **Age:** subtracts up to 1 point over the story's lifetime. Ordinary news expires after 36 hours, primary announcements after 48, policy after 72, research/papers after 96 and open-model releases after 168. Expiry starts at publication, or discovery if undated; future dates cannot extend it. Duplicate coverage never restarts the clock.
+- **Ties:** higher importance, then earlier queue entry, then a stable article ID. Expired, explicitly superseded and below-threshold stories are retired. If the queue exceeds 40 stories, retain the highest-priority ones and log the evictions.
+
+For example, important older research can beat a routine new update, while a major breaking announcement can lead and leave that research queued. These weights are editorial defaults, not measured engagement predictions. The lookback controls discovery; queued stories have their own deadlines and remain available even when their feeds no longer list them.
+
+The bot still controls **draft delivery**, not confirmed publication on X. Quiet hours and daily/per-run delivery caps still apply. If new candidates exist but Gemini is unavailable, retain the queue and retry next run before delivering potentially superseded drafts. Dry runs and candidate inspection do not send messages or save state. A network failure after Telegram accepts a message but before its success is recorded can still cause a retry; Telegram delivery is not transactional with the state file.
 
 ## Sources
 
@@ -110,6 +124,10 @@ All settings live in [`config.yaml`](config.yaml).
 | `max_drafts_per_day` | `0` | Daily cap; `0` means no limit. |
 | `min_importance` | `6` | Minimum Gemini score (1–10) for a story to be drafted. |
 | `lookback_hours` | `18` | Ignore items older than this (sources can override it). |
+| `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
+| `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |
+| `waiting_boost_hours` | `12` | Time to reach the capped +0.75 waiting boost. |
+| `story_ttl_hours` | see above | Publication-based expiry for each source category. |
 | `max_candidates` | `60` | Most items sent to Gemini per run. |
 | `max_prompt_chars` | `48000` | Hard limit on the entire serialized prompt, not a token estimate. |
 | `max_candidates_per_source` | `3` | Per-source cap; a feed's `max_candidates` can override it. |
@@ -127,7 +145,7 @@ All settings live in [`config.yaml`](config.yaml).
 
 The default 60 slots reserve **24 for primary announcements, 8 for research/evaluations, 4 for policy, 4 for models, 4 for papers and 16 for reporting**. Within each category, selection rotates across sources. If a category lacks eligible items, its spare slots go to primary sources, policy, research, models, papers and reporting, in that order, without exceeding source caps. Lowering `max_candidates` proportionally scales reservations. The complete prompt limit can further reduce the batch; no discarded item is marked seen merely for exceeding a limit.
 
-The prompt retains at most 40 recent covered headlines, each capped at 180 characters. Longer research abstracts and METR's redaction caveats count toward the same prompt budget. Papers and models no longer automatically consume up to 18 slots ahead of all other news.
+The prompt retains at most 40 recent covered headlines, each capped at 180 characters. All pending-story context, timestamps, longer research abstracts and METR's redaction caveats count toward the same prompt budget. Pending context is kept intact so duplicate and superseding new coverage can be compared against the queue; new candidates are reduced as needed. Raising the queue limit may require raising the prompt budget. Papers and models no longer automatically consume up to 18 slots ahead of all other news.
 
 ### Source types
 
@@ -162,8 +180,9 @@ The test suite runs offline, with fake feeds, a fake Gemini and a fake Telegram.
 ```
 newsbot.py                    the bot: sources, filtering, Gemini, Telegram
 config.yaml                   settings, persona, keywords and sources
-state/state.json              seen items and recent headlines (committed by the workflow)
+state/state.json              seen items, pending drafts and recent headlines (committed by the workflow)
 tests/test_newsbot.py         offline test suite
+tests/test_queue.py           editorial queue decisions, persistence and recovery tests
 .github/workflows/newsbot.yml GitHub Actions workflow
 ```
 
@@ -172,8 +191,8 @@ tests/test_newsbot.py         offline test suite
 | Symptom | Likely cause |
 |---|---|
 | A run finishes in about 15 seconds | Quiet hours, no new items, or the daily cap was reached. The log says which. |
-| `Gemini picked 0 stories` | Nothing scored at or above `min_importance`. |
-| `Gemini unavailable … will retry next run` | Every model was busy. The items stay unseen and are retried. |
+| `queue: 0 ready, 0 selected` | No unexpired qualifying drafts are available. |
+| `Gemini unavailable … will retry next run` | Every model was busy. Existing drafts are retained; new items stay unseen and are retried. |
 | `model … not found` | Google retired a model. Update `gemini_fallback_models` from the [models page](https://aistudio.google.com/docs/models). |
 | `feed FAILED` | The site blocked the request or changed its URL. Fix the URL or set `enabled: false`. |
 | No runs at all | Check the external cron job and that its access token hasn't expired. |
