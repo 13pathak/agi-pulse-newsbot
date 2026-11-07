@@ -179,7 +179,12 @@
   "5d4f7dc67c8873a8": "2026-11-07T13:07:19.812716+00:00",
   "7a62046505075dea": "2026-11-07T13:07:19.812716+00:00",
   "79241398b4994950": "2026-11-07T13:07:19.812716+00:00",
-  "31212707ca79787a": "2026-11-07T13:07:19.812716+00:00"
+  "31212707ca79787a": "2026-11-07T13:07:19.812716+00:00",
+  "4a377ea256e27efd": "2026-11-07T13:37:20.724106+00:00",
+  "c75bfb16cb415abe": "2026-11-07T13:37:20.724106+00:00",
+  "317e2e130bafb150": "2026-11-07T13:37:20.724106+00:00",
+  "ae356485e4197a75": "2026-11-07T13:37:20.724106+00:00",
+  "3e407aae56c89ae9": "2026-11-07T13:37:20.724106+00:00"
  },
  "covered": [
   {
@@ -253,11 +258,15 @@
   {
    "headline": "Nothing to launch screen-free AI hardware next month",
    "ts": "2026-11-07T13:07:19.812716+00:00"
+  },
+  {
+   "headline": "Nous Research strips bias from Alibaba AI model",
+   "ts": "2026-11-07T13:37:20.724106+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -832,6 +841,108 @@
    "desc": "Reflection’s first model, Beam, scores 30 on the Artificial Analysis Intelligence Index, placing it #2 among US open weights models",
    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/5e08c92ba5e4ff7032dfea1572ab0277e454fc22-1079x1079.png?w=1200&auto=format",
    "published": "2026-10-16T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/partnerships-with-indian-states": {
+   "title": "Sovereign AI partnerships with Indian states | Sarvam AI",
+   "desc": "Sarvam partners with Odisha and Tamil Nadu on sovereign AI: compute at scale, Indian-language models, and public-service adoption at population scale.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/c6bde3aacacbad4a0e1e0633f71305eca9677bd2-2400x1800.png",
+   "published": "2026-02-09T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/bulbul-v3": {
+   "title": "Bulbul V3: natural, expressive TTS | Sarvam AI",
+   "desc": "Introducing Bulbul V3, best-in-class Indian text-to-speech with natural, expressive, production-ready voices.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/f1886176a02e480a4b5feafe49f836f70186c9a4-1800x1350.png",
+   "published": "2026-02-07T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-vision": {
+   "title": "Sarvam Vision multimodal document AI | Sarvam AI",
+   "desc": "Sarvam Vision delivers leading performance on global benchmarks with best-in-class accuracy for Indian-language document intelligence.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/a0e1262e6ef765360b2b2b1df18cc2f5818ebbb4-1800x1350.png",
+   "published": "2026-02-05T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-audio": {
+   "title": "Sarvam Audio: speech beyond transcription | Sarvam AI",
+   "desc": "Sarvam Audio uses Sarvam 3B for Indian speech: code-mixed script control, multi-speaker separation, long-context recognition, and five transcription modes.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/ca4060d763b96a07f3954323d7a2f31d98a67f9e-1512x945.png",
+   "published": "2026-02-03T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/building-ai-agents": {
+   "title": "Building AI Agents: A First-Principles Guide | Sarvam AI",
+   "desc": "A first-principles guide to building AI agents: system prompts, tools, skills, memory and domain knowledge, with a worked support-agent example.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/1020011357258ab4e51e44bc32aea95826c4cd25-2160x1360.png",
+   "published": "2026-09-29T09:00:00+00:00"
+  },
+  "https://x.ai/news/grok-imagine-image-2": {
+   "title": "Imagine Image 2.0",
+   "desc": "Precise image generation and editing, built for real creative work.",
+   "image": "https://media.x.ai/v1/website/imagine_image_2-b3560597.jpg",
+   "published": "2026-08-07T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-imagine-video-1-5-references": {
+   "title": "Imagine Video 1.5 with References",
+   "desc": "Our best video model, now with text, image, and voice references — generating up to 1080p.",
+   "image": "https://media.x.ai/v1/website/grok-imagine-video-1-5-references-og-6190893f.webp",
+   "published": "2026-07-31T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-voice-think-fast-2": {
+   "title": "Introducing Grok Voice 2.0",
+   "desc": "Introducing our most capable speech-to-speech voice model.",
+   "image": "https://media.x.ai/v1/website/grok-voice-think-fast-2-19ad1e0b.webp",
+   "published": "2026-07-29T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-build-mode": {
+   "title": "Introducing Build Mode",
+   "desc": "Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android.",
+   "image": "https://media.x.ai/v1/website/grok-build-mode-og-1454d1ce.png",
+   "published": "2026-07-28T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-github-copilot": {
+   "title": "Grok 4.5 in GitHub Copilot",
+   "desc": "Grok 4.5, our smartest coding model, is now available in GitHub Copilot.",
+   "image": "https://media.x.ai/v1/website/og-github-copilot-603406c4.webp",
+   "published": "2026-07-28T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-google-workspace-addon": {
+   "title": "Grok in Google Workspace",
+   "desc": "Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs.",
+   "image": "https://media.x.ai/v1/website/grok-in-google-workspace-og-129ad993.png",
+   "published": "2026-07-24T00:00:00+00:00"
+  },
+  "https://x.ai/news/workflows": {
+   "title": "Workflows in Grok Build",
+   "desc": "Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run.",
+   "image": "https://media.x.ai/v1/website/workflows-og-de52eecb.png",
+   "published": "2026-07-23T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-5-everywhere": {
+   "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
+   "desc": "Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.",
+   "image": "https://media.x.ai/v1/website/grok-4-5-everywhere-og-e052c7ec.png",
+   "published": "2026-07-22T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-outlook-addin": {
+   "title": "Introducing Grok for Outlook",
+   "desc": "Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.",
+   "image": "https://media.x.ai/v1/website/introducing-outlook-addin-og-44242ed8.jpg",
+   "published": "2026-07-21T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-excel-addin": {
+   "title": "Introducing Grok for Excel",
+   "desc": "Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.",
+   "image": "https://media.x.ai/v1/website/introducing-excel-addin-title-746bb775.webp",
+   "published": "2026-07-20T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-5": {
+   "title": "Introducing Grok 4.5",
+   "desc": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
+   "image": "https://media.x.ai/v1/website/grok-4-5-og-786d2a81.png",
+   "published": "2026-07-16T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-automations": {
+   "title": "Automations in Grok",
+   "desc": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
+   "image": "https://media.x.ai/v1/website/grok-automations-og-93199cf4.jpg",
+   "published": "2026-07-16T00:00:00+00:00"
   }
  }
 }
