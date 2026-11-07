@@ -69,7 +69,7 @@ A draft arrives on Telegram, and you have three choices:
 - **Voice not quite you?** Edit the `persona` text. That's where the bot's personality lives.
 - **Add a news source:** copy a feed block and paste in its RSS URL. Use `ai_only: false` for general tech feeds; the keyword filter then keeps only the AI stories.
 - **Links:** posts end with just "via The Hindu", with no link. To add the article link back, set `include_link: true`. The 📖 Read article button on Telegram is always there for you.
-- **Different Gemini model:** add a repo *variable* (not a secret) named `GEMINI_MODEL`, for example `gemini-2.5-flash`.
+- **Different Gemini model:** add a repo *variable* (not a secret) named `GEMINI_MODEL`, for example `gemini-3.6-flash` (current names: https://aistudio.google.com/docs/models).
 
 ## Troubleshooting
 - **No drafts at all:** check the Actions log. "0 new AI items" means everything was already seen; "Gemini picked 0" means nothing passed `min_importance`.

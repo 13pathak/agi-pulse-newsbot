@@ -11,7 +11,9 @@ settings:
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
   include_link: false          # posts end with "via <Outlet>" only; set true to also add the article link
   gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
-  gemini_fallback_model: "gemini-2.5-flash"
+  # Tried in order if the main model is overloaded or retired. Check current names at
+  # https://aistudio.google.com/docs/models when Google retires a model.
+  gemini_fallback_models: ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
 
 # The voice Gemini writes in. Edit freely — this is your account's personality.
 persona: |

@@ -38,7 +38,8 @@ CONFIG = {
     "settings": {"max_drafts_per_run": 3, "max_drafts_per_day": 10, "min_importance": 6,
                  "lookback_hours": 18, "max_candidates": 50,
                  "quiet_hours_ist": ["23:00", "06:30"], "include_link": True,
-                 "gemini_model": "gemini-flash-latest", "gemini_fallback_model": "gemini-2.5-flash"},
+                 "gemini_model": "gemini-flash-latest",
+                 "gemini_fallback_models": ["gemini-3.6-flash", "gemini-3.5-flash-lite"]},
     "persona": "Factual AI news writer.",
     "keywords": ["artificial intelligence", "OpenAI", "Sarvam"],
     "feeds": [
@@ -198,3 +199,36 @@ def test_url_normalization_dedupes_tracking():
     a = newsbot.item_id("https://Site.com/story/?utm_source=x", "t")
     b = newsbot.item_id("https://site.com/story", "t")
     assert a == b
+
+
+def fake_gemini(monkeypatch, replies):
+    """replies: model name -> status code (200 = valid empty answer)."""
+    calls = []
+    ok = {"candidates": [{"content": {"parts": [{"text": '{"picks": []}'}]}}]}
+
+    def post(url, **kw):
+        model = url.split("/models/")[1].split(":")[0]
+        calls.append(model)
+        return Resp(payload=ok) if replies[model] == 200 else Resp(status=replies[model])
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    monkeypatch.setattr(newsbot.time, "sleep", lambda s: None)
+    return calls
+
+
+def test_gemini_skips_overloaded_and_retired_models(monkeypatch):
+    calls = fake_gemini(monkeypatch, {"main": 503, "retired": 404, "good": 200})
+    assert newsbot.call_gemini("p", "k", ["main", "retired", "good"]) == {"picks": []}
+    assert calls == ["main", "main", "retired", "good"]   # 2 tries on main, 1 on each backup
+
+
+def test_gemini_busy_everywhere_means_try_next_run(monkeypatch):
+    fake_gemini(monkeypatch, {"main": 503, "retired": 404})
+    with pytest.raises(newsbot.GeminiUnavailable):
+        newsbot.call_gemini("p", "k", ["main", "retired"])
+
+
+def test_gemini_all_models_retired_fails_loudly(monkeypatch):
+    fake_gemini(monkeypatch, {"old1": 404, "old2": 404})
+    with pytest.raises(RuntimeError, match="none of the configured Gemini models exist"):
+        newsbot.call_gemini("p", "k", ["old1", "old2", "old1", None])

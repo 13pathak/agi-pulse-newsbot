@@ -287,10 +287,10 @@ class GeminiUnavailable(Exception):
     """Gemini was slow or overloaded; safe to try again on the next run."""
 
 
-def _post_gemini(url: str, body: dict, api_key: str, model: str) -> requests.Response:
-    """Two tries at one model. Raises GeminiUnavailable on timeouts / overload."""
+def _post_gemini(url: str, body: dict, api_key: str, model: str, tries: int) -> requests.Response:
+    """Up to `tries` attempts at one model. Raises GeminiUnavailable on timeouts / overload."""
     last = ""
-    for attempt in range(2):
+    for attempt in range(tries):
         try:
             r = requests.post(url, json=body, timeout=(10, 90),
                               headers={"x-goog-api-key": api_key})
@@ -300,28 +300,37 @@ def _post_gemini(url: str, body: dict, api_key: str, model: str) -> requests.Res
             if r.status_code not in TRANSIENT_STATUS:
                 return r
             last = f"HTTP {r.status_code}"
-        if attempt == 0:
+        if attempt < tries - 1:
             log.warning("Gemini %s (%s), retrying in 15s", model, last)
             time.sleep(15)
     raise GeminiUnavailable(f"{model}: {last}")
 
 
-def call_gemini(prompt: str, api_key: str, model: str, fallback: str | None = None) -> dict:
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+def call_gemini(prompt: str, api_key: str, models: list[str]) -> dict:
+    """Try each model in order. The first gets two tries, backups one each, so the
+    worst case (~6 min) stays inside the workflow's 10-minute limit."""
     body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.8}}
-    use_fallback = fallback and fallback != model
-    try:
-        r = _post_gemini(url, body, api_key, model)
-    except GeminiUnavailable as e:
-        if not use_fallback:
-            raise
-        log.warning("%s; falling back to %s", e, fallback)
-        return call_gemini(prompt, api_key, fallback, None)
-    if r.status_code == 404 and use_fallback:
-        log.warning("model %s not found, falling back to %s", model, fallback)
-        return call_gemini(prompt, api_key, fallback, None)
-    r.raise_for_status()
+    models = list(dict.fromkeys(m for m in models if m))  # drop blanks and repeats
+    problems, missing = [], []
+    for i, model in enumerate(models):
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        try:
+            r = _post_gemini(url, body, api_key, model, tries=2 if i == 0 else 1)
+        except GeminiUnavailable as e:
+            problems.append(str(e))
+            log.warning("%s; trying the next model", e)
+            continue
+        if r.status_code == 404:
+            missing.append(model)
+            log.warning("Gemini model %s not found (retired or misspelled) — update config.yaml", model)
+            continue
+        r.raise_for_status()
+        break
+    else:
+        if missing and not problems:
+            raise RuntimeError(f"none of the configured Gemini models exist: {', '.join(missing)}")
+        raise GeminiUnavailable("; ".join(problems + [f"{m}: not found" for m in missing]))
     data = r.json()
     parts = data["candidates"][0]["content"]["parts"]
     text = "".join(p.get("text", "") for p in parts).strip()
@@ -422,9 +431,9 @@ def run(dry_run: bool = False, now: datetime | None = None,
         log.error("GEMINI_API_KEY is not set")
         return 1
     model = os.environ.get("GEMINI_MODEL") or s.get("gemini_model", "gemini-flash-latest")
+    fallbacks = s.get("gemini_fallback_models") or [s.get("gemini_fallback_model")]
     try:
-        result = call_gemini(build_prompt(config, state, cands), api_key, model,
-                             s.get("gemini_fallback_model"))
+        result = call_gemini(build_prompt(config, state, cands), api_key, [model, *fallbacks])
     except GeminiUnavailable as e:
         log.warning("Gemini unavailable (%s) — nothing sent; will retry next run", e)
         return 0
