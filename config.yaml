@@ -117,6 +117,22 @@ feeds:
     url: https://www.cnbc.com/id/19854910/device/rss/rss.html
     ai_only: false
     images: true
+  - name: Business Insider
+    url: https://feeds.businessinsider.com/custom/all
+    ai_only: false
+    images: true
+  - name: The Information      # scoops; paywalled, but the RSS headline + blurb is enough
+    url: https://www.theinformation.com/feed
+    ai_only: false
+    images: true
+  - name: South China Morning Post   # China's AI race (DeepSeek, Qwen, Kimi)
+    url: https://www.scmp.com/rss/36/feed
+    ai_only: false
+    images: true
+  - name: Tom's Hardware       # chips, GPUs, data centres
+    url: https://www.tomshardware.com/feeds/all
+    ai_only: false
+    images: true
 
   # Indian press
   - name: The Hindu
@@ -152,6 +168,10 @@ feeds:
     url: https://www.medianama.com/feed/
     ai_only: false
     images: true
+  - name: India Today
+    url: https://www.indiatoday.in/rss/1206688
+    ai_only: false
+    images: true
 
   # Straight from the labs (often hours ahead of the newspapers).
   # images: true = the draft comes with the post's picture to attach on X.
@@ -184,6 +204,14 @@ feeds:
     url: https://blogs.nvidia.com/feed/
     ai_only: true
     images: true
+  - name: Microsoft
+    url: https://news.microsoft.com/source/feed/
+    ai_only: false
+    images: true
+  - name: Simon Willison       # fast, reliable notes on new model releases
+    url: https://simonwillison.net/atom/everything/
+    ai_only: false
+    images: false              # his posts rarely have a useful picture
 
   # Research: arXiv papers the community upvoted on Hugging Face Daily Papers.
   # Gemini sees only the abstract. Raise min_upvotes for fewer, bigger papers.
@@ -196,3 +224,19 @@ feeds:
     lookback_hours: 48    # votes build up over a day, so look back further than news
     blurb_chars: 1500     # pass the whole abstract
     images: true          # Hugging Face's preview card for the paper
+
+  # New open models: models from major labs trending on Hugging Face, often the
+  # first sign of a release (hours before the press). Gemini reads the model card.
+  - name: Hugging Face Models
+    type: hf_models
+    url: https://huggingface.co/api/models
+    ai_only: true
+    max_age_days: 7       # only models created in the last week
+    lookback_hours: 168
+    max_items: 8
+    blurb_chars: 1200
+    images: true
+    orgs: [openai, google, meta-llama, facebook, microsoft, nvidia, apple, mistralai,
+           deepseek-ai, Qwen, moonshotai, zai-org, MiniMaxAI, tencent, baidu, xai-org,
+           CohereLabs, allenai, ibm-granite, stabilityai, black-forest-labs, Lightricks,
+           sarvamai, ai4bharat, krutrim-ai-labs]

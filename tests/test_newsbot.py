@@ -373,3 +373,36 @@ def test_picture_failure_falls_back_to_text(monkeypatch):
     monkeypatch.setattr(newsbot.requests, "post", post)
     newsbot.send_telegram("t", "1", "draft", [], photo="https://bad.test/x.png")
     assert calls == ["sendPhoto", "sendMessage"]
+
+
+def test_hf_models_keeps_new_releases_from_major_labs(monkeypatch):
+    fresh = (datetime.now(timezone.utc)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    listing = [
+        {"id": "Qwen/Qwen4-72B", "author": "Qwen", "createdAt": fresh, "likes": 900,
+         "trendingScore": 500, "pipeline_tag": "text-generation"},
+        {"id": "Qwen/Qwen4-72B-FP8", "author": "Qwen", "createdAt": fresh, "trendingScore": 400},   # re-packaged
+        {"id": "randomuser/cool-model", "author": "randomuser", "createdAt": fresh, "trendingScore": 900},
+        {"id": "google/old-model", "author": "google", "createdAt": "2025-01-01T00:00:00.000Z", "trendingScore": 300},
+    ]
+    fetched = []
+
+    def get(url, **kw):
+        fetched.append(url)
+        if "raw/main/README.md" in url:
+            return Resp(content=b"---\nlicense: apache-2.0\n---\n# Qwen4-72B\n![logo](x.png)\nA 72B model that "
+                                b"tops [MMLU](https://x) at 91.2.\n| a | b |\n")
+        return Resp(payload=listing)
+
+    monkeypatch.setattr(newsbot.requests, "get", get)
+    feed = {"name": "Hugging Face Models", "type": "hf_models", "url": "https://hf.test/api/models",
+            "orgs": ["qwen", "google"], "max_age_days": 7}
+    cache = {}
+    items = newsbot.fetch_feed(feed, cache)
+    assert [i["title"] for i in items] == ["Qwen releases Qwen4-72B on Hugging Face"]
+    it = items[0]
+    assert it["kind"] == "model" and it["url"] == "https://huggingface.co/Qwen/Qwen4-72B"
+    assert "tops MMLU at 91.2" in it["snippet"] and "license" not in it["snippet"] and "logo" not in it["snippet"]
+    assert it["image"].endswith("/models/Qwen/Qwen4-72B.png")
+    fetched.clear()
+    newsbot.fetch_feed(feed, cache)
+    assert not any("README" in u for u in fetched)                     # card read only once

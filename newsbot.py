@@ -266,9 +266,69 @@ def fetch_page_list(feed: dict, cache: dict) -> list[dict]:
     return items
 
 
+REPACKAGED = re.compile(r"gguf|awq|gptq|fp8|fp4|nvfp4|mlx|exl2|bnb|int4|int8|4bit|8bit|quant|uncensored|abliterated",
+                        re.IGNORECASE)
+
+
+def model_card_excerpt(model_id: str, limit: int) -> str:
+    """Plain-text start of a model's README, without front matter, images, tables or HTML."""
+    try:
+        r = requests.get(f"https://huggingface.co/{model_id}/raw/main/README.md",
+                         headers={"User-Agent": USER_AGENT}, timeout=15)
+        text = r.text if r.ok else ""
+    except requests.RequestException:
+        text = ""
+    text = re.sub(r"\A---.*?---", " ", text, flags=re.DOTALL)        # YAML front matter
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", text)                 # images
+    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)              # links -> text
+    text = re.sub(r"^\s*\|.*$", " ", text, flags=re.MULTILINE)        # tables
+    text = re.sub(r"<!--.*?-->|<[^>]+>", " ", text, flags=re.DOTALL)  # HTML, before stripping ">"
+    text = re.sub(r"[#>*`_]+", " ", text)
+    return clean_text(text, limit)
+
+
+def fetch_hf_models(feed: dict, cache: dict) -> list[dict]:
+    """New models from major labs that are trending on Hugging Face (often the first
+    sign of an open-model release). Skips re-packaged copies and other uploaders."""
+    resp = requests.get(feed["url"], params={"sort": "trendingScore", "limit": 100},
+                        headers={"User-Agent": USER_AGENT}, timeout=20)
+    resp.raise_for_status()
+    orgs = {o.lower() for o in feed.get("orgs", [])}
+    newest = datetime.now(timezone.utc) - timedelta(days=feed.get("max_age_days", 7))
+    items = []
+    for m in resp.json():
+        mid, author = m.get("id", ""), (m.get("author") or m.get("id", "").split("/")[0])
+        created = m.get("createdAt")
+        if author.lower() not in orgs or not created or REPACKAGED.search(mid):
+            continue
+        published = datetime.fromisoformat(created.replace("Z", "+00:00"))
+        if published < newest:
+            continue
+        url = f"https://huggingface.co/{mid}"
+        if url not in cache:   # read each model card once
+            cache[url] = {"card": model_card_excerpt(mid, feed.get("blurb_chars", 1200))}
+        name = mid.split("/", 1)[1]
+        items.append({
+            "id": item_id(url, mid),
+            "title": f"{author} releases {name} on Hugging Face",
+            "url": url,
+            "source": feed["name"],
+            "kind": "model",
+            "snippet": (f"Open model {mid} by {author}. Task: {m.get('pipeline_tag') or 'unspecified'}. "
+                        f"Likes: {m.get('likes', 0)}. Model card: {cache[url].get('card', '')}"),
+            "published": published,
+            "trend": m.get("trendingScore", 0),
+            "image": f"https://cdn-thumbnails.huggingface.co/social-thumbnails/models/{mid}.png",
+        })
+    items.sort(key=lambda x: x["trend"], reverse=True)
+    return items[: feed.get("max_items", 8)]
+
+
 def fetch_feed(feed: dict, cache: dict | None = None) -> list[dict]:
     if feed.get("type") == "hf_papers":
         return fetch_hf_papers(feed)
+    if feed.get("type") == "hf_models":
+        return fetch_hf_models(feed, {} if cache is None else cache)
     if feed.get("type") == "page_list":
         return fetch_page_list(feed, {} if cache is None else cache)
     resp = requests.get(feed["url"], headers={"User-Agent": USER_AGENT}, timeout=20)
@@ -328,8 +388,10 @@ def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
     # compete with the newest news for the max_candidates slots.
     papers = sorted((i for i in fresh if i.get("kind") == "paper"),
                     key=lambda i: i.get("upvotes", 0), reverse=True)
-    news = [i for i in fresh if i.get("kind") != "paper"]
-    return (papers + news)[: s["max_candidates"]]
+    models = [i for i in fresh if i.get("kind") == "model"]   # already capped, trend order
+    models.sort(key=lambda i: i.get("trend", 0), reverse=True)
+    news = [i for i in fresh if i.get("kind") not in ("paper", "model")]
+    return (papers + models + news)[: s["max_candidates"]]
 
 
 # ───────────────────────── 2. Gemini ─────────────────────────
@@ -354,6 +416,10 @@ feed's short blurb). Do three things:
    from a major lab or with a striking, concrete result that non-researchers
    would care about (a new capability, a big jump on a well-known benchmark, a
    much cheaper or faster method, a safety finding).
+   Open models (items with "kind": "model"; the blurb is the start of its model
+   card): a new flagship open model from a major lab is 7–9; a small variant,
+   a fine-tune or an update with nothing notable in the card is 4–5. Several
+   sizes or variants of one release are the SAME story: group them.
    Skip any story that is essentially the same as one in ALREADY COVERED.
 3. For every story scoring {min_importance} or more, write ONE X post.
 
@@ -389,6 +455,12 @@ PAPER POSTS (items with "kind": "paper")
 - Do not call it a breakthrough, and do not say it is released, available or
   in products unless the abstract says so. No jargon without a plain meaning.
 
+MODEL POSTS (items with "kind": "model")
+- Start with "<Lab> released <model name>" as open weights on Hugging Face.
+  Add only facts stated in the model card: size, what it does, a benchmark
+  result, the license, languages. Never guess numbers the card doesn't give.
+- If the card says almost nothing, keep the post to the release itself.
+
 ALREADY COVERED (last 48 h):
 {covered}
 
@@ -404,7 +476,7 @@ Order picks from most to least important. Return {{"picks": []}} if nothing qual
 
 def build_prompt(config: dict, state: dict, cands: list[dict]) -> str:
     items = [{"id": f"c{i}", "source": c["source"], "title": c["title"],
-              "blurb": c["snippet"], **({"kind": "paper"} if c.get("kind") == "paper" else {})}
+              "blurb": c["snippet"], **({"kind": c["kind"]} if c.get("kind") else {})}
              for i, c in enumerate(cands)]
     covered = "\n".join(f"- {c['headline']}" for c in state["covered"]) or "(none)"
     return PROMPT.format(persona=config["persona"].strip(),
