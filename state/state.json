@@ -150,7 +150,9 @@
   "4925a1c371515cbe": "2026-11-07T11:37:18.945252+00:00",
   "21cf97eeaf11ae09": "2026-11-07T11:37:18.945252+00:00",
   "478157bf7c2685a6": "2026-11-07T11:37:18.945252+00:00",
-  "a8bcd41fa2ba378c": "2026-11-07T11:37:18.945252+00:00"
+  "a8bcd41fa2ba378c": "2026-11-07T11:37:18.945252+00:00",
+  "9d4ac7819e67df67": "2026-11-07T12:07:23.193307+00:00",
+  "4392e68dfcfa99ba": "2026-11-07T12:07:23.193307+00:00"
  },
  "covered": [
   {
@@ -212,11 +214,15 @@
   {
    "headline": "OpenAI employee pleads not guilty to office bugging",
    "ts": "2026-11-07T11:37:18.945252+00:00"
+  },
+  {
+   "headline": "Google AI detects high blood pressure via smartwatches",
+   "ts": "2026-11-07T12:07:23.193307+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
