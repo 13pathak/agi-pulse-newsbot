@@ -239,3 +239,55 @@ def test_gemini_all_models_retired_fails_loudly(monkeypatch):
     fake_gemini(monkeypatch, {"old1": 404, "old2": 404})
     with pytest.raises(RuntimeError, match="none of the configured Gemini models exist"):
         newsbot.call_gemini("p", "k", ["old1", "old2", "old1", None])
+
+
+HF_PAYLOAD = [
+    {"publishedAt": "2026-11-06T05:00:00.000Z",
+     "paper": {"id": "2611.00001", "title": "Tiny Model Beats Giant", "upvotes": 85,
+               "submittedOnDailyAt": "2026-11-06T00:00:00.000Z",
+               "summary": "We show a 1B model matches a 70B model on MATH. " * 40,
+               "organization": {"fullname": "Google"}}},
+    {"publishedAt": "2026-11-06T05:00:00.000Z",
+     "paper": {"id": "2611.00002", "title": "Niche Result", "upvotes": 3, "summary": "Minor."}},
+    {"publishedAt": "2026-11-06T04:00:00.000Z",
+     "paper": {"id": "2611.00003", "title": "Solid Agent Paper", "upvotes": 40, "summary": "Agents."}},
+]
+
+
+def test_hf_papers_filters_by_upvotes_and_keeps_abstract(monkeypatch):
+    calls = []
+
+    def get(url, params=None, **kw):     # same paper listed on two days must appear once
+        calls.append(params["date"])
+        return Resp(payload=HF_PAYLOAD if len(calls) % 3 != 0 else [])
+
+    monkeypatch.setattr(newsbot.requests, "get", get)
+    feed = {"name": "Hugging Face Papers", "type": "hf_papers", "url": "https://hf.test/api",
+            "min_upvotes": 20, "max_items": 10, "blurb_chars": 1500}
+    items = newsbot.fetch_feed(feed)
+    assert [i["title"] for i in items] == ["Tiny Model Beats Giant", "Solid Agent Paper"]
+    top = items[0]
+    assert top["url"] == "https://arxiv.org/abs/2611.00001" and top["kind"] == "paper"
+    assert top["snippet"].startswith("Lab: Google. Upvotes: 85. Abstract: We show")
+    assert 1400 < len(top["snippet"]) < 1600          # whole abstract up to blurb_chars, not 400
+    assert top["published"] == datetime(2026, 11, 6, 0, 0, tzinfo=timezone.utc)   # listing date wins
+    assert len(calls) == 3 and len(set(calls)) == 3      # today + 2 days back, by date
+    feed["max_items"] = 1
+    assert len(newsbot.fetch_feed(feed)) == 1
+
+
+def test_papers_reach_gemini_marked_as_papers(env, monkeypatch):
+    import yaml
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["feeds"].append({"name": "Hugging Face Papers", "type": "hf_papers", "url": "https://hf.test/api",
+                         "ai_only": True, "min_upvotes": 20, "lookback_hours": 48})
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+    news_get = newsbot.requests.get
+    monkeypatch.setattr(newsbot.requests, "get",
+                        lambda url, **kw: Resp(payload=HF_PAYLOAD) if url == "https://hf.test/api" else news_get(url, **kw))
+    monkeypatch.setattr(newsbot, "datetime", type("D", (datetime,), {"now": staticmethod(lambda tz=None: NOW)}))
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    items = json.loads(env["prompts"][0].split("ITEMS:\n")[1].split("\n\nReply with")[0])
+    papers = [i for i in items if i.get("kind") == "paper"]
+    assert [p["title"] for p in papers] == ["Tiny Model Beats Giant", "Solid Agent Paper"]
+    assert all("kind" not in i for i in items if i["source"] != "Hugging Face Papers")

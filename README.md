@@ -68,13 +68,14 @@ A draft arrives on Telegram, and you have three choices:
 - **Too few?** Lower `min_importance` to 5.
 - **Voice not quite you?** Edit the `persona` text. That's where the bot's personality lives.
 - **Add a news source:** copy a feed block and paste in its RSS URL. Use `ai_only: false` for general tech feeds; the keyword filter then keeps only the AI stories.
+- **Research papers:** the `Hugging Face Papers` source brings in arXiv papers the community upvoted on Hugging Face Daily Papers. Gemini sees only each paper's abstract, and paper posts start with "New paper:" or "Researchers at <lab>". Raise `min_upvotes` (default 20) for fewer, bigger papers, or set `enabled: false` to switch papers off.
 - **Source credit and links:** posts have no "via The Hindu" credit and no link. Set `show_source: true` to add the credit, or `include_link: true` to add the article link. The 📖 Read article button on Telegram is always there for you.
 - **Different Gemini model:** add a repo *variable* (not a secret) named `GEMINI_MODEL`, for example `gemini-3.6-flash` (current names: https://aistudio.google.com/docs/models).
 
 ## Troubleshooting
 - **No drafts at all:** check the Actions log. "0 new AI items" means everything was already seen; "Gemini picked 0" means nothing passed `min_importance`.
 - **GitHub emails you that the workflow failed:** open the log. The usual causes are a mistyped secret or Gemini rate limits (it retries on its own; one failed run is harmless).
-- **Scheduled runs sometimes start 10–20 minutes late:** that's GitHub being GitHub, not the bot.
+- **Runs stop happening:** runs are started by a cron-job.org timer through GitHub's API. Check that the job is still enabled there and that its GitHub token hasn't expired.
 - **Run it on your own PC:** `pip install -r requirements.txt`, set the three environment variables, then `python newsbot.py --dry-run`.
 
 ## Ground rules the bot follows

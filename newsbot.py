@@ -162,7 +162,46 @@ def compose_post(body: str, source: str, url: str, include_link: bool,
 
 # ───────────────────────── 1. fetch feeds ─────────────────────────
 
+def fetch_hf_papers(feed: dict) -> list[dict]:
+    """Hugging Face Daily Papers: community-upvoted arXiv papers, with full abstracts.
+    Only papers with at least `min_upvotes` votes, the `max_items` most upvoted.
+    The undated list isn't newest-first, so ask for each of the last few days by date."""
+    today = datetime.now(timezone.utc).date()
+    entries = []
+    for back in range(feed.get("days", 3)):
+        resp = requests.get(feed["url"], params={"date": (today - timedelta(days=back)).isoformat(), "limit": 100},
+                            headers={"User-Agent": USER_AGENT}, timeout=20)
+        resp.raise_for_status()
+        entries += resp.json()
+    papers, seen_ids = [], set()
+    for entry in entries:
+        p = entry.get("paper") or {}
+        title, pid, upvotes = clean_text(p.get("title", ""), 300), p.get("id"), int(p.get("upvotes") or 0)
+        if not title or not pid or pid in seen_ids or upvotes < feed.get("min_upvotes", 0):
+            continue
+        seen_ids.add(pid)
+        # when it was listed on Daily Papers (not when it hit arXiv)
+        when = p.get("submittedOnDailyAt") or entry.get("publishedAt") or p.get("publishedAt")
+        org = (p.get("organization") or entry.get("organization") or {}).get("fullname", "")
+        abstract = clean_text(p.get("summary", ""), feed.get("blurb_chars", 1500))
+        link = f"https://arxiv.org/abs/{pid}"
+        papers.append({
+            "id": item_id(link, title),
+            "title": title,
+            "url": link,
+            "source": feed["name"],
+            "kind": "paper",
+            "snippet": (f"Lab: {org}. " if org else "") + f"Upvotes: {upvotes}. Abstract: {abstract}",
+            "published": datetime.fromisoformat(when.replace("Z", "+00:00")) if when else None,
+            "upvotes": upvotes,
+        })
+    papers.sort(key=lambda x: x["upvotes"], reverse=True)
+    return papers[: feed.get("max_items", 10)]
+
+
 def fetch_feed(feed: dict) -> list[dict]:
+    if feed.get("type") == "hf_papers":
+        return fetch_hf_papers(feed)
     resp = requests.get(feed["url"], headers={"User-Agent": USER_AGENT}, timeout=20)
     resp.raise_for_status()
     parsed = feedparser.parse(resp.content)
@@ -181,7 +220,8 @@ def fetch_feed(feed: dict) -> list[dict]:
             "title": title,
             "url": link,
             "source": feed["name"],
-            "snippet": clean_text(e.get("summary", "") or e.get("description", "")),
+            "snippet": clean_text(e.get("summary", "") or e.get("description", ""),
+                                  feed.get("blurb_chars", 400)),
             "published": published,
         })
     return items
@@ -190,11 +230,11 @@ def fetch_feed(feed: dict) -> list[dict]:
 def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
     s = config["settings"]
     kw = build_keyword_regex(config.get("keywords", []))
-    cutoff = now - timedelta(hours=s["lookback_hours"])
     fresh, ids = [], set()
     for feed in config["feeds"]:
         if feed.get("enabled", True) is False:
             continue
+        cutoff = now - timedelta(hours=feed.get("lookback_hours", s["lookback_hours"]))
         try:
             items = fetch_feed(feed)
             log.info("feed OK     %-26s %3d items", feed["name"], len(items))
@@ -211,7 +251,12 @@ def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
             ids.add(it["id"])
             fresh.append(it)
     fresh.sort(key=lambda i: i["published"] or now, reverse=True)
-    return fresh[: s["max_candidates"]]
+    # Papers are already capped per feed and can be up to 48 h old, so they don't
+    # compete with the newest news for the max_candidates slots.
+    papers = sorted((i for i in fresh if i.get("kind") == "paper"),
+                    key=lambda i: i.get("upvotes", 0), reverse=True)
+    news = [i for i in fresh if i.get("kind") != "paper"]
+    return (papers + news)[: s["max_candidates"]]
 
 
 # ───────────────────────── 2. Gemini ─────────────────────────
@@ -231,6 +276,11 @@ feed's short blurb). Do three things:
    1–4  = opinion columns, listicles, how-tos, shopping deals, podcasts,
           sponsored posts, minor updates
    Add +1 for India-specific AI news (we have an Indian audience).
+   Research papers (items with "kind": "paper"; the blurb is the abstract, its
+   lab and its community upvotes): most papers are 4–6. Give 7–8 only to a paper
+   from a major lab or with a striking, concrete result that non-researchers
+   would care about (a new capability, a big jump on a well-known benchmark, a
+   much cheaper or faster method, a safety finding).
    Skip any story that is essentially the same as one in ALREADY COVERED.
 3. For every story scoring {min_importance} or more, write ONE X post.
 
@@ -257,6 +307,15 @@ interested", mute or report)
 - No hashtags, no emojis, no @mentions.
 - Do NOT include any link, source credit or outlet name as a credit ("via …").
 
+PAPER POSTS (items with "kind": "paper")
+- Base the post ONLY on the abstract in the blurb. Explain it in plain English
+  for a non-researcher: what the researchers built or found, and the headline
+  result with its number if the abstract gives one.
+- Start with "New paper:" or, if a lab is named, "Researchers at <lab>". Name
+  the model or method if it has a name.
+- Do not call it a breakthrough, and do not say it is released, available or
+  in products unless the abstract says so. No jargon without a plain meaning.
+
 ALREADY COVERED (last 48 h):
 {covered}
 
@@ -272,7 +331,8 @@ Order picks from most to least important. Return {{"picks": []}} if nothing qual
 
 def build_prompt(config: dict, state: dict, cands: list[dict]) -> str:
     items = [{"id": f"c{i}", "source": c["source"], "title": c["title"],
-              "blurb": c["snippet"]} for i, c in enumerate(cands)]
+              "blurb": c["snippet"], **({"kind": "paper"} if c.get("kind") == "paper" else {})}
+             for i, c in enumerate(cands)]
     covered = "\n".join(f"- {c['headline']}" for c in state["covered"]) or "(none)"
     return PROMPT.format(persona=config["persona"].strip(),
                          min_importance=config["settings"]["min_importance"],
@@ -390,6 +450,9 @@ def send_telegram(token: str, chat_id: str, text: str, buttons: list[list[dict]]
 def check_feeds(config: dict) -> int:
     bad = 0
     for feed in config["feeds"]:
+        if feed.get("enabled", True) is False:
+            print(f"OFF     {feed['name']}")
+            continue
         try:
             items = fetch_feed(feed)
             newest = max((i["published"] for i in items if i["published"]), default=None)

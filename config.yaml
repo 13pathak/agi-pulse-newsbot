@@ -7,7 +7,7 @@ settings:
   max_drafts_per_day: 10       # daily ceiling so your phone doesn't become a slot machine
   min_importance: 6            # 1–10; Gemini scores every story, below this is ignored
   lookback_hours: 18           # ignore articles older than this
-  max_candidates: 50           # newest N unseen articles sent to Gemini per run
+  max_candidates: 60           # newest N unseen articles (plus papers) sent to Gemini per run
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
   show_source: false           # true = end posts with "via <Outlet>"
   include_link: false          # true = end posts with the article link
@@ -85,6 +85,24 @@ feeds:
   - name: VentureBeat
     url: https://venturebeat.com/category/ai/feed/
     ai_only: true
+    enabled: false   # blocks GitHub's servers (429 Too Many Requests)
+  - name: The Decoder
+    url: https://the-decoder.com/feed/
+    ai_only: true
+  - name: The Guardian
+    url: https://www.theguardian.com/technology/artificialintelligenceai/rss
+    ai_only: true
+
+  # Business and markets press (paywalled, but RSS headline + blurb is enough)
+  - name: Bloomberg
+    url: https://feeds.bloomberg.com/technology/news.rss
+    ai_only: false
+  - name: Financial Times
+    url: https://www.ft.com/technology?format=rss
+    ai_only: false
+  - name: CNBC
+    url: https://www.cnbc.com/id/19854910/device/rss/rss.html
+    ai_only: false
 
   # Indian press
   - name: The Hindu
@@ -93,8 +111,24 @@ feeds:
   - name: The Indian Express
     url: https://indianexpress.com/section/technology/feed/
     ai_only: false
+    enabled: false   # blocks GitHub's servers (403 Forbidden)
   - name: Analytics India Magazine
     url: https://analyticsindiamag.com/feed/
+    ai_only: false
+  - name: The Economic Times
+    url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+    ai_only: false
+  - name: Mint
+    url: https://www.livemint.com/rss/technology
+    ai_only: false
+  - name: Inc42
+    url: https://inc42.com/feed/
+    ai_only: false
+  - name: YourStory
+    url: https://yourstory.com/feed
+    ai_only: false
+  - name: MediaNama
+    url: https://www.medianama.com/feed/
     ai_only: false
 
   # Straight from the labs (often hours ahead of the newspapers)
@@ -110,3 +144,17 @@ feeds:
   - name: Hugging Face
     url: https://huggingface.co/blog/feed.xml
     ai_only: true
+  - name: NVIDIA
+    url: https://blogs.nvidia.com/feed/
+    ai_only: true
+
+  # Research: arXiv papers the community upvoted on Hugging Face Daily Papers.
+  # Gemini sees only the abstract. Raise min_upvotes for fewer, bigger papers.
+  - name: Hugging Face Papers
+    type: hf_papers
+    url: https://huggingface.co/api/daily_papers   # asked for each of the last 3 days by date
+    ai_only: true
+    min_upvotes: 20       # skip papers with fewer community votes
+    max_items: 10         # at most this many papers per run (most upvoted first)
+    lookback_hours: 48    # votes build up over a day, so look back further than news
+    blurb_chars: 1500     # pass the whole abstract
