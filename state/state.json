@@ -1185,6 +1185,78 @@
    "desc": "Bringing the next generation of tool-calling agents to the xAI API",
    "image": "https://media.x.ai/v1/website/grok-4-1-fast-api-e43bcc8c.webp",
    "published": "2025-11-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-goes-global": {
+   "title": "Grok goes Global with KSA",
+   "desc": "Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN",
+   "image": "https://media.x.ai/v1/website/grok-goes-global-350affea.webp",
+   "published": "2025-11-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-1": {
+   "title": "Grok 4.1",
+   "desc": "Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model picker.",
+   "image": "https://media.x.ai/v1/website/grok-4-1-27413c83.webp",
+   "published": "2025-11-17T00:00:00+00:00"
+  },
+  "https://x.ai/news/onegov": {
+   "title": "Expanding xAI for Government with GSA OneGov",
+   "desc": "Expanding ‘xAI For Government’ with more accessible AI tools for the Federal Government",
+   "image": "https://media.x.ai/v1/website/gov-f49a723d.webp",
+   "published": "2025-09-25T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-fast": {
+   "title": "Grok 4 Fast",
+   "desc": "Pushing the Frontier of Cost-Efficient Intelligence",
+   "image": "https://media.x.ai/v1/website/grok-4-fast-8c8d3e84.webp",
+   "published": "2025-09-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-code-fast-1": {
+   "title": "Grok Code Fast 1",
+   "desc": "We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding.",
+   "image": "https://media.x.ai/v1/website/grok-code-fast-32a61c44.webp",
+   "published": "2025-08-28T00:00:00+00:00"
+  },
+  "https://x.ai/news/government": {
+   "title": "Announcing xAI for Government",
+   "desc": "We are excited to announce xAI For Government – a suite of frontier AI products available first to United States Government customers.",
+   "image": "https://media.x.ai/v1/website/gov-f49a723d.webp",
+   "published": "2025-07-14T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4": {
+   "title": "Grok 4",
+   "desc": "Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also introducing a new SuperGrok Heavy tier with access to Grok 4 Heavy - the most powerful version of Grok 4.",
+   "image": "https://media.x.ai/v1/website/grok-4-6bdb0520.webp",
+   "published": "2025-07-09T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-3": {
+   "title": "Grok 3 Beta — The Age of Reasoning Agents",
+   "desc": "We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge.",
+   "image": "https://media.x.ai/v1/website/grok-3-327b0918.webp",
+   "published": "2025-02-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/series-c": {
+   "title": "xAI raises $6B Series C",
+   "desc": "We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.",
+   "image": "https://media.x.ai/v1/website/funding-4172b5d5.webp",
+   "published": "2024-12-23T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-1212": {
+   "title": "Bringing Grok to Everyone",
+   "desc": "Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.",
+   "image": "https://media.x.ai/v1/website/grok-2-3ef8e989.webp",
+   "published": "2024-12-12T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-image-generation-release": {
+   "title": "Grok Image Generation Release",
+   "desc": "We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the 𝕏 platform.",
+   "image": "https://media.x.ai/v1/website/default-06ae9dd9.webp",
+   "published": "2024-12-09T00:00:00+00:00"
+  },
+  "https://x.ai/news/api": {
+   "title": "API Public Beta",
+   "desc": "Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month.",
+   "image": "https://media.x.ai/v1/website/enterprise-8d754a35.webp",
+   "published": "2024-11-04T00:00:00+00:00"
   }
  }
 }
