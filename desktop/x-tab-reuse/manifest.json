@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "AGI Pulse — Reuse X Tab",
+  "version": "1.0.0",
+  "description": "Reuse an available X tab when a new tab opens an X posting link. Posting still requires your approval.",
+  "minimum_chrome_version": "121",
+  "permissions": ["scripting", "storage"],
+  "host_permissions": ["https://x.com/*", "https://twitter.com/*"],
+  "incognito": "not_allowed",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}

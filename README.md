@@ -18,6 +18,7 @@ An automated AI-news desk. It monitors 55 enabled sources across news outlets, l
 - **Editorial ranking:** Gemini groups duplicate coverage into one story, scores each story 1–10 and drafts posts only for those above a configurable threshold.
 - **Persistent editorial queue:** qualifying drafts survive missing feed entries and discovery lookback limits. Importance, short-lived urgency, bounded waiting time and story expiry determine the next Telegram draft. Each draft includes a short reason for its selection.
 - **Human in the loop:** drafts go to Telegram with a one-tap **Post on X** button. No X API is used, so there are no API costs and every post is published by a person.
+- **Optional desktop tab reuse:** the [Brave/Chrome/Edge helper](desktop/x-tab-reuse/README.md) reuses an available X tab when a posting link opens. Install it in your desktop browser; Android's X app behavior is unchanged.
 - **Factual style:** posts are written as plain, wire-service news in one or two sentences, with no opinions, hype or invented details. The rules follow the engagement signals in X's open-source ranking code.
 - **Images:** drafts include the source's preview image, ready to attach to the post.
 - **Resilient:** retries when Gemini is busy, falls back to backup models, skips broken feeds, and remembers stories and their duplicate aliases to suppress repeat drafts.
@@ -189,6 +190,8 @@ config.yaml                   settings, persona, keywords and sources
 state/state.json              seen items, pending drafts and recent headlines (committed by the workflow)
 tests/test_newsbot.py         offline test suite
 tests/test_queue.py           editorial queue decisions, persistence and recovery tests
+tests/x_tab_reuse.test.mjs     offline desktop tab-routing tests (Node.js)
+desktop/x-tab-reuse/          optional Brave/Chrome/Edge extension
 .github/workflows/newsbot.yml GitHub Actions workflow
 ```
 
