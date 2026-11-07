@@ -202,7 +202,11 @@
   "b508ad447b2f725e": "2026-11-07T16:07:22.282656+00:00",
   "fa06ff8fdc83e259": "2026-11-07T16:07:22.282656+00:00",
   "73be1ddc7ff24f89": "2026-11-07T16:07:22.282656+00:00",
-  "575c2dec8f26ca76": "2026-11-07T16:07:22.282656+00:00"
+  "575c2dec8f26ca76": "2026-11-07T16:07:22.282656+00:00",
+  "ba30d0a56b147d1f": "2026-11-07T16:37:22.384460+00:00",
+  "ccf16ddd4103ccd1": "2026-11-07T16:37:22.384460+00:00",
+  "e54bace2c1ca1843": "2026-11-07T16:37:22.384460+00:00",
+  "c7cadefc098fe5f0": "2026-11-07T16:37:22.384460+00:00"
  },
  "covered": [
   {
@@ -296,11 +300,15 @@
   {
    "headline": "Open and closed AI model cyber capabilities gap",
    "ts": "2026-11-07T16:07:22.282656+00:00"
+  },
+  {
+   "headline": "Vals AI finds profanity in Inkling 2 Small reasoning traces",
+   "ts": "2026-11-07T16:37:22.384460+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
