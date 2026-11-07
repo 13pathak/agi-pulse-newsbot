@@ -152,7 +152,26 @@
   "478157bf7c2685a6": "2026-11-07T11:37:18.945252+00:00",
   "a8bcd41fa2ba378c": "2026-11-07T11:37:18.945252+00:00",
   "9d4ac7819e67df67": "2026-11-07T12:07:23.193307+00:00",
-  "4392e68dfcfa99ba": "2026-11-07T12:07:23.193307+00:00"
+  "4392e68dfcfa99ba": "2026-11-07T12:07:23.193307+00:00",
+  "1007c961b5d3e491": "2026-11-07T12:37:25.438106+00:00",
+  "a84942e28c6d5257": "2026-11-07T12:37:25.438106+00:00",
+  "12839cc6c88c85a2": "2026-11-07T12:37:25.438106+00:00",
+  "0b8259159e8d089d": "2026-11-07T12:37:25.438106+00:00",
+  "9c9e5f41bc5712d7": "2026-11-07T12:37:25.438106+00:00",
+  "7eab5dddcfa7727d": "2026-11-07T12:37:25.438106+00:00",
+  "01ae94b0daa02eba": "2026-11-07T12:37:25.438106+00:00",
+  "0881a19b3d3071bd": "2026-11-07T12:37:25.438106+00:00",
+  "39cf968ded6c1c30": "2026-11-07T12:37:25.438106+00:00",
+  "1112027d5901b6f1": "2026-11-07T12:37:25.438106+00:00",
+  "477cff6d6b4c7941": "2026-11-07T12:37:25.438106+00:00",
+  "3df4d68063a5a1b4": "2026-11-07T12:37:25.438106+00:00",
+  "24d8c7b58277c8be": "2026-11-07T12:37:25.438106+00:00",
+  "5c5c439c3a5adbf4": "2026-11-07T12:37:25.438106+00:00",
+  "8879475e62b3793a": "2026-11-07T12:37:25.438106+00:00",
+  "d909ae271e195777": "2026-11-07T12:37:25.438106+00:00",
+  "0b863f4f1f8606b7": "2026-11-07T12:37:25.438106+00:00",
+  "51318c175f43cb36": "2026-11-07T12:37:25.438106+00:00",
+  "ce2ae1c96c81d442": "2026-11-07T12:37:25.438106+00:00"
  },
  "covered": [
   {
@@ -218,11 +237,15 @@
   {
    "headline": "Google AI detects high blood pressure via smartwatches",
    "ts": "2026-11-07T12:07:23.193307+00:00"
+  },
+  {
+   "headline": "Anthropic AI development pace doubles using AI systems",
+   "ts": "2026-11-07T12:37:25.438106+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -383,6 +406,252 @@
   },
   "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
    "card": "📰 Tech Blog | 🚀 API Quickstart 1. Model Introduction Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series. With a 1-million-token context window, Kimi K3.1 Pro delivers substantial improvements in coding, 3D creation, financial research, factual accuracy, and other agentic capabilities. 2. Model Summary Architecture Mixture-of-Experts (MoE) Total Parameters 2.8T Activated Parameters 104B Number of Layers 93 Number of Dense Layers 1 Attention-Layer Composition 69 KDA + 24 Gated DSA Attention Hidden Dimension 7168 Number of Attention Heads 96 DSA Index Head Dimension 128 DSA Index Number of Heads 32 DSA Index Top-K 2048 Latent MoE Dimension 3584 MoE Hidden Dimension (per Expert) 3072 Number of Experts 896 Selected Experts per Token 16 Number of Shared Experts 2 Vocabulary Size 160K Context Length 1048576 Attention Mechanism KDA & Gated DSA Activation Function SiTU-GLU Vision Encoder MoonViT-V2 Parameters of Vision Encoder 401M Quantization MXFP4 weights / MXFP8 activations (q…"
+  },
+  "https://www.anthropic.com/claude-opus-5-5": {
+   "title": "Introducing Claude Opus 5.5",
+   "desc": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+   "image": "https://assets.claude.com/f4d37a1d1f582f53f4e89440062b649b6273a093.jpg",
+   "published": ""
+  },
+  "https://www.anthropic.com/claude-haiku-5-5": {
+   "title": "Introducing Claude Haiku 5.5",
+   "desc": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+   "image": "https://assets.claude.com/6aaf2f35841b538d109e18d32e68b53e412be6b9.jpg",
+   "published": "2026-10-07T00:00:00+00:00"
+  },
+  "https://www.anthropic.com/claude-sonnet-5-5": {
+   "title": "Introducing Claude Sonnet 5.5",
+   "desc": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+   "image": "https://assets.claude.com/5619ded000325e6b4aceb24fae6d4f9b5f9859e2.jpg",
+   "published": ""
+  },
+  "https://www.anthropic.com/claude-fable-and-mythos-5-1": {
+   "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+   "desc": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+   "image": "https://assets.claude.com/dde6495ae7f7b4e35858b5691ab379db2fd1bd81.jpg",
+   "published": ""
+  },
+  "https://www.sarvam.ai/blogs/sarvam-prism": {
+   "title": "Sarvam Prism: a decision model built on Sarvam 105B | Sarvam AI",
+   "desc": "Sarvam Prism returns a calibrated probability for every option in one pass, in about 44 ms. How it scores, why its confidence holds, and how we made it fast.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/9de24f0346149d6c43848c8d4bb5b2611badf37a-1535x1025.png?rect=0,30,1535,768",
+   "published": "2026-11-03T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-hq-ids-mou": {
+   "title": "Sarvam and Ministry of Defence sign AI MoU | Sarvam AI",
+   "desc": "Sarvam has signed an MoU with HQ IDS, Ministry of Defence, setting up a framework for AI projects across the Indian Army, Navy and Air Force.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/a3a5f8505ad6cab5c30842e00317c560050ae623-3676x2214.png",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/knowledge-fabric-enterprise-agents": {
+   "title": "Knowledge fabric for enterprise AI agents | Sarvam AI",
+   "desc": "Sarvam's knowledge fabric turns enterprise documents into a knowledge tree and domain ontology, so agents are more accurate and cheaper to run than with RAG.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/5e43c24fcd35835f3ec68d2f5013267e046e3dfc-2160x1360.png",
+   "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/bulbul-v4-flash": {
+   "title": "Introducing Bulbul V4 Flash text-to-speech for India | Sarvam AI",
+   "desc": "Bulbul V4 Flash brings expressive, native-sounding speech in 11 Indian languages with under 250 ms time-to-first-audio, at ₹20 per 10,000 characters.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/f1489eb4cc72109b73bcfff300d89894cdb1d645-3840x2160.png",
+   "published": "2026-10-13T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/introducing-saaras-v4": {
+   "title": "Introducing Saaras V4 speech recognition | Sarvam AI",
+   "desc": "Introducing Saaras V4, the next leap in ASR for a multilingual world, with stronger accuracy across Indian languages and real-world audio.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/e90bbe68a55d47ad208848a7b12a1b4c07378605-3840x2160.png",
+   "published": "2026-09-25T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-vision-2-1": {
+   "title": "Sarvam Vision 2.1 document intelligence | Sarvam AI",
+   "desc": "Achieves state-of-the-art on global and Indic benchmarks with new capabilities for structured extraction and Indic handwritten recognition",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/1a855fb8970a94f498b89ab0a4d6a86d8bf5b503-2160x1440.png",
+   "published": "2026-09-24T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/indic-diarbench": {
+   "title": "Indic DiarBench: joint diarization-ASR benchmark | Sarvam AI",
+   "desc": "Open benchmark for speaker-attributed ASR across 22 Indian languages. 108 hours of multi-speaker speech with verified transcripts and diarization.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/e00f774b891123262917618947365156c3ddeaa5-2016x1260.png",
+   "published": "2026-08-11T06:44:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/introducing-sarvam-circle": {
+   "title": "Introducing Sarvam Circle | Sarvam AI",
+   "desc": "Sarvam Circle is our partnership programme to bring India's frontier AI to every institution - with cloud, SI, consulting, OEM, and ISV partners.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/3ab971b10b6354a394cddc826dc079f712ec9e02-2016x1260.png",
+   "published": "2026-08-05T12:00:00+00:00"
+  },
+  "https://x.ai/news/grok-voice-3": {
+   "title": "Introducing Grok Voice 3.0",
+   "desc": "The world’s most intelligent voice model.",
+   "image": "https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp",
+   "published": "2026-10-14T00:00:00+00:00"
+  },
+  "https://x.ai/news/data-bot": {
+   "title": "Giving every team a data scientist with Grok Bot",
+   "desc": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
+   "image": "https://media.x.ai/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png",
+   "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-bot-sales": {
+   "title": "Your next sales teammate should be a Grok Bot",
+   "desc": "The SpaceXSI Sales team built Team Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
+   "image": "https://media.x.ai/v1/website/gb-sales-og-73a0d08f.png",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  "https://x.ai/news/partnernetworkannouncement": {
+   "title": "Introducing the SpaceX Super Intelligence Partner Network",
+   "desc": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
+   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
+   "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://x.ai/news/incident-sweep": {
+   "title": "Using Grok Bot to detect and respond to incidents",
+   "desc": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
+   "image": "https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png",
+   "published": "2026-10-20T00:00:00+00:00"
+  },
+  "https://x.ai/news/x-subscription": {
+   "title": "Introducing The X Subscription",
+   "desc": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+   "image": "https://media.x.ai/v1/website/the-x-subscription-db7a1253.png",
+   "published": "2026-10-12T00:00:00+00:00"
+  },
+  "https://x.ai/news/team-bots": {
+   "title": "Team Bots: shared AI teammates that learn as they work",
+   "desc": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
+   "image": "https://media.x.ai/v1/website/team-bots-og-d3e412bc.webp",
+   "published": "2026-09-28T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-bot-customer-support": {
+   "title": "How SpaceXSI is using Grok Bot to scale customer support",
+   "desc": "We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
+   "image": "https://x.ai/images/news/grok-bot-customer-support-og.webp",
+   "published": "2026-09-22T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-7": {
+   "title": "Introducing Grok 4.7",
+   "desc": "SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
+   "image": "https://x.ai/images/news/grok-4-7-og.webp",
+   "published": "2026-09-21T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-voice-transcribe-2": {
+   "title": "Introducing Grok Voice Transcribe 2.0",
+   "desc": "Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+   "image": "https://x.ai/images/news/og-grok-voice-transcribe-2-0.webp",
+   "published": "2026-09-18T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-build-memory": {
+   "title": "Memory in Grok Build",
+   "desc": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
+   "image": "https://x.ai/images/news/grok-build-memory-og.webp",
+   "published": "2026-09-16T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-bot-procurement": {
+   "title": "Setting Grok Bot loose on procurement",
+   "desc": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
+   "image": "https://x.ai/images/news/grok-bot-procurement-og-split.webp",
+   "published": "2026-09-04T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop": {
+   "title": "Building agents: When to fold subagents into your main agent loop",
+   "desc": "When to consider using fewer subagents and how to migrate the into your main loop.",
+   "image": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop/opengraph-image/og",
+   "published": "2026-10-22T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/introducing-personal-finance-in-claude": {
+   "title": "Introducing Personal Finance in Claude",
+   "desc": "Ask Claude about your money and get straight answers from the accounts you connect.",
+   "image": "https://claude.com/resources/articles/introducing-personal-finance-in-claude/opengraph-image/og",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/claude-enterprise-security-updates": {
+   "title": "More visibility and control over Claude Enterprise for security teams",
+   "desc": "Claude Enterprise has new security and admin features, including a security center, inference hooks, centralized management, and additional access controls.",
+   "image": "https://claude.com/resources/articles/claude-enterprise-security-updates/opengraph-image/og",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace": {
+   "title": "New agents and products on Claude Marketplace",
+   "desc": "Explore new agents and products on Claude Marketplace that help teams with security, developer infrastructure, creative work, and productivity.",
+   "image": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace/opengraph-image/og",
+   "published": "2026-11-04T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/message-threads": {
+   "title": "Make long-running agents faster with message threads",
+   "desc": "New in the Messages API, send your conversation once, and the API receives only what’s new with every turn.",
+   "image": "https://claude.com/resources/articles/message-threads/opengraph-image/og",
+   "published": "2026-11-02T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets": {
+   "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+   "desc": "Smart reports show what work is happening and where, surveys capture feedback on it, and pooled group budgets give each team one shared budget.",
+   "image": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets/opengraph-image/og",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company": {
+   "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+   "desc": "IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business",
+   "image": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company/opengraph-image/og",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/introducing-artifacts-for-legal-work": {
+   "title": "Introducing artifacts for legal work with Claude",
+   "desc": "Anthropic's new legal artifacts and connectors help legal teams get work done with Claude.",
+   "image": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work/opengraph-image/og",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/vials-aa": {
+   "title": "VIALS-AA: different paths to scientific image reasoning",
+   "desc": "Independent VIALS-AA results, interactive agent traces, and an analysis of how models inspect scientific images.",
+   "image": "https://artificialanalysiscdn.com/article-assets/2026/vials-aa.jpg",
+   "published": "2026-11-06T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it": {
+   "title": "Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights release",
+   "desc": "Thinking Machines has released Inkling 2 Small, scoring 31 on the Artificial Analysis Intelligence Index - their plan to release its weights would make it the highest-scoring open weights model developed outside China based on current rankings",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/2958253cb80c532d774dfbc286ec21794c55525d-1440x1440.png?w=1200&auto=format",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index": {
+   "title": "Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence Index",
+   "desc": "Nanbeige has released Nanbeige4.3-33B, an open weights model matching Qwen3.8 27B (xhigh) at 20 on the Artificial Analysis Intelligence Index v5 with stronger terminal use but weaker knowledge",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/6054cf5fef39665ac0c6880571c7d72af56e9363-1254x1254.png?w=1200&auto=format",
+   "published": "2026-11-05T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "desc": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&auto=format",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost": {
+   "title": "GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and cost",
+   "desc": "itHub has released Copilot Fusion in GitHub Copilot, which orchestrates between Anthropic and OpenAI models. It scores 2 points below Opus 5.5 in Claude Code at half the Cost per Task in the Coding Agent Index",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/0968ba533e8f3599faae4925bcf3781fbbd52fed-1024x1024.webp?w=1200&auto=format",
+   "published": "2026-10-28T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5": {
+   "title": "Announcing Artificial Analysis Intelligence Index v5",
+   "desc": "Index v5 features 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/c091ec22bdbb2a18ba5205e03dd14575b80f552e-1200x1200.jpg?w=1200&auto=format",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier": {
+   "title": "GPT-6.1 Terra pushes the cost efficiency frontier",
+   "desc": "OpenAI has released GPT-6.1 Terra, pushing the cost efficiency frontier. It is the first Terra-class model since GPT-5.6, and is more intelligent for less than a third of the cost",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/477042e454f70ac74700b44c42229d0c436b3016-1024x1024.webp?w=1200&auto=format",
+   "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/code2video-aa": {
+   "title": "Code2Video-AA: how well do AI models design videos in code?",
+   "desc": "Artificial Analysis' implementation of HeyGen's Code2Video Bench, evaluating how well models create short product and brand videos from 114 design briefs using HyperFrames HTML.",
+   "image": "https://artificialanalysiscdn.com/article-assets/2026/code2video.jpg",
+   "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "desc": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/3lNbSQIg31Dg9aBrUjuQMI/131fea8d534499ca30f7a9f880269d74/biobasicsbench-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-04T00:00:00-08:00"
   }
  }
 }
