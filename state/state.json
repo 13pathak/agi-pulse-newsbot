@@ -189,7 +189,11 @@
   "cfd4354afa14004f": "2026-11-07T14:07:20.405511+00:00",
   "bc2d0068f56d93e1": "2026-11-07T14:07:20.405511+00:00",
   "022e329a512042ed": "2026-11-07T14:07:20.405511+00:00",
-  "fdbf6954c9e00b1c": "2026-11-07T14:07:20.405511+00:00"
+  "fdbf6954c9e00b1c": "2026-11-07T14:07:20.405511+00:00",
+  "f987c08b0331cb48": "2026-11-07T14:37:22.848984+00:00",
+  "5e845585dbaf7b01": "2026-11-07T14:37:22.848984+00:00",
+  "c0610843d35f24ab": "2026-11-07T14:37:22.848984+00:00",
+  "3105ae181a3f1e0c": "2026-11-07T14:37:22.848984+00:00"
  },
  "covered": [
   {
@@ -271,11 +275,15 @@
   {
    "headline": "OpenAI releases BioBasicsBench benchmark for science agents",
    "ts": "2026-11-07T14:07:20.405511+00:00"
+  },
+  {
+   "headline": "Nvidia researchers introduce VFlash for faster visual planning",
+   "ts": "2026-11-07T14:37:22.848984+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1024,6 +1032,78 @@
    "desc": "Launching the built-in plugin marketplace for Grok Build.",
    "image": "https://media.x.ai/v1/website/grok-plugin-marketplace-937ebfa4.webp",
    "published": "2026-06-11T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-imagine-1-5": {
+   "title": "Grok Imagine 1.5 Preview",
+   "desc": "grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview.",
+   "image": "https://media.x.ai/v1/website/grok-imagine-1-5-og-342e9fa3.webp",
+   "published": "2026-06-03T00:00:00+00:00"
+  },
+  "https://x.ai/news/composer-2-5": {
+   "title": "Composer 2.5",
+   "desc": "Composer 2.5 is now available in Grok Build. Try it from the /models menu.",
+   "image": "https://media.x.ai/v1/website/composer-2-5-og-a4729aa0.png",
+   "published": "2026-06-01T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-build-0-1": {
+   "title": "Grok Build 0.1 on API",
+   "desc": "Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta.",
+   "image": "https://media.x.ai/v1/website/grok-build-0-1-a99ab399.webp",
+   "published": "2026-05-29T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-kilocode": {
+   "title": "Use Grok in Kilo Code",
+   "desc": "Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform.",
+   "image": "https://media.x.ai/v1/website/grok-kilocode-4e041462.png",
+   "published": "2026-05-27T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-build-cli": {
+   "title": "Introducing Grok Build",
+   "desc": "Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal.",
+   "image": "https://media.x.ai/v1/website/grok-build-cli-og-5fe6e581.png",
+   "published": "2026-05-25T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-opencode": {
+   "title": "Use Grok in OpenCode",
+   "desc": "Use your SuperGrok or X Premium subscription inside OpenCode.",
+   "image": "https://media.x.ai/v1/website/grok-opencode-a31e9eed.png",
+   "published": "2026-05-21T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-openclaw": {
+   "title": "Use Grok in OpenClaw",
+   "desc": "Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant.",
+   "image": "https://media.x.ai/v1/website/grok-openclaw-7dc35468.png",
+   "published": "2026-05-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-skills": {
+   "title": "Skills in web, iOS, and Android",
+   "desc": "Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills.",
+   "image": "https://media.x.ai/v1/website/grok-skills-og-33213f09.png",
+   "published": "2026-05-18T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-hermes": {
+   "title": "Connect Grok to Hermes Agent",
+   "desc": "Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent.",
+   "image": "https://media.x.ai/v1/website/grok-hermes-92849365.png",
+   "published": "2026-05-15T00:00:00+00:00"
+  },
+  "https://x.ai/news/anthropic-compute-partnership": {
+   "title": "New Compute Partnership with Anthropic",
+   "desc": "SpaceXSI has signed an agreement with Anthropic to provide access to Colossus 1.",
+   "image": "https://media.x.ai/v1/website/anthropic-compute-partnership-og-beffe2c5.png",
+   "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-connectors": {
+   "title": "Connectors in web, iOS, and Android",
+   "desc": "Deep integrations that bring the apps you use every day directly into Grok.",
+   "image": "https://media.x.ai/v1/website/grok-connectors-67ee122a.webp",
+   "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-imagine-quality-mode": {
+   "title": "Grok Imagine Quality Mode API",
+   "desc": "Higher realism. Stronger text rendering. Better creative control.",
+   "image": "https://media.x.ai/v1/website/grok-imagine-quality-mode-og-d933a2dd.png",
+   "published": "2026-05-06T00:00:00+00:00"
   }
  }
 }
