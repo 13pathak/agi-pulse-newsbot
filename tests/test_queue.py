@@ -343,6 +343,47 @@ def test_picture_timeout_does_not_immediately_send_a_second_message(monkeypatch)
     assert calls == ["sendPhoto"]
 
 
+def queue_picture_draft(env, monkeypatch, failure):
+    """One queued draft with a picture; no new feed items, so Gemini is never called."""
+    one_per_run(env)
+    queued = pick(1, importance=9)
+    queued["item"].update(images=True, image="https://slow.test/x.png")
+    queue = state()
+    newsbot.enqueue_picks(queue, [queued], NOW, CONFIG["settings"])
+    newsbot.save_state(queue, NOW, env["state"])
+    monkeypatch.setattr(newsbot, "fetch_sources", lambda *_: iter([]))
+    calls = []
+
+    def post(url, json=None, **kw):
+        method = url.rsplit("/", 1)[1]
+        calls.append(method)
+        if method == "sendPhoto":
+            raise failure("image host")
+        return Resp()
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    return calls
+
+
+def test_picture_timeout_sends_text_only_on_next_run_instead_of_blocking(env, monkeypatch):
+    calls = queue_picture_draft(env, monkeypatch, newsbot.requests.ReadTimeout)
+    assert run(env) == 1 and calls == ["sendPhoto"]           # no immediate second send
+    saved = json.loads(env["state"].read_text())
+    assert saved["pending"][0]["text_only"] is True and saved["covered"] == []
+    assert run(env, NOW + timedelta(minutes=30)) == 0
+    assert calls == ["sendPhoto", "sendMessage"]             # picture skipped, draft delivered
+    saved = json.loads(env["state"].read_text())
+    assert saved["pending"] == [] and len(saved["covered"]) == 1
+
+
+def test_connection_failure_keeps_the_picture_for_the_retry(env, monkeypatch):
+    calls = queue_picture_draft(env, monkeypatch, newsbot.requests.ConnectTimeout)
+    assert run(env) == 1
+    assert "text_only" not in json.loads(env["state"].read_text())["pending"][0]
+    run(env, NOW + timedelta(minutes=30))
+    assert calls == ["sendPhoto", "sendPhoto"]               # Telegram unreachable, not the image
+
+
 @pytest.mark.parametrize("status,detail", [
     (400, "Bad Request: chat not found"), (400, "Unknown rejection"),
     (401, "Unauthorized"), (429, "Too Many Requests"), (503, "Unavailable"),

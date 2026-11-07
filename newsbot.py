@@ -1060,6 +1060,10 @@ def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
     return "\n".join(lines)
 
 
+class PhotoTimeout(requests.ReadTimeout):
+    """sendPhoto timed out (often a slow image host); the outcome is unknown."""
+
+
 class TelegramError(RuntimeError):
     """Only known content errors justify retiring a draft; unknown errors retain it."""
 
@@ -1121,10 +1125,13 @@ def send_telegram(token: str, chat_id: str, text: str, buttons: list[list[dict]]
     """
     api = f"https://api.telegram.org/bot{token}"
     if photo and len(text) <= 1024:   # Telegram's caption limit
-        r = requests.post(f"{api}/sendPhoto", timeout=30, json={
-            "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
-            "reply_markup": {"inline_keyboard": buttons},
-        })
+        try:
+            r = requests.post(f"{api}/sendPhoto", timeout=30, json={
+                "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
+                "reply_markup": {"inline_keyboard": buttons},
+            })
+        except requests.ReadTimeout as e:
+            raise PhotoTimeout(str(e)) from e
         if r.ok:
             return
         error = TelegramError.from_response(r)
@@ -1264,7 +1271,7 @@ def run(dry_run: bool = False, now: datetime | None = None,
         post = compose_post(pick["post"], it["source"], it["url"], s.get("include_link", True),
                             s.get("show_source", True))
         photo = ""
-        if s.get("attach_images", True) and it.get("images"):
+        if s.get("attach_images", True) and it.get("images") and not pick.get("text_only"):
             photo = it.get("image") or og_image(it["url"])
         if dry_run:
             print("─" * 60)
@@ -1287,6 +1294,11 @@ def run(dry_run: bool = False, now: datetime | None = None,
                 retire_undeliverable(state, pick, now, e)
                 save_state(state, now, state_path)
                 continue   # this draft is the problem; try the next one
+            if isinstance(e, PhotoTimeout):
+                # The picture may have been delivered, so don't resend now; next run
+                # sends text only, so a bad image host can't block the queue.
+                pick["text_only"] = True
+                log.warning("picture send timed out; next attempt will be text only: %s", pick["headline"])
             if isinstance(e, TelegramError) and e.retry_after is not None:
                 retry_at = now + timedelta(seconds=time.monotonic() - started + e.retry_after)
                 state["telegram_retry_at"] = retry_at.isoformat()
