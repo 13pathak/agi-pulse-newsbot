@@ -639,7 +639,9 @@ def run(dry_run: bool = False, now: datetime | None = None,
     today = now_ist.date().isoformat()
     if state["daily"]["date"] != today:
         state["daily"] = {"date": today, "count": 0}
-    room = min(s["max_drafts_per_run"], s["max_drafts_per_day"] - state["daily"]["count"])
+    room = s["max_drafts_per_run"]
+    if s.get("max_drafts_per_day"):   # 0 / null / missing = no daily limit
+        room = min(room, s["max_drafts_per_day"] - state["daily"]["count"])
     if room <= 0:
         log.info("daily limit of %s drafts reached", s["max_drafts_per_day"])
         return 0

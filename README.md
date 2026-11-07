@@ -64,7 +64,7 @@ A draft arrives on Telegram, and you have three choices:
 - **Ignore it**: the bot won't send that story again.
 
 ## Tweaking (all in `config.yaml`)
-- **Too many drafts?** Raise `min_importance` to 7, or lower `max_drafts_per_day`.
+- **Too many drafts?** Raise `min_importance` to 7, or set `max_drafts_per_day` to a number (0 means no daily limit).
 - **Too few?** Lower `min_importance` to 5.
 - **Voice not quite you?** Edit the `persona` text. That's where the bot's personality lives.
 - **Add a news source:** copy a feed block and paste in its RSS URL. Use `ai_only: false` for general tech feeds; the keyword filter then keeps only the AI stories.

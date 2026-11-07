@@ -406,3 +406,14 @@ def test_hf_models_keeps_new_releases_from_major_labs(monkeypatch):
     fetched.clear()
     newsbot.fetch_feed(feed, cache)
     assert not any("README" in u for u in fetched)                     # card read only once
+
+
+def test_no_daily_limit_when_zero(env):
+    import yaml
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["settings"]["max_drafts_per_day"] = 0
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+    env["state"].write_text(json.dumps({"seen": {}, "covered": [],
+                                        "daily": {"date": "2026-11-06", "count": 999}}))
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert len(env["sent"]) == 2          # sent despite 999 drafts already today
