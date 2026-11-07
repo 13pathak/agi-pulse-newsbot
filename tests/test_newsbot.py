@@ -291,3 +291,85 @@ def test_papers_reach_gemini_marked_as_papers(env, monkeypatch):
     papers = [i for i in items if i.get("kind") == "paper"]
     assert [p["title"] for p in papers] == ["Tiny Model Beats Giant", "Solid Agent Paper"]
     assert all("kind" not in i for i in items if i["source"] != "Hugging Face Papers")
+
+
+ANTHROPIC_LIST = b'''<a href="/news/announcements">All</a><a href="/news/claude-9">Claude 9</a>
+<a href="/news/old-post">Old</a><a href="/news/claude-9">dup</a>'''
+ANTHROPIC_PAGES = {
+    "https://www.anthropic.com/news/announcements": b'<meta property="og:title" content="Announcements">',
+    "https://www.anthropic.com/news/claude-9": b'''<meta property="og:title" content="Introducing Claude 9">
+<meta property="og:description" content="Our most capable model.">
+<meta property="og:image" content="https://cdn.test/claude9.png">
+<script>{"datePublished":"2026-11-06T04:00:00.000Z"}</script>''',
+    "https://www.anthropic.com/news/old-post": b'''<meta property="og:title" content="Old post">
+<script>{"datePublished":"2026-01-01T00:00:00.000Z"}</script>''',
+}
+ANTHROPIC_FEED = {"name": "Anthropic", "type": "page_list", "url": "https://www.anthropic.com/news",
+                  "base": "https://www.anthropic.com", "link_pattern": "/news/[a-z0-9-]+",
+                  "ai_only": True, "images": True}
+
+
+def test_page_list_reads_articles_once(monkeypatch):
+    fetched = []
+
+    def get(url, **kw):
+        fetched.append(url)
+        return Resp(content=ANTHROPIC_LIST if url.endswith("/news") else ANTHROPIC_PAGES[url])
+
+    monkeypatch.setattr(newsbot.requests, "get", get)
+    cache = {}
+    items = newsbot.fetch_feed(ANTHROPIC_FEED, cache)
+    titles = {i["title"]: i for i in items}
+    assert set(titles) == {"Introducing Claude 9", "Old post"}        # category page skipped
+    c9 = titles["Introducing Claude 9"]
+    assert c9["image"] == "https://cdn.test/claude9.png" and c9["snippet"] == "Our most capable model."
+    assert c9["published"] == datetime(2026, 11, 6, 4, 0, tzinfo=timezone.utc)
+    assert len(fetched) == 4                                           # list + 3 distinct pages
+    fetched.clear()
+    newsbot.fetch_feed(ANTHROPIC_FEED, cache)
+    assert fetched == ["https://www.anthropic.com/news"]               # pages remembered
+
+
+def test_lab_draft_comes_with_picture_news_draft_does_not(env, monkeypatch):
+    import yaml
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["feeds"].append(ANTHROPIC_FEED)
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+    news_get, news_post = newsbot.requests.get, newsbot.requests.post
+    monkeypatch.setattr(newsbot.requests, "get", lambda url, **kw: Resp(
+        content=ANTHROPIC_LIST) if url.endswith("anthropic.com/news") else Resp(
+        content=ANTHROPIC_PAGES[url]) if url in ANTHROPIC_PAGES else news_get(url, **kw))
+    photos = []
+
+    def post(url, json=None, **kw):
+        if "generativelanguage" in url:   # pick Claude 9 alongside the usual picks
+            r = news_post(url, json=json, **kw)
+            items = __import__("json").loads(json["contents"][0]["parts"][0]["text"].split("ITEMS:\n")[1].split("\n\nReply with")[0])
+            cid = next(i["id"] for i in items if i["title"] == "Introducing Claude 9")
+            text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            picks = __import__("json").loads(text)["picks"]
+            picks.insert(0, {"primary_id": cid, "related_ids": [], "importance": 10,
+                             "headline": "Claude 9", "post": "Anthropic released Claude 9."})
+            return Resp(payload={"candidates": [{"content": {"parts": [{"text": __import__("json").dumps({"picks": picks})}]}}]})
+        if url.endswith("/sendPhoto"):
+            photos.append(json)
+            return Resp()
+        return news_post(url, json=json, **kw)
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert len(photos) == 1 and photos[0]["photo"] == "https://cdn.test/claude9.png"
+    assert "Save this picture" in photos[0]["caption"] and "Claude 9" in photos[0]["caption"]
+    assert all("photo" not in m for m in env["sent"])                  # news drafts: text only
+
+
+def test_picture_failure_falls_back_to_text(monkeypatch):
+    calls = []
+
+    def post(url, json=None, **kw):
+        calls.append(url.rsplit("/", 1)[1])
+        return Resp(status=400) if url.endswith("sendPhoto") else Resp()
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    newsbot.send_telegram("t", "1", "draft", [], photo="https://bad.test/x.png")
+    assert calls == ["sendPhoto", "sendMessage"]

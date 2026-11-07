@@ -11,6 +11,7 @@ settings:
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
   show_source: false           # true = end posts with "via <Outlet>"
   include_link: false          # true = end posts with the article link
+  attach_images: true          # send a picture with drafts from feeds marked images: true
   gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.
@@ -131,22 +132,37 @@ feeds:
     url: https://www.medianama.com/feed/
     ai_only: false
 
-  # Straight from the labs (often hours ahead of the newspapers)
+  # Straight from the labs (often hours ahead of the newspapers).
+  # images: true = the draft comes with the post's picture to attach on X. Company
+  # pictures are made to be shared; news outlets' photos are usually licensed (Getty,
+  # Reuters…), so they are left off to avoid copyright takedowns on your account.
   - name: OpenAI
     url: https://openai.com/news/rss.xml
     ai_only: true
+    images: true
+  - name: Anthropic          # no RSS feed: the bot reads its news page instead
+    type: page_list
+    url: https://www.anthropic.com/news
+    base: https://www.anthropic.com
+    link_pattern: /news/[a-z0-9-]+
+    ai_only: true
+    images: true
   - name: Google DeepMind
     url: https://deepmind.google/blog/rss.xml
     ai_only: true
+    images: true
   - name: Google AI Blog
     url: https://blog.google/technology/ai/rss/
     ai_only: true
+    images: true
   - name: Hugging Face
     url: https://huggingface.co/blog/feed.xml
     ai_only: true
+    images: true
   - name: NVIDIA
     url: https://blogs.nvidia.com/feed/
     ai_only: true
+    images: true
 
   # Research: arXiv papers the community upvoted on Hugging Face Daily Papers.
   # Gemini sees only the abstract. Raise min_upvotes for fewer, bigger papers.
@@ -158,3 +174,4 @@ feeds:
     max_items: 10         # at most this many papers per run (most upvoted first)
     lookback_hours: 48    # votes build up over a day, so look back further than news
     blurb_chars: 1500     # pass the whole abstract
+    images: true          # Hugging Face's preview card for the paper

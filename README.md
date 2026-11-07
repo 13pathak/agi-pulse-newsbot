@@ -68,6 +68,8 @@ A draft arrives on Telegram, and you have three choices:
 - **Too few?** Lower `min_importance` to 5.
 - **Voice not quite you?** Edit the `persona` text. That's where the bot's personality lives.
 - **Add a news source:** copy a feed block and paste in its RSS URL. Use `ai_only: false` for general tech feeds; the keyword filter then keeps only the AI stories.
+- **Pictures:** drafts from lab blogs (OpenAI, Anthropic, Google, NVIDIA, Hugging Face) and papers arrive in Telegram with the post's picture. Save it and attach it on X; the X link can only carry text. News outlets' photos are usually licensed (Getty, Reuters…), so those feeds don't send pictures. Add `images: true` to a feed to change that, or set `attach_images: false` to turn pictures off.
+- **Sites without RSS:** Anthropic has no feed, so the bot reads its news page (`type: page_list`) and opens each new article once.
 - **Research papers:** the `Hugging Face Papers` source brings in arXiv papers the community upvoted on Hugging Face Daily Papers. Gemini sees only each paper's abstract, and paper posts start with "New paper:" or "Researchers at <lab>". Raise `min_upvotes` (default 20) for fewer, bigger papers, or set `enabled: false` to switch papers off.
 - **Source credit and links:** posts have no "via The Hindu" credit and no link. Set `show_source: true` to add the credit, or `include_link: true` to add the article link. The 📖 Read article button on Telegram is always there for you.
 - **Different Gemini model:** add a repo *variable* (not a secret) named `GEMINI_MODEL`, for example `gemini-3.6-flash` (current names: https://aistudio.google.com/docs/models).

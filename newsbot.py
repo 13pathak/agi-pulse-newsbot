@@ -66,6 +66,7 @@ def load_state(path: Path = STATE_PATH) -> dict:
     data.setdefault("seen", {})      # item_id -> ISO time first seen
     data.setdefault("covered", [])   # [{"headline", "ts"}] stories already drafted
     data.setdefault("daily", {"date": "", "count": 0})
+    data.setdefault("pages", {})     # url -> {title, desc, image, published} for page-list sources
     return data
 
 
@@ -76,6 +77,8 @@ def save_state(state: dict, now: datetime, path: Path = STATE_PATH) -> None:
                      if datetime.fromisoformat(v) > week_ago}
     state["covered"] = [c for c in state["covered"]
                         if datetime.fromisoformat(c["ts"]) > two_days]
+    pages = state.get("pages", {})
+    state["pages"] = dict(list(pages.items())[-500:])   # newest 500 pages is plenty
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(state, indent=1, ensure_ascii=False), encoding="utf-8")
 
@@ -194,14 +197,80 @@ def fetch_hf_papers(feed: dict) -> list[dict]:
             "snippet": (f"Lab: {org}. " if org else "") + f"Upvotes: {upvotes}. Abstract: {abstract}",
             "published": datetime.fromisoformat(when.replace("Z", "+00:00")) if when else None,
             "upvotes": upvotes,
+            "image": entry.get("thumbnail") or "",   # Hugging Face's preview card for the paper
         })
     papers.sort(key=lambda x: x["upvotes"], reverse=True)
     return papers[: feed.get("max_items", 10)]
 
 
-def fetch_feed(feed: dict) -> list[dict]:
+def page_meta(page: str, *names: str) -> str:
+    """First <meta property|name=...> content found among `names`."""
+    for n in names:
+        n = re.escape(n)
+        m = (re.search(rf'<meta[^>]+(?:property|name)="{n}"[^>]*\scontent="([^"]*)"', page)
+             or re.search(rf'<meta[^>]+content="([^"]*)"[^>]*\s(?:property|name)="{n}"', page))
+        if m:
+            return html.unescape(m.group(1)).strip()
+    return ""
+
+
+def og_image(url: str) -> str:
+    """The article's preview image (og:image), or "" if there isn't one."""
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=10)
+        return page_meta(r.text, "og:image", "twitter:image") if r.ok else ""
+    except requests.RequestException:
+        return ""
+
+
+def fetch_page_list(feed: dict, cache: dict) -> list[dict]:
+    """Sites with no RSS (e.g. Anthropic): read article links from a listing page,
+    open each NEW link once for its title, summary, image and publish date, and
+    remember it in `cache` so later runs don't fetch it again."""
+    resp = requests.get(feed["url"], headers={"User-Agent": USER_AGENT}, timeout=20)
+    resp.raise_for_status()
+    base = feed.get("base", feed["url"])
+    links = list(dict.fromkeys(urllib.parse.urljoin(base, h)
+                               for h in re.findall(rf'href="({feed["link_pattern"]})"', resp.text)))
+    fetched = 0
+    for url in links:
+        if url in cache or fetched >= feed.get("max_new_pages", 15):
+            continue
+        fetched += 1
+        try:
+            page = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15).text
+        except requests.RequestException:
+            continue
+        m = re.search(r'"datePublished"\s*:\s*"([^"]+)"', page)
+        cache[url] = {"title": page_meta(page, "og:title", "twitter:title"),
+                      "desc": page_meta(page, "og:description", "description"),
+                      "image": page_meta(page, "og:image", "twitter:image"),
+                      "published": (m.group(1) if m else "")
+                                   or page_meta(page, "article:published_time")}
+    items = []
+    for url in links:
+        meta = cache.get(url) or {}
+        if not meta.get("published") or not meta.get("title"):   # category pages etc.
+            continue
+        try:
+            published = datetime.fromisoformat(meta["published"].replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        if published.tzinfo is None:
+            published = published.replace(tzinfo=timezone.utc)
+        title = clean_text(meta["title"], 300)
+        items.append({"id": item_id(url, title), "title": title, "url": url,
+                      "source": feed["name"], "image": meta.get("image", ""),
+                      "snippet": clean_text(meta.get("desc", ""), feed.get("blurb_chars", 400)),
+                      "published": published})
+    return items
+
+
+def fetch_feed(feed: dict, cache: dict | None = None) -> list[dict]:
     if feed.get("type") == "hf_papers":
         return fetch_hf_papers(feed)
+    if feed.get("type") == "page_list":
+        return fetch_page_list(feed, {} if cache is None else cache)
     resp = requests.get(feed["url"], headers={"User-Agent": USER_AGENT}, timeout=20)
     resp.raise_for_status()
     parsed = feedparser.parse(resp.content)
@@ -215,11 +284,14 @@ def fetch_feed(feed: dict) -> list[dict]:
             continue
         ts = e.get("published_parsed") or e.get("updated_parsed")
         published = (datetime(*ts[:6], tzinfo=timezone.utc) if ts else None)
+        media = (e.get("media_content") or e.get("media_thumbnail") or [{}])[0].get("url") or next(
+            (l.get("href") for l in e.get("links", []) if l.get("type", "").startswith("image")), "")
         items.append({
             "id": item_id(link, title),
             "title": title,
             "url": link,
             "source": feed["name"],
+            "image": media or "",
             "snippet": clean_text(e.get("summary", "") or e.get("description", ""),
                                   feed.get("blurb_chars", 400)),
             "published": published,
@@ -236,7 +308,7 @@ def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
             continue
         cutoff = now - timedelta(hours=feed.get("lookback_hours", s["lookback_hours"]))
         try:
-            items = fetch_feed(feed)
+            items = fetch_feed(feed, state.setdefault("pages", {}))
             log.info("feed OK     %-26s %3d items", feed["name"], len(items))
         except Exception as exc:  # one broken feed must not stop the bot
             log.warning("feed FAILED %-26s %s", feed["name"], exc)
@@ -249,6 +321,7 @@ def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
             if not feed.get("ai_only", False) and not kw.search(it["title"] + " " + it["snippet"]):
                 continue
             ids.add(it["id"])
+            it["images"] = bool(feed.get("images", False))   # may we offer this source's picture?
             fresh.append(it)
     fresh.sort(key=lambda i: i["published"] or now, reverse=True)
     # Papers are already capped per feed and can be up to 48 h old, so they don't
@@ -423,7 +496,7 @@ def intent_url(text: str) -> str:
     return "https://x.com/intent/tweet?text=" + urllib.parse.quote(text, safe="")
 
 
-def telegram_message(pick: dict, post: str) -> str:
+def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
     it = pick["item"]
     others = sorted({r["source"] for r in pick["related"]} - {it["source"]})
     lines = [f"📰 <b>{html.escape(it['source'])}</b> · importance {pick['importance']}/10",
@@ -432,11 +505,25 @@ def telegram_message(pick: dict, post: str) -> str:
              f"<code>{x_len(post)}/280 characters</code>"]
     if others:
         lines.append("Also covered by: " + html.escape(", ".join(others)))
+    if has_photo:
+        lines.append("🖼 Save this picture, then attach it to the post on X.")
     return "\n".join(lines)
 
 
-def send_telegram(token: str, chat_id: str, text: str, buttons: list[list[dict]]) -> None:
-    r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage", timeout=20, json={
+def send_telegram(token: str, chat_id: str, text: str, buttons: list[list[dict]],
+                  photo: str = "") -> None:
+    """Send the draft. With `photo`, send it as a picture with the draft as its caption
+    (save it and attach it on X); if Telegram can't use the picture, send text only."""
+    api = f"https://api.telegram.org/bot{token}"
+    if photo and len(text) <= 1024:   # Telegram's caption limit
+        r = requests.post(f"{api}/sendPhoto", timeout=30, json={
+            "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
+            "reply_markup": {"inline_keyboard": buttons},
+        })
+        if r.ok:
+            return
+        log.warning("Telegram couldn't use the picture (%s); sending text only", r.status_code)
+    r = requests.post(f"{api}/sendMessage", timeout=20, json={
         "chat_id": chat_id, "text": text, "parse_mode": "HTML",
         "link_preview_options": {"is_disabled": True},
         "reply_markup": {"inline_keyboard": buttons},
@@ -488,6 +575,8 @@ def run(dry_run: bool = False, now: datetime | None = None,
     cands = collect_candidates(config, state, now)
     log.info("%d new AI items", len(cands))
     if not cands:
+        if not dry_run:   # keep what page-list sources learned, so pages aren't re-fetched
+            save_state(state, now, state_path)
         return 0
 
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -516,15 +605,20 @@ def run(dry_run: bool = False, now: datetime | None = None,
         it = pick["item"]
         post = compose_post(pick["post"], it["source"], it["url"], s.get("include_link", True),
                             s.get("show_source", True))
+        photo = ""
+        if s.get("attach_images", True) and it.get("images"):
+            photo = it.get("image") or og_image(it["url"])
         if dry_run:
             print("─" * 60)
             print(f"[{pick['importance']}/10] {it['source']}: {it['title']}")
             print(post)
             print(f"({x_len(post)}/280)  {intent_url(post)[:90]}…")
+            if photo:
+                print(f"image: {photo}")
             continue
         buttons = [[{"text": "✅ Post on X", "url": intent_url(post)}],
                    [{"text": "📖 Read article", "url": it["url"]}]]
-        send_telegram(token, chat_id, telegram_message(pick, post), buttons)
+        send_telegram(token, chat_id, telegram_message(pick, post, bool(photo)), buttons, photo)
         state["covered"].append({"headline": pick["headline"], "ts": now.isoformat()})
         state["daily"]["count"] += 1
 
