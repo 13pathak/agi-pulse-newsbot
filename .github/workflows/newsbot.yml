@@ -1,9 +1,9 @@
 name: AGI Pulse NewsBot
 
 on:
-  schedule:
-    - cron: "7,37 * * * *"   # every 30 min at :07 and :37 (off-peak; GitHub drops :00/:30 runs under load). Quiet hours are handled in IST by the bot.
-  workflow_dispatch:          # "Run workflow" button for manual runs
+  # Runs are started every 30 min (:07 and :37) by an outside timer on cron-job.org
+  # through the API below; GitHub's own schedule skipped most runs.
+  workflow_dispatch:          # cron-job.org timer + "Run workflow" button
     inputs:
       mode:
         description: "normal / dry-run / check-feeds"
