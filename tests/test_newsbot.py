@@ -93,11 +93,13 @@ def env(tmp_path, monkeypatch):
                 picks.append({"primary_id": ids["OpenAI launches GPT-6"],
                               "related_ids": [ids.get("GPT-6 is here")], "importance": 10,
                               "headline": "OpenAI releases GPT-6",
-                              "post": "OpenAI just dropped GPT-6. Somewhere, GPT-5 is updating its LinkedIn to 'open to work' 💼"})
+                              "post": "OpenAI announced GPT-6.",
+                              "editor_note": "Check the release details before comparing it with earlier models."})
             if "Sarvam AI unveils Hindi voice model" in ids:
                 picks.append({"primary_id": ids["Sarvam AI unveils Hindi voice model"], "related_ids": [],
                               "importance": 8, "headline": "Sarvam Hindi voice model",
-                              "post": "Sarvam's new Hindi voice model is out. Finally an AI that can say 'bas thoda sa' with the right attitude."})
+                              "post": "Sarvam unveiled a Hindi voice model.",
+                              "editor_note": "Check availability and listening samples before assessing voice quality."})
             if "10 best AI gadgets on sale" in ids:
                 picks.append({"primary_id": ids["10 best AI gadgets on sale"], "related_ids": [],
                               "importance": 2, "headline": "deals", "post": "deals"})
@@ -127,6 +129,7 @@ def test_full_run(env):
     assert "Sarvam" in prompt
     first = sent[0]
     assert "importance 10/10" in first["text"] and "Also covered by: TechCrunch" in first["text"]
+    assert "Editor note (not posted): Check the release details" in first["text"]
     intent = first["reply_markup"]["inline_keyboard"][0][0]["url"]
     post = urllib.parse.unquote(intent.split("text=")[1])
     assert post.endswith("via The Verge https://verge.test/gpt6?utm_source=rss")
@@ -335,6 +338,7 @@ def test_page_list_reads_articles_once(monkeypatch):
 def test_lab_draft_comes_with_picture_news_draft_does_not(env, monkeypatch):
     import yaml
     cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["settings"]["attach_images"] = True
     cfg["feeds"].append(ANTHROPIC_FEED)
     env["cfg"].write_text(yaml.safe_dump(cfg))
     news_get, news_post = newsbot.requests.get, newsbot.requests.post
@@ -361,7 +365,7 @@ def test_lab_draft_comes_with_picture_news_draft_does_not(env, monkeypatch):
     monkeypatch.setattr(newsbot.requests, "post", post)
     newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
     assert len(photos) == 1 and photos[0]["photo"] == "https://cdn.test/claude9.png"
-    assert "Save this picture" in photos[0]["caption"] and "Claude 9" in photos[0]["caption"]
+    assert "Source image for reference" in photos[0]["caption"] and "Claude 9" in photos[0]["caption"]
     assert all("photo" not in m for m in env["sent"])                  # news drafts: text only
 
 

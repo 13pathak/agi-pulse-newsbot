@@ -19,8 +19,9 @@ An automated AI-news desk. It monitors 55 enabled sources across news outlets, l
 - **Persistent editorial queue:** qualifying drafts survive missing feed entries and discovery lookback limits. Importance, short-lived urgency, bounded waiting time and story expiry determine the next Telegram draft. Each draft includes a short reason for its selection.
 - **Human in the loop:** drafts go to Telegram with a one-tap **Post on X** button. No X API is used, so there are no API costs and every post is published by a person.
 - **Optional desktop tab reuse:** the [Brave/Chrome/Edge helper](desktop/x-tab-reuse/README.md) reuses an available X tab when a posting link opens. Install it in your desktop browser; Android's X app behavior is unchanged.
-- **Factual style:** posts are written as plain, wire-service news in one or two sentences, with no opinions, hype or invented details. The rules follow the engagement signals in X's open-source ranking code.
-- **Images:** drafts include the source's preview image, ready to attach to the post.
+- **Useful context:** drafts pair a concrete development with a supported implication, trade-off or limitation. Thin evidence produces a shorter update, not an invented take. No fabricated personal experience or engagement bait.
+- **Editor notes:** each new draft requests one story-specific check or angle for you to investigate. The note appears in Telegram and dry runs, never in the X posting link. Read the source and contribute your own perspective before publishing.
+- **Optional reference images:** source pictures are off by default. You can enable them for reference; prefer your own visuals on X and check rights before reusing third-party images.
 - **Resilient:** retries when Gemini is busy, falls back to backup models, skips broken feeds, and remembers stories and their duplicate aliases to suppress repeat drafts.
 - **Runs free:** on GitHub Actions (public repository) with Gemini's free tier.
 
@@ -31,7 +32,7 @@ Each run (every 30 minutes):
 1. **Collect and shortlist:** fetch sources with bounded concurrency, filter by date and keywords, and collapse duplicate URLs and identical substantive headlines. Reserve category slots and rotate across sources, lending unused slots in priority order. Fetch public descriptions only for shortlisted entries that need them, subject to a separate request cap.
 2. **Rank and write:** enforce the complete prompt-size limit, then send one batch of new items to Gemini, with publication times, the current time and compact context for every queued story. Gemini groups duplicate coverage, assesses importance and urgency, and drafts qualifying stories. It can identify duplicate or explicitly superseded queued stories. Source priority does not give marketing posts an automatic high score.
 3. **Queue and select:** persist qualifying drafts, their sources and aliases, original publication/discovery times and expiry in `state/state.json`. Compare saved stories with new arrivals using the deterministic priority policy below. Cached stories need no further Gemini call when there are no new candidates.
-4. **Deliver and remember:** send the highest-priority story (one per run by default) to Telegram with its picture, headline, selection reason, character count and **Post on X** / **Read article** buttons. Mark a story delivered only after a successful send; save after each success. The workflow also saves state after a failed delivery, preserving unsent drafts and earlier successes. Candidates omitted by source, category or prompt limits remain unseen and can be reconsidered within their discovery lookback window.
+4. **Deliver and remember:** send the highest-priority story (one per run by default) to Telegram with its headline, selection reason, character count, editor note and **Post on X** / **Read article** buttons. Reference pictures are optional. Mark a story delivered only after a successful send; save after each success. The workflow also saves state after a failed delivery, preserving unsent drafts and earlier successes. Candidates omitted by source, category or prompt limits remain unseen and can be reconsidered within their discovery lookback window.
 
 ### How the next story is chosen
 
@@ -144,7 +145,7 @@ All settings live in [`config.yaml`](config.yaml).
 | `quiet_hours_ist` | `["23:00", "06:30"]` | No drafts in this window (IST); the backlog is handled afterwards. |
 | `show_source` | `false` | End posts with "via <Outlet>". |
 | `include_link` | `false` | End posts with the article link. |
-| `attach_images` | `true` | Send the source's image with drafts from sources marked `images: true`. |
+| `attach_images` | `false` | Opt in to source reference images from feeds marked `images: true`; this does not grant reuse rights. |
 | `gemini_model` | `gemini-flash-latest` | Main Gemini model. |
 | `gemini_fallback_models` | see file | Tried in order if the main model is busy or retired. |
 
@@ -190,6 +191,7 @@ config.yaml                   settings, persona, keywords and sources
 state/state.json              seen items, pending drafts and recent headlines (committed by the workflow)
 tests/test_newsbot.py         offline test suite
 tests/test_queue.py           editorial queue decisions, persistence and recovery tests
+tests/test_editorial.py       editor-note isolation, queue compatibility and image opt-in
 tests/x_tab_reuse.test.mjs     offline desktop tab-routing tests (Node.js)
 desktop/x-tab-reuse/          optional Brave/Chrome/Edge extension
 .github/workflows/newsbot.yml GitHub Actions workflow
@@ -212,7 +214,14 @@ desktop/x-tab-reuse/          optional Brave/Chrome/Edge extension
 
 ## Editorial guidelines
 
-- Posts are written in Gemini's own words from each item's headline and public summary/feed excerpt (or a paper's abstract, or a model card). Posts must not copy source wording.
-- Vendor benchmark claims must be attributed; independent measurements, forecasts and opinions must remain distinguishable.
-- Gemini is instructed never to invent numbers, names, dates or quotes. Drafts should still be checked against the source before posting.
-- Images belong to their publishers. News photos are often licensed from agencies such as Getty, Reuters or AP; check before attaching them.
+- Drafts use each item's headline and public summary/feed excerpt (or a paper's abstract, or a model card). The usual structure is a concrete development plus one useful consequence or caveat, within 240 characters before optional credits/links. Do not force an India angle without evidence.
+- Facts must come from the supplied material. Direct inferences must be clearly conditional and grounded in it. A short excerpt cannot establish that the full source lacks information. Thin evidence should yield a short update and a specific check for the editor.
+- Vendor claims and exclusive reporting need attribution in the sentence even when the trailing `via` credit is disabled. Distinguish measurements from forecasts and interpretation; preserve benchmark scope, release conditions and licensing caveats.
+- The model must not invent personal opinions, firsthand tests, numbers, quotes or expertise. No copy-pasted source sentences, hype or requests for likes, follows, replies, bookmarks or reposts.
+- `editor_note` is separate editorial metadata, bounded and HTML-escaped for Telegram. It survives queueing and follows the draft when a primary source replaces it. Older queued drafts without notes still work; existing drafts are not regenerated just to change style.
+- Read the full source, check the claims, and decide what you can personally contribute. The **Post on X** button prefills only the draft; edit it in X before publishing. Draft generation remains automated and human review is not an eligibility guarantee.
+- Source images are optional reference material, not ready-to-reupload assets. Use your own visuals where useful and verify permission for any third-party material.
+
+### X Original Content Rewards
+
+As checked on 7 November 2026, [X's guidance](https://help.x.com/en/using-x/original-content-rewards) values substantive personal commentary over minimal rewrites or aggregation. It excludes content created or posted through automation, and discourages repeated engagement solicitation. The bot is therefore an editorial aid, not a rewards-eligibility solution. Prompt changes or manually clicking Post do not establish eligibility. Current entry criteria include 500 **verified** followers, 500,000 verified-user Home Timeline impressions over 90 days and a qualifying subscription, among other conditions; acceptance is not guaranteed.

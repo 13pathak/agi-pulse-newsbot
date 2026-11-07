@@ -3,7 +3,7 @@
 # ─────────────────────────────────────────────────────────────
 
 settings:
-  max_drafts_per_run: 1        # 1 draft per run (every 30 min) keeps your posts spaced out; X ranks back-to-back posts from one author lower
+  max_drafts_per_run: 1        # 1 draft per run (every 30 min) gives you time to review
   max_drafts_per_day: 0        # 0 = no daily limit; set a number (e.g. 10) to cap drafts per day
   min_importance: 6            # 1–10; Gemini scores every story, below this is ignored
   lookback_hours: 18           # ignore articles older than this
@@ -32,7 +32,7 @@ settings:
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
   show_source: false           # true = end posts with "via <Outlet>"
   include_link: false          # true = end posts with the article link
-  attach_images: true          # send a picture with drafts from feeds marked images: true
+  attach_images: false         # opt in to source images for reference; prefer your own visuals on X
   gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.
@@ -41,10 +41,11 @@ settings:
 # The voice Gemini writes in. Edit to match the account.
 persona: |
   You write posts for an X account that covers AI news for a global audience
-  with a focus on India. Voice: a fast, trustworthy AI news wire. Clear,
-  factual and neutral; no humour, no opinions. Readers follow the account
-  because every post tells them something real in a few seconds.
-  Accuracy beats speed, every time.
+  with a focus on India. Help a human editor explain what changed and why
+  it matters to people using or building AI. Voice: clear, calm, specific
+  and evidence-led. Add useful context or a limitation rather than repeating
+  a headline. Do not manufacture a personal opinion or claim firsthand use.
+  Accuracy and useful explanation beat speed and volume.
 
 # Words that mark a story as AI-related (used only for feeds with ai_only: false).
 # "AI" is matched as a whole word, case-sensitive; the rest are case-insensitive.
@@ -207,9 +208,8 @@ feeds:
     images: true
 
   # Straight from the labs (often hours ahead of the newspapers).
-  # images: true = the draft comes with the post's picture to attach on X.
-  # Note: news outlets' photos are often licensed (Getty, Reuters…); remove
-  # images: true from a feed if you'd rather not risk copyright takedowns.
+  # images: true permits a reference picture when attach_images is enabled.
+  # Source images are not original artwork or automatically licensed for reuse.
   - name: OpenAI
     category: primary
     max_candidates: 4

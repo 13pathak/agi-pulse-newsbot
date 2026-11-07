@@ -94,14 +94,16 @@ def test_expired_stories_and_their_aliases_are_retired():
 def test_duplicate_coverage_keeps_clock_and_prefers_primary_source():
     queue = state()
     settings = CONFIG["settings"]
-    newsbot.enqueue_picks(queue, [pick(1, age=5)], NOW, settings)
+    newsbot.enqueue_picks(queue, [pick(1, age=5, editor_note="Check the reporting.")], NOW, settings)
     original = deepcopy(queue["pending"][0])
-    duplicate = pick(2, urgency="breaking", category="primary", pending_id=original["item"]["id"])
+    duplicate = pick(2, urgency="breaking", category="primary", pending_id=original["item"]["id"],
+                     editor_note="Check the release license.")
     newsbot.enqueue_picks(queue, [duplicate], NOW + timedelta(hours=3), settings)
     assert len(queue["pending"]) == 1
     merged = queue["pending"][0]
     assert merged["item"]["id"] == duplicate["item"]["id"]
     assert merged["item"]["published"] == duplicate["item"]["published"]
+    assert merged["editor_note"] == duplicate["editor_note"]
     for field in ("first_seen_at", "expires_at", "urgency", "published_at"):
         assert merged[field] == original[field]
     assert merged["related"][0]["id"] == original["item"]["id"]
@@ -109,6 +111,7 @@ def test_duplicate_coverage_keeps_clock_and_prefers_primary_source():
     newsbot.enqueue_picks(queue, [another], NOW + timedelta(hours=4), settings)
     assert len(queue["pending"]) == 1  # source changes cannot invalidate pending references
     assert len(queue["pending"][0]["related"]) == 2
+    assert queue["pending"][0]["editor_note"] == duplicate["editor_note"]
     assert queue["pending"][0]["id"] == original["id"]
 
 
@@ -346,6 +349,9 @@ def test_picture_timeout_does_not_immediately_send_a_second_message(monkeypatch)
 def queue_picture_draft(env, monkeypatch, failure):
     """One queued draft with a picture; no new feed items, so Gemini is never called."""
     one_per_run(env)
+    config = yaml.safe_load(env["cfg"].read_text())
+    config["settings"]["attach_images"] = True
+    env["cfg"].write_text(yaml.safe_dump(config))
     queued = pick(1, importance=9)
     queued["item"].update(images=True, image="https://slow.test/x.png")
     queue = state()
