@@ -193,7 +193,12 @@
   "f987c08b0331cb48": "2026-11-07T14:37:22.848984+00:00",
   "5e845585dbaf7b01": "2026-11-07T14:37:22.848984+00:00",
   "c0610843d35f24ab": "2026-11-07T14:37:22.848984+00:00",
-  "3105ae181a3f1e0c": "2026-11-07T14:37:22.848984+00:00"
+  "3105ae181a3f1e0c": "2026-11-07T14:37:22.848984+00:00",
+  "b36664a884562cbe": "2026-11-07T15:07:23.759119+00:00",
+  "7cbbe0978467f6ea": "2026-11-07T15:07:23.759119+00:00",
+  "055e03fe8fc4b1cc": "2026-11-07T15:07:23.759119+00:00",
+  "eb20fdeaf759b817": "2026-11-07T15:07:23.759119+00:00",
+  "01ebb04662f29807": "2026-11-07T15:07:23.759119+00:00"
  },
  "covered": [
   {
@@ -279,11 +284,15 @@
   {
    "headline": "Nvidia researchers introduce VFlash for faster visual planning",
    "ts": "2026-11-07T14:37:22.848984+00:00"
+  },
+  {
+   "headline": "Epoch AI estimates Huawei data center capacity at 7 percent of Colossus 2",
+   "ts": "2026-11-07T15:07:23.759119+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1104,6 +1113,78 @@
    "desc": "Higher realism. Stronger text rendering. Better creative control.",
    "image": "https://media.x.ai/v1/website/grok-imagine-quality-mode-og-d933a2dd.png",
    "published": "2026-05-06T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-custom-voices": {
+   "title": "Custom Voices",
+   "desc": "Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Speech to Speech APIs.",
+   "image": "https://media.x.ai/v1/website/grok-custom-voices-d5eafa89.webp",
+   "published": "2026-04-30T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-voice-think-fast-1": {
+   "title": "Grok Voice 1.0",
+   "desc": "Our most capable voice agent is now available via API.",
+   "image": "https://media.x.ai/v1/website/grok-voice-think-fast-1-1d8f155a.webp",
+   "published": "2026-04-23T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-stt-and-tts-apis": {
+   "title": "Grok Speech to Text and Text to Speech APIs",
+   "desc": "Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support.",
+   "image": "https://media.x.ai/v1/website/grok-voice-sst-57158b03.webp",
+   "published": "2026-04-17T00:00:00+00:00"
+  },
+  "https://x.ai/news/xai-joins-spacex": {
+   "title": "xAI joins SpaceX",
+   "desc": "SpaceX announced today that it has acquired xAI.",
+   "image": "https://media.x.ai/v1/website/spacex-acquisition-3ce5e215.webp",
+   "published": "2026-02-02T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-imagine-api": {
+   "title": "Grok Imagine API",
+   "desc": "State-of-the-art video generation across quality, cost, and latency.",
+   "image": "https://media.x.ai/v1/website/imagine-api-ec325d95.webp",
+   "published": "2026-01-28T00:00:00+00:00"
+  },
+  "https://x.ai/news/series-e": {
+   "title": "xAI Raises $20B Series E",
+   "desc": "xAI is rapidly accelerating its progress in building advanced AI.",
+   "image": "https://media.x.ai/v1/website/series-e-c9c94e36.webp",
+   "published": "2026-01-06T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-business": {
+   "title": "Introducing Grok Business and Grok Enterprise",
+   "desc": "The best assistant in the world is now Enterprise ready.",
+   "image": "https://media.x.ai/v1/website/grok-business-531fa827.webp",
+   "published": "2025-12-30T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-collections-api": {
+   "title": "Grok Collections API",
+   "desc": "State-of-the-art RAG system built directly into our API.",
+   "image": "https://media.x.ai/v1/website/collections-api-1d546e34.webp",
+   "published": "2025-12-22T00:00:00+00:00"
+  },
+  "https://x.ai/news/us-gov-dept-of-war": {
+   "title": "Supporting the DOW's mission with AI",
+   "desc": "xAI is proud to be selected by the US Department of War to deliver Frontier AI",
+   "image": "https://media.x.ai/v1/website/dow-33656674.webp",
+   "published": "2025-12-22T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-voice-agent-api": {
+   "title": "Grok Voice Agent API",
+   "desc": "Bringing the power of Grok Voice to all developers.",
+   "image": "https://media.x.ai/v1/website/voice-api-6c6e2509.webp",
+   "published": "2025-12-17T00:00:00+00:00"
+  },
+  "https://x.ai/news/el-salvador-partnership": {
+   "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program",
+   "desc": "Announcing Our Transformative Partnership with the Government of El Salvador.",
+   "image": "https://media.x.ai/v1/website/el-salvador-9ec63291.webp",
+   "published": "2025-12-11T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-1-fast": {
+   "title": "Grok 4.1 Fast and Agent Tools API",
+   "desc": "Bringing the next generation of tool-calling agents to the xAI API",
+   "image": "https://media.x.ai/v1/website/grok-4-1-fast-api-e43bcc8c.webp",
+   "published": "2025-11-19T00:00:00+00:00"
   }
  }
 }
