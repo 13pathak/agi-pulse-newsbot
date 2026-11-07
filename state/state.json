@@ -124,7 +124,8 @@
   "9fae739bb805cc23": "2026-11-07T07:07:22.327332+00:00",
   "73eb3d587d9b602a": "2026-11-07T07:07:22.327332+00:00",
   "1133b483357c5d0e": "2026-11-07T07:37:21.663898+00:00",
-  "9ef6c5abbfaa19e4": "2026-11-07T07:37:21.663898+00:00"
+  "9ef6c5abbfaa19e4": "2026-11-07T07:37:21.663898+00:00",
+  "52e86082237709a5": "2026-11-07T08:07:23.026316+00:00"
  },
  "covered": [
   {
@@ -170,11 +171,15 @@
   {
    "headline": "Google acquires Crusoe data center site in Wyoming",
    "ts": "2026-11-07T07:37:21.663898+00:00"
+  },
+  {
+   "headline": "Three men charged over $100m AI voice fraud",
+   "ts": "2026-11-07T08:07:23.026316+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -266,6 +271,72 @@
    "desc": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "published": ""
+  },
+  "https://www.anthropic.com/news/singapore-office-opening": {
+   "title": "Singapore office and government MOU | Anthropic",
+   "desc": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-10-14T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/distillation-defenses": {
+   "title": "Strengthening our defenses against distillation attacks",
+   "desc": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a5934d1ae8428b2a97fae1963a5f427594fc7202-1200x630.jpg",
+   "published": "2026-10-12T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/anthropic-cyber-mission": {
+   "title": "Introducing the Anthropic Cyber Mission",
+   "desc": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg",
+   "published": "2026-10-08T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/security": {
+   "title": "Security",
+   "desc": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": ""
+  },
+  "https://www.anthropic.com/news/2026-usage-policy-update": {
+   "title": "2026 Usage Policy update",
+   "desc": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-10-08T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/genesis-mission-commitment": {
+   "title": "Building on our commitment to American scientific discovery",
+   "desc": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-10-08T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/cyber-verification-program": {
+   "title": "Expanding the Cyber Verification Program",
+   "desc": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-10-06T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/claude-frontier-academy": {
+   "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+   "desc": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-10-02T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/barclays-scales-claude": {
+   "title": "Barclays scales Claude to upgrade operations and improve client experience",
+   "desc": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-10-01T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/accenture-embedded-evaluation": {
+   "title": "Partnering with Accenture on embedded evaluation",
+   "desc": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-09-18T00:00:00.000Z"
+  },
+  "https://www.anthropic.com/news/life-sciences-verification-program": {
+   "title": "Introducing the Life Sciences Verification Program",
+   "desc": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "published": "2026-09-17T00:00:00.000Z"
   }
  }
 }
