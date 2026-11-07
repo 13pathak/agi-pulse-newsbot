@@ -171,7 +171,15 @@
   "d909ae271e195777": "2026-11-07T12:37:25.438106+00:00",
   "0b863f4f1f8606b7": "2026-11-07T12:37:25.438106+00:00",
   "51318c175f43cb36": "2026-11-07T12:37:25.438106+00:00",
-  "ce2ae1c96c81d442": "2026-11-07T12:37:25.438106+00:00"
+  "ce2ae1c96c81d442": "2026-11-07T12:37:25.438106+00:00",
+  "0f0cb95e5bb05a5c": "2026-11-07T13:07:19.812716+00:00",
+  "f5b8adcdd8f19af6": "2026-11-07T13:07:19.812716+00:00",
+  "588776d5fd509bfe": "2026-11-07T13:07:19.812716+00:00",
+  "903f3d6e677960b5": "2026-11-07T13:07:19.812716+00:00",
+  "5d4f7dc67c8873a8": "2026-11-07T13:07:19.812716+00:00",
+  "7a62046505075dea": "2026-11-07T13:07:19.812716+00:00",
+  "79241398b4994950": "2026-11-07T13:07:19.812716+00:00",
+  "31212707ca79787a": "2026-11-07T13:07:19.812716+00:00"
  },
  "covered": [
   {
@@ -241,11 +249,15 @@
   {
    "headline": "Anthropic AI development pace doubles using AI systems",
    "ts": "2026-11-07T12:37:25.438106+00:00"
+  },
+  {
+   "headline": "Nothing to launch screen-free AI hardware next month",
+   "ts": "2026-11-07T13:07:19.812716+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -652,6 +664,174 @@
    "desc": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/3lNbSQIg31Dg9aBrUjuQMI/131fea8d534499ca30f7a9f880269d74/biobasicsbench-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-04T00:00:00-08:00"
+  },
+  "https://www.sarvam.ai/blogs/evaluating-indian-language-asr": {
+   "title": "Indic ASR evaluation: beyond WER to LLM & semantic metrics | Sarvam AI",
+   "desc": "Why WER/CER misjudge Indian-language ASR when scripts mix and spellings vary. Covers LLM-WER, LLM-CER, Intent, Entity, and COMET-plus open evaluation tooling.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/f9eda141eb063a92ed8c01a81b9b7dae871e7451-2016x1260.png",
+   "published": "2026-04-02T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-30b-105b": {
+   "title": "Open-sourcing Sarvam 30B & 105B models | Sarvam AI",
+   "desc": "Sarvam open-sources 30B and 105B reasoning models trained in India: MoE LLMs with leading Indian-language benchmarks; weights on AI Kosh and Hugging Face.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/ef7fefef0603837a95a8ad4547cb5def4818dbe9-2016x1260.png",
+   "published": "2026-03-06T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/introducing-indus": {
+   "title": "Introducing Indus for Indian languages | Sarvam AI",
+   "desc": "Indus is Sarvam's limited-beta interface to our 105B sovereign model, built for accuracy and alignment for India, with feedback shaping the road to full sovereignty.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/a781d0105845e4e9b69bf336b842cc8964f38929-1008x630.png",
+   "published": "2026-02-20T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-akshar": {
+   "title": "Introducing Sarvam Akshar | Sarvam AI",
+   "desc": "Akshar is a document intelligence workbench built on Sarvam Vision, enabling grounded reasoning, layout-aware extraction, and automated proofreading.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/fff4fe106a03242dec49bd27025e1b55a51de0b9-1800x1350.png",
+   "published": "2026-02-15T07:20:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-edge": {
+   "title": "Announcing Sarvam Edge | Sarvam AI",
+   "desc": "Announcing Sarvam Edge: on-device intelligence that brings Sarvam models to the edge for low-latency, private AI.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/42d675e333219227dd0a6872d6405088722eb6e1-2400x1800.png",
+   "published": "2026-02-14T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-studio": {
+   "title": "Introducing Sarvam Studio AI platform | Sarvam AI",
+   "desc": "Sarvam Studio is our AI platform for building, testing, and deploying Indic language applications in one place.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/a8c0e7c607de1a5f08beffb3644b9bd468d6238e-2400x1800.png",
+   "published": "2026-02-13T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/asr": {
+   "title": "Introducing Saaras V3 speech recognition | Sarvam AI",
+   "desc": "Introducing Saaras V3, speech recognition built for the way India speaks, with strong accuracy across Indian languages and code-mixed speech.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/9169939a6657e90c740ae4e658261315366d8987-1800x1350.png",
+   "published": "2026-02-11T12:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/introducing-sarvam-arya": {
+   "title": "Introducing Sarvam Arya agent stack | Sarvam AI",
+   "desc": "Introducing Sarvam Arya, our agent orchestration stack for building and running production-grade AI agents.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/0f08fd1c8f9acf204c7b88990b3643e1006ddbb5-1800x1350.png",
+   "published": "2026-02-10T00:00:00+00:00"
+  },
+  "https://x.ai/news/designing-grok-bot": {
+   "title": "Designing Grok Bot for a world of persistent agents",
+   "desc": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
+   "image": "https://x.ai/images/news/designing-grok-bot-og.png",
+   "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-bot-for-enterprise": {
+   "title": "Grok Bot for Enterprise",
+   "desc": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+   "image": "https://x.ai/images/news/grok-bot-for-enterprise-og-split.webp",
+   "published": "2026-09-03T00:00:00+00:00"
+  },
+  "https://x.ai/news/biosafety-at-the-frontier": {
+   "title": "Biosecurity at the frontier",
+   "desc": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
+   "image": "https://media.x.ai/v1/website/biosec_frontier-1584260e.png",
+   "published": "2026-09-01T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-bot-and-x": {
+   "title": "Grok Bot now works with X",
+   "desc": "Grok Bot now has a tighter integration with X.",
+   "image": "https://x.ai/images/news/grok-bot-and-x-og.webp",
+   "published": "2026-08-29T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-6-microsoft-foundry": {
+   "title": "Grok 4.6 on Microsoft Foundry",
+   "desc": "Grok 4.6 is now available via Microsoft Foundry.",
+   "image": "https://x.ai/images/news/og-4-6-on-foundry.webp",
+   "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-bot-more-plans": {
+   "title": "Grok Bot is now included with more plans",
+   "desc": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+   "image": "https://x.ai/images/news/grok-bot-more-plans-og.webp",
+   "published": "2026-08-26T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-6-vertex-ai": {
+   "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+   "desc": "Grok 4.6 is now available via Gemini Enterprise Agent Platform.",
+   "image": "https://x.ai/images/news/og-gemini-enterprise-agent-platform.webp",
+   "published": "2026-08-21T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-6-amazon-bedrock": {
+   "title": "Grok 4.6 on Amazon Bedrock",
+   "desc": "Grok 4.6 is now available via Amazon Bedrock.",
+   "image": "https://x.ai/images/news/og-grok-4-6-on-bedrock.webp",
+   "published": "2026-08-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-build-for-everyone": {
+   "title": "Grok Build on web and mobile",
+   "desc": "Grok Build is now available on every plan, on the web and on mobile.",
+   "image": "https://x.ai/images/news/grok-build-for-everyone-og.png",
+   "published": "2026-08-19T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-6-github-copilot": {
+   "title": "Grok 4.6 in GitHub Copilot",
+   "desc": "Grok 4.6, our latest coding model, is now available in GitHub Copilot.",
+   "image": "https://x.ai/images/news/og-4-6-in-github-copilot.webp",
+   "published": "2026-08-14T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-4-6": {
+   "title": "Introducing Grok 4.6",
+   "desc": "Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.",
+   "image": "https://x.ai/images/news/grok-4-6-og.png",
+   "published": "2026-08-12T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-grok-bot": {
+   "title": "Introducing Grok Bot",
+   "desc": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+   "image": "https://x.ai/images/news/introducing-grok-bot-og-2.png",
+   "published": "2026-08-11T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud": {
+   "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+   "desc": "Best practices for managing costs and measuring return on investment for Anthropic's Claude Code on Google Cloud.",
+   "image": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud/opengraph-image/og",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/claude-for-financial-advisors": {
+   "title": "Claude for Financial Advisors",
+   "desc": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
+   "image": "https://claude.com/resources/articles/claude-for-financial-advisors/opengraph-image/og",
+   "published": "2026-10-27T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/expanding-claude-for-nonprofits": {
+   "title": "Expanding Claude for Nonprofits",
+   "desc": "Anthropic's new Claude for Nonprofits plugin brings new skills to verified nonprofit organizations, taking the operational work that stretches small teams.",
+   "image": "https://claude.com/resources/articles/expanding-claude-for-nonprofits/opengraph-image/og",
+   "published": "2026-10-26T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/unified-claude-enterprise": {
+   "title": "Claude Cowork and chat come together for Enterprise",
+   "desc": "Chat and Cowork first came together for Pro and Max plans in September. The same unified experience is now generally available for Claude Enterprise plans.",
+   "image": "https://claude.com/resources/articles/unified-claude-enterprise/opengraph-image/og",
+   "published": "2026-10-23T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks": {
+   "title": "Kimi K3.1 Pro launches at 4th on the Intelligence Index and will lead open weights models",
+   "desc": "Kimi K3.1 Pro launches at 4th on the Artificial Analysis Intelligence Index and will lead open weights models",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/4ce2bc04c5480953a3aea0821e1be7fd95b0e0a0-1033x1032.png?w=1200&auto=format",
+   "published": "2026-10-23T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/healthbench-professional-health-conversations": {
+   "title": "HealthBench and HealthBench Professional: Evaluating models in realistic health conversations",
+   "desc": "We’re launching leaderboards for HealthBench and HealthBench Professional, two benchmarks evaluating how AI models respond in realistic health conversations",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/b6f17271e2ea16d943810187a1853ee8508142ce-1254x1254.png?w=1200&auto=format",
+   "published": "2026-10-19T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/aa-personalitybench": {
+   "title": "Announcing AA-PersonalityBench: measuring how AI models communicate",
+   "desc": "A new evaluation measuring the personality and communication style of AI models across 30 judged traits, 8 personality indexes and 21 measured communication characteristics.",
+   "image": "https://artificialanalysiscdn.com/article-assets/2026/aa-personalitybench.jpg",
+   "published": "2026-10-19T00:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/reflection-beam": {
+   "title": "Reflection has released Beam, their first model launch",
+   "desc": "Reflection’s first model, Beam, scores 30 on the Artificial Analysis Intelligence Index, placing it #2 among US open weights models",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/5e08c92ba5e4ff7032dfea1572ab0277e454fc22-1079x1079.png?w=1200&auto=format",
+   "published": "2026-10-16T00:00:00+00:00"
   }
  }
 }
