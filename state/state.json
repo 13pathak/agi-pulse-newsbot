@@ -184,7 +184,12 @@
   "c75bfb16cb415abe": "2026-11-07T13:37:20.724106+00:00",
   "317e2e130bafb150": "2026-11-07T13:37:20.724106+00:00",
   "ae356485e4197a75": "2026-11-07T13:37:20.724106+00:00",
-  "3e407aae56c89ae9": "2026-11-07T13:37:20.724106+00:00"
+  "3e407aae56c89ae9": "2026-11-07T13:37:20.724106+00:00",
+  "aa3a68bb9ff6c15d": "2026-11-07T14:07:20.405511+00:00",
+  "cfd4354afa14004f": "2026-11-07T14:07:20.405511+00:00",
+  "bc2d0068f56d93e1": "2026-11-07T14:07:20.405511+00:00",
+  "022e329a512042ed": "2026-11-07T14:07:20.405511+00:00",
+  "fdbf6954c9e00b1c": "2026-11-07T14:07:20.405511+00:00"
  },
  "covered": [
   {
@@ -262,11 +267,15 @@
   {
    "headline": "Nous Research strips bias from Alibaba AI model",
    "ts": "2026-11-07T13:37:20.724106+00:00"
+  },
+  {
+   "headline": "OpenAI releases BioBasicsBench benchmark for science agents",
+   "ts": "2026-11-07T14:07:20.405511+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -943,6 +952,78 @@
    "desc": "Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.",
    "image": "https://media.x.ai/v1/website/grok-automations-og-93199cf4.jpg",
    "published": "2026-07-16T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-build-open-source": {
+   "title": "Grok Build is Now Open Source",
+   "desc": "Explore the harness behind our coding agent and TUI.",
+   "image": "https://media.x.ai/v1/website/open-source-cover-930d1067.png",
+   "published": "2026-07-15T00:00:00+00:00"
+  },
+  "https://x.ai/news/new-flagship-voices": {
+   "title": "21 New Flagship Grok Voices",
+   "desc": "New multilingual voices for Grok Voice, plus improved naturalness for the original five.",
+   "image": "https://media.x.ai/v1/website/new-flagship-voices-6e40ffad.webp",
+   "published": "2026-07-06T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-voice-agent-builder": {
+   "title": "Introducing the Voice Agent Builder",
+   "desc": "Create a personalized voice agent in under 2 minutes without a single line of code.",
+   "image": "https://media.x.ai/v1/website/grok-voice-agent-builder-0caac71c.webp",
+   "published": "2026-07-01T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-goal": {
+   "title": "Introducing /goal",
+   "desc": "Use /goal for long-running autonomous task execution in Grok Build.",
+   "image": "https://media.x.ai/v1/website/introducing-goal-og-62e9a5f8.webp",
+   "published": "2026-06-22T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-databricks": {
+   "title": "Grok on Databricks",
+   "desc": "Grok models are now available on Databricks Agent Bricks.",
+   "image": "https://media.x.ai/v1/website/grok-databricks-21d5922f.webp",
+   "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-word-addin": {
+   "title": "Introducing Grok for Word",
+   "desc": "Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word.",
+   "image": "https://media.x.ai/v1/website/introducing-word-addin-title-abf047af.webp",
+   "published": "2026-06-18T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-amazon-bedrock": {
+   "title": "Grok on Amazon Bedrock",
+   "desc": "Grok models are now available via Amazon Bedrock.",
+   "image": "https://media.x.ai/v1/website/grok-aws-bedrock-e15961af.jpg",
+   "published": "2026-06-17T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-imagine-video-1-5": {
+   "title": "Grok Imagine Video 1.5",
+   "desc": "Improved quality at even faster speeds.",
+   "image": "https://media.x.ai/v1/website/grok-imagine-video-1-5-og-10a5c726.png",
+   "published": "2026-06-16T00:00:00+00:00"
+  },
+  "https://x.ai/news/introducing-powerpoint-addin": {
+   "title": "Introducing Grok for PowerPoint",
+   "desc": "Grok now works inside Microsoft PowerPoint — turn outlines into slides, expand the deck, and tighten the narrative without leaving the app.",
+   "image": "https://media.x.ai/v1/website/grok-ppt-3c8fe7c3.webp",
+   "published": "2026-06-16T00:00:00+00:00"
+  },
+  "https://x.ai/news/agent-dashboard": {
+   "title": "Agent Dashboard in Grok Build",
+   "desc": "Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work.",
+   "image": "https://media.x.ai/v1/website/agent-dashboard-og-22afca7c.jpg",
+   "published": "2026-06-15T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-warp": {
+   "title": "Use Grok in Warp",
+   "desc": "Use your Grok and X Premium subscription inside Warp.",
+   "image": "https://media.x.ai/v1/website/grok-warp-912f684e.webp",
+   "published": "2026-06-15T00:00:00+00:00"
+  },
+  "https://x.ai/news/grok-plugin-marketplace": {
+   "title": "Grok Build Plugin Marketplace",
+   "desc": "Launching the built-in plugin marketplace for Grok Build.",
+   "image": "https://media.x.ai/v1/website/grok-plugin-marketplace-937ebfa4.webp",
+   "published": "2026-06-11T00:00:00+00:00"
   }
  }
 }
