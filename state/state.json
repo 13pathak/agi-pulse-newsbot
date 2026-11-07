@@ -206,7 +206,8 @@
   "ba30d0a56b147d1f": "2026-11-07T16:37:22.384460+00:00",
   "ccf16ddd4103ccd1": "2026-11-07T16:37:22.384460+00:00",
   "e54bace2c1ca1843": "2026-11-07T16:37:22.384460+00:00",
-  "c7cadefc098fe5f0": "2026-11-07T16:37:22.384460+00:00"
+  "c7cadefc098fe5f0": "2026-11-07T16:37:22.384460+00:00",
+  "020ac8fbca2d32b4": "2026-11-07T17:07:22.056797+00:00"
  },
  "covered": [
   {
@@ -304,11 +305,15 @@
   {
    "headline": "Vals AI finds profanity in Inkling 2 Small reasoning traces",
    "ts": "2026-11-07T16:37:22.384460+00:00"
+  },
+  {
+   "headline": "AI auditors catch agent misbehavior but trigger false alarms",
+   "ts": "2026-11-07T17:07:22.056797+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-07",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
