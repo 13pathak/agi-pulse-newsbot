@@ -6,7 +6,7 @@ from datetime import timedelta
 import pytest
 import yaml
 
-from test_newsbot import CONFIG, NOW, candidate, env  # noqa: F401
+from test_newsbot import CONFIG, NOW, Resp, candidate, env  # noqa: F401
 import newsbot
 
 
@@ -236,29 +236,99 @@ def test_rejected_draft_is_retired_and_next_story_is_delivered_same_run(env, mon
     assert run(env, NOW + timedelta(minutes=30)) == 0 and len(env["sent"]) == 1
 
 
-def test_temporary_failures_keep_draft_until_attempt_limit(env, monkeypatch):
+def test_temporary_failures_keep_all_drafts_beyond_six_attempts_then_recover(env, monkeypatch):
     one_per_run(env)
+    send = newsbot.send_telegram
 
     def offline(*_):
         raise newsbot.requests.ConnectionError("Telegram offline")
 
     monkeypatch.setattr(newsbot, "send_telegram", offline)
-    for attempt in range(1, newsbot.MAX_DELIVERY_ATTEMPTS):
+    for attempt in range(1, 9):
         assert run(env, NOW + timedelta(minutes=30 * attempt)) == 1
-        head = json.loads(env["state"].read_text())["pending"][0]
+        saved = json.loads(env["state"].read_text())
+        head = saved["pending"][0]
         assert "GPT-6" in head["headline"] and head["delivery_attempts"] == attempt
-    assert run(env, NOW + timedelta(hours=4)) == 1
-    pending = json.loads(env["state"].read_text())["pending"]
-    assert [p["headline"] for p in pending] == ["Sarvam Hindi voice model"]
+        assert len(saved["pending"]) == 2 and saved["covered"] == []
+        assert all(item["id"] not in saved["seen"] for p in saved["pending"] for item in newsbot.story_items(p))
+    monkeypatch.setattr(newsbot, "send_telegram", send)
+    assert run(env, NOW + timedelta(hours=5)) == 0
+    assert len(env["sent"]) == 1 and "GPT-6" in env["sent"][0]["text"]
+    assert len(json.loads(env["state"].read_text())["pending"]) == 1
 
 
-@pytest.mark.parametrize("status", [401, 403, 429, 502])
-def test_account_or_service_errors_never_retire_on_first_failure(status):
-    assert not newsbot.TelegramError(status, "x").rejected
-    assert newsbot.TelegramError(400, "x").rejected
+@pytest.mark.parametrize("status,detail,parameters", [
+    (400, "Bad Request: chat not found", {}),
+    (400, "Bad Request: private chat not found", {}),
+    (400, "Bad Request: group chat was upgraded to a supergroup chat", {"migrate_to_chat_id": -100123}),
+    (400, "Unknown Telegram failure", {}),
+    (400, "Bad Request: can't parse entities", {"migrate_to_chat_id": -100123}),
+    (400, "Bad Request: message is too long", {"retry_after": 3600}),
+    (401, "Unauthorized", {}), (403, "Forbidden", {}), (404, "Not Found", {}),
+    (429, "Too Many Requests", {"retry_after": 3600}), (502, "Bad Gateway", {}),
+])
+def test_account_service_and_unknown_errors_preserve_entire_queue(env, monkeypatch, status, detail, parameters):
+    one_per_run(env)
+    calls = []
+
+    def refuse(url, **kw):
+        calls.append(url)
+        return Resp(status=status, payload={"description": detail, "parameters": parameters})
+
+    # Use the real delivery code and fake only Telegram, after filling the queue.
+    send = newsbot.send_telegram
+    def send_with_fake_http(*args):
+        with monkeypatch.context() as patch:
+            patch.setattr(newsbot.requests, "post", refuse)
+            return send(*args)
+    monkeypatch.setattr(newsbot, "send_telegram", send_with_fake_http)
+    assert run(env) == 1
+    saved = json.loads(env["state"].read_text())
+    assert len(calls) == 1 and len(saved["pending"]) == 2
+    assert saved["pending"][0]["delivery_attempts"] == 1
+    assert saved["covered"] == [] and saved["daily"]["count"] == 0
+    assert all(item["id"] not in saved["seen"] for p in saved["pending"] for item in newsbot.story_items(p))
 
 
-def test_picture_timeout_falls_back_to_text(monkeypatch):
+@pytest.mark.parametrize("status,detail", [
+    (400, "Bad Request: can't parse entities: unsupported start tag"),
+    (400, "Bad Request: message is too long"),
+    (400, "Bad Request: inline keyboard button URL 'x' is invalid: URL host is empty"),
+    (413, "Request Entity Too Large"),
+])
+def test_only_confirmed_content_rejections_can_retire_drafts(status, detail):
+    assert newsbot.TelegramError.from_response(Resp(status=status, payload={"description": detail})).rejected
+
+
+def test_unparseable_telegram_error_is_retained_conservatively():
+    response = Resp(status=400, content=b"<html>Unknown proxy error</html>")
+    response.json = lambda: (_ for _ in ()).throw(ValueError("not JSON"))
+    error = newsbot.TelegramError.from_response(response)
+    assert not error.rejected and not error.photo_rejected
+
+
+def test_rate_limit_cooldown_survives_restarts_and_delivery_resumes(env, monkeypatch):
+    one_per_run(env)
+    send = newsbot.send_telegram
+    calls = []
+
+    def limited(*args):
+        calls.append(args)
+        raise newsbot.TelegramError(429, "Too Many Requests", {"retry_after": 3600})
+
+    monkeypatch.setattr(newsbot, "send_telegram", limited)
+    assert run(env) == 1
+    saved = json.loads(env["state"].read_text())
+    assert newsbot.article_date(saved["telegram_retry_at"]) >= NOW + timedelta(hours=1)
+    assert run(env, NOW + timedelta(minutes=30)) == 0 and len(calls) == 1
+    assert len(json.loads(env["state"].read_text())["pending"]) == 2
+    monkeypatch.setattr(newsbot, "send_telegram", send)
+    assert run(env, NOW + timedelta(hours=1, minutes=1)) == 0
+    assert len(env["sent"]) == 1
+    assert "telegram_retry_at" not in json.loads(env["state"].read_text())
+
+
+def test_picture_timeout_does_not_immediately_send_a_second_message(monkeypatch):
     calls = []
 
     def post(url, json=None, **kw):
@@ -268,8 +338,60 @@ def test_picture_timeout_falls_back_to_text(monkeypatch):
         return type("R", (), {"ok": True})()
 
     monkeypatch.setattr(newsbot.requests, "post", post)
-    newsbot.send_telegram("t", "1", "draft", [], photo="https://slow.test/x.png")
-    assert calls == ["sendPhoto", "sendMessage"]
+    with pytest.raises(newsbot.requests.ReadTimeout):
+        newsbot.send_telegram("t", "1", "draft", [], photo="https://slow.test/x.png")
+    assert calls == ["sendPhoto"]
+
+
+@pytest.mark.parametrize("status,detail", [
+    (400, "Bad Request: chat not found"), (400, "Unknown rejection"),
+    (401, "Unauthorized"), (429, "Too Many Requests"), (503, "Unavailable"),
+])
+def test_photo_destination_and_service_errors_do_not_attempt_text(monkeypatch, status, detail):
+    calls = []
+    def post(url, **kw):
+        calls.append(url)
+        return Resp(status=status, payload={"description": detail})
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    with pytest.raises(newsbot.TelegramError):
+        newsbot.send_telegram("t", "1", "draft", [], photo="https://example.test/x.png")
+    assert len(calls) == 1 and calls[0].endswith("/sendPhoto")
+
+
+def test_failed_drafts_still_expire_on_editorial_deadline(env, monkeypatch):
+    one_per_run(env)
+    def offline(*_):
+        raise newsbot.requests.ConnectionError("Offline")
+    monkeypatch.setattr(newsbot, "send_telegram", offline)
+    assert run(env) == 1
+    monkeypatch.setattr(newsbot, "fetch_sources", lambda *_: iter([]))
+    assert run(env, NOW + timedelta(hours=48)) == 0
+    assert json.loads(env["state"].read_text())["pending"] == []
+
+
+def test_filter_logs_explain_each_exclusion_without_changing_selection(monkeypatch, caplog):
+    config = deepcopy(CONFIG)
+    config["settings"]["max_candidates"] = 1
+    config["feeds"] = [{"name": "General", "ai_only": False}, {"name": "Lab", "ai_only": True}]
+    items = [candidate("General", n) for n in range(6)]
+    items[0]["published"] = NOW - timedelta(days=10)  # counted only once, as seen
+    items[2]["published"] = NOW - timedelta(days=10)
+    items[3].update(title="A camera announcement", snippet="New lens.")
+    items[5]["url"] = items[4]["url"]  # duplicate after eligibility checks
+    lab = candidate("Lab", 1, title="A camera announcement", snippet="New lens.")
+    queue = state()
+    queue["seen"][items[0]["id"]] = NOW.isoformat()
+    queued = pick(1)
+    queued["item"] = items[1]
+    newsbot.enqueue_picks(queue, [queued], NOW, config["settings"])
+    monkeypatch.setattr(newsbot, "fetch_sources", lambda *_: iter([
+        (config["feeds"][0], items, None), (config["feeds"][1], [lab], None)]))
+    with caplog.at_level("INFO", logger="newsbot"):
+        chosen = newsbot.collect_candidates(config, queue, NOW)
+    assert len(chosen) == 1
+    assert "7 fetched; seen=1 queued=1 old=1 keyword_miss=1 eligible=3; duplicates=1 shortlist_omitted=1 prompt_omitted=0" in caplog.text
+    lab_line = next(line for line in caplog.messages if line.startswith("filter ") and "Lab" in line)
+    assert "keyword_miss=0 eligible=1" in lab_line  # AI-only feeds bypass keyword checks
 
 
 def test_dry_run_leaves_queue_file_unchanged_and_sends_nothing(env):

@@ -639,6 +639,7 @@ def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
     s = config["settings"]
     kw = build_keyword_regex(config.get("keywords", []))
     fresh = []
+    totals = Counter()
     pending_ids = {item["id"] for pick in state.get("pending", []) for item in story_items(pick)}
     for feed, items, error in fetch_sources(config, state.setdefault("pages", {})):
         cutoff = now - timedelta(hours=feed.get("lookback_hours", s["lookback_hours"]))
@@ -646,25 +647,43 @@ def collect_candidates(config: dict, state: dict, now: datetime) -> list[dict]:
             log.warning("feed FAILED %-26s %s", feed["name"], error)
             continue
         log.info("feed OK     %-26s %3d items", feed["name"], len(items))
+        counts = Counter()
         for it in items:
-            if it["id"] in state["seen"] or it["id"] in pending_ids:
+            if it["id"] in state["seen"]:
+                counts["seen"] += 1
+                continue
+            if it["id"] in pending_ids:
+                counts["queued"] += 1
                 continue
             if it["published"] and it["published"] < cutoff:
+                counts["old"] += 1
                 continue
             if not feed.get("ai_only", False) and not kw.search(it["title"] + " " + it["snippet"]):
+                counts["keyword_miss"] += 1
                 continue
             it["images"] = bool(feed.get("images", False))   # may we offer this source's picture?
             it["category"] = feed.get("category", it.get("kind", "news"))
             it["source_cap"] = feed.get("max_candidates", s.get("max_candidates_per_source", 3))
             fresh.append(it)
+            counts["eligible"] += 1
+        totals.update(counts)
+        log.info("filter      %-26s seen=%d queued=%d old=%d keyword_miss=%d eligible=%d",
+                 feed["name"], counts["seen"], counts["queued"], counts["old"],
+                 counts["keyword_miss"], counts["eligible"])
     # A primary source wins duplicate attribution even when press coverage is newer.
     fresh.sort(key=lambda i: (CATEGORY_ORDER.index(candidate_category(i)),
                              -i.get("upvotes", i.get("trend", 0)),
                              -(i["published"] or now).timestamp(), i["source"], i["id"]))
     unique = dedupe_candidates(fresh)
     chosen = prioritize_candidates(unique, s)
+    shortlisted = len(chosen)
     enrich_candidates(chosen, config, state["pages"])
     chosen = fit_prompt_budget(config, state, chosen, now)
+    log.info("filters: %d fetched; seen=%d queued=%d old=%d keyword_miss=%d eligible=%d; "
+             "duplicates=%d shortlist_omitted=%d prompt_omitted=%d",
+             sum(totals.values()), totals["seen"], totals["queued"], totals["old"],
+             totals["keyword_miss"], totals["eligible"], len(fresh) - len(unique),
+             len(unique) - shortlisted, shortlisted - len(chosen))
     log.info("candidates: %d fresh, %d distinct, %d shortlisted; categories=%s; prompt=%d chars",
              len(fresh), len(unique), len(chosen), dict(Counter(candidate_category(c) for c in chosen)),
              len(build_prompt(config, state, chosen, now)))
@@ -1042,46 +1061,83 @@ def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
 
 
 class TelegramError(RuntimeError):
-    """Telegram refused a message; `rejected` means this draft itself can never be sent."""
+    """Only known content errors justify retiring a draft; unknown errors retain it."""
 
-    def __init__(self, status: int, detail: str):
+    def __init__(self, status: int, detail: str, parameters: dict | None = None):
         super().__init__(f"Telegram error {status}: {detail}")
         self.status = status
+        self.detail = detail.casefold().removeprefix("bad request:").strip()
+        self.parameters = parameters or {}
+
+    @classmethod
+    def from_response(cls, response: requests.Response) -> TelegramError:
+        try:
+            payload = response.json()
+        except ValueError:
+            payload = None
+        payload = payload if isinstance(payload, dict) else {}
+        detail = payload.get("description")
+        if not isinstance(detail, str):
+            detail = response.text[:300]
+        parameters = payload.get("parameters")
+        return cls(response.status_code, detail, parameters if isinstance(parameters, dict) else {})
+
+    @property
+    def retry_after(self) -> int | None:
+        delay = self.parameters.get("retry_after")
+        return delay if type(delay) is int and delay >= 0 else None
+
+    @property
+    def destination_or_throttle(self) -> bool:
+        return "migrate_to_chat_id" in self.parameters or "retry_after" in self.parameters
 
     @property
     def rejected(self) -> bool:
-        # 400/413 describe the message (bad markup, button URL, size). 401/403/404 are
-        # token or chat problems and 429/5xx are temporary: those affect every draft.
-        return self.status in (400, 413)
+        if self.destination_or_throttle:
+            return False
+        if self.status == 413:
+            return True  # the request body exceeds the server's size limit
+        return self.status == 400 and self.detail.startswith((
+            "can't parse entities", "can't find end of the entity", "message is too long",
+            "message text is empty", "text must be non-empty", "reply markup is too long",
+            "button_url_invalid", "inline keyboard button url", "can't parse inline keyboard button",
+        ))
 
-
-MAX_DELIVERY_ATTEMPTS = 6   # backstop: ~3 hours of 30-minute runs before a draft is dropped
+    @property
+    def photo_rejected(self) -> bool:
+        return not self.destination_or_throttle and self.status == 400 and self.detail.startswith((
+            "failed to get http url content", "wrong type of the web page content",
+            "wrong file identifier/http url specified", "wrong http url specified",
+            "file must be non-empty", "photo_invalid", "image_process_failed",
+            "can't upload file by url", "wrong remote file identifier specified",
+        ))
 
 
 def send_telegram(token: str, chat_id: str, text: str, buttons: list[list[dict]],
                   photo: str = "") -> None:
     """Send the draft. With `photo`, send it as a picture with the draft as its caption
-    (save it and attach it on X); if Telegram can't use the picture, send text only."""
+    (save it and attach it on X); confirmed media rejections fall back to text.
+    A transport timeout has an unknown delivery outcome, so don't immediately send twice.
+    """
     api = f"https://api.telegram.org/bot{token}"
     if photo and len(text) <= 1024:   # Telegram's caption limit
-        try:
-            r = requests.post(f"{api}/sendPhoto", timeout=30, json={
-                "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
-                "reply_markup": {"inline_keyboard": buttons},
-            })
-        except requests.RequestException as e:   # e.g. a slow image host timed out
-            log.warning("Telegram couldn't use the picture (%s); sending text only", e)
-        else:
-            if r.ok:
-                return
-            log.warning("Telegram couldn't use the picture (%s); sending text only", r.status_code)
+        r = requests.post(f"{api}/sendPhoto", timeout=30, json={
+            "chat_id": chat_id, "photo": photo, "caption": text, "parse_mode": "HTML",
+            "reply_markup": {"inline_keyboard": buttons},
+        })
+        if r.ok:
+            return
+        error = TelegramError.from_response(r)
+        if not (error.photo_rejected or error.rejected):
+            raise error
+        log.warning("Telegram rejected the picture (%s); sending text only", error)
     r = requests.post(f"{api}/sendMessage", timeout=20, json={
         "chat_id": chat_id, "text": text, "parse_mode": "HTML",
         "link_preview_options": {"is_disabled": True},
         "reply_markup": {"inline_keyboard": buttons},
     })
     if not r.ok:
-        raise TelegramError(r.status_code, r.text[:300])
+        raise TelegramError.from_response(r)
 
 
 def retire_undeliverable(state: dict, pick: dict, now: datetime, error: Exception) -> None:
@@ -1134,6 +1190,7 @@ def inspect_candidates(config: dict, state: dict, now: datetime) -> int:
 
 def run(dry_run: bool = False, now: datetime | None = None,
         config_path: Path = CONFIG_PATH, state_path: Path = STATE_PATH) -> int:
+    started = time.monotonic()
     now = now or datetime.now(timezone.utc)
     now_ist = now.astimezone(IST)
     config = load_config(config_path)
@@ -1156,7 +1213,7 @@ def run(dry_run: bool = False, now: datetime | None = None,
 
     prune_pending(state, now, s)
     cands = collect_candidates(config, state, now)
-    log.info("%d new AI items", len(cands))
+    log.info("%d new candidates for editorial review", len(cands))
     if cands:
         api_key = os.environ.get("GEMINI_API_KEY")
         if not api_key:
@@ -1173,6 +1230,7 @@ def run(dry_run: bool = False, now: datetime | None = None,
                 save_state(state, now, state_path)
             return 0
         qualified = select_picks(result, cands, s["min_importance"], len(cands))
+        log.info("editorial: %d candidates reviewed, %d qualifying stories", len(cands), len(qualified))
         enqueue_picks(state, qualified, now, s)
         held_ids = {item["id"] for p in state["pending"] for item in story_items(p)}
         for c in cands:
@@ -1184,6 +1242,13 @@ def run(dry_run: bool = False, now: datetime | None = None,
         save_state(state, now, state_path)  # durable before any delivery attempt
     if not state["pending"]:
         return 0
+
+    retry_at = article_date(state.get("telegram_retry_at"))
+    if not dry_run and retry_at and retry_at > now:
+        log.info("Telegram rate-limit cooldown until %s; %d drafts retained",
+                 retry_at.isoformat(), len(state["pending"]))
+        return 0
+    state.pop("telegram_retry_at", None)
 
     token, chat_id = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
     if not dry_run and not (token and chat_id):
@@ -1222,11 +1287,11 @@ def run(dry_run: bool = False, now: datetime | None = None,
                 retire_undeliverable(state, pick, now, e)
                 save_state(state, now, state_path)
                 continue   # this draft is the problem; try the next one
-            if pick["delivery_attempts"] >= MAX_DELIVERY_ATTEMPTS:
-                retire_undeliverable(state, pick, now, e)
-            else:
-                log.error("Telegram delivery failed (%s) — attempt %d/%d; will retry next run",
-                          e, pick["delivery_attempts"], MAX_DELIVERY_ATTEMPTS)
+            if isinstance(e, TelegramError) and e.retry_after is not None:
+                retry_at = now + timedelta(seconds=time.monotonic() - started + e.retry_after)
+                state["telegram_retry_at"] = retry_at.isoformat()
+            log.error("Telegram delivery failed (%s) — attempt %d; draft retained until %s",
+                      e, pick["delivery_attempts"], pick["expires_at"])
             save_state(state, now, state_path)
             break      # Telegram itself is likely unavailable; don't hammer it
         state["covered"].append({"headline": pick["headline"], "ts": now.isoformat()})

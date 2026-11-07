@@ -370,7 +370,8 @@ def test_picture_failure_falls_back_to_text(monkeypatch):
 
     def post(url, json=None, **kw):
         calls.append(url.rsplit("/", 1)[1])
-        return Resp(status=400) if url.endswith("sendPhoto") else Resp()
+        return Resp(status=400, payload={"description": "Bad Request: failed to get HTTP URL content"}) \
+            if url.endswith("sendPhoto") else Resp()
 
     monkeypatch.setattr(newsbot.requests, "post", post)
     newsbot.send_telegram("t", "1", "draft", [], photo="https://bad.test/x.png")
