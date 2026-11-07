@@ -63,79 +63,100 @@ feeds:
   - name: The New York Times
     url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
     ai_only: false
+    images: true
   - name: The Wall Street Journal
     url: https://feeds.content.dowjones.io/public/rss/RSSWSJD
     ai_only: false
+    images: true
 
   # Global tech press
   - name: The Verge
     url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
     ai_only: true
+    images: true
   - name: TechCrunch
     url: https://techcrunch.com/category/artificial-intelligence/feed/
     ai_only: true
+    images: true
   - name: MIT Technology Review
     url: https://www.technologyreview.com/topic/artificial-intelligence/feed
     ai_only: true
+    images: true
   - name: Ars Technica
     url: https://arstechnica.com/ai/feed/
     ai_only: true
+    images: true
   - name: Wired
     url: https://www.wired.com/feed/tag/ai/latest/rss
     ai_only: true
+    images: true
   - name: VentureBeat
     url: https://venturebeat.com/category/ai/feed/
     ai_only: true
     enabled: false   # blocks GitHub's servers (429 Too Many Requests)
+    images: true
   - name: The Decoder
     url: https://the-decoder.com/feed/
     ai_only: true
+    images: true
   - name: The Guardian
     url: https://www.theguardian.com/technology/artificialintelligenceai/rss
     ai_only: true
+    images: true
 
   # Business and markets press (paywalled, but RSS headline + blurb is enough)
   - name: Bloomberg
     url: https://feeds.bloomberg.com/technology/news.rss
     ai_only: false
+    images: true
   - name: Financial Times
     url: https://www.ft.com/technology?format=rss
     ai_only: false
+    images: true
   - name: CNBC
     url: https://www.cnbc.com/id/19854910/device/rss/rss.html
     ai_only: false
+    images: true
 
   # Indian press
   - name: The Hindu
     url: https://www.thehindu.com/sci-tech/technology/feeder/default.rss
     ai_only: false
+    images: true
   - name: The Indian Express
     url: https://indianexpress.com/section/technology/feed/
     ai_only: false
     enabled: false   # blocks GitHub's servers (403 Forbidden)
+    images: true
   - name: Analytics India Magazine
     url: https://analyticsindiamag.com/feed/
     ai_only: false
+    images: true
   - name: The Economic Times
     url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
     ai_only: false
+    images: true
   - name: Mint
     url: https://www.livemint.com/rss/technology
     ai_only: false
+    images: true
   - name: Inc42
     url: https://inc42.com/feed/
     ai_only: false
+    images: true
   - name: YourStory
     url: https://yourstory.com/feed
     ai_only: false
+    images: true
   - name: MediaNama
     url: https://www.medianama.com/feed/
     ai_only: false
+    images: true
 
   # Straight from the labs (often hours ahead of the newspapers).
-  # images: true = the draft comes with the post's picture to attach on X. Company
-  # pictures are made to be shared; news outlets' photos are usually licensed (Getty,
-  # Reuters…), so they are left off to avoid copyright takedowns on your account.
+  # images: true = the draft comes with the post's picture to attach on X.
+  # Note: news outlets' photos are often licensed (Getty, Reuters…); remove
+  # images: true from a feed if you'd rather not risk copyright takedowns.
   - name: OpenAI
     url: https://openai.com/news/rss.xml
     ai_only: true
