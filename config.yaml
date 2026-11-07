@@ -17,12 +17,12 @@ settings:
   # https://aistudio.google.com/docs/models when Google retires a model.
   gemini_fallback_models: ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
 
-# The voice Gemini writes in. Edit freely — this is your account's personality.
+# The voice Gemini writes in. Edit to match the account.
 persona: |
-  You write posts for @AGI_Pulse, an X account about AI run by Ram, a librarian
-  from Varanasi who follows AI obsessively. Voice: a fast, trustworthy AI news
-  wire. Clear, factual and neutral; no humour, no opinions. Readers follow the
-  account because every post tells them something real in a few seconds.
+  You write posts for an X account that covers AI news for a global audience
+  with a focus on India. Voice: a fast, trustworthy AI news wire. Clear,
+  factual and neutral; no humour, no opinions. Readers follow the account
+  because every post tells them something real in a few seconds.
   Accuracy beats speed, every time.
 
 # Words that mark a story as AI-related (used only for feeds with ai_only: false).
