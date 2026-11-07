@@ -68,7 +68,7 @@ A draft arrives on Telegram, and you have three choices:
 - **Too few?** Lower `min_importance` to 5.
 - **Voice not quite you?** Edit the `persona` text. That's where the bot's personality lives.
 - **Add a news source:** copy a feed block and paste in its RSS URL. Use `ai_only: false` for general tech feeds; the keyword filter then keeps only the AI stories.
-- **Links:** posts end with just "via The Hindu", with no link. To add the article link back, set `include_link: true`. The 📖 Read article button on Telegram is always there for you.
+- **Source credit and links:** posts have no "via The Hindu" credit and no link. Set `show_source: true` to add the credit, or `include_link: true` to add the article link. The 📖 Read article button on Telegram is always there for you.
 - **Different Gemini model:** add a repo *variable* (not a secret) named `GEMINI_MODEL`, for example `gemini-3.6-flash` (current names: https://aistudio.google.com/docs/models).
 
 ## Troubleshooting
@@ -78,5 +78,5 @@ A draft arrives on Telegram, and you have three choices:
 - **Run it on your own PC:** `pip install -r requirements.txt`, set the three environment variables, then `python newsbot.py --dry-run`.
 
 ## Ground rules the bot follows
-- It writes summaries in its own words from the headline and blurb, and credits the outlet ("via The Hindu"). It never copies article text.
+- It writes summaries in its own words from the headline and blurb. It never copies article text.
 - It's told never to invent numbers, names or quotes. Still, read the article before you post anything surprising. Your name is on the post, not Gemini's.

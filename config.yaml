@@ -9,7 +9,8 @@ settings:
   lookback_hours: 18           # ignore articles older than this
   max_candidates: 50           # newest N unseen articles sent to Gemini per run
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
-  include_link: false          # posts end with "via <Outlet>" only; set true to also add the article link
+  show_source: false           # true = end posts with "via <Outlet>"
+  include_link: false          # true = end posts with the article link
   gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.

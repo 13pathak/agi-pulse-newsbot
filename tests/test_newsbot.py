@@ -192,7 +192,14 @@ def test_shipped_config_is_valid():
     cfg = newsbot.load_config()
     names = [f["name"] for f in cfg["feeds"]]
     assert "The New York Times" in names and "The Wall Street Journal" in names
-    assert cfg["settings"]["include_link"] is False
+    assert cfg["settings"]["include_link"] is False and cfg["settings"]["show_source"] is False
+
+
+def test_no_source_credit_mode():
+    body = "OpenAI will keep expanding its data centres.\nThe CFO said so on Friday."
+    post = newsbot.compose_post(body, "The Hindu", "https://hindu.test/x", False, show_source=False)
+    assert post == "OpenAI will keep expanding its data centres.\n\nThe CFO said so on Friday."
+    assert "via" not in post
 
 
 def test_url_normalization_dedupes_tracking():

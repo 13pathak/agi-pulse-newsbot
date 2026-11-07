@@ -151,12 +151,12 @@ def trim_to(text: str, budget: int) -> str:
     return text + "…"
 
 
-def compose_post(body: str, source: str, url: str, include_link: bool) -> str:
+def compose_post(body: str, source: str, url: str, include_link: bool,
+                 show_source: bool = True) -> str:
     # One blank line between sentences/lines, however Gemini spaced them.
     body = "\n\n".join(line.strip() for line in body.splitlines() if line.strip())
-    suffix = f"\n\nvia {source}"
-    if include_link and url:
-        suffix += f" {url}"
+    tail = ([f"via {source}"] if show_source else []) + ([url] if include_link and url else [])
+    suffix = "\n\n" + " ".join(tail) if tail else ""
     return trim_to(body, X_LIMIT - x_len(suffix)) + suffix
 
 
@@ -255,7 +255,7 @@ interested", mute or report)
 - Use ONLY facts present in the items. Never invent numbers, names, dates or
   quotes. If the blurb is thin, write less, not more.
 - No hashtags, no emojis, no @mentions.
-- Do NOT include any link or "via" credit; that is added automatically.
+- Do NOT include any link, source credit or outlet name as a credit ("via …").
 
 ALREADY COVERED (last 48 h):
 {covered}
@@ -450,7 +450,8 @@ def run(dry_run: bool = False, now: datetime | None = None,
 
     for pick in picks:
         it = pick["item"]
-        post = compose_post(pick["post"], it["source"], it["url"], s.get("include_link", True))
+        post = compose_post(pick["post"], it["source"], it["url"], s.get("include_link", True),
+                            s.get("show_source", True))
         if dry_run:
             print("─" * 60)
             print(f"[{pick['importance']}/10] {it['source']}: {it['title']}")
