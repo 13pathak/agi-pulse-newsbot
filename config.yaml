@@ -7,7 +7,18 @@ settings:
   max_drafts_per_day: 0        # 0 = no daily limit; set a number (e.g. 10) to cap drafts per day
   min_importance: 6            # 1–10; Gemini scores every story, below this is ignored
   lookback_hours: 18           # ignore articles older than this
-  max_candidates: 60           # newest N unseen articles (plus papers) sent to Gemini per run
+  max_candidates: 60           # hard item limit, shared by every source type
+  max_prompt_chars: 48000       # hard limit for the COMPLETE Gemini prompt, including history
+  max_candidates_per_source: 3  # prevents one busy feed from dominating; sources can override
+  candidate_slots:              # reserved slots; unused slots go to higher-priority categories
+    primary: 24                # direct lab/company announcements
+    research: 8                # evaluations and research blogs
+    policy: 4                  # official government announcements
+    model: 4                   # trending open-model releases
+    paper: 4                   # community-selected papers
+    news: 16                   # preserve room for original reporting
+  max_summary_fetches: 12       # enrich only shortlisted items, never crawl an entire RSS archive
+  fetch_workers: 6              # bounded concurrent source fetches; no extra Gemini calls
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
   show_source: false           # true = end posts with "via <Outlet>"
   include_link: false          # true = end posts with the article link
@@ -54,10 +65,22 @@ keywords:
   - Sarvam
   - Krutrim
   - IndiaAI
+  - Qwen
+  - Kimi
+  - Cohere
+  - ElevenLabs
+  - Bedrock
+  - OLMo
+  - Molmo
+  - LLMs
 
 # Feeds. ai_only: true  → the feed is already about AI, take everything.
 #        ai_only: false → general tech feed, keep only stories matching keywords.
 # Set enabled: false to switch one off. Broken feeds are skipped and logged.
+# category: primary / research / policy / news (default). Paper/model types infer their category.
+# max_candidates overrides the per-source cap. Discovery priority is not an importance score.
+# fetch_summary enriches thin RSS entries from public page metadata AFTER shortlisting.
+# prefer_content uses the public full-text feed field when its summary is only a teaser.
 feeds:
   # Big newspapers (paywalled, but the bot only needs the headline + blurb from RSS)
   - name: The New York Times
@@ -178,37 +201,68 @@ feeds:
   # Note: news outlets' photos are often licensed (Getty, Reuters…); remove
   # images: true from a feed if you'd rather not risk copyright takedowns.
   - name: OpenAI
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     url: https://openai.com/news/rss.xml
+    fetch_summary: true
+    blurb_chars: 800
     ai_only: true
     images: true
   - name: Anthropic          # no RSS feed: the bot reads its news page instead
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     type: page_list
     url: https://www.anthropic.com/news
     base: https://www.anthropic.com
-    link_pattern: /news/[a-z0-9-]+
+    link_pattern: /(?:news/[a-z0-9-]+|claude-[a-z0-9-]+)
+    exclude_pattern: /news/(?:announcements|features|product|partnerships|policy|safeguards|security)
+    max_new_pages: 12
     ai_only: true
     images: true
   - name: Google DeepMind
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     url: https://deepmind.google/blog/rss.xml
+    fetch_summary: true
+    blurb_chars: 800
     ai_only: true
     images: true
   - name: Google AI Blog
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     url: https://blog.google/technology/ai/rss/
     ai_only: true
     images: true
   - name: Hugging Face
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     url: https://huggingface.co/blog/feed.xml
+    fetch_summary: true
+    public_excerpt_class: blog-content  # HF's OG description is often only "A Blog post by..."
+    blurb_chars: 800
     ai_only: true
     images: true
   - name: NVIDIA
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     url: https://blogs.nvidia.com/feed/
     ai_only: true
     images: true
   - name: Microsoft
+    category: primary
+    max_candidates: 4
+    lookback_hours: 48
     url: https://news.microsoft.com/source/feed/
     ai_only: false
     images: true
   - name: Simon Willison       # fast, reliable notes on new model releases
+    category: research
     url: https://simonwillison.net/atom/everything/
     ai_only: false
     images: false              # his posts rarely have a useful picture
@@ -217,6 +271,7 @@ feeds:
   # Gemini sees only the abstract. Raise min_upvotes for fewer, bigger papers.
   - name: Hugging Face Papers
     type: hf_papers
+    max_candidates: 4
     url: https://huggingface.co/api/daily_papers   # asked for each of the last 3 days by date
     ai_only: true
     min_upvotes: 20       # skip papers with fewer community votes
@@ -229,6 +284,7 @@ feeds:
   # first sign of a release (hours before the press). Gemini reads the model card.
   - name: Hugging Face Models
     type: hf_models
+    max_candidates: 4
     url: https://huggingface.co/api/models
     ai_only: true
     max_age_days: 7       # only models created in the last week
@@ -240,3 +296,166 @@ feeds:
            deepseek-ai, Qwen, moonshotai, zai-org, MiniMaxAI, tencent, baidu, xai-org,
            CohereLabs, allenai, ibm-granite, stabilityai, black-forest-labs, Lightricks,
            sarvamai, ai4bharat, krutrim-ai-labs]
+
+  # Additional direct sources. Date-only publishers get 48 hours, including overnight backlog.
+  - name: Mistral
+    category: primary
+    url: https://mistral.ai/news/rss
+    ai_only: true
+    max_candidates: 4
+    lookback_hours: 48
+    images: true
+  - name: Meta AI
+    category: primary
+    url: https://about.fb.com/news/tag/ai/feed/
+    ai_only: true
+    max_candidates: 4
+    lookback_hours: 48
+    images: true
+  - name: Ai2
+    category: primary
+    url: https://allenai.org/rss.xml
+    ai_only: true
+    lookback_hours: 48
+    images: true
+  - name: Sarvam
+    category: primary
+    type: page_list
+    url: https://www.sarvam.ai/blogs
+    base: https://www.sarvam.ai
+    link_pattern: /blogs/[a-z0-9-]+
+    max_new_pages: 8
+    ai_only: true
+    max_candidates: 4
+    lookback_hours: 48
+    images: true
+  - name: xAI
+    category: primary
+    type: page_list
+    url: https://x.ai/news
+    base: https://x.ai
+    link_pattern: /news/[a-z0-9-]+
+    max_new_pages: 12
+    ai_only: true
+    max_candidates: 4
+    lookback_hours: 48
+    images: true
+  - name: Claude Product Updates
+    category: primary
+    type: page_list
+    url: https://claude.com/resources/articles
+    base: https://claude.com
+    link_pattern: /resources/articles/[a-z0-9-]+
+    max_new_pages: 8
+    ai_only: true
+    lookback_hours: 48
+    images: true
+  - name: ElevenLabs
+    category: primary
+    url: https://elevenlabs.io/blog/rss.xml
+    ai_only: true
+    max_candidates: 2
+    lookback_hours: 48
+    images: true
+  - name: AWS AI
+    category: primary
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+    ai_only: true
+    max_candidates: 2           # mostly tutorials and case studies
+    lookback_hours: 48
+    images: true
+
+  # Independent evaluations and research; public abstracts/excerpts, not vendor claims.
+  - name: Epoch AI
+    category: research
+    url: https://epoch.ai/atom.xml
+    ai_only: true
+    lookback_hours: 48
+    blurb_chars: 800
+    fetch_summary: true
+    images: true
+  - name: Artificial Analysis
+    category: research
+    type: page_list
+    url: https://artificialanalysis.ai/articles
+    base: https://artificialanalysis.ai
+    link_pattern: /articles/[a-z0-9-]+
+    max_new_pages: 8
+    ai_only: true
+    lookback_hours: 48
+    blurb_chars: 800
+    images: true
+  - name: METR
+    category: research
+    url: https://metr.org/feed.xml
+    ai_only: true
+    max_candidates: 2
+    lookback_hours: 48
+    blurb_chars: 1600           # preserve redaction caveat AND the following findings
+    prefer_content: true
+    images: false
+  - name: Google Research
+    category: research
+    url: https://research.google/blog/rss/
+    ai_only: false
+    lookback_hours: 48
+    blurb_chars: 800
+    images: true
+  - name: Microsoft Research
+    category: research
+    url: https://www.microsoft.com/en-us/research/blog/feed/
+    ai_only: false
+    lookback_hours: 48
+    blurb_chars: 800
+    images: true
+  - name: Apple ML Research
+    category: research
+    url: https://machinelearning.apple.com/rss.xml
+    ai_only: true
+    lookback_hours: 48
+    blurb_chars: 800
+    images: true
+
+  # Original reporting with distinct engineering, regional and investigative coverage.
+  - name: IEEE Spectrum AI
+    url: https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss
+    ai_only: true
+    images: true
+  - name: Rest of World
+    url: https://restofworld.org/feed/latest/
+    ai_only: false
+    prefer_content: true        # summary may be a photo caption
+    fetch_summary: true
+    images: true
+  - name: Entrackr
+    url: https://entrackr.com/rss
+    ai_only: false
+    images: true
+  - name: 404 Media AI
+    url: https://www.404media.co/tag/ai/rss/
+    ai_only: true
+    prefer_content: true        # public feed content is more informative than teaser summaries
+    fetch_summary: true
+    images: true
+  - name: SemiAnalysis
+    url: https://newsletter.semianalysis.com/feed
+    ai_only: false
+    prefer_content: true        # uses only the publicly supplied feed excerpt
+    fetch_summary: true
+    max_candidates: 2
+    lookback_hours: 48
+    images: true
+
+  # Official policy announcements. The GOV.UK feed is not AISI's full research blog.
+  - name: NIST
+    category: policy
+    url: https://www.nist.gov/news-events/news/rss.xml
+    ai_only: false
+    lookback_hours: 72
+    images: true
+  - name: UK AI Security Institute
+    category: policy
+    url: https://www.gov.uk/government/organisations/ai-security-institute.atom
+    ai_only: true
+    lookback_hours: 72
+    images: false

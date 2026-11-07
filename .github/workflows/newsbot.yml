@@ -6,10 +6,10 @@ on:
   workflow_dispatch:          # cron-job.org timer + "Run workflow" button
     inputs:
       mode:
-        description: "normal / dry-run / check-feeds"
+        description: "normal / dry-run / check-feeds / inspect-candidates"
         default: normal
         type: choice
-        options: [normal, dry-run, check-feeds]
+        options: [normal, dry-run, check-feeds, inspect-candidates]
 
 permissions:
   contents: write   # lets the bot save state/state.json back to the repo
@@ -42,6 +42,7 @@ jobs:
           case "${{ github.event.inputs.mode }}" in
             dry-run)     python newsbot.py --dry-run ;;
             check-feeds) python newsbot.py --check-feeds ;;
+            inspect-candidates) python newsbot.py --inspect-candidates ;;
             *)           python newsbot.py ;;
           esac
 
