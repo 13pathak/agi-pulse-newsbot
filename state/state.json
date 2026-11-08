@@ -232,7 +232,9 @@
   "6a60f5d195d498ed": "2026-11-08T10:37:24.168660+00:00",
   "45d8b2a139478ad4": "2026-11-08T10:37:24.168660+00:00",
   "03a651f6d5efd229": "2026-11-08T11:07:24.011536+00:00",
-  "70492996a453820f": "2026-11-08T11:07:24.011536+00:00"
+  "70492996a453820f": "2026-11-08T11:07:24.011536+00:00",
+  "7939095de81a38d2": "2026-11-08T11:37:22.414138+00:00",
+  "c67c28d9cfcd3986": "2026-11-08T11:37:22.414138+00:00"
  },
  "covered": [
   {
@@ -346,11 +348,15 @@
   {
    "headline": "IIT Guwahati uses drones and AI to analyze traffic patterns",
    "ts": "2026-11-08T11:07:24.011536+00:00"
+  },
+  {
+   "headline": "India unveils indigenous AI foundation models EKA-1 and Dhīr",
+   "ts": "2026-11-08T11:37:22.414138+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1349,6 +1355,32 @@
  },
  "pending": [
   {
+   "id": "bd1439750cf5014e",
+   "item": {
+    "id": "bd1439750cf5014e",
+    "title": "What is Hangang? South Korea unveils a $276 million supercomputer with 614.7 petaflops of computing power",
+    "url": "https://www.livemint.com/technology/what-is-hangang-south-korea-unveils-a-276-million-supercomputer-with-614-7-petaflops-of-computing-power-11793812666609.html",
+    "source": "Mint",
+    "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/SWITZERLAND-CLIMATE-WEATHER-RESEARCH-COMPUTERS-AI-21_1793813320475_SljG_1793813340984_e1f0_17cc83a0-d2c9-49eb-a567-91d36a7210a4_d0ZU.jpg",
+    "snippet": "South Korea has launched Hangang, a $276 million national supercomputer equipped with 8,496 Nvidia GPUs and 614.7 petaflops of computing power. Designed to accelerate AI and scientific research, the system is expected to rank among the world's top 10 supercomputers.",
+    "published": null,
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "timely",
+   "headline": "South Korea launches $276 million national supercomputer Hangang",
+   "post": "South Korea launched Hangang, a $276 million national supercomputer equipped with 8,496 Nvidia GPUs and 614.7 petaflops of computing power. The system is built to support AI and scientific research.",
+   "editor_note": "Verify official operational status and ranking timeline for the Hangang supercomputer.",
+   "published_at": null,
+   "first_seen_at": "2026-11-08T11:37:22.414138+00:00",
+   "expires_at": "2026-11-09T23:37:22.414138+00:00",
+   "priority": 6.0,
+   "selection_reason": "Editorial importance"
+  },
+  {
    "id": "0cfabca5ccd7075c",
    "item": {
     "id": "0cfabca5ccd7075c",
@@ -1371,7 +1403,7 @@
    "published_at": "2026-11-08T10:43:01+00:00",
    "first_seen_at": "2026-11-08T11:07:24.011536+00:00",
    "expires_at": "2026-11-09T22:43:01+00:00",
-   "priority": 4.988711,
+   "priority": 5.006057,
    "selection_reason": "Editorial importance"
   }
  ]
