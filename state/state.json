@@ -227,21 +227,12 @@
   "f22d837c2d1d7f6e": "2026-11-08T08:07:23.494915+00:00",
   "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00",
   "6e70fe048dede744": "2026-11-08T10:07:20.936512+00:00",
-  "f3600c82b54ebf75": "2026-11-08T10:07:20.936512+00:00"
+  "f3600c82b54ebf75": "2026-11-08T10:07:20.936512+00:00",
+  "d1a3b8db5f5d7dc0": "2026-11-08T10:37:24.168660+00:00",
+  "6a60f5d195d498ed": "2026-11-08T10:37:24.168660+00:00",
+  "45d8b2a139478ad4": "2026-11-08T10:37:24.168660+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI releases GPT-6 Cyber for software vulnerability testing",
-   "ts": "2026-11-06T10:15:28.494649+00:00"
-  },
-  {
-   "headline": "Microsoft offers buyouts to 60,000 employees amid AI investments",
-   "ts": "2026-11-06T10:15:28.494649+00:00"
-  },
-  {
-   "headline": "OpenAI drops data center NDAs and pledges community safeguards",
-   "ts": "2026-11-06T10:15:28.494649+00:00"
-  },
   {
    "headline": "OpenAI raises $11 billion at $1.25 trillion valuation",
    "ts": "2026-11-07T01:38:44.401340+00:00"
@@ -345,11 +336,15 @@
   {
    "headline": "Alibaba benchmark shows AI coding agents struggle on real-world tasks",
    "ts": "2026-11-08T10:07:20.936512+00:00"
+  },
+  {
+   "headline": "Survey highlights AI learning interest among Indian professionals",
+   "ts": "2026-11-08T10:37:24.168660+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1348,32 +1343,6 @@
  },
  "pending": [
   {
-   "id": "45d8b2a139478ad4",
-   "item": {
-    "id": "45d8b2a139478ad4",
-    "title": "97 pc Indian professionals want to learn AI; 65 pc concerned about lack of human judgment: Report",
-    "url": "https://www.livemint.com/technology/97-pc-indian-professionals-want-to-learn-ai-65-pc-concerned-about-lack-of-human-judgment-report-11793711682210.html",
-    "source": "Mint",
-    "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-    "snippet": "97 pc Indian professionals want to learn AI; 65 pc concerned about lack of human judgment: Report",
-    "published": null,
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Survey highlights AI learning interest among Indian professionals",
-   "post": "A new report shows 97% of Indian professionals want to learn AI skills, while 65% express concern over a lack of human judgment.",
-   "editor_note": "Verify the survey provider, sample size, and demographic details of the respondents.",
-   "published_at": null,
-   "first_seen_at": "2026-11-08T09:37:23.384508+00:00",
-   "expires_at": "2026-11-09T21:37:23.384508+00:00",
-   "priority": 5.017338,
-   "selection_reason": "Editorial importance"
-  },
-  {
    "id": "70492996a453820f",
    "item": {
     "id": "70492996a453820f",
@@ -1396,8 +1365,8 @@
    "published_at": null,
    "first_seen_at": "2026-11-08T09:37:23.384508+00:00",
    "expires_at": "2026-11-09T21:37:23.384508+00:00",
-   "priority": 5.017338,
-   "selection_reason": "Editorial importance"
+   "priority": 5.03473,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ]
 }
