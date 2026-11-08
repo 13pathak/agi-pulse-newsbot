@@ -12,6 +12,11 @@ An automated AI-news desk. It monitors 55 enabled sources across news outlets, l
 
 ## Features
 
+The separate [practical AI video recommender](VIDEO_RECOMMENDER.md) discovers and
+reviews YouTube demonstrations across creative projects, everyday/no-code work and
+AI application building. It has its own queue, daily limits and Telegram feedback;
+automatic recommendations are disabled until API setup and preview checks pass.
+
 - **Broad coverage:** 55 enabled sources, including direct lab announcements, independent evaluations, official policy, global and Indian reporting, research papers and open-model releases.
 - **Primary sources first:** category reservations and per-source caps prioritize lab announcements while preserving room for research, policy and original reporting. Identical substantive headlines and canonical URLs are collapsed before Gemini.
 - **Bounded Gemini input:** at most 60 candidates and 48,000 characters for the complete prompt, including instructions, history and JSON. No extra model calls for prioritization or summary extraction.
