@@ -253,7 +253,9 @@
   "b5e076245ed35d32": "2026-11-08T14:37:20.912454+00:00",
   "866acc6653c3ca1d": "2026-11-08T14:37:20.912454+00:00",
   "19bf4346d61a8026": "2026-11-08T14:37:20.912454+00:00",
-  "eb3a506a0e304ddf": "2026-11-08T14:37:20.912454+00:00"
+  "eb3a506a0e304ddf": "2026-11-08T14:37:20.912454+00:00",
+  "fcc759566aac18fb": "2026-11-08T15:07:23.532832+00:00",
+  "34520e7f743e70e4": "2026-11-08T15:07:23.532832+00:00"
  },
  "covered": [
   {
@@ -391,11 +393,15 @@
   {
    "headline": "DARPA seeks AI tools to detect digital market vulnerabilities",
    "ts": "2026-11-08T14:07:22.986575+00:00"
+  },
+  {
+   "headline": "Apple explores transforming Siri into an AI agent",
+   "ts": "2026-11-08T15:07:23.532832+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
