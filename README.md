@@ -130,8 +130,8 @@ All settings live in [`config.yaml`](config.yaml).
 |---|---|---|
 | `max_drafts_per_run` | `1` | Drafts sent per run. Keeping it at 1 spaces posts out. |
 | `max_drafts_per_day` | `0` | Daily cap; `0` means no limit. |
-| `min_importance` | `6` | Minimum Gemini score (1–10) for a story to be drafted. |
-| `lookback_hours` | `18` | Ignore items older than this (sources can override it). |
+| `min_importance` | `5` | Minimum Gemini score (1–10) for a story to be drafted. |
+| `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
 | `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |
 | `waiting_boost_hours` | `12` | Time to reach the capped +0.75 waiting boost. |
