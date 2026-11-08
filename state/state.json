@@ -225,7 +225,9 @@
   "364fcb61dbb04900": "2026-11-08T06:37:22.221942+00:00",
   "3728d23d67539cf1": "2026-11-08T06:37:22.221942+00:00",
   "f22d837c2d1d7f6e": "2026-11-08T08:07:23.494915+00:00",
-  "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00"
+  "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00",
+  "6e70fe048dede744": "2026-11-08T10:07:20.936512+00:00",
+  "f3600c82b54ebf75": "2026-11-08T10:07:20.936512+00:00"
  },
  "covered": [
   {
@@ -339,11 +341,15 @@
   {
    "headline": "EU adviser says Google AI chatbot may violate press copyright",
    "ts": "2026-11-08T09:37:23.384508+00:00"
+  },
+  {
+   "headline": "Alibaba benchmark shows AI coding agents struggle on real-world tasks",
+   "ts": "2026-11-08T10:07:20.936512+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1364,7 +1370,7 @@
    "published_at": null,
    "first_seen_at": "2026-11-08T09:37:23.384508+00:00",
    "expires_at": "2026-11-09T21:37:23.384508+00:00",
-   "priority": 5.0,
+   "priority": 5.017338,
    "selection_reason": "Editorial importance"
   },
   {
@@ -1390,7 +1396,7 @@
    "published_at": null,
    "first_seen_at": "2026-11-08T09:37:23.384508+00:00",
    "expires_at": "2026-11-09T21:37:23.384508+00:00",
-   "priority": 5.0,
+   "priority": 5.017338,
    "selection_reason": "Editorial importance"
   }
  ]
