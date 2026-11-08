@@ -245,7 +245,8 @@
   "e8e4da18523710e0": "2026-11-08T12:37:19.747839+00:00",
   "bd1439750cf5014e": "2026-11-08T12:37:19.747839+00:00",
   "c4aa836acd2d86ee": "2026-11-08T13:07:24.582182+00:00",
-  "670335a07c630b2b": "2026-11-08T13:07:24.582182+00:00"
+  "670335a07c630b2b": "2026-11-08T13:07:24.582182+00:00",
+  "0cfabca5ccd7075c": "2026-11-08T13:37:20.418685+00:00"
  },
  "covered": [
   {
@@ -375,11 +376,15 @@
   {
    "headline": "Chinese buyers approved for Nvidia chips have empty offices",
    "ts": "2026-11-08T13:07:24.582182+00:00"
+  },
+  {
+   "headline": "Gig workers use AI chatbots to contest platform deactivations",
+   "ts": "2026-11-08T13:37:20.418685+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1376,32 +1381,5 @@
    "published": "2023-11-03T00:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "0cfabca5ccd7075c",
-   "item": {
-    "id": "0cfabca5ccd7075c",
-    "title": "Gig workers are using AI to fight deactivations on apps like Uber and Instacart",
-    "url": "https://www.businessinsider.com/uber-instacart-workers-ai-help-account-deactivations-2026-10",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6adf8cf2ab741a2ebdf11679?format=jpeg",
-    "snippet": "Companies like Uber and Instacart often deactivate gig workers' accounts with little notice. Some workers are turning to AI to access their accounts again. Ride-hailing and delivery workers are asking chatbots to write letters and request arbitration. Gig workers fighting their deactivations on apps like Uber and Instacart say they have a new advocate: AI. The companies often kick ride-hailing and…",
-    "published": "2026-11-08T10:43:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Gig workers use AI chatbots to contest platform deactivations",
-   "post": "Gig workers on platforms such as Uber and Instacart are using AI chatbots to write appeal letters and formal arbitration requests following account deactivations.",
-   "editor_note": "Verify if Business Insider cites specific AI models or success rates for these arbitration requests.",
-   "published_at": "2026-11-08T10:43:01+00:00",
-   "first_seen_at": "2026-11-08T11:07:24.011536+00:00",
-   "expires_at": "2026-11-09T22:43:01+00:00",
-   "priority": 5.058161,
-   "selection_reason": "Editorial importance; waiting 2.0h"
-  }
- ]
+ "pending": []
 }
