@@ -243,7 +243,9 @@
   "a55c9fb77d6653f8": "2026-11-08T12:07:23.980101+00:00",
   "b911ef86f5c7b684": "2026-11-08T12:07:23.980101+00:00",
   "e8e4da18523710e0": "2026-11-08T12:37:19.747839+00:00",
-  "bd1439750cf5014e": "2026-11-08T12:37:19.747839+00:00"
+  "bd1439750cf5014e": "2026-11-08T12:37:19.747839+00:00",
+  "c4aa836acd2d86ee": "2026-11-08T13:07:24.582182+00:00",
+  "670335a07c630b2b": "2026-11-08T13:07:24.582182+00:00"
  },
  "covered": [
   {
@@ -369,11 +371,15 @@
   {
    "headline": "South Korea launches $276 million national supercomputer Hangang",
    "ts": "2026-11-08T12:37:19.747839+00:00"
+  },
+  {
+   "headline": "Chinese buyers approved for Nvidia chips have empty offices",
+   "ts": "2026-11-08T13:07:24.582182+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1394,8 +1400,8 @@
    "published_at": "2026-11-08T10:43:01+00:00",
    "first_seen_at": "2026-11-08T11:07:24.011536+00:00",
    "expires_at": "2026-11-09T22:43:01+00:00",
-   "priority": 5.040754,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.058161,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ]
 }
