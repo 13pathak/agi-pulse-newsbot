@@ -224,7 +224,8 @@
   "164e4a333ab9053c": "2026-11-08T06:37:22.221942+00:00",
   "364fcb61dbb04900": "2026-11-08T06:37:22.221942+00:00",
   "3728d23d67539cf1": "2026-11-08T06:37:22.221942+00:00",
-  "f22d837c2d1d7f6e": "2026-11-08T08:07:23.494915+00:00"
+  "f22d837c2d1d7f6e": "2026-11-08T08:07:23.494915+00:00",
+  "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00"
  },
  "covered": [
   {
@@ -334,11 +335,15 @@
   {
    "headline": "UK public bodies report surge in AI-generated complaints",
    "ts": "2026-11-08T08:07:23.494915+00:00"
+  },
+  {
+   "headline": "EU adviser says Google AI chatbot may violate press copyright",
+   "ts": "2026-11-08T09:37:23.384508+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1335,5 +1340,58 @@
    "published": "2023-11-03T00:00:00+00:00"
   }
  },
- "pending": []
+ "pending": [
+  {
+   "id": "45d8b2a139478ad4",
+   "item": {
+    "id": "45d8b2a139478ad4",
+    "title": "97 pc Indian professionals want to learn AI; 65 pc concerned about lack of human judgment: Report",
+    "url": "https://www.livemint.com/technology/97-pc-indian-professionals-want-to-learn-ai-65-pc-concerned-about-lack-of-human-judgment-report-11793711682210.html",
+    "source": "Mint",
+    "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+    "snippet": "97 pc Indian professionals want to learn AI; 65 pc concerned about lack of human judgment: Report",
+    "published": null,
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Survey highlights AI learning interest among Indian professionals",
+   "post": "A new report shows 97% of Indian professionals want to learn AI skills, while 65% express concern over a lack of human judgment.",
+   "editor_note": "Verify the survey provider, sample size, and demographic details of the respondents.",
+   "published_at": null,
+   "first_seen_at": "2026-11-08T09:37:23.384508+00:00",
+   "expires_at": "2026-11-09T21:37:23.384508+00:00",
+   "priority": 5.0,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "70492996a453820f",
+   "item": {
+    "id": "70492996a453820f",
+    "title": "IIT Guwahati researchers use drones and AI to decode traffic patterns on Indian roads",
+    "url": "https://www.livemint.com/technology/iit-guwahati-researchers-use-drones-and-ai-to-decode-traffic-patterns-on-indian-roads-11793871039108.html",
+    "source": "Mint",
+    "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+    "snippet": "IIT Guwahati researchers use drones and AI to decode traffic patterns on Indian roads",
+    "published": null,
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "IIT Guwahati uses drones and AI to analyze traffic patterns",
+   "post": "Researchers at IIT Guwahati are using drones paired with AI systems to decode traffic patterns on Indian roads.",
+   "editor_note": "Verify whether this is a published paper, pilot project, or active municipal implementation.",
+   "published_at": null,
+   "first_seen_at": "2026-11-08T09:37:23.384508+00:00",
+   "expires_at": "2026-11-09T21:37:23.384508+00:00",
+   "priority": 5.0,
+   "selection_reason": "Editorial importance"
+  }
+ ]
 }
