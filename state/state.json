@@ -257,7 +257,8 @@
   "fcc759566aac18fb": "2026-11-08T15:07:23.532832+00:00",
   "34520e7f743e70e4": "2026-11-08T15:07:23.532832+00:00",
   "2772fb68567cc290": "2026-11-08T16:07:23.270473+00:00",
-  "def5de44e1fb563b": "2026-11-08T16:07:23.270473+00:00"
+  "def5de44e1fb563b": "2026-11-08T16:07:23.270473+00:00",
+  "233409616a1b4211": "2026-11-08T16:37:21.165098+00:00"
  },
  "covered": [
   {
@@ -399,11 +400,15 @@
   {
    "headline": "Apple explores transforming Siri into an AI agent",
    "ts": "2026-11-08T15:07:23.532832+00:00"
+  },
+  {
+   "headline": "Tencent releases DSpine draft model for Qwen3.8-27B",
+   "ts": "2026-11-08T16:37:21.165098+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1398,6 +1403,9 @@
    "desc": "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask!",
    "image": "https://media.x.ai/v1/website/grok-1-75591dd5.webp",
    "published": "2023-11-03T00:00:00+00:00"
+  },
+  "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16": {
+   "card": "DSpine for Qwen3.8-27B DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth. This checkpoint is a five-layer draft model for Qwen3.8-27B, with block size 16 and an 8,192-token sliding window. Evaluation - Runtime: SGLang 0.5.22, BF16, FlashAttention 3, concurrency 8. - Draft blocks: DSpine 16; official DFlash2 8. - DSpine inference: dynamic verification referencing DSpark, with ReplaySSM enabled. - General benchmarks: xhigh reasoning, greedy and temperature sampling, at most 4,096 new tokens. - Agent benchmarks: temperature sampling with low and xhigh reasoning; 20 conversations per subset, all recorded tool-decision prefixes replayed in order, prefix caching enabled, at most 32,768 new tokens per request. - Temperature sampling: temperature=1.0 , top p=0.95 , top k=20 . Results General Benchmark Acceptance Length Agent Acceptance Length Benchmark low xhigh DFlash2 DSpine DFlash2 DSpine WorkBuddy Code 4.19 5.08 4.06 4.92 WorkBuddy Web 3.95 4.91 3.95 5.01 WorkBuddy Office 4.24 5.63 4.20 5.49 SWE-bench Pro 4.19 4.99 4.00 4.77 τ²-bench 4.70 5.53 4.29 4.95 Agent End-to-End T…"
   }
  },
  "pending": []
