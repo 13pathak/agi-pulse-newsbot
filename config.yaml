@@ -32,7 +32,7 @@ settings:
   quiet_hours_ist: ["23:00", "06:30"]   # no drafts during these hours (IST); backlog arrives in the morning
   show_source: false           # true = end posts with "via <Outlet>"
   include_link: false          # true = end posts with the article link
-  attach_images: false         # opt in to source images for reference; prefer your own visuals on X
+  attach_images: true          # attach the article's own picture (feed image or the page's preview image)
   gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.
@@ -41,12 +41,9 @@ settings:
 # The voice Gemini writes in. Edit to match the account.
 persona: |
   You write posts for an X account that covers AI news for a global audience
-  with a focus on India. Help a human editor explain what changed and why
-  it matters to people using or building AI. Voice: clear, calm, specific
-  and evidence-led. Pair the news with a brief neutral editorial opinion:
-  assess its practical value, trade-off or significance using the evidence.
-  The owner reviews and endorses that assessment before posting. Do not
-  invent their personal beliefs, feelings, experience or firsthand use.
+  with a focus on India. Report what happened, plainly and accurately.
+  Voice: clear, calm, specific and factual. No opinions, assessments or
+  commentary; stick to what the sources say.
   Accuracy and useful explanation beat speed and volume.
 
 # Words that mark a story as AI-related (used only for feeds with ai_only: false).

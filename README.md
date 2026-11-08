@@ -24,7 +24,7 @@ automatic recommendations are disabled until API setup and preview checks pass.
 - **Persistent editorial queue:** qualifying drafts survive missing feed entries and discovery lookback limits. Importance, short-lived urgency, bounded waiting time and story expiry determine the next Telegram draft. Each draft includes a short reason for its selection.
 - **Human in the loop:** drafts go to Telegram with a one-tap **Post on X** button. No X API is used, so there are no API costs and every post is published by a person.
 - **Optional desktop tab reuse:** the [Brave/Chrome/Edge helper](desktop/x-tab-reuse/README.md) reuses an available X tab when a posting link opens. Install it in your desktop browser; Android's X app behavior is unchanged.
-- **Neutral editorial opinion:** drafts pair a concrete development with a measured assessment of its practical value, trade-off or significance for you to review and endorse. Thin evidence produces a factual-only exception with an editor note explaining the gap. No fabricated personal experience or engagement bait.
+- **Straight news drafts:** each post reports what happened with one useful concrete detail, without opinions, assessments or commentary. A separate editor note in Telegram flags one fact to verify. No fabricated personal experience or engagement bait.
 - **Editor notes:** each new draft requests one story-specific check or angle for you to investigate. The note appears in Telegram and dry runs, never in the X posting link. Read the source and contribute your own perspective before publishing.
 - **Optional reference images:** source pictures are off by default. You can enable them for reference; prefer your own visuals on X and check rights before reusing third-party images.
 - **Resilient:** retries when Gemini is busy, falls back to backup models, skips broken feeds, and remembers stories and their duplicate aliases to suppress repeat drafts.
@@ -150,7 +150,7 @@ All settings live in [`config.yaml`](config.yaml).
 | `quiet_hours_ist` | `["23:00", "06:30"]` | No drafts in this window (IST); the backlog is handled afterwards. |
 | `show_source` | `false` | End posts with "via <Outlet>". |
 | `include_link` | `false` | End posts with the article link. |
-| `attach_images` | `false` | Opt in to source reference images from feeds marked `images: true`; this does not grant reuse rights. |
+| `attach_images` | `true` | Attach the article's own picture (feed image, or the page's og:image) for sources marked `images: true`. This does not grant reuse rights. |
 | `gemini_model` | `gemini-flash-latest` | Main Gemini model. |
 | `gemini_fallback_models` | see file | Tried in order if the main model is busy or retired. |
 
@@ -219,10 +219,10 @@ desktop/x-tab-reuse/          optional Brave/Chrome/Edge extension
 
 ## Editorial guidelines
 
-- Drafts use each item's headline and public summary/feed excerpt (or a paper's abstract, or a model card). By default, each new draft contains a factual news sentence followed by a neutral editorial opinion assessing practical value, a trade-off or significance. Both sentences together target at most 240 characters before optional credits/links; final composition enforces the 280-character weighted limit. Shorten the news to make room and preserve qualifications. Do not force an India angle without evidence.
+- Drafts use each item's headline and public summary/feed excerpt (or a paper's abstract, or a model card). Each draft is one or two factual sentences, at most 240 characters before optional credits/links, with no opinion, assessment or commentary; final composition enforces the 280-character weighted limit.
 - Facts must come from the supplied material. Direct inferences must be clearly conditional and grounded in it. A short excerpt cannot establish that the full source lacks information. Thin evidence should yield a short update and a specific check for the editor.
 - Vendor claims and exclusive reporting need attribution in the sentence even when the trailing `via` credit is disabled. Distinguish measurements from forecasts and interpretation; preserve benchmark scope, release conditions and licensing caveats.
-- Suggested opinions must be fair, proportionate and evidence-led. The model must not invent the owner's personal beliefs, feelings, firsthand tests or expertise. Avoid generic takes, repeated "I think" labels and artificial balance; a supported conclusion need not pretend opposing claims have equal evidence. No invented numbers or quotes, copy-pasted source sentences, hype or engagement bait.
+- The model must not invent the owner's personal beliefs, feelings, firsthand tests or expertise. No invented numbers or quotes, copy-pasted source sentences, hype or engagement bait.
 - `editor_note` is separate editorial metadata, bounded and HTML-escaped for Telegram. It survives queueing and follows the draft when a primary source replaces it. Older queued drafts without notes still work; existing drafts are not regenerated just to change style.
 - Read the full source, check the claims, and decide what you can personally contribute. The **Post on X** button prefills only the draft; edit it in X before publishing. Draft generation remains automated and human review is not an eligibility guarantee.
 - Source images are optional reference material, not ready-to-reupload assets. Use your own visuals where useful and verify permission for any third-party material.
