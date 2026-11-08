@@ -234,7 +234,14 @@
   "03a651f6d5efd229": "2026-11-08T11:07:24.011536+00:00",
   "70492996a453820f": "2026-11-08T11:07:24.011536+00:00",
   "7939095de81a38d2": "2026-11-08T11:37:22.414138+00:00",
-  "c67c28d9cfcd3986": "2026-11-08T11:37:22.414138+00:00"
+  "c67c28d9cfcd3986": "2026-11-08T11:37:22.414138+00:00",
+  "ea522c95309640e9": "2026-11-08T12:07:23.980101+00:00",
+  "14abc97d62196b22": "2026-11-08T12:07:23.980101+00:00",
+  "bcb4a336b5185105": "2026-11-08T12:07:23.980101+00:00",
+  "27f79737e573d501": "2026-11-08T12:07:23.980101+00:00",
+  "a4c533ab2b702725": "2026-11-08T12:07:23.980101+00:00",
+  "a55c9fb77d6653f8": "2026-11-08T12:07:23.980101+00:00",
+  "b911ef86f5c7b684": "2026-11-08T12:07:23.980101+00:00"
  },
  "covered": [
   {
@@ -352,11 +359,15 @@
   {
    "headline": "India unveils indigenous AI foundation models EKA-1 and Dhīr",
    "ts": "2026-11-08T11:37:22.414138+00:00"
+  },
+  {
+   "headline": "Anthropic agrees to $3.4 billion power generation deal",
+   "ts": "2026-11-08T12:07:23.980101+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1377,8 +1388,8 @@
    "published_at": null,
    "first_seen_at": "2026-11-08T11:37:22.414138+00:00",
    "expires_at": "2026-11-09T23:37:22.414138+00:00",
-   "priority": 6.0,
-   "selection_reason": "Editorial importance"
+   "priority": 6.017376,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "0cfabca5ccd7075c",
@@ -1403,8 +1414,8 @@
    "published_at": "2026-11-08T10:43:01+00:00",
    "first_seen_at": "2026-11-08T11:07:24.011536+00:00",
    "expires_at": "2026-11-09T22:43:01+00:00",
-   "priority": 5.006057,
-   "selection_reason": "Editorial importance"
+   "priority": 5.023433,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ]
 }
