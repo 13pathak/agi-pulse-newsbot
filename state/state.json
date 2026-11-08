@@ -246,7 +246,10 @@
   "bd1439750cf5014e": "2026-11-08T12:37:19.747839+00:00",
   "c4aa836acd2d86ee": "2026-11-08T13:07:24.582182+00:00",
   "670335a07c630b2b": "2026-11-08T13:07:24.582182+00:00",
-  "0cfabca5ccd7075c": "2026-11-08T13:37:20.418685+00:00"
+  "0cfabca5ccd7075c": "2026-11-08T13:37:20.418685+00:00",
+  "8c0798cef7304430": "2026-11-08T14:07:22.986575+00:00",
+  "df8052273099b604": "2026-11-08T14:07:22.986575+00:00",
+  "eda53e4d37199d67": "2026-11-08T14:07:22.986575+00:00"
  },
  "covered": [
   {
@@ -380,11 +383,15 @@
   {
    "headline": "Gig workers use AI chatbots to contest platform deactivations",
    "ts": "2026-11-08T13:37:20.418685+00:00"
+  },
+  {
+   "headline": "DARPA seeks AI tools to detect digital market vulnerabilities",
+   "ts": "2026-11-08T14:07:22.986575+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
