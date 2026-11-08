@@ -215,7 +215,8 @@
   "eff9c0ae99eae78a": "2026-11-08T01:07:20.794534+00:00",
   "6b2b8cc622f47f26": "2026-11-08T01:07:20.794534+00:00",
   "2c93e9013ac15b4c": "2026-11-08T01:07:20.794534+00:00",
-  "bb2b94d807a6d9ed": "2026-11-08T02:37:19.960588+00:00"
+  "bb2b94d807a6d9ed": "2026-11-08T02:37:19.960588+00:00",
+  "a47d3957b9d79a38": "2026-11-08T04:37:21.813359+00:00"
  },
  "covered": [
   {
@@ -317,11 +318,15 @@
   {
    "headline": "AI auditors catch agent misbehavior but trigger false alarms",
    "ts": "2026-11-07T17:07:22.056797+00:00"
+  },
+  {
+   "headline": "EY India tracks AI customer service gains",
+   "ts": "2026-11-08T04:37:21.813359+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-08",
-  "count": 0
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
