@@ -451,13 +451,15 @@
   "6b56f7f474a20e66": "2026-11-09T14:37:24.342987+00:00",
   "624b1fdcbf9acee3": "2026-11-09T14:37:24.342987+00:00",
   "5124dffb00c76dc0": "2026-11-09T14:37:24.342987+00:00",
-  "02544590f0015416": "2026-11-09T14:37:24.342987+00:00"
+  "02544590f0015416": "2026-11-09T14:37:24.342987+00:00",
+  "057e22ab69c04fb1": "2026-11-09T15:07:23.862819+00:00",
+  "03b911997f8accec": "2026-11-09T15:07:23.862819+00:00",
+  "985b3239bc01c090": "2026-11-09T15:07:23.862819+00:00",
+  "c2568f76501c94d6": "2026-11-09T15:07:23.862819+00:00",
+  "9360f514ef7a9d6d": "2026-11-09T15:07:23.862819+00:00",
+  "310163d711d98a5f": "2026-11-09T15:07:23.862819+00:00"
  },
  "covered": [
-  {
-   "headline": "Epoch AI estimates Huawei data center capacity at 7 percent of Colossus 2",
-   "ts": "2026-11-07T15:07:23.759119+00:00"
-  },
   {
    "headline": "Open and closed AI model cyber capabilities gap",
    "ts": "2026-11-07T16:07:22.282656+00:00"
@@ -605,11 +607,15 @@
   {
    "headline": "ChatGPT traffic share exceeds 81 percent among chatbots",
    "ts": "2026-11-09T14:37:24.342987+00:00"
+  },
+  {
+   "headline": "ByteDance releases Seedream 5.5 image model with transparent asset generation",
+   "ts": "2026-11-09T15:07:23.862819+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1662,36 +1668,16 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
    "published": "2026-11-09T12:34:29.545000+00:00",
    "excerpt": "Mixture-of-Experts (MoE) models have enabled state-of-the-art LLMs to be scaled to hundreds of billions of parameters, but they come with a fundamental and costly caveat: every expert MLP must occupy memory at inference time, even though the vast majority are idle for any given token. For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers, and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone. However, for any given token, only 8 experts in each layer are actually used. Expert pruning is one of the most direct fixes to this memory bottleneck. That is, permanently delete the least useful experts. Pruning avoids the latency issues which make dynamic loading/off-loading of experts impractical; it does not require any training; and it…"
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "desc": "A Blog post by NVIDIA on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
+   "published": "2026-11-09T15:05:57.247000+00:00",
+   "excerpt": "In the financial sector, the utilization of real-world data faces significant constraints due to strict privacy regulations, compliance requirements, and the need for advanced domain expertise. In this context, the development of agentic AI in the financial domain requires synthetic data capable of avoiding the risks of using real data while reflecting demographics, household structures, and asset statuses to reproduce diverse, realistic financial scenarios. To address these challenges, Elith and NVIDIA have released Nemotron-Personas-Finance-Japan, a financial domain extension of the open-source persona dataset \"Nemotron-Personas-Japan.\" To our knowledge, it is the first open persona dataset at million-record scale that pairs Japan’s official statistics with household finance and financia…"
   }
  },
  "pending": [
-  {
-   "id": "310163d711d98a5f",
-   "item": {
-    "id": "310163d711d98a5f",
-    "title": "字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦",
-    "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11 月 9 日，字节跳动正式发布豆包图像创作模型 Seedream 5.5。相较上一代 Seedream 5.0 Pro，新模型的生成速度大幅提升，同时增强了多轮编辑稳定性，原生支持透明素材生成，并针对图像真实感和小字渲染方面做了重点优化，更好地满足了专业创作场景对质量、稳定性与效率的要求。 目前，豆包、豆包工作、即梦已同步接入Seedream 5.5，API 即将上线火山方舟。定价方面，Seedream 5.5 API 延续“输入图 + 输出图”两段计费结构，文本 Token 不产生费用。以2K方图编辑为例，单张成本在 0.28 元左右，不到 Seedream 5.0 Pro 一半。 在图像的多轮编辑方面，Seedream 5.5 的指令遵循能力更强，对非编辑区域实现了像素级的保持。在实测中，模型以每一轮的结果作为下一轮输入，连续完成上百轮修改后，指定编辑区域之外的主体特征、构图比例、光影风格仍然一致。 100轮修改之后，非编辑区域实现像素级保持 Seedream 5.5 原生支持 RGBA 透明素材的生成与拆分，可直接输出带 Alpha 通道的图像，并支持素材分层输出。除文生图外，创作者还可以通过参考图生成所需的透明素材，保留主体丰富形态与质感的同时，模型会准确处理轮廓边缘与透明区域，使其可作为设计资产跨场景复用，提高生产效率。 Seedream 5.5 原生支持透明素材生成 此外，Seedream 5.5 改善了写实场景中光照、材质与皮肤纹理的表现，减少了过度油亮、过曝的现象，生成结果更接近自然拍摄。在逆光人像、特效合成、多图融合等场景中，新增元素与原画面的空间关系、遮…",
-    "published": "2026-11-09T09:41:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ByteDance releases Seedream 5.5 image model with transparent asset generation",
-   "post": "ByteDance released Seedream 5.5, an updated image generation model available on Doubao and Jimeng. The model introduces native transparent asset generation and reduces per-image API editing costs to around 0.28 yuan.",
-   "editor_note": "Verify Volcano Ark API availability date and benchmark comparisons with Seedream 5.0 Pro.",
-   "published_at": "2026-11-09T09:41:00+00:00",
-   "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
-   "expires_at": "2026-11-10T21:41:00+00:00",
-   "priority": 7.019053,
-   "selection_reason": "Editorial importance; waiting 2.5h"
-  },
   {
    "id": "9d8e98a0c0ce0555",
    "item": {
@@ -1715,8 +1701,8 @@
    "published_at": "2026-11-09T11:30:04+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T23:30:04+00:00",
-   "priority": 6.10084,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.118197,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "9b03876ef79bfc02",
@@ -1741,8 +1727,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 6.083587,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.100944,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "d67288d027c7e193",
@@ -1767,8 +1753,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.014295,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.031651,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -1793,8 +1779,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.01404,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.031397,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -1833,8 +1819,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.162304,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.179661,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1861,8 +1847,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.12891,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 5.154945,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1888,8 +1874,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.113755,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.131111,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -1914,8 +1900,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.106458,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 5.123815,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -1940,8 +1926,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.013955,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 5.031312,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -1966,7 +1952,7 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 4.987018,
+   "priority": 5.007845,
    "selection_reason": "Editorial importance"
   },
   {
@@ -1993,8 +1979,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.893796,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 4.911152,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ]
 }
