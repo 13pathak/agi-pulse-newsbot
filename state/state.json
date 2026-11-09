@@ -413,7 +413,13 @@
   "fd2bdf0a7e83ede1": "2026-11-09T11:37:20.224380+00:00",
   "99d6b0ebd7e19458": "2026-11-09T11:37:20.224380+00:00",
   "6d06250a5f09bc78": "2026-11-09T11:37:20.224380+00:00",
-  "7ebef9afeb8222aa": "2026-11-09T11:37:20.224380+00:00"
+  "7ebef9afeb8222aa": "2026-11-09T11:37:20.224380+00:00",
+  "e3b4359dbef21f5a": "2026-11-09T12:07:22.714827+00:00",
+  "ea8638e2bc854d0e": "2026-11-09T12:07:22.714827+00:00",
+  "0daaf3c22966ba21": "2026-11-09T12:07:22.714827+00:00",
+  "360ae8900798b930": "2026-11-09T12:07:22.714827+00:00",
+  "20a8545aaf6249cc": "2026-11-09T12:07:22.714827+00:00",
+  "f48aeb69ae59bf66": "2026-11-09T12:07:22.714827+00:00"
  },
  "covered": [
   {
@@ -571,11 +577,15 @@
   {
    "headline": "Baidu discloses ERNIE Evolve system for automated AI research",
    "ts": "2026-11-09T11:37:20.224380+00:00"
+  },
+  {
+   "headline": "Apple Intelligence completes Chinese regulatory filing for iPad and Mac",
+   "ts": "2026-11-09T12:07:22.714827+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1625,6 +1635,59 @@
  },
  "pending": [
   {
+   "id": "5fcd7a76450667ba",
+   "item": {
+    "id": "5fcd7a76450667ba",
+    "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
+    "url": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769242911182-72c743ba-89b8-4427-973d-f7ce6ca58105-g0wd64.webp",
+    "snippet": "Indian IT services firm Coforge has joined SpaceX’s Super Intelligence Partner Network to develop enterprise applications using the Grok artificial intelligence portfolio. Coforge will participate as a Transformation Partner, developing industry-specific solutions and integrating them into clients’ existing systems and workflows. The company did not disclose the financial details of the partnershi…",
+    "published": "2026-11-09T11:16:54+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Coforge partners with SpaceX to build enterprise Grok AI tools",
+   "post": "Indian IT services firm Coforge has joined SpaceX's Super Intelligence Partner Network to develop enterprise applications using the Grok AI portfolio for clients' existing workflows.",
+   "editor_note": "Confirm if specific industry solutions or client deployment dates were disclosed.",
+   "published_at": "2026-11-09T11:16:54+00:00",
+   "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
+   "expires_at": "2026-11-10T23:16:54+00:00",
+   "priority": 6.97663,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "310163d711d98a5f",
+   "item": {
+    "id": "310163d711d98a5f",
+    "title": "字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦",
+    "url": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11 月 9 日，字节跳动正式发布豆包图像创作模型 Seedream 5.5。相较上一代 Seedream 5.0 Pro，新模型的生成速度大幅提升，同时增强了多轮编辑稳定性，原生支持透明素材生成，并针对图像真实感和小字渲染方面做了重点优化，更好地满足了专业创作场景对质量、稳定性与效率的要求。 目前，豆包、豆包工作、即梦已同步接入Seedream 5.5，API 即将上线火山方舟。定价方面，Seedream 5.5 API 延续“输入图 + 输出图”两段计费结构，文本 Token 不产生费用。以2K方图编辑为例，单张成本在 0.28 元左右，不到 Seedream 5.0 Pro 一半。 在图像的多轮编辑方面，Seedream 5.5 的指令遵循能力更强，对非编辑区域实现了像素级的保持。在实测中，模型以每一轮的结果作为下一轮输入，连续完成上百轮修改后，指定编辑区域之外的主体特征、构图比例、光影风格仍然一致。 100轮修改之后，非编辑区域实现像素级保持 Seedream 5.5 原生支持 RGBA 透明素材的生成与拆分，可直接输出带 Alpha 通道的图像，并支持素材分层输出。除文生图外，创作者还可以通过参考图生成所需的透明素材，保留主体丰富形态与质感的同时，模型会准确处理轮廓边缘与透明区域，使其可作为设计资产跨场景复用，提高生产效率。 Seedream 5.5 原生支持透明素材生成 此外，Seedream 5.5 改善了写实场景中光照、材质与皮肤纹理的表现，减少了过度油亮、过曝的现象，生成结果更接近自然拍摄。在逆光人像、特效合成、多图融合等场景中，新增元素与原画面的空间关系、遮…",
+    "published": "2026-11-09T09:41:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ByteDance releases Seedream 5.5 image model with transparent asset generation",
+   "post": "ByteDance released Seedream 5.5, an updated image generation model available on Doubao and Jimeng. The model introduces native transparent asset generation and reduces per-image API editing costs to around 0.28 yuan.",
+   "editor_note": "Verify Volcano Ark API availability date and benchmark comparisons with Seedream 5.0 Pro.",
+   "published_at": "2026-11-09T09:41:00+00:00",
+   "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
+   "expires_at": "2026-11-10T21:41:00+00:00",
+   "priority": 6.932232,
+   "selection_reason": "Editorial importance"
+  },
+  {
    "id": "9d8e98a0c0ce0555",
    "item": {
     "id": "9d8e98a0c0ce0555",
@@ -1647,8 +1710,8 @@
    "published_at": "2026-11-09T11:30:04+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T23:30:04+00:00",
-   "priority": 5.996634,
-   "selection_reason": "Editorial importance"
+   "priority": 6.014019,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "9b03876ef79bfc02",
@@ -1673,8 +1736,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 5.979381,
-   "selection_reason": "Editorial importance"
+   "priority": 5.996766,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -1713,8 +1776,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.058098,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.075483,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1740,8 +1803,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.009548,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.026934,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -1766,8 +1829,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.002252,
-   "selection_reason": "Editorial importance"
+   "priority": 5.019637,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1794,8 +1857,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 4.972601,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 4.998679,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1821,8 +1884,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.789589,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 4.806975,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ]
 }
