@@ -381,7 +381,22 @@
   "0a735ce471d43f47": "2026-11-09T10:07:25.046413+00:00",
   "d604e0657ae5ba17": "2026-11-09T10:07:25.046413+00:00",
   "e4bf0b075b34b5d4": "2026-11-09T10:07:25.046413+00:00",
-  "3db453c4e147dc0d": "2026-11-09T10:07:25.046413+00:00"
+  "3db453c4e147dc0d": "2026-11-09T10:07:25.046413+00:00",
+  "c0ec62cbb848d219": "2026-11-09T10:37:24.219759+00:00",
+  "80c02d77a90e9c21": "2026-11-09T10:37:24.219759+00:00",
+  "b59b66b40b4d35eb": "2026-11-09T10:37:24.219759+00:00",
+  "86224467208cbe52": "2026-11-09T10:37:24.219759+00:00",
+  "913bd24713d77da7": "2026-11-09T10:37:24.219759+00:00",
+  "00308dd471de1af5": "2026-11-09T10:37:24.219759+00:00",
+  "f6cd54d498438846": "2026-11-09T10:37:24.219759+00:00",
+  "319905a4bc5253c8": "2026-11-09T10:37:24.219759+00:00",
+  "d67937bb26828b6e": "2026-11-09T10:37:24.219759+00:00",
+  "3e33c83d20938608": "2026-11-09T10:37:24.219759+00:00",
+  "13241de557a3df5a": "2026-11-09T10:37:24.219759+00:00",
+  "182f5977c0cb717d": "2026-11-09T10:37:24.219759+00:00",
+  "6b8109c8f1fe533c": "2026-11-09T10:37:24.219759+00:00",
+  "c68c9d57a5f036bf": "2026-11-09T10:37:24.219759+00:00",
+  "88cdd5de26da7f1c": "2026-11-09T10:37:24.219759+00:00"
  },
  "covered": [
   {
@@ -535,11 +550,15 @@
   {
    "headline": "PhysicsWallah cites AI efficiency gains for workforce reductions",
    "ts": "2026-11-09T10:07:25.046413+00:00"
+  },
+  {
+   "headline": "Alibaba releases Qwen Office 2.0 with Team Agent collaboration",
+   "ts": "2026-11-09T10:37:24.219759+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1589,33 +1608,6 @@
  },
  "pending": [
   {
-   "id": "88cdd5de26da7f1c",
-   "item": {
-    "id": "88cdd5de26da7f1c",
-    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-    "url": "https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服务个人走向服务团队和组织。目前，所有功能已在千问办公客户端全量上线。 千问办公在同日发布的官方博客《千问办公2.0：主动与协同，迈向Team Agent时代》中指出，主流办公Agent的产品形态仍以服务个人为主，团队的协作方式并未发生变化，下一代Agent需要进入团队协作的现场。 千问办公推出的“协作”功能率先把Agent带进工作群，用户可以组建一个团队和数字员工共同工作的协作空间。真实的工作通常发生在办公软件的群里，一个复杂项目的信息可能会分散在多个群聊和会议纪要中，成员只能手动搬运、汇总信息。现在，数字员工在协作空间内能实时关联多个钉钉群聊、文档、AI表格和AI听记等信息源，支持多个会话并行，以及任务管理与指派。成员在协作空间内指派任务，数字员工就能结合空间的上下文，梳理进展、总结共识、创建并跟进待办。 据介绍，银泰百货卡券运营团队基于该功能大幅提升了团队工作效率。过去，该团队5名运营人员要在60多个门店群里逐一收集卡券提报信息，核对后再回填到表格。现在，团队把这些门店群和一张AI表格关联到同一个协作空间，原有的沟通方式不变，Agent可跨群汇总信息并自动更新表格，显著减少了运营团队的工作量。 千问办公上线的 “自动任务”功能，首次让Agent从被动响应，升级为主动帮用户干活。千问办公官方博客指出，下一代企业级Agent需要具备感知业务、主动推进的能力，而…",
-    "published": "2026-11-09T07:46:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba releases Qwen Office 2.0 with Team Agent collaboration",
-   "post": "Alibaba released Qwen Office 2.0, adding Team Agent capabilities that integrate into DingTalk group chats to aggregate documents, tables, and notes across multi-user workflows.",
-   "editor_note": "Confirm whether Qwen Office 2.0 is available outside the mainland China DingTalk app.",
-   "published_at": "2026-11-09T07:46:00+00:00",
-   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
-   "expires_at": "2026-11-10T19:46:00+00:00",
-   "priority": 7.434529,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "e0b84dac00138015",
    "item": {
     "id": "e0b84dac00138015",
@@ -1638,7 +1630,7 @@
    "published_at": "2026-11-09T09:59:20+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-10T21:59:20+00:00",
-   "priority": 5.996257,
+   "priority": 6.01361,
    "selection_reason": "Editorial importance"
   },
   {
@@ -1655,7 +1647,21 @@
     "category": "news",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "abd2c47a1388b3da",
+     "title": "软银为美国AI数据中心市场可能降温作准备",
+     "url": "https://36kr.com/newsflashes/4062370565510273?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "软银公司负责人正为美国人工智能（AI）数据中心需求可能放缓作准备，并表示公司可能转向其他市场寻求增长。软银集团旗下移动业务此前正为在美国开展新型AI云服务业务打基础，目前则在评估民主党上周横扫中期选举，以及反对建设数据中心的情绪日益升温所带来的影响。（新浪财经）",
+     "published": "2026-11-09T10:29:54+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    }
+   ],
    "importance": 5,
    "urgency": "routine",
    "headline": "SoftBank Corp warns of potential US AI data center slowdown",
@@ -1664,8 +1670,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.006061,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 5.023414,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1691,8 +1697,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.957512,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 4.974865,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1719,7 +1725,34 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 4.894546,
+   "priority": 4.920575,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "7639d6d71e8a2958",
+   "item": {
+    "id": "7639d6d71e8a2958",
+    "title": "不拿地方国资、全靠市场化巨头抢筹：「猿声科技」凭什么让五源、线性与拓普同时掏钱？",
+    "url": "https://www.leiphone.com/category/industrynews/B48XPbz6KLvCe9jk.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "如果把今年市面上冒出来的几十家具身触觉初创公司拉一张表，会发现一个颇为残酷的供需倒挂：下游全球人形机器人的年度真实出货量还停留在千台级，而上游等着卖传感器切片的创业公司，融资总额已经滚到了数十亿元。僧多粥少之下，一级市场最现实的追问已经摆上台面： 在人形机器人真正迎来大规模放量之前，这几十家触觉公司到底靠什么订单活着？ 就在行业陷入“玩家过剩、订单饥渴”的分化期，11月6日的一则工商变更记录，提前揭示了头部财务资本和产业巨头的投票方向。 企查查数据显示，一家成立于2025年1月的深圳企业——猿声先达科技（深圳）有限公司（下称“猿声科技”），悄然完成了一次股东扩容，一次性新增9名股东，注册资本增幅约18.8%。在这份尚未官宣具体融资金额的名单里，不仅站着曾早期捕手小米、小鹏汽车、地平线的 五源资本 ，以及深耕前沿硬科技与数据智能的 线性资本 、 厚雪资本 、 曦晨资本 ；更出现了千亿市值汽车Tier 1巨头 拓普集团 、激光雷达龙头 速腾聚创 、汽车智驾传感器准上市企业 上富电技 。 算上去年天使轮和Pre-A轮进场的李泽湘教授、柯力传感、纳芯微、启高资本与恒信华业，这家由牛津大学博士创办、成立仅一年半的公司，几乎把半条机器人与车规供应链的关键玩家都拉进了自己的股东群。而且一个值得玩味的细节是，在当下地方国资主导的硬科技创投环境里，猿声科技的股东阵容高度市场化，几乎看不到靠落地承诺换取地方引导基金的痕迹，全凭市场化VC与上下游产业客户用真金白银投票。 在同行还在为压阻、视触觉、电容等技术路线吵得不可开交时，这群精明的财务捕手和挑剔的制造业巨头，究竟在猿声科技身上算清楚了一笔什么账…",
+    "published": "2026-11-09T01:48:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Yuansheng Tech expands investors for robot tactile sensors",
+   "post": "Shenzhen-based tactile sensor startup Yuansheng Tech has added nine new investors to its shareholder structure, including 5Y Capital, Linear Capital, and automotive component maker Top Group.",
+   "editor_note": "Verify total capital raised in this round, as public filing records reflect equity changes without disclosing financial terms.",
+   "published_at": "2026-11-09T01:48:00+00:00",
+   "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
+   "expires_at": "2026-11-10T13:48:00+00:00",
+   "priority": 4.754906,
    "selection_reason": "Editorial importance"
   }
  ]
