@@ -361,7 +361,18 @@
   "f36a6a629a9239ca": "2026-11-09T09:07:22.412222+00:00",
   "c7c0c98e06ff79c9": "2026-11-09T09:07:22.412222+00:00",
   "1a8caa4830e7d96b": "2026-11-09T09:07:22.412222+00:00",
-  "6a4eb64b6fe69c83": "2026-11-09T09:07:22.412222+00:00"
+  "6a4eb64b6fe69c83": "2026-11-09T09:07:22.412222+00:00",
+  "74b1b61faaf56e18": "2026-11-09T09:37:21.248928+00:00",
+  "2e104f370e830b75": "2026-11-09T09:37:21.248928+00:00",
+  "dc4854df556e8fb2": "2026-11-09T09:37:21.248928+00:00",
+  "ff160daec81bc074": "2026-11-09T09:37:21.248928+00:00",
+  "2b37102b42511714": "2026-11-09T09:37:21.248928+00:00",
+  "4b60870a45967912": "2026-11-09T09:37:21.248928+00:00",
+  "732aa7b23ea45835": "2026-11-09T09:37:21.248928+00:00",
+  "df727c0c0e294fcd": "2026-11-09T09:37:21.248928+00:00",
+  "a2ab80b7f0f9ff58": "2026-11-09T09:37:21.248928+00:00",
+  "4f17d89f17ebea2a": "2026-11-09T09:37:21.248928+00:00",
+  "2dbd656285163f7f": "2026-11-09T09:37:21.248928+00:00"
  },
  "covered": [
   {
@@ -507,11 +518,15 @@
   {
    "headline": "Sakana AI plans 2027 IPO in Japan or US",
    "ts": "2026-11-09T09:07:22.412222+00:00"
+  },
+  {
+   "headline": "Tencent rolls out WeCom AI assistant powered by Hunyuan Hy4",
+   "ts": "2026-11-09T09:37:21.248928+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1539,7 +1554,73 @@
    "desc": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508498.html": {
+   "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+   "desc": "英伟达暗盘跌2%",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508478.html": {
+   "title": "终端侧AI：从单点应用走向智能体体验",
+   "desc": "高通在第九届进博会展出端侧MoE智能体",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
- "pending": []
+ "pending": [
+  {
+   "id": "df3675d7a4445269",
+   "item": {
+    "id": "df3675d7a4445269",
+    "title": "SoftBank’s Mobile Arm Braces for Possible AI Correction in US",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/softbank-s-mobile-arm-braces-for-possible-ai-correction-in-us",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "The head of SoftBank Corp. is steeling himself for a possible slowdown in AI data center demand in the US and said that his company may look elsewhere for growth.",
+    "published": "2026-11-09T09:12:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "SoftBank Corp warns of potential US AI data center slowdown",
+   "post": "SoftBank Corp., SoftBank Group's telecom unit, stated it is preparing for a potential slowdown in US AI data center demand and seeking growth opportunities in other regions.",
+   "editor_note": "Confirm this statement comes from SoftBank Corp telecom leadership rather than SoftBank Group's Vision Fund.",
+   "published_at": "2026-11-09T09:12:52+00:00",
+   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
+   "expires_at": "2026-11-10T21:12:52+00:00",
+   "priority": 4.988663,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "288844aa1b89ae14",
+   "item": {
+    "id": "288844aa1b89ae14",
+    "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
+    "url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。 根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。 此次合作体现了双方在探索具有挑战性、且长期以来被认为难以成药的靶点领域的共同意愿。这一领域不仅存在巨大的未满足医疗需求，也蕴含着创新药物研发的重要机遇。 对皮尔法伯集团而言，与晶泰科技的这份协议是其研发路线图的一次战略性补充，将进一步增强其药物发现能力；对晶泰科技而言，则意味着其 “AI+机器人”技术在药物从头设计上又向前推进了一步。双方携手，旨在加快高质量临床候选药物的发现，加速包括肿瘤及其他潜在治疗领域的多个研发项目。 晶泰科技小分子药物发现事业部负责人Raymond Zheng表示：“我们很荣幸能与国际知名制药企业皮尔法伯集团开展此次合作。此次合作将充分结合晶泰科技“AI+机器人”的药物发现能力，以及皮尔法伯集团在相关治疗领域积累的深厚研发经验，共同推进有潜力的临床前候选药物研发，惠及存在未被满足医疗需求的患者。” 皮尔法伯集团制药研发负责人 Francesco Hofmann表示：“与晶泰科技开展合作对我们而言是一个重要里程碑。借助晶泰科技在AI领域的专业能力，加快推进针对多个靶点高质量临床候选药物的交付，是对我们研发数据与AI路线图及药物…",
+    "published": "2026-11-09T07:28:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Pierre Fabre and XtalPi partner on AI oncology drug discovery",
+   "post": "Pierre Fabre Group and XtalPi announced an AI drug discovery partnership focused on oncology. XtalPi will use its AI and robotics platform to design small molecule therapeutics, while Pierre Fabre will conduct clinical development.",
+   "editor_note": "Check if financial terms or specific target counts were disclosed in the announcement.",
+   "published_at": "2026-11-09T07:28:00+00:00",
+   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
+   "expires_at": "2026-11-10T19:28:00+00:00",
+   "priority": 4.940114,
+   "selection_reason": "Editorial importance"
+  }
+ ]
 }
