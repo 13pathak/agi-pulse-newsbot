@@ -347,13 +347,23 @@
   "e3f8cf0e7cd655a8": "2026-11-09T08:37:20.636253+00:00",
   "5e7110476c47f097": "2026-11-09T08:37:20.636253+00:00",
   "1888f6a4c86ea233": "2026-11-09T08:37:20.636253+00:00",
-  "6d49d73492813e52": "2026-11-09T08:37:20.636253+00:00"
+  "6d49d73492813e52": "2026-11-09T08:37:20.636253+00:00",
+  "46d4f34bd6def63d": "2026-11-09T09:07:22.412222+00:00",
+  "2846b0ff95fdc2dd": "2026-11-09T09:07:22.412222+00:00",
+  "cc3a71406fdb3f32": "2026-11-09T09:07:22.412222+00:00",
+  "c116b9679ec67b2c": "2026-11-09T09:07:22.412222+00:00",
+  "0d9e3f677bbd241e": "2026-11-09T09:07:22.412222+00:00",
+  "babfdf35f0837ba4": "2026-11-09T09:07:22.412222+00:00",
+  "209c6b577f3ddaf9": "2026-11-09T09:07:22.412222+00:00",
+  "e7125623c127398c": "2026-11-09T09:07:22.412222+00:00",
+  "f164c1517c602138": "2026-11-09T09:07:22.412222+00:00",
+  "664c7a3ff14770da": "2026-11-09T09:07:22.412222+00:00",
+  "f36a6a629a9239ca": "2026-11-09T09:07:22.412222+00:00",
+  "c7c0c98e06ff79c9": "2026-11-09T09:07:22.412222+00:00",
+  "1a8caa4830e7d96b": "2026-11-09T09:07:22.412222+00:00",
+  "6a4eb64b6fe69c83": "2026-11-09T09:07:22.412222+00:00"
  },
  "covered": [
-  {
-   "headline": "Microsoft winds down Oracle deal to rent AI cloud capacity",
-   "ts": "2026-11-07T08:37:20.697583+00:00"
-  },
   {
    "headline": "Moonshot AI releases open-weight Kimi-K3.1-Pro model",
    "ts": "2026-11-07T11:07:20.401640+00:00"
@@ -493,11 +503,15 @@
   {
    "headline": "Nvidia announces planned investments in South Korean AI startups",
    "ts": "2026-11-09T08:37:20.636253+00:00"
+  },
+  {
+   "headline": "Sakana AI plans 2027 IPO in Japan or US",
+   "ts": "2026-11-09T09:07:22.412222+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1507,6 +1521,24 @@
    "desc": "Sashikumar Sreedharan, former Managing Director of Google Cloud India, joins Sarvam as President, Chief Business Officer and board member.",
    "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/21195d397de12fd97dda6ccc327288ddcc12c534-3000x1590.jpg?rect=100,150,1540,1160",
    "published": "2026-11-09T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/508607.html": {
+   "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+   "desc": "Worker不够了主管Agent还能自己招！",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508586.html": {
+   "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+   "desc": "“让人放心，把人放大。”",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508566.html": {
+   "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+   "desc": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": []
