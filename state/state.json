@@ -290,7 +290,9 @@
   "0d90061414db883b": "2026-11-09T01:07:26.217560+00:00",
   "c5e0a4cad3da1aa4": "2026-11-09T01:37:20.079145+00:00",
   "934985cf01b72207": "2026-11-09T01:37:20.079145+00:00",
-  "ae06ecf7187204d4": "2026-11-09T02:07:24.550324+00:00"
+  "ae06ecf7187204d4": "2026-11-09T02:07:24.550324+00:00",
+  "0d6cf31315a0130f": "2026-11-09T02:37:21.419191+00:00",
+  "56b63e3fd22f6ea8": "2026-11-09T02:37:21.419191+00:00"
  },
  "covered": [
   {
@@ -440,11 +442,15 @@
   {
    "headline": "Rights holders for Elvis Presley and Eminem sue AI music startup Suno",
    "ts": "2026-11-09T02:07:24.550324+00:00"
+  },
+  {
+   "headline": "South Korea confirms arrival of 10,000 Nvidia GPUs",
+   "ts": "2026-11-09T02:37:21.419191+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
