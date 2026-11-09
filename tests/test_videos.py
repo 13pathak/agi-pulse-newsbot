@@ -373,6 +373,12 @@ def test_before_digest_time_processes_feedback_only(runtime, monkeypatch):
     assert vr.run("normal", state_path=runtime, now=NOW - timedelta(hours=2)) == 0
 
 
+def test_shared_inbox_delivery_never_starts_second_update_reader(runtime, monkeypatch):
+    monkeypatch.setenv("VIDEO_FEEDBACK_POLLING", "false")
+    monkeypatch.setattr(vr, "poll_feedback", lambda *a: pytest.fail("second Telegram reader"))
+    assert vr.run("normal", state_path=runtime, now=NOW - timedelta(hours=2)) == 0
+
+
 def test_telegram_card_escapes_untrusted_content_and_uses_known_urls():
     v = ready()
     v["review"]["task"] = 'Use <script> & "demo"'

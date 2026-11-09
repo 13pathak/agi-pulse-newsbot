@@ -405,19 +405,44 @@ def handle_message(message, state, now, gemini_key, analyzer=analyze):
     return render(result)
 
 
-def poll(token, chat_id, gemini_key, allowed_user=None, state_path=STATE_PATH, now=None, analyzer=analyze):
-    if os.environ.get("VIDEO_RECOMMENDER_ENABLED", "").lower() == "true" and not os.environ.get("TELEGRAM_TAKES_BOT_TOKEN"):
-        raise RuntimeError("The video recommender also reads this bot's updates. Create a second bot "
-                           "and set TELEGRAM_TAKES_BOT_TOKEN (see VIDEO_TAKES.md).")
+def poll(token, chat_id, gemini_key, allowed_user=None, state_path=STATE_PATH, now=None, analyzer=analyze,
+         video_state_path=None):
+    # One reader routes both messages and recommendation callbacks. A separately
+    # configured Takes bot has its own inbox and only needs message updates.
+    shared_inbox = not os.environ.get("TELEGRAM_TAKES_BOT_TOKEN")
+    feedback_state = None
+    if shared_inbox:
+        import video_recommender as recommendations
+        video_state_path = video_state_path or recommendations.STATE_PATH
+        feedback_state = recommendations.load_state(video_state_path)
     if telegram(token, "getWebhookInfo").get("url"):
         raise RuntimeError("This Telegram bot has a webhook; polling would conflict with it")
     state = load_state(state_path)
+    if shared_inbox:
+        state["update_offset"] = max(state.get("update_offset", 0), feedback_state["update_offset"])
     updates = telegram(token, "getUpdates", offset=state.get("update_offset", 0), timeout=0,
-                       limit=20, allowed_updates=["message"])
+                       limit=20, allowed_updates=["message", "callback_query"] if shared_inbox else ["message"])
     handled = 0
     for update in updates:
         update_id = update.get("update_id")
         if type(update_id) is not int or update_id < state.get("update_offset", 0):
+            continue
+        callback = update.get("callback_query")
+        if callback and shared_inbox:
+            feedback_user = allowed_user or (chat_id if int(chat_id) > 0 else None)
+            accepted = bool(feedback_user) and recommendations.apply_feedback(
+                feedback_state, update, chat_id, feedback_user)
+            feedback_state["update_offset"] = update_id + 1
+            recommendations.save_state(feedback_state, video_state_path)
+            state["update_offset"] = update_id + 1
+            save_state(state, state_path)
+            if callback.get("id"):
+                try:
+                    telegram(token, "answerCallbackQuery", callback_query_id=callback["id"],
+                             text="Feedback saved" if accepted else "Feedback already recorded or unavailable")
+                except RuntimeError:
+                    pass  # Telegram can expire the acknowledgement before the next scheduled poll.
+            handled += 1
             continue
         # Advance first: a message that crashes the bot must not block the queue forever.
         state["update_offset"] = update_id + 1

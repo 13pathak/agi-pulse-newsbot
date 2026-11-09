@@ -132,14 +132,15 @@ def test_poll_answers_authorized_links_and_saves_offset(tmp_path, monkeypatch):
         if method == "getWebhookInfo":
             return {"url": ""}
         if method == "getUpdates":
-            assert payload["allowed_updates"] == ["message"] and payload["offset"] == 0
+            assert payload["allowed_updates"] == ["message", "callback_query"] and payload["offset"] == 0
             return updates
         return {"message_id": 100}
 
     monkeypatch.setattr(vt, "telegram", fake_telegram)
-    monkeypatch.delenv("VIDEO_RECOMMENDER_ENABLED", raising=False)
+    monkeypatch.delenv("TELEGRAM_TAKES_BOT_TOKEN", raising=False)
     path = tmp_path / "takes.json"
-    handled = vt.poll("t", "42", "k", state_path=path, now=NOW, analyzer=lambda v, k: result())
+    handled = vt.poll("t", "42", "k", state_path=path, now=NOW, analyzer=lambda v, k: result(),
+                      video_state_path=tmp_path / "videos.json")
     assert handled == 2
     sent = [p for m, p in calls if m == "sendMessage"]
     assert [p["reply_parameters"]["message_id"] for p in sent] == [1, 3]
@@ -149,8 +150,53 @@ def test_poll_answers_authorized_links_and_saves_offset(tmp_path, monkeypatch):
     assert "text" not in path.read_text()  # no message text stored
 
 
-def test_poll_refuses_shared_bot_when_recommender_enabled(monkeypatch, tmp_path):
-    monkeypatch.setenv("VIDEO_RECOMMENDER_ENABLED", "true")
+def test_shared_inbox_handles_links_and_feedback_without_stealing_updates(monkeypatch, tmp_path):
+    import video_recommender as vr
+
     monkeypatch.delenv("TELEGRAM_TAKES_BOT_TOKEN", raising=False)
-    with pytest.raises(RuntimeError, match="TELEGRAM_TAKES_BOT_TOKEN"):
-        vt.poll("t", "42", "k", state_path=tmp_path / "s.json", now=NOW)
+    path, video_path = tmp_path / "takes.json", tmp_path / "videos.json"
+    feedback_state = vr.load_state(video_path)
+    feedback_state["update_offset"] = 5
+    feedback_state["videos"][VID] = {"status": "sent", "review": {"category": "creative"}}
+    vr.save_state(feedback_state, video_path)
+    updates = [{"update_id": 5, "message": message("hello")}]
+    for number, user in ((6, 999), (7, 42), (8, 42)):
+        updates.append({"update_id": number, "callback_query": {
+            "id": str(number), "from": {"id": user}, "message": message("card"),
+            "data": f"vid:useful:{VID}"}})
+    acknowledgements = []
+
+    def telegram(token, method, **payload):
+        if method == "getWebhookInfo":
+            return {"url": ""}
+        if method == "getUpdates":
+            assert payload["allowed_updates"] == ["message", "callback_query"]
+            assert payload["offset"] in (5, 9)
+            return updates
+        if method == "answerCallbackQuery":
+            assert vt.load_state(path)["update_offset"] == int(payload["callback_query_id"]) + 1
+            assert vr.load_state(video_path)["update_offset"] == vt.load_state(path)["update_offset"]
+            acknowledgements.append(payload["text"])
+            raise RuntimeError("expired callback")
+
+    monkeypatch.setattr(vt, "telegram", telegram)
+    assert vt.poll("t", "42", "k", state_path=path, video_state_path=video_path) == 4
+    assert vt.poll("t", "42", "k", state_path=path, video_state_path=video_path) == 0
+    assert vr.load_state(video_path)["preferences"]["creative"]["interest"] == 1
+    assert acknowledgements == ["Feedback already recorded or unavailable", "Feedback saved",
+                                "Feedback already recorded or unavailable"]
+
+
+def test_separate_takes_bot_only_polls_messages(monkeypatch, tmp_path):
+    monkeypatch.setenv("TELEGRAM_TAKES_BOT_TOKEN", "separate-token")
+    video_path = tmp_path / "videos.json"
+    video_path.write_text("invalid video state must not be read")
+
+    def telegram(token, method, **payload):
+        if method == "getWebhookInfo":
+            return {"url": ""}
+        assert payload["allowed_updates"] == ["message"]
+        return []
+
+    monkeypatch.setattr(vt, "telegram", telegram)
+    assert vt.poll("t", "42", "k", state_path=tmp_path / "takes.json", video_state_path=video_path) == 0

@@ -42,20 +42,25 @@ about 150,000 characters (roughly 2.5 hours) are trimmed to their first part.
 
 ## One bot, one reader
 
-Telegram lets only one program read a bot's incoming messages. The practical video
-recommender (`video_recommender.py`) also reads them for its feedback buttons, and
-the two would steal each other's updates. While the recommender is disabled (the
-`YOUTUBE_RECOMMENDATIONS_ENABLED` variable is not `true`), this feature uses the
-existing bot. Before enabling the recommender, create a second bot with
-@BotFather, send it a message, and add its token as secret
-`TELEGRAM_TAKES_BOT_TOKEN`; video takes then uses that bot. The workflow refuses to
-poll if the recommender is enabled and no separate token is set.
+The Video Takes workflow is the single reader for the existing Telegram bot. It
+routes incoming links to transcript analysis and recommendation button callbacks to
+the practical video recommender's saved preferences. Both workflows use the same
+concurrency group so they cannot overwrite each other's video state. Enabling the
+recommender therefore does not require a second Telegram bot.
+
+An optional `TELEGRAM_TAKES_BOT_TOKEN` still supports a separate Takes bot. When that
+secret is present, Takes reads messages from that bot and the recommender polls its
+own feedback inbox. Do not start an additional local polling process while either
+workflow is active. If you remove Video Takes, set `VIDEO_FEEDBACK_POLLING` to
+`'true'` in the recommender workflow so it resumes collecting its own feedback.
 
 ## State and privacy
 
 `state/video_takes.json` stores only the Telegram update offset and today's count.
 No message text, chat IDs or results are saved. The repository is public, so this
 file is public too.
+Recommendation feedback is saved separately in `state/videos.json`, as described
+in [VIDEO_RECOMMENDER.md](VIDEO_RECOMMENDER.md).
 
 ## Local commands
 
