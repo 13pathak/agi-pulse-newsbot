@@ -404,13 +404,18 @@
   "85c9beb2ca97b203": "2026-11-09T11:07:21.517844+00:00",
   "11a2167fe1d6515d": "2026-11-09T11:07:21.517844+00:00",
   "8a7ed4896028c276": "2026-11-09T11:07:21.517844+00:00",
-  "e0b84dac00138015": "2026-11-09T11:07:21.517844+00:00"
+  "e0b84dac00138015": "2026-11-09T11:07:21.517844+00:00",
+  "d1df7096c504e2fa": "2026-11-09T11:37:20.224380+00:00",
+  "af08e1f33b668617": "2026-11-09T11:37:20.224380+00:00",
+  "66785f04b7e116e2": "2026-11-09T11:37:20.224380+00:00",
+  "f6e2533dd3b1560f": "2026-11-09T11:37:20.224380+00:00",
+  "3f9ab8d4f19f0be4": "2026-11-09T11:37:20.224380+00:00",
+  "fd2bdf0a7e83ede1": "2026-11-09T11:37:20.224380+00:00",
+  "99d6b0ebd7e19458": "2026-11-09T11:37:20.224380+00:00",
+  "6d06250a5f09bc78": "2026-11-09T11:37:20.224380+00:00",
+  "7ebef9afeb8222aa": "2026-11-09T11:37:20.224380+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI employee pleads not guilty to office bugging",
-   "ts": "2026-11-07T11:37:18.945252+00:00"
-  },
   {
    "headline": "Google AI detects high blood pressure via smartwatches",
    "ts": "2026-11-07T12:07:23.193307+00:00"
@@ -562,11 +567,15 @@
   {
    "headline": "National Stock Exchange of India adds AI tools to Market Lens platform",
    "ts": "2026-11-09T11:07:21.517844+00:00"
+  },
+  {
+   "headline": "Baidu discloses ERNIE Evolve system for automated AI research",
+   "ts": "2026-11-09T11:37:20.224380+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1616,6 +1625,58 @@
  },
  "pending": [
   {
+   "id": "9d8e98a0c0ce0555",
+   "item": {
+    "id": "9d8e98a0c0ce0555",
+    "title": "Adobe’s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
+    "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1778224078722-o5son5.webp",
+    "snippet": "The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso",
+    "published": "2026-11-09T11:30:04+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Adobe embeds CX Enterprise Coworker across major AI platforms",
+   "post": "Adobe announced its CX Enterprise Coworker AI agent will be embedded directly into ChatGPT, Claude, Databricks Genie, Gemini for business, and Microsoft platforms.",
+   "editor_note": "Verify rollout timeline and whether embedding is available immediately to enterprise customers.",
+   "published_at": "2026-11-09T11:30:04+00:00",
+   "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
+   "expires_at": "2026-11-10T23:30:04+00:00",
+   "priority": 5.996634,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "9b03876ef79bfc02",
+   "item": {
+    "id": "9b03876ef79bfc02",
+    "title": "Q2 FY27: Jubilant FoodWorks uses machine learning to calibrate Domino’s price hikes",
+    "url": "https://www.medianama.com/2026/11/223-q2fy27-jubilant-foodworks-machine-learning-dominos-price/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "\"We’ve taken about 140 or 150 to 200 basis points of price increases, calibrated through machine learning models, versus taking blunt price increases where we can — day parts, channels\", said Jubilant Foodworks' CEO at Q2 2027 earnings call. The post Q2 FY27: Jubilant FoodWorks uses machine learning to calibrate Domino’s price hikes appeared first on MEDIANAMA .",
+    "published": "2026-11-09T10:52:48+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Jubilant FoodWorks uses machine learning for Dominos price increases",
+   "post": "Jubilant FoodWorks, operator of Domino's Pizza in India, used machine learning models to calibrate price increases of 140 to 200 basis points across channels and day parts, its CEO stated during an earnings call.",
+   "editor_note": "Check earnings transcript for specific machine learning details or performance metrics.",
+   "published_at": "2026-11-09T10:52:48+00:00",
+   "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
+   "expires_at": "2026-11-10T22:52:48+00:00",
+   "priority": 5.979381,
+   "selection_reason": "Editorial importance"
+  },
+  {
    "id": "df3675d7a4445269",
    "item": {
     "id": "df3675d7a4445269",
@@ -1652,8 +1713,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.040749,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.058098,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1679,8 +1740,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.9922,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.009548,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -1705,7 +1766,7 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 4.984903,
+   "priority": 5.002252,
    "selection_reason": "Editorial importance"
   },
   {
@@ -1733,8 +1794,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 4.946578,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 4.972601,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1760,8 +1821,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.772241,
-   "selection_reason": "Editorial importance"
+   "priority": 4.789589,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ]
 }
