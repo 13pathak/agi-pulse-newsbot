@@ -372,7 +372,16 @@
   "df727c0c0e294fcd": "2026-11-09T09:37:21.248928+00:00",
   "a2ab80b7f0f9ff58": "2026-11-09T09:37:21.248928+00:00",
   "4f17d89f17ebea2a": "2026-11-09T09:37:21.248928+00:00",
-  "2dbd656285163f7f": "2026-11-09T09:37:21.248928+00:00"
+  "2dbd656285163f7f": "2026-11-09T09:37:21.248928+00:00",
+  "eedbfe330faf2d5f": "2026-11-09T10:07:25.046413+00:00",
+  "670b5ec2df169e42": "2026-11-09T10:07:25.046413+00:00",
+  "71e03061c787772f": "2026-11-09T10:07:25.046413+00:00",
+  "ed83e268f6e81952": "2026-11-09T10:07:25.046413+00:00",
+  "ac9f41a464606f1d": "2026-11-09T10:07:25.046413+00:00",
+  "0a735ce471d43f47": "2026-11-09T10:07:25.046413+00:00",
+  "d604e0657ae5ba17": "2026-11-09T10:07:25.046413+00:00",
+  "e4bf0b075b34b5d4": "2026-11-09T10:07:25.046413+00:00",
+  "3db453c4e147dc0d": "2026-11-09T10:07:25.046413+00:00"
  },
  "covered": [
   {
@@ -522,11 +531,15 @@
   {
    "headline": "Tencent rolls out WeCom AI assistant powered by Hunyuan Hy4",
    "ts": "2026-11-09T09:37:21.248928+00:00"
+  },
+  {
+   "headline": "PhysicsWallah cites AI efficiency gains for workforce reductions",
+   "ts": "2026-11-09T10:07:25.046413+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1566,9 +1579,68 @@
    "desc": "高通在第九届进博会展出端侧MoE智能体",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508706.html": {
+   "title": "“AI毁了我的计算机学位”",
+   "desc": "教授也用Claude糊弄…",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "88cdd5de26da7f1c",
+   "item": {
+    "id": "88cdd5de26da7f1c",
+    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+    "url": "https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服务个人走向服务团队和组织。目前，所有功能已在千问办公客户端全量上线。 千问办公在同日发布的官方博客《千问办公2.0：主动与协同，迈向Team Agent时代》中指出，主流办公Agent的产品形态仍以服务个人为主，团队的协作方式并未发生变化，下一代Agent需要进入团队协作的现场。 千问办公推出的“协作”功能率先把Agent带进工作群，用户可以组建一个团队和数字员工共同工作的协作空间。真实的工作通常发生在办公软件的群里，一个复杂项目的信息可能会分散在多个群聊和会议纪要中，成员只能手动搬运、汇总信息。现在，数字员工在协作空间内能实时关联多个钉钉群聊、文档、AI表格和AI听记等信息源，支持多个会话并行，以及任务管理与指派。成员在协作空间内指派任务，数字员工就能结合空间的上下文，梳理进展、总结共识、创建并跟进待办。 据介绍，银泰百货卡券运营团队基于该功能大幅提升了团队工作效率。过去，该团队5名运营人员要在60多个门店群里逐一收集卡券提报信息，核对后再回填到表格。现在，团队把这些门店群和一张AI表格关联到同一个协作空间，原有的沟通方式不变，Agent可跨群汇总信息并自动更新表格，显著减少了运营团队的工作量。 千问办公上线的 “自动任务”功能，首次让Agent从被动响应，升级为主动帮用户干活。千问办公官方博客指出，下一代企业级Agent需要具备感知业务、主动推进的能力，而…",
+    "published": "2026-11-09T07:46:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba releases Qwen Office 2.0 with Team Agent collaboration",
+   "post": "Alibaba released Qwen Office 2.0, adding Team Agent capabilities that integrate into DingTalk group chats to aggregate documents, tables, and notes across multi-user workflows.",
+   "editor_note": "Confirm whether Qwen Office 2.0 is available outside the mainland China DingTalk app.",
+   "published_at": "2026-11-09T07:46:00+00:00",
+   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
+   "expires_at": "2026-11-10T19:46:00+00:00",
+   "priority": 7.434529,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "e0b84dac00138015",
+   "item": {
+    "id": "e0b84dac00138015",
+    "title": "NSE Launches Stock Discovery Platform, Adds AI Features",
+    "url": "https://analyticsindiamag.com/ai-news/nse-launches-stock-discovery-platform-adds-ai-features",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1793273909828-8lzmo.webp",
+    "snippet": "The National Stock Exchange of India (NSE) has introduced new digital features across its website and mobile applications, including a beta version of NSE Market Lens , a stock discovery and screening platform designed to make market information more accessible to investors and trading members. “Technology has a vital role in simplifying India's capital markets and making them more accessible, inc…",
+    "published": "2026-11-09T09:59:20+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "National Stock Exchange of India adds AI tools to Market Lens platform",
+   "post": "The National Stock Exchange of India launched a beta version of its NSE Market Lens platform, adding artificial intelligence features for stock discovery and screening across web and mobile apps.",
+   "editor_note": "Check specific AI feature implementations listed in the NSE Market Lens release notes.",
+   "published_at": "2026-11-09T09:59:20+00:00",
+   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
+   "expires_at": "2026-11-10T21:59:20+00:00",
+   "priority": 5.996257,
+   "selection_reason": "Editorial importance"
+  },
   {
    "id": "df3675d7a4445269",
    "item": {
@@ -1592,8 +1664,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 4.988663,
-   "selection_reason": "Editorial importance"
+   "priority": 5.006061,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1619,7 +1691,35 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.940114,
+   "priority": 4.957512,
+   "selection_reason": "Editorial importance; waiting 0.5h"
+  },
+  {
+   "id": "c3f818092f308b52",
+   "item": {
+    "id": "c3f818092f308b52",
+    "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+    "url": "https://arxiv.org/abs/2611.03953",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: StepFun. Upvotes: 24. Abstract: Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single differentiable model and propose P^2-MOPD, which jointly optimizes the mixing coefficients and the student weights under the same on-policy distillation objective. Unlike task arithmetic, which stays within the span of the frozen student and expert parameters for any choice of merging coefficients, P^2-MOPD keeps the student trainable, so the experts act as parameter priors without confining it to this span. Across four domains at 1.7B and 4B scales, P^2-MOPD achieves faster and more balanced recovery than MOPD from the same initialization, surpassing its final average recovery in half the training steps. At the end of training, our 1.7B model reaches 94.7% average recovery, versus 80.9% for MOPD.",
+    "published": "2026-11-09T00:00:00+00:00",
+    "upvotes": 24,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.03953.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "StepFun researchers introduce P^2-MOPD for faster model distillation",
+   "post": "Researchers at StepFun introduced P^2-MOPD, a multi-teacher on-policy distillation method that optimizes mixing coefficients alongside student weights, reaching 94.7% average recovery in half the training steps of MOPD.",
+   "editor_note": "Note that recovery results are based on 1.7B and 4B scale models across four domains.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
+   "expires_at": "2026-11-13T00:00:00+00:00",
+   "priority": 4.894546,
    "selection_reason": "Editorial importance"
   }
  ]
