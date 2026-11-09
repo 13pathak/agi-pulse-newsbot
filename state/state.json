@@ -437,13 +437,16 @@
   "6b5db68561fec746": "2026-11-09T13:37:21.585544+00:00",
   "42e7d6fc3426371c": "2026-11-09T13:37:21.585544+00:00",
   "a73ef60477b0abc9": "2026-11-09T13:37:21.585544+00:00",
-  "fed57ee9ef7aa7c4": "2026-11-09T13:37:21.585544+00:00"
+  "fed57ee9ef7aa7c4": "2026-11-09T13:37:21.585544+00:00",
+  "2302147a6d2f3749": "2026-11-09T14:07:23.032705+00:00",
+  "2b34e593454073e9": "2026-11-09T14:07:23.032705+00:00",
+  "ee912a9c8369f438": "2026-11-09T14:07:23.032705+00:00",
+  "258a7ce2f3d95137": "2026-11-09T14:07:23.032705+00:00",
+  "aae48f59771c3847": "2026-11-09T14:07:23.032705+00:00",
+  "f1d34edf42f32adc": "2026-11-09T14:07:23.032705+00:00",
+  "5fcd7a76450667ba": "2026-11-09T14:07:23.032705+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI releases BioBasicsBench benchmark for science agents",
-   "ts": "2026-11-07T14:07:20.405511+00:00"
-  },
   {
    "headline": "Nvidia researchers introduce VFlash for faster visual planning",
    "ts": "2026-11-07T14:37:22.848984+00:00"
@@ -591,11 +594,15 @@
   {
    "headline": "Envision delivers first 120MW of Galaxy AI data center",
    "ts": "2026-11-09T13:37:21.585544+00:00"
+  },
+  {
+   "headline": "Coforge partners with SpaceX to build enterprise Grok AI tools",
+   "ts": "2026-11-09T14:07:23.032705+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1652,32 +1659,6 @@
  },
  "pending": [
   {
-   "id": "5fcd7a76450667ba",
-   "item": {
-    "id": "5fcd7a76450667ba",
-    "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
-    "url": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
-    "source": "Analytics India Magazine",
-    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769242911182-72c743ba-89b8-4427-973d-f7ce6ca58105-g0wd64.webp",
-    "snippet": "Indian IT services firm Coforge has joined SpaceX’s Super Intelligence Partner Network to develop enterprise applications using the Grok artificial intelligence portfolio. Coforge will participate as a Transformation Partner, developing industry-specific solutions and integrating them into clients’ existing systems and workflows. The company did not disclose the financial details of the partnershi…",
-    "published": "2026-11-09T11:16:54+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Coforge partners with SpaceX to build enterprise Grok AI tools",
-   "post": "Indian IT services firm Coforge has joined SpaceX's Super Intelligence Partner Network to develop enterprise applications using the Grok AI portfolio for clients' existing workflows.",
-   "editor_note": "Confirm if specific industry solutions or client deployment dates were disclosed.",
-   "published_at": "2026-11-09T11:16:54+00:00",
-   "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
-   "expires_at": "2026-11-10T23:16:54+00:00",
-   "priority": 7.028703,
-   "selection_reason": "Editorial importance; waiting 1.5h"
-  },
-  {
    "id": "02544590f0015416",
    "item": {
     "id": "02544590f0015416",
@@ -1700,8 +1681,8 @@
    "published_at": "2026-11-09T13:00:01+00:00",
    "first_seen_at": "2026-11-09T13:07:21.640338+00:00",
    "expires_at": "2026-11-11T01:00:01+00:00",
-   "priority": 7.013961,
-   "selection_reason": "Editorial importance"
+   "priority": 7.031336,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "310163d711d98a5f",
@@ -1727,8 +1708,8 @@
    "published_at": "2026-11-09T09:41:00+00:00",
    "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
    "expires_at": "2026-11-10T21:41:00+00:00",
-   "priority": 6.984305,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.00168,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "9d8e98a0c0ce0555",
@@ -1753,8 +1734,8 @@
    "published_at": "2026-11-09T11:30:04+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T23:30:04+00:00",
-   "priority": 6.066092,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.083467,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "9b03876ef79bfc02",
@@ -1779,8 +1760,60 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 6.048839,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.066214,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 5.996921,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 5.996666,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "df3675d7a4445269",
@@ -1819,35 +1852,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.127555,
-   "selection_reason": "Editorial importance; waiting 4.0h"
-  },
-  {
-   "id": "288844aa1b89ae14",
-   "item": {
-    "id": "288844aa1b89ae14",
-    "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
-    "url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。 根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。 此次合作体现了双方在探索具有挑战性、且长期以来被认为难以成药的靶点领域的共同意愿。这一领域不仅存在巨大的未满足医疗需求，也蕴含着创新药物研发的重要机遇。 对皮尔法伯集团而言，与晶泰科技的这份协议是其研发路线图的一次战略性补充，将进一步增强其药物发现能力；对晶泰科技而言，则意味着其 “AI+机器人”技术在药物从头设计上又向前推进了一步。双方携手，旨在加快高质量临床候选药物的发现，加速包括肿瘤及其他潜在治疗领域的多个研发项目。 晶泰科技小分子药物发现事业部负责人Raymond Zheng表示：“我们很荣幸能与国际知名制药企业皮尔法伯集团开展此次合作。此次合作将充分结合晶泰科技“AI+机器人”的药物发现能力，以及皮尔法伯集团在相关治疗领域积累的深厚研发经验，共同推进有潜力的临床前候选药物研发，惠及存在未被满足医疗需求的患者。” 皮尔法伯集团制药研发负责人 Francesco Hofmann表示：“与晶泰科技开展合作对我们而言是一个重要里程碑。借助晶泰科技在AI领域的专业能力，加快推进针对多个靶点高质量临床候选药物的交付，是对我们研发数据与AI路线图及药物…",
-    "published": "2026-11-09T07:28:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Pierre Fabre and XtalPi partner on AI oncology drug discovery",
-   "post": "Pierre Fabre Group and XtalPi announced an AI drug discovery partnership focused on oncology. XtalPi will use its AI and robotics platform to design small molecule therapeutics, while Pierre Fabre will conduct clinical development.",
-   "editor_note": "Check if financial terms or specific target counts were disclosed in the announcement.",
-   "published_at": "2026-11-09T07:28:00+00:00",
-   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
-   "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.079006,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 5.14493,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1874,8 +1880,35 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.076787,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 5.10285,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "288844aa1b89ae14",
+   "item": {
+    "id": "288844aa1b89ae14",
+    "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
+    "url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。 根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。 此次合作体现了双方在探索具有挑战性、且长期以来被认为难以成药的靶点领域的共同意愿。这一领域不仅存在巨大的未满足医疗需求，也蕴含着创新药物研发的重要机遇。 对皮尔法伯集团而言，与晶泰科技的这份协议是其研发路线图的一次战略性补充，将进一步增强其药物发现能力；对晶泰科技而言，则意味着其 “AI+机器人”技术在药物从头设计上又向前推进了一步。双方携手，旨在加快高质量临床候选药物的发现，加速包括肿瘤及其他潜在治疗领域的多个研发项目。 晶泰科技小分子药物发现事业部负责人Raymond Zheng表示：“我们很荣幸能与国际知名制药企业皮尔法伯集团开展此次合作。此次合作将充分结合晶泰科技“AI+机器人”的药物发现能力，以及皮尔法伯集团在相关治疗领域积累的深厚研发经验，共同推进有潜力的临床前候选药物研发，惠及存在未被满足医疗需求的患者。” 皮尔法伯集团制药研发负责人 Francesco Hofmann表示：“与晶泰科技开展合作对我们而言是一个重要里程碑。借助晶泰科技在AI领域的专业能力，加快推进针对多个靶点高质量临床候选药物的交付，是对我们研发数据与AI路线图及药物…",
+    "published": "2026-11-09T07:28:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Pierre Fabre and XtalPi partner on AI oncology drug discovery",
+   "post": "Pierre Fabre Group and XtalPi announced an AI drug discovery partnership focused on oncology. XtalPi will use its AI and robotics platform to design small molecule therapeutics, while Pierre Fabre will conduct clinical development.",
+   "editor_note": "Check if financial terms or specific target counts were disclosed in the announcement.",
+   "published_at": "2026-11-09T07:28:00+00:00",
+   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
+   "expires_at": "2026-11-10T19:28:00+00:00",
+   "priority": 5.096381,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -1900,8 +1933,34 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.07171,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 5.089085,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "bd74b7cf0c1bc812",
+   "item": {
+    "id": "bd74b7cf0c1bc812",
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "published": "2026-11-09T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
+   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
+   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
+   "published_at": "2026-11-09T14:00:00+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:00+00:00",
+   "priority": 4.996582,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1927,8 +1986,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.859047,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 4.876422,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ]
 }
