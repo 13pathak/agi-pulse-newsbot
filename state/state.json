@@ -431,13 +431,15 @@
   "c1d81afd4aae2d50": "2026-11-09T13:07:21.640338+00:00",
   "ff55535ca88b9a53": "2026-11-09T13:07:21.640338+00:00",
   "1363cdb142dc5b30": "2026-11-09T13:07:21.640338+00:00",
-  "242f10dd4415f489": "2026-11-09T13:07:21.640338+00:00"
+  "242f10dd4415f489": "2026-11-09T13:07:21.640338+00:00",
+  "d7a71bb4508c49d1": "2026-11-09T13:37:21.585544+00:00",
+  "7c063d58ffbe74ea": "2026-11-09T13:37:21.585544+00:00",
+  "6b5db68561fec746": "2026-11-09T13:37:21.585544+00:00",
+  "42e7d6fc3426371c": "2026-11-09T13:37:21.585544+00:00",
+  "a73ef60477b0abc9": "2026-11-09T13:37:21.585544+00:00",
+  "fed57ee9ef7aa7c4": "2026-11-09T13:37:21.585544+00:00"
  },
  "covered": [
-  {
-   "headline": "Nous Research strips bias from Alibaba AI model",
-   "ts": "2026-11-07T13:37:20.724106+00:00"
-  },
   {
    "headline": "OpenAI releases BioBasicsBench benchmark for science agents",
    "ts": "2026-11-07T14:07:20.405511+00:00"
@@ -585,11 +587,15 @@
   {
    "headline": "Google expands TPU lineup with TPU 8tx and 8i Max",
    "ts": "2026-11-09T13:07:21.640338+00:00"
+  },
+  {
+   "headline": "Envision delivers first 120MW of Galaxy AI data center",
+   "ts": "2026-11-09T13:37:21.585544+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1646,32 +1652,6 @@
  },
  "pending": [
   {
-   "id": "fed57ee9ef7aa7c4",
-   "item": {
-    "id": "fed57ee9ef7aa7c4",
-    "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/rqn39aj9hMqYUZdPPwgxYd-1920-80.jpg",
-    "snippet": "Envision has delivered the first 120MW of its Galaxy AI datacenter in less than a year, combining wind farms, battery storage and an unconventional cooling system to cut costs and keep power-hungry servers running",
-    "published": "2026-11-09T13:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Envision delivers first 120MW of Galaxy AI data center",
-   "post": "Envision delivered the initial 120 megawatts of its 800-megawatt Galaxy AI data center campus, combining wind power and storage to supply server energy.",
-   "editor_note": "Check if the 800-megawatt total capacity timeline was specified beyond the initial 120MW delivery.",
-   "published_at": "2026-11-09T13:00:00+00:00",
-   "first_seen_at": "2026-11-09T13:07:21.640338+00:00",
-   "expires_at": "2026-11-11T01:00:00+00:00",
-   "priority": 8.496592,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "5fcd7a76450667ba",
    "item": {
     "id": "5fcd7a76450667ba",
@@ -1694,8 +1674,8 @@
    "published_at": "2026-11-09T11:16:54+00:00",
    "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
    "expires_at": "2026-11-10T23:16:54+00:00",
-   "priority": 7.011342,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.028703,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "02544590f0015416",
@@ -1720,7 +1700,7 @@
    "published_at": "2026-11-09T13:00:01+00:00",
    "first_seen_at": "2026-11-09T13:07:21.640338+00:00",
    "expires_at": "2026-11-11T01:00:01+00:00",
-   "priority": 6.9966,
+   "priority": 7.013961,
    "selection_reason": "Editorial importance"
   },
   {
@@ -1747,8 +1727,8 @@
    "published_at": "2026-11-09T09:41:00+00:00",
    "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
    "expires_at": "2026-11-10T21:41:00+00:00",
-   "priority": 6.966944,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.984305,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "9d8e98a0c0ce0555",
@@ -1773,8 +1753,8 @@
    "published_at": "2026-11-09T11:30:04+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T23:30:04+00:00",
-   "priority": 6.048731,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.066092,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "9b03876ef79bfc02",
@@ -1799,8 +1779,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 6.031478,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.048839,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -1839,8 +1819,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.110195,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 5.127555,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1866,34 +1846,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.061645,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
-  {
-   "id": "16147b47fe778181",
-   "item": {
-    "id": "16147b47fe778181",
-    "title": "Meta launches tool on Muse to create custom interactive experiences",
-    "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Meta has introduced Spaces in its Muse app, allowing users to create customised AI tools and dashboards using prompts. Plans to enable sharing raise questions about privacy and access to personal data. The post Meta launches tool on Muse to create custom interactive experiences appeared first on MEDIANAMA .",
-    "published": "2026-11-09T10:34:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Meta adds Spaces tool to Muse app for custom AI dashboards",
-   "post": "Meta introduced a feature called Spaces in its Muse application, allowing users to generate customized AI tools and dashboards using prompts. Meta plans to add sharing capabilities for user-created tools.",
-   "editor_note": "Verify availability timeline and platform support for the Spaces feature in Meta Muse.",
-   "published_at": "2026-11-09T10:34:45+00:00",
-   "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
-   "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.054349,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.079006,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1920,8 +1874,34 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.050746,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 5.076787,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "16147b47fe778181",
+   "item": {
+    "id": "16147b47fe778181",
+    "title": "Meta launches tool on Muse to create custom interactive experiences",
+    "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "Meta has introduced Spaces in its Muse app, allowing users to create customised AI tools and dashboards using prompts. Plans to enable sharing raise questions about privacy and access to personal data. The post Meta launches tool on Muse to create custom interactive experiences appeared first on MEDIANAMA .",
+    "published": "2026-11-09T10:34:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Meta adds Spaces tool to Muse app for custom AI dashboards",
+   "post": "Meta introduced a feature called Spaces in its Muse application, allowing users to generate customized AI tools and dashboards using prompts. Meta plans to add sharing capabilities for user-created tools.",
+   "editor_note": "Verify availability timeline and platform support for the Spaces feature in Meta Muse.",
+   "published_at": "2026-11-09T10:34:45+00:00",
+   "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
+   "expires_at": "2026-11-10T22:34:45+00:00",
+   "priority": 5.07171,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1947,8 +1927,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.841686,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 4.859047,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ]
 }
