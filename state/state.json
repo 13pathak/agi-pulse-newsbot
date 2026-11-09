@@ -419,21 +419,21 @@
   "0daaf3c22966ba21": "2026-11-09T12:07:22.714827+00:00",
   "360ae8900798b930": "2026-11-09T12:07:22.714827+00:00",
   "20a8545aaf6249cc": "2026-11-09T12:07:22.714827+00:00",
-  "f48aeb69ae59bf66": "2026-11-09T12:07:22.714827+00:00"
+  "f48aeb69ae59bf66": "2026-11-09T12:07:22.714827+00:00",
+  "7b1451fc786c34f9": "2026-11-09T13:07:21.640338+00:00",
+  "9808e68de2626401": "2026-11-09T13:07:21.640338+00:00",
+  "6f778c8690b8d84c": "2026-11-09T13:07:21.640338+00:00",
+  "e9d724db375806b6": "2026-11-09T13:07:21.640338+00:00",
+  "dddc94b1b5db8100": "2026-11-09T13:07:21.640338+00:00",
+  "5956c5aef77ca565": "2026-11-09T13:07:21.640338+00:00",
+  "40e39b69361b711c": "2026-11-09T13:07:21.640338+00:00",
+  "e3299526e41a71f1": "2026-11-09T13:07:21.640338+00:00",
+  "c1d81afd4aae2d50": "2026-11-09T13:07:21.640338+00:00",
+  "ff55535ca88b9a53": "2026-11-09T13:07:21.640338+00:00",
+  "1363cdb142dc5b30": "2026-11-09T13:07:21.640338+00:00",
+  "242f10dd4415f489": "2026-11-09T13:07:21.640338+00:00"
  },
  "covered": [
-  {
-   "headline": "Google AI detects high blood pressure via smartwatches",
-   "ts": "2026-11-07T12:07:23.193307+00:00"
-  },
-  {
-   "headline": "Anthropic AI development pace doubles using AI systems",
-   "ts": "2026-11-07T12:37:25.438106+00:00"
-  },
-  {
-   "headline": "Nothing to launch screen-free AI hardware next month",
-   "ts": "2026-11-07T13:07:19.812716+00:00"
-  },
   {
    "headline": "Nous Research strips bias from Alibaba AI model",
    "ts": "2026-11-07T13:37:20.724106+00:00"
@@ -581,11 +581,15 @@
   {
    "headline": "Apple Intelligence completes Chinese regulatory filing for iPad and Mac",
    "ts": "2026-11-09T12:07:22.714827+00:00"
+  },
+  {
+   "headline": "Google expands TPU lineup with TPU 8tx and 8i Max",
+   "ts": "2026-11-09T13:07:21.640338+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1631,9 +1635,42 @@
    "desc": "教授也用Claude糊弄…",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "desc": "A Blog post by Amazon on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
+   "published": "2026-11-09T12:34:29.545000+00:00",
+   "excerpt": "Mixture-of-Experts (MoE) models have enabled state-of-the-art LLMs to be scaled to hundreds of billions of parameters, but they come with a fundamental and costly caveat: every expert MLP must occupy memory at inference time, even though the vast majority are idle for any given token. For example, Qwen3.5-122B has 256 experts in each of its 48 MoE layers, and 95% of its ~250 GB parameter memory footprint is taken up entirely by these expert MLPs alone. However, for any given token, only 8 experts in each layer are actually used. Expert pruning is one of the most direct fixes to this memory bottleneck. That is, permanently delete the least useful experts. Pruning avoids the latency issues which make dynamic loading/off-loading of experts impractical; it does not require any training; and it…"
   }
  },
  "pending": [
+  {
+   "id": "fed57ee9ef7aa7c4",
+   "item": {
+    "id": "fed57ee9ef7aa7c4",
+    "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/rqn39aj9hMqYUZdPPwgxYd-1920-80.jpg",
+    "snippet": "Envision has delivered the first 120MW of its Galaxy AI datacenter in less than a year, combining wind farms, battery storage and an unconventional cooling system to cut costs and keep power-hungry servers running",
+    "published": "2026-11-09T13:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Envision delivers first 120MW of Galaxy AI data center",
+   "post": "Envision delivered the initial 120 megawatts of its 800-megawatt Galaxy AI data center campus, combining wind power and storage to supply server energy.",
+   "editor_note": "Check if the 800-megawatt total capacity timeline was specified beyond the initial 120MW delivery.",
+   "published_at": "2026-11-09T13:00:00+00:00",
+   "first_seen_at": "2026-11-09T13:07:21.640338+00:00",
+   "expires_at": "2026-11-11T01:00:00+00:00",
+   "priority": 8.496592,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "5fcd7a76450667ba",
    "item": {
@@ -1657,7 +1694,33 @@
    "published_at": "2026-11-09T11:16:54+00:00",
    "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
    "expires_at": "2026-11-10T23:16:54+00:00",
-   "priority": 6.97663,
+   "priority": 7.011342,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "02544590f0015416",
+   "item": {
+    "id": "02544590f0015416",
+    "title": "ChatGPT's growth is bouncing back as rivals struggle to close the gap",
+    "url": "https://www.businessinsider.com/chatgpt-growth-rebounds-openai-rivals-ai-market-share-2026-11",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6aed20b89270da3cc6668ae1?format=jpeg",
+    "snippet": "ChatGPT accounts for more than 81% of traffic to six major AI chatbots, Graphite found. Its growth has resumed after a plateau, while Claude and Gemini remain far behind. The research analyzed worldwide web and mobile-app traffic using Similarweb data. Earlier this year, ChatGPT 's dominance of the AI market appeared to be slipping as rivals from Google and Anthropic gained momentum. But new resea…",
+    "published": "2026-11-09T13:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ChatGPT traffic share exceeds 81 percent among chatbots",
+   "post": "ChatGPT accounts for over 81 percent of traffic across six major AI chatbots, according to Graphite data analyzing global web and mobile usage.",
+   "editor_note": "Confirm the specific six chatbots included in Graphite's traffic analysis comparison.",
+   "published_at": "2026-11-09T13:00:01+00:00",
+   "first_seen_at": "2026-11-09T13:07:21.640338+00:00",
+   "expires_at": "2026-11-11T01:00:01+00:00",
+   "priority": 6.9966,
    "selection_reason": "Editorial importance"
   },
   {
@@ -1684,8 +1747,8 @@
    "published_at": "2026-11-09T09:41:00+00:00",
    "first_seen_at": "2026-11-09T12:07:22.714827+00:00",
    "expires_at": "2026-11-10T21:41:00+00:00",
-   "priority": 6.932232,
-   "selection_reason": "Editorial importance"
+   "priority": 6.966944,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "9d8e98a0c0ce0555",
@@ -1710,8 +1773,8 @@
    "published_at": "2026-11-09T11:30:04+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T23:30:04+00:00",
-   "priority": 6.014019,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.048731,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "9b03876ef79bfc02",
@@ -1736,8 +1799,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 5.996766,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.031478,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -1776,8 +1839,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.075483,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 5.110195,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1803,8 +1866,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.026934,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 5.061645,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -1829,8 +1892,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.019637,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 5.054349,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1857,8 +1920,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 4.998679,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.050746,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1884,8 +1947,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.806975,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 4.841686,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ]
 }
