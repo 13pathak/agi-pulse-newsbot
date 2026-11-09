@@ -28,13 +28,15 @@ button acknowledgement may time out before the saved vote is processed.
    has YouTube enabled and the key's API restrictions permit YouTube access.
 2. Existing `GEMINI_API_KEY`, `TELEGRAM_BOT_TOKEN`, and `TELEGRAM_CHAT_ID` are reused.
    Optionally set repository variable `VIDEO_GEMINI_MODEL` to a model supporting
-   public YouTube video input. The video model setting is independent of the news bot.
+   public YouTube video input. The default is `gemini-3.5-flash-lite`, which passed
+   the initial live video preview. The video model setting is independent of the news bot.
 3. Run **Practical AI Videos → check-config** in Actions. It checks a public YouTube
    search and a small Gemini text request; it does not send Telegram messages.
 4. Run **inspect**, then **dry-run**. Download the `video-review` artifact to inspect
    candidates, evidence, scores and selected IDs. Preview runs neither consume
    Telegram feedback nor save the persistent queue. A successful workflow can have
    zero qualified recommendations; check the report, not just the green status.
+   Partial discovery/review reports are also retained when an API request fails.
 5. After inspecting actual recommendations, set repository variable
    `YOUTUBE_RECOMMENDATIONS_ENABLED` to `true` to enable automatic runs. It defaults
    to disabled. An explicit manual **normal** run sends immediately if the time and

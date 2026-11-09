@@ -17,7 +17,7 @@ settings:
   min_score: 65
   min_evidence_score: 6
   retention_days: 30
-  gemini_model: "gemini-flash-latest"
+  gemini_model: "gemini-3.5-flash-lite"
 
 categories:
   creative:
