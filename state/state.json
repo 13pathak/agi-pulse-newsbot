@@ -396,13 +396,17 @@
   "182f5977c0cb717d": "2026-11-09T10:37:24.219759+00:00",
   "6b8109c8f1fe533c": "2026-11-09T10:37:24.219759+00:00",
   "c68c9d57a5f036bf": "2026-11-09T10:37:24.219759+00:00",
-  "88cdd5de26da7f1c": "2026-11-09T10:37:24.219759+00:00"
+  "88cdd5de26da7f1c": "2026-11-09T10:37:24.219759+00:00",
+  "0087f7f25a1705d5": "2026-11-09T11:07:21.517844+00:00",
+  "7267317c0555ceef": "2026-11-09T11:07:21.517844+00:00",
+  "efe30b42490f4920": "2026-11-09T11:07:21.517844+00:00",
+  "acde48b006216590": "2026-11-09T11:07:21.517844+00:00",
+  "85c9beb2ca97b203": "2026-11-09T11:07:21.517844+00:00",
+  "11a2167fe1d6515d": "2026-11-09T11:07:21.517844+00:00",
+  "8a7ed4896028c276": "2026-11-09T11:07:21.517844+00:00",
+  "e0b84dac00138015": "2026-11-09T11:07:21.517844+00:00"
  },
  "covered": [
-  {
-   "headline": "Moonshot AI releases open-weight Kimi-K3.1-Pro model",
-   "ts": "2026-11-07T11:07:20.401640+00:00"
-  },
   {
    "headline": "OpenAI employee pleads not guilty to office bugging",
    "ts": "2026-11-07T11:37:18.945252+00:00"
@@ -554,11 +558,15 @@
   {
    "headline": "Alibaba releases Qwen Office 2.0 with Team Agent collaboration",
    "ts": "2026-11-09T10:37:24.219759+00:00"
+  },
+  {
+   "headline": "National Stock Exchange of India adds AI tools to Market Lens platform",
+   "ts": "2026-11-09T11:07:21.517844+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1608,32 +1616,6 @@
  },
  "pending": [
   {
-   "id": "e0b84dac00138015",
-   "item": {
-    "id": "e0b84dac00138015",
-    "title": "NSE Launches Stock Discovery Platform, Adds AI Features",
-    "url": "https://analyticsindiamag.com/ai-news/nse-launches-stock-discovery-platform-adds-ai-features",
-    "source": "Analytics India Magazine",
-    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1793273909828-8lzmo.webp",
-    "snippet": "The National Stock Exchange of India (NSE) has introduced new digital features across its website and mobile applications, including a beta version of NSE Market Lens , a stock discovery and screening platform designed to make market information more accessible to investors and trading members. “Technology has a vital role in simplifying India's capital markets and making them more accessible, inc…",
-    "published": "2026-11-09T09:59:20+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "National Stock Exchange of India adds AI tools to Market Lens platform",
-   "post": "The National Stock Exchange of India launched a beta version of its NSE Market Lens platform, adding artificial intelligence features for stock discovery and screening across web and mobile apps.",
-   "editor_note": "Check specific AI feature implementations listed in the NSE Market Lens release notes.",
-   "published_at": "2026-11-09T09:59:20+00:00",
-   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
-   "expires_at": "2026-11-10T21:59:20+00:00",
-   "priority": 6.01361,
-   "selection_reason": "Editorial importance"
-  },
-  {
    "id": "df3675d7a4445269",
    "item": {
     "id": "df3675d7a4445269",
@@ -1670,8 +1652,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.023414,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 5.040749,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1697,8 +1679,34 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.974865,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 4.9922,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "16147b47fe778181",
+   "item": {
+    "id": "16147b47fe778181",
+    "title": "Meta launches tool on Muse to create custom interactive experiences",
+    "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "Meta has introduced Spaces in its Muse app, allowing users to create customised AI tools and dashboards using prompts. Plans to enable sharing raise questions about privacy and access to personal data. The post Meta launches tool on Muse to create custom interactive experiences appeared first on MEDIANAMA .",
+    "published": "2026-11-09T10:34:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Meta adds Spaces tool to Muse app for custom AI dashboards",
+   "post": "Meta introduced a feature called Spaces in its Muse application, allowing users to generate customized AI tools and dashboards using prompts. Meta plans to add sharing capabilities for user-created tools.",
+   "editor_note": "Verify availability timeline and platform support for the Spaces feature in Meta Muse.",
+   "published_at": "2026-11-09T10:34:45+00:00",
+   "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
+   "expires_at": "2026-11-10T22:34:45+00:00",
+   "priority": 4.984903,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "c3f818092f308b52",
@@ -1725,8 +1733,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 4.920575,
-   "selection_reason": "Editorial importance"
+   "priority": 4.946578,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1752,7 +1760,7 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.754906,
+   "priority": 4.772241,
    "selection_reason": "Editorial importance"
   }
  ]
