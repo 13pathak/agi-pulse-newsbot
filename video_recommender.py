@@ -261,13 +261,15 @@ Reply with JSON only:
 
 def gemini_json(key, model, prompt, video_id=None):
     parts = ([{"fileData": {"fileUri": youtube_url(video_id)}}] if video_id else []) + [{"text": prompt}]
+    generation = {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 8192}
+    if model.startswith("gemini-3") or model == "gemini-flash-latest":
+        generation["thinkingConfig"] = {"thinkingLevel": "LOW"}
     try:
         response = requests.post(
             f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
             headers={"x-goog-api-key": key}, timeout=(10, 100),
             json={"contents": [{"role": "user", "parts": parts}],
-                  "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json",
-                                       "maxOutputTokens": 4096}})
+                  "generationConfig": generation})
     except requests.RequestException:
         raise ServiceError("Gemini request failed; no video assessment inferred") from None
     if not response.ok:
@@ -275,7 +277,8 @@ def gemini_json(key, model, prompt, video_id=None):
     try:
         candidate = response.json()["candidates"][0]
         if candidate.get("finishReason") not in (None, "STOP"):
-            raise ValueError("Incomplete response")
+            reason = re.sub(r"[^A-Z_]", "", str(candidate.get("finishReason")))[:40]
+            raise ServiceError(f"Gemini assessment incomplete ({reason}); no video assessment inferred")
         text = "".join(p.get("text", "") for p in candidate["content"]["parts"] if not p.get("thought"))
         data = json.loads(re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip()))
         if not isinstance(data, dict):
@@ -574,18 +577,21 @@ def run(mode="dry-run", config_path=CONFIG_PATH, state_path=STATE_PATH, now=None
             persist()
             return 0
     daily = state["daily"]
-    if mode != "normal" or not state.get("next_discovery_at") or utc(state["next_discovery_at"]) <= now:
-        discover(config, state, api, now, persist)
-    if mode != "inspect" and (mode != "normal" or daily["sent"] < settings["max_recommendations_per_day"]):
-        if not gemini_key:
-            raise ServiceError("GEMINI_API_KEY is missing")
-        review_candidates(config, state, now, gemini_key, persist)
-    selected = selected_videos(state, config, now) if mode != "inspect" else []
-    report = {"mode": mode, "candidates": list(state["videos"].values()),
-              "selected_ids": [v["id"] for v in selected], "daily": daily}
-    if report_path:
-        Path(report_path).parent.mkdir(parents=True, exist_ok=True)
-        Path(report_path).write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+    try:
+        if mode != "normal" or not state.get("next_discovery_at") or utc(state["next_discovery_at"]) <= now:
+            discover(config, state, api, now, persist)
+        if mode != "inspect" and (mode != "normal" or daily["sent"] < settings["max_recommendations_per_day"]):
+            if not gemini_key:
+                raise ServiceError("GEMINI_API_KEY is missing")
+            review_candidates(config, state, now, gemini_key, persist)
+    finally:
+        # Preserve useful discovery/partial-review diagnostics during provider outages.
+        selected = selected_videos(state, config, now) if mode != "inspect" else []
+        report = {"mode": mode, "candidates": list(state["videos"].values()),
+                  "selected_ids": [v["id"] for v in selected], "daily": daily}
+        if report_path:
+            Path(report_path).parent.mkdir(parents=True, exist_ok=True)
+            Path(report_path).write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     if mode != "normal":
         for video in selected:
             print(recommendation(video, config)[0])

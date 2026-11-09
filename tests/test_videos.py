@@ -336,6 +336,21 @@ def test_preview_never_sends_consumes_feedback_or_changes_state(runtime, monkeyp
     assert "secret" not in capsys.readouterr().out
 
 
+def test_failed_preview_keeps_partial_report_without_mutating_queue(runtime, monkeypatch, tmp_path):
+    before = runtime.read_bytes()
+    report = tmp_path / "artifacts" / "review.json"
+
+    def fail(*args):
+        raise vr.ServiceError("Gemini HTTP 503")
+
+    monkeypatch.setattr(vr, "review_candidates", fail)
+    monkeypatch.setattr(vr, "send_telegram", lambda *a: pytest.fail("preview sent a message"))
+    with pytest.raises(vr.ServiceError, match="503"):
+        vr.run("dry-run", state_path=runtime, now=NOW, report_path=report)
+    assert len(json.loads(report.read_text())["candidates"]) == 3
+    assert runtime.read_bytes() == before
+
+
 def test_delivery_failure_preserves_queue_and_prior_success(runtime, monkeypatch):
     calls = []
 
@@ -426,3 +441,21 @@ def test_youtube_uses_documented_key_parameter_and_sanitizes_network_errors(monk
     with pytest.raises(vr.ServiceError) as error:
         vr.YouTube("SECRET").get("search", q="test")
     assert "SECRET" not in str(error.value)
+
+
+def test_gemini_keeps_output_room_and_rejects_truncated_assessments(monkeypatch):
+    class Response:
+        ok = True
+
+        def json(self):
+            return {"candidates": [{"finishReason": "MAX_TOKENS", "content": {"parts": [{"text": "partial"}]}}]}
+
+    def post(url, **kwargs):
+        generation = kwargs["json"]["generationConfig"]
+        assert generation["maxOutputTokens"] == 8192
+        assert generation["thinkingConfig"]["thinkingLevel"] == "LOW"
+        return Response()
+
+    monkeypatch.setattr(vr.requests, "post", post)
+    with pytest.raises(vr.ServiceError, match="MAX_TOKENS"):
+        vr.gemini_json("secret", "gemini-3.6-flash", "Review video", video()["id"])
