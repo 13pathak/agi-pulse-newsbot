@@ -457,7 +457,18 @@
   "985b3239bc01c090": "2026-11-09T15:07:23.862819+00:00",
   "c2568f76501c94d6": "2026-11-09T15:07:23.862819+00:00",
   "9360f514ef7a9d6d": "2026-11-09T15:07:23.862819+00:00",
-  "310163d711d98a5f": "2026-11-09T15:07:23.862819+00:00"
+  "310163d711d98a5f": "2026-11-09T15:07:23.862819+00:00",
+  "278448d5d206044c": "2026-11-09T15:37:27.777087+00:00",
+  "e9582a530b678f2c": "2026-11-09T15:37:27.777087+00:00",
+  "bce465cdb584c186": "2026-11-09T15:37:27.777087+00:00",
+  "55280474a321f5a6": "2026-11-09T15:37:27.777087+00:00",
+  "bc54bbcea984f1d1": "2026-11-09T15:37:27.777087+00:00",
+  "aacbe1f6d3d712b0": "2026-11-09T15:37:27.777087+00:00",
+  "dcd55abb2306d80f": "2026-11-09T15:37:27.777087+00:00",
+  "cc49c1ae6860a64f": "2026-11-09T15:37:27.777087+00:00",
+  "ad2042a36e0afe0b": "2026-11-09T15:37:27.777087+00:00",
+  "558e331e52660483": "2026-11-09T15:37:27.777087+00:00",
+  "9d8e98a0c0ce0555": "2026-11-09T15:37:27.777087+00:00"
  },
  "covered": [
   {
@@ -611,11 +622,15 @@
   {
    "headline": "ByteDance releases Seedream 5.5 image model with transparent asset generation",
    "ts": "2026-11-09T15:07:23.862819+00:00"
+  },
+  {
+   "headline": "Adobe embeds CX Enterprise Coworker across major AI platforms",
+   "ts": "2026-11-09T15:37:27.777087+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1675,35 +1690,21 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
    "published": "2026-11-09T15:05:57.247000+00:00",
    "excerpt": "In the financial sector, the utilization of real-world data faces significant constraints due to strict privacy regulations, compliance requirements, and the need for advanced domain expertise. In this context, the development of agentic AI in the financial domain requires synthetic data capable of avoiding the risks of using real data while reflecting demographics, household structures, and asset statuses to reproduce diverse, realistic financial scenarios. To address these challenges, Elith and NVIDIA have released Nemotron-Personas-Finance-Japan, a financial domain extension of the open-source persona dataset \"Nemotron-Personas-Japan.\" To our knowledge, it is the first open persona dataset at million-record scale that pairs Japan’s official statistics with household finance and financia…"
+  },
+  "https://www.qbitai.com/2026/11/508745.html": {
+   "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+   "desc": "量子位在寻找“能干”的答案",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508716.html": {
+   "title": "具身智能出海，物流先行",
+   "desc": "全球练兵、全球交付",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "9d8e98a0c0ce0555",
-   "item": {
-    "id": "9d8e98a0c0ce0555",
-    "title": "Adobe’s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
-    "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
-    "source": "Analytics India Magazine",
-    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1778224078722-o5son5.webp",
-    "snippet": "The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso",
-    "published": "2026-11-09T11:30:04+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Adobe embeds CX Enterprise Coworker across major AI platforms",
-   "post": "Adobe announced its CX Enterprise Coworker AI agent will be embedded directly into ChatGPT, Claude, Databricks Genie, Gemini for business, and Microsoft platforms.",
-   "editor_note": "Verify rollout timeline and whether embedding is available immediately to enterprise customers.",
-   "published_at": "2026-11-09T11:30:04+00:00",
-   "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
-   "expires_at": "2026-11-10T23:30:04+00:00",
-   "priority": 6.118197,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
   {
    "id": "9b03876ef79bfc02",
    "item": {
@@ -1727,8 +1728,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 6.100944,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.118343,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -1753,8 +1754,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.031651,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.04905,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -1779,8 +1780,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.031397,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.048796,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -1819,8 +1820,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.179661,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 5.19706,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1847,8 +1848,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.154945,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.181043,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1874,8 +1875,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.131111,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 5.14851,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -1900,8 +1901,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.123815,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 5.141214,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -1926,8 +1927,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.031312,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 5.048711,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -1952,8 +1953,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.007845,
-   "selection_reason": "Editorial importance"
+   "priority": 5.028724,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1979,8 +1980,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.911152,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 4.928551,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ]
 }
