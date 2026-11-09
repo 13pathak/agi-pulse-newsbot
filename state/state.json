@@ -473,13 +473,14 @@
   "303caac7e48e3324": "2026-11-09T16:07:28.073613+00:00",
   "d2957b855954219d": "2026-11-09T16:07:28.073613+00:00",
   "67d134866a7d1897": "2026-11-09T16:07:28.073613+00:00",
-  "86961a9937fd8746": "2026-11-09T16:07:28.073613+00:00"
+  "86961a9937fd8746": "2026-11-09T16:07:28.073613+00:00",
+  "9ee5537b72fa2513": "2026-11-09T16:37:26.572504+00:00",
+  "273d7db17a985ae6": "2026-11-09T16:37:26.572504+00:00",
+  "35d6a9f9f2192fff": "2026-11-09T16:37:26.572504+00:00",
+  "290cc88465aad0d6": "2026-11-09T16:37:26.572504+00:00",
+  "e424c28f526c23bf": "2026-11-09T16:37:26.572504+00:00"
  },
  "covered": [
-  {
-   "headline": "Vals AI finds profanity in Inkling 2 Small reasoning traces",
-   "ts": "2026-11-07T16:37:22.384460+00:00"
-  },
   {
    "headline": "AI auditors catch agent misbehavior but trigger false alarms",
    "ts": "2026-11-07T17:07:22.056797+00:00"
@@ -631,11 +632,15 @@
   {
    "headline": "Disney and Adobe partner for generative AI production tools",
    "ts": "2026-11-09T16:07:28.073613+00:00"
+  },
+  {
+   "headline": "Northern Trust and Microsoft partner for client onboarding AI",
+   "ts": "2026-11-09T16:37:26.572504+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1711,32 +1716,6 @@
  },
  "pending": [
   {
-   "id": "e424c28f526c23bf",
-   "item": {
-    "id": "e424c28f526c23bf",
-    "title": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
-    "url": "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/",
-    "source": "Microsoft",
-    "image": "",
-    "snippet": "November 9, 2026 Category: Company News Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI New c lient o nboarding a gent, built with Microsoft Frontier Company forward deployed engineer s , reduces onboarding data preparation time by 8 3 % , while enhancing efficiency and maintaining strong privacy, security and governance controls Microsoft Source…",
-    "published": "2026-11-09T15:58:45+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Northern Trust and Microsoft partner for client onboarding AI",
-   "post": "Northern Trust collaborated with Microsoft Frontier Company to build a client onboarding agent that reduces onboarding data preparation time by 83 percent.",
-   "editor_note": "Check whether the 83 percent reduction metric applies across all client tiers or a specific subset of onboarding pipelines.",
-   "published_at": "2026-11-09T15:58:45+00:00",
-   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
-   "expires_at": "2026-11-11T15:58:45+00:00",
-   "priority": 6.996973,
-   "selection_reason": "Editorial importance"
-  },
-  {
    "id": "9b03876ef79bfc02",
    "item": {
     "id": "9b03876ef79bfc02",
@@ -1759,8 +1738,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 6.135707,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.153053,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -1785,8 +1764,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.066414,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.083761,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -1811,8 +1790,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.066159,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.083506,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -1837,8 +1816,36 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 5.989544,
+   "priority": 6.006891,
    "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "c3f818092f308b52",
+   "item": {
+    "id": "c3f818092f308b52",
+    "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+    "url": "https://arxiv.org/abs/2611.03953",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: StepFun. Upvotes: 24. Abstract: Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single differentiable model and propose P^2-MOPD, which jointly optimizes the mixing coefficients and the student weights under the same on-policy distillation objective. Unlike task arithmetic, which stays within the span of the frozen student and expert parameters for any choice of merging coefficients, P^2-MOPD keeps the student trainable, so the experts act as parameter priors without confining it to this span. Across four domains at 1.7B and 4B scales, P^2-MOPD achieves faster and more balanced recovery than MOPD from the same initialization, surpassing its final average recovery in half the training steps. At the end of training, our 1.7B model reaches 94.7% average recovery, versus 80.9% for MOPD.",
+    "published": "2026-11-09T00:00:00+00:00",
+    "upvotes": 24,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.03953.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "StepFun researchers introduce P^2-MOPD for faster model distillation",
+   "post": "Researchers at StepFun introduced P^2-MOPD, a multi-teacher on-policy distillation method that optimizes mixing coefficients alongside student weights, reaching 94.7% average recovery in half the training steps of MOPD.",
+   "editor_note": "Note that recovery results are based on 1.7B and 4B scale models across four domains.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
+   "expires_at": "2026-11-13T00:00:00+00:00",
+   "priority": 5.233109,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -1877,36 +1884,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.214423,
-   "selection_reason": "Editorial importance; waiting 6.5h"
-  },
-  {
-   "id": "c3f818092f308b52",
-   "item": {
-    "id": "c3f818092f308b52",
-    "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
-    "url": "https://arxiv.org/abs/2611.03953",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: StepFun. Upvotes: 24. Abstract: Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single differentiable model and propose P^2-MOPD, which jointly optimizes the mixing coefficients and the student weights under the same on-policy distillation objective. Unlike task arithmetic, which stays within the span of the frozen student and expert parameters for any choice of merging coefficients, P^2-MOPD keeps the student trainable, so the experts act as parameter priors without confining it to this span. Across four domains at 1.7B and 4B scales, P^2-MOPD achieves faster and more balanced recovery than MOPD from the same initialization, surpassing its final average recovery in half the training steps. At the end of training, our 1.7B model reaches 94.7% average recovery, versus 80.9% for MOPD.",
-    "published": "2026-11-09T00:00:00+00:00",
-    "upvotes": 24,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.03953.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "StepFun researchers introduce P^2-MOPD for faster model distillation",
-   "post": "Researchers at StepFun introduced P^2-MOPD, a multi-teacher on-policy distillation method that optimizes mixing coefficients alongside student weights, reaching 94.7% average recovery in half the training steps of MOPD.",
-   "editor_note": "Note that recovery results are based on 1.7B and 4B scale models across four domains.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.207089,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.23177,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1932,8 +1911,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.165874,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 5.183221,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -1958,8 +1937,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.158578,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.175924,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -1984,8 +1963,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.066075,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.083421,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2010,8 +1989,34 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.049561,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.070377,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "dbd9680f73cbc538",
+   "item": {
+    "id": "dbd9680f73cbc538",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "2026-11-09T16:12:28+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Medium launches TK app with built-in AI writing tools",
+   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
+   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
+   "published_at": "2026-11-09T16:12:28+00:00",
+   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
+   "expires_at": "2026-11-11T04:12:28+00:00",
+   "priority": 4.988437,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2037,8 +2042,35 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.945915,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 4.963262,
+   "selection_reason": "Editorial importance; waiting 6.0h"
+  },
+  {
+   "id": "f885ef769180b46f",
+   "item": {
+    "id": "f885ef769180b46f",
+    "title": "百度搭子连中三元：中信建投、国家电投数科、通用数科",
+    "url": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月5日至6日，中信建投证券、国家电投集团数字科技有限公司、通用技术数科公司相继公布成交候选人名单。三个项目分别有5家、4家和3家厂商入围，百度均排名第一。三次竞标的产品都是百度搭子。 百度搭子是百度推出的新一代通用智能体，是Agent时代的统一入口，可调度百度搜索、秒哒、胜算、伐谋等专业能力，自发布以来产品高速迭代，助力提升个人办公效率与组织生产力。QuestMobile发布的2026年9月典型办公类Agent数据显示，百度搭子多端月活用户规模季度环比增长1567.5%，位居榜单增速第一。",
+    "published": "2026-11-09T14:16:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Baidu AI agent platform wins enterprise bids across three Chinese firms",
+   "post": "Baidu's agent platform Baidu Dazi ranked first in vendor bidding for AI agent deployments at CSC Financial Securities, SPIC Digital Technology, and General Technology Digital Tech.",
+   "editor_note": "Confirm candidate selection status vs final contract signing in Chinese public procurement listings.",
+   "published_at": "2026-11-09T14:16:00+00:00",
+   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
+   "expires_at": "2026-11-11T02:16:00+00:00",
+   "priority": 4.934517,
+   "selection_reason": "Editorial importance"
   }
  ]
 }
