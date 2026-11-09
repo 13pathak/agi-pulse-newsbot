@@ -339,17 +339,13 @@
   "2a7ec4bca8323b51": "2026-11-09T07:07:21.635948+00:00",
   "68d42c73ad8daf28": "2026-11-09T07:07:21.635948+00:00",
   "fc5b5b681786c0ea": "2026-11-09T07:37:20.931420+00:00",
-  "79ca78d6054c51a7": "2026-11-09T07:37:20.931420+00:00"
+  "79ca78d6054c51a7": "2026-11-09T07:37:20.931420+00:00",
+  "0a1bc44ff9c4ead8": "2026-11-09T08:07:23.267649+00:00",
+  "43411ee6af9d2736": "2026-11-09T08:07:23.267649+00:00",
+  "d98b73d32428006e": "2026-11-09T08:07:23.267649+00:00",
+  "75d2c9e1a2cd87e3": "2026-11-09T08:07:23.267649+00:00"
  },
  "covered": [
-  {
-   "headline": "Google acquires Crusoe data center site in Wyoming",
-   "ts": "2026-11-07T07:37:21.663898+00:00"
-  },
-  {
-   "headline": "Three men charged over $100m AI voice fraud",
-   "ts": "2026-11-07T08:07:23.026316+00:00"
-  },
   {
    "headline": "Microsoft winds down Oracle deal to rent AI cloud capacity",
    "ts": "2026-11-07T08:37:20.697583+00:00"
@@ -485,11 +481,15 @@
   {
    "headline": "Ardian raises 1 billion euro semiconductor fund for AI demand",
    "ts": "2026-11-09T07:07:21.635948+00:00"
+  },
+  {
+   "headline": "Sarvam hires former Google Cloud India MD Sashikumar Sreedharan",
+   "ts": "2026-11-09T08:07:23.267649+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1493,6 +1493,12 @@
    "desc": "Introducing the Artificial Analysis Decision Index v2: a new proprietary evaluation, updated benchmarks, and a headline metric that rewards model calibration",
    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/00f2d39e63f8f23078030b7c8faf566f995067b0-1200x1200.jpg?w=1200&auto=format",
    "published": "2026-11-08T00:00:00+00:00"
+  },
+  "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam": {
+   "title": "Sashikumar Sreedharan joins Sarvam as President and CBO | Sarvam AI",
+   "desc": "Sashikumar Sreedharan, former Managing Director of Google Cloud India, joins Sarvam as President, Chief Business Officer and board member.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/21195d397de12fd97dda6ccc327288ddcc12c534-3000x1590.jpg?rect=100,150,1540,1160",
+   "published": "2026-11-09T00:00:00+00:00"
   }
  },
  "pending": []
