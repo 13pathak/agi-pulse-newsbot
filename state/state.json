@@ -289,13 +289,10 @@
   "53044e44b3aab431": "2026-11-09T01:07:26.217560+00:00",
   "0d90061414db883b": "2026-11-09T01:07:26.217560+00:00",
   "c5e0a4cad3da1aa4": "2026-11-09T01:37:20.079145+00:00",
-  "934985cf01b72207": "2026-11-09T01:37:20.079145+00:00"
+  "934985cf01b72207": "2026-11-09T01:37:20.079145+00:00",
+  "ae06ecf7187204d4": "2026-11-09T02:07:24.550324+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI raises $11 billion at $1.25 trillion valuation",
-   "ts": "2026-11-07T01:38:44.401340+00:00"
-  },
   {
    "headline": "Chinese intelligence recruited executive to spy on Nvidia CEO",
    "ts": "2026-11-07T02:37:23.665104+00:00"
@@ -439,11 +436,15 @@
   {
    "headline": "DeepSeek reports 1.54 million daily users on AI agent platform",
    "ts": "2026-11-09T01:37:20.079145+00:00"
+  },
+  {
+   "headline": "Rights holders for Elvis Presley and Eminem sue AI music startup Suno",
+   "ts": "2026-11-09T02:07:24.550324+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1449,32 +1450,5 @@
    "published": "2026-11-08T00:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "ae06ecf7187204d4",
-   "item": {
-    "id": "ae06ecf7187204d4",
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
-    "published": "2026-11-08T17:23:19+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Rights holders for Elvis Presley and Eminem sue AI music startup Suno",
-   "post": "Rights holders for Elvis Presley and Eminem's music publisher have filed lawsuits against AI music startup Suno, alleging the service illegally generates music and lyrics mimicking the artists.",
-   "editor_note": "Verify if the lawsuits were filed jointly or as separate legal actions in state or federal court.",
-   "published_at": "2026-11-08T17:23:19+00:00",
-   "first_seen_at": "2026-11-09T01:37:20.079145+00:00",
-   "expires_at": "2026-11-10T05:23:19+00:00",
-   "priority": 7.271288,
-   "selection_reason": "Time-sensitive story"
-  }
- ]
+ "pending": []
 }
