@@ -319,13 +319,16 @@
   "c5536f6e12371c5d": "2026-11-09T05:07:19.968362+00:00",
   "2382673acb375df8": "2026-11-09T05:07:19.968362+00:00",
   "95fae64cc1d3115d": "2026-11-09T05:07:19.968362+00:00",
-  "f383781a9a4e4978": "2026-11-09T05:07:19.968362+00:00"
+  "f383781a9a4e4978": "2026-11-09T05:07:19.968362+00:00",
+  "b10abbc74a2315ba": "2026-11-09T05:37:21.576546+00:00",
+  "f49c2da50f82af27": "2026-11-09T05:37:21.576546+00:00",
+  "59d5277c0b8b649e": "2026-11-09T05:37:21.576546+00:00",
+  "bc4070702729f407": "2026-11-09T05:37:21.576546+00:00",
+  "a5cf7af39378325c": "2026-11-09T05:37:21.576546+00:00",
+  "0e81fb23228766e8": "2026-11-09T05:37:21.576546+00:00",
+  "c6021e179236d913": "2026-11-09T05:37:21.576546+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI proceeds with data center expansion after midterm elections",
-   "ts": "2026-11-07T05:07:22.516755+00:00"
-  },
   {
    "headline": "RBI mandates annual bank security audits for AI threats",
    "ts": "2026-11-07T06:37:20.117711+00:00"
@@ -469,11 +472,15 @@
   {
    "headline": "LTM and ServiceNow expand partnership for AI agent deployments",
    "ts": "2026-11-09T04:37:20.776111+00:00"
+  },
+  {
+   "headline": "Russian military uses deepfake videos to claim battlefield success",
+   "ts": "2026-11-09T05:37:21.576546+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
