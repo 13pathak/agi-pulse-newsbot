@@ -98,7 +98,7 @@ class YouTube:
     def get(self, resource, **params):
         try:
             response = requests.get(f"https://www.googleapis.com/youtube/v3/{resource}",
-                                    params=params, headers={"x-goog-api-key": self.key}, timeout=(10, 30))
+                                    params={**params, "key": self.key}, timeout=(10, 30))
         except requests.RequestException:
             raise ServiceError("YouTube request failed; retry later") from None
         if not response.ok:

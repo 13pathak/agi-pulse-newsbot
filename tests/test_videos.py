@@ -409,3 +409,14 @@ def test_youtube_error_does_not_expose_key_or_response_body(monkeypatch):
     with pytest.raises(vr.ServiceError) as error:
         vr.YouTube("SECRET").get("search", q="test")
     assert "SECRET" not in str(error.value) and "accessNotConfigured" in str(error.value)
+
+
+def test_youtube_uses_documented_key_parameter_and_sanitizes_network_errors(monkeypatch):
+    def request(url, **kwargs):
+        assert kwargs["params"] == {"q": "test", "key": "SECRET"}
+        raise vr.requests.RequestException(url + "?key=SECRET")
+
+    monkeypatch.setattr(vr.requests, "get", request)
+    with pytest.raises(vr.ServiceError) as error:
+        vr.YouTube("SECRET").get("search", q="test")
+    assert "SECRET" not in str(error.value)
