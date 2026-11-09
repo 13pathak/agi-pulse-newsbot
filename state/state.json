@@ -468,13 +468,14 @@
   "cc49c1ae6860a64f": "2026-11-09T15:37:27.777087+00:00",
   "ad2042a36e0afe0b": "2026-11-09T15:37:27.777087+00:00",
   "558e331e52660483": "2026-11-09T15:37:27.777087+00:00",
-  "9d8e98a0c0ce0555": "2026-11-09T15:37:27.777087+00:00"
+  "9d8e98a0c0ce0555": "2026-11-09T15:37:27.777087+00:00",
+  "d69a3a896f5c18fc": "2026-11-09T16:07:28.073613+00:00",
+  "303caac7e48e3324": "2026-11-09T16:07:28.073613+00:00",
+  "d2957b855954219d": "2026-11-09T16:07:28.073613+00:00",
+  "67d134866a7d1897": "2026-11-09T16:07:28.073613+00:00",
+  "86961a9937fd8746": "2026-11-09T16:07:28.073613+00:00"
  },
  "covered": [
-  {
-   "headline": "Open and closed AI model cyber capabilities gap",
-   "ts": "2026-11-07T16:07:22.282656+00:00"
-  },
   {
    "headline": "Vals AI finds profanity in Inkling 2 Small reasoning traces",
    "ts": "2026-11-07T16:37:22.384460+00:00"
@@ -626,11 +627,15 @@
   {
    "headline": "Adobe embeds CX Enterprise Coworker across major AI platforms",
    "ts": "2026-11-09T15:37:27.777087+00:00"
+  },
+  {
+   "headline": "Disney and Adobe partner for generative AI production tools",
+   "ts": "2026-11-09T16:07:28.073613+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-09",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1706,6 +1711,32 @@
  },
  "pending": [
   {
+   "id": "e424c28f526c23bf",
+   "item": {
+    "id": "e424c28f526c23bf",
+    "title": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
+    "url": "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai/",
+    "source": "Microsoft",
+    "image": "",
+    "snippet": "November 9, 2026 Category: Company News Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI New c lient o nboarding a gent, built with Microsoft Frontier Company forward deployed engineer s , reduces onboarding data preparation time by 8 3 % , while enhancing efficiency and maintaining strong privacy, security and governance controls Microsoft Source…",
+    "published": "2026-11-09T15:58:45+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Northern Trust and Microsoft partner for client onboarding AI",
+   "post": "Northern Trust collaborated with Microsoft Frontier Company to build a client onboarding agent that reduces onboarding data preparation time by 83 percent.",
+   "editor_note": "Check whether the 83 percent reduction metric applies across all client tiers or a specific subset of onboarding pipelines.",
+   "published_at": "2026-11-09T15:58:45+00:00",
+   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
+   "expires_at": "2026-11-11T15:58:45+00:00",
+   "priority": 6.996973,
+   "selection_reason": "Editorial importance"
+  },
+  {
    "id": "9b03876ef79bfc02",
    "item": {
     "id": "9b03876ef79bfc02",
@@ -1728,8 +1759,8 @@
    "published_at": "2026-11-09T10:52:48+00:00",
    "first_seen_at": "2026-11-09T11:37:20.224380+00:00",
    "expires_at": "2026-11-10T22:52:48+00:00",
-   "priority": 6.118343,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.135707,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "d67288d027c7e193",
@@ -1754,8 +1785,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.04905,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.066414,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -1780,8 +1811,34 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.048796,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.066159,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "67dd0cfb36bf7333",
+   "item": {
+    "id": "67dd0cfb36bf7333",
+    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
+    "published": "2026-11-09T15:44:53+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Tencent AI chief warns of bioweapon risks from systems",
+   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
+   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
+   "published_at": "2026-11-09T15:44:53+00:00",
+   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
+   "expires_at": "2026-11-11T03:44:53+00:00",
+   "priority": 5.989544,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "df3675d7a4445269",
@@ -1820,8 +1877,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.19706,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.214423,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -1848,8 +1905,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.181043,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 5.207089,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -1875,8 +1932,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.14851,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.165874,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -1901,8 +1958,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.141214,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 5.158578,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -1927,8 +1984,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.048711,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.066075,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -1953,8 +2010,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.028724,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 5.049561,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -1980,8 +2037,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.928551,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 4.945915,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   }
  ]
 }
