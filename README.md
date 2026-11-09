@@ -1,6 +1,6 @@
 # AGI Pulse NewsBot
 
-An automated AI-news desk. It monitors 55 enabled sources across news outlets, lab blogs, independent evaluations, policy announcements, research papers and open-model releases. It uses Google Gemini to rank stories and draft concise, factual posts for X (Twitter), and delivers each draft to Telegram for human review. Nothing is published without an editor's approval.
+An automated AI-news desk. It monitors 58 enabled sources across news outlets, lab blogs, independent evaluations, policy announcements, research papers and open-model releases. It uses Google Gemini to rank stories and draft concise, factual English posts for X (Twitter), and delivers each draft to Telegram for human review. Nothing is published without an editor's approval.
 
 ```
  News feeds, lab blogs,      ──►  filter &   ──►  Gemini: group,    ──►  Telegram draft
@@ -17,7 +17,8 @@ reviews YouTube demonstrations across creative projects, everyday/no-code work a
 AI application building. It has its own queue, daily limits and Telegram feedback;
 automatic recommendations are disabled until API setup and preview checks pass.
 
-- **Broad coverage:** 55 enabled sources, including direct lab announcements, independent evaluations, official policy, global and Indian reporting, research papers and open-model releases.
+- **Broad coverage:** 58 enabled sources, including direct lab announcements, independent evaluations, official policy, global, Indian and Chinese reporting, research papers and open-model releases.
+- **Chinese sources, English drafts:** Gemini translates supplied Chinese headlines and excerpts in the existing ranking call. Telegram receives an English story headline, post and editor note, with the original article link retained. Chinese source text stays in the queue for reference; untranslated drafts are held back.
 - **Primary sources first:** category reservations and per-source caps prioritize lab announcements while preserving room for research, policy and original reporting. Identical substantive headlines and canonical URLs are collapsed before Gemini.
 - **Bounded Gemini input:** at most 60 candidates and 48,000 characters for the complete prompt, including instructions, history and JSON. No extra model calls for prioritization or summary extraction.
 - **Editorial ranking:** Gemini groups duplicate coverage into one story, scores each story 1–10 and drafts posts only for those above a configurable threshold.
@@ -65,6 +66,7 @@ Discovery logs show per-source and total counts for `seen`, `queued`, `old`, `ke
 | Global tech press | The New York Times, The Wall Street Journal, The Verge, TechCrunch, MIT Technology Review, Ars Technica, Wired, The Decoder, The Guardian |
 | Business and markets | Bloomberg, Financial Times, CNBC, Business Insider, The Information, South China Morning Post, Tom's Hardware |
 | India | The Hindu, The Economic Times, Mint, India Today, Inc42, YourStory, MediaNama, Analytics India Magazine, Entrackr |
+| Chinese-language reporting | QbitAI (量子位), 36Kr (36氪), LeiPhone (雷峰网) |
 | AI labs and companies | OpenAI, Anthropic, Claude product updates, Google DeepMind, Google AI, Microsoft, NVIDIA, Hugging Face, Mistral, Meta AI, Ai2, Sarvam, xAI, ElevenLabs, AWS AI |
 | Evaluations and research blogs | Epoch AI, Artificial Analysis, METR, Google Research, Microsoft Research, Apple ML Research, Simon Willison |
 | Specialist reporting | IEEE Spectrum AI, Rest of World, 404 Media AI, SemiAnalysis |
@@ -75,6 +77,24 @@ Discovery logs show per-source and total counts for `seen`, `queued`, `old`, `ke
 The full list is in [`config.yaml`](config.yaml). Run `python newsbot.py --check-feeds` to test each one. It returns a failure status for broken/empty sources and warns about missing dates, missing blurbs and feeds older than 45 days. An RSS-summary warning can be expected for Hugging Face: selected entries are enriched from public article metadata later.
 
 Endpoints were checked on 7 November 2026. VentureBeat and The Indian Express remain disabled. Stale Qwen/IndiaAI endpoints and unusable PIB/MeitY feeds have not been enabled. PIB/MeitY needs a reliable English adapter; the tested public listing returned HTTP 403. No paywalls are bypassed. SemiAnalysis uses its current newsletter feed, and 404 Media uses its current `ai` tag feed.
+
+### Chinese ecosystem coverage
+
+Public Chinese endpoints were checked separately on **9 November 2026**:
+
+| Outlet | Useful coverage | Integration |
+|---|---|---|
+| [QbitAI / 量子位](https://www.qbitai.com/) | Chinese AI models, labs, research, startups and robotics; also global AI news | Enabled: [publisher RSS](https://www.qbitai.com/feed), 10 dated items in the check. An initial timeout recovered on retest. |
+| [36Kr / 36氪](https://www.36kr.com/information/AI/) | Chinese startup funding, commercialization and company reporting | Enabled: [publisher RSS](https://www.36kr.com/feed), 30 dated items. The feed is broader than its AI section; use the `www` host, since the bare-host feed returned HTML. |
+| [LeiPhone / 雷峰网](https://www.leiphone.com/) | AI industry reporting, products, chips and enterprise adoption | Enabled: [publisher RSS](https://www.leiphone.com/feed), 20 dated items. General technology items still need AI filtering. |
+| [Jiqizhixin / 机器之心](https://www.jiqizhixin.com/) | AI research, models and technical coverage | Recommended for further integration. Old RSS endpoints redirect to a data-service page; the public article listing did not expose usable article links to the current parser. |
+| [Zhidx / 智东西](https://zhidx.com/about) | Chinese AI industry, AI chips, robotics and computing infrastructure | Recommended for further integration. Its RSS returned HTTP 500; tested article HTML needs a title-extraction adapter before the existing page-list route can use it. |
+
+All three enabled sources use `language: zh`, keyword filtering and a three-candidate cap within the existing reporting budget. Chinese keywords match unsegmented text, and Latin AI names match beside Chinese characters. Gemini favors original local ecosystem reporting and groups duplicate stories across languages. These outlets also publish global news and promotional material; publisher identity is not independent verification of every claim. Existing attribution, evidence and sponsored-content rules apply.
+
+Translation covers the **supplied headline and excerpt**, not a full article. Gemini must produce English `headline`, `post` and `editor_note`, preserve uncertainty and currency, and correctly interpret Chinese numeric units (万 = 10,000; 亿 = 100,000,000). Telegram and dry runs display the English story headline. The Read article button opens the original Chinese source; the X button contains only the English post and configured attribution/link.
+
+A Chinese-script guard rejects qualifying output with remaining Han characters, including an untranslated fallback headline. A failed translation leaves that batch unseen, preserves the existing queue, sends nothing and fails the run so the next run can retry within the discovery window. Cached untranslated drafts are held until corrected or expired. This guard detects leftover Chinese text, not translation accuracy or every possible non-English language. No extra model call or translation service is added.
 
 ## Setup
 

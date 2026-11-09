@@ -47,7 +47,8 @@ persona: |
   Accuracy and useful explanation beat speed and volume.
 
 # Words that mark a story as AI-related (used only for feeds with ai_only: false).
-# "AI" is matched as a whole word, case-sensitive; the rest are case-insensitive.
+# Latin keywords use Latin token boundaries (also match AI模型); "AI" is case-sensitive.
+# Chinese keywords match within unsegmented text; other keywords are case-insensitive.
 keywords:
   - artificial intelligence
   - generative
@@ -83,6 +84,27 @@ keywords:
   - OLMo
   - Molmo
   - LLMs
+  # Chinese AI coverage (general Chinese feeds still need relevance filtering).
+  - 人工智能
+  - 生成式
+  - 机器学习
+  - 深度学习
+  - 神经网络
+  - 大模型
+  - 智能体
+  - 具身智能
+  - 自动驾驶
+  - 机器人
+  - 文生图
+  - 文生视频
+  - 深度求索
+  - 通义千问
+  - 智谱
+  - 月之暗面
+  - 百川智能
+  - 商汤
+  - 科大讯飞
+  - 英伟达
 
 # Feeds. ai_only: true  → the feed is already about AI, take everything.
 #        ai_only: false → general tech feed, keep only stories matching keywords.
@@ -91,6 +113,7 @@ keywords:
 # max_candidates overrides the per-source cap. Discovery priority is not an importance score.
 # fetch_summary enriches thin RSS entries from public page metadata AFTER shortlisting.
 # prefer_content uses the public full-text feed field when its summary is only a teaser.
+# language identifies source text for Gemini; all drafts must be in English.
 feeds:
   # Big newspapers (paywalled, but the bot only needs the headline + blurb from RSS)
   - name: The New York Times
@@ -166,6 +189,31 @@ feeds:
     url: https://www.tomshardware.com/feeds/all
     ai_only: false
     images: true
+
+  # Chinese-language reporting. Public RSS checked 9 November 2026.
+  # These outlets also carry non-AI stories, so keep keyword filtering enabled.
+  - name: QbitAI
+    url: https://www.qbitai.com/feed
+    language: zh
+    category: news
+    ai_only: false
+    blurb_chars: 700
+    fetch_summary: true
+    max_candidates: 3
+  - name: 36Kr
+    url: https://www.36kr.com/feed   # the bare 36kr.com/feed returns HTML
+    language: zh
+    category: news
+    ai_only: false
+    blurb_chars: 700
+    max_candidates: 3
+  - name: LeiPhone
+    url: https://www.leiphone.com/feed
+    language: zh
+    category: news
+    ai_only: false
+    blurb_chars: 700
+    max_candidates: 3
 
   # Indian press
   - name: The Hindu
