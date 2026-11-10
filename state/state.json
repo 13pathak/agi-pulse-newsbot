@@ -623,7 +623,15 @@
   "406460b90a5a01ea": "2026-11-10T05:37:22.133193+00:00",
   "3e364772d0ff95ad": "2026-11-10T05:37:22.133193+00:00",
   "d82a14e33749fcd4": "2026-11-10T05:37:22.133193+00:00",
-  "8b937df2ca88bb3e": "2026-11-10T05:37:22.133193+00:00"
+  "8b937df2ca88bb3e": "2026-11-10T05:37:22.133193+00:00",
+  "6f6fff482120edaf": "2026-11-10T06:07:22.591193+00:00",
+  "d66ec553c6f121f9": "2026-11-10T06:07:22.591193+00:00",
+  "e3ad3d13360cfdb5": "2026-11-10T06:07:22.591193+00:00",
+  "7a3909db4649e1e1": "2026-11-10T06:07:22.591193+00:00",
+  "60076ff23d6c4415": "2026-11-10T06:07:22.591193+00:00",
+  "518485f63290c0f7": "2026-11-10T06:07:22.591193+00:00",
+  "29dc3ada50a44e0a": "2026-11-10T06:07:22.591193+00:00",
+  "d37a9c8f177ae303": "2026-11-10T06:07:22.591193+00:00"
  },
  "covered": [
   {
@@ -817,11 +825,15 @@
   {
    "headline": "Tesla Targets Late 2027 For Optimus Robot Deliveries",
    "ts": "2026-11-10T05:37:22.133193+00:00"
+  },
+  {
+   "headline": "Qantas Cuts 850 Jobs In Accenture AI Partnership",
+   "ts": "2026-11-10T06:07:22.591193+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1929,49 +1941,21 @@
    "desc": "Epoch AI's Inference Performance Index, which goes beyond the underestimates of FLOP/s measures and scores chips on memory and communication",
    "image": "https://epoch.ai/assets/images/posts/2026/inference-performance-index/t-inference-performance-index.png",
    "published": "2026-11-09T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/508798.html": {
+   "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+   "desc": "办公AI结束单机模式",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/508787.html": {
+   "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+   "desc": "投毒 → 耗尽预算 → 诱导误判",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "29dc3ada50a44e0a",
-   "item": {
-    "id": "29dc3ada50a44e0a",
-    "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-    "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=db4988bce91ca2639e69700b72cf3372",
-    "snippet": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate l…",
-    "published": "2026-11-10T01:34:47+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "d37a9c8f177ae303",
-     "title": "澳航与埃森哲达成多年期战略合作，未来数年约850个岗位将受影响",
-     "url": "https://36kr.com/newsflashes/4063234067403657?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "澳洲航空集团（Qantas Group）宣布与埃森哲达成多年期战略合作，推进后台系统、业务流程和数据平台现代化，并加大人工智能投资。合作将涉及企业职能调整，部分服务将转由埃森哲提供，主要由其印度团队及部分澳大利亚团队负责，后续进一步引入自动化和人工智能。澳航预计，未来数年集团约850个岗位将受到影响，首批调整预计于2027年年中前实施。公司表示，将与受影响员工及工会协商，并尽可能安排员工转岗、提供再培训和其他支持。（界面）",
-     "published": "2026-11-10T01:46:14+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Qantas Cuts 850 Jobs In Accenture AI Partnership",
-   "post": "Qantas announced an AI-driven overhaul involving an agreement with Accenture that will impact 850 Australian jobs and outsource operations to teams including Accenture in India.",
-   "editor_note": "Check the exact timeline for when the first workforce adjustments are scheduled to take effect.",
-   "published_at": "2026-11-10T01:34:47+00:00",
-   "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
-   "expires_at": "2026-11-11T13:34:47+00:00",
-   "priority": 8.606373,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
-  },
   {
    "id": "b3625594e57429fa",
    "item": {
@@ -1996,8 +1980,8 @@
    "published_at": "2026-11-10T03:10:03+00:00",
    "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
    "expires_at": "2026-11-11T15:10:03+00:00",
-   "priority": 8.556427,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.573793,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "51fd6bae6a94af5c",
@@ -2022,8 +2006,8 @@
    "published_at": "2026-11-09T20:01:20+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T20:01:20+00:00",
-   "priority": 8.549924,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 8.570763,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "40881cc5fab2fef0",
@@ -2048,8 +2032,8 @@
    "published_at": "2026-11-10T04:54:37+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T16:54:37+00:00",
-   "priority": 8.511392,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.528757,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "5d72d36b6c1fd27b",
@@ -2074,8 +2058,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.415588,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.432953,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2100,8 +2084,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.111651,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 8.129016,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2126,8 +2110,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.530909,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.548274,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "30d10db5b5c89fdf",
@@ -2166,34 +2150,8 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.472529,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
-   "id": "cb7863665107d049",
-   "item": {
-    "id": "cb7863665107d049",
-    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
-    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
-    "published": "2026-11-09T17:58:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
-   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
-   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
-   "published_at": "2026-11-09T17:58:05+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.426193,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.489895,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2218,7 +2176,34 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.014347,
+   "priority": 7.031712,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "3ea2bbdb97e368ef",
+   "item": {
+    "id": "3ea2bbdb97e368ef",
+    "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
+    "url": "https://36kr.com/newsflashes/4063513408312456?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，天眼查App显示，11月10日，深圳荣耀奇点智能科技有限公司成立，法定代表人为彭求恩，注册资本1亿元人民币，经营范围含服务消费机器人制造、服务消费机器人销售、智能机器人的研发等。股东信息显示，该公司由荣耀终端股份有限公司全资持股。",
+    "published": "2026-11-10T05:58:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Honor sets up intelligent technology firm in Shenzhen",
+   "post": "Honor has established Shenzhen Qidian Intelligent Technology Company with a registered capital of 100 million yuan, focusing on intelligent robot research, development, manufacturing, and sales.",
+   "editor_note": "Verify registered capital of 100 million yuan and 100% ownership by Honor Terminal from the filing details.",
+   "published_at": "2026-11-10T05:58:27+00:00",
+   "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
+   "expires_at": "2026-11-11T17:58:27+00:00",
+   "priority": 6.995867,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2244,7 +2229,33 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.941929,
+   "priority": 6.959295,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "cb7863665107d049",
+   "item": {
+    "id": "cb7863665107d049",
+    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
+    "published": "2026-11-09T17:58:05+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
+   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
+   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
+   "published_at": "2026-11-09T17:58:05+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:58:05+00:00",
+   "priority": 6.943559,
    "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
@@ -2272,8 +2283,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.878954,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.905003,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2300,8 +2311,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.878954,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.905003,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2339,8 +2350,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.458395,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.475761,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2365,8 +2376,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.36459,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 6.350698,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2391,8 +2402,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.316372,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.30248,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2417,8 +2428,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.316118,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.302225,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2444,8 +2455,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.143303,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.160668,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2471,8 +2482,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.130016,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.147381,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2498,8 +2509,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.045778,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.063144,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2524,8 +2535,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 5.959473,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 5.976838,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2551,8 +2562,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.887562,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 5.904927,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2579,8 +2590,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.441429,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 5.436219,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2605,8 +2616,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.42453,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 5.414111,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2631,8 +2642,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.37736,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 5.363468,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2658,8 +2669,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.32344,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 5.309548,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2684,8 +2695,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.316033,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 5.302141,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -2710,8 +2721,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.22101,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 5.207117,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2750,8 +2761,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.183101,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 5.169208,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2777,8 +2788,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.134551,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 5.120659,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2803,8 +2814,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.048926,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.066292,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2830,8 +2841,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.977144,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 4.963252,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   }
  ]
 }
