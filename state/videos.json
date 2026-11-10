@@ -28,7 +28,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-11T04:10:19.858723+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "RgTr-7unUzA": {
    "id": "RgTr-7unUzA",
@@ -204,11 +209,50 @@
    "categories": [
     "everyday"
    ],
-   "status": "new",
+   "status": "ready",
    "screen_after": "2026-11-11T03:38:36.383371+00:00",
    "screen": {
     "category": "everyday",
     "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-10T04:10:19.858723+00:00",
+   "review": {
+    "task": "Set up Anthropic's Small Business plugin in Claude with connected tools (Gmail, Calendar, QuickBooks) to automate workflows like Monday briefs, lead replies, and invoicing.",
+    "demonstrated": "Installing the Small Business plugin in Claude desktop, connecting tools, running onboarding, generating a Monday brief, drafting lead responses, and scheduling tasks.",
+    "creator_claim": "Claude can run your entire business routine and automate majority of tasks with pre-built skills.",
+    "requirements": "Claude desktop app, accounts for connected services like Gmail, Google Calendar, and QuickBooks.",
+    "cost": ".Online domain sponsored at $0.99 for the first year with code AIMASTER; Claude pricing not specified.",
+    "caveat": "Relies on manual approval for customer-facing or financial actions; automated scheduling requires the Claude app to remain open and online.",
+    "workflow_key": "small business automation with claude plugin",
+    "category": "applications",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 23,
+      "observation": "Navigating Customize -> Plugins and installing the Small Business plugin in Claude desktop."
+     },
+     {
+      "seconds": 302,
+      "observation": "Completing the onboarding interview to define business rules, tools, and challenges."
+     },
+     {
+      "seconds": 517,
+      "observation": "Viewing the generated Monday brief combining data from connected Gmail, Calendar, and spreadsheets."
+     }
+    ],
+    "tools": [
+     "Claude",
+     "Gmail",
+     "Google Calendar",
+     "QuickBooks"
+    ],
+    "scores": {
+     "evidence": 8,
+     "reproducibility": 7,
+     "relevance": 8,
+     "clarity": 8
+    }
    }
   },
   "HTYekI37d2U": {
@@ -253,7 +297,12 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-11T04:10:19.858723+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "EJdM815KoEs": {
    "id": "EJdM815KoEs",
@@ -485,7 +534,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-11T04:10:19.858723+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   }
   },
   "Mt91SiQotOU": {
    "id": "Mt91SiQotOU",
@@ -499,7 +553,45 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "ready",
+   "screen_after": "2026-11-11T04:10:19.858723+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-10T04:10:19.858723+00:00",
+   "review": {
+    "task": "Create AI images and turn them into consistent multi-shot 4K videos using Higgsfield AI and various models like Seedance and Kling",
+    "demonstrated": "Signing up on Higgsfield, generating AI images from prompts, editing and upscaling images, converting images to videos, maintaining character and product consistency with elements, creating multi-shot videos, and upscali",
+    "creator_claim": "You can go from a single image to a finished 4K AI video without wasting credits while maintaining consistency across shots.",
+    "requirements": "Higgsfield AI account (paid subscription recommended), web browser",
+    "cost": "Free trials/generations available with limited features; paid plans range from starter ($19/mo) to ultra ($99/mo) with c",
+    "caveat": "Results vary between generations, requiring prompt iteration, retries, and manual upscaling for professional quality; affiliate link disclosure present.",
+    "workflow_key": "generate ai video higgsfield",
+    "category": "creative",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 737,
+      "observation": "Demonstrates generating an AI image using the GPT Image 2.5 model from a detailed prompt in Higgsfield."
+     }
+    ],
+    "tools": [
+     "Higgsfield AI",
+     "Seedance 2.5",
+     "Kling 3.0",
+     "GPT Image 2.5",
+     "Cinema Studio",
+     "Topaz Video Upscale"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 9
+    }
+   }
   },
   "0wwliv8deUI": {
    "id": "0wwliv8deUI",
@@ -513,7 +605,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-11T04:10:19.858723+00:00"
   },
   "L6BKvrFQI7s": {
    "id": "L6BKvrFQI7s",
@@ -798,12 +891,51 @@
    "categories": [
     "applications"
    ],
-   "status": "new",
+   "status": "sent",
    "screen_after": "2026-11-11T03:38:36.383371+00:00",
    "screen": {
     "category": "applications",
     "relevance": 9
-   }
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-10T04:10:19.858723+00:00",
+   "review": {
+    "task": "Build a custom AI to-do list agent with subagents and cloud synchronization using Claude Code without writing code or using a terminal.",
+    "demonstrated": "Creator sets up Claude Code in the desktop app, configures a CLAUDE.md file, uses plan and auto modes, inputs tasks via voice/text, and interacts with the generated Daybook dashboard app on desktop and mobile.",
+    "creator_claim": "Built 150+ AI agents that run personal life; agent runs on phone even when computer is off.",
+    "requirements": "Claude paid plan (Max or Ultra), Claude desktop app",
+    "cost": "Requires a paid plan (Max or Ultra)",
+    "caveat": "Running multiple subagents consumes usage limits faster; specific connector configuration details for email are glossed over.",
+    "workflow_key": "build todo agent claude code",
+    "category": "everyday",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 198,
+      "observation": "Switching to Code mode inside the Claude desktop app without terminal or coding."
+     },
+     {
+      "seconds": 340,
+      "observation": "CLAUDE.md file created with rules and preferences automatically written by Claude."
+     },
+     {
+      "seconds": 622,
+      "observation": "Demonstration of the generated Daybook dashboard UI with stats and tasks."
+     }
+    ],
+    "tools": [
+     "Claude Code",
+     "Claude desktop app",
+     "Opus 5.5"
+    ],
+    "scores": {
+     "evidence": 8,
+     "reproducibility": 7,
+     "relevance": 9,
+     "clarity": 8
+    }
+   },
+   "sent_at": "2026-11-10T04:10:19.858723+00:00"
   },
   "GVHxa11wUxY": {
    "id": "GVHxa11wUxY",
@@ -913,21 +1045,24 @@
  "daily": {
   "date": "2026-11-10",
   "searches": 6,
-  "reviews": 3,
-  "video_seconds": 2207,
-  "screens": 1,
-  "sent": 2,
+  "reviews": 6,
+  "video_seconds": 5446,
+  "screens": 2,
+  "sent": 3,
   "categories": [
    "creative",
-   "applications"
+   "applications",
+   "everyday"
   ],
   "channels": [
    "UCKOTiVw2u_e5LK40-YBTVlQ",
-   "UCjzWsRM05uCgkSEELJZWciA"
+   "UCjzWsRM05uCgkSEELJZWciA",
+   "UCruPFdKtGG8Oz5dvha6WWgA"
   ],
   "fingerprints": [
    "8c8e569d4e278d5fcf5d",
-   "af1e1198533613d0eff0"
+   "af1e1198533613d0eff0",
+   "3aa54f502de0fa1464e5"
   ]
  },
  "preferences": {},
