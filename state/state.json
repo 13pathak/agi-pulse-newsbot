@@ -801,13 +801,13 @@
   "196c0edf93f91dc3": "2026-11-10T16:07:26.141387+00:00",
   "65ed78c931b41853": "2026-11-10T16:07:26.141387+00:00",
   "fc6b6a56df7b3650": "2026-11-10T16:07:26.141387+00:00",
-  "a14681e2ddce1255": "2026-11-10T16:07:26.141387+00:00"
+  "a14681e2ddce1255": "2026-11-10T16:07:26.141387+00:00",
+  "c3f818092f308b52": "2026-11-10T16:37:22.446864+00:00",
+  "a1514935e728d490": "2026-11-10T16:37:22.446864+00:00",
+  "ba7e0636c9ef17b2": "2026-11-10T16:37:22.446864+00:00",
+  "c9d26eb0c72a73e2": "2026-11-10T16:37:22.446864+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent releases DSpine draft model for Qwen3.8-27B",
-   "ts": "2026-11-08T16:37:21.165098+00:00"
-  },
   {
    "headline": "DeepSeek reports 1.54 million daily users on AI agent platform",
    "ts": "2026-11-09T01:37:20.079145+00:00"
@@ -1015,11 +1015,15 @@
   {
    "headline": "Google releases Gemini 4 Carbon model",
    "ts": "2026-11-10T16:07:26.141387+00:00"
+  },
+  {
+   "headline": "Mercor raises $750 million at $20 billion valuation",
+   "ts": "2026-11-10T16:37:22.446864+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2214,8 +2218,8 @@
    "published_at": "2026-11-10T13:00:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T13:00:00+00:00",
-   "priority": 8.622473,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.643263,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2241,8 +2245,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.602765,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.62009,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "35f00681774962fa",
@@ -2267,8 +2271,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.596199,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.613524,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "3e64000748503007",
@@ -2293,8 +2297,8 @@
    "published_at": "2026-11-10T13:37:16+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T01:37:16+00:00",
-   "priority": 8.586783,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.604109,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "8792b1f1c1557e49",
@@ -2319,34 +2323,8 @@
    "published_at": "2026-11-10T14:52:07+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T02:52:07+00:00",
-   "priority": 8.46513,
+   "priority": 8.482456,
    "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "4ee7db6e89d552be",
-   "item": {
-    "id": "4ee7db6e89d552be",
-    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "published": "2026-11-10T04:29:06+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
-   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
-   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
-   "published_at": "2026-11-10T04:29:06+00:00",
-   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
-   "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.895531,
-   "selection_reason": "Time-sensitive story; waiting 11.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2372,8 +2350,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.754466,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
+   "priority": 7.771792,
+   "selection_reason": "Time-sensitive story; waiting 9.5h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2411,8 +2389,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 7.609151,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.629941,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2437,8 +2415,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.567046,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.584371,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2463,8 +2441,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.513689,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.531015,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2489,8 +2467,34 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.497028,
+   "priority": 7.514354,
    "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "4ee7db6e89d552be",
+   "item": {
+    "id": "4ee7db6e89d552be",
+    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "published": "2026-11-10T04:29:06+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
+   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
+   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
+   "published_at": "2026-11-10T04:29:06+00:00",
+   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
+   "expires_at": "2026-11-11T16:29:06+00:00",
+   "priority": 7.412836,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2515,8 +2519,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.378969,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.396294,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2542,8 +2546,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.343124,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.360449,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2570,8 +2574,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.332042,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.326845,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2598,8 +2602,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.332042,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.326845,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2625,8 +2629,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.305138,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.322463,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2651,34 +2655,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.242716,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "cb7863665107d049",
-   "item": {
-    "id": "cb7863665107d049",
-    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
-    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
-    "published": "2026-11-09T17:58:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
-   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
-   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
-   "published_at": "2026-11-09T17:58:05+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.134559,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.260041,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2703,8 +2681,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.133703,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.154493,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2730,19 +2708,19 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.128943,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.146268,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
-   "id": "1f917ef42e116f1b",
+   "id": "cb7863665107d049",
    "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
+    "id": "cb7863665107d049",
+    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
+    "published": "2026-11-09T17:58:05+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2750,13 +2728,13 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.11898,
+   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
+   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
+   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
+   "published_at": "2026-11-09T17:58:05+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:58:05+00:00",
+   "priority": 7.120699,
    "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
@@ -2782,8 +2760,34 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.091519,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.108845,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "1f917ef42e116f1b",
+   "item": {
+    "id": "1f917ef42e116f1b",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
+    "published": "2026-11-09T17:24:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
+   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
+   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T05:24:26+00:00",
+   "priority": 7.10512,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2808,8 +2812,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.067222,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.084547,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2836,8 +2840,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.050804,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.076792,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2863,8 +2867,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.410308,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 6.396447,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2890,35 +2894,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.320354,
-   "selection_reason": "Editorial importance; waiting 15.0h"
-  },
-  {
-   "id": "90a39c5880d64c81",
-   "item": {
-    "id": "90a39c5880d64c81",
-    "title": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
-    "url": "https://36kr.com/newsflashes/4063168669700997?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次合作依托英伟达NVLink Fusion项目开展。NVLink Fusion项目支持超大规模云厂商与定制芯片设计方，将自研AI处理器直接接入英伟达机架级基础设施。（新浪财经）",
-    "published": "2026-11-10T00:10:42+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "SK Telecom, Rebellions, and Nvidia build hybrid AI system",
-   "post": "SK Telecom, South Korean chip startup Rebellions, and Nvidia signed an agreement to connect Nvidia GPUs with Rebellions NPUs using Nvidia's NVLink Fusion platform for SK Telecom's AI data centers.",
-   "editor_note": "Verify timeline for deployment in SK Telecom data centers.",
-   "published_at": "2026-11-10T00:10:42+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.307067,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.306493,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2944,8 +2921,35 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.283,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 6.300325,
+   "selection_reason": "Editorial importance; waiting 9.0h"
+  },
+  {
+   "id": "90a39c5880d64c81",
+   "item": {
+    "id": "90a39c5880d64c81",
+    "title": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
+    "url": "https://36kr.com/newsflashes/4063168669700997?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次合作依托英伟达NVLink Fusion项目开展。NVLink Fusion项目支持超大规模云厂商与定制芯片设计方，将自研AI处理器直接接入英伟达机架级基础设施。（新浪财经）",
+    "published": "2026-11-10T00:10:42+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "SK Telecom, Rebellions, and Nvidia build hybrid AI system",
+   "post": "SK Telecom, South Korean chip startup Rebellions, and Nvidia signed an agreement to connect Nvidia GPUs with Rebellions NPUs using Nvidia's NVLink Fusion platform for SK Telecom's AI data centers.",
+   "editor_note": "Verify timeline for deployment in SK Telecom data centers.",
+   "published_at": "2026-11-10T00:10:42+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T12:10:42+00:00",
+   "priority": 6.293206,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2971,34 +2975,8 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.214009,
-   "selection_reason": "Editorial importance; waiting 6.5h"
-  },
-  {
-   "id": "4a7141713ab5f922",
-   "item": {
-    "id": "4a7141713ab5f922",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
-    "published": "2026-11-09T19:09:58+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
-   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
-   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
-   "published_at": "2026-11-09T19:09:58+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.167838,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 6.231334,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -3025,8 +3003,34 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.144581,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.170569,
+   "selection_reason": "Editorial importance; waiting 9.5h"
+  },
+  {
+   "id": "4a7141713ab5f922",
+   "item": {
+    "id": "4a7141713ab5f922",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+    "published": "2026-11-09T19:09:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
+   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
+   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
+   "published_at": "2026-11-09T19:09:58+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T07:09:58+00:00",
+   "priority": 6.153978,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "d4ea8e3fa73ac74d",
@@ -3051,8 +3055,8 @@
    "published_at": "2026-11-10T12:30:58+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T00:30:58+00:00",
-   "priority": 6.118544,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.13587,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -3077,8 +3081,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.072892,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.059032,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -3104,8 +3108,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.064613,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.050753,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "d67288d027c7e193",
@@ -3130,8 +3134,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.024675,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.010814,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -3156,8 +3160,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.02442,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.01056,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "f650f08e36be0976",
@@ -3182,8 +3186,34 @@
    "published_at": "2026-11-10T14:00:00+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T02:00:00+00:00",
-   "priority": 5.972254,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 5.98958,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "405fdcad1ce1a75c",
+   "item": {
+    "id": "405fdcad1ce1a75c",
+    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+    "source": "NVIDIA",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
+    "snippet": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+    "published": "2026-11-10T16:00:03+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Nvidia donates OpenShell project to open source",
+   "post": "Nvidia announced at KubeCon that it is donating its OpenShell project to open source to support Kubernetes-based AI infrastructure and application management.",
+   "editor_note": "Confirm the specific open-source foundation receiving the OpenShell donation.",
+   "published_at": "2026-11-10T16:00:03+00:00",
+   "first_seen_at": "2026-11-10T16:37:22.446864+00:00",
+   "expires_at": "2026-11-12T16:00:03+00:00",
+   "priority": 5.98704,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "da421f12a83a062d",
@@ -3208,36 +3238,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.413456,
-   "selection_reason": "Editorial importance; waiting 12.0h"
-  },
-  {
-   "id": "c3f818092f308b52",
-   "item": {
-    "id": "c3f818092f308b52",
-    "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
-    "url": "https://arxiv.org/abs/2611.03953",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: StepFun. Upvotes: 24. Abstract: Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single differentiable model and propose P^2-MOPD, which jointly optimizes the mixing coefficients and the student weights under the same on-policy distillation objective. Unlike task arithmetic, which stays within the span of the frozen student and expert parameters for any choice of merging coefficients, P^2-MOPD keeps the student trainable, so the experts act as parameter priors without confining it to this span. Across four domains at 1.7B and 4B scales, P^2-MOPD achieves faster and more balanced recovery than MOPD from the same initialization, surpassing its final average recovery in half the training steps. At the end of training, our 1.7B model reaches 94.7% average recovery, versus 80.9% for MOPD.",
-    "published": "2026-11-09T00:00:00+00:00",
-    "upvotes": 24,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.03953.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "StepFun researchers introduce P^2-MOPD for faster model distillation",
-   "post": "Researchers at StepFun introduced P^2-MOPD, a multi-teacher on-policy distillation method that optimizes mixing coefficients alongside student weights, reaching 94.7% average recovery in half the training steps of MOPD.",
-   "editor_note": "Note that recovery results are based on 1.7B and 4B scale models across four domains.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.332042,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 5.399595,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   }
  ]
 }
