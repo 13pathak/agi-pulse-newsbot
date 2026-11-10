@@ -631,7 +631,16 @@
   "60076ff23d6c4415": "2026-11-10T06:07:22.591193+00:00",
   "518485f63290c0f7": "2026-11-10T06:07:22.591193+00:00",
   "29dc3ada50a44e0a": "2026-11-10T06:07:22.591193+00:00",
-  "d37a9c8f177ae303": "2026-11-10T06:07:22.591193+00:00"
+  "d37a9c8f177ae303": "2026-11-10T06:07:22.591193+00:00",
+  "aa9d06fdcfe1a35b": "2026-11-10T06:37:20.139290+00:00",
+  "ea267fa8ce7a9281": "2026-11-10T06:37:20.139290+00:00",
+  "e5c9495af66a39f2": "2026-11-10T06:37:20.139290+00:00",
+  "9787756519799368": "2026-11-10T06:37:20.139290+00:00",
+  "144260eecce9a821": "2026-11-10T06:37:20.139290+00:00",
+  "4fcf7bac0a386adb": "2026-11-10T06:37:20.139290+00:00",
+  "94b90fb6954be4fa": "2026-11-10T06:37:20.139290+00:00",
+  "969a5dd1353fb8ff": "2026-11-10T06:37:20.139290+00:00",
+  "51fd6bae6a94af5c": "2026-11-10T06:37:20.139290+00:00"
  },
  "covered": [
   {
@@ -829,11 +838,15 @@
   {
    "headline": "Qantas Cuts 850 Jobs In Accenture AI Partnership",
    "ts": "2026-11-10T06:07:22.591193+00:00"
+  },
+  {
+   "headline": "NVIDIA Nemotron 3.5 Super VL Available on SageMaker",
+   "ts": "2026-11-10T06:37:20.139290+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1980,34 +1993,8 @@
    "published_at": "2026-11-10T03:10:03+00:00",
    "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
    "expires_at": "2026-11-11T15:10:03+00:00",
-   "priority": 8.573793,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
-   "id": "51fd6bae6a94af5c",
-   "item": {
-    "id": "51fd6bae6a94af5c",
-    "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
-    "source": "AWS AI",
-    "image": "",
-    "snippet": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
-    "published": "2026-11-09T20:01:20+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "NVIDIA Nemotron 3.5 Super VL Available on SageMaker",
-   "post": "Amazon SageMaker JumpStart added NVIDIA Nemotron 3.5 Super VL, a 120-billion parameter multimodal vision-language model available in NVFP4 and BF16 variants.",
-   "editor_note": "Verify specific deployment steps and supported instance types on SageMaker JumpStart.",
-   "published_at": "2026-11-09T20:01:20+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T20:01:20+00:00",
-   "priority": 8.570763,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 8.59113,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "40881cc5fab2fef0",
@@ -2032,8 +2019,8 @@
    "published_at": "2026-11-10T04:54:37+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T16:54:37+00:00",
-   "priority": 8.528757,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.546095,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "5d72d36b6c1fd27b",
@@ -2058,8 +2045,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.432953,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.450291,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2084,8 +2071,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.129016,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 8.146354,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2110,8 +2097,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.548274,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.565612,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "30d10db5b5c89fdf",
@@ -2150,8 +2137,8 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.489895,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.507232,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2176,8 +2163,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.031712,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.04905,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2203,7 +2190,7 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.995867,
+   "priority": 7.013205,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2229,8 +2216,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.959295,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.976632,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "cb7863665107d049",
@@ -2255,8 +2242,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.943559,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.960896,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2283,8 +2270,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.905003,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.931009,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2311,8 +2298,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.905003,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.931009,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2350,8 +2337,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.475761,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.493098,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2376,8 +2363,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.350698,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 6.336828,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2402,8 +2389,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.30248,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 6.28861,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2428,8 +2415,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.302225,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 6.288355,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2455,8 +2442,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.160668,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.178006,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2482,8 +2469,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.147381,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.164719,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2509,8 +2496,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.063144,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.080481,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2535,8 +2522,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 5.976838,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 5.994176,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2562,8 +2549,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.904927,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.922265,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2590,8 +2577,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.436219,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 5.431018,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2616,8 +2603,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.414111,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 5.403709,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2642,8 +2629,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.363468,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 5.349598,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2669,8 +2656,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.309548,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 5.295678,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2695,8 +2682,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.302141,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 5.288271,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2721,8 +2708,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.207117,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 5.193247,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2761,8 +2748,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.169208,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 5.155338,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2788,8 +2775,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.120659,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 5.106789,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2814,8 +2801,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.066292,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.083629,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2841,8 +2828,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.963252,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 4.949382,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   }
  ]
 }
