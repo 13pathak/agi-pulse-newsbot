@@ -649,7 +649,14 @@
   "1ea0d7e1209fccc2": "2026-11-10T07:07:23.927899+00:00",
   "b3625594e57429fa": "2026-11-10T07:07:23.927899+00:00",
   "960a127182742bbe": "2026-11-10T07:37:22.183022+00:00",
-  "40881cc5fab2fef0": "2026-11-10T07:37:22.183022+00:00"
+  "40881cc5fab2fef0": "2026-11-10T07:37:22.183022+00:00",
+  "b10f39c9df57d8ed": "2026-11-10T08:07:23.259704+00:00",
+  "98d612ea405ae954": "2026-11-10T08:07:23.259704+00:00",
+  "e8740fc1333d6690": "2026-11-10T08:07:23.259704+00:00",
+  "c4ef8b3c987593f1": "2026-11-10T08:07:23.259704+00:00",
+  "1a34df45cdea98e8": "2026-11-10T08:07:23.259704+00:00",
+  "d260e603807999f8": "2026-11-10T08:07:23.259704+00:00",
+  "09d6344e94331f73": "2026-11-10T08:07:23.259704+00:00"
  },
  "covered": [
   {
@@ -859,11 +866,15 @@
   {
    "headline": "Moonshot AI accessed advanced Nvidia chips through rental arrangements",
    "ts": "2026-11-10T07:37:22.183022+00:00"
+  },
+  {
+   "headline": "SoftBank posts loss from US data center costs",
+   "ts": "2026-11-10T08:07:23.259704+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1987,46 +1998,6 @@
  },
  "pending": [
   {
-   "id": "d260e603807999f8",
-   "item": {
-    "id": "d260e603807999f8",
-    "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "SoftBank Group Corp. reported its first net loss in almost two years after swallowing a $3.7 billion writedown over a US data-center project amid rising fears around the sustainability of AI growth.",
-    "published": "2026-11-10T06:35:51+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "09d6344e94331f73",
-     "title": "软银调整美国AI数据中心发电设备采购计划，确认5972亿日元损失",
-     "url": "https://36kr.com/newsflashes/4063599356351622?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "软银集团公布的财报显示，受美国AI数据中心项目发电设备采购计划调整影响，公司在截至2026年9月30日的六个月内确认5972亿日元（约合37.3亿美元）损失。相关采购由软银集团及愿景基金二期投资的子公司Silver Bands 7 LLC负责，涉及美国俄亥俄州等地AI数据中心项目的电力供应设备。软银表示，随着现有及规划中项目的需求发生变化，Silver Bands 7 LLC调整了设备采购策略，并因此承担相应供应商义务。上述损失包括用于锁定设备制造产能及采购设备的不可退还预付款4570亿日元，以及合同修改和结算相关损失1402亿日元。（界面）",
-     "published": "2026-11-10T07:07:01+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "SoftBank posts loss from US data center costs",
-   "post": "SoftBank Group reported a 5972 billion yen loss, including 4570 billion yen in non-refundable prepayments, due to adjustments in US AI data center power equipment procurement plans in Ohio and other regions.",
-   "editor_note": "Verify the exact USD equivalent mentioned across Bloomberg ($3.7 billion) versus the yen figures in source filing details.",
-   "published_at": "2026-11-10T06:35:51+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T18:35:51+00:00",
-   "priority": 8.502738,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "93986fa4c49fef56",
    "item": {
     "id": "93986fa4c49fef56",
@@ -2049,34 +2020,8 @@
    "published_at": "2026-11-10T07:14:45+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:14:45+00:00",
-   "priority": 8.489528,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "5d72d36b6c1fd27b",
-   "item": {
-    "id": "5d72d36b6c1fd27b",
-    "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Marvell Technology Inc.’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc. is getting a lukewarm early verdict from investment experts who bet on deals.",
-    "published": "2026-11-09T19:49:59+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Marvell plans $115 billion acquisition of Lumentum",
-   "post": "Marvell Technology is pursuing a $115 billion acquisition of Lumentum Holdings to expand its artificial intelligence infrastructure business.",
-   "editor_note": "Confirm the exact financial terms and whether regulatory filings have been submitted.",
-   "published_at": "2026-11-09T19:49:59+00:00",
-   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
-   "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.485033,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 8.506899,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2101,7 +2046,33 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.181096,
+   "priority": 8.198467,
+   "selection_reason": "Editorial importance; waiting 6.0h"
+  },
+  {
+   "id": "5d72d36b6c1fd27b",
+   "item": {
+    "id": "5d72d36b6c1fd27b",
+    "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Marvell Technology Inc.’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc. is getting a lukewarm early verdict from investment experts who bet on deals.",
+    "published": "2026-11-09T19:49:59+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Marvell plans $115 billion acquisition of Lumentum",
+   "post": "Marvell Technology is pursuing a $115 billion acquisition of Lumentum Holdings to expand its artificial intelligence infrastructure business.",
+   "editor_note": "Confirm the exact financial terms and whether regulatory filings have been submitted.",
+   "published_at": "2026-11-09T19:49:59+00:00",
+   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
+   "expires_at": "2026-11-11T07:49:59+00:00",
+   "priority": 8.002404,
    "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
@@ -2127,8 +2098,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.600354,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.617725,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "30d10db5b5c89fdf",
@@ -2167,8 +2138,8 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.541974,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.559346,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2194,8 +2165,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.459289,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.476661,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2220,8 +2191,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.083792,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.101163,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2247,8 +2218,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.047947,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.065318,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2273,8 +2244,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.011374,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.028746,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2300,8 +2271,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.009961,
-   "selection_reason": "Editorial importance"
+   "priority": 7.027332,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2326,8 +2297,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.995638,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.01301,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2354,8 +2325,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.983122,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.009179,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2382,8 +2353,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.983122,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.009179,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2433,8 +2404,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.52784,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.545212,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2459,8 +2430,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.309034,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.295137,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2485,8 +2456,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.260816,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 6.246919,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2511,8 +2482,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.260562,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 6.246665,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2538,8 +2509,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.212748,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.230119,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2565,8 +2536,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.199461,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.216832,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2592,8 +2563,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.115223,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.132595,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2618,8 +2589,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.028918,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.046289,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2645,8 +2616,8 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 5.987823,
-   "selection_reason": "Editorial importance"
+   "priority": 6.005194,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2672,8 +2643,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.957007,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 5.974378,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -2700,8 +2671,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.701815,
-   "selection_reason": "Editorial importance"
+   "priority": 5.727872,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2728,8 +2699,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.420596,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 5.415384,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2754,8 +2725,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.382864,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 5.372441,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2780,8 +2751,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.321804,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 5.307907,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2807,8 +2778,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.267884,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 5.253987,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2833,8 +2804,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.260477,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.24658,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -2859,8 +2830,34 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.165454,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 5.151557,
+   "selection_reason": "Editorial importance; waiting 21.0h"
+  },
+  {
+   "id": "da421f12a83a062d",
+   "item": {
+    "id": "da421f12a83a062d",
+    "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+    "url": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/895962af-cce4-49b8-b534-40b8b9fddd8d_3e595b82.jpg?itok=8Q34aiST&v=1794265531",
+    "snippet": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm elections and the Jensen Huang affair. The US chip giant’s top-of-the-range GeForce RTX 5090 graphics card surged in price last month at Shenzhen’s Huaqiangbei market, but that was m…",
+    "published": "2026-11-10T04:00:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Nvidia GPU prices fall in Shenzhen market amid access confidence",
+   "post": "Prices for Nvidia graphics cards have fallen at Shenzhen's Huaqiangbei electronics market as local traders remain confident in GPU access despite US export control concerns.",
+   "editor_note": "Confirm specific GPU price changes in Huaqiangbei beyond the RTX 5090.",
+   "published_at": "2026-11-10T04:00:30+00:00",
+   "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
+   "expires_at": "2026-11-11T16:00:30+00:00",
+   "priority": 5.135743,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2899,34 +2896,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.127545,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "da421f12a83a062d",
-   "item": {
-    "id": "da421f12a83a062d",
-    "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
-    "url": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/895962af-cce4-49b8-b534-40b8b9fddd8d_3e595b82.jpg?itok=8Q34aiST&v=1794265531",
-    "snippet": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm elections and the Jensen Huang affair. The US chip giant’s top-of-the-range GeForce RTX 5090 graphics card surged in price last month at Shenzhen’s Huaqiangbei market, but that was m…",
-    "published": "2026-11-10T04:00:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Nvidia GPU prices fall in Shenzhen market amid access confidence",
-   "post": "Prices for Nvidia graphics cards have fallen at Shenzhen's Huaqiangbei electronics market as local traders remain confident in GPU access despite US export control concerns.",
-   "editor_note": "Confirm specific GPU price changes in Huaqiangbei beyond the RTX 5090.",
-   "published_at": "2026-11-10T04:00:30+00:00",
-   "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
-   "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.118371,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 5.113648,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2952,8 +2923,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.078996,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 5.065098,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -2978,8 +2949,8 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 4.982699,
-   "selection_reason": "Editorial importance"
+   "priority": 5.000071,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -3005,8 +2976,8 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 4.972244,
-   "selection_reason": "Editorial importance"
+   "priority": 4.989615,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -3032,8 +3003,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.921588,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 4.907691,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   }
  ]
 }
