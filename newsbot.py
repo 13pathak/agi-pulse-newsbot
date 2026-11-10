@@ -993,14 +993,19 @@ def remember_story(state: dict, pick: dict, now: datetime) -> None:
 
 
 def queue_details(state: dict, pick: dict, settings: dict, now: datetime) -> None:
-    """Note a delivered official-source story for a follow-up detail pack
-    (article_details.py). Inactive unless details_min_importance is configured."""
-    if pick["importance"] < settings.get("details_min_importance", 11):
+    """Note a delivered story for a follow-up from its full article (article_details.py):
+    a detail pack for important official-source stories, opinion takes for the rest.
+    Inactive unless details_min_importance or takes_for_all_stories is configured."""
+    official = next((i for i in story_items(pick) if i.get("category") == "primary" and i.get("url")), None)
+    if official and pick["importance"] >= settings.get("details_min_importance", 11):
+        item, kind = official, "pack"
+    elif settings.get("takes_for_all_stories") and (official or pick["item"]).get("url"):
+        item, kind = official or pick["item"], "takes"
+    else:
         return
-    item = next((i for i in story_items(pick) if i.get("category") == "primary" and i.get("url")), None)
-    if item:
-        state.setdefault("details_queue", []).append(
-            {"url": item["url"], "source": item["source"], "queued_at": now.isoformat()})
+    state.setdefault("details_queue", []).append(
+        {"url": item["url"], "source": item["source"], "kind": kind, "title": item.get("title", ""),
+         "summary": clean_text(item.get("snippet", ""), 1500), "queued_at": now.isoformat()})
 
 
 def story_priority(pick: dict, now: datetime, settings: dict) -> tuple[float, str]:

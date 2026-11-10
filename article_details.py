@@ -315,7 +315,7 @@ Return JSON only, in exactly this shape:
   "check": "the one claim most worth verifying before posting, and why, max 200 chars"
 }}
 
-DETAILS (5 or 6)
+DETAILS ({details_count})
 - The most interesting concrete things in the article, especially ones below the
   headline: prices, benchmark scores, limits, context sizes, dates, availability,
   comparisons with a previous version or a competitor, notable caveats.
@@ -324,7 +324,7 @@ DETAILS (5 or 6)
 - Use figures exactly as given. Do not calculate new ones (differences, ratios,
   percentage gains) from the article's numbers.
 
-POSTS (exactly 7, every one an opinion take; the best 5 are kept)
+POSTS (exactly {posts_count}, every one an opinion take; the best {keep} are kept)
 - Each is one person's honest reaction to ONE specific detail from the article:
   what it means, what it changes, what people will miss. Not a summary, and not
   a restatement of the detail. Name the detail so the take could not be posted
@@ -415,7 +415,7 @@ def unsupported_numbers(post: str, source_text: str) -> list[str]:
     return missing
 
 
-def validate(raw: dict, article: dict, images: list[dict]) -> dict:
+def validate(raw: dict, article: dict, images: list[dict], keep: int = 5, max_details: int = 6) -> dict:
     by_id = {image["id"]: image for image in images}
     kinds = {}
     for entry in raw.get("images") or []:
@@ -455,27 +455,51 @@ def validate(raw: dict, article: dict, images: list[dict]) -> dict:
     if not posts:
         raise DetailsError("Gemini produced no usable drafts for this article.")
     posts.sort(key=lambda post: bool(STIFF.search(post["text"])))  # natural-sounding drafts first (stable)
-    return {"details": details[:6], "posts": posts[:5], "dropped": dropped,
+    return {"details": details[:max_details], "posts": posts[:keep], "dropped": dropped,
             "check": nb.clean_text(str(raw.get("check") or ""), 220),
             "album": [{**by_id[i], "kind": kinds[i][0], "note": kinds[i][1]} for i in album]}
 
 
-def build_pack(url: str, api_key: str, settings: dict, source: str = "") -> dict:
-    article = fetch_article(url)
+def build_pack(url: str, api_key: str, settings: dict, source: str = "", light: bool = False,
+               summary: dict | None = None) -> dict:
+    """A full detail pack, or with `light` three opinion takes and no pictures.
+    A light pack falls back to `summary` ({"title", "text"}) when the page cannot be read."""
+    summary_only = False
+    try:
+        article = fetch_article(url)
+    except DetailsError:
+        if not (light and summary and len(summary["text"]) >= 80):
+            raise
+        article = {"url": url, "title": summary["title"], "desc": "", "preview": "",
+                   "text": summary["text"], "images": []}
+        summary_only = True
     source = source or urllib.parse.urlsplit(article["url"]).netloc.removeprefix("www.")
-    images = download_images(article["images"])
+    images = [] if light else download_images(article["images"])
+    keep = 3 if light else 5
     prompt = PROMPT.format(source=source, title=article["title"] or "unknown", text=article["text"],
-                           voice=(settings.get("takes_voice") or DEFAULT_VOICE).strip())
-    pack = validate(call_gemini(prompt, images, api_key, gemini_models(settings)), article, images)
-    pack.update(url=article["url"], title=article["title"], source=source, preview=article["preview"])
+                           voice=(settings.get("takes_voice") or DEFAULT_VOICE).strip(),
+                           details_count="3" if light else "5 or 6", posts_count=keep + 2, keep=keep)
+    pack = validate(call_gemini(prompt, images, api_key, gemini_models(settings)), article, images,
+                    keep=keep, max_details=0 if summary_only else 3 if light else 6)
+    pack.update(url=article["url"], title=article["title"], source=source, preview=article["preview"],
+                light=light, summary_only=summary_only)
     return pack
+
+
+def build_for_entry(entry: dict, api_key: str, settings: dict, light: bool) -> dict:
+    summary = {"title": entry.get("title", ""),
+               "text": " ".join(filter(None, [entry.get("title"), entry.get("summary")]))}
+    return build_pack(entry["url"], api_key, settings, entry.get("source", ""), light, summary)
 
 
 # ───────────────────────── Telegram ─────────────────────────
 
 def render(pack: dict) -> tuple[str, list[list[dict]]]:
     esc = html.escape
-    head = [f"🔎 <b>Detail pack</b> · {esc(pack['source'])}", f"<i>{esc(pack['title'] or pack['url'])}</i>"]
+    label = "💭 <b>Takes</b>" if pack.get("light") else "🔎 <b>Detail pack</b>"
+    head = [f"{label} · {esc(pack['source'])}", f"<i>{esc(pack['title'] or pack['url'])}</i>"]
+    if pack.get("summary_only"):
+        head.append("⚠️ Written from the summary only: the full article could not be read.")
     drafts = ["", "<b>Drafts — review before posting</b>"]
     for n, post in enumerate(pack["posts"], 1):
         notes = [f"{nb.x_len(post['text'])}/280"]
@@ -536,7 +560,8 @@ def send_album(token: str, chat_id: str, pack: dict) -> None:
 
 
 def send_pack(token: str, chat_id: str, pack: dict) -> None:
-    send_album(token, chat_id, pack)
+    if not pack.get("light"):
+        send_album(token, chat_id, pack)
     text, keyboard = render(pack)
     nb.send_telegram(token, chat_id, text, keyboard)
 
@@ -544,8 +569,9 @@ def send_pack(token: str, chat_id: str, pack: dict) -> None:
 # ───────────────────────── follow-ups for delivered official stories ─────────────────────────
 
 def process_queue(state: dict, settings: dict, now: datetime, token: str, chat_id: str, api_key: str,
-                  builder=build_pack, sender=send_pack) -> int:
-    """Send packs for queued official stories. Returns how many were sent."""
+                  builder=build_for_entry, sender=send_pack) -> int:
+    """Send follow-ups for delivered stories: detail packs for official ones, takes
+    for the rest. Returns how many were sent."""
     queue = state.setdefault("details_queue", [])
     done = state.setdefault("details_done", {})
     for url, stamp in list(done.items()):
@@ -554,20 +580,24 @@ def process_queue(state: dict, settings: dict, now: datetime, token: str, chat_i
     today = now.astimezone(nb.IST).date().isoformat()
     daily = state.setdefault("details_daily", {"date": today, "count": 0})
     if daily.get("date") != today:
-        daily.update(date=today, count=0)
+        daily.update(date=today, count=0, takes=0)
     if nb.in_quiet_hours(now.astimezone(nb.IST), settings.get("quiet_hours_ist")):
         return 0
-    limit = settings.get("details_max_per_day", 3)
+    pack_limit = settings.get("details_max_per_day", 3)
+    takes_limit = settings.get("takes_max_per_day", 30)
+    daily.setdefault("takes", 0)
     sent = 0
     for entry in list(queue):
         key = nb.normalize_url(entry["url"])
         if key in done or datetime.fromisoformat(entry["queued_at"]) < now - timedelta(hours=QUEUE_TTL_HOURS):
             queue.remove(entry)
             continue
-        if daily["count"] >= limit or sent >= PACKS_PER_RUN:
+        # Past the daily pack limit, an official story still gets the lighter takes.
+        light = entry.get("kind") == "takes" or daily["count"] >= pack_limit
+        if sent >= PACKS_PER_RUN or (light and daily["takes"] >= takes_limit):
             break
         try:
-            pack = builder(entry["url"], api_key, settings, entry.get("source", ""))
+            pack = builder(entry, api_key, settings, light)
             sender(token, chat_id, pack)
         except DetailsError as e:
             log.warning("no detail pack for %s: %s", entry["url"], e)
@@ -581,7 +611,7 @@ def process_queue(state: dict, settings: dict, now: datetime, token: str, chat_i
             break                 # the service is struggling; try again next run
         queue.remove(entry)
         done[key] = now.isoformat()
-        daily["count"] += 1
+        daily["takes" if light else "count"] += 1
         sent += 1
         log.info("detail pack sent: %s", entry["url"])
     return sent

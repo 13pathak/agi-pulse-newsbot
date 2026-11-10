@@ -141,6 +141,17 @@ def test_newsbot_queues_only_important_official_stories():
     official = {"id": "b", "url": "https://lab.test/official", "source": "Lab", "category": "primary"}
     nb.queue_details(state, pick(category="news", related=[official]), SETTINGS, NOW)
     assert [e["url"] for e in state["details_queue"]] == ["https://lab.test/news/x", "https://lab.test/official"]
+    assert {e["kind"] for e in state["details_queue"]} == {"pack"}
+
+    state, everything = {}, {**SETTINGS, "takes_for_all_stories": True}
+    story = pick(importance=7, category="news")
+    story["item"].update(title="Chip maker posts loss", snippet="A long summary. " * 200)
+    nb.queue_details(state, story, everything, NOW)
+    nb.queue_details(state, pick(importance=6), everything, NOW)   # official but below the pack threshold
+    nb.queue_details(state, pick(importance=9), everything, NOW)
+    assert [e["kind"] for e in state["details_queue"]] == ["takes", "takes", "pack"]
+    assert state["details_queue"][0]["title"] == "Chip maker posts loss"
+    assert len(state["details_queue"][0]["summary"]) <= 1501
 
 
 def entry(url, hours_ago=0):
@@ -152,21 +163,56 @@ def test_process_queue_sends_once_and_respects_limits():
     state = {"details_queue": [entry("https://a.test/1"), entry("https://a.test/old", 13),
                                entry("https://a.test/2"), entry("https://a.test/3")],
              "details_done": {"stale": (NOW - timedelta(days=20)).isoformat()}}
-    build = lambda url, key, settings, source: {"url": url}
-    count = ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, lambda t, c, p: sent.append(p["url"]))
-    assert count == 2 and sent == ["https://a.test/1", "https://a.test/2"]
-    assert [e["url"] for e in state["details_queue"]] == ["https://a.test/3"]   # daily limit of 2 reached
+    build = lambda item, key, settings, light: {"url": item["url"], "light": light}
+    send = lambda t, c, p: sent.append((p["url"], p["light"]))
+    count = ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, send)
+    assert count == 2 and sent == [("https://a.test/1", False), ("https://a.test/2", False)]
+    assert [e["url"] for e in state["details_queue"]] == ["https://a.test/3"]   # two per run
     assert "stale" not in state["details_done"] and state["details_daily"]["count"] == 2
     state["details_queue"].append(entry("https://a.test/1"))                  # already done: dropped silently
-    state["details_daily"]["count"] = 0
-    assert ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, lambda t, c, p: sent.append(p["url"])) == 1
-    assert sent[-1] == "https://a.test/3" and state["details_queue"] == []
+    assert ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, send) == 1
+    assert sent[-1] == ("https://a.test/3", True)          # pack limit of 2 reached: lighter takes instead
+    assert state["details_queue"] == [] and state["details_daily"] == {
+        "date": "2026-11-10", "count": 2, "takes": 1}
+
+
+def test_takes_entries_are_light_and_capped():
+    sent = []
+    state = {"details_queue": [{**entry(f"https://a.test/{n}"), "kind": "takes"} for n in range(3)]}
+    settings = {**SETTINGS, "takes_max_per_day": 1}
+    build = lambda item, key, s, light: {"url": item["url"], "light": light}
+    assert ad.process_queue(state, settings, NOW, "t", "c", "k", build, lambda t, c, p: sent.append(p)) == 1
+    assert sent == [{"url": "https://a.test/0", "light": True}] and len(state["details_queue"]) == 2
+    assert state["details_daily"]["takes"] == 1 and state["details_daily"]["count"] == 0
+
+
+def test_light_pack_uses_summary_when_article_is_unreadable(monkeypatch):
+    seen = {}
+
+    def unreadable(url):
+        raise ad.DetailsError("paywall")
+
+    monkeypatch.setattr(ad, "fetch_article", unreadable)
+    monkeypatch.setattr(ad, "download_images", lambda c: pytest.fail("takes send no pictures"))
+    monkeypatch.setattr(ad, "call_gemini", lambda prompt, imgs, key, models: seen.update(prompt=prompt) or raw())
+    item = {"url": "https://paywall.test/a", "source": "Paper", "title": "Model 5.2 launch",
+            "summary": "It costs $8 per million tokens, is 30% faster and scores 69.9% on Coding v2, the firm says."}
+    result = ad.build_for_entry(item, "k", {}, True)
+    assert result["summary_only"] and result["light"] and result["details"] == [] and len(result["posts"]) <= 3
+    assert "exactly 5, every one an opinion take; the best 3 are kept" in seen["prompt"]
+    text, _ = ad.render(result)
+    assert text.startswith("💭 <b>Takes</b> · Paper") and "Written from the summary only" in text
+    with pytest.raises(ad.DetailsError):                   # a full pack never falls back to a summary
+        ad.build_for_entry(item, "k", {}, False)
+    with pytest.raises(ad.DetailsError):                   # nor do takes when there is no real summary
+        ad.build_for_entry({**item, "summary": "", "title": "Short"}, "k", {}, True)
 
 
 def test_process_queue_failures_and_quiet_hours():
     state = {"details_queue": [entry("https://a.test/unreadable"), entry("https://a.test/busy")]}
 
-    def build(url, key, settings, source):
+    def build(item, key, settings, light):
+        url = item["url"]
         if "unreadable" in url:
             raise ad.DetailsError("no text")
         raise nb.GeminiUnavailable("busy")

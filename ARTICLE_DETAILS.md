@@ -22,6 +22,20 @@ Telegram and attach it to the post yourself. The pictures belong to the
 publisher: credit them (for example "Chart: Anthropic") and reuse them at your
 own judgement.
 
+## Takes for every other story
+
+With `takes_for_all_stories: true`, each news draft that does not get a full pack is
+followed by a shorter **💭 Takes** message: three opinion takes written from the full
+article, up to three details, no pictures. The news draft itself stays a straight
+summary, so you can see what happened and then choose a take to post.
+
+- Official stories below the pack threshold, or past the daily pack limit, get
+  takes instead of a pack.
+- If the article cannot be read (paywall, login, browser-only page), the takes are
+  written from the feed's summary and the message says so. Treat those as thinner.
+- At most `takes_max_per_day` (30) per IST day. Each one is one extra Gemini request.
+- Set `takes_for_all_stories: false` to turn this off and keep only the packs.
+
 ## The writing voice
 
 Drafts are asked to sound like a person typing a thought on their phone: plain

@@ -17,6 +17,7 @@ reviews YouTube demonstrations across creative projects, everyday/no-code work a
 AI application building. It has its own queue, daily limits and Telegram feedback;
 automatic recommendations are disabled until API setup and preview checks pass.
 
+- **Opinion takes for every story:** each delivered news draft is followed by three takes written from the full article, in a conversational voice ([details](ARTICLE_DETAILS.md)). The news draft itself stays straight news.
 - **Detail packs:** official announcements scoring 7/10 or higher are followed by a [detail pack](ARTICLE_DETAILS.md): facts and figures from the full article, five drafts and the article's own charts. Any link can be turned into a pack from the Actions tab.
 - **Broad coverage:** 58 enabled sources, including direct lab announcements, independent evaluations, official policy, global, Indian and Chinese reporting, research papers and open-model releases.
 - **Chinese sources, English drafts:** Gemini translates supplied Chinese headlines and excerpts in the existing ranking call. Telegram receives an English story headline, post and editor note, with the original article link retained. Chinese source text stays in the queue for reference; untranslated drafts are held back.
@@ -159,6 +160,8 @@ All settings live in [`config.yaml`](config.yaml).
 | `min_importance` | `7` | Minimum Gemini score (1–10) for a story to be drafted. |
 | `details_min_importance` | `7` | Official-source stories at or above this also get a [detail pack](ARTICLE_DETAILS.md). Remove to turn off. |
 | `details_max_per_day` | `6` | Automatic detail packs per IST day. |
+| `takes_for_all_stories` | `true` | Follow every other delivered draft with three opinion takes from its full article. |
+| `takes_max_per_day` | `30` | Daily cap on those takes messages. |
 | `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
 | `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |
