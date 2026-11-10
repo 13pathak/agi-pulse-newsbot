@@ -2168,8 +2168,8 @@
    "published_at": "2026-11-10T13:00:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T13:00:00+00:00",
-   "priority": 8.539118,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.559943,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2195,8 +2195,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.533303,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.550657,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "35f00681774962fa",
@@ -2221,8 +2221,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.526736,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.544091,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "3e64000748503007",
@@ -2247,8 +2247,8 @@
    "published_at": "2026-11-10T13:37:16+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T01:37:16+00:00",
-   "priority": 8.517321,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.534676,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2273,8 +2273,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.826069,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 7.843423,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2300,8 +2300,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.685004,
-   "selection_reason": "Time-sensitive story; waiting 7.0h"
+   "priority": 7.702359,
+   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2326,8 +2326,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.497584,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.514938,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2354,8 +2354,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.321694,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.347675,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2382,8 +2382,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.321694,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.347675,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2408,8 +2408,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.309507,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.326861,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2435,8 +2435,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.273662,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.291016,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2462,60 +2462,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.235676,
-   "selection_reason": "Editorial importance; waiting 7.0h"
-  },
-  {
-   "id": "cb7863665107d049",
-   "item": {
-    "id": "cb7863665107d049",
-    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
-    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
-    "published": "2026-11-09T17:58:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
-   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
-   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
-   "published_at": "2026-11-09T17:58:05+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.190129,
-   "selection_reason": "Editorial importance; waiting 12.5h"
-  },
-  {
-   "id": "1f917ef42e116f1b",
-   "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.17455,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.25303,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2540,8 +2488,60 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.173254,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.190608,
+   "selection_reason": "Editorial importance; waiting 6.0h"
+  },
+  {
+   "id": "cb7863665107d049",
+   "item": {
+    "id": "cb7863665107d049",
+    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
+    "published": "2026-11-09T17:58:05+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
+   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
+   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
+   "published_at": "2026-11-09T17:58:05+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:58:05+00:00",
+   "priority": 7.176245,
+   "selection_reason": "Editorial importance; waiting 13.0h"
+  },
+  {
+   "id": "1f917ef42e116f1b",
+   "item": {
+    "id": "1f917ef42e116f1b",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
+    "published": "2026-11-09T17:24:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
+   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
+   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T05:24:26+00:00",
+   "priority": 7.160667,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2567,8 +2567,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.05948,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.076835,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2593,8 +2593,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.050348,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.071173,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2619,8 +2619,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.022057,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.039412,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2645,8 +2645,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 6.997759,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.015114,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2673,8 +2673,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.946611,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.972642,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2700,35 +2700,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.375924,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
-   "id": "90a39c5880d64c81",
-   "item": {
-    "id": "90a39c5880d64c81",
-    "title": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
-    "url": "https://36kr.com/newsflashes/4063168669700997?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次合作依托英伟达NVLink Fusion项目开展。NVLink Fusion项目支持超大规模云厂商与定制芯片设计方，将自研AI处理器直接接入英伟达机架级基础设施。（新浪财经）",
-    "published": "2026-11-10T00:10:42+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "SK Telecom, Rebellions, and Nvidia build hybrid AI system",
-   "post": "SK Telecom, South Korean chip startup Rebellions, and Nvidia signed an agreement to connect Nvidia GPUs with Rebellions NPUs using Nvidia's NVLink Fusion platform for SK Telecom's AI data centers.",
-   "editor_note": "Verify timeline for deployment in SK Telecom data centers.",
-   "published_at": "2026-11-10T00:10:42+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.362637,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 6.36204,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2754,34 +2727,35 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.340938,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 6.358292,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
-   "id": "4a7141713ab5f922",
+   "id": "90a39c5880d64c81",
    "item": {
-    "id": "4a7141713ab5f922",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "source": "The Verge",
+    "id": "90a39c5880d64c81",
+    "title": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
+    "url": "https://36kr.com/newsflashes/4063168669700997?f=rss",
+    "source": "36Kr",
     "image": "",
-    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
-    "published": "2026-11-09T19:09:58+00:00",
-    "images": true,
+    "snippet": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次合作依托英伟达NVLink Fusion项目开展。NVLink Fusion项目支持超大规模云厂商与定制芯片设计方，将自研AI处理器直接接入英伟达机架级基础设施。（新浪财经）",
+    "published": "2026-11-10T00:10:42+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 6,
    "urgency": "routine",
-   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
-   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
-   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
-   "published_at": "2026-11-09T19:09:58+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.223408,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "headline": "SK Telecom, Rebellions, and Nvidia build hybrid AI system",
+   "post": "SK Telecom, South Korean chip startup Rebellions, and Nvidia signed an agreement to connect Nvidia GPUs with Rebellions NPUs using Nvidia's NVLink Fusion platform for SK Telecom's AI data centers.",
+   "editor_note": "Verify timeline for deployment in SK Telecom data centers.",
+   "published_at": "2026-11-10T00:10:42+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T12:10:42+00:00",
+   "priority": 6.348753,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2807,8 +2781,34 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.213538,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.230892,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "4a7141713ab5f922",
+   "item": {
+    "id": "4a7141713ab5f922",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+    "published": "2026-11-09T19:09:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
+   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
+   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
+   "published_at": "2026-11-09T19:09:58+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T07:09:58+00:00",
+   "priority": 6.209525,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2834,8 +2834,8 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.144546,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.161901,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2860,8 +2860,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.128462,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 6.114579,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2887,60 +2887,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.120183,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
-   "id": "d67288d027c7e193",
-   "item": {
-    "id": "d67288d027c7e193",
-    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
-    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
-    "published": "2026-11-09T14:00:44+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
-   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
-   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
-   "published_at": "2026-11-09T14:00:44+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.080245,
-   "selection_reason": "Editorial importance; waiting 24.0h"
-  },
-  {
-   "id": "eea9b1843c8a5753",
-   "item": {
-    "id": "eea9b1843c8a5753",
-    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
-    "published": "2026-11-09T14:00:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "US parents and teachers criticize Google school AI policy",
-   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
-   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
-   "published_at": "2026-11-09T14:00:11+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.07999,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.106299,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "d4ea8e3fa73ac74d",
@@ -2965,8 +2913,8 @@
    "published_at": "2026-11-10T12:30:58+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T00:30:58+00:00",
-   "priority": 6.049082,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.066436,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -2993,8 +2941,86 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.040388,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.066419,
+   "selection_reason": "Editorial importance; waiting 7.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 6.066361,
+   "selection_reason": "Editorial importance; waiting 24.5h"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 6.066106,
+   "selection_reason": "Editorial importance; waiting 24.5h"
+  },
+  {
+   "id": "da421f12a83a062d",
+   "item": {
+    "id": "da421f12a83a062d",
+    "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+    "url": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/895962af-cce4-49b8-b534-40b8b9fddd8d_3e595b82.jpg?itok=8Q34aiST&v=1794265531",
+    "snippet": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm elections and the Jensen Huang affair. The US chip giant’s top-of-the-range GeForce RTX 5090 graphics card surged in price last month at Shenzhen’s Huaqiangbei market, but that was m…",
+    "published": "2026-11-10T04:00:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Nvidia GPU prices fall in Shenzhen market amid access confidence",
+   "post": "Prices for Nvidia graphics cards have fallen at Shenzhen's Huaqiangbei electronics market as local traders remain confident in GPU access despite US export control concerns.",
+   "editor_note": "Confirm specific GPU price changes in Huaqiangbei beyond the RTX 5090.",
+   "published_at": "2026-11-10T04:00:30+00:00",
+   "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
+   "expires_at": "2026-11-11T16:00:30+00:00",
+   "priority": 5.361441,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -3021,34 +3047,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.352881,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "da421f12a83a062d",
-   "item": {
-    "id": "da421f12a83a062d",
-    "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
-    "url": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/895962af-cce4-49b8-b534-40b8b9fddd8d_3e595b82.jpg?itok=8Q34aiST&v=1794265531",
-    "snippet": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm elections and the Jensen Huang affair. The US chip giant’s top-of-the-range GeForce RTX 5090 graphics card surged in price last month at Shenzhen’s Huaqiangbei market, but that was m…",
-    "published": "2026-11-10T04:00:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Nvidia GPU prices fall in Shenzhen market amid access confidence",
-   "post": "Prices for Nvidia graphics cards have fallen at Shenzhen's Huaqiangbei electronics market as local traders remain confident in GPU access despite US export control concerns.",
-   "editor_note": "Confirm specific GPU price changes in Huaqiangbei beyond the RTX 5090.",
-   "published_at": "2026-11-10T04:00:30+00:00",
-   "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
-   "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.344086,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 5.347675,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -3073,8 +3073,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.247435,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 5.237022,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -3099,8 +3099,8 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 5.208414,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 5.225768,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -3126,8 +3126,8 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 5.197959,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 5.215313,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -3152,8 +3152,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.141232,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 5.127349,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   }
  ]
 }
