@@ -225,3 +225,24 @@ def test_calculated_figures_in_details_are_flagged():
     text, _ = ad.render(result)
     assert "figure not found in the article text" in text and "📌" not in text
     assert "every one an opinion take" in ad.PROMPT and '"kind": "fact"' not in ad.PROMPT
+
+
+def test_stiff_drafts_go_last_and_only_five_are_kept():
+    data = raw()
+    data["posts"] = [{"text": "This signals a new era for enterprise AI."},
+                     {"text": "Embedding apps highlights the shift."}] + [
+                     {"text": f"Honestly not sure take {n} holds up."} for n in "abcde"]
+    posts = ad.validate(data, article(), images())["posts"]
+    assert len(posts) == 5 and not any(ad.STIFF.search(p["text"]) for p in posts)
+    assert posts[0]["text"] == "Honestly not sure take a holds up."
+
+
+def test_voice_can_be_set_in_config(monkeypatch):
+    seen = {}
+    monkeypatch.setattr(ad, "fetch_article", lambda url: {**article(), "images": []})
+    monkeypatch.setattr(ad, "download_images", lambda candidates: [])
+    monkeypatch.setattr(ad, "call_gemini", lambda prompt, imgs, key, models: seen.update(prompt=prompt) or raw())
+    ad.build_pack("https://x.test/a", "k", {"takes_voice": "Write like a pirate."})
+    assert "Write like a pirate." in seen["prompt"] and "types a thought on their phone" not in seen["prompt"]
+    ad.build_pack("https://x.test/a", "k", {})
+    assert "types a thought on their phone" in seen["prompt"]

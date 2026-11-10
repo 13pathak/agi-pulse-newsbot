@@ -47,6 +47,37 @@ IMAGE_TYPES = {"image/jpeg": "jpg", "image/png": "png", "image/webp": "webp"}
 USEFUL_KINDS = ("chart", "table", "diagram", "screenshot", "photo")
 
 
+# How the drafts should sound. Override with `takes_voice` in config.yaml.
+DEFAULT_VOICE = """Write the way a sharp person who works with AI types a thought on their phone right
+after reading something, not the way a press release or a LinkedIn post reads.
+- Plain, spoken English. Contractions. Short sentences; a fragment is fine.
+- One thought per post. Say it, then stop. No tidy wrap-up sentence.
+- Sound like you have a stake: mild surprise, doubt, a hunch, a dry aside
+  ("honestly", "kind of wild that", "not sure this holds up", "nobody's talking
+  about"). It is fine to be unsure or to disagree with the hype.
+- Be concrete: the actual number, part, product or limit, not "enterprise AI".
+- Vary the shapes. Do not start with an -ing verb ("Slashing ...", "Embedding ...")
+  and do not use the pattern "X signals/shows/highlights Y. Z will redefine W."
+- Never use these words: signals, highlights, underscores, showcases, redefine,
+  reshape, landscape, paradigm, game-changer, pivotal, seamless, leverage, unlock,
+  ecosystem, orchestrator, rapidly, robust, transformative, revolutionize,
+  "the end of", "the future of", "a new era".
+Examples of the voice only (different topic; never reuse their content):
+- "I think building local AI rigs with dual 5090s hits the memory wall way too
+  fast. Concurrent models need raw VRAM density, not just compute speed."
+- "A common problem with multi-GPU rigs. They need a Xeon W9-3495X setup to even
+  pull 112 PCIe Gen 5 lanes across seven slots."
+- "10 hours down to 30 minutes sounds great until you ask who checks the
+  forecast. Bet the review step is where the time goes now."
+- "9,000 connectors is a big number. How many of them actually get used?"
+"""
+
+# Stock phrases that make a draft read as machine-written; such drafts are kept last.
+STIFF = re.compile(r"\b(?:signals?|highlights?|underscores?|showcases?|redefin\w+|reshap\w+|landscape|paradigm"
+                   r"|game-changer|pivotal|seamless\w*|leverag\w+|unlock\w*|ecosystem|orchestrat\w+|rapidly"
+                   r"|robust|transformative|revolutioni[sz]\w+|the end of|the future of|a new era)\b", re.I)
+
+
 class DetailsError(Exception):
     """The article could not be turned into a pack; the message is safe to show."""
 
@@ -293,22 +324,21 @@ DETAILS (5 or 6)
 - Use figures exactly as given. Do not calculate new ones (differences, ratios,
   percentage gains) from the article's numbers.
 
-POSTS (exactly 5, every one an opinion take)
-- Each is a sharp point of view on what one specific detail from the article
-  means: why it matters, what it changes, what it signals about where AI is
-  going, or what most people will miss. Not a restatement of the detail.
-- Do NOT write plain fact posts such as "Anthropic says the model costs $8 ..."
-  or "X scored 49.1% on Y". A draft that only reports a figure is wrong.
-- Anchor each take in a different concrete detail, and name it (the capability,
-  the price change, the experiment), so the opinion is clearly about this
-  article and could not be posted about any other launch.
-- At most 260 characters, plain text, one or two sentences. Vary the openings:
-  "I think ...", "The real story is ...", "What stands out ...", or a direct
-  claim with no lead-in. Confident, specific, no hedging filler.
+POSTS (exactly 7, every one an opinion take; the best 5 are kept)
+- Each is one person's honest reaction to ONE specific detail from the article:
+  what it means, what it changes, what people will miss. Not a summary, and not
+  a restatement of the detail. Name the detail so the take could not be posted
+  about any other launch.
+- Never write a plain fact post ("Anthropic says the model costs $8 ...").
 - Opinion only: never invent personal experience ("I tested", "I built") and
   never present a vendor's claim as independently proven.
 - No hashtags, emojis, links, @mentions or engagement bait. Do not say "the
   article" or "the post"; each draft must stand alone.
+- At most 250 characters. Make at least two of them short (under 140).
+
+VOICE (this matters most)
+{voice}
+
 - Set "image" to the id of the picture that best supports the post, or null.
 - Set "from_chart" to true if any number in the post was read from a picture
   rather than the text.
@@ -339,7 +369,7 @@ def call_gemini(prompt: str, images: list[dict], api_key: str, models: list[str]
         parts += [{"text": label},
                   {"inlineData": {"mimeType": image["mime"], "data": base64.b64encode(image["data"]).decode()}}]
     body = {"contents": [{"role": "user", "parts": parts}],
-            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.6}}
+            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}}
     problems = []
     for i, model in enumerate(models):
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -424,7 +454,8 @@ def validate(raw: dict, article: dict, images: list[dict]) -> dict:
                       "picture": number.get(image_id), "verify_chart": from_chart and image_id in visual})
     if not posts:
         raise DetailsError("Gemini produced no usable drafts for this article.")
-    return {"details": details[:6], "posts": posts[:6], "dropped": dropped,
+    posts.sort(key=lambda post: bool(STIFF.search(post["text"])))  # natural-sounding drafts first (stable)
+    return {"details": details[:6], "posts": posts[:5], "dropped": dropped,
             "check": nb.clean_text(str(raw.get("check") or ""), 220),
             "album": [{**by_id[i], "kind": kinds[i][0], "note": kinds[i][1]} for i in album]}
 
@@ -433,7 +464,8 @@ def build_pack(url: str, api_key: str, settings: dict, source: str = "") -> dict
     article = fetch_article(url)
     source = source or urllib.parse.urlsplit(article["url"]).netloc.removeprefix("www.")
     images = download_images(article["images"])
-    prompt = PROMPT.format(source=source, title=article["title"] or "unknown", text=article["text"])
+    prompt = PROMPT.format(source=source, title=article["title"] or "unknown", text=article["text"],
+                           voice=(settings.get("takes_voice") or DEFAULT_VOICE).strip())
     pack = validate(call_gemini(prompt, images, api_key, gemini_models(settings)), article, images)
     pack.update(url=article["url"], title=article["title"], source=source, preview=article["preview"])
     return pack

@@ -22,6 +22,15 @@ Telegram and attach it to the post yourself. The pictures belong to the
 publisher: credit them (for example "Chart: Anthropic") and reuse them at your
 own judgement.
 
+## The writing voice
+
+Drafts are asked to sound like a person typing a thought on their phone: plain
+spoken English, one idea, no press-release wording. Gemini writes seven takes;
+the five most natural are kept, and any that use stock phrases ("signals",
+"redefine", "the end of" and similar) are ranked last. To change the voice, set
+`takes_voice` in `config.yaml`; the built-in wording is `DEFAULT_VOICE` in
+`article_details.py`.
+
 ## When a pack is made
 
 **Automatically.** When the news bot delivers a draft that includes an official
