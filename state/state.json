@@ -711,17 +711,30 @@
   "608a45fff3eeb838": "2026-11-10T11:37:22.099252+00:00",
   "1c08c141aa01274e": "2026-11-10T12:07:21.641045+00:00",
   "6f038b9fd72d69e8": "2026-11-10T12:07:21.641045+00:00",
-  "1afd9e573768b3f1": "2026-11-10T12:07:21.641045+00:00"
+  "1afd9e573768b3f1": "2026-11-10T12:07:21.641045+00:00",
+  "7639d6d71e8a2958": "2026-11-10T12:37:25.483982+00:00",
+  "46ecb159c1535b09": "2026-11-10T12:37:25.483982+00:00",
+  "320f21650d877f1a": "2026-11-10T12:37:25.483982+00:00",
+  "0cfe6d0face922da": "2026-11-10T12:37:25.483982+00:00",
+  "9202f7bd2594eea9": "2026-11-10T12:37:25.483982+00:00",
+  "82fda640970b5538": "2026-11-10T12:37:25.483982+00:00",
+  "00391c6af4e0cd8f": "2026-11-10T12:37:25.483982+00:00",
+  "fc17e32685e90d5e": "2026-11-10T12:37:25.483982+00:00",
+  "56bf0301b656b618": "2026-11-10T12:37:25.483982+00:00",
+  "97defec9b921b88b": "2026-11-10T12:37:25.483982+00:00",
+  "4d0571f085d4db84": "2026-11-10T12:37:25.483982+00:00",
+  "18691c8b2233dd12": "2026-11-10T12:37:25.483982+00:00",
+  "8ef7190c4507d2f2": "2026-11-10T12:37:25.483982+00:00",
+  "75272258a8aaf9db": "2026-11-10T12:37:25.483982+00:00",
+  "1be315a64e872a3e": "2026-11-10T12:37:25.483982+00:00",
+  "228d0208bc891b62": "2026-11-10T12:37:25.483982+00:00",
+  "029bed06dbefb1c9": "2026-11-10T12:37:25.483982+00:00",
+  "30e79c4547309e92": "2026-11-10T12:37:25.483982+00:00",
+  "e176f6978d8c469f": "2026-11-10T12:37:25.483982+00:00",
+  "54890285b98f04cf": "2026-11-10T12:37:25.483982+00:00",
+  "3f139cc385d98e43": "2026-11-10T12:37:25.483982+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic agrees to $3.4 billion power generation deal",
-   "ts": "2026-11-08T12:07:23.980101+00:00"
-  },
-  {
-   "headline": "South Korea launches $276 million national supercomputer Hangang",
-   "ts": "2026-11-08T12:37:19.747839+00:00"
-  },
   {
    "headline": "Chinese buyers approved for Nvidia chips have empty offices",
    "ts": "2026-11-08T13:07:24.582182+00:00"
@@ -925,11 +938,15 @@
   {
    "headline": "Nvidia Board Investigates CEO Jensen Huang Amid Affair Claims",
    "ts": "2026-11-10T11:37:22.099252+00:00"
+  },
+  {
+   "headline": "Anthropic sets IPO price range and targets trillion-dollar valuation",
+   "ts": "2026-11-10T12:37:25.483982+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2073,6 +2090,12 @@
    "desc": "AlphaProof Code agents wrote over three million lines of machine-checked proof in Lean to verify the core cryptographic protections in Signal down to machine instructions.",
    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
    "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+   "title": "Helping caregivers use AI in everyday life",
+   "desc": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5hU7ON7hfir24W1E1vtQLV/8eb49679510e09c2d19d0ad918229de4/helping-caregivers-use-ai-in-everyday-life-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-09-16T16:00:00+00:00"
   }
  },
  "pending": [
@@ -2112,8 +2135,61 @@
    "published_at": "2026-11-10T10:34:49+00:00",
    "first_seen_at": "2026-11-10T11:07:22.430225+00:00",
    "expires_at": "2026-11-11T22:34:49+00:00",
-   "priority": 8.519642,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.53704,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "c06c1375a8dda558",
+   "item": {
+    "id": "c06c1375a8dda558",
+    "title": "台积电：董事会核准以不超5亿美元认购OpenAI特别股股份",
+    "url": "https://36kr.com/newsflashes/4063884296230020?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "台积电11月10日公告，董事会核准以不超过5亿美元的额度认购OpenAI特别股股份。（界面）",
+    "published": "2026-11-10T11:56:53+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "TSMC board approves investment in OpenAI special shares",
+   "post": "TSMC's board of directors approved a subscription of up to $500 million in OpenAI special shares, according to a company announcement.",
+   "editor_note": "Verify the exact equity share class and whether the subscription is part of a broader funding round.",
+   "published_at": "2026-11-10T11:56:53+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-11T23:56:53+00:00",
+   "priority": 8.481231,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "35f00681774962fa",
+   "item": {
+    "id": "35f00681774962fa",
+    "title": "Froncort.AI Gets $2.3M From Google.org to Expand AI-Based Disease Screening in India",
+    "url": "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769242744984-1219b0f2-96c1-403c-8d62-91884baa120c-fgnktx.webp",
+    "snippet": "Froncort.AI, a Pune-based healthcare AI company, has received $2.3 million in funding from Google.org to expand its AI-based disease screening platform in India. The company said that it will also receive $200,000 in Google Cloud credits and pro bono technical expertise from Google. “The world does not lack experts. It lacks their reach. AI-NETRA puts that expertise in the health worker's hands at…",
+    "published": "2026-11-10T11:42:42+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Froncort receives Google.org funding for Indian screening",
+   "post": "Pune-based Froncort.AI received $2.3 million from Google.org alongside $200,000 in Google Cloud credits to expand its AI-based disease screening platform across India.",
+   "editor_note": "Confirm the operational rollout timeline for the AI-NETRA platform across Indian healthcare facilities.",
+   "published_at": "2026-11-10T11:42:42+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-11T23:42:42+00:00",
+   "priority": 8.474664,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2138,8 +2214,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.756598,
-   "selection_reason": "Time-sensitive story; waiting 7.5h"
+   "priority": 7.773997,
+   "selection_reason": "Time-sensitive story; waiting 8.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2165,8 +2241,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.615534,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.632932,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2191,8 +2267,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.240037,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.257435,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2219,8 +2295,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.217489,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.243586,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2247,8 +2323,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.217489,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.243586,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2274,8 +2350,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.204192,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.22159,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2300,8 +2376,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.167619,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.185017,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2327,8 +2403,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.166205,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.183604,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "cb7863665107d049",
@@ -2353,8 +2429,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.151883,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.169281,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2379,8 +2455,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.103784,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.121182,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2406,7 +2482,61 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.99001,
+   "priority": 7.007408,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "f8c1a7370c130fe5",
+   "item": {
+    "id": "f8c1a7370c130fe5",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "source": "Google DeepMind",
+    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+    "snippet": "AlphaProof Code agents wrote over three million lines of machine-checked proof in Lean to verify the core cryptographic protections in Signal down to machine instructions.",
+    "published": "2026-11-10T12:02:28+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google DeepMind uses AlphaProof Code to verify Signal protocol",
+   "post": "Google DeepMind introduced AlphaProof Code, utilizing agents to write over three million lines of machine-checked Lean proofs verifying Signal cryptographic protections down to machine instructions.",
+   "editor_note": "Check whether the full verification dataset and Lean proof scripts have been published publicly.",
+   "published_at": "2026-11-10T12:02:28+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-12T12:02:28+00:00",
+   "priority": 6.987862,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.868503,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2433,8 +2563,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.368992,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.386391,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2460,8 +2590,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.355705,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.373104,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2487,8 +2617,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.271468,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 6.288866,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2513,8 +2643,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.185162,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.202561,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2539,8 +2669,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.184038,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 6.17012,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2566,60 +2696,8 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.144067,
-   "selection_reason": "Editorial importance; waiting 4.5h"
-  },
-  {
-   "id": "d67288d027c7e193",
-   "item": {
-    "id": "d67288d027c7e193",
-    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
-    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
-    "published": "2026-11-09T14:00:44+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
-   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
-   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
-   "published_at": "2026-11-09T14:00:44+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.135821,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "eea9b1843c8a5753",
-   "item": {
-    "id": "eea9b1843c8a5753",
-    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
-    "published": "2026-11-09T14:00:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "US parents and teachers criticize Google school AI policy",
-   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
-   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
-   "published_at": "2026-11-09T14:00:11+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.135566,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 6.161466,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2645,8 +2723,60 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.113252,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.13065,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 6.121902,
+   "selection_reason": "Editorial importance; waiting 22.5h"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 6.121648,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2672,8 +2802,34 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.075076,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.092475,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "d4ea8e3fa73ac74d",
+   "item": {
+    "id": "d4ea8e3fa73ac74d",
+    "title": "Stablecoin Card Startup Rain Launches Vaults for AI Agents",
+    "url": "https://www.theinformation.com/briefings/stablecoin-card-startup-rain-launches-vaults-ai-agents",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Rain, a stablecoin card and payment infrastructure startup, said it is launching vaults for AI agents, which are spending accounts with budget limits for agents. The product, called Rain Agent Vaults, can be funded by bank transfer, card or stablecoin transfer. The money sitting in the vault can ...",
+    "published": "2026-11-10T12:30:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Rain launches spending vaults with budget limits for AI agents",
+   "post": "Stablecoin card startup Rain launched Rain Agent Vaults, providing spending accounts with budget limits for AI agents that can be funded via bank transfers, cards, or stablecoins.",
+   "editor_note": "Confirm the security protocols and API access requirements for developers setting up agent vaults.",
+   "published_at": "2026-11-10T12:30:58+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-12T00:30:58+00:00",
+   "priority": 5.99701,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -2700,8 +2856,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.936182,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.96228,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2728,34 +2884,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.373722,
-   "selection_reason": "Editorial importance; waiting 26.0h"
-  },
-  {
-   "id": "7cd5e10290710b74",
-   "item": {
-    "id": "7cd5e10290710b74",
-    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "source": "NVIDIA",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
-    "snippet": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
-    "published": "2026-11-09T14:00:01+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Nvidia presents simulation tools for training fine robotic manipulation",
-   "post": "Nvidia and research partners demonstrated simulation techniques at the Conference on Robot Learning for training robots in fine manipulation tasks, such as aligning gears, connecting cables, and assembling small components.",
-   "editor_note": "Verify specific benchmark results or software releases tied to Nvidia's CoRL presentation.",
-   "published_at": "2026-11-09T14:00:01+00:00",
-   "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
-   "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.289117,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 5.368503,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2780,8 +2910,34 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.274616,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 5.292014,
+   "selection_reason": "Editorial importance; waiting 8.5h"
+  },
+  {
+   "id": "7cd5e10290710b74",
+   "item": {
+    "id": "7cd5e10290710b74",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "source": "NVIDIA",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
+    "snippet": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+    "published": "2026-11-09T14:00:01+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Nvidia presents simulation tools for training fine robotic manipulation",
+   "post": "Nvidia and research partners demonstrated simulation techniques at the Conference on Robot Learning for training robots in fine manipulation tasks, such as aligning gears, connecting cables, and assembling small components.",
+   "editor_note": "Verify specific benchmark results or software releases tied to Nvidia's CoRL presentation.",
+   "published_at": "2026-11-09T14:00:01+00:00",
+   "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
+   "expires_at": "2026-11-11T14:00:01+00:00",
+   "priority": 5.278678,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2806,35 +2962,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.196808,
-   "selection_reason": "Editorial importance; waiting 19.5h"
-  },
-  {
-   "id": "f885ef769180b46f",
-   "item": {
-    "id": "f885ef769180b46f",
-    "title": "百度搭子连中三元：中信建投、国家电投数科、通用数科",
-    "url": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月5日至6日，中信建投证券、国家电投集团数字科技有限公司、通用技术数科公司相继公布成交候选人名单。三个项目分别有5家、4家和3家厂商入围，百度均排名第一。三次竞标的产品都是百度搭子。 百度搭子是百度推出的新一代通用智能体，是Agent时代的统一入口，可调度百度搜索、秒哒、胜算、伐谋等专业能力，自发布以来产品高速迭代，助力提升个人办公效率与组织生产力。QuestMobile发布的2026年9月典型办公类Agent数据显示，百度搭子多端月活用户规模季度环比增长1567.5%，位居榜单增速第一。",
-    "published": "2026-11-09T14:16:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Baidu AI agent platform wins enterprise bids across three Chinese firms",
-   "post": "Baidu's agent platform Baidu Dazi ranked first in vendor bidding for AI agent deployments at CSC Financial Securities, SPIC Digital Technology, and General Technology Digital Tech.",
-   "editor_note": "Confirm candidate selection status vs final contract signing in Chinese public procurement listings.",
-   "published_at": "2026-11-09T14:16:00+00:00",
-   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
-   "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.142889,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 5.18289,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -2859,34 +2988,8 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 5.138944,
-   "selection_reason": "Editorial importance; waiting 4.5h"
-  },
-  {
-   "id": "bd74b7cf0c1bc812",
-   "item": {
-    "id": "bd74b7cf0c1bc812",
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
-    "published": "2026-11-09T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
-   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
-   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
-   "published_at": "2026-11-09T14:00:00+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.135481,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 5.156342,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -2912,8 +3015,61 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 5.128489,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 5.145887,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "f885ef769180b46f",
+   "item": {
+    "id": "f885ef769180b46f",
+    "title": "百度搭子连中三元：中信建投、国家电投数科、通用数科",
+    "url": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月5日至6日，中信建投证券、国家电投集团数字科技有限公司、通用技术数科公司相继公布成交候选人名单。三个项目分别有5家、4家和3家厂商入围，百度均排名第一。三次竞标的产品都是百度搭子。 百度搭子是百度推出的新一代通用智能体，是Agent时代的统一入口，可调度百度搜索、秒哒、胜算、伐谋等专业能力，自发布以来产品高速迭代，助力提升个人办公效率与组织生产力。QuestMobile发布的2026年9月典型办公类Agent数据显示，百度搭子多端月活用户规模季度环比增长1567.5%，位居榜单增速第一。",
+    "published": "2026-11-09T14:16:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Baidu AI agent platform wins enterprise bids across three Chinese firms",
+   "post": "Baidu's agent platform Baidu Dazi ranked first in vendor bidding for AI agent deployments at CSC Financial Securities, SPIC Digital Technology, and General Technology Digital Tech.",
+   "editor_note": "Confirm candidate selection status vs final contract signing in Chinese public procurement listings.",
+   "published_at": "2026-11-09T14:16:00+00:00",
+   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
+   "expires_at": "2026-11-11T02:16:00+00:00",
+   "priority": 5.12897,
+   "selection_reason": "Editorial importance; waiting 20.0h"
+  },
+  {
+   "id": "bd74b7cf0c1bc812",
+   "item": {
+    "id": "bd74b7cf0c1bc812",
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "published": "2026-11-09T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
+   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
+   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
+   "published_at": "2026-11-09T14:00:00+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:00+00:00",
+   "priority": 5.121563,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2938,8 +3094,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.040458,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 5.026539,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2978,8 +3134,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.002549,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 4.988631,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -3005,35 +3161,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.954,
-   "selection_reason": "Editorial importance; waiting 26.5h"
-  },
-  {
-   "id": "7639d6d71e8a2958",
-   "item": {
-    "id": "7639d6d71e8a2958",
-    "title": "不拿地方国资、全靠市场化巨头抢筹：「猿声科技」凭什么让五源、线性与拓普同时掏钱？",
-    "url": "https://www.leiphone.com/category/industrynews/B48XPbz6KLvCe9jk.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "如果把今年市面上冒出来的几十家具身触觉初创公司拉一张表，会发现一个颇为残酷的供需倒挂：下游全球人形机器人的年度真实出货量还停留在千台级，而上游等着卖传感器切片的创业公司，融资总额已经滚到了数十亿元。僧多粥少之下，一级市场最现实的追问已经摆上台面： 在人形机器人真正迎来大规模放量之前，这几十家触觉公司到底靠什么订单活着？ 就在行业陷入“玩家过剩、订单饥渴”的分化期，11月6日的一则工商变更记录，提前揭示了头部财务资本和产业巨头的投票方向。 企查查数据显示，一家成立于2025年1月的深圳企业——猿声先达科技（深圳）有限公司（下称“猿声科技”），悄然完成了一次股东扩容，一次性新增9名股东，注册资本增幅约18.8%。在这份尚未官宣具体融资金额的名单里，不仅站着曾早期捕手小米、小鹏汽车、地平线的 五源资本 ，以及深耕前沿硬科技与数据智能的 线性资本 、 厚雪资本 、 曦晨资本 ；更出现了千亿市值汽车Tier 1巨头 拓普集团 、激光雷达龙头 速腾聚创 、汽车智驾传感器准上市企业 上富电技 。 算上去年天使轮和Pre-A轮进场的李泽湘教授、柯力传感、纳芯微、启高资本与恒信华业，这家由牛津大学博士创办、成立仅一年半的公司，几乎把半条机器人与车规供应链的关键玩家都拉进了自己的股东群。而且一个值得玩味的细节是，在当下地方国资主导的硬科技创投环境里，猿声科技的股东阵容高度市场化，几乎看不到靠落地承诺换取地方引导基金的痕迹，全凭市场化VC与上下游产业客户用真金白银投票。 在同行还在为压阻、视触觉、电容等技术路线吵得不可开交时，这群精明的财务捕手和挑剔的制造业巨头，究竟在猿声科技身上算清楚了一笔什么账…",
-    "published": "2026-11-09T01:48:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Yuansheng Tech expands investors for robot tactile sensors",
-   "post": "Shenzhen-based tactile sensor startup Yuansheng Tech has added nine new investors to its shareholder structure, including 5Y Capital, Linear Capital, and automotive component maker Top Group.",
-   "editor_note": "Verify total capital raised in this round, as public filing records reflect equity changes without disclosing financial terms.",
-   "published_at": "2026-11-09T01:48:00+00:00",
-   "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
-   "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.796592,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 4.940081,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   }
  ]
 }
