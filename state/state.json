@@ -602,13 +602,19 @@
   "c665674c5bb48e65": "2026-11-10T04:07:20.803621+00:00",
   "0efe3a3dc1058fc5": "2026-11-10T04:07:20.803621+00:00",
   "38c8ca804432e4c8": "2026-11-10T04:37:21.282550+00:00",
-  "ddb002f6eb705565": "2026-11-10T04:37:21.282550+00:00"
+  "ddb002f6eb705565": "2026-11-10T04:37:21.282550+00:00",
+  "ee3c6c5f80a22293": "2026-11-10T05:07:25.911204+00:00",
+  "f3352a9861f16f1a": "2026-11-10T05:07:25.911204+00:00",
+  "ea51f7bea31aafbe": "2026-11-10T05:07:25.911204+00:00",
+  "dddaf7d81c1d34f7": "2026-11-10T05:07:25.911204+00:00",
+  "4a783c96e8ee694c": "2026-11-10T05:07:25.911204+00:00",
+  "f1eea0a2781af6aa": "2026-11-10T05:07:25.911204+00:00",
+  "2e186972ef6cdfd3": "2026-11-10T05:07:25.911204+00:00",
+  "56a49980686e6366": "2026-11-10T05:07:25.911204+00:00",
+  "80232a51174b6f5c": "2026-11-10T05:07:25.911204+00:00",
+  "04830ab84828baea": "2026-11-10T05:07:25.911204+00:00"
  },
  "covered": [
-  {
-   "headline": "EY India tracks AI customer service gains",
-   "ts": "2026-11-08T04:37:21.813359+00:00"
-  },
   {
    "headline": "UK public bodies report surge in AI-generated complaints",
    "ts": "2026-11-08T08:07:23.494915+00:00"
@@ -792,11 +798,15 @@
   {
    "headline": "Anthropic Plans Live Stream IPO Event With Jamie Dimon",
    "ts": "2026-11-10T04:37:21.282550+00:00"
+  },
+  {
+   "headline": "Anthropic Releases Claude Fable and Mythos 5.2 Models",
+   "ts": "2026-11-10T05:07:25.911204+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1908,81 +1918,6 @@
  },
  "pending": [
   {
-   "id": "f1eea0a2781af6aa",
-   "item": {
-    "id": "f1eea0a2781af6aa",
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-    "published": "2026-11-09T19:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "2e186972ef6cdfd3",
-     "title": "Introducing Claude Fable 5.2 on AWS",
-     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-     "source": "AWS AI",
-     "image": "",
-     "snippet": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-     "published": "2026-11-09T20:04:37+00:00",
-     "images": true,
-     "category": "primary",
-     "source_cap": 2
-    },
-    {
-     "id": "56a49980686e6366",
-     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-     "published": "2026-11-09T19:24:51+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "80232a51174b6f5c",
-     "title": "Anthropic Releases New Frontier Models as IPO Nears",
-     "url": "https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears",
-     "source": "The Information",
-     "image": "",
-     "snippet": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, the latest updates in its most advanced model lines, on Monday as the company prepares for its historic IPO. The two models rely on the same underlying technology but Fable has stronger safeguards around cybersecurity and biological ...",
-     "published": "2026-11-09T21:22:50+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "04830ab84828baea",
-     "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-     "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-     "source": "CNBC",
-     "image": "",
-     "snippet": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
-     "published": "2026-11-09T19:00:01+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 9,
-   "urgency": "breaking",
-   "headline": "Anthropic Releases Claude Fable and Mythos 5.2 Models",
-   "post": "Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, featuring updates to coding, reasoning, and vision capabilities as the company prepares for an initial public offering.",
-   "editor_note": "Check availability details on Amazon Bedrock and AWS platforms.",
-   "published_at": "2026-11-09T19:00:00+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T07:00:00+00:00",
-   "priority": 9.420128,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "8b937df2ca88bb3e",
    "item": {
     "id": "8b937df2ca88bb3e",
@@ -2006,8 +1941,8 @@
    "published_at": "2026-11-10T01:56:50+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:56:50+00:00",
-   "priority": 8.581851,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.599257,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "29dc3ada50a44e0a",
@@ -2046,8 +1981,8 @@
    "published_at": "2026-11-10T01:34:47+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:34:47+00:00",
-   "priority": 8.571643,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.589048,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "b3625594e57429fa",
@@ -2073,8 +2008,8 @@
    "published_at": "2026-11-10T03:10:03+00:00",
    "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
    "expires_at": "2026-11-11T15:10:03+00:00",
-   "priority": 8.521697,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.539103,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "51fd6bae6a94af5c",
@@ -2099,8 +2034,34 @@
    "published_at": "2026-11-09T20:01:20+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T20:01:20+00:00",
-   "priority": 8.508248,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.529135,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
+  },
+  {
+   "id": "40881cc5fab2fef0",
+   "item": {
+    "id": "40881cc5fab2fef0",
+    "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Moonshot AI accessed a trove of Nvidia Corp.’s most advanced chips this summer, according to documents filed with Beijing regulators, highlighting the Chinese artificial intelligence champion’s reliance on American hardware despite US export restrictions.",
+    "published": "2026-11-10T04:54:37+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Moonshot AI accessed advanced Nvidia chips through rental arrangements",
+   "post": "Regulatory filings indicate that Chinese AI developer Moonshot AI accessed Nvidia advanced chips through rental agreements this summer.",
+   "editor_note": "Verify if the specific chip models or quantities are disclosed in the Beijing regulatory documents.",
+   "published_at": "2026-11-10T04:54:37+00:00",
+   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
+   "expires_at": "2026-11-11T16:54:37+00:00",
+   "priority": 8.494067,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "5d72d36b6c1fd27b",
@@ -2125,8 +2086,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.380857,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.398263,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2151,8 +2112,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.07692,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 8.094326,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2177,8 +2138,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.496178,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.513584,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "30d10db5b5c89fdf",
@@ -2217,8 +2178,8 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.437799,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.455205,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2243,8 +2204,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.407199,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.424605,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2269,8 +2230,34 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.391463,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.408869,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
+  },
+  {
+   "id": "c1692305c9ca30c3",
+   "item": {
+    "id": "c1692305c9ca30c3",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "source": "Wired",
+    "image": "",
+    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "published": "2026-11-10T05:01:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google DeepMind AI tool formally verifies Signal protocol security",
+   "post": "Google DeepMind researchers used a formal verification AI tool to confirm that the Signal encryption protocol operates securely as intended.",
+   "editor_note": "Confirm the specific verification methodology used by the DeepMind research team.",
+   "published_at": "2026-11-10T05:01:00+00:00",
+   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
+   "expires_at": "2026-11-11T17:01:00+00:00",
+   "priority": 6.997022,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2297,8 +2284,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.826859,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.852967,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2325,8 +2312,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.826859,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.852967,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2364,8 +2351,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.423665,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.441071,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2390,8 +2377,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.392374,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 6.37845,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2416,8 +2403,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.344157,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 6.330232,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2442,8 +2429,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.343902,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 6.329978,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2469,8 +2456,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.108572,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.125978,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2496,8 +2483,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.095285,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.112691,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2523,8 +2510,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.011048,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.028454,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2549,8 +2536,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 5.924742,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 5.942148,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2576,8 +2563,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.852832,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 5.870237,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2604,8 +2591,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.451848,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 5.446626,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2630,8 +2617,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.445369,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 5.434925,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2656,8 +2643,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.405053,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 5.39122,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2683,8 +2670,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.351133,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 5.3373,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2709,8 +2696,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.343817,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 5.329893,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -2735,8 +2722,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.248794,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.23487,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2775,8 +2762,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.210885,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 5.196961,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2802,8 +2789,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.162336,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 5.148411,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2828,8 +2815,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.014196,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 5.031602,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2855,8 +2842,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 5.004928,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 4.991004,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   }
  ]
 }
