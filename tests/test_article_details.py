@@ -182,3 +182,35 @@ def test_process_queue_failures_and_quiet_hours():
     state = {"details_queue": [entry("https://a.test/1")]}
     assert ad.process_queue(state, SETTINGS, night, "t", "c", "k", lambda *a: pytest.fail("quiet hours"), None) == 0
     assert len(state["details_queue"]) == 1
+
+
+def test_requested_pack_retries_once_then_reports_gemini_overload(monkeypatch):
+    calls, notices = [], []
+    monkeypatch.setenv("GEMINI_API_KEY", "k")
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "t")
+    monkeypatch.setenv("TELEGRAM_CHAT_ID", "c")
+    monkeypatch.setattr(ad.time, "sleep", lambda seconds: calls.append(("sleep", seconds)))
+
+    def busy(url, key, settings):
+        calls.append("build")
+        raise nb.GeminiUnavailable("all models: HTTP 503")
+
+    monkeypatch.setattr(ad, "build_pack", busy)
+    monkeypatch.setattr(nb, "send_telegram", lambda token, chat, text, buttons: notices.append(text))
+    assert ad.main(["--url", "https://x.test/a"]) == 2
+    assert calls == ["build", ("sleep", 45), "build"]
+    assert "overloaded" in notices[0] and "https://x.test/a" in notices[0]
+
+    calls.clear()
+    results = iter([nb.GeminiUnavailable("busy"), pack()])
+
+    def recovers(url, key, settings):
+        result = next(results)
+        if isinstance(result, Exception):
+            raise result
+        return result
+
+    sent = []
+    monkeypatch.setattr(ad, "build_pack", recovers)
+    monkeypatch.setattr(ad, "send_pack", lambda token, chat, p: sent.append(p["url"]))
+    assert ad.main(["--url", "https://x.test/a"]) == 0 and sent == ["https://x.test/news/launch"]

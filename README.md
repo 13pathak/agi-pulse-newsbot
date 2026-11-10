@@ -158,7 +158,7 @@ All settings live in [`config.yaml`](config.yaml).
 | `max_drafts_per_day` | `0` | Daily cap; `0` means no limit. |
 | `min_importance` | `7` | Minimum Gemini score (1–10) for a story to be drafted. |
 | `details_min_importance` | `7` | Official-source stories at or above this also get a [detail pack](ARTICLE_DETAILS.md). Remove to turn off. |
-| `details_max_per_day` | `3` | Automatic detail packs per IST day. |
+| `details_max_per_day` | `6` | Automatic detail packs per IST day. |
 | `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
 | `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |

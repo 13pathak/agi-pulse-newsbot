@@ -20,6 +20,7 @@ import logging
 import os
 import re
 import sys
+import time
 import urllib.parse
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
@@ -585,7 +586,17 @@ def main(argv=None) -> int:
         if not api_key:
             log.error("Set GEMINI_API_KEY")
             return 1
-        pack = build_pack(args.url, api_key, settings)
+        try:
+            pack = build_pack(args.url, api_key, settings)
+        except nb.GeminiUnavailable as first:
+            # Every model was busy. Overloads are usually brief, so wait once and retry.
+            log.warning("Gemini unavailable (%s); retrying in 45s", first)
+            time.sleep(45)
+            try:
+                pack = build_pack(args.url, api_key, settings)
+            except nb.GeminiUnavailable as e:
+                raise DetailsError("Gemini is overloaded right now (all models busy). "
+                                   "Run it again in a few minutes.") from e
     except DetailsError as e:
         log.error("%s", e)
         if token and chat_id and not (args.print_only or args.extract_only):

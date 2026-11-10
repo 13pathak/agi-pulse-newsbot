@@ -7,7 +7,7 @@ settings:
   max_drafts_per_day: 0        # 0 = no daily limit; set a number (e.g. 10) to cap drafts per day
   min_importance: 7            # 1–10; Gemini scores every story, below this is ignored (was 5: fewer, bigger stories)
   details_min_importance: 7    # official-source stories at or above this also get a detail pack (remove to turn off)
-  details_max_per_day: 3       # automatic detail packs per IST day
+  details_max_per_day: 6       # automatic detail packs per IST day (each has 5 drafts)
   lookback_hours: 24           # ignore articles older than this (a full day, so slow nights still have stories)
   max_pending_stories: 40      # durable queue of qualifying, unsent stories
   breaking_window_hours: 6     # urgency boost fades after 6h, disappears after 12h

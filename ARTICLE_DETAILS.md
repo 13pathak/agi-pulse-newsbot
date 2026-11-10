@@ -27,7 +27,7 @@ own judgement.
 **Automatically.** When the news bot delivers a draft that includes an official
 source (the `category: primary` feeds in `config.yaml`) and scored at least
 `details_min_importance` (7), a pack for that official article follows in the same
-run. At most `details_max_per_day` (3) per IST day, never during quiet hours, and
+run. At most `details_max_per_day` (6) per IST day, never during quiet hours, and
 never twice for the same article.
 
 **On request, for any link.** In GitHub: **Actions → AGI Pulse NewsBot → Run
