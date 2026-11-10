@@ -569,8 +569,7 @@ def run(mode="dry-run", config_path=CONFIG_PATH, state_path=STATE_PATH, now=None
         allowed_user = os.environ.get("TELEGRAM_FEEDBACK_USER_ID") or (chat_id if int(chat_id) > 0 else None)
         if not allowed_user:
             raise ServiceError("Set TELEGRAM_FEEDBACK_USER_ID for feedback in a group chat")
-        # The repository's Video Takes workflow owns the shared Telegram inbox.
-        # Standalone use (or a separate Takes bot) can still poll directly.
+        # Set VIDEO_FEEDBACK_POLLING=false only if another program reads this bot's updates.
         if os.environ.get("VIDEO_FEEDBACK_POLLING", "true").lower() == "true":
             poll_feedback(state, token, chat_id, allowed_user, persist)
         if now.astimezone(IST).strftime("%H:%M") < settings["digest_time_ist"]:

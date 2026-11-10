@@ -45,11 +45,8 @@ button acknowledgement may time out before the saved vote is processed.
 For a private chat, only that chat's owner can submit feedback. In a group chat,
 also set secret `TELEGRAM_FEEDBACK_USER_ID` to the authorized user's numeric ID.
 Polling refuses to run if the Telegram bot already has a webhook, and never deletes
-or replaces one. The Video Takes workflow owns the shared inbox: it routes incoming
-links to Video Takes and feedback callbacks to this recommender. Delivery runs set
-`VIDEO_FEEDBACK_POLLING=false` to avoid a competing reader. If a separate
-`TELEGRAM_TAKES_BOT_TOKEN` is configured, the recommender polls its own bot instead.
-Standalone local use defaults to polling; never run it alongside the shared reader.
+or replaces one. Do not run another `getUpdates` consumer against the same bot; if
+one must exist, set `VIDEO_FEEDBACK_POLLING=false` so the recommender stops polling.
 
 ## Discovery and ranking
 
@@ -100,8 +97,7 @@ can still cause a duplicate on retry. Delivery and Git persistence are not atomi
 Corrupt state fails closed instead of resetting delivery history.
 
 The workflow follows completed **AGI Pulse NewsBot** runs and has an hourly fallback.
-It shares the `telegram-videos` concurrency group with Video Takes, which also saves
-recommendation feedback; their state updates are serialized. GitHub timers
+It uses its own concurrency group and persists only its own state file. GitHub timers
 are best effort; 09:00 is the earliest delivery time, not an exact appointment.
 
 ## Local commands
