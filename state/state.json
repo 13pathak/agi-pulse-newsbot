@@ -678,13 +678,20 @@
   "cf81ab0a7a0f0215": "2026-11-10T10:07:23.436183+00:00",
   "1a803f206dddbc21": "2026-11-10T10:07:23.436183+00:00",
   "8b4f351e30ebfced": "2026-11-10T10:07:23.436183+00:00",
-  "5d72d36b6c1fd27b": "2026-11-10T10:07:23.436183+00:00"
+  "5d72d36b6c1fd27b": "2026-11-10T10:07:23.436183+00:00",
+  "aba98658cee95348": "2026-11-10T11:07:22.430225+00:00",
+  "a29c3c00a5b94c82": "2026-11-10T11:07:22.430225+00:00",
+  "06438ee7f5b07377": "2026-11-10T11:07:22.430225+00:00",
+  "825d64d4b53b24e5": "2026-11-10T11:07:22.430225+00:00",
+  "acfe26483d4cfe50": "2026-11-10T11:07:22.430225+00:00",
+  "12cebaf2c2f39a7d": "2026-11-10T11:07:22.430225+00:00",
+  "b2740ce6d5b8ecbb": "2026-11-10T11:07:22.430225+00:00",
+  "3278af6544109bbf": "2026-11-10T11:07:22.430225+00:00",
+  "d2982ec409cadf03": "2026-11-10T11:07:22.430225+00:00",
+  "15ea90e2526f23de": "2026-11-10T11:07:22.430225+00:00",
+  "03e4c5bada74bc31": "2026-11-10T11:07:22.430225+00:00"
  },
  "covered": [
-  {
-   "headline": "Survey highlights AI learning interest among Indian professionals",
-   "ts": "2026-11-08T10:37:24.168660+00:00"
-  },
   {
    "headline": "IIT Guwahati uses drones and AI to analyze traffic patterns",
    "ts": "2026-11-08T11:07:24.011536+00:00"
@@ -896,11 +903,15 @@
   {
    "headline": "Marvell plans $115 billion acquisition of Lumentum",
    "ts": "2026-11-10T10:07:23.436183+00:00"
+  },
+  {
+   "headline": "Anthropic sets IPO share price range at 70 to 78 dollars",
+   "ts": "2026-11-10T11:07:22.430225+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2036,32 +2047,6 @@
  },
  "pending": [
   {
-   "id": "4ee7db6e89d552be",
-   "item": {
-    "id": "4ee7db6e89d552be",
-    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "published": "2026-11-10T04:29:06+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
-   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
-   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
-   "published_at": "2026-11-10T04:29:06+00:00",
-   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
-   "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.687171,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
-  },
-  {
    "id": "30d10db5b5c89fdf",
    "item": {
     "id": "30d10db5b5c89fdf",
@@ -2088,9 +2073,105 @@
      "category": "news",
      "language": "zh",
      "source_cap": 3
+    },
+    {
+     "id": "e733daec1ffafca6",
+     "title": "What Jensen Huang’s Affair Means for Nvidia",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-engulfed-in-scandal-video",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Jensen Huang spent decades building Nvidia. Now, he’s embroiled in a scandal after admitting to an affair with a woman who US intelligence reportedly suspect was spying for China, throwing into turmoil a company at the center of the US-China AI chip battle. (Source: Bloomberg)",
+     "published": "2026-11-10T11:02:23+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "7724a6fd0547a6c8",
+     "title": "The Jensen Huang Affair",
+     "url": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+     "source": "The New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
+     "snippet": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next.",
+     "published": "2026-11-10T11:00:17+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "4bbf2f6e2531927e",
+     "title": "Trump supports Nvidia CEO Huang amidst espionage claims involving China",
+     "url": "https://www.indiatoday.in/technology/video/trump-backs-nvidia-ceo-jensen-huang-amid-espionage-allegations-ytvd-3036073-2026-11-10?utm_source=rss",
+     "source": "India Today",
+     "image": "",
+     "snippet": "Trump supports Nvidia CEO Huang amidst espionage claims involving China",
+     "published": "2026-11-10T10:42:39+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "012db1f0c2308fe3",
+     "title": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled Nvidia Chip Sales to China",
+     "url": "https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china",
+     "source": "The Information",
+     "image": "",
+     "snippet": "The relationship between Nvidia CEO Jensen Huang and Alice Huang, the woman that the U.S. government reportedly identified as a Chinese intelligence asset, dates back to at least 2023, and the two have built a rapport that facilitated the shipment of at least $7.5 billion worth of Nvidia chips through Chinese companies since then, according to two people who know her. Alice Huang, her sister and h…",
+     "published": "2026-11-10T10:41:10+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "319ee192189c5f89",
+     "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
+     "url": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny",
+     "source": "South China Morning Post",
+     "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/b18fcb29-a1a6-43f4-a017-85ea791878b3_e5cda3bd.jpg?itok=Quc9J7Nj&v=1794307210",
+     "snippet": "Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him may have been working for Beijing’s intelligence services. Beijing has rejected the espionage claims as “baseless”, while Nvidia has said it had no reason to believe company secrets or US national security were compromised. T…",
+     "published": "2026-11-10T10:40:24+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "61e72d9c1fc2a4ef",
+     "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
+     "url": "https://www.wsj.com/business/a-reined-in-jensen-huang-is-nvidias-best-option-e79cb305?mod=rss_Technology",
+     "source": "The Wall Street Journal",
+     "image": "https://images.wsj.net/im-03152783",
+     "snippet": "A more restrained chief would suit the chip giant well for the next phase of the AI boom.",
+     "published": "2026-11-10T10:30:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "4221baf311753c37",
+     "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
+     "url": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
+     "source": "The New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-nvidia-board-gpqw/10biz-nvidia-board-gpqw-mediumSquareAt3X.jpg",
+     "snippet": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant.",
+     "published": "2026-11-10T10:04:48+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "608a45fff3eeb838",
+     "title": "I'm a Silicon Valley couples therapist. Jensen Huang's affair offers lessons to other high-powered couples.",
+     "url": "https://www.businessinsider.com/jensen-huang-marriage-therapist-silicon-valley-powerful-couples-2026-11",
+     "source": "Business Insider",
+     "image": "https://i.insider.com/6af2324c8f37e8e0b5bab831?format=jpeg",
+     "snippet": "Phil Boissierie is a Silicon Valley therapist who works with couples in high-profile careers. He said news like Nvidia CEO Jensen Huang's affair causes clients to worry about their own indiscretions. Boissierie, who has never met Huang, has seen many couples survive infidelity; he urges connection. This as-told-to essay is based on a conversation with Phil Boissierie, a 50-year-old marriage and co…",
+     "published": "2026-11-10T10:13:01+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
-   "importance": 7,
+   "importance": 8,
    "urgency": "timely",
    "headline": "Nvidia Board Investigates CEO Jensen Huang Amid Affair Claims",
    "post": "Nvidia's board is investigating CEO Jensen Huang following an admitted affair, as markets react to potential national security scrutiny and export control lobbying disclosures.",
@@ -2098,8 +2179,60 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.628792,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
+   "priority": 8.663504,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
+  },
+  {
+   "id": "c075c91e5424c22c",
+   "item": {
+    "id": "c075c91e5424c22c",
+    "title": "OpenAI builds control room for AI agents, says it can stop them from going rogue in 35 seconds",
+    "url": "https://www.indiatoday.in/technology/news/story/openai-builds-control-room-for-ai-agents-says-it-can-stop-them-from-going-rogue-in-35-seconds-3036054-2026-11-10?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "OpenAI builds control room for AI agents, says it can stop them from going rogue in 35 seconds",
+    "published": "2026-11-10T10:34:49+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "OpenAI builds control room to halt rogue AI agents",
+   "post": "OpenAI has built a control room for AI agents that the company states can stop them from going rogue within 35 seconds.",
+   "editor_note": "Verify operational details of the control room and how the 35-second shutdown mechanism functions.",
+   "published_at": "2026-11-10T10:34:49+00:00",
+   "first_seen_at": "2026-11-10T11:07:22.430225+00:00",
+   "expires_at": "2026-11-11T22:34:49+00:00",
+   "priority": 8.484927,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "4ee7db6e89d552be",
+   "item": {
+    "id": "4ee7db6e89d552be",
+    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "published": "2026-11-10T04:29:06+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
+   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
+   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
+   "published_at": "2026-11-10T04:29:06+00:00",
+   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
+   "expires_at": "2026-11-11T16:29:06+00:00",
+   "priority": 7.721884,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2125,8 +2258,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.546107,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.580819,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2151,8 +2284,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.17061,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.205322,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2178,8 +2311,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.134764,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.169477,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2206,8 +2339,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.113348,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.165417,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2234,8 +2367,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.113348,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.165417,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2260,8 +2393,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.098192,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.132904,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2287,8 +2420,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.096778,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.131491,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2313,8 +2446,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.082456,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.117168,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2339,8 +2472,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.034356,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.069069,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2390,8 +2523,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.614658,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.64937,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2417,8 +2550,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.299565,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.334278,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2444,34 +2577,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.286278,
-   "selection_reason": "Editorial importance; waiting 9.0h"
-  },
-  {
-   "id": "67dd0cfb36bf7333",
-   "item": {
-    "id": "67dd0cfb36bf7333",
-    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
-    "published": "2026-11-09T15:44:53+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Tencent AI chief warns of bioweapon risks from systems",
-   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
-   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
-   "published_at": "2026-11-09T15:44:53+00:00",
-   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
-   "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.23958,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 6.320991,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2497,8 +2604,34 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.202041,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.236753,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "67dd0cfb36bf7333",
+   "item": {
+    "id": "67dd0cfb36bf7333",
+    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
+    "published": "2026-11-09T15:44:53+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Tencent AI chief warns of bioweapon risks from systems",
+   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
+   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
+   "published_at": "2026-11-09T15:44:53+00:00",
+   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
+   "expires_at": "2026-11-11T03:44:53+00:00",
+   "priority": 6.21181,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2523,8 +2656,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.191362,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 6.163592,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2549,8 +2682,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.191108,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 6.163338,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2575,8 +2708,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.115735,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 6.150448,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2602,8 +2735,8 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.07464,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.109353,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2629,8 +2762,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.043824,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.078537,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2656,8 +2789,8 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.005649,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.040362,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -2684,8 +2817,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.832042,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 5.88411,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2712,8 +2845,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.39455,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 5.384136,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2738,34 +2871,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.330773,
-   "selection_reason": "Editorial importance; waiting 19.5h"
-  },
-  {
-   "id": "dbd9680f73cbc538",
-   "item": {
-    "id": "dbd9680f73cbc538",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "published": "2026-11-09T16:12:28+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Medium launches TK app with built-in AI writing tools",
-   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
-   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
-   "published_at": "2026-11-09T16:12:28+00:00",
-   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
-   "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.25235,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.309945,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2790,8 +2897,34 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.205189,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.239901,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "dbd9680f73cbc538",
+   "item": {
+    "id": "dbd9680f73cbc538",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "2026-11-09T16:12:28+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Medium launches TK app with built-in AI writing tools",
+   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
+   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
+   "published_at": "2026-11-09T16:12:28+00:00",
+   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
+   "expires_at": "2026-11-11T04:12:28+00:00",
+   "priority": 5.22458,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2817,8 +2950,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.19843,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.17066,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2843,34 +2976,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.191023,
-   "selection_reason": "Editorial importance; waiting 20.0h"
-  },
-  {
-   "id": "16147b47fe778181",
-   "item": {
-    "id": "16147b47fe778181",
-    "title": "Meta launches tool on Muse to create custom interactive experiences",
-    "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Meta has introduced Spaces in its Muse app, allowing users to create customised AI tools and dashboards using prompts. Plans to enable sharing raise questions about privacy and access to personal data. The post Meta launches tool on Muse to create custom interactive experiences appeared first on MEDIANAMA .",
-    "published": "2026-11-09T10:34:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Meta adds Spaces tool to Muse app for custom AI dashboards",
-   "post": "Meta introduced a feature called Spaces in its Muse application, allowing users to generate customized AI tools and dashboards using prompts. Meta plans to add sharing capabilities for user-created tools.",
-   "editor_note": "Verify availability timeline and platform support for the Spaces feature in Meta Muse.",
-   "published_at": "2026-11-09T10:34:45+00:00",
-   "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
-   "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.096,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 5.163253,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -2895,8 +3002,8 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 5.069517,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 5.104229,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -2922,8 +3029,34 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 5.059062,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 5.093774,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "16147b47fe778181",
+   "item": {
+    "id": "16147b47fe778181",
+    "title": "Meta launches tool on Muse to create custom interactive experiences",
+    "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "Meta has introduced Spaces in its Muse app, allowing users to create customised AI tools and dashboards using prompts. Plans to enable sharing raise questions about privacy and access to personal data. The post Meta launches tool on Muse to create custom interactive experiences appeared first on MEDIANAMA .",
+    "published": "2026-11-09T10:34:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Meta adds Spaces tool to Muse app for custom AI dashboards",
+   "post": "Meta introduced a feature called Spaces in its Muse application, allowing users to generate customized AI tools and dashboards using prompts. Meta plans to add sharing capabilities for user-created tools.",
+   "editor_note": "Verify availability timeline and platform support for the Spaces feature in Meta Muse.",
+   "published_at": "2026-11-09T10:34:45+00:00",
+   "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
+   "expires_at": "2026-11-10T22:34:45+00:00",
+   "priority": 5.06823,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2962,8 +3095,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.058091,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 5.030321,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2989,8 +3122,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.009541,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 4.981771,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -3016,8 +3149,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.852134,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 4.824364,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   }
  ]
 }
