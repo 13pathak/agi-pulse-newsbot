@@ -2192,6 +2192,13 @@
    "desc": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
    "published": "2026-11-10T16:00:00+00:00"
+  },
+  "https://huggingface.co/blog/hub-gcp-marketplace": {
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
+   "published": "2026-11-10T00:00:00.768000+00:00",
+   "excerpt": "You can now link your Hugging Face organization to your Google Cloud account, so that your Hugging Face usage shows up on your Google Cloud bill instead of being charged to a credit card. Get started on the Google Cloud Marketplace. Hugging Face is where teams find, build and run open models: from hosting private models and datasets, to running GPU workloads with Jobs, deploying models with Inference Endpoints, calling thousands of models through Inference Providers, or hosting demos on GPU Spaces. If your company already runs on Google Cloud, adding a new vendor and a corporate credit card just to use these services can slow things down. By linking your organization through the Google Cloud Marketplace: If you're an admin of your Hugging Face organization, here's how to set it up, step by…"
   }
  },
  "pending": [
@@ -2218,8 +2225,8 @@
    "published_at": "2026-11-10T13:00:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T13:00:00+00:00",
-   "priority": 8.643263,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.664108,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2245,8 +2252,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.62009,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 8.637461,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "35f00681774962fa",
@@ -2271,8 +2278,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.613524,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 8.630894,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "3e64000748503007",
@@ -2297,8 +2304,8 @@
    "published_at": "2026-11-10T13:37:16+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T01:37:16+00:00",
-   "priority": 8.604109,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.621479,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "8792b1f1c1557e49",
@@ -2323,35 +2330,8 @@
    "published_at": "2026-11-10T14:52:07+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T02:52:07+00:00",
-   "priority": 8.482456,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "6ea215fc0134acc4",
-   "item": {
-    "id": "6ea215fc0134acc4",
-    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
-    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
-    "published": "2026-11-10T05:02:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "MiaoDong Tech launches Beni tracking robot",
-   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
-   "editor_note": "Check availability details and specific currency limits for international buyers.",
-   "published_at": "2026-11-10T05:02:00+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.771792,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 8.499826,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2389,8 +2369,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 7.629941,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.650786,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2415,8 +2395,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.584371,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.601742,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2441,8 +2421,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.531015,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.548385,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2467,34 +2447,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.514354,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "4ee7db6e89d552be",
-   "item": {
-    "id": "4ee7db6e89d552be",
-    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "published": "2026-11-10T04:29:06+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
-   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
-   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
-   "published_at": "2026-11-10T04:29:06+00:00",
-   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
-   "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.412836,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.531724,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2519,8 +2473,34 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.396294,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.413665,
+   "selection_reason": "Editorial importance; waiting 12.0h"
+  },
+  {
+   "id": "4ee7db6e89d552be",
+   "item": {
+    "id": "4ee7db6e89d552be",
+    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "published": "2026-11-10T04:29:06+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
+   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
+   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
+   "published_at": "2026-11-10T04:29:06+00:00",
+   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
+   "expires_at": "2026-11-11T16:29:06+00:00",
+   "priority": 7.39894,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2546,8 +2526,35 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.360449,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.37782,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "d3eeea676f9df7d5",
+   "item": {
+    "id": "d3eeea676f9df7d5",
+    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
+    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
+    "published": "2026-11-10T06:51:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SoftBank discloses total investment in OpenAI",
+   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
+   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
+   "published_at": "2026-11-10T06:51:27+00:00",
+   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
+   "expires_at": "2026-11-11T18:51:27+00:00",
+   "priority": 7.339833,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2574,8 +2581,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.326845,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.321634,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2602,19 +2609,19 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.326845,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.321634,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
-   "id": "d3eeea676f9df7d5",
+   "id": "6ea215fc0134acc4",
    "item": {
-    "id": "d3eeea676f9df7d5",
-    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
-    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
-    "source": "36Kr",
+    "id": "6ea215fc0134acc4",
+    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
+    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
+    "source": "LeiPhone",
     "image": "",
-    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
-    "published": "2026-11-10T06:51:27+00:00",
+    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
+    "published": "2026-11-10T05:02:00+00:00",
     "images": false,
     "category": "news",
     "language": "zh",
@@ -2622,15 +2629,15 @@
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "SoftBank discloses total investment in OpenAI",
-   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
-   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
-   "published_at": "2026-11-10T06:51:27+00:00",
+   "urgency": "timely",
+   "headline": "MiaoDong Tech launches Beni tracking robot",
+   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
+   "editor_note": "Check availability details and specific currency limits for international buyers.",
+   "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.322463,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "expires_at": "2026-11-11T17:02:00+00:00",
+   "priority": 7.289162,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2655,8 +2662,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.260041,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.277412,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2681,8 +2688,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.154493,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.175338,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2708,34 +2715,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.146268,
-   "selection_reason": "Editorial importance; waiting 5.0h"
-  },
-  {
-   "id": "cb7863665107d049",
-   "item": {
-    "id": "cb7863665107d049",
-    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
-    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
-    "published": "2026-11-09T17:58:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
-   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
-   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
-   "published_at": "2026-11-09T17:58:05+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.120699,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.163638,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2760,19 +2741,19 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.108845,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.126215,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
-   "id": "1f917ef42e116f1b",
+   "id": "cb7863665107d049",
    "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
+    "id": "cb7863665107d049",
+    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
+    "published": "2026-11-09T17:58:05+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2780,40 +2761,14 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.10512,
+   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
+   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
+   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
+   "published_at": "2026-11-09T17:58:05+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:58:05+00:00",
+   "priority": 7.106802,
    "selection_reason": "Editorial importance; waiting 15.5h"
-  },
-  {
-   "id": "72145b58f7c9a07a",
-   "item": {
-    "id": "72145b58f7c9a07a",
-    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
-    "published": "2026-11-10T11:47:31+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Sea earnings miss estimates amid rising AI costs",
-   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
-   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
-   "published_at": "2026-11-10T11:47:31+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.084547,
-   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2840,8 +2795,60 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.076792,
+   "priority": 7.102848,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "72145b58f7c9a07a",
+   "item": {
+    "id": "72145b58f7c9a07a",
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
+    "published": "2026-11-10T11:47:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Sea earnings miss estimates amid rising AI costs",
+   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
+   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
+   "published_at": "2026-11-10T11:47:31+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-11T23:47:31+00:00",
+   "priority": 7.101917,
    "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "1f917ef42e116f1b",
+   "item": {
+    "id": "1f917ef42e116f1b",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
+    "published": "2026-11-09T17:24:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
+   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
+   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T05:24:26+00:00",
+   "priority": 7.091224,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2867,35 +2874,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.396447,
-   "selection_reason": "Editorial importance; waiting 12.5h"
-  },
-  {
-   "id": "586b5f5bd197f933",
-   "item": {
-    "id": "586b5f5bd197f933",
-    "title": "挪威暂停为数据中心预留新增电网接入容量",
-    "url": "https://36kr.com/newsflashes/4063183173424260?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "挪威将暂停进一步为数据中心预留电力接入容量，以便在此期间研究如何应对这类设施给电网带来的负担。输电系统运营商Statnett AS周一在一份公告中表示，相关措施包括暂时停止新的电网接入容量预留。预计这一暂停措施最迟将在2027年8月1日前解除。随着科技公司投入数千亿美元建设用于运行和训练人工智能的基础设施，全球数据中心建设正在加速。“我们看到，多个国家都在设法应对需求的大幅增长，”挪威能源部长Terje Aasland在奥斯陆接受采访时表示。“我们也看到了芬兰和丹麦采取的做法。就我们而言，希望建立一个以许可制度为基础的框架，也许还会对企业接入电网的义务作出一些调整。”（新浪财经）",
-    "published": "2026-11-10T00:39:24+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Norway pauses grid capacity allocations for data centers",
-   "post": "Norway's transmission operator Statnett temporarily stopped reserving new power grid capacity for data centers to assess their impact on the electrical grid. The pause is scheduled to remain in place until August 2027 at the latest.",
-   "editor_note": "Confirm Statnett's official statement and scope of affected existing applications.",
-   "published_at": "2026-11-10T00:39:24+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.306493,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.382551,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2921,8 +2901,35 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.300325,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.317696,
+   "selection_reason": "Editorial importance; waiting 9.5h"
+  },
+  {
+   "id": "586b5f5bd197f933",
+   "item": {
+    "id": "586b5f5bd197f933",
+    "title": "挪威暂停为数据中心预留新增电网接入容量",
+    "url": "https://36kr.com/newsflashes/4063183173424260?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "挪威将暂停进一步为数据中心预留电力接入容量，以便在此期间研究如何应对这类设施给电网带来的负担。输电系统运营商Statnett AS周一在一份公告中表示，相关措施包括暂时停止新的电网接入容量预留。预计这一暂停措施最迟将在2027年8月1日前解除。随着科技公司投入数千亿美元建设用于运行和训练人工智能的基础设施，全球数据中心建设正在加速。“我们看到，多个国家都在设法应对需求的大幅增长，”挪威能源部长Terje Aasland在奥斯陆接受采访时表示。“我们也看到了芬兰和丹麦采取的做法。就我们而言，希望建立一个以许可制度为基础的框架，也许还会对企业接入电网的义务作出一些调整。”（新浪财经）",
+    "published": "2026-11-10T00:39:24+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Norway pauses grid capacity allocations for data centers",
+   "post": "Norway's transmission operator Statnett temporarily stopped reserving new power grid capacity for data centers to assess their impact on the electrical grid. The pause is scheduled to remain in place until August 2027 at the latest.",
+   "editor_note": "Confirm Statnett's official statement and scope of affected existing applications.",
+   "published_at": "2026-11-10T00:39:24+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T12:39:24+00:00",
+   "priority": 6.292597,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2948,8 +2955,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.293206,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.27931,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2975,8 +2982,8 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.231334,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.248704,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -3003,34 +3010,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.170569,
-   "selection_reason": "Editorial importance; waiting 9.5h"
-  },
-  {
-   "id": "4a7141713ab5f922",
-   "item": {
-    "id": "4a7141713ab5f922",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
-    "published": "2026-11-09T19:09:58+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
-   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
-   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
-   "published_at": "2026-11-09T19:09:58+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.153978,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.196625,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "d4ea8e3fa73ac74d",
@@ -3055,8 +3036,34 @@
    "published_at": "2026-11-10T12:30:58+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T00:30:58+00:00",
-   "priority": 6.13587,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.15324,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "4a7141713ab5f922",
+   "item": {
+    "id": "4a7141713ab5f922",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+    "published": "2026-11-09T19:09:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
+   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
+   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
+   "published_at": "2026-11-09T19:09:58+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T07:09:58+00:00",
+   "priority": 6.140082,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -3081,8 +3088,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.059032,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.045136,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -3108,86 +3115,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.050753,
-   "selection_reason": "Editorial importance; waiting 15.5h"
-  },
-  {
-   "id": "d67288d027c7e193",
-   "item": {
-    "id": "d67288d027c7e193",
-    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
-    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
-    "published": "2026-11-09T14:00:44+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
-   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
-   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
-   "published_at": "2026-11-09T14:00:44+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.010814,
-   "selection_reason": "Editorial importance; waiting 26.5h"
-  },
-  {
-   "id": "eea9b1843c8a5753",
-   "item": {
-    "id": "eea9b1843c8a5753",
-    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
-    "published": "2026-11-09T14:00:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "US parents and teachers criticize Google school AI policy",
-   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
-   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
-   "published_at": "2026-11-09T14:00:11+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.01056,
-   "selection_reason": "Editorial importance; waiting 26.5h"
-  },
-  {
-   "id": "f650f08e36be0976",
-   "item": {
-    "id": "f650f08e36be0976",
-    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-    "published": "2026-11-10T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Spotify adds customizable voices and reduced chatter to AI DJ",
-   "post": "Spotify rolls out customizable voices and personalities for its AI DJ feature, alongside an option for users to disable track commentary.",
-   "editor_note": "Verify availability across free and premium subscription tiers.",
-   "published_at": "2026-11-10T14:00:00+00:00",
-   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
-   "expires_at": "2026-11-12T02:00:00+00:00",
-   "priority": 5.98958,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.036856,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "405fdcad1ce1a75c",
@@ -3212,8 +3141,86 @@
    "published_at": "2026-11-10T16:00:03+00:00",
    "first_seen_at": "2026-11-10T16:37:22.446864+00:00",
    "expires_at": "2026-11-12T16:00:03+00:00",
-   "priority": 5.98704,
-   "selection_reason": "Editorial importance"
+   "priority": 6.007885,
+   "selection_reason": "Editorial importance; waiting 0.5h"
+  },
+  {
+   "id": "f650f08e36be0976",
+   "item": {
+    "id": "f650f08e36be0976",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "published": "2026-11-10T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Spotify adds customizable voices and reduced chatter to AI DJ",
+   "post": "Spotify rolls out customizable voices and personalities for its AI DJ feature, alongside an option for users to disable track commentary.",
+   "editor_note": "Verify availability across free and premium subscription tiers.",
+   "published_at": "2026-11-10T14:00:00+00:00",
+   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
+   "expires_at": "2026-11-12T02:00:00+00:00",
+   "priority": 6.00695,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 5.996918,
+   "selection_reason": "Editorial importance; waiting 27.0h"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 5.996664,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "da421f12a83a062d",
@@ -3238,8 +3245,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.399595,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 5.385699,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   }
  ]
 }
