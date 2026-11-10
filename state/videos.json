@@ -1,0 +1,18 @@
+{
+ "version": 1,
+ "videos": {},
+ "daily": {
+  "date": "2026-11-10",
+  "searches": 0,
+  "reviews": 0,
+  "video_seconds": 0,
+  "screens": 0,
+  "sent": 0,
+  "categories": [],
+  "channels": [],
+  "fingerprints": []
+ },
+ "preferences": {},
+ "channel_uploads": {},
+ "update_offset": 0
+}
