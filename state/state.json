@@ -708,13 +708,12 @@
   "319ee192189c5f89": "2026-11-10T11:37:22.099252+00:00",
   "61e72d9c1fc2a4ef": "2026-11-10T11:37:22.099252+00:00",
   "4221baf311753c37": "2026-11-10T11:37:22.099252+00:00",
-  "608a45fff3eeb838": "2026-11-10T11:37:22.099252+00:00"
+  "608a45fff3eeb838": "2026-11-10T11:37:22.099252+00:00",
+  "1c08c141aa01274e": "2026-11-10T12:07:21.641045+00:00",
+  "6f038b9fd72d69e8": "2026-11-10T12:07:21.641045+00:00",
+  "1afd9e573768b3f1": "2026-11-10T12:07:21.641045+00:00"
  },
  "covered": [
-  {
-   "headline": "India unveils indigenous AI foundation models EKA-1 and Dhīr",
-   "ts": "2026-11-08T11:37:22.414138+00:00"
-  },
   {
    "headline": "Anthropic agrees to $3.4 billion power generation deal",
    "ts": "2026-11-08T12:07:23.980101+00:00"
@@ -2068,6 +2067,12 @@
    "desc": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "published": "2026-11-10T00:00:00+00:00"
+  },
+  "https://deepmind.google/blog/introducing-alphaproof-code/": {
+   "title": "Formal Verification of Signal’s Protocol with Gemini",
+   "desc": "AlphaProof Code agents wrote over three million lines of machine-checked proof in Lean to verify the core cryptographic protections in Signal down to machine instructions.",
+   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
+   "published": "2026-11-10T12:00:00+00:00"
   }
  },
  "pending": [
@@ -2107,8 +2112,8 @@
    "published_at": "2026-11-10T10:34:49+00:00",
    "first_seen_at": "2026-11-10T11:07:22.430225+00:00",
    "expires_at": "2026-11-11T22:34:49+00:00",
-   "priority": 8.502285,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.519642,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2133,8 +2138,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.739242,
-   "selection_reason": "Time-sensitive story; waiting 7.0h"
+   "priority": 7.756598,
+   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2160,8 +2165,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.598177,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.615534,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2186,8 +2191,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.22268,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.240037,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2214,8 +2219,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.191454,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.217489,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2242,8 +2247,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.191454,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.217489,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2269,8 +2274,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.186835,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.204192,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2295,8 +2300,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.150262,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.167619,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2322,8 +2327,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.148849,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.166205,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2348,8 +2353,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.134526,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.151883,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2374,8 +2379,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.086427,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.103784,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2401,59 +2406,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.972654,
+   "priority": 6.99001,
    "selection_reason": "Editorial importance"
-  },
-  {
-   "id": "1c08c141aa01274e",
-   "item": {
-    "id": "1c08c141aa01274e",
-    "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-    "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a small AI model built for the repetitive …",
-    "published": "2026-11-09T19:41:51+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "6f038b9fd72d69e8",
-     "title": "Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence Index",
-     "url": "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index",
-     "source": "Artificial Analysis",
-     "image": "https://cdn.sanity.io/images/6vfeftx9/articles/53d70582909375fd507f1e6afbe3764b4b04ff62-2160x2160.png?w=1200&auto=format",
-     "snippet": "Meta's newest model Muse Ember scores 36 on the Artificial Analysis Intelligence Index, matching Claude Haiku 5.5 (max) at a third of the Cost per Task",
-     "published": "2026-11-09T00:00:00+00:00",
-     "images": true,
-     "category": "research",
-     "source_cap": 3
-    },
-    {
-     "id": "1afd9e573768b3f1",
-     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-     "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-     "source": "Simon Willison",
-     "image": "",
-     "snippet": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced th…",
-     "published": "2026-11-10T07:28:21+00:00",
-     "images": false,
-     "category": "research",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Meta introduces Muse Ember AI model for agent tasks",
-   "post": "Meta released Muse Ember, a small AI model built for agent workflows like tool calls and data extraction. Artificial Analysis reported it scored 36 on its index, matching Claude Haiku 5.5 performance at lower cost.",
-   "editor_note": "Verify Meta's official model card details and Artificial Analysis test conditions.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.666728,
-   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2479,8 +2433,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.351636,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.368992,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2506,8 +2460,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.338349,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.355705,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2533,34 +2487,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.254111,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "67dd0cfb36bf7333",
-   "item": {
-    "id": "67dd0cfb36bf7333",
-    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
-    "published": "2026-11-09T15:44:53+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Tencent AI chief warns of bioweapon risks from systems",
-   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
-   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
-   "published_at": "2026-11-09T15:44:53+00:00",
-   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
-   "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.197924,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 6.271468,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2585,19 +2513,19 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.167806,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 6.185162,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
-   "id": "d67288d027c7e193",
+   "id": "67dd0cfb36bf7333",
    "item": {
-    "id": "d67288d027c7e193",
-    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
-    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
-    "source": "The Information",
+    "id": "67dd0cfb36bf7333",
+    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+    "source": "The Decoder",
     "image": "",
-    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
-    "published": "2026-11-09T14:00:44+00:00",
+    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
+    "published": "2026-11-09T15:44:53+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2605,40 +2533,14 @@
    "related": [],
    "importance": 6,
    "urgency": "routine",
-   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
-   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
-   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
-   "published_at": "2026-11-09T14:00:44+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.149706,
-   "selection_reason": "Editorial importance; waiting 21.5h"
-  },
-  {
-   "id": "eea9b1843c8a5753",
-   "item": {
-    "id": "eea9b1843c8a5753",
-    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
-    "published": "2026-11-09T14:00:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "US parents and teachers criticize Google school AI policy",
-   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
-   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
-   "published_at": "2026-11-09T14:00:11+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.149451,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "headline": "Tencent AI chief warns of bioweapon risks from systems",
+   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
+   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
+   "published_at": "2026-11-09T15:44:53+00:00",
+   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
+   "expires_at": "2026-11-11T03:44:53+00:00",
+   "priority": 6.184038,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2664,8 +2566,60 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.126711,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.144067,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 6.135821,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 6.135566,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2691,8 +2645,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.095895,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.113252,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2718,8 +2672,8 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.05772,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.075076,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -2746,8 +2700,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.910147,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 5.936182,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2774,8 +2728,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.378929,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 5.373722,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2800,8 +2754,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.299531,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 5.289117,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2826,8 +2780,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.257259,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 5.274616,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2852,8 +2806,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.210694,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 5.196808,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2879,34 +2833,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.156774,
-   "selection_reason": "Editorial importance; waiting 19.0h"
-  },
-  {
-   "id": "bd74b7cf0c1bc812",
-   "item": {
-    "id": "bd74b7cf0c1bc812",
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
-    "published": "2026-11-09T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
-   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
-   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
-   "published_at": "2026-11-09T14:00:00+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.149367,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 5.142889,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -2931,8 +2859,34 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 5.121587,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 5.138944,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "bd74b7cf0c1bc812",
+   "item": {
+    "id": "bd74b7cf0c1bc812",
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "published": "2026-11-09T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
+   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
+   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
+   "published_at": "2026-11-09T14:00:00+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:00+00:00",
+   "priority": 5.135481,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -2958,8 +2912,8 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 5.111132,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 5.128489,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2984,8 +2938,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.054343,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 5.040458,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -3024,8 +2978,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.016434,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 5.002549,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -3051,8 +3005,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.967885,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 4.954,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -3078,8 +3032,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.810478,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 4.796592,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   }
  ]
 }
