@@ -6,10 +6,14 @@ on:
   workflow_dispatch:          # cron-job.org timer + "Run workflow" button
     inputs:
       mode:
-        description: "normal / dry-run / check-feeds / inspect-candidates"
+        description: "normal / dry-run / check-feeds / inspect-candidates / details (needs url)"
         default: normal
         type: choice
-        options: [normal, dry-run, check-feeds, inspect-candidates]
+        options: [normal, dry-run, check-feeds, inspect-candidates, details]
+      url:
+        description: "Article link for mode 'details': sends a detail pack to Telegram"
+        required: false
+        default: ""
 
 permissions:
   contents: write   # lets the bot save state/state.json back to the repo
@@ -21,7 +25,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -39,13 +43,28 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          DETAILS_URL: ${{ github.event.inputs.url }}
         run: |
           case "${{ github.event.inputs.mode }}" in
+            details)     python article_details.py --url "$DETAILS_URL" ;;
             dry-run)     python newsbot.py --dry-run ;;
             check-feeds) python newsbot.py --check-feeds ;;
             inspect-candidates) python newsbot.py --inspect-candidates ;;
             *)           python newsbot.py ;;
           esac
+
+      - name: Detail packs for official stories
+        # Follow-ups for drafts just delivered from official sources (ARTICLE_DETAILS.md).
+        # A failure here must not stop the state from being saved or fail the news run.
+        if: ${{ !cancelled() && steps.run_bot.outcome != 'skipped' && (github.event.inputs.mode == 'normal' || github.event.inputs.mode == '') }}
+        continue-on-error: true
+        timeout-minutes: 4   # never let a slow pack keep the state from being saved
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python article_details.py --queue
 
       - name: Save state
         # Keep queued drafts and successful deliveries even if a later send fails.

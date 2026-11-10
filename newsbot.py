@@ -992,6 +992,17 @@ def remember_story(state: dict, pick: dict, now: datetime) -> None:
         state["seen"][item["id"]] = now.isoformat()
 
 
+def queue_details(state: dict, pick: dict, settings: dict, now: datetime) -> None:
+    """Note a delivered official-source story for a follow-up detail pack
+    (article_details.py). Inactive unless details_min_importance is configured."""
+    if pick["importance"] < settings.get("details_min_importance", 11):
+        return
+    item = next((i for i in story_items(pick) if i.get("category") == "primary" and i.get("url")), None)
+    if item:
+        state.setdefault("details_queue", []).append(
+            {"url": item["url"], "source": item["source"], "queued_at": now.isoformat()})
+
+
 def story_priority(pick: dict, now: datetime, settings: dict) -> tuple[float, str]:
     """Importance dominates; urgency fades, waiting is capped, and stale stories expire."""
     first_seen = article_date(pick["first_seen_at"])
@@ -1381,6 +1392,7 @@ def run(dry_run: bool = False, now: datetime | None = None,
         state["daily"]["count"] += 1
         delivered += 1
         remember_story(state, pick, now)
+        queue_details(state, pick, s, now)
         state["pending"].remove(pick)
         save_state(state, now, state_path)  # preserve earlier successes if a later send fails
 
