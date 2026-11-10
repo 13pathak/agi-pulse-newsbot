@@ -585,7 +585,17 @@
   "66ba41ac6643ed1d": "2026-11-10T03:07:20.705440+00:00",
   "dbb2861bdf036f71": "2026-11-10T03:07:20.705440+00:00",
   "6ad5cdfac9ea7814": "2026-11-10T03:07:20.705440+00:00",
-  "d632a535d7566ecb": "2026-11-10T03:07:20.705440+00:00"
+  "d632a535d7566ecb": "2026-11-10T03:07:20.705440+00:00",
+  "727d5469c2bf70f2": "2026-11-10T03:37:43.415221+00:00",
+  "110a0ea12a11fb9f": "2026-11-10T03:37:43.415221+00:00",
+  "370542d59f4e6f0b": "2026-11-10T03:37:43.415221+00:00",
+  "b11bf7d6e0b9fe78": "2026-11-10T03:37:43.415221+00:00",
+  "889e0797cdf0b561": "2026-11-10T03:37:43.415221+00:00",
+  "1ca7b722a40224fb": "2026-11-10T03:37:43.415221+00:00",
+  "a6485c0c371b99b1": "2026-11-10T03:37:43.415221+00:00",
+  "7dde1cb64548820a": "2026-11-10T03:37:43.415221+00:00",
+  "436189e323ff9a3b": "2026-11-10T03:37:43.415221+00:00",
+  "f3135f0075a53548": "2026-11-10T03:37:43.415221+00:00"
  },
  "covered": [
   {
@@ -763,11 +773,15 @@
   {
    "headline": "Nvidia Board Investigates CEO Jensen Huang Over Affair Allegations",
    "ts": "2026-11-10T03:07:20.705440+00:00"
+  },
+  {
+   "headline": "Australia proposes criminal law changes after OpenAI hack",
+   "ts": "2026-11-10T03:37:43.415221+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1879,32 +1893,6 @@
  },
  "pending": [
   {
-   "id": "f3135f0075a53548",
-   "item": {
-    "id": "f3135f0075a53548",
-    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-    "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f",
-    "snippet": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies. Anthony Albanese on Tuesday released the recommendations of a “rapi…",
-    "published": "2026-11-10T02:31:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 9,
-   "urgency": "timely",
-   "headline": "Australia proposes criminal law changes after OpenAI hack",
-   "post": "Australia announced plans to introduce mandatory reporting and criminal law changes following an OpenAI hack, ensuring companies cannot argue a computer's load was unknown.",
-   "editor_note": "Verify if the proposed criminal law changes have been formally introduced as a bill in Parliament.",
-   "published_at": "2026-11-10T02:31:08+00:00",
-   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
-   "expires_at": "2026-11-11T14:31:08+00:00",
-   "priority": 9.514486,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "c665674c5bb48e65",
    "item": {
     "id": "c665674c5bb48e65",
@@ -1940,7 +1928,33 @@
    "published_at": "2026-11-10T02:26:20+00:00",
    "first_seen_at": "2026-11-10T03:07:20.705440+00:00",
    "expires_at": "2026-11-11T14:26:20+00:00",
-   "priority": 9.481013,
+   "priority": 9.498593,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "38c8ca804432e4c8",
+   "item": {
+    "id": "38c8ca804432e4c8",
+    "title": "Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Anthropic PBC is planning a live-streamed event, at which co-founder and Chief Executive Officer Dario Amodei will discuss the Claude chatbot maker’s initial public offering with JPMorgan Chase & Co. CEO Jamie Dimon, according to a person familiar with the matter.",
+    "published": "2026-11-10T03:14:54+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 9,
+   "urgency": "timely",
+   "headline": "Anthropic Plans Live Stream IPO Event With Jamie Dimon",
+   "post": "Anthropic plans a live-streamed event featuring CEO Dario Amodei and JPMorgan Chase CEO Jamie Dimon to discuss the company's initial public offering.",
+   "editor_note": "Verify the exact streaming platform and event details before posting.",
+   "published_at": "2026-11-10T03:14:54+00:00",
+   "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
+   "expires_at": "2026-11-11T15:14:54+00:00",
+   "priority": 9.489434,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2015,8 +2029,8 @@
    "published_at": "2026-11-09T19:00:00+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:00:00+00:00",
-   "priority": 9.368039,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 9.385619,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "8b937df2ca88bb3e",
@@ -2042,8 +2056,8 @@
    "published_at": "2026-11-10T01:56:50+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:56:50+00:00",
-   "priority": 8.529762,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.547342,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "29dc3ada50a44e0a",
@@ -2082,8 +2096,35 @@
    "published_at": "2026-11-10T01:34:47+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:34:47+00:00",
-   "priority": 8.519554,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.537134,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "b3625594e57429fa",
+   "item": {
+    "id": "b3625594e57429fa",
+    "title": "蚂蚁灵波发布LingBot-Touch触觉基础模型",
+    "url": "https://36kr.com/newsflashes/4063366405936004?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "11月10日，蚂蚁灵波发布LingBot-Touch触觉基础模型。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用，让机器人在“看得清楚、想得明白”的同时，进一步补齐精细操作所需的触觉感知。目前，LingBot-Touch的技术报告、模型和代码已开源，开发者可在Hugging Face、GitHub和魔搭社区访问和下载。",
+    "published": "2026-11-10T03:10:03+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Ant Group Releases LingBot-Touch Tactile Foundation Model",
+   "post": "Ant Group released LingBot-Touch, an open tactile foundation model pretrained on nearly 5,000 hours of real tactile data across magnetic, optical, and piezoresistive sensors.",
+   "editor_note": "Check Hugging Face, GitHub, and ModelScope links to confirm open code and model availability.",
+   "published_at": "2026-11-10T03:10:03+00:00",
+   "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
+   "expires_at": "2026-11-11T15:10:03+00:00",
+   "priority": 8.487188,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "51fd6bae6a94af5c",
@@ -2108,8 +2149,8 @@
    "published_at": "2026-11-09T20:01:20+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T20:01:20+00:00",
-   "priority": 8.445741,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.466837,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "5d72d36b6c1fd27b",
@@ -2134,8 +2175,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.328768,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.346348,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2160,8 +2201,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.024831,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 8.042412,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2186,8 +2227,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.35511,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.37269,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "cb7863665107d049",
@@ -2212,8 +2253,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.339374,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.356954,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2240,8 +2281,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.748725,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.775096,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2268,60 +2309,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.748725,
-   "selection_reason": "Editorial importance; waiting 0.5h"
-  },
-  {
-   "id": "d67288d027c7e193",
-   "item": {
-    "id": "d67288d027c7e193",
-    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
-    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
-    "published": "2026-11-09T14:00:44+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
-   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
-   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
-   "published_at": "2026-11-09T14:00:44+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.385828,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
-   "id": "eea9b1843c8a5753",
-   "item": {
-    "id": "eea9b1843c8a5753",
-    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
-    "published": "2026-11-09T14:00:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "US parents and teachers criticize Google school AI policy",
-   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
-   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
-   "published_at": "2026-11-09T14:00:11+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.385573,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 6.775096,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2359,8 +2348,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.371576,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.389156,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2385,8 +2374,60 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.371418,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.388998,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 6.371764,
+   "selection_reason": "Editorial importance; waiting 13.5h"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 6.371509,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2412,8 +2453,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.056483,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.074063,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2439,8 +2480,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.043196,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.060776,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2465,8 +2506,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 5.872653,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 5.890233,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2492,8 +2533,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.800743,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.818323,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2518,8 +2559,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.476622,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 5.466074,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2546,8 +2587,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.467475,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 5.462201,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2572,8 +2613,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.385488,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 5.371424,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2598,8 +2639,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.352964,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 5.370544,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2625,8 +2666,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.299044,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 5.316624,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "16147b47fe778181",
@@ -2651,8 +2692,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.290465,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 5.276401,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2691,8 +2732,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.252556,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.238492,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2718,8 +2759,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.204007,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.189943,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2745,8 +2786,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 5.046599,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 5.032535,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   }
  ]
 }
