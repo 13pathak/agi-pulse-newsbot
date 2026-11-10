@@ -279,7 +279,7 @@ Title: {title}
 Return JSON only, in exactly this shape:
 {{
   "details": [{{"text": "one specific fact or figure, max 220 chars", "image": null}}],
-  "posts": [{{"kind": "fact", "text": "draft post", "image": "i1", "from_chart": false}}],
+  "posts": [{{"text": "draft post", "image": "i1", "from_chart": false}}],
   "images": [{{"id": "i1", "kind": "chart", "caption": "what it shows, max 120 chars"}}],
   "check": "the one claim most worth verifying before posting, and why, max 200 chars"
 }}
@@ -290,15 +290,23 @@ DETAILS (5 or 6)
   comparisons with a previous version or a competitor, notable caveats.
 - Each must be stated in the text or readable in a picture. If it comes from a
   picture, set "image" to that picture's id; otherwise null.
+- Use figures exactly as given. Do not calculate new ones (differences, ratios,
+  percentage gains) from the article's numbers.
 
-POSTS (exactly 5: three with kind "fact", two with kind "take")
-- At most 260 characters each, plain text, one or two sentences, each built around
-  a different specific detail so a reader learns something concrete.
-- "fact": a punchy, accurate statement of one notable figure or detail.
-- "take": a sharp opinion on what a detail means ("I think ...", "The real story
-  is ..."). Opinion only: never invent personal experience ("I tested", "I built").
-- Attribute vendor claims to the vendor ("Anthropic says ..."). Keep benchmark
-  names and conditions; do not turn a claim into a proven fact.
+POSTS (exactly 5, every one an opinion take)
+- Each is a sharp point of view on what one specific detail from the article
+  means: why it matters, what it changes, what it signals about where AI is
+  going, or what most people will miss. Not a restatement of the detail.
+- Do NOT write plain fact posts such as "Anthropic says the model costs $8 ..."
+  or "X scored 49.1% on Y". A draft that only reports a figure is wrong.
+- Anchor each take in a different concrete detail, and name it (the capability,
+  the price change, the experiment), so the opinion is clearly about this
+  article and could not be posted about any other launch.
+- At most 260 characters, plain text, one or two sentences. Vary the openings:
+  "I think ...", "The real story is ...", "What stands out ...", or a direct
+  claim with no lead-in. Confident, specific, no hedging filler.
+- Opinion only: never invent personal experience ("I tested", "I built") and
+  never present a vendor's claim as independently proven.
 - No hashtags, emojis, links, @mentions or engagement bait. Do not say "the
   article" or "the post"; each draft must stand alone.
 - Set "image" to the id of the picture that best supports the post, or null.
@@ -394,7 +402,9 @@ def validate(raw: dict, article: dict, images: list[dict]) -> dict:
     details = []
     for entry in raw.get("details") or []:
         if isinstance(entry, dict) and (text := nb.clean_text(str(entry.get("text") or ""), 240)):
-            details.append({"text": text, "picture": number.get(entry.get("image"))})
+            picture = number.get(entry.get("image"))
+            details.append({"text": text, "picture": picture,
+                            "unverified": not picture and bool(unsupported_numbers(text, source_text))})
 
     posts, dropped = [], 0
     for entry in raw.get("posts") or []:
@@ -410,7 +420,7 @@ def validate(raw: dict, article: dict, images: list[dict]) -> dict:
             dropped += 1  # a number that is neither in the text nor tied to a chart we can show
             log.info("dropped a draft with unsupported number(s) %s", missing)
             continue
-        posts.append({"kind": "take" if entry.get("kind") == "take" else "fact", "text": text,
+        posts.append({"text": text,
                       "picture": number.get(image_id), "verify_chart": from_chart and image_id in visual})
     if not posts:
         raise DetailsError("Gemini produced no usable drafts for this article.")
@@ -436,13 +446,12 @@ def render(pack: dict) -> tuple[str, list[list[dict]]]:
     head = [f"🔎 <b>Detail pack</b> · {esc(pack['source'])}", f"<i>{esc(pack['title'] or pack['url'])}</i>"]
     drafts = ["", "<b>Drafts — review before posting</b>"]
     for n, post in enumerate(pack["posts"], 1):
-        icon = "💭" if post["kind"] == "take" else "📌"
         notes = [f"{nb.x_len(post['text'])}/280"]
         if post["picture"]:
             notes.append(f"goes with picture {post['picture']}")
         if post["verify_chart"]:
             notes.append("⚠️ number read from a chart, verify")
-        drafts.append(f"{n}. {icon} {esc(post['text'])} <i>({'; '.join(notes)})</i>")
+        drafts.append(f"{n}. 💭 {esc(post['text'])} <i>({'; '.join(notes)})</i>")
     tail = []
     if pack["check"]:
         tail.append(f"\n🔎 <b>Check:</b> {esc(pack['check'])}")
@@ -454,6 +463,8 @@ def render(pack: dict) -> tuple[str, list[list[dict]]]:
     facts = ["", "<b>Details worth posting</b>"] if pack["details"] else []
     for detail in pack["details"]:
         line = f"• {esc(detail['text'])}" + (f" <i>(picture {detail['picture']})</i>" if detail["picture"] else "")
+        if detail["unverified"]:
+            line += " <i>(⚠️ figure not found in the article text, verify)</i>"
         if len("\n".join(head + facts + [line] + drafts + tail)) > TELEGRAM_LIMIT - 40:
             break
         facts.append(line)

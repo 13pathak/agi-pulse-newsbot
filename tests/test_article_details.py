@@ -93,13 +93,13 @@ def raw():
 def test_validate_drops_invented_numbers_and_decorative_pictures():
     pack = ad.validate(raw(), article(), images())
     assert [i["id"] for i in pack["album"]] == ["i2"]
-    assert pack["details"] == [{"text": "Costs $8 per million input tokens", "picture": None},
-                               {"text": "Tops rivals on agentic coding", "picture": 1}]
+    assert pack["details"] == [{"text": "Costs $8 per million input tokens", "picture": None, "unverified": False},
+                               {"text": "Tops rivals on agentic coding", "picture": 1, "unverified": False}]
     assert [p["text"] for p in pack["posts"]] == ["The model costs $8 per million tokens.",
                                                   "I think 30% faster matters more than the score.",
                                                   "It scores 88.1% on the hardest test."]
     assert pack["posts"][1]["picture"] is None            # decorative picture is not offered
-    assert pack["posts"][2] == {"kind": "fact", "text": "It scores 88.1% on the hardest test.",
+    assert pack["posts"][2] == {"text": "It scores 88.1% on the hardest test.",
                                 "picture": 1, "verify_chart": True}
     assert pack["dropped"] == 1                           # "12 points" is in neither text nor chart
 
@@ -214,3 +214,14 @@ def test_requested_pack_retries_once_then_reports_gemini_overload(monkeypatch):
     monkeypatch.setattr(ad, "build_pack", recovers)
     monkeypatch.setattr(ad, "send_pack", lambda token, chat, p: sent.append(p["url"]))
     assert ad.main(["--url", "https://x.test/a"]) == 0 and sent == ["https://x.test/news/launch"]
+
+
+def test_calculated_figures_in_details_are_flagged():
+    data = raw()
+    data["details"] = [{"text": "Found 10.2% more bugs than before", "image": None}]
+    result = ad.validate(data, article(), images())
+    assert result["details"][0]["unverified"] is True
+    result.update(url="https://x.test/a", title="T", source="Lab", preview="")
+    text, _ = ad.render(result)
+    assert "figure not found in the article text" in text and "📌" not in text
+    assert "every one an opinion take" in ad.PROMPT and '"kind": "fact"' not in ad.PROMPT

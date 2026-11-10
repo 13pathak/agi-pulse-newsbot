@@ -12,7 +12,7 @@ or pictures from inside the article.
    has no usable picture, its preview image is sent instead.
 2. **One message** with:
    - 5–6 details worth posting (prices, benchmark scores, limits, dates);
-   - 5 drafts under 280 characters, three built on a fact and two opinion takes,
+   - 5 drafts under 280 characters, all opinion takes anchored in a specific detail,
      each with its own **✅ Post on X** button and a note saying which picture
      goes with it;
    - one claim to verify, and a **📖 Read article** button.
