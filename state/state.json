@@ -760,13 +760,27 @@
   "5adb056d3c648b1c": "2026-11-10T13:37:22.908739+00:00",
   "304d2d5acecd10d8": "2026-11-10T13:37:22.908739+00:00",
   "c075c91e5424c22c": "2026-11-10T13:37:22.908739+00:00",
-  "ca7a43415740a080": "2026-11-10T13:37:22.908739+00:00"
+  "ca7a43415740a080": "2026-11-10T13:37:22.908739+00:00",
+  "66ed14c6418f09b7": "2026-11-10T14:07:24.307553+00:00",
+  "0cd5e191c405cf88": "2026-11-10T14:07:24.307553+00:00",
+  "f9ddc69f831717b4": "2026-11-10T14:07:24.307553+00:00",
+  "ca4461e609089712": "2026-11-10T14:07:24.307553+00:00",
+  "9d1a81308f907386": "2026-11-10T14:07:24.307553+00:00",
+  "65313d48e593d37a": "2026-11-10T14:07:24.307553+00:00",
+  "513a13fb0dbb6cd0": "2026-11-10T14:07:24.307553+00:00",
+  "935c7c3409e38e63": "2026-11-10T14:07:24.307553+00:00",
+  "12a5dbf5df50952b": "2026-11-10T14:07:24.307553+00:00",
+  "44e9a867864c5e82": "2026-11-10T14:07:24.307553+00:00",
+  "3fce288f56e1f3ea": "2026-11-10T14:07:24.307553+00:00",
+  "eb47cc2acafe9ade": "2026-11-10T14:07:24.307553+00:00",
+  "015cb2c6872b425f": "2026-11-10T14:07:24.307553+00:00",
+  "9871791e1b1f7cac": "2026-11-10T14:07:24.307553+00:00",
+  "10a475696320d96f": "2026-11-10T14:07:24.307553+00:00",
+  "04566ece2f1b9bd7": "2026-11-10T14:07:24.307553+00:00",
+  "c188bc0e22913fbf": "2026-11-10T14:07:24.307553+00:00",
+  "646e58946cb76443": "2026-11-10T14:07:24.307553+00:00"
  },
  "covered": [
-  {
-   "headline": "DARPA seeks AI tools to detect digital market vulnerabilities",
-   "ts": "2026-11-08T14:07:22.986575+00:00"
-  },
   {
    "headline": "Apple explores transforming Siri into an AI agent",
    "ts": "2026-11-08T15:07:23.532832+00:00"
@@ -970,11 +984,15 @@
   {
    "headline": "OpenAI builds control room to halt rogue AI agents",
    "ts": "2026-11-10T13:37:22.908739+00:00"
+  },
+  {
+   "headline": "IBM and Microsoft partner on AI agent platform",
+   "ts": "2026-11-10T14:07:24.307553+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2128,32 +2146,6 @@
  },
  "pending": [
   {
-   "id": "646e58946cb76443",
-   "item": {
-    "id": "646e58946cb76443",
-    "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
-    "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/",
-    "source": "Microsoft",
-    "image": "",
-    "snippet": "November 10, 2026 Category: Company News IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation Microsoft Source | 6 minutes IBM Consulting brings more than 6,000 prebuilt AI agents and assets, the experience building them, and industry expertise, while Microsoft provides AI, cloud and security technologies New platform comes with forward-deployed engineer…",
-    "published": "2026-11-10T13:00:08+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "IBM and Microsoft partner on AI agent platform",
-   "post": "IBM and Microsoft launched an AI agent platform for industry-specific transformations. IBM Consulting contributes over 6,000 prebuilt AI agents and assets alongside domain expertise.",
-   "editor_note": "Confirm the specific cloud and security technologies provided by Microsoft versus IBM's consulting assets.",
-   "published_at": "2026-11-10T13:00:08+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T13:00:08+00:00",
-   "priority": 8.518315,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "02e4a20d191af380",
    "item": {
     "id": "02e4a20d191af380",
@@ -2176,8 +2168,8 @@
    "published_at": "2026-11-10T13:00:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T13:00:00+00:00",
-   "priority": 8.518269,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.539118,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2203,8 +2195,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.515928,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.533303,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "35f00681774962fa",
@@ -2229,8 +2221,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.509362,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.526736,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "3e64000748503007",
@@ -2255,8 +2247,8 @@
    "published_at": "2026-11-10T13:37:16+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T01:37:16+00:00",
-   "priority": 8.499947,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.517321,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2281,8 +2273,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.808694,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
+   "priority": 7.826069,
+   "selection_reason": "Time-sensitive story; waiting 9.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2308,8 +2300,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.66763,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.685004,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2334,8 +2326,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.480209,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.497584,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2362,8 +2354,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.295632,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.321694,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2390,8 +2382,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.295632,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.321694,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2416,8 +2408,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.292132,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.309507,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2443,8 +2435,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.256287,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.273662,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2470,8 +2462,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.218301,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.235676,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2496,8 +2488,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.203979,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.190129,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2522,8 +2514,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.18845,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.17455,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2548,8 +2540,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.155879,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.173254,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2575,8 +2567,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.042106,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.05948,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2601,8 +2593,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.029499,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.050348,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2627,8 +2619,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.004683,
-   "selection_reason": "Editorial importance"
+   "priority": 7.022057,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2653,8 +2645,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 6.980385,
-   "selection_reason": "Editorial importance"
+   "priority": 6.997759,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2681,8 +2673,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.920549,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.946611,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2708,8 +2700,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.389823,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 6.375924,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2735,8 +2727,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.376536,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 6.362637,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2762,8 +2754,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.323563,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 6.340938,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2788,8 +2780,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.237258,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 6.223408,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2815,61 +2807,8 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.196163,
-   "selection_reason": "Editorial importance; waiting 6.0h"
-  },
-  {
-   "id": "67dd0cfb36bf7333",
-   "item": {
-    "id": "67dd0cfb36bf7333",
-    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
-    "published": "2026-11-09T15:44:53+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Tencent AI chief warns of bioweapon risks from systems",
-   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
-   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
-   "published_at": "2026-11-09T15:44:53+00:00",
-   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
-   "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.142362,
-   "selection_reason": "Editorial importance; waiting 21.5h"
-  },
-  {
-   "id": "ae7e040058e056e9",
-   "item": {
-    "id": "ae7e040058e056e9",
-    "title": "云深处发布全新四足机器人 实现50Kg大负载、复杂地形作业",
-    "url": "https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月6日，云深处科技正式发布四足机器人新产品——绝影X50。它通过“感控融合”全新升级，搭配高刚性高响应关节系统，实现了更大负载、更强通行与更稳姿态的综合突破。云深处进一步拓展了四足机器人在极端环境下的重载作业边界，为应急消防、能源电力等高风险行业解决痛点。 重载与通行，长期是四足机器人难以两全的难题：负载一加，爬坡、下台阶的容错空间同步收窄，高强度户外作业中，机器狗往往卡在复杂地形中的“最后一公里”。据雷峰网了解，绝影X50四足机器人对关节与整机结构进行全面优化，在不增加机身尺寸的前提下，将持续行进中的负载提升至50kg。 在50kg的额定大负载状态下，绝影X50四足机器人面对楼梯斜坡、崎岖山路、碎石路面等复杂路况，仍能稳定负重前行。其全地形重载能力，具备承接高强度复杂地形的作业任务。在电力巡检中，绝影X50机器狗可搭载液压工具、绝缘子串及接地线组等重型器材，减轻人工搬运负担，有效避免检修人员体力透支、职业劳损及摔伤扭伤等安全问题；在消防任务中，云深处科技绝影X50机器狗不仅能背负数十公斤的消防设备快速深入火场，还能搭载消防水带开展持续喷水作业，从而大幅降低消防人员近距离高危作业风险；在应急救援中，绝影X50机器狗可携带生命探测仪、破拆工具、医疗物资等重型救援设备深入灾害现场，在黄金救援时间内抵达事故核心区。 与此同时，在50kg额定负载下，这款四足机器人以3m/s的速度持续疾驰2公里以上。3m/s，约等于一名成年人轻装慢跑的配速——背着50公斤重载，它依然能以人不负重时的奔跑节奏，跑完2公里全程。这对整机是全方位的考验：大负载高速行进中，每一次落脚对关节的冲击都成倍放大，…",
-    "published": "2026-11-09T15:27:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Deep Robotics unveils Jueying X50 heavy-payload quadruped robot",
-   "post": "Chinese robotics company Deep Robotics released the Jueying X50, a quadruped robot capable of carrying a 50 kg payload while traveling at 3 meters per second across stairs, slopes, and unpaved terrain.",
-   "editor_note": "Verify commercial availability date and battery operating duration under full payload.",
-   "published_at": "2026-11-09T15:27:00+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.134082,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 6.213538,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2895,8 +2834,61 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.127172,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.144546,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "67dd0cfb36bf7333",
+   "item": {
+    "id": "67dd0cfb36bf7333",
+    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
+    "published": "2026-11-09T15:44:53+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Tencent AI chief warns of bioweapon risks from systems",
+   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
+   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
+   "published_at": "2026-11-09T15:44:53+00:00",
+   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
+   "expires_at": "2026-11-11T03:44:53+00:00",
+   "priority": 6.128462,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "ae7e040058e056e9",
+   "item": {
+    "id": "ae7e040058e056e9",
+    "title": "云深处发布全新四足机器人 实现50Kg大负载、复杂地形作业",
+    "url": "https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月6日，云深处科技正式发布四足机器人新产品——绝影X50。它通过“感控融合”全新升级，搭配高刚性高响应关节系统，实现了更大负载、更强通行与更稳姿态的综合突破。云深处进一步拓展了四足机器人在极端环境下的重载作业边界，为应急消防、能源电力等高风险行业解决痛点。 重载与通行，长期是四足机器人难以两全的难题：负载一加，爬坡、下台阶的容错空间同步收窄，高强度户外作业中，机器狗往往卡在复杂地形中的“最后一公里”。据雷峰网了解，绝影X50四足机器人对关节与整机结构进行全面优化，在不增加机身尺寸的前提下，将持续行进中的负载提升至50kg。 在50kg的额定大负载状态下，绝影X50四足机器人面对楼梯斜坡、崎岖山路、碎石路面等复杂路况，仍能稳定负重前行。其全地形重载能力，具备承接高强度复杂地形的作业任务。在电力巡检中，绝影X50机器狗可搭载液压工具、绝缘子串及接地线组等重型器材，减轻人工搬运负担，有效避免检修人员体力透支、职业劳损及摔伤扭伤等安全问题；在消防任务中，云深处科技绝影X50机器狗不仅能背负数十公斤的消防设备快速深入火场，还能搭载消防水带开展持续喷水作业，从而大幅降低消防人员近距离高危作业风险；在应急救援中，绝影X50机器狗可携带生命探测仪、破拆工具、医疗物资等重型救援设备深入灾害现场，在黄金救援时间内抵达事故核心区。 与此同时，在50kg额定负载下，这款四足机器人以3m/s的速度持续疾驰2公里以上。3m/s，约等于一名成年人轻装慢跑的配速——背着50公斤重载，它依然能以人不负重时的奔跑节奏，跑完2公里全程。这对整机是全方位的考验：大负载高速行进中，每一次落脚对关节的冲击都成倍放大，…",
+    "published": "2026-11-09T15:27:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Deep Robotics unveils Jueying X50 heavy-payload quadruped robot",
+   "post": "Chinese robotics company Deep Robotics released the Jueying X50, a quadruped robot capable of carrying a 50 kg payload while traveling at 3 meters per second across stairs, slopes, and unpaved terrain.",
+   "editor_note": "Verify commercial availability date and battery operating duration under full payload.",
+   "published_at": "2026-11-09T15:27:00+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T03:27:00+00:00",
+   "priority": 6.120183,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2921,8 +2913,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.094144,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.080245,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2947,8 +2939,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.09389,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.07999,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "d4ea8e3fa73ac74d",
@@ -2973,8 +2965,8 @@
    "published_at": "2026-11-10T12:30:58+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T00:30:58+00:00",
-   "priority": 6.031708,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.049082,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -3001,8 +2993,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.014326,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.040388,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -3029,8 +3021,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.358093,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 5.352881,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "da421f12a83a062d",
@@ -3055,8 +3047,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.326712,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 5.344086,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -3081,8 +3073,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.257859,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 5.247435,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -3107,8 +3099,8 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 5.19104,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.208414,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -3134,8 +3126,8 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 5.180584,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.197959,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -3160,8 +3152,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.155132,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 5.141232,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   }
  ]
 }
