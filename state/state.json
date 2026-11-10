@@ -612,7 +612,18 @@
   "2e186972ef6cdfd3": "2026-11-10T05:07:25.911204+00:00",
   "56a49980686e6366": "2026-11-10T05:07:25.911204+00:00",
   "80232a51174b6f5c": "2026-11-10T05:07:25.911204+00:00",
-  "04830ab84828baea": "2026-11-10T05:07:25.911204+00:00"
+  "04830ab84828baea": "2026-11-10T05:07:25.911204+00:00",
+  "4248c69c552eb567": "2026-11-10T05:37:22.133193+00:00",
+  "133de684dfb63cd5": "2026-11-10T05:37:22.133193+00:00",
+  "0ac8506cb2845b7d": "2026-11-10T05:37:22.133193+00:00",
+  "2b0842aac6c8712c": "2026-11-10T05:37:22.133193+00:00",
+  "f2b60d76fa29e35e": "2026-11-10T05:37:22.133193+00:00",
+  "ea095153263c960b": "2026-11-10T05:37:22.133193+00:00",
+  "a8fd56d182686744": "2026-11-10T05:37:22.133193+00:00",
+  "406460b90a5a01ea": "2026-11-10T05:37:22.133193+00:00",
+  "3e364772d0ff95ad": "2026-11-10T05:37:22.133193+00:00",
+  "d82a14e33749fcd4": "2026-11-10T05:37:22.133193+00:00",
+  "8b937df2ca88bb3e": "2026-11-10T05:37:22.133193+00:00"
  },
  "covered": [
   {
@@ -802,11 +813,15 @@
   {
    "headline": "Anthropic Releases Claude Fable and Mythos 5.2 Models",
    "ts": "2026-11-10T05:07:25.911204+00:00"
+  },
+  {
+   "headline": "Tesla Targets Late 2027 For Optimus Robot Deliveries",
+   "ts": "2026-11-10T05:37:22.133193+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1918,33 +1933,6 @@
  },
  "pending": [
   {
-   "id": "8b937df2ca88bb3e",
-   "item": {
-    "id": "8b937df2ca88bb3e",
-    "title": "马斯克透露擎天柱机器人最新消息",
-    "url": "https://36kr.com/newsflashes/4063283749589897?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "特斯拉的人形机器人“擎天柱”是市场关注的焦点产品之一，特斯拉公司首席执行官马斯克日前表示，“擎天柱”将在2027年底左右开始交付，但交付形式可能是“租”而不是“卖”。马斯克表示，擎天柱的初期成本可能与电动汽车差不多，每台机器人的初始成本约为3万美元，之后会降至2万美元左右。马斯克预计擎天柱至少需要一年时间才能达到全面量产，在对外交付前，擎天柱将先在特斯拉的自有工厂中使用。特斯拉方面此前表示，“擎天柱”的工作效率将达到普通人的五倍左右。据业内人士透露，特斯拉可能在12月初开放擎天柱的预订。（央视财经）",
-    "published": "2026-11-10T01:56:50+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Tesla Targets Late 2027 For Optimus Robot Deliveries",
-   "post": "Tesla plans to begin delivering its Optimus humanoid robot around the end of 2027 through rental arrangements rather than direct sales, with an initial unit cost estimated around $30,000.",
-   "editor_note": "Confirm whether the $30,000 initial cost and rental model were stated by Elon Musk during the briefing.",
-   "published_at": "2026-11-10T01:56:50+00:00",
-   "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
-   "expires_at": "2026-11-11T13:56:50+00:00",
-   "priority": 8.599257,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "29dc3ada50a44e0a",
    "item": {
     "id": "29dc3ada50a44e0a",
@@ -1981,8 +1969,8 @@
    "published_at": "2026-11-10T01:34:47+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:34:47+00:00",
-   "priority": 8.589048,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.606373,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "b3625594e57429fa",
@@ -2008,8 +1996,8 @@
    "published_at": "2026-11-10T03:10:03+00:00",
    "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
    "expires_at": "2026-11-11T15:10:03+00:00",
-   "priority": 8.539103,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.556427,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "51fd6bae6a94af5c",
@@ -2034,8 +2022,8 @@
    "published_at": "2026-11-09T20:01:20+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T20:01:20+00:00",
-   "priority": 8.529135,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.549924,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "40881cc5fab2fef0",
@@ -2060,7 +2048,7 @@
    "published_at": "2026-11-10T04:54:37+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T16:54:37+00:00",
-   "priority": 8.494067,
+   "priority": 8.511392,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2086,8 +2074,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.398263,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.415588,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2112,8 +2100,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.094326,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 8.111651,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2138,8 +2126,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.513584,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.530909,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "30d10db5b5c89fdf",
@@ -2178,34 +2166,8 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.455205,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
-   "id": "1f917ef42e116f1b",
-   "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.424605,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.472529,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2230,8 +2192,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.408869,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.426193,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2256,8 +2218,34 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.997022,
+   "priority": 7.014347,
    "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "1f917ef42e116f1b",
+   "item": {
+    "id": "1f917ef42e116f1b",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
+    "published": "2026-11-09T17:24:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
+   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
+   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T05:24:26+00:00",
+   "priority": 6.941929,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2284,8 +2272,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.852967,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.878954,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2312,8 +2300,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.852967,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.878954,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2351,8 +2339,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.441071,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.458395,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2377,8 +2365,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.37845,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 6.36459,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2403,8 +2391,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.330232,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.316372,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2429,8 +2417,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.329978,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.316118,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2456,8 +2444,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.125978,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.143303,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2483,8 +2471,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.112691,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.130016,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2510,8 +2498,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.028454,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.045778,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2536,8 +2524,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 5.942148,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 5.959473,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2563,8 +2551,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.870237,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 5.887562,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2591,8 +2579,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.446626,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 5.441429,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2617,8 +2605,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.434925,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 5.42453,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2643,8 +2631,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.39122,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 5.37736,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2670,8 +2658,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.3373,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 5.32344,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2696,8 +2684,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.329893,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 5.316033,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2722,8 +2710,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.23487,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 5.22101,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2762,8 +2750,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.196961,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 5.183101,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2789,8 +2777,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.148411,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 5.134551,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2815,8 +2803,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.031602,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 5.048926,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2842,8 +2830,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.991004,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 4.977144,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   }
  ]
 }
