@@ -732,7 +732,19 @@
   "30e79c4547309e92": "2026-11-10T12:37:25.483982+00:00",
   "e176f6978d8c469f": "2026-11-10T12:37:25.483982+00:00",
   "54890285b98f04cf": "2026-11-10T12:37:25.483982+00:00",
-  "3f139cc385d98e43": "2026-11-10T12:37:25.483982+00:00"
+  "3f139cc385d98e43": "2026-11-10T12:37:25.483982+00:00",
+  "bd74b7cf0c1bc812": "2026-11-10T13:07:23.002969+00:00",
+  "16147b47fe778181": "2026-11-10T13:07:23.002969+00:00",
+  "df3675d7a4445269": "2026-11-10T13:07:23.002969+00:00",
+  "abd2c47a1388b3da": "2026-11-10T13:07:23.002969+00:00",
+  "288844aa1b89ae14": "2026-11-10T13:07:23.002969+00:00",
+  "6999615490c266f2": "2026-11-10T13:07:23.002969+00:00",
+  "d8a967756fad10d6": "2026-11-10T13:07:23.002969+00:00",
+  "028fe8b39e84624d": "2026-11-10T13:07:23.002969+00:00",
+  "2acddc05cbf9a5c9": "2026-11-10T13:07:23.002969+00:00",
+  "67a53b758af66ffe": "2026-11-10T13:07:23.002969+00:00",
+  "b6a3bc9fd02be1ea": "2026-11-10T13:07:23.002969+00:00",
+  "f0977b2d7bfa051c": "2026-11-10T13:07:23.002969+00:00"
  },
  "covered": [
   {
@@ -942,11 +954,15 @@
   {
    "headline": "Anthropic sets IPO price range and targets trillion-dollar valuation",
    "ts": "2026-11-10T12:37:25.483982+00:00"
+  },
+  {
+   "headline": "Alibaba subsidiary T-Head applies for Hong Kong IPO",
+   "ts": "2026-11-10T13:07:23.002969+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2135,8 +2151,8 @@
    "published_at": "2026-11-10T10:34:49+00:00",
    "first_seen_at": "2026-11-10T11:07:22.430225+00:00",
    "expires_at": "2026-11-11T22:34:49+00:00",
-   "priority": 8.53704,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.554377,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2162,7 +2178,59 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.481231,
+   "priority": 8.498568,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "646e58946cb76443",
+   "item": {
+    "id": "646e58946cb76443",
+    "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+    "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/",
+    "source": "Microsoft",
+    "image": "",
+    "snippet": "November 10, 2026 Category: Company News IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation Microsoft Source | 6 minutes IBM Consulting brings more than 6,000 prebuilt AI agents and assets, the experience building them, and industry expertise, while Microsoft provides AI, cloud and security technologies New platform comes with forward-deployed engineer…",
+    "published": "2026-11-10T13:00:08+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "IBM and Microsoft partner on AI agent platform",
+   "post": "IBM and Microsoft launched an AI agent platform for industry-specific transformations. IBM Consulting contributes over 6,000 prebuilt AI agents and assets alongside domain expertise.",
+   "editor_note": "Confirm the specific cloud and security technologies provided by Microsoft versus IBM's consulting assets.",
+   "published_at": "2026-11-10T13:00:08+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T13:00:08+00:00",
+   "priority": 8.497483,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "02e4a20d191af380",
+   "item": {
+    "id": "02e4a20d191af380",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "source": "Google AI Blog",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
+    "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "published": "2026-11-10T13:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Google Cloud launches Gemini for healthcare workflows",
+   "post": "Google Cloud released Gemini for healthcare to unify clinical data and automate administrative workflows in medical settings.",
+   "editor_note": "Check for specific clinical data standards or regional availability details mentioned in the full release.",
+   "published_at": "2026-11-10T13:00:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T13:00:00+00:00",
+   "priority": 8.497436,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2188,7 +2256,7 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.474664,
+   "priority": 8.492002,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2214,8 +2282,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.773997,
-   "selection_reason": "Time-sensitive story; waiting 8.0h"
+   "priority": 7.791334,
+   "selection_reason": "Time-sensitive story; waiting 8.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2241,8 +2309,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.632932,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
+   "priority": 7.650269,
+   "selection_reason": "Time-sensitive story; waiting 6.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2267,8 +2335,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.257435,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.274772,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2295,8 +2363,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.243586,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.269592,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2323,8 +2391,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.243586,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.269592,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2350,8 +2418,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.22159,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.238927,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2376,8 +2444,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.185017,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.202338,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2403,8 +2471,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.183604,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.200941,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2429,8 +2497,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.169281,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.186618,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2455,8 +2523,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.121182,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.138519,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2482,8 +2550,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.007408,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.024746,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2508,7 +2576,59 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.987862,
+   "priority": 7.008666,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 6.987323,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "72145b58f7c9a07a",
+   "item": {
+    "id": "72145b58f7c9a07a",
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
+    "published": "2026-11-10T11:47:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Sea earnings miss estimates amid rising AI costs",
+   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
+   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
+   "published_at": "2026-11-10T11:47:31+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-11T23:47:31+00:00",
+   "priority": 6.963025,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2536,7 +2656,7 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.868503,
+   "priority": 6.894508,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2563,8 +2683,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.386391,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 6.403711,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2590,8 +2710,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.373104,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 6.390424,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2617,8 +2737,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.288866,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 6.306203,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2643,34 +2763,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.202561,
-   "selection_reason": "Editorial importance; waiting 11.0h"
-  },
-  {
-   "id": "67dd0cfb36bf7333",
-   "item": {
-    "id": "67dd0cfb36bf7333",
-    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
-    "published": "2026-11-09T15:44:53+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Tencent AI chief warns of bioweapon risks from systems",
-   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
-   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
-   "published_at": "2026-11-09T15:44:53+00:00",
-   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
-   "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.17012,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 6.219898,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "1ff269d46373d006",
@@ -2696,8 +2790,34 @@
    "published_at": "2026-11-10T07:11:04+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:11:04+00:00",
-   "priority": 6.161466,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.178803,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "67dd0cfb36bf7333",
+   "item": {
+    "id": "67dd0cfb36bf7333",
+    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn…",
+    "published": "2026-11-09T15:44:53+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Tencent AI chief warns of bioweapon risks from systems",
+   "post": "Tencent chief AI scientist Vinces Yao Shunyu stated that AI will soon enable bioweapon development and argued that restricting open models is not an effective solution.",
+   "editor_note": "Confirm the specific mitigation steps Tencent plans to implement for its upcoming Hy4 open-weight model regarding dangerous capabilities.",
+   "published_at": "2026-11-09T15:44:53+00:00",
+   "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
+   "expires_at": "2026-11-11T03:44:53+00:00",
+   "priority": 6.15625,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2723,60 +2843,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 6.13065,
-   "selection_reason": "Editorial importance; waiting 11.5h"
-  },
-  {
-   "id": "d67288d027c7e193",
-   "item": {
-    "id": "d67288d027c7e193",
-    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
-    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
-    "published": "2026-11-09T14:00:44+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
-   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
-   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
-   "published_at": "2026-11-09T14:00:44+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.121902,
-   "selection_reason": "Editorial importance; waiting 22.5h"
-  },
-  {
-   "id": "eea9b1843c8a5753",
-   "item": {
-    "id": "eea9b1843c8a5753",
-    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
-    "published": "2026-11-09T14:00:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 6,
-   "urgency": "routine",
-   "headline": "US parents and teachers criticize Google school AI policy",
-   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
-   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
-   "published_at": "2026-11-09T14:00:11+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.121648,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 6.147971,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "2ebe94a1ece54e5f",
@@ -2802,8 +2870,60 @@
    "published_at": "2026-11-10T09:12:02+00:00",
    "first_seen_at": "2026-11-10T09:37:21.848454+00:00",
    "expires_at": "2026-11-11T21:12:02+00:00",
-   "priority": 6.092475,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.109812,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "d67288d027c7e193",
+   "item": {
+    "id": "d67288d027c7e193",
+    "title": "Meta Plans Sales Team, Consulting Partnerships to Win Over Big Companies",
+    "url": "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms is taking the next steps in a plan to build a new business selling its AI products to companies. The company has begun forming a sales organization to sell those products to small and midsize businesses and also forge relationships with consulting firms and systems integrators, including Accenture, Deloitte and IBM, to help it sell and deploy AI products to corporate customers, acco…",
+    "published": "2026-11-09T14:00:44+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Meta builds enterprise AI sales team and consulting partnerships",
+   "post": "Meta Platforms is building a dedicated sales team and partnering with consulting firms including Accenture, Deloitte, and IBM to sell and deploy its AI products to corporate customers, according to The Information.",
+   "editor_note": "Verify whether Meta or the named consulting firms have publicly confirmed the sales partnership plans.",
+   "published_at": "2026-11-09T14:00:44+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:44+00:00",
+   "priority": 6.108032,
+   "selection_reason": "Editorial importance; waiting 23.0h"
+  },
+  {
+   "id": "eea9b1843c8a5753",
+   "item": {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+    "snippet": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and admini…",
+    "published": "2026-11-09T14:00:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "US parents and teachers criticize Google school AI policy",
+   "post": "US parents and teachers are criticizing Google after the company stated that schools choosing to block its AI tools could also lose access to Google Search, according to The Guardian.",
+   "editor_note": "Verify Google's specific terms and policy wording regarding school administrator controls and Search access.",
+   "published_at": "2026-11-09T14:00:11+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:11+00:00",
+   "priority": 6.107778,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "d4ea8e3fa73ac74d",
@@ -2828,7 +2948,7 @@
    "published_at": "2026-11-10T12:30:58+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T00:30:58+00:00",
-   "priority": 5.99701,
+   "priority": 6.014347,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2856,8 +2976,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.96228,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 5.988285,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2884,8 +3004,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.368503,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 5.363301,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2910,8 +3030,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.292014,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 5.309351,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2936,34 +3056,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.278678,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "dbd9680f73cbc538",
-   "item": {
-    "id": "dbd9680f73cbc538",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "published": "2026-11-09T16:12:28+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Medium launches TK app with built-in AI writing tools",
-   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
-   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
-   "published_at": "2026-11-09T16:12:28+00:00",
-   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
-   "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.18289,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 5.268275,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "0cb7ad579ad86abd",
@@ -2988,8 +3082,34 @@
    "published_at": "2026-11-10T07:00:00+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T19:00:00+00:00",
-   "priority": 5.156342,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.173679,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "dbd9680f73cbc538",
+   "item": {
+    "id": "dbd9680f73cbc538",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "2026-11-09T16:12:28+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Medium launches TK app with built-in AI writing tools",
+   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
+   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
+   "published_at": "2026-11-09T16:12:28+00:00",
+   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
+   "expires_at": "2026-11-11T04:12:28+00:00",
+   "priority": 5.16902,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "91dadecb53ca5e70",
@@ -3015,8 +3135,8 @@
    "published_at": "2026-11-10T06:37:25+00:00",
    "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
    "expires_at": "2026-11-11T18:37:25+00:00",
-   "priority": 5.145887,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 5.163224,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "f885ef769180b46f",
@@ -3042,127 +3162,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.12897,
-   "selection_reason": "Editorial importance; waiting 20.0h"
-  },
-  {
-   "id": "bd74b7cf0c1bc812",
-   "item": {
-    "id": "bd74b7cf0c1bc812",
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
-    "published": "2026-11-09T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
-   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
-   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
-   "published_at": "2026-11-09T14:00:00+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.121563,
-   "selection_reason": "Editorial importance; waiting 22.5h"
-  },
-  {
-   "id": "16147b47fe778181",
-   "item": {
-    "id": "16147b47fe778181",
-    "title": "Meta launches tool on Muse to create custom interactive experiences",
-    "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Meta has introduced Spaces in its Muse app, allowing users to create customised AI tools and dashboards using prompts. Plans to enable sharing raise questions about privacy and access to personal data. The post Meta launches tool on Muse to create custom interactive experiences appeared first on MEDIANAMA .",
-    "published": "2026-11-09T10:34:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Meta adds Spaces tool to Muse app for custom AI dashboards",
-   "post": "Meta introduced a feature called Spaces in its Muse application, allowing users to generate customized AI tools and dashboards using prompts. Meta plans to add sharing capabilities for user-created tools.",
-   "editor_note": "Verify availability timeline and platform support for the Spaces feature in Meta Muse.",
-   "published_at": "2026-11-09T10:34:45+00:00",
-   "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
-   "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.026539,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "df3675d7a4445269",
-   "item": {
-    "id": "df3675d7a4445269",
-    "title": "SoftBank’s Mobile Arm Braces for Possible AI Correction in US",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/softbank-s-mobile-arm-braces-for-possible-ai-correction-in-us",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "The head of SoftBank Corp. is steeling himself for a possible slowdown in AI data center demand in the US and said that his company may look elsewhere for growth.",
-    "published": "2026-11-09T09:12:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "abd2c47a1388b3da",
-     "title": "软银为美国AI数据中心市场可能降温作准备",
-     "url": "https://36kr.com/newsflashes/4062370565510273?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "软银公司负责人正为美国人工智能（AI）数据中心需求可能放缓作准备，并表示公司可能转向其他市场寻求增长。软银集团旗下移动业务此前正为在美国开展新型AI云服务业务打基础，目前则在评估民主党上周横扫中期选举，以及反对建设数据中心的情绪日益升温所带来的影响。（新浪财经）",
-     "published": "2026-11-09T10:29:54+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "SoftBank Corp warns of potential US AI data center slowdown",
-   "post": "SoftBank Corp., SoftBank Group's telecom unit, stated it is preparing for a potential slowdown in US AI data center demand and seeking growth opportunities in other regions.",
-   "editor_note": "Confirm this statement comes from SoftBank Corp telecom leadership rather than SoftBank Group's Vision Fund.",
-   "published_at": "2026-11-09T09:12:52+00:00",
-   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
-   "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 4.988631,
-   "selection_reason": "Editorial importance; waiting 27.0h"
-  },
-  {
-   "id": "288844aa1b89ae14",
-   "item": {
-    "id": "288844aa1b89ae14",
-    "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
-    "url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。 根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。 此次合作体现了双方在探索具有挑战性、且长期以来被认为难以成药的靶点领域的共同意愿。这一领域不仅存在巨大的未满足医疗需求，也蕴含着创新药物研发的重要机遇。 对皮尔法伯集团而言，与晶泰科技的这份协议是其研发路线图的一次战略性补充，将进一步增强其药物发现能力；对晶泰科技而言，则意味着其 “AI+机器人”技术在药物从头设计上又向前推进了一步。双方携手，旨在加快高质量临床候选药物的发现，加速包括肿瘤及其他潜在治疗领域的多个研发项目。 晶泰科技小分子药物发现事业部负责人Raymond Zheng表示：“我们很荣幸能与国际知名制药企业皮尔法伯集团开展此次合作。此次合作将充分结合晶泰科技“AI+机器人”的药物发现能力，以及皮尔法伯集团在相关治疗领域积累的深厚研发经验，共同推进有潜力的临床前候选药物研发，惠及存在未被满足医疗需求的患者。” 皮尔法伯集团制药研发负责人 Francesco Hofmann表示：“与晶泰科技开展合作对我们而言是一个重要里程碑。借助晶泰科技在AI领域的专业能力，加快推进针对多个靶点高质量临床候选药物的交付，是对我们研发数据与AI路线图及药物…",
-    "published": "2026-11-09T07:28:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Pierre Fabre and XtalPi partner on AI oncology drug discovery",
-   "post": "Pierre Fabre Group and XtalPi announced an AI drug discovery partnership focused on oncology. XtalPi will use its AI and robotics platform to design small molecule therapeutics, while Pierre Fabre will conduct clinical development.",
-   "editor_note": "Check if financial terms or specific target counts were disclosed in the announcement.",
-   "published_at": "2026-11-09T07:28:00+00:00",
-   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
-   "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 4.940081,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 5.1151,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   }
  ]
 }
