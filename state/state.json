@@ -538,7 +538,15 @@
   "719bb566ef54dc42": "2026-11-10T01:07:22.062265+00:00",
   "796a7f7ee338b70f": "2026-11-10T01:07:22.062265+00:00",
   "ac841c16ab1a0f7b": "2026-11-10T01:07:22.062265+00:00",
-  "48b53c6a7cafa53f": "2026-11-10T01:07:22.062265+00:00"
+  "48b53c6a7cafa53f": "2026-11-10T01:07:22.062265+00:00",
+  "daaeaa9f86a3498c": "2026-11-10T01:37:25.783284+00:00",
+  "90149a16f651b396": "2026-11-10T01:37:25.783284+00:00",
+  "a49094bfad83ee39": "2026-11-10T01:37:25.783284+00:00",
+  "533ce0233d2d8d92": "2026-11-10T01:37:25.783284+00:00",
+  "c2bc6f2eec8b6271": "2026-11-10T01:37:25.783284+00:00",
+  "2f74281a77064951": "2026-11-10T01:37:25.783284+00:00",
+  "6289435bdbbde177": "2026-11-10T01:37:25.783284+00:00",
+  "7f59d45deb5af427": "2026-11-10T01:37:25.783284+00:00"
  },
  "covered": [
   {
@@ -700,11 +708,15 @@
   {
    "headline": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 models",
    "ts": "2026-11-10T01:07:22.062265+00:00"
+  },
+  {
+   "headline": "Anthropic Moves Forward With Initial Public Offering",
+   "ts": "2026-11-10T01:37:25.783284+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1816,6 +1828,279 @@
  },
  "pending": [
   {
+   "id": "85c252175e2ff7a3",
+   "item": {
+    "id": "85c252175e2ff7a3",
+    "title": "Trump says FBI looking into Nvidia CEO Jensen Huang's affair with 'Chinese agent'",
+    "url": "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
+    "source": "The Hindu",
+    "image": "https://th-i.thgim.com/public/incoming/urfsut/article71684780.ece/alternates/LANDSCAPE_1200/2026-11-09T181236Z_152511280_RC27ZNAALTS6_RTRMADP_3_NVIDIA-PROBE-TRUMP.JPG",
+    "snippet": "The sudden emergence of Nvidia CEO Huang's infidelity has created concerns about whether China has been able to access the cutting-edge chips designed by Nvidia that are powering the development of artificial intelligence",
+    "published": "2026-11-10T01:22:03+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "15c28179b2dc3ec9",
+     "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+     "published": "2026-11-09T23:07:59+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "8bba87f9b8c08fbd",
+     "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacts to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+     "published": "2026-11-09T22:07:56+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "d496d4579fa48cb3",
+     "title": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
+     "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "Stephen Neal is the board's lead independent director and head of corporate governance. Experts say how Nvidia handles the probe is crucial to retaining its reputation.",
+     "published": "2026-11-09T21:54:40+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "8f7d319fb9227286",
+     "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+     "url": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "image": "",
+     "snippet": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
+     "published": "2026-11-09T17:02:52+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "3541a994b8f0a12c",
+     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+     "published": "2026-11-09T20:09:06+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "911c46eab622809e",
+     "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/131_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=5cc65588e18a18b81a32194ec2137467",
+     "snippet": "The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s willingness to listen to intelligence warnings It could be the plot of a spy thriller. One of the most powerful figures in the AI revolution admitted to having an affair with a Chinese businesswomen said to have passed intelligence to Beijing. When Donald Trump was briefed about th…",
+     "published": "2026-11-09T18:51:10+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "b6d369b5abe69ce5",
+     "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
+     "url": "https://36kr.com/p/4063180322526336?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "今日热点导览 王健林任万达商管董事长 董宇辉自有品牌回应“首款蛋糕9个月保质期” 玛莎拉蒂将与尊界合作，推动本地化生产 美民主党拟对马斯克等发起调查 SpaceX拟在得州建设240亿美元超级计算设施 TOP 3大新闻 外媒：黄仁勋或被英伟达免职，尚未指定接班人 美东时间11月8日，英伟达创始人兼CEO黄仁勋于致员工信中承认婚外情，并向董事会、员工及全球股东致歉。英伟达董事会已宣布由独立董事和外部律师启动调查。彭博社报道称，作为英伟达联合创始人，黄仁勋以亲力亲为、不知疲倦的管理风格著称。这家公司尚未公布明确的接班计划，黄仁勋也没有明显的指定接班人。他多次表示希望在未来数十年继续执掌英伟达，并围绕自己建立了一种非正式的组织架构度。据路透社报道，美国投资机构Yorkville Ives的合伙人兼高级董事总经理丹·艾夫斯表示：“显然，根据董事会的调查结果，黄仁勋可能被免去首席执行官职务。”（中新经纬） 突然大规模封号，ChatGPT回应 11月8日，多家技术社区集中曝出OpenAI突发大规模账号封禁事件，大量用户在Reddit、国内开发者社群反馈ChatGPT账号无预警停用，其中包括每月订阅费用为200美元的Pro用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。 有网友推测这是OpenAI防止用户薅羊毛，开始限制同一台设备的账号上限。业内人士表示，OpenAI这个举止，绝非突然。之前，他们开启了逆向反代，还将ChatGPT和Codex合并为一个Token池。几天前，他们就悄悄锁死了单设备的付费号上限。还上线了一份《理解ChatGPT的支付卡与…",
+     "published": "2026-11-10T00:01:00+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    },
+    {
+     "id": "80f28abedec4296f",
+     "title": "The internet is roasting Jensen Huang's rough start to the week",
+     "url": "https://www.businessinsider.com/jensen-huang-affair-memes-2026-11",
+     "source": "Business Insider",
+     "image": "https://i.insider.com/6af204a980d4b24f183479a9?format=jpeg",
+     "snippet": "The internet lit up with memes after Jensen Huang admitted to having an affair. Some imagined a payday for Huang's wife. Others spoofed past cheating scandals, like the Coldplay \"kiss cam\" saga. One meme suggested Huang would be headed back to Denny's, where he worked at age 15. The internet is making light of Jensen Huang's decidedly dark start to the week. The Nvidia CEO told staff on Sunday tha…",
+     "published": "2026-11-09T22:21:09+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "66ba41ac6643ed1d",
+     "title": "Why Jensen-Gate may actually help the AI boom",
+     "url": "https://www.businessinsider.com/nvidia-jensen-huang-scandal-free-up-ai-chips-for-us-2026-11",
+     "source": "Business Insider",
+     "image": "https://i.insider.com/6af220ea8f37e8e0b5bab74a?format=jpeg",
+     "snippet": "Jensen Huang's affair and China spy claims rattle Nvidia, but global AI demand isn't impacted. The scandal could shift AI chip supply from China to US firms as Megaspeed faces scrutiny. US cloud giants could gain access to more AI chips as China gets cut off more severely. Nvidia CEO Jensen Huang's extramarital affair and the allegations of Chinese espionage surrounding it have rocked Silicon Vall…",
+     "published": "2026-11-09T21:23:04+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "dbb2861bdf036f71",
+     "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Nvidia Corp. Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy prompted bipartisan demands on Capitol Hill for more information as lawmakers rushed to assess the potential national security fallout from the scandal.",
+     "published": "2026-11-09T21:57:43+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "6ad5cdfac9ea7814",
+     "title": "Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
+     "url": "https://www.wsj.com/tech/jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-abd9ea9d?mod=rss_Technology",
+     "source": "The Wall Street Journal",
+     "image": "https://images.wsj.net/im-18001315",
+     "snippet": "The board of directors has launched an investigation into reports that the CEO was targeted by a Chinese spy.",
+     "published": "2026-11-09T19:59:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "d632a535d7566ecb",
+     "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Nvidia Corp.’s general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International, questioning whether the Trump administration played a role in detaining an executive from the Singapore-based firm who’s now at the heart of a scandal threatening Jensen Huang.",
+     "published": "2026-11-09T21:28:26+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 10,
+   "urgency": "breaking",
+   "headline": "Nvidia Board Investigates CEO Jensen Huang Over Affair Allegations",
+   "post": "Nvidia announced an independent board investigation into CEO Jensen Huang following his admission of an extramarital affair and reports involving a Singapore-based AI chip firm.",
+   "editor_note": "Verify official company statements regarding the independent investigation and status of the CEO.",
+   "published_at": "2026-11-09T17:02:52+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:02:52+00:00",
+   "priority": 10.261776,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "f1eea0a2781af6aa",
+   "item": {
+    "id": "f1eea0a2781af6aa",
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+    "published": "2026-11-09T19:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "2e186972ef6cdfd3",
+     "title": "Introducing Claude Fable 5.2 on AWS",
+     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+     "source": "AWS AI",
+     "image": "",
+     "snippet": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+     "published": "2026-11-09T20:04:37+00:00",
+     "images": true,
+     "category": "primary",
+     "source_cap": 2
+    },
+    {
+     "id": "56a49980686e6366",
+     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+     "published": "2026-11-09T19:24:51+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "80232a51174b6f5c",
+     "title": "Anthropic Releases New Frontier Models as IPO Nears",
+     "url": "https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears",
+     "source": "The Information",
+     "image": "",
+     "snippet": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, the latest updates in its most advanced model lines, on Monday as the company prepares for its historic IPO. The two models rely on the same underlying technology but Fable has stronger safeguards around cybersecurity and biological ...",
+     "published": "2026-11-09T21:22:50+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "04830ab84828baea",
+     "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+     "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
+     "published": "2026-11-09T19:00:01+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 9,
+   "urgency": "breaking",
+   "headline": "Anthropic Releases Claude Fable and Mythos 5.2 Models",
+   "post": "Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, featuring updates to coding, reasoning, and vision capabilities as the company prepares for an initial public offering.",
+   "editor_note": "Check availability details on Amazon Bedrock and AWS platforms.",
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T07:00:00+00:00",
+   "priority": 9.316005,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "51fd6bae6a94af5c",
+   "item": {
+    "id": "51fd6bae6a94af5c",
+    "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+    "source": "AWS AI",
+    "image": "",
+    "snippet": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
+    "published": "2026-11-09T20:01:20+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "NVIDIA Nemotron 3.5 Super VL Available on SageMaker",
+   "post": "Amazon SageMaker JumpStart added NVIDIA Nemotron 3.5 Super VL, a 120-billion parameter multimodal vision-language model available in NVFP4 and BF16 variants.",
+   "editor_note": "Verify specific deployment steps and supported instance types on SageMaker JumpStart.",
+   "published_at": "2026-11-09T20:01:20+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T20:01:20+00:00",
+   "priority": 8.3833,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "1f917ef42e116f1b",
    "item": {
     "id": "1f917ef42e116f1b",
@@ -1838,7 +2123,33 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.285679,
+   "priority": 7.303076,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "cb7863665107d049",
+   "item": {
+    "id": "cb7863665107d049",
+    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
+    "published": "2026-11-09T17:58:05+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
+   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
+   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
+   "published_at": "2026-11-09T17:58:05+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:58:05+00:00",
+   "priority": 7.28734,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -1864,8 +2175,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.378856,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.396253,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -1890,8 +2201,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.378601,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.395998,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -1929,8 +2240,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.302145,
-   "selection_reason": "Editorial importance"
+   "priority": 6.319542,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -1955,8 +2266,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.301986,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.319383,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -1982,8 +2293,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 5.987052,
-   "selection_reason": "Editorial importance"
+   "priority": 6.004449,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2009,7 +2320,33 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 5.973765,
+   "priority": 5.991162,
+   "selection_reason": "Editorial importance; waiting 0.5h"
+  },
+  {
+   "id": "4a7141713ab5f922",
+   "item": {
+    "id": "4a7141713ab5f922",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+    "published": "2026-11-09T19:09:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "Apple Introduces Paid Usage Packs for Apple Intelligence",
+   "post": "Apple updated Logic Pro with an option to purchase additional Apple Intelligence usage packs for a one-time price of $49.99.",
+   "editor_note": "Confirm whether usage packs apply to other software applications beyond Logic Pro.",
+   "published_at": "2026-11-09T19:09:58+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T07:09:58+00:00",
+   "priority": 5.820619,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2036,8 +2373,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.731311,
-   "selection_reason": "Editorial importance"
+   "priority": 5.748708,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2064,8 +2401,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.488304,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 5.483085,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2090,8 +2427,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.424491,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 5.445368,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2116,8 +2453,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.378517,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 5.395914,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2142,8 +2479,34 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.34601,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 5.332093,
+   "selection_reason": "Editorial importance; waiting 14.5h"
+  },
+  {
+   "id": "dbd9680f73cbc538",
+   "item": {
+    "id": "dbd9680f73cbc538",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "2026-11-09T16:12:28+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Medium launches TK app with built-in AI writing tools",
+   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
+   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
+   "published_at": "2026-11-09T16:12:28+00:00",
+   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
+   "expires_at": "2026-11-11T04:12:28+00:00",
+   "priority": 5.300929,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2182,61 +2545,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.308101,
-   "selection_reason": "Editorial importance; waiting 15.5h"
-  },
-  {
-   "id": "dbd9680f73cbc538",
-   "item": {
-    "id": "dbd9680f73cbc538",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "published": "2026-11-09T16:12:28+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Medium launches TK app with built-in AI writing tools",
-   "post": "Medium released TK, a writing application that incorporates AI-assisted text generation and editing directly into the writing interface.",
-   "editor_note": "Verify platform availability and whether AI features require a paid Medium membership.",
-   "published_at": "2026-11-09T16:12:28+00:00",
-   "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
-   "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.283532,
-   "selection_reason": "Editorial importance; waiting 8.5h"
-  },
-  {
-   "id": "288844aa1b89ae14",
-   "item": {
-    "id": "288844aa1b89ae14",
-    "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
-    "url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。 根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。 此次合作体现了双方在探索具有挑战性、且长期以来被认为难以成药的靶点领域的共同意愿。这一领域不仅存在巨大的未满足医疗需求，也蕴含着创新药物研发的重要机遇。 对皮尔法伯集团而言，与晶泰科技的这份协议是其研发路线图的一次战略性补充，将进一步增强其药物发现能力；对晶泰科技而言，则意味着其 “AI+机器人”技术在药物从头设计上又向前推进了一步。双方携手，旨在加快高质量临床候选药物的发现，加速包括肿瘤及其他潜在治疗领域的多个研发项目。 晶泰科技小分子药物发现事业部负责人Raymond Zheng表示：“我们很荣幸能与国际知名制药企业皮尔法伯集团开展此次合作。此次合作将充分结合晶泰科技“AI+机器人”的药物发现能力，以及皮尔法伯集团在相关治疗领域积累的深厚研发经验，共同推进有潜力的临床前候选药物研发，惠及存在未被满足医疗需求的患者。” 皮尔法伯集团制药研发负责人 Francesco Hofmann表示：“与晶泰科技开展合作对我们而言是一个重要里程碑。借助晶泰科技在AI领域的专业能力，加快推进针对多个靶点高质量临床候选药物的交付，是对我们研发数据与AI路线图及药物…",
-    "published": "2026-11-09T07:28:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Pierre Fabre and XtalPi partner on AI oncology drug discovery",
-   "post": "Pierre Fabre Group and XtalPi announced an AI drug discovery partnership focused on oncology. XtalPi will use its AI and robotics platform to design small molecule therapeutics, while Pierre Fabre will conduct clinical development.",
-   "editor_note": "Check if financial terms or specific target counts were disclosed in the announcement.",
-   "published_at": "2026-11-09T07:28:00+00:00",
-   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
-   "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.259552,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 5.294184,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2262,8 +2572,35 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.229613,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 5.24701,
+   "selection_reason": "Editorial importance; waiting 9.0h"
+  },
+  {
+   "id": "288844aa1b89ae14",
+   "item": {
+    "id": "288844aa1b89ae14",
+    "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
+    "url": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。 根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子治疗药物。皮尔法伯集团将发挥其在疾病生物学、药物发现、转化研究和临床开发领域的经验，筛选、推进最有前景的化合物，并负责后续的临床与商业开发。 此次合作体现了双方在探索具有挑战性、且长期以来被认为难以成药的靶点领域的共同意愿。这一领域不仅存在巨大的未满足医疗需求，也蕴含着创新药物研发的重要机遇。 对皮尔法伯集团而言，与晶泰科技的这份协议是其研发路线图的一次战略性补充，将进一步增强其药物发现能力；对晶泰科技而言，则意味着其 “AI+机器人”技术在药物从头设计上又向前推进了一步。双方携手，旨在加快高质量临床候选药物的发现，加速包括肿瘤及其他潜在治疗领域的多个研发项目。 晶泰科技小分子药物发现事业部负责人Raymond Zheng表示：“我们很荣幸能与国际知名制药企业皮尔法伯集团开展此次合作。此次合作将充分结合晶泰科技“AI+机器人”的药物发现能力，以及皮尔法伯集团在相关治疗领域积累的深厚研发经验，共同推进有潜力的临床前候选药物研发，惠及存在未被满足医疗需求的患者。” 皮尔法伯集团制药研发负责人 Francesco Hofmann表示：“与晶泰科技开展合作对我们而言是一个重要里程碑。借助晶泰科技在AI领域的专业能力，加快推进针对多个靶点高质量临床候选药物的交付，是对我们研发数据与AI路线图及药物…",
+    "published": "2026-11-09T07:28:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Pierre Fabre and XtalPi partner on AI oncology drug discovery",
+   "post": "Pierre Fabre Group and XtalPi announced an AI drug discovery partnership focused on oncology. XtalPi will use its AI and robotics platform to design small molecule therapeutics, while Pierre Fabre will conduct clinical development.",
+   "editor_note": "Check if financial terms or specific target counts were disclosed in the announcement.",
+   "published_at": "2026-11-09T07:28:00+00:00",
+   "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
+   "expires_at": "2026-11-10T19:28:00+00:00",
+   "priority": 5.245634,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2289,8 +2626,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 5.102145,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 5.088227,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   }
  ]
 }
