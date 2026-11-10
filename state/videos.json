@@ -1,18 +1,937 @@
 {
  "version": 1,
- "videos": {},
+ "videos": {
+  "zakFNEOPq0M": {
+   "id": "zakFNEOPq0M",
+   "title": "Making AI Animation with a Traditional Animator’s Mindset",
+   "description": "This Film was created entirely in Flick 🎬 Get 300 free credits and make your own film: https://flick.art/?utm_source=youtube&utm_content=simay-animation-mindset&utm_creator=flick Great AI animation doesn’t start with a prompt. In this tutorial, motion designer and award-winning AI filmmaker Simay Ezer Pekcan (https://x.com/cmyaiworld) shows how she made her new short, Tomris and the Ferret, a comedy chase on an Orient Express-style night train, by combining the traditional animation pipeline with AI. In this tutorial, you’ll learn her full workflow: finding your idea and intent, building your world and locking your style with real-life references, designing characters that read clearly from far away, storyboarding and blocking your shots in 3D stage, and matching the right references to generate each shot in Seedance. Along the way, you’ll pick up practical tips on character sheets and continuity, why a quick sketch storyboard saves time and credits, and how to stop the AI from filling gaps with generic guesses. Whether you’re planning your first short or your next film, this is a clear path from a spark of inspiration to finished shots. ⏱️ CHAPTERS 00:00 – Intro 00:55 – Tutorial Overview 1:50 – The Idea 3:16 – Build the World 4:37 – Characters 6:11 – Storyboard and Blocking 9:20 – Outro Made entirely in Flick 🎬 Get 300 free credits to create your own film at https://flick.art/?utm_source=youtube&utm_content=simay-animation-mindset&utm_creator=flick 🔗 Learn more about creating AI short films in Flick: Instagram: https://www.instagram.com/flickartai/ Discord: https://discord.com/invite/SPYgXej78k X: https://x.com/flickartHQ Linkedin: https://www.linkedin.com/company/flickart/ Tiktok: https://www.tiktok.com/@flick.art Reddit: https://www.reddit.com/r/Flickart/ #aivideo #a",
+   "channel": "Flick",
+   "channel_id": "UCkX5L44seRTvUAHNllhHBrw",
+   "duration": 577,
+   "published_at": "2026-10-30T16:42:23+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "Eie38cU0IFo": {
+   "id": "Eie38cU0IFo",
+   "title": "How To Start Making AI Animations in 2027",
+   "description": "AI Animation Tutorial: Create Consistent Characters and Scenes in OpenArt Start animating with OpenArt! 30% off for Halloween season: https://openart.ai/home?utm_source=youtube&utm_medium=influencer&utm_campaign=infl-youtube--na-acq-web&ref=mira Hey friends ✨, in this beginner AI animation tutorial, I’ll walk you through an OpenArt workflow for keeping your character and visual style consistent across a whole scene. We’ll define a style, build a character sheet, save and tag our character, and create matching keyframes before animating them with Seedance 2.5. You’ll learn how to prompt movement and camera direction, use timeline beats and expressive acting, and bring the scene together with a consistent voice, sound effects, and music. I’ll also cover fixing style drift and cutting the shots together so the animation feels connected. Prompt pack: https://docs.google.com/document/d/1bLPEZCR5wf5lczyDnXPddZ-s03m4wIkpFDCK35Wsh6k/edit?usp=sharing",
+   "channel": "Mira AI",
+   "channel_id": "UCLmBFlpNOjLxpFEV5_Ax0mg",
+   "duration": 468,
+   "published_at": "2026-10-28T17:23:58+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "RgTr-7unUzA": {
+   "id": "RgTr-7unUzA",
+   "title": "I found a way to make these AI animations for $0",
+   "description": "You guys really liked this new Ifverse-style what-if animation format, and quite a few of you wanted to know how to recreate it without spending any money. So, I went on another adventure lol. This time, through deserts, tropical islands, and probably underwater just to find a free workflow that actually works. 😂 In this tutorial, I'll show you how to create these animations using AI coding agents, specifically **OpenCode and Claude Code**. Instead of relying on traditional image-to-video workflows, we're using AI agents to handle the animation creation process through code. I'll walk you through setting up the agents, preparing your instructions, generating the animation, and getting everything working from scratch. I also decided to compare OpenCode against Claude Code so you can see how both agents perform, what kind of results they produce, and which one I'd personally recommend for this animation style. Perfect for beginners interested in AI animation, creators who want to experiment with coding agents, or anyone looking to create high-quality Ifverse-style animations using free tools. 🎬 WHAT YOU'LL LEARN ✅ How to recreate the trending Ifverse-style what-if animations ✅ How to set up OpenCode and Claude Code ✅ How to use AI coding agents to create animations ✅ How to structure your instructions and prompts for the agents ✅ How to generate animated scenes using code ✅ How to build your animation workflow from scratch ✅ OpenCode vs. Claude Code: comparing their outputs ✅ How to improve the quality of your generated animations ✅ How to choose the agent that works best for your workflow ✅ How to reuse the workflow to create your own what-if animation videos I put quite a bit of time into researching and testing this one, so I hope you enjoy it! Let me know which agent ",
+   "channel": "Jacksons AI",
+   "channel_id": "UCKOTiVw2u_e5LK40-YBTVlQ",
+   "duration": 893,
+   "published_at": "2026-11-09T03:15:30+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "sent",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-10T03:38:36.383371+00:00",
+   "review": {
+    "task": "Create cinematic 2D what-if style animations using open-source AI coding agents and free AI models",
+    "demonstrated": "Downloading OpenCode desktop, setting up ElevenLabs API key in a workspace, instructing the agent to run an animation skill, and rendering a full 2D what-if video.",
+    "creator_claim": "One instruction generates a complete animation script, voiceover, animation, sound effects, and final video using a free AI model.",
+    "requirements": "Mac/Windows/Linux, ElevenLabs account with API key, OpenCode desktop client",
+    "cost": "$0 using OpenCode with free GLM model, or paid subscription for Claude Code/Opus",
+    "caveat": "Relies on pre-written skill files (.md and templates) provided in the workflow folder; does not show writing the core animation engine from scratch.",
+    "workflow_key": "ai animation opencode elevenlabs",
+    "category": "creative",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 204,
+      "observation": "Downloading OpenCode Desktop installer for macOS."
+     },
+     {
+      "seconds": 302,
+      "observation": "Creating an ElevenLabs API key and setting permissions for developer access."
+     },
+     {
+      "seconds": 748,
+      "observation": "Playing the generated what-if animation video featuring stickman graphics and narration."
+     }
+    ],
+    "tools": [
+     "OpenCode",
+     "Claude Code",
+     "GLM-5.3",
+     "Opus 5.5",
+     "ElevenLabs"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 9
+    }
+   },
+   "sent_at": "2026-11-10T03:38:36.383371+00:00"
+  },
+  "-fgNFJCQZGk": {
+   "id": "-fgNFJCQZGk",
+   "title": "How to Make Viral Stickman Animated Shorts Using FREE AI TOOLS (NO CLAUDE CODE)",
+   "description": "Want to create entertaining 2D stickman animation videos with 3D-style backgrounds, just like the videos from Rick's Clips? In this tutorial, I'll show you how to recreate this animation style using FREE AI tools, one simple master prompt, and absolutely NO CODING! You'll learn how to generate original story ideas, create animated characters, produce complete scenes, add AI voiceovers, and edit everything into YouTube Shorts, Instagram Reels, or TikTok videos. 🎯 WHAT YOU'LL LEARN How to create Rick's Clips-style animated videos with AI How to generate 10 video ideas using ChatGPT How to create consistent 2D characters and 3D-style animated scenes How to generate AI videos using Google Flow and Omni Flash How to connect multiple 10-second clips into one story How to add AI narration, captions, and sound effects How to generate thumbnails, titles, and descriptions 🛠️ FREE AI TOOLS USED ✅ ChatGPT — Ideas, scripts, and video prompts ✅ Google Flow — AI video generation and thumbnails ✅ ElevenLabs — AI voiceovers ✅ CapCut — Video editing and captions 🎁 GET THE FREE MASTER PROMPT Comment \"MARK AI GUY\" below, and I'll share the exact prompt used in this tutorial completely free! 💬 JOIN OUR AI CREATOR COMMUNITY https://t.me/markaiguyHQ 🔎 SEO KEYWORDS Rick's Clips tutorial, Ricks Clips AI animation, how to make Rick's Clips videos, stickman animation with AI, 3D stickman animation, 2D characters 3D backgrounds, AI animation tutorial 2026, free AI video generator, Google Flow AI tutorial, Omni Flash AI, ChatGPT animation prompts, faceless YouTube channel, YouTube Shorts automation, AI storytelling, AI cartoon animation, animated YouTube Shorts, how to make viral Shorts, AI video editing, CapCut tutorial, ElevenLabs voiceover, no coding AI animation, free AI tools 2026, Instagram R",
+   "channel": "Mark Ai Guy",
+   "channel_id": "UCFM1cy1pkCbdp1hAZMb-HvA",
+   "duration": 745,
+   "published_at": "2026-11-09T01:30:01+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
+  },
+  "Yj5LpSq_7xI": {
+   "id": "Yj5LpSq_7xI",
+   "title": "I Made Viral NEW AI Animation Videos Using ONLY Claude (FREE Plugin)",
+   "description": "Want to create viral AI animation videos without paying for expensive AI image or video generators? In this tutorial, I'll show you how to make fully animated YouTube videos using Claude AI and my FREE Kaz Chart Plugin! 🔥 One video using this animation style reached over 5 MILLION views in just 9 days, while another gained 2.2 MILLION views in 10 days! But here's the interesting part: You don't have to copy the same sea creature niche. You can use this animation style for prehistoric creatures, animal facts, science, history, survival, and many other niches. In this video, I'll show you how to find unique video ideas, generate scripts, create voiceovers, and turn everything into animated videos using Claude AI. 🚀 **FREE RESOURCES** 🎁 Download Kaz Chart Plugin: https://drive.google.com/drive/folders/1KQIqFBPkm8aEa46uvjYyaC-bk2Cv61S3?usp=sharing 🎁 Get the Master Prompt: https://drive.google.com/drive/folders/1KQIqFBPkm8aEa46uvjYyaC-bk2Cv61S3?usp=sharing 🎙️ Try ElevenLabs: https://try.elevenlabs.io/axy9kpsgs2if **WHAT YOU'LL LEARN:** ✅ How to find viral animation niches and sub-niches ✅ How to generate unique video ideas using Claude AI ✅ How to create engaging scripts for animated videos ✅ How to install my free Kaz Chart Plugin as a Claude skill ✅ How to turn scripts and voiceovers into animated videos ✅ How to create longer animated YouTube videos ✅ How to create animations without paid AI video generators For this tutorial, I'm creating a prehistoric creature video called \"The Armored Fish That Didn't Need Teeth\" using Claude AI. You don't need expensive tools like Higgsfield or other paid AI video generators to follow this animation workflow. You'll need access to a compatible Claude plan, and I'm using ElevenLabs for the voiceovers. Everything I've created for this t",
+   "channel": "Grow With Kaz",
+   "channel_id": "UCnGPmAcR-LCVm_TPxQ633Xw",
+   "duration": 626,
+   "published_at": "2026-11-06T16:45:02+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   }
+  },
+  "_fIoJ_ywGfY": {
+   "id": "_fIoJ_ywGfY",
+   "title": "How to Make Ultra-Realistic 3D Animated Shorts Using Claude (Full Workflow)",
+   "description": "How to make ultra-realistic 3D animated shorts with Claude, step by step. I gave Claude a channel's 50 most-viewed shorts, it measured all 47,709 frames, and then it built a realistic 3D short in real Blender: a realistic human, real scanned bones, a city, clouds and the Earth, rendered on my own PC. No AI video generator. In this video: • Claude measures 47,709 frames at 30 fps and finds the formula behind the style • The 9-second test: 19 audio tracks for 9 seconds • A realistic face, fully open source: 52 blend shapes, the same set iPhone face capture uses • Building the world: a 440-building city, 34 volumetric clouds and the Earth • Why it still looked fake, and the 21 tutorials that fixed it • The render: from 11 hours down to 61 minutes • The easier way: one prompt, 13 messages, one evening • The skill, so you can make the same type of short The 3D shorts skill is in my Skool community (drop it into your Claude and it learns the whole process): https://www.skool.com/mromi Chapters 0:00 Two videos 0:28 Nobody shows this with AI 1:00 47,709 frames 3:00 The 9-second test 4:58 The face 6:46 The world 8:18 Look, sound and render 10:25 The easier way 10:56 Side by side 11:24 The skill Music: Lukrembo - bread Bones: BodyParts3D, The Database Center for Life Science (CC BY-SA 2.1 JP) Field markings: \"American football field Diagram Template\" by Der Kumpel vom Bashi Rel (Wikimedia Commons, CC BY-SA 3.0 DE) Earth imagery: NASA #ClaudeAI #3DAnimation #Blender3D",
+   "channel": "Mr omi",
+   "channel_id": "UCRj1ZF-nLuCK5NFFo2Qkzyg",
+   "duration": 746,
+   "published_at": "2026-11-03T14:10:47+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "haCdbUJiuS4": {
+   "id": "haCdbUJiuS4",
+   "title": "How I Create UNLIMITED Stickman Animation with AI 100% FREE",
+   "description": "Stickman zombie and survival animations are taking off right now, and in this tutorial, I'm showing you how to create them using a completely free workflow. This time, we're going a little further because I want you to be able to produce as many of these videos as you want without constantly worrying about expensive subscriptions. I've been looking into this style and figuring out how to make the entire process easier, so I'm sharing the tools, techniques, and scripting patterns I've found useful for getting much better results. I'll also show you how I'd use a special tool to speed up production and help pump out more videos without doing everything manually. Because honestly, nobody wants to spend three hours making one stickman fight scene lol. We'll go through the entire process, from coming up with video ideas and writing high-quality scripts to generating your visuals, creating the animations, and putting everything together. I'll also share the scripting techniques and tools I'd use to make your stories more engaging and your animations look much better. Perfect for beginners who want to start a stickman zombie or survival channel, creators looking for a completely free production workflow, or anyone who wants to take their stickman animation skills to the next level. #stickmananimation #stickmansurvival 🎬 WHAT YOU'LL LEARN ✅ How to create stickman zombie and survival videos from scratch ✅ How to set up a completely free AI animation workflow ✅ How to find interesting ideas for your stickman survival videos ✅ How to write high-quality scripts that keep viewers watching ✅ The scripting patterns I use to create more engaging stories ✅ How to generate consistent stickman characters and visuals ✅ How to animate your scenes and bring your stories to life ✅ How to use ",
+   "channel": "Jacksons AI",
+   "channel_id": "UCKOTiVw2u_e5LK40-YBTVlQ",
+   "duration": 1333,
+   "published_at": "2026-11-02T03:00:01+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "zocKB90jZZg": {
+   "id": "zocKB90jZZg",
+   "title": "Claude (Free Plan) + Google Vids = Full Stickman Animations on Autopilot",
+   "description": "You guys wanted stickman animations on autopilot, so I went back and put together another workflow! 🫡 In my previous tutorial, I showed you how to automate the entire process using plugins, but some of you asked for a simpler alternative using just Claude and a completely free tool. So, I decided to make exactly that. In this tutorial, I'll walk you through the entire setup, showing you how to use Claude to handle the workflow, generate your scripts, create your stickman visuals, animate your scenes, and put everything together into a finished video. The goal is to automate as much of the process as possible so you can create more videos without having to do everything manually. This is perfect for beginners, creators looking to start a stickman animation channel, or anyone who wants to automate their content creation without spending money on expensive tools or complicated plugins. 🎬 WHAT YOU'LL LEARN ✅ How to set up Claude for automated stickman animation ✅ How to connect Claude with a completely free tool ✅ How to generate video ideas and write your scripts ✅ How to automate the creation of stickman visuals ✅ How to generate and animate your scenes ✅ How to bring everything together into a complete video ✅ How to automate repetitive parts of the production process ✅ How to create more stickman animations using the same workflow Hope you enjoy this one! Let me know what you think in the comments. Business inquiries:📞 brandforjackson@gmail.com Join my private community: https://jacksonshq.com Get freebies and updates🎁: https://jacksonshub.com Free telegram group: https://tinyurl.com/Jacksonsai Prompt shop: COMING SOON Comment \"Prompt\" to receive the prompt packet used 🎁📌 #stickmananimation #claudeai #googlevids DISCLAIMER (Earnings & Affiliate Info) Earnings or statist",
+   "channel": "Jacksons AI",
+   "channel_id": "UCKOTiVw2u_e5LK40-YBTVlQ",
+   "duration": 1090,
+   "published_at": "2026-11-04T04:15:18+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
+  },
+  "OtbLL6OBNE4": {
+   "id": "OtbLL6OBNE4",
+   "title": "How to Make Viral Animated Shorts Using Claude (Full Workflow)",
+   "description": "How to make viral animated shorts with Claude, step by step. I gave Claude a channel's latest 20 shorts, it studied them frame by frame at 30 fps, and then it built a full animated short with our own story: 2D characters in a colourful 3D world, made with three.js on my own PC. No AI video generator. In this video: • Claude watches 20 shorts at 30 fps and writes a style bible • The script formula it found, and why the hook is one sentence • Picking our own story: the bridge that fell for a song • Building the town, the characters and the camera in three.js • Why the first version looked cheap • Seven agents comparing our frames with the reference, one topic each • What they found: ink lines, lens blur, camera glides and shadow colours • The free skill, so you can make the same type of short Free skill (copy it into your Claude and it learns the whole process): https://github.com/mromidev/claude-animated-shorts More skills + realistic 3D (paid community): https://www.skool.com/mromi Chapters 0:00 Two videos 0:34 20 shorts at 30 fps 1:35 The workflow 3:50 Our own story 4:55 Building it 6:44 Why it looked cheap 7:35 The agent team 8:35 What they found 9:44 The free skill Music: Lukrembo - bread #ClaudeAI #AIAnimation #threejs",
+   "channel": "Mr omi",
+   "channel_id": "UCRj1ZF-nLuCK5NFFo2Qkzyg",
+   "duration": 713,
+   "published_at": "2026-11-01T06:15:41+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "e8Ywi7AprYw": {
+   "id": "e8Ywi7AprYw",
+   "title": "How to Set Up Claude for Small Business (AI Automation Guide)",
+   "description": "#sponsored Use code AIMASTER to get your .Online domain at just $0.99 for the first year https://get.online/aimaster2 🚀 Learn AI with hands-on courses → https://aimaster.me/yt/claudebusiness 🤝 Exclusive brand partnership → https://aimaster.me/collab Can Claude actually run the routine parts of a small business instead of waiting for a new prompt every time? In this video, I install Anthropic’s Small Business plugin, connect Gmail, Google Calendar and QuickBooks, and set it up around a real cleaning-company workflow. From there, Claude builds Monday briefs, drafts replies to new leads, follows up on overdue invoices, creates client proposals, learns company-specific rules, and eventually runs the repeatable parts on a schedule — while customer-facing decisions, pricing and anything involving money still stay behind human approval. 📌 Timestamps: 00:00 — Can Claude Run a Small Business? 00:16 — Install the Small Business Plugin 00:31 — Skills, Connectors, and How the Plugin Works 01:13 — Set Up the Business and Online Presence 02:14 — Connect Gmail, Calendar, QuickBooks, and Business Data 02:55 — Teach Claude How the Business Actually Works 04:05 — Build Better AI Workflows for Your Business 05:12 — Create a Monday Brief Across All Business Tools 06:25 — Decide Which Processes to Hand Over First 06:58 — Automate New Lead Responses 08:28 — Teach Claude New Business Rules From Real Cases 09:32 — Follow Up on Overdue Invoices 11:10 — Permissions, Approvals, and Sensitive Business Data 12:06 — Turn Client Notes Into a Finished Proposal 13:27 — Customize Claude Around Your Existing Templates 14:24 — Schedule Recurring Business Workflows 16:08 — Improve the Automation After Real Use 16:52 — How to Set This Up for Your Own Business 18:02 — What a Good Claude Business Workflow Sho",
+   "channel": "AI Master",
+   "channel_id": "UC0yHbz4OxdQFwmVX2BBQqLg",
+   "duration": 1108,
+   "published_at": "2026-10-31T13:15:01+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 9
+   }
+  },
+  "HTYekI37d2U": {
+   "id": "HTYekI37d2U",
+   "title": "How to Automate Your Daily Work Using AI (Save Hours Every Day!)",
+   "description": "Want to save hours every day using Artificial Intelligence? In this video, you'll discover how to automate your daily work using AI tools. From writing emails and researching information to managing tasks, creating content, scheduling meetings, and connecting different apps, AI can make your everyday workflow faster and easier. We'll explore practical AI tools like ChatGPT, Google Gemini, Perplexity, Notion AI, Todoist, Canva, Grammarly, Zapier, and Make. Whether you're a student, freelancer, content creator, or business owner, these AI automation techniques can help you work smarter and become more productive. In this video, you'll learn: * How to automate emails using AI * How to research faster with AI * How to organize daily tasks * How to create content with AI * How to manage your schedule * How to automate repetitive work * How to connect different apps using automation tools Start small, automate one task at a time, and discover how AI can transform your daily routine. Subscribe to Tiny Automation for more AI tools, automation tutorials, and productivity tips! #AITools #AIAutomation #Productivity",
+   "channel": "tiny automation",
+   "channel_id": "UCphCwEVsJcG0rgQtuNTDq6Q",
+   "duration": 583,
+   "published_at": "2026-11-03T14:34:52+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "VbOaabW4i1A": {
+   "id": "VbOaabW4i1A",
+   "title": "How to Automate Your Daily Tasks Using AI in 2026 (Step-by-Step Tutorial)",
+   "description": "Are you tired of spending hours on emails, scheduling, research, reports and repetitive daily tasks? What if AI could help you get more done in less time? In this step-by-step tutorial, you'll discover how to use Artificial Intelligence (AI) to automate your daily tasks, simplify your workflow and boost your productivity. Whether you're a beginner, freelancer, virtual assistant, content creator, entrepreneur or busy professional, this video will show you practical ways to work smarter with AI. WHAT YOU WILL LEARN: * How to use AI to organize your daily tasks and schedule. * How to manage emails and generate professional replies with AI. * How to automate research and summarize information. * How to create meeting notes and action points automatically. * How to use AI to prepare reports and documents. * How to connect applications using automation tools. * How to save time by automating repetitive activities. * Common AI automation mistakes and how to avoid them. You don't need to be a programmer or technology expert to get started. With the right tools and instructions, you can begin building a smarter, more productive workflow today. Your time is valuable. Stop doing everything manually and start working smarter with AI. If you find this tutorial helpful, LIKE this video, SUBSCRIBE to ''THE AI TOOL LAB'', and turn on notifications for more practical AI tutorials, tools and automation tips. 👇 COMMENT BELOW: Which daily task would you love to automate first? #aitools #aiautomation #artificialintelligence #productivitytips #chatgpt #makeautomation #zapieralternative #aitutorial #worksmarter #TheAIToolLab",
+   "channel": "The AI Tool Lab",
+   "channel_id": "UCVmwgG6WzQK-O2WB7bxKESQ",
+   "duration": 599,
+   "published_at": "2026-11-05T05:00:23+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "QyDR-B_4WCg": {
+   "id": "QyDR-B_4WCg",
+   "title": "How I Use Claude Cowork to Automate 99% Of My Life (Full Guide)",
+   "description": "Discover how to use Claude Cowork to automate everyday tasks, save time, and boost your productivity! In this full guide, we'll explore how Claude Cowork can help you organize files, research information, create documents, manage projects, and automate repetitive workflows. 🤖 What You'll Learn: What Claude Cowork is and how it works How to automate repetitive tasks with AI How to organize files and folders How to create documents, reports, and spreadsheets How to use AI for research and productivity How to build smarter AI workflows How scheduled tasks can save you time Tips for using Claude Cowork effectively Whether you're a student, content creator, entrepreneur, or professional, this guide will help you discover practical ways to use AI in your daily life. ⚠️ Note: AI automation still requires human supervision. Always review important outputs and verify actions before approving them. 👍 Like the video, subscribe to the channel, and turn on notifications for more AI tools, tutorials, and automation tips! #ClaudeCowork #ClaudeAI #AIAutomation Discover how to use Claude Cowork to automate everyday tasks, save time, and boost your productivity! In this full guide, we'll explore how Claude Cowork can help you organize files, research information, create documents, manage projects, and automate repetitive workflows. 🤖 What You'll Learn: What Claude Cowork is and how it works How to automate repetitive tasks with AI How to organize files and folders How to create documents, reports, and spreadsheets How to use AI for research and productivity How to build smarter AI workflows How scheduled tasks can save you time Tips for using Claude Cowork effectively Whether you're a student, content creator, entrepreneur, or professional, this guide will help you discover practical way",
+   "channel": "paul j lipsky",
+   "channel_id": "UCA-yxG1c2kDhb8dajCCfmLA",
+   "duration": 1977,
+   "published_at": "2026-10-27T14:00:19+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new"
+  },
+  "EJdM815KoEs": {
+   "id": "EJdM815KoEs",
+   "title": "AI Automation for Beginners: 5 Tasks You Can Automate in 2026",
+   "description": "Want to save time and work smarter with AI? 🤖 In this video, you'll discover 5 practical tasks you can automate with AI in 2026, even if you're a complete beginner. We'll explore how AI automation can help you: ✅ Manage emails more efficiently ✅ Plan content for YouTube and social media ✅ Research topics and summarize information ✅ Organize and schedule social media posts ✅ Manage daily tasks, priorities, and reminders You'll also learn why it's important to review AI-generated results, protect your personal information, and choose the right tools for your needs. Whether you're a student, content creator, freelancer, or busy professional, these beginner-friendly AI automation ideas can help you save time and improve productivity. 👍 If you find this video helpful, like, comment, and subscribe to **AI Tech Guide** for more AI tools, practical tutorials, and technology tips. 🔔 Subscribe for more videos about AI tools, AI automation, productivity, and the latest technology. #AIAutomation #AITools #ArtificialIntelligence #Productivity #AITechGuide",
+   "channel": "AI Tech Guide",
+   "channel_id": "UC3p3hXBxHwImMpEUFXo55Ig",
+   "duration": 261,
+   "published_at": "2026-10-28T14:00:03+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "IYoQaAVqMeI": {
+   "id": "IYoQaAVqMeI",
+   "title": "How to Build a No-Code AI Automation System (2026 Beginner Tutorial)",
+   "description": "Learn how to build a no-code AI automation system with this step-by-step beginner-friendly tutorial! In this video, you'll discover how to connect AI tools, automate repetitive tasks, create intelligent workflows, and build an automation system without writing a single line of code. Get the 250 Power AI Playbook Prompt here: https://earthtonewallpapers.gumroad.com/l/aiplaybook 🖥️ 📱Get Desktop / IPad & IPhone / Android Wallpapers: https://earthtonewallpapers.gumroad.com/ Whether you're a business owner, freelancer, entrepreneur, or productivity enthusiast, no-code AI automation can help you save time, reduce manual work, streamline business operations, and improve productivity. In This Tutorial, You'll Learn: - How to build a no-code AI automation system - How to choose the right AI automation tools - How to connect different apps and services - How to create automated AI workflows - How to use AI to process information automatically - How to automate repetitive business tasks - How to connect AI with Google Sheets and other apps - How to create automated notifications and responses - How to build multi-step automation workflows - How to test and optimize your AI automation system - How to use AI automation to improve business productivity By the end of this tutorial, you'll understand how to build a practical no-code AI automation system that can simplify everyday tasks and make your business workflows more efficient. Subscribe to Tutorial Made Easy for more step-by-step tutorials on AI tools, business automation, productivity software, CRM systems, and digital workflows. If you find this tutorial helpful, don't forget to Like, Comment, and Subscribe for more practical software tutorials! #AIAutomation #NoCodeAutomation #AITools",
+   "channel": "Tutorial Made Easy",
+   "channel_id": "UCBM7xsls92kELAh5Eq4PdjA",
+   "duration": 641,
+   "published_at": "2026-11-02T01:24:04+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "jAFW2uaLq-U": {
+   "id": "jAFW2uaLq-U",
+   "title": "The Ultimate Beginner’s Guide to AI Automation",
+   "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ✅ Best AI Automation Tool is Base44 https://mikeyno-code.com/video244 🟢 Work With Me 1-on-1 to Build Your First App https://mikeyno-code.com/1-1-coaching 🔵 Get the FREE App Store Submission Checklist (step by step): https://mikeyappchecklist.netlify.app/ In this video, I’ll walk you through what is AI automation and how you can use AI to automate repetitive tasks, streamline workflows, and improve productivity. This beginner-friendly guide covers the fundamentals of AI automation, how AI-powered workflows work, and how businesses can use automation to save time and scale more efficiently. You’ll also learn how an AI automation agency can help businesses implement these systems and explore what you can expect from an AI automation full course. Whether you’re completely new to AI or looking to start building automated workflows, this guide will give you a clear foundation to understand and get started with AI automation. 00:00 - Intro: The Missing Piece in App Building 01:46 - Free AI Masterclass: Build Profitable SaaS, Websites & AI Agents 02:18 - Chapter 2: Building the Finance Tracker App & Seeding Sample Data 03:06 - Structuring Income, Expenses, Budgets & Savings Goals 04:23 - Chapter 3: Understanding Workflow Concepts 05:31 - Navigating the Workflows Canvas & Builder Plan Requirements 06:52 - Chapter 4: Setting Budget Threshold Alerts 07:21 - Writing the 90% Spending Alert Prompt & Inspecting Canvas Logic 08:01 - Live Testing Budget Warnings & Instant In-App Notifications 08:44 - Free Base44 Masterclass: Launch Profitable AI Automation Businesses 09:57 - Chapter 5: Automated Weekly Summaries 10:28 - Setting Recurring Scheduled Triggers & Grouping",
+   "channel": "Mikey No Code",
+   "channel_id": "UCde0vB0fTwC8AT3sJofFV0w",
+   "duration": 1128,
+   "published_at": "2026-11-06T14:15:21+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "71AHoRKLWHI": {
+   "id": "71AHoRKLWHI",
+   "title": "Everyday AI Automation in 2026: Stateless WebMCP & AI Video Generators Explained!",
+   "description": "In late 2026, everyday artificial intelligence tools are transforming how we create content, automate daily tasks, and build faceless video channels. AI video platforms like Pictory 3 and HeyGen Avatar V allow creators to convert scripts into fully edited videos, complete with photorealistic avatars and voiceovers, in minutes. But behind every automated content pipeline lies a backend data architecture that just underwent its biggest shift in history: The Model Context Protocol (MCP) 2026-07-28 specification went fully stateless. Handshake sessions (Mcp-Session-Id) are officially deprecated—replaced by header-routed calls (Mcp-Method), dynamic _meta payloads, and Multi Round-Trip Requests (MRTR). In this video, George Balek breaks down how to leverage everyday creation tools while keeping your stateless backend infrastructure and automated Webhooks secure using the ToolTides Guardrail Blueprint! 📖 Read the complete guide on ToolTides: 👉 https://tooltides.com/everyday-ai-automation-2026-stateless-webmcp-video-generators-guide ⏱️ Video Chapters: 0:00 - Everyday AI Automation in Late 2026 1:15 - How Pictory 3 & HeyGen Avatar V Simplify Video Creation 3:10 - The Shift to Stateless WebMCP (2026-07-28 Spec) 5:25 - How Header Routing (Mcp-Method) & MRTR Work 7:40 - Rule 1: RFC 9207 & CIMD OAuth Compliance 9:15 - Rule 2: Enforcing Header-Body Agreement at the Gateway 11:00 - Rule 3: Cryptographic HMAC State Handles 12:45 - Rule 4: Sanitizing _meta Header Payloads 14:10 - Final Takeaway: Create Faster, Stay Secure #EverydayAI #AIVideoCreation #PictoryAI #HeyGen #WebMCP #AgenticAI #ToolTides #GeorgeBalek #CyberSecurity #WorkflowAutomation",
+   "channel": "ToolTides",
+   "channel_id": "UCkOSZ3qT4cjyK3dMjywQ6eQ",
+   "duration": 150,
+   "published_at": "2026-10-28T17:52:21+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "MtB6fjRcC9Y": {
+   "id": "MtB6fjRcC9Y",
+   "title": "How to Automate Daily Tasks with Manus AI",
+   "description": "How to automate daily tasks with Manus AI—the AI agent that actually goes and does the work instead of just telling you how. Here's the exact setup, the prompts that work, and the 5 tasks we handed off first. Try Manus AI Now: https://manus.im/ ---------------------------------------------------------------------------------------------- * Music Source: YouTube Audio Library ---------------------------------------------------------------------------------------------- Explore Manus AI in this review and tutorial to see how AI agents can handle tasks, automate workflows, and support everyday productivity. Learn how to use Manus AI, understand agentic AI, and explore practical AI automation and AI workflow automation for business tasks. This guide covers AI assistants, task automation, and AI productivity tools, along with platforms like n8n, Zapier, and Make.com. We’ll also look at n8n automation, n8n workflows, email automation, and how these tools fit into a broader AI workflow. Whether you’re exploring AI tools for business, building an AI automation agency, or just getting started with AI for beginners, discover how tools like Manus AI and ChatGPT can help streamline your work. Disclaimer: * The following video abides by the YouTube Community Guideline. Footage used in this video is for educational purposes and all the information covered in this video was collected from unofficial sources and assumptions. * Footage, music, images, and graphics used in the video fall under the YouTube Fair Usage Policy Under Section 107 of the Copyright Act 1976. If you have any copyright issues, please contact us. * All Affiliated links in the video description help us support this channel. #manusai #aiautomation #aiagents #aitools #productivity #automation",
+   "channel": "AiByte",
+   "channel_id": "UCSP0I0w54jPXuEl54ZyxR6A",
+   "duration": 281,
+   "published_at": "2026-11-05T14:00:27+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "wb1oJ4L0nQg": {
+   "id": "wb1oJ4L0nQg",
+   "title": "How to Build a FREE AI Second Brain with ChatGPT + Notion (Step-by-Step)",
+   "description": "I created a FREE second brain using Notion and ChatGPT—and it organizes, links, and searches my notes for me automatically. The setup works with free versions of both Notion and ChatGPT, although free AI accounts may have usage limits. Download the complete setup prompt: https://docs.google.com/document/d/1T4iENAUzuNXTkCPU87WparNSALkXg62sASYSnY8NhoQ/edit?usp=sharing CHAPTERS 00:00 I built a free AI second brain 00:42 What is a second brain? 01:25 Why traditional second brains fail 01:49 Why I chose Notion 02:42 Is this really free? 03:40 Step 1: Create a separate Notion workspace 04:05 Step 2: Connect Notion to ChatGPT or Claude 04:55 Step 3: Build the filing system with one prompt 06:20 Step 4: Fill your second brain 07:25 Step 5: Put your second brain on autopilot 08:55 Final thoughts and next steps If you found this useful, like the video and subscribe to Tech Girl for more practical AI, Notion, and productivity tutorials. #Notion #ChatGPT #SecondBrain #AIProductivity #NotionAI #ProductivitySystem #PersonalKnowledgeManagement #PARA #ClaudeAI #DigitalOrganization Subscribe if you liked the video: https://www.youtube.com/@anjanagowtham?Sub_Confirmation=1 ❤ Anjana",
+   "channel": "The Tech Girl",
+   "channel_id": "UCjzWsRM05uCgkSEELJZWciA",
+   "duration": 605,
+   "published_at": "2026-11-10T00:45:29+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   }
+  },
+  "IrUsJnTwqvw": {
+   "id": "IrUsJnTwqvw",
+   "title": "How to Build an AI Website That Actually Looks Good - Step by Step",
+   "description": "✅ Best AI Website Builder is Airo AI Builder https://mikey.godaddy In this video, I show you how to build an AI website that actually looks good with a practical step-by-step workflow. You'll learn how an AI website builder can help you create a professional website, improve your website design, and turn your ideas into a polished AI website without needing advanced coding skills. Whether you're a complete beginner or looking to create better websites with AI, this guide will help you design, build, and customize a website faster in 2026. 00:00 - Intro: Why Most AI Websites Look Generic & How to Fix Them 02:14 - Free AI Masterclass: Build Profitable SaaS, Websites & Apps 02:47 - GoDaddy Airo Overview: All-in-One AI Website & Business Platform 04:32 - Understanding the Airo Credit System: Writing Specific Prompts 05:35 - Handling Airo Beta Errors & Auto-Save Recovery Tips 06:18 - Account Setup & Registering or Connecting a Custom Domain 07:28 - Connecting Branded Domains Before Sending Your First Prompt 07:58 - GoDaddy Airo Editor Tour: Chat Panel, Page Navigator & Controls 08:44 - Prompt 1: Scaffolding Mara & Co. (Sydney Interior Design Studio) 10:26 - Reviewing Initial Build Across Home, About, Services & Portfolio 11:21 - Prompt 2: Visual Polish (Full-Width Hero, Serif Fonts & Spacing) 13:48 - Prompt 3: Adding Deep Page Content & Services FAQ Section 15:33 - Expanding About Page: Team Bios & Design Philosophy Quotes 16:08 - Adding Resources & Inspiration Guide: Materials & Style References 18:21 - Prompt 4: Building an Interactive Style Quiz for Lead Qualification 20:37 - Live Testing Style Quiz Logic, Recommendations & Booking CTA 21:26 - Prompt 5: Applying Local SEO Metadata Across All 5 Pages 23:40 - Prompt 6: Mobile Responsiveness Pass & 375px Layout Fixes 25:55 -",
+   "channel": "Mikey Website",
+   "channel_id": "UCSSB338C8A9ZOXtsbfM7phg",
+   "duration": 1919,
+   "published_at": "2026-11-09T14:15:09+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "QaG-biWIy3c": {
+   "id": "QaG-biWIy3c",
+   "title": "How to Make Your First AI Video with Higgsfield AI!",
+   "description": "Create Your Own AI Videos 👉 https://youricreates.com/Higgsfield ✅ Sign up to Higgsfield & Get my Bonus Package for FREE 👉 https://higgsbonuspackage.com In this video, I show how to make cinematic AI videos with Higgsfield, starting with simple text prompts and choosing the right models for realistic scenes, anime action, and high-resolution video. I then walk through creating consistent characters, props, and locations for a 30-second animated pirate commercial, before using my bonus package to generate character sheets and prompts for a vintage cartoon. for inquiries: yvh (at) youripartnerships.com This video is sponsored by Higgsfield Links in this description are affiliate links — if you sign up through them, I may earn a commission at no extra cost to you.",
+   "channel": "Youri van Hofwegen",
+   "channel_id": "UCdR7eGozLjafYMTd2BFnJaQ",
+   "duration": 857,
+   "published_at": "2026-11-09T13:55:39+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "F8jidmEkIeM": {
+   "id": "F8jidmEkIeM",
+   "title": "Claude Code: Build Your First AI Agent in 20 Minutes (100% No Coding)",
+   "description": "Try Claude Code on the Max plan: https://clau.de/GraceLeung You can use AI every day and still do most of the work yourself. A chatbot answers your questions. An AI agent takes the job off your plate. In this video I'll show you how to build your first AI agent with Claude Code, step by step, all inside the Claude desktop app. No terminal, no coding. We go through 5 levels in building an AI Agent. My example is a content creator agent powered by Opus 5.5 model that turns my videos and newsletters into on-brand animated carousel posts. Follow the same approach for any agent you want to build. 📌 *TIMESTAMPS* 00:00 Build an AI Agent Without Coding 00:41 The 5 Parts of Every AI Agent 01:25 Level 0: The Step Most People Skip 04:59 Level 1: Build Your First AI Agent 07:30 Level 2: Make It Reliable 12:10 Level 3: Make It Self-Improving 14:51 Level 4: Run Your Agent in the Cloud 17:52 Your Agent to Run on Its Own 18:52 Your Actions this week ⚡️ *JOIN Our 30-Day Sprint to Build Your AI Marketing System & Agents* https://www.grooveanchor.com/ 📥 *JOIN MY FREE DIGITAL GROWTH NEWSLETTER* https://www.graceleung.com/newsletter/ 🚀 *CONNECT WITH ME* https://www.graceleung.com/connect/ 📂 *RESOURCES MENTIONED IN THE VIDEO* 🖥 Download the Claude desktop app: https://claude.com/download 📥 Agent Designer prompt: - - - - - - - - - - - - - - - - //AGENT DESIGNER Help me build ONE AI agent for this Brand folder. Plain words, no jargon. 1. LOOK FIRST Read CLAUDE.md and everything it points to. Never ask what you can find there. No CLAUDE.md yet? Stop and tell me to set one up first. 2. ONE CLEAR JOB SCOPE If I describe more than one job, suggest which to start with and build only that one. 3. ASK ME (max 3 questions, one at a time, each with 2 to 3 suggested answers) Only what you can't work out",
+   "channel": "Grace Leung",
+   "channel_id": "UCrB7UFnkosBjAhOg3a9NdWw",
+   "duration": 1201,
+   "published_at": "2026-10-30T13:00:10+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "x4zXeHZ4EJc": {
+   "id": "x4zXeHZ4EJc",
+   "title": "I Let Cursor's AI Agents Build My Entire App… Here's What Happened",
+   "description": "🔗 Download Cursor: https://cursor.com/ 💻 What if you could build software faster with an AI coding assistant that understands your entire codebase? In this video, I'm exploring Cursor, an AI-powered code editor designed to help developers write code, understand projects, fix bugs, and build applications more efficiently. Whether you're an experienced developer, a beginner learning to code, or someone building projects with AI, Cursor offers a range of tools that can make your development workflow more productive. 🚀 WHAT YOU'LL DISCOVER ✅ AI-Powered Coding: Generate code, edit existing files, and get help directly inside your editor. ✅ Agent Mode: Delegate coding tasks to AI and let it work across multiple files in your project. ✅ Codebase Understanding: Ask questions about your project and get context-aware assistance. ✅ AI Code Completion: Get intelligent suggestions as you write code. ✅ Debugging and Error Fixing: Use AI to understand errors and explore potential solutions. ✅ Natural Language Editing: Describe the changes you want and let Cursor help implement them. ✅ Developer Workflow: Explore how AI can support everything from small code edits to building larger applications. 🤖 WHY EXPLORE CURSOR? Traditional coding often involves switching between documentation, terminals, browsers, and different development tools. Cursor brings AI directly into the coding environment, helping you understand code, make changes, and move through development tasks with less friction. The interesting part is how it combines an AI-powered editor with agentic coding capabilities, allowing developers to work on more complex tasks while maintaining control over their projects. Whether you're building websites, applications, automations, or experimenting with new ideas, Cursor is worth ex",
+   "channel": "Lex AI",
+   "channel_id": "UCypXkiAYzkq5uPEpQwkjpMQ",
+   "duration": 250,
+   "published_at": "2026-11-08T21:00:44+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 8
+   }
+  },
+  "dV7Wo0tVJzs": {
+   "id": "dV7Wo0tVJzs",
+   "title": "How to Make Your First AI Movie (Full Guide)",
+   "description": "Create Your First AI Movie 👉 https://roboverse-ai.com/Higgsfield ✅ Sign up to Higgsfield & Get my Bonus Package for FREE 👉 https://higgsbonuspackage.com In this video, I show how to make a complete two-minute AI movie using Claude and Higgsfield, starting with a crime thriller about missing pets and a mysterious thief. I walk through planning the story, creating consistent characters, props, and locations, generating four cinematic scenes with dialogue and sound effects using Seedance 2.5, and editing the finished film in CapCut. for inquiries: roboverse at youripartnerships.com This video is sponsored by Higgsfield. Links in this description are affiliate links — if you sign up through them, I may earn a commission at no extra cost to you. #Roboverse",
+   "channel": "Roboverse",
+   "channel_id": "UCZ3KGRwOA_uONNE_6VGG2bA",
+   "duration": 944,
+   "published_at": "2026-11-08T13:55:01+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "fs0MKpzC8L0": {
+   "id": "fs0MKpzC8L0",
+   "title": "Build an AI Chat App with Memory (Step by Step) | Generative AI Masterclass 2026",
+   "description": "Let's build! In Video 5 of the Generative AI Masterclass 2026, we build a Python chat app with memory, step by step. You'll learn why LLMs don't remember between requests, how chat apps fake memory with conversation history, how to stay within the context window, and how to add long-term memory that survives restarts. ⏱ Chapters 00:00 Hook: From Theory to a Working App 00:40 What We're Building 01:45 Key Idea: LLMs Don't Remember 03:00 Setup 04:15 Step 1: A Single Question 06:00 Step 2: A Chat Loop 07:30 Step 3: Short-Term Memory (History) 09:30 Step 4: Fitting the Context Window 11:30 Step 5: Long-Term Memory 14:00 Test the Full App 15:15 How This Connects to RAG 16:00 Recap and What's Next 💻 Full code: [add GitHub link] 📌 Playlist: Generative AI Masterclass 2026 📹 Video 2: Tokens, Context Window & Temperature: [add link] 📹 Video 4: Prompting vs RAG vs Fine-Tuning: [add link] #GenerativeAI #Python #ChatGPT #LLM #AIProjects #BuildWithAI #AIForBeginners",
+   "channel": "Crazycoders Lab",
+   "channel_id": "UC3k8cfBk1vKRJ2ZXIpnxulg",
+   "duration": 342,
+   "published_at": "2026-11-03T12:30:26+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "rQkQ7xFVshM": {
+   "id": "rQkQ7xFVshM",
+   "title": "How to Create Your First AI Short Film (Step by Step)",
+   "description": "Create Your First AI Short Film 👉 https://higgsfield.ai?fpr=ai&fp_sid=conor ✅ Sign up to Higgsfield & Get My AI Essentials for FREE 👉 https://conorsaiessentials.com/ In this video, I show how to create a cinematic AI fantasy short film using Claude and Higgsfield, starting with a story idea and turning myself into an old wizard. I walk through creating consistent characters, props, locations, and voices, generating four connected scenes with dialogue and cinematic camera controls, and editing the finished movie in CapCut. contact: inquiries (at) creatingwithconor com This video is sponsored by Higgsfield. Links in this description are affiliate links — if you sign up through them, I may earn a commission at no extra cost to you.",
+   "channel": "Creating with Conor",
+   "channel_id": "UC-TCNuRc61HZTjYY81qRuew",
+   "duration": 880,
+   "published_at": "2026-11-04T13:49:34+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "g4lrVFThfOM": {
+   "id": "g4lrVFThfOM",
+   "title": "How to Make Your First AI Video (Beginners Guide)",
+   "description": "Try Higgsfield 👉 https://higgsfield.ai/s/make-your-first-ai-video-yt-ai-gptworkshop-erUTen Learn AI for Free (FREE Skool Community) 👉 https://www.skool.com/aiworkshop-lite Learn how to make AI videos from scratch with this complete step-by-step beginner tutorial! In this video, I'll show you how to create your first AI video using a simple prompt, AI image generation, and image-to-video AI tools, taking you through the entire process from idea to finished video. If you're completely new to AI video creation, this tutorial will walk you through a simple four-step workflow that anyone can follow. We'll start by creating a simple AI prompt, use that prompt to generate an image, turn that image into a video using AI, and finally prepare and publish the finished result. You'll learn the basics of AI filmmaking, how to get started with AI video generators, and how to turn your ideas into videos without needing previous experience in AI video creation. Whether you're interested in creating AI videos for YouTube, social media, content creation, or just learning how AI video generation works, this beginner-friendly guide will help you understand the process from start to finish. This video is sponsored by Higgsfield. Comparsa - Latinesque by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/ The 4-Step AI Video Workflow: 1. Simple Prompt — Start with an idea and create your AI prompt. 2. Image — Turn your prompt into an AI-generated image. 3. Video — Transform your image into an AI-generated video. 4. Publish — Prepare and publish your finished AI video. Video Chapters: 00:00 Intro 00:33 Sign Up and Plans 02:05 Start Image Generation 03:29 Write Character Prompt 05:18 Build Character Sheet 07:56 Generate Video",
+   "channel": "Zubair Trabzada | AI Workshop",
+   "channel_id": "UC2b2wgxm0vFjQfJJ0iRcFRw",
+   "duration": 955,
+   "published_at": "2026-11-08T18:07:06+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "jDk0sPwFH1k": {
+   "id": "jDk0sPwFH1k",
+   "title": "How to Make Long AI Videos From Scratch 🎬 | Complete AI Filmmaking Workflow",
+   "description": "Want to create long AI videos, short films or cinematic content from scratch? In this video, I break down the AI filmmaking workflow I use to create a complete video, from creating characters and frames to animating scenes and editing the final clips. The video is short, but the workflow can be used to create much longer videos and even full AI films. WHAT YOU'LL LEARN • Create AI characters • Create cinematic frames • Animate your scenes • Turn frames into video clips • Edit your clips into a complete video • Build a repeatable AI filmmaking workflow 📄 WORKFLOW DOCUMENT As promised, here is the workflow document I used: https://docs.google.com/document/d/1fckJpyTQOevIYu_nklyOYyy7cIQz7cXI-NDAv_EKT-s/edit?usp=sharing ⏱️ TIMESTAMPS 0:00 - 0:20 Franklin's Avatar 0:20 - 2:11 Introduction 2:11 - 7:02 Creating Characters 7:02 - 8:59 Creating Frames 8:59 - 13:26 Animating Frames 13:26 - 16:38 Editing Clips 🎵 Music: Relax Chill - Nelson Fung Subscribe to Skill Dock for practical tutorials on AI, video generation, automation and digital skills. SkillDock | Learn • Practise • Succeed #AIFilmmaking #AIVideo #AIContentCreation #AIVideoGeneration #AIAnimation #SkillDock",
+   "channel": "Skill Dock",
+   "channel_id": "UCF7Ik8gTIgnLeNe7ofEr9Hg",
+   "duration": 998,
+   "published_at": "2026-10-28T11:15:34+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "Mt91SiQotOU": {
+   "id": "Mt91SiQotOU",
+   "title": "Higgsfield AI Tutorial for Beginners (2026) | Step-by-Step",
+   "description": "This Higgsfield AI tutorial for beginners shows you how to use Higgsfield AI, from your first AI image to a finished 4K video, without wasting credits. ✅ Higgsfield (Best Deal): https://meticsmedia.com/higgsfield-TBR In this Higgsfield AI tutorial for beginners, you'll learn how to use Higgsfield AI from your very first AI image all the way to a finished 4K video. We start by choosing the right plan and taking a quick tour, so you know where everything is. Then you'll create and edit AI images, turn them into AI videos with models like Seedance and Kling, and use Elements to keep your characters and products consistent in every shot. You'll also see how to build a multi-shot video, when Cinema Studio is worth using, and how to upscale your final video to 4K. To keep things simple, we build a short travel ad for a made-up backpack brand, and along the way you'll pick up practical tips for getting good results without wasting credits. No experience with AI tools, video editing, or prompt writing needed. 🔗 Links Mentioned in Video Prompt Sheet: https://drive.google.com/file/d/1otNVoSZ0VpbrOYRRHpdC5N5vFIR6gbhS/view?usp=sharing 📍 Exclusive Deals & Discounts: https://meticsmedia.com/deals ⏱️ Timestamps 0:00 Intro 1:24 Sign Up and Choose a Plan 3:13 Find Your Way Around Higgsfield 4:54 Create Your First AI Image 9:53 Edit and Upscale Your Images 13:13 Turn an Image Into a Video 16:32 Keep Characters and Products Consistent 19:04 Make a Multi-Shot Video 22:32 Upscale Your Video to 4K 📄 Disclosure Some of the links are affiliate links. If you make a purchase through them, we earn a small commission at no extra cost to you. This helps us keep our videos free for everyone.",
+   "channel": "Metics Media",
+   "channel_id": "UCuwpzP90g1LuGk6JUNms_AQ",
+   "duration": 1476,
+   "published_at": "2026-10-30T13:00:05+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "0wwliv8deUI": {
+   "id": "0wwliv8deUI",
+   "title": "Farframe: Why I Am Ending My AI Video Project",
+   "description": "Over the past few months, Farframe tried to turn research, writing, animation, synthetic voices and original music into videos worth watching. This final film looks back at the whole project and explains why I am stopping. The demonstrations include Complete Guide's Laloux and Lurongyu projects, EDM Revival, Farframe film essays, animated titles, GPT Image 2, MiniMax H3, MathWaves and Blender. They also show CAB and Mucow, practical explainers, Biology of Cancer, historical stories, the Johnstown simulation and the final underwater experiments. The parachute excerpt is a new render from the preserved r03 source, not the deleted original master. Cancer tool comparisons are trials. Earlier versions and retained cuts are identified on screen. The six underwater studies are different designs, not a controlled renderer benchmark. The Hy-Nomas explosion is generated imagery, not blast physics. The Blender gas-cavity model starts after gas formation and does not calculate detonation, a traveling shock, trench-wall effects or sediment erosion. The moving-input hybrid is an experiment, not validated physics. Narration uses Qwen3-TTS with an authorized private reference. Original Csound and procedural scores accompany the examples. The private reference and credentials are not distributed. This channel is not monetized, and the Hy-Nomas examples are shown for criticism and evaluation. Sources and tools: Claude Animation Base: https://github.com/JohnHeibel/ClaudeAnimationBase p5.brush: https://github.com/acamposuribe/p5.brush Blender: https://www.blender.org/ MiniMax H3: https://github.com/MiniMax-AI/MiniMax-H3 Hy-Nomas: https://github.com/Tencent-Hunyuan/Hy-Nomas PixelUMM: https://github.com/nv-tlabs/PixelUMM Decoder terms: https://developer.download.nvidia.com/licenses/NVIDIA-On",
+   "channel": "Earth's Digital Memory",
+   "channel_id": "UCTCaaW9pw8ZsXRnqbQYXUqg",
+   "duration": 1225,
+   "published_at": "2026-10-29T16:47:41+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "L6BKvrFQI7s": {
+   "id": "L6BKvrFQI7s",
+   "title": "HOW I CREATED A REALISTIC AI VIDEO WITH GOOGLE FLOW AND CHATGPT",
+   "description": "Learn how to create a realistic AI film by combining ChatGPT and Google Flow. Build consistent characters and storyboards. This tutorial guides you through the complete AI filmmaking process, from developing a narrative to bringing scenes to life using Google Flow Agent Mode. It is designed for creators who want to produce cinematic projects without needing a camera or actors. You will learn how to maintain character consistency across multiple shots and set up a new project from scratch. By following these steps, you can generate high-quality scenes that align with your story, making it easier to produce professional results with these AI tools. Subscribe to AbdulsLab for practical AI tutorials and creative workflows. Comment below with the kind of AI film you want to create next. TOOLS USED ChatGPT: https://chatgpt.com/ Google Flow: https://labs.google/fx/tools/flow #GoogleFlow #AIFilmmaking #ChatGPT #google #aivideo",
+   "channel": "Abduls Lab",
+   "channel_id": "UCu17fdz3yWKgaQoJABeeAvw",
+   "duration": 325,
+   "published_at": "2026-10-30T15:30:18+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "Nf9q8djVuRs": {
+   "id": "Nf9q8djVuRs",
+   "title": "How to make Micro AI dramas using free AI Tools",
+   "description": "Learn how to use AI filmmaking to produce short dramas. See how to generate consistent characters and scenes for your stories. I break down the workflow for creating a short drama, from initial character concepts to final scene generation. This process focuses on directing a specific narrative, such as the scene where Adaeze confronts her gardener, Emeka, before shifting into a detailed flashback sequence. We cover the technical steps for using AI video generation tools to manage market environments and character edits. By following this guide, you will understand how to maintain visual continuity when building your own AI storytelling projects. Which part of the scene creation process was most helpful to see: character consistency or the flashback editing? Tell me in the comments. Subscribe to AI with Kamau for practical AI filmmaking tutorials and creative experiments.",
+   "channel": "AI with Kamau",
+   "channel_id": "UC4ON_-3S8luDrxhYLVbOpgg",
+   "duration": 734,
+   "published_at": "2026-11-03T16:38:18+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "DeAjrKu_AfU": {
+   "id": "DeAjrKu_AfU",
+   "title": "How to Turn Any Idea Into an AI Video Using Google Flow (Beginner Tutorial)",
+   "description": "Want to learn how to make AI videos from text prompts? In this tutorial, I'll show you how to create cinematic AI-generated videos using Google Flow, even if you have no experience with video editing, animation, or filmmaking. AI video generation is changing how content is created. You can now turn simple ideas into visual scenes, generate cinematic clips, and bring creative stories to life using artificial intelligence. In this step-by-step AI video tutorial, we'll explore how to: - Turn a simple idea into a detailed AI video prompt. - Generate cinematic videos from text descriptions. - Create multiple AI-generated scenes for a single project. - Use different prompts to control camera movement and visual details. - Improve AI video results by refining your prompts. - Build creative video sequences using Google Flow. For our demonstration, we'll create a futuristic city, an action-packed chase scene, and a cinematic police search sequence using AI. Whether you're interested in AI filmmaking, creating videos for YouTube, producing short films, or experimenting with text-to-video technology, this tutorial will help you understand the process and get started. **TRY GOOGLE FLOW FOR FREE / CHECK AVAILABILITY:** https://labs.google/fx/tools/flow **What would you create with an AI video generator?** A short film, a cinematic advertisement, an action scene, or something completely different? Share your idea in the comments! If you enjoy practical AI tutorials, subscribe for more videos about AI tools, AI video generation, AI agents, automation, and emerging technology. Learn how to use Google Flow to create professional videos from text prompts. Generate high-quality visual scenes in minutes. This tutorial provides a walkthrough of Google Flow, an AI filmmaking tool designed to",
+   "channel": "Cortexis_AI",
+   "channel_id": "UC7pAwksa9ya5kFhwldt8Qhw",
+   "duration": 386,
+   "published_at": "2026-11-04T12:25:07+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "udDdFNqEg0c": {
+   "id": "udDdFNqEg0c",
+   "title": "I Tested PixVerse Canvas on a Real AI Video Project",
+   "description": "🔗 Try PixVerse AI: https://pixverse.onelink.me/0gRx/LexAI01 Want to turn your ideas into stunning AI-generated videos without complicated editing workflows? In this video, I'm exploring PixVerse AI, an AI video generator that helps creators transform text prompts and images into engaging video content. I'll walk through its features, test its creative capabilities, and explore how it can fit into a practical AI video creation workflow. Whether you're creating content for YouTube, social media, marketing campaigns, or personal projects, PixVerse AI offers creative tools to help you experiment with AI-powered video generation. 🎬 WHAT YOU'LL DISCOVER ✅ What PixVerse AI is and how it works ✅ How to generate videos using AI prompts ✅ Turn images into animated video clips ✅ Explore AI video effects and creative styles ✅ Experiment with different visual concepts and animations ✅ Create engaging content for social media ✅ Discover practical AI video generation workflows Instead of spending hours creating every visual from scratch, AI video tools like PixVerse can help you explore ideas, experiment with different styles, and bring creative concepts to life. In this walkthrough, I'll explore what PixVerse AI can do and see how it fits into a real-world content creation workflow. Whether you're an AI enthusiast, content creator, filmmaker, or digital marketer, this video will help you discover another tool for AI-powered video creation. 👍 If this video helped you, leave a like and subscribe for more AI tutorials, AI tools, and practical AI workflows. 📩 Business & Partnerships: lexaicollab@gmail.com 📢 DISCLAIMER: Some links may be affiliate links. If you purchase through them, I may earn a commission at no additional cost to you. #PixVerse #PixVerseAI",
+   "channel": "Lex AI",
+   "channel_id": "UCypXkiAYzkq5uPEpQwkjpMQ",
+   "duration": 369,
+   "published_at": "2026-11-01T20:20:16+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "6UIxkdvPapE": {
+   "id": "6UIxkdvPapE",
+   "title": "I Let Flova AI Make a Scene for My Series. Then I Directed It",
+   "description": "Try Flova AI: https://www.flova.ai/?refCode=LJ3YSPBU AI filmmaking agents can now assemble entire scenes from scripts and reference images. I tested this workflow for The Unmarked. Building a multi-episode sci-fi series requires keeping your narrative consistent. I put Flova AI to the test by providing a script and 13 reference images to see if it could generate 11 shots that hold together as a coherent sequence. This workflow highlights how far these tools have come in handling complex scene assembly. If you are evaluating which AI video model fits your production, this test shows the practical reality of using an automated agent to manage your shots. We look at how well the software maintains continuity when tasked with creating a specific narrative arc from limited input. Subscribe for weekly AI filmmaking breakdowns, and comment whether you think automated agents are ready for full-scale production. #aimovie #flova #flovaai",
+   "channel": "AI for Real Life: Redefining Filmmaking",
+   "channel_id": "UC-zaTk6_dtHp9s4sPsTOSrw",
+   "duration": 627,
+   "published_at": "2026-10-30T18:00:18+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "_EVy3d6wPMs": {
+   "id": "_EVy3d6wPMs",
+   "title": "How to use Google flow to create videos from scratch",
+   "description": "Want to learn how to use Google Flow to create stunning AI videos from scratch, even if you're a complete beginner? 🎬✨ In this full beginner's guide, I'll walk you through how to use Google Flow step by step, from understanding the platform to generating AI videos and applying what you've learned in a practical project. Whether you're just starting your AI filmmaking journey or looking to improve your video generation skills, this tutorial will help you understand how to create AI videos more effectively using text prompts and images. 🔥 WHAT YOU'LL LEARN IN THIS VIDEO: ✅ How to Use Google Flow from Scratch – Learn the basics of Google Flow and how to navigate the platform to start creating AI videos. ✅ Text-to-Video Generation – Discover how to turn your written ideas and text prompts into engaging AI-generated videos. ✅ Image-to-Video Generation – Learn how to transform still images into dynamic video clips while maintaining the visual details of your reference images. ✅ How to Write Better AI Video Prompts – Understand how to structure your prompts to get better results, including how to describe your subject, actions, environment, camera movements, lighting, and visual style. ✅ How to Create Cinematic AI Videos – Learn how to make your AI videos look more professional by applying cinematic techniques and thoughtful prompting. ✅ Practical Demonstration – Follow along as we put these techniques into practice, showing you how to apply what you've learned to generate AI video clips from your own ideas. ✅ Tips for Better Results – Understand how to communicate your ideas more clearly to AI video generators and improve the quality of your outputs. 🎯 WHO IS THIS TUTORIAL FOR? This Google Flow tutorial is perfect for: - Beginners learning AI video generation for the first ti",
+   "channel": "AI WITH FUMZY",
+   "channel_id": "UCOdHYnyGKcG7uP7IeUCisWQ",
+   "duration": 1774,
+   "published_at": "2026-11-02T17:36:30+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "zrAiDGbqbqw": {
+   "id": "zrAiDGbqbqw",
+   "title": "How to Make an AI Documentary with OpenMontage (Full Workflow)",
+   "description": "Learn how to make an AI documentary with OpenMontage—from writing a story prompt to reviewing the video and adding captions and a watermark. In this beginner-friendly OpenMontage tutorial, I create a documentary around one question: “What if there is no sunrise tomorrow?” You'll see the prompt, the first result, the changes I request, and the revised video. This follows my OpenMontage setup tutorial and demonstrates a practical AI filmmaking workflow for creators exploring faceless documentary videos and AI-assisted video editing. You’ll learn how to: - Write a documentary prompt with clear footage and editing requirements. - Request distinct clips and kinetic text. - Understand where ElevenLabs voiceover, music and sound fit into the workflow. - Review the output and request specific improvements. - Add a branded watermark and captions with highlighted spoken words. The lesson is condensed; generation and revision take longer than the runtime shown here. Chapters 00:00 AI documentary preview 00:10 From setup to your first story 00:30 Write your documentary prompt 01:32 Generate the documentary with OpenMontage 02:27 Review the first result 02:48 Add captions and a watermark 03:36 Check the revised documentary 04:17 What to learn next Instagram: @rana.kr.praveen What story would you turn into a documentary with AI? Share your idea in the comments. Subscribe for practical AI filmmaking and automation tutorials. I’m Praveen Kumar Rana, and this channel is about building useful things with AI—from the first idea to a result you can actually use. #OpenMontage #AIDocumentary #AIVideoCreation",
+   "channel": "Praveen Kumar Rana",
+   "channel_id": "UCLVZqj-BGQ8CIs6Pkvtpe9A",
+   "duration": 283,
+   "published_at": "2026-11-03T10:30:26+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "LyJkBjkquoI": {
+   "id": "LyJkBjkquoI",
+   "title": "How to use free community n8n Templates | Discover & Build Automation with Prebuilt Workflows |",
+   "description": "Want to learn Agentic AI and build real-world AI agents? Click the link below and join our community to learn together, share ideas, work on hands-on projects. https://communi.com/citrix-learners/ ---------------------------------------------------------- Learn how to discover, explore, and use n8n templates in this practical deep dive! n8n provides a library of prebuilt workflow templates that help you get started with automation without building everything from scratch. In this tutorial, we'll explore how to find useful templates, understand their structure, import them into your n8n instance, and customize them for your own automation requirements. Whether you're a beginner or an experienced automation developer, n8n templates can save time and help you discover new automation possibilities. **What You'll Learn: ** - What are n8n templates? - Introduction to the n8n workflow template library - How to discover and search for prebuilt workflows - Exploring different categories of automation templates - How to select the right template for your use case - How to import templates into n8n - Understanding the structure of prebuilt workflows - How to configure credentials in imported templates - Customizing templates to meet your requirements - Testing and executing imported workflows - Best practices for using and managing n8n templates **Why Use n8n Templates? - Save time when building automation workflows. - Learn from existing workflow examples. - Explore different automation use cases. - Reuse and customize existing solutions. - Accelerate your AI automation development. **Who Should Watch?** - Beginners learning n8n - AI automation enthusiasts - Workflow automation developers - IT professionals exploring automation - Anyone interested in building AI-powered workflows",
+   "channel": "Tech Guy",
+   "channel_id": "UCWVDEfCzXexyHryT6ztt_bQ",
+   "duration": 212,
+   "published_at": "2026-11-09T14:30:23+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
+  },
+  "aYJYrtXBMF4": {
+   "id": "aYJYrtXBMF4",
+   "title": "n8n Essential Mental Model and First Wins [Ep 60]",
+   "description": "n8n looks intimidating if you think of it as a developer tool. For many solo workers it is simply the most flexible way to connect the apps you already use without paying per-task fees forever. This episode covers the essential mental model and the first practical wins for using n8n in real workflows. Practical AI Tools — clear, zero-hype guidance for using AI in everyday work. #PracticalAI #AITools #n8n #Automation",
+   "channel": "Everyday Super Intelligence",
+   "channel_id": "UCBN5NQ55LXk6ex927oLVTJA",
+   "duration": 278,
+   "published_at": "2026-11-05T00:07:53+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "_X7L_YecQfM": {
+   "id": "_X7L_YecQfM",
+   "title": "How to Build an AI Agent in n8n (Step-by-Step No-Code Tutorial)",
+   "description": "#AIAgents #AgenticAI #n8n #Automation #AIAutomation #NoCode #ArtificialIntelligence #ChatGPT #GeminiAI Learn how to build your first fully functional AI Agent from scratch using n8n! In this hands-on tutorial, we cover everything from setting up your AI model (LLM) and adding memory to connecting external tools so your agent can execute tasks autonomously. No coding experience required, just practical execution. 📌 What you'll learn in this video: - The core architecture of an AI Agent (Model + Memory + Tools) - Setting up nodes and workflows in n8n - Connecting OpenAI / LLM models to your n8n workspace - Giving your AI agent tools to execute real-world automation tasks Chapters in this video: 0:00 - Why AI Agents Need Tools (LLM vs. Autonomous Agents) 1:09 - Creating Your First n8n Workflow 1:44 - Adding the AI Agent Node (Raw Setup) 2:40 - Understanding n8n Node Inputs & Outputs 4:14 - Connecting the AI Brain (Adding the Gemini LLM Model) 5:02 - Testing the Chat Trigger (Why the AI Has No Memory) 6:06 - Adding Simple Memory to the AI Agent 6:53 - Connecting External Tools (Google Sheets, Notion, Jira, AWS) _______________________________________________________________ Start your journey from *Generative AI beginner to expert* with Ivy Professional School! Learn how to work with the latest GenAI tools, build AI-powered applications, explore RAG, AI agents, workflow automation, and much more with guidance from industry experts. Whether you're a student, working professional, or entrepreneur, our Generative AI courses help you understand and apply AI to real-world tasks and business challenges. *🚀 Explore Our Most Popular GenAI Courses:* 🚀 *Generative AI Course* – Learn GenAI concepts, tools, and practical applications https://ivyproschool.com/courses/gene... 🚀 *GenAI fo",
+   "channel": "IvyProSchool",
+   "channel_id": "UCDxAYHFZPY3508aftqW6Grg",
+   "duration": 456,
+   "published_at": "2026-11-04T05:49:26+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "KO2fgXfdr6k": {
+   "id": "KO2fgXfdr6k",
+   "title": "How to Download, Import & Backup n8n JSON Workflows | Complete Beginner's Guide",
+   "description": "Want to learn Agentic AI and build real-world AI agents? Click the link below and join our community to learn together, share ideas, work on hands-on projects. https://communi.com/citrix-learners/ ---------------------------------------------------------- Learn how to download, import, export, and backup n8n JSON workflows in this practical tutorial! In this session, we'll explore how n8n workflows are stored as JSON files, how to download workflows for reuse, import existing workflows into n8n, and create backups to protect your automation projects. Understanding JSON workflow management is important when sharing automation projects, migrating workflows between environments, or maintaining backup copies of your work. **What You'll Learn:** - What are JSON workflows in n8n? - Understanding the structure of an n8n JSON workflow - How to download workflows as JSON files - How to export workflows from n8n - How to import JSON workflows into n8n - How to reuse existing workflows - How to create backups of your workflows - How to restore workflows using backup JSON files - Sharing workflows with other developers - Best practices for workflow backup and management **Why Is This Important?** Managing JSON workflows allows you to: - Keep backup copies of your automation projects. - Reuse workflows across different n8n instances. - Share automation projects with others. - Migrate workflows between development and production environments. - Recover workflows when something goes wrong. **Who Should Watch?** - Beginners learning n8n - AI automation developers - Workflow automation enthusiasts - IT professionals - Anyone building automation projects using n8n By the end of this tutorial, you'll know how to download, import, export, and backup n8n workflows using JSON files. Subscrib",
+   "channel": "Tech Guy",
+   "channel_id": "UCWVDEfCzXexyHryT6ztt_bQ",
+   "duration": 138,
+   "published_at": "2026-11-09T11:30:20+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 7
+   }
+  },
+  "DbIih54prEI": {
+   "id": "DbIih54prEI",
+   "title": "How to Connect PostgreSQL with n8n | Store Data & Build AI Memory Workflows #SQL #n8n #Postgresql",
+   "description": "🚀 **Learn How to Connect PostgreSQL Database with n8n and Store Records Using PostgreSQL Memory!** In this practical n8n tutorial, you'll learn how to integrate a PostgreSQL database with n8n and use it in your automation and AI workflows. We'll explore how to establish a database connection, insert records, and configure PostgreSQL Memory for AI-powered workflows. 📌 **Topics Covered in This Video:** ✅ Introduction to PostgreSQL and n8n integration ✅ How to connect a PostgreSQL database to n8n ✅ How to configure PostgreSQL database credentials in n8n ✅ How to use PostgreSQL in n8n workflows ✅ How to insert records into PostgreSQL using n8n ✅ How to configure PostgreSQL Memory ✅ How to store information using PostgreSQL Memory ✅ How to integrate database storage with AI workflows ✅ Practical demonstration of PostgreSQL and n8n integration 💻 **Tools and Technologies Used:** - n8n Workflow Automation - PostgreSQL Database - PostgreSQL Memory - AI Workflow Automation 🎯 **Who Should Watch This Video?** This tutorial is useful for students, developers, data engineers, AI enthusiasts, and anyone learning n8n, PostgreSQL, AI agents, and workflow automation. By the end of this tutorial, you'll understand how to connect PostgreSQL with n8n and use database storage in your automation workflows. 👍 If you find this video helpful, LIKE, SHARE, and SUBSCRIBE for more practical tutorials on n8n, Agentic AI, PostgreSQL, Python, and Data Science. 🔔 Subscribe for more real-world AI and automation projects! #n8n #PostgreSQL #AIAutomation #PostgresMemory #AgenticAI #n8n, #PostgreSQL, #Postgres, #AIAutomation, #PostgresMemory, #AgenticAI, #AIAgents, #WorkflowAutomation, #DatabaseIntegration, #n8nTutorial, #PostgreSQLTutorial, #AIWorkflow, #Automation, #LearnPostgreSQL, #TechTutorial Keywords",
+   "channel": "Epsilon Academy",
+   "channel_id": "UCT8PYOxyZ3VpFNWZMY_68hQ",
+   "duration": 521,
+   "published_at": "2026-10-30T14:47:22+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "Hfb4oSCxJ0E": {
+   "id": "Hfb4oSCxJ0E",
+   "title": "n8n Workflow Planning & AI Fundamentals | Build Smarter AI Automations (Chapter 3)",
+   "description": "🚀 **Learn How to Plan Smarter Workflows and Understand AI Fundamentals with n8n!** Welcome to Chapter 3 of **Build AI Automations and Scalable Workflows**. Before building complex automations, you need to understand how to plan a workflow, map a process, connect inputs to outputs, and use workflow nodes effectively. In this chapter, we'll explore these essential concepts and introduce the fundamentals of AI integration. Whether you're a beginner or expanding your automation skills, this lesson will help you develop a stronger foundation for building structured, efficient, and scalable workflows. 📚 **WHAT YOU'LL LEARN** ✅ Planning Effective Workflows ✅ Mapping Out the Process ✅ Building from Inputs to Outputs ✅ Understanding Workflow Nodes ✅ AI Fundamentals 🎯 **WHO IS THIS TUTORIAL FOR?** • Beginners learning n8n and workflow automation • Developers designing structured automation processes • AI enthusiasts exploring intelligent workflows • Entrepreneurs looking to automate repetitive tasks • Anyone interested in scalable digital solutions 💡 **WHY WORKFLOW PLANNING MATTERS** A well-designed workflow starts with a clear process, defined inputs, predictable outputs, and the right sequence of nodes. Understanding these fundamentals makes it easier to troubleshoot automations, integrate AI, and build workflows that can grow with your needs. 📌 **COURSE:** Build AI Automations and Scalable Workflows 📖 **CHAPTER 3:** Workflow Planning & AI Fundamentals 👍 Enjoying the course? Like this video, subscribe for more practical tutorials, and follow the complete series to continue learning about n8n, AI, and workflow automation. #n8n #WorkflowAutomation #AIAutomation #n8nTutorial #WorkflowDesign #AIFundamentals #AutomationTutorial #AIWorkflows #LearnAI #TechTutorial",
+   "channel": "Starlit Pages",
+   "channel_id": "UCMoO5IuVvoqIIrkmcTpMQmg",
+   "duration": 1784,
+   "published_at": "2026-10-27T17:00:38+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "_h4WkiM_PiE": {
+   "id": "_h4WkiM_PiE",
+   "title": "Build Your First AI Automation 🤯 | n8n + ChatGPT + Google Sheets | Step-by-Step Tutorial 2026",
+   "description": "🤖 AI AUTOMATION & AI AGENTS MASTERCLASS 2026 – DAY 2 | DIGITAL JANXII Want to build your first AI automation system? In this practical tutorial, learn how to connect n8n + AI + Google Sheets and create an AI-powered customer enquiry and lead management workflow. Imagine a customer submits an enquiry, AI automatically understands the requirement, extracts important information, organizes the lead and saves the details into Google Sheets. No more manually organizing every customer enquiry! Welcome to Day 2 of the DIGITAL JANXII 7-Day AI Automation & AI Agents Masterclass. 🔥 WHAT YOU WILL LEARN ✅ What is n8n Workflow Automation? ✅ How to create your first n8n workflow ✅ What are Triggers and Nodes? ✅ How to create a customer enquiry form ✅ How to connect an AI model with n8n ✅ How to write effective AI prompts ✅ How to generate structured AI output ✅ How to connect Google Sheets with n8n ✅ How to automatically organize customer leads ✅ How to classify leads using AI ✅ How to configure team notifications ✅ How to test and troubleshoot an automation ✅ Error handling and workflow security ✅ Human approval and AI automation best practices 🚀 PRACTICAL PROJECT Build an AI-Powered Lead Management System Customer Form → n8n Trigger → AI Analysis → Structured Data → Google Sheets → Lead Classification → Team Notification. This workflow can be adapted for hotels, restaurants, travel agencies, digital marketing agencies and e-commerce businesses. 📚 7-DAY AI AUTOMATION MASTERCLASS DAY 1 – AI Automation & AI Agents Fundamentals DAY 2 – Build Your First AI Automation Using n8n + AI + Google Sheets DAY 3 – Build a WhatsApp AI Agent for Customer Support DAY 4 – AI Lead Generation & Sales Automation DAY 5 – AI Marketing & Content Automation DAY 6 – AI Automation for Hotels, Restaurants & E",
+   "channel": "DIGITAL JANXII",
+   "channel_id": "UCGN-E4MpQ6nFGuKwh-jonEQ",
+   "duration": 424,
+   "published_at": "2026-11-06T19:36:23+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "ready",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-10T03:38:36.383371+00:00",
+   "review": {
+    "task": "Build an AI-powered lead management workflow using n8n, AI analysis, and Google Sheets to automate customer enquiry processing",
+    "demonstrated": "n8n workflow canvas showing webhook trigger, AI analysis node, and Google Sheets node mapping unstructured text to structured JSON columns",
+    "creator_claim": "Eliminates manual data entry entirely and saves half a business day of work",
+    "requirements": "n8n account, AI model API access, Google Sheets account",
+    "cost": "Not established in the reviewed video",
+    "caveat": "Relies on slide diagrams and conceptual explanations rather than a live click-by-click screen recording of setting up credentials and nodes from scratch",
+    "workflow_key": "ai lead management n8n googlesheets",
+    "category": "applications",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 14,
+      "observation": "n8n canvas interface showing webhook, AI analysis node, and Google Sheets node connected in sequence"
+     },
+     {
+      "seconds": 412,
+      "observation": "Diagram explaining the master formula workflow combining trigger, AI model, structured output, and apps"
+     }
+    ],
+    "tools": [
+     "n8n",
+     "ChatGPT",
+     "Google Sheets"
+    ],
+    "scores": {
+     "evidence": 7,
+     "reproducibility": 6,
+     "relevance": 9,
+     "clarity": 8
+    }
+   }
+  },
+  "SJywU4UQryQ": {
+   "id": "SJywU4UQryQ",
+   "title": "How to Build an AI Agent for Every Part of Your Life",
+   "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/ai-operating-system-lf-749 🔥 Join the waitlist for Apex: https://go.danmartell.com/apex-waitlist-lf-749 Most people still use AI like a search bar, and they end up doing all the work themselves. I've been building AI agents for my day, my family, and my companies, and I haven't written a single line of code to do it. In this video, I show you how to set up your first bot, then build the agents that handle your inbox, your travel, your numbers, and more. Tell me in the comments which bot you're going to build first. ▸▸ Subscribe to The Martell Method Newsletter: https://bit.ly/3XEBXez ▸▸ Get My New Book (Buy Back Your Time): https://bit.ly/3pCTG78 IG: @danmartell",
+   "channel": "Dan Martell",
+   "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+   "duration": 1671,
+   "published_at": "2026-10-28T13:00:28+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "ge2FmPeVsT8": {
+   "id": "ge2FmPeVsT8",
+   "title": "Build Your FIRST AI Agent in Claude Code. (11 Minutes).",
+   "description": "Get started on the Max plan: https://clau.de/TristenObrien This video is sponsored by Anthropic. AI agents sound complicated, but building your first one is easier than you think. In this video, I walk you through building your very first AI agent in Claude Code, with no coding and no terminal. We build a to-do list agent together. You give it your whole list, hit one button, and it uses subagents to work through your tasks at the same time. It never sends anything without asking you first, and it lives in your Claude account, so you can use it from your phone, even when your computer is turned off. Chapters: 00:00 I built 150 AI agents that run my life 00:42 What an AI agent actually is 01:16 Agentic AI and sub-agents explained 01:54 Set up Claude Code in the Claude app 02:33 Pick your model and turn on auto mode 03:12 Create your CLAUDE.md file 04:09 Plan mode and the 30 second rule 04:55 Brain dump your agent 05:56 When the first build isn’t premium 06:17 Daybook dashboard tour 06:58 Add your tasks and hit Get It Done 07:54 Use your agent on your phone 08:46 Human in the loop: email drafts 09:37 The results 10:24 Start building your own If this helped, subscribe for more simple, practical ways to use AI. #claudeai #ClaudeCode #AIAgents",
+   "channel": "Tristen O'Brien",
+   "channel_id": "UCruPFdKtGG8Oz5dvha6WWgA",
+   "duration": 655,
+   "published_at": "2026-11-05T13:52:46+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   }
+  },
+  "GVHxa11wUxY": {
+   "id": "GVHxa11wUxY",
+   "title": "I Built an AI Agent That Trades Stocks and made me Money!",
+   "description": "Learn how to build an AI trading agent with Claude, Robinhood, and Notion—without writing code. I gave my agent $500 of real money and let it trade stocks for about two months. In this video, I show you how I built it, what went wrong, and the results. We’ll walk through the five steps: connect the tools using MCP, set up the agent’s memory in Notion, write its instructions, test it, and schedule it to run every weekday. I also explain the difference between AI agents and automation, the trading rules and safety limits I chose, and why an agent sometimes decides to do nothing. You’ll see the actual trades, the account’s gains and pullback, and the memory issue I had to fix. The point isn’t just stock trading. Once you understand how an AI agent uses tools, makes decisions, and remembers what happened, you can apply the same idea to other tasks. TRY ANGO TASKS My AI task manager for iPhone—create, update, and organize tasks conversationally. https://apps.apple.com/us/app/ango-tasks/id6755641702 CHAPTERS 00:00 My $500 AI trading experiment 00:47 What is an AI agent? 01:33 AI agents vs. automation 02:22 The setup: Claude, Robinhood, and Notion 03:44 My stock trading strategy 04:44 Safety rules and the circuit breaker 05:28 Step 1: Connect the tools with MCP 05:58 Ango Tasks: My AI task manager 07:38 Step 2: Set up memory in Notion 08:12 Step 3: Write the agent’s instructions 09:04 Step 4: Test the AI agent 09:29 Step 5: Schedule it in Claude 09:42 What went wrong and how I fixed it 10:33 What the agent does each morning 11:06 The actual stock trades 12:14 Results from the $500 account 12:36 The pullback and limits of this experiment 13:38 What if you’re outside the US? 14:13 Should you build an AI agent? What would you want an AI agent to do for you? Let me know in the com",
+   "channel": "The Tech Girl",
+   "channel_id": "UCjzWsRM05uCgkSEELJZWciA",
+   "duration": 890,
+   "published_at": "2026-10-31T13:00:09+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "sent",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-10T03:38:36.383371+00:00",
+   "review": {
+    "task": "Build an automated AI stock trading agent using Claude, Robinhood, and Notion without coding",
+    "demonstrated": "Setting up Claude with Robinhood and Notion MCP connectors, configuring a trading rulebook, and reviewing logged trades and performance over two months.",
+    "creator_claim": "The AI trading agent made 7% profit ($33.60) in two months on a $500 starting balance with zero human intervention.",
+    "requirements": "Claude account, Robinhood account with agentic trading support, Notion account",
+    "cost": "Robinhood account funding ($500 used in experiment), Claude API/subscription costs not explicitly stated",
+    "caveat": "Stock trading carries financial risk; backtest results and short 2-month sample do not guarantee future performance; Robinhood agentic trading is currently US-only.",
+    "workflow_key": "ai stock trading agent with claude and robinhood",
+    "category": "applications",
+    "difficulty": "intermediate",
+    "evidence": [
+     {
+      "seconds": 323,
+      "observation": "Notion ledger showing automated stock buys and sells with timestamps and amounts"
+     },
+     {
+      "seconds": 538,
+      "observation": "Claude settings interface adding custom Robinhood MCP connector link"
+     },
+     {
+      "seconds": 804,
+      "observation": "Notion ledger showing daily entries, state machine block, and automated logs"
+     }
+    ],
+    "tools": [
+     "Claude",
+     "Robinhood",
+     "Notion",
+     "MCP"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 7,
+     "relevance": 9,
+     "clarity": 8
+    }
+   },
+   "sent_at": "2026-11-10T03:38:36.383371+00:00"
+  },
+  "SFhTgNOdg40": {
+   "id": "SFhTgNOdg40",
+   "title": "Build Your First AI Agent For Free In 10 Minutes - No Coding | AI Agents Full Course",
+   "description": "Create Free AI Agents Abacus ► https://bot.abacus.ai/ayu Start AI Side Hustle ► https://www.upskills.club/course/build-side-income-with-ai?invite=AYSH-PNDT AI Agents can help you boosting your productivity, automating tasks and help you in your job, side hustle and business. In this video I will teach you how to create a Free AI Agent that can create morning briefs, do content research and script writing, create websites and more. ******************* Let’s Connect: Instagram ► https://www.instagram.com/ayushman.pandita Twitter ► https://twitter.com/xyushmxn LinkedIn ► https://www.linkedin.com/in/ayushman-pandita Growth Rocket ► https://www.growthrocket.media For Business Enquiry or Collaboration, mail us at team@ayushmanpandita.com ******************* Download Apps Using My Affiliate Links To Support My Channel : Zerodha ► https://zerodha.com/?c=DY5774 Groww ► https://groww.app.link/refe/ayushman8 Upstox ► https://bv7np.app.goo.gl/vtn7 Angel Broking ► https://tinyurl.com/yzey9blz Binance ► https://bit.ly/3U3GxhV DyDx Crypto ► https://dydx.exchange/r/VEAPJVNO ******************* Who Am I? I am a content creator with a community of more than 1M members on Youtube, Instagram and LinkedIn. I also run a social media company Growth Rocket where we help India's top brands in going viral. My journey in content creation and entrepreneurship started with this Youtube channel. And now I am on a mission to help young hustlers make more money, achieve their dreams and live the life they always dreamt of living. Checkout My Youtube Video On My Journey ► https://youtu.be/U6bhetX84qE?si=8aNzZa9j_G63w_LP",
+   "channel": "Ayushman Pandita",
+   "channel_id": "UCyWN-BnWSKeHEnNOYvvpNnA",
+   "duration": 842,
+   "published_at": "2026-10-30T15:46:52+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "x9hrptrGGY0": {
+   "id": "x9hrptrGGY0",
+   "title": "This ONE AI Agent Will Make You So Productive It's Almost Unfair",
+   "description": "Join my free newsletter → https://sandeepswadia.beehiiv.com/ Take us on your morning run or commute, follow us on Spotify: https://open.spotify.com/show/033nSSACs3S4g5NUIrXnHx We often believe that leveraging AI requires juggling dozens of different apps, subscriptions, and chatbots. Instead of getting an AI Chief of Staff, we end up hiring a crowd of AI interns, and spending our entire day managing them. But one AI tool that knows you well is better than ten that don't. In this episode, I share how to set up a personal AI agent to conquer the four forces draining your daily productivity. \"Fragments\": Why toggling between apps 1,200 times a day fractures your attention, and how an AI agent serves as the glue across your tools. \"Flood\": How to protect your cognitive bandwidth from the avalanche of daily communication, turning your agent into a gatekeeper that filters noise. \"Frequency\": Why infrequent, recurring tasks inevitably fall through the cracks without repetition, and how to use your agent as an external trigger to automate and track what matters. \"Future\": How to align your productivity tools with your true life purpose so you spend time on what matters most. Productivity is only meaningful when it helps you achieve your purpose. Thank you, and I love you. 0:00 Ai agents are changing 1:11 Understanding personal agents 2:52 Fighting fragmentation 7:02 Managing information floods 10:25 Handling recurring frequency 13:34 Prioritizing your future 15:25 What are you doing with the time given to you?",
+   "channel": "Sandeep Swadia",
+   "channel_id": "UC4ZVkG3RQPzvZk7alIVjcCg",
+   "duration": 985,
+   "published_at": "2026-11-04T13:00:24+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  },
+  "pnB_wVLo51g": {
+   "id": "pnB_wVLo51g",
+   "title": "AI Agent Deployment + Evaluation on Google Gemini Agent Platform 🚀 | Hands-On Tutorial",
+   "description": "AI Agent Deployment + Evaluation on Google Gemini Agent Platform 🚀 | Hands-On Tutorial 🚀 Full Udemy Grafana Full Course 🚀 : https://www.udemy.com/course/grafana-full-course-2026/?couponCode=26BBPAA2MX https://www.instagram.com/bhoopeshdevops?srtk=OXVhdGg5cjd4MzV5&utm_source=qr Related Documentation: agents-cli create bhoopesh-agent -i agents-cli deploy --project scalkit --region us-east1 🚀 Learn how to deploy your first **production-ready AI Agent on Google Cloud Platform (GCP)** using the **Google Agent Development Kit (ADK)**. In this hands-on tutorial, you'll explore how to build, configure, and deploy an AI agent to the cloud. ☁️ Discover the end-to-end deployment workflow, cloud infrastructure setup, and best practices for running AI agents in a production environment. 🤖 Whether you're an AI engineer, cloud engineer, or developer, this tutorial will help you take your AI agent from local development to production on GCP. 🔥 Follow along and start building scalable, cloud-native AI agents using Google ADK! #GoogleADK #GCP #AIAgents #GoogleCloud #GenerativeAI #CloudDeployment #AgentDevelopment #devops #devopsengineering #clouddevops #kubernetes #gke #cloudengineer #LearnGCP #BhoopeshDevOps",
+   "channel": "Bhoopesh Sharma",
+   "channel_id": "UCY2gz33KPMbLBuCRtwZFsmw",
+   "duration": 619,
+   "published_at": "2026-11-07T13:17:38+00:00",
+   "discovered_at": "2026-11-10T03:38:36.383371+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new",
+   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+  }
+ },
  "daily": {
   "date": "2026-11-10",
-  "searches": 0,
-  "reviews": 0,
-  "video_seconds": 0,
-  "screens": 0,
-  "sent": 0,
-  "categories": [],
-  "channels": [],
-  "fingerprints": []
+  "searches": 6,
+  "reviews": 3,
+  "video_seconds": 2207,
+  "screens": 1,
+  "sent": 2,
+  "categories": [
+   "creative",
+   "applications"
+  ],
+  "channels": [
+   "UCKOTiVw2u_e5LK40-YBTVlQ",
+   "UCjzWsRM05uCgkSEELJZWciA"
+  ],
+  "fingerprints": [
+   "8c8e569d4e278d5fcf5d",
+   "af1e1198533613d0eff0"
+  ]
  },
  "preferences": {},
  "channel_uploads": {},
- "update_offset": 0
+ "update_offset": 0,
+ "next_discovery_at": "2026-11-10T15:38:36.383371+00:00"
 }
