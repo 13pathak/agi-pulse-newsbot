@@ -1477,27 +1477,15 @@
   }
  },
  "daily": {
-  "date": "2026-11-10",
-  "searches": 12,
-  "reviews": 6,
-  "video_seconds": 5446,
-  "screens": 2,
-  "sent": 3,
-  "categories": [
-   "creative",
-   "applications",
-   "everyday"
-  ],
-  "channels": [
-   "UCKOTiVw2u_e5LK40-YBTVlQ",
-   "UCjzWsRM05uCgkSEELJZWciA",
-   "UCruPFdKtGG8Oz5dvha6WWgA"
-  ],
-  "fingerprints": [
-   "8c8e569d4e278d5fcf5d",
-   "af1e1198533613d0eff0",
-   "3aa54f502de0fa1464e5"
-  ]
+  "date": "2026-11-11",
+  "searches": 0,
+  "reviews": 0,
+  "video_seconds": 0,
+  "screens": 0,
+  "sent": 0,
+  "categories": [],
+  "channels": [],
+  "fingerprints": []
  },
  "preferences": {},
  "channel_uploads": {},
