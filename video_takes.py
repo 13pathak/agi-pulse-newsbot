@@ -103,9 +103,9 @@ def fetch_transcript(video_id):
             track = next(iter(tracks))
             if not track.language_code.startswith("en") and track.is_translatable:
                 try:
-                    track = track.translate("en")
-                except yt_errors.CouldNotRetrieveTranscript:
-                    pass  # use the original language; Gemini can read it
+                    return _transcript(track.translate("en").fetch())
+                except (yt_errors.CouldNotRetrieveTranscript, requests.RequestException, TakesError):
+                    pass  # translation unavailable: use the original language; Gemini can read it
         fetched = track.fetch()
     except blocked:
         raise TakesError("YouTube blocked the transcript request from this server "
@@ -120,7 +120,10 @@ def fetch_transcript(video_id):
         raise TakesError("This video has no captions, so there is no transcript to read.") from None
     except requests.RequestException:
         raise TakesError("Network error while reading the transcript.") from None
+    return _transcript(fetched)
 
+
+def _transcript(fetched):
     snippets = [(float(s.start), s.text.replace("\n", " ").strip())
                 for s in fetched.snippets if s.text and s.text.strip()]
     if not snippets:
@@ -222,23 +225,32 @@ def gemini_models():
 def call_gemini(key, prompt, models=None):
     last_error = "no model available"
     for model in models or gemini_models():
+        # Same settings the video recommender validated live: without low thinking,
+        # the model's reasoning can use up the output budget and cut the JSON short.
+        generation = {"temperature": 0.4, "responseMimeType": "application/json", "maxOutputTokens": 8192}
+        if model.startswith("gemini-3") or model == "gemini-flash-latest":
+            generation["thinkingConfig"] = {"thinkingLevel": "LOW"}
         try:
             response = requests.post(
                 f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                 headers={"x-goog-api-key": key}, timeout=(10, 120),
                 json={"contents": [{"role": "user", "parts": [{"text": prompt}]}],
-                      "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json",
-                                           "maxOutputTokens": 8192}})
+                      "generationConfig": generation})
         except requests.RequestException:
             last_error = f"{model}: request failed"
             continue
         if not response.ok:
             last_error = f"{model}: HTTP {response.status_code}"
-            if response.status_code in (400, 401, 403):
-                break  # bad key or request; other models will fail the same way
-            continue
+            log.warning("Gemini %s", last_error)
+            if response.status_code in (401, 403):
+                break  # bad key; other models will fail the same way
+            continue  # 400 can be model-specific (unsupported setting), so try the next one
         try:
             candidate = response.json()["candidates"][0]
+            if candidate.get("finishReason") not in (None, "STOP"):
+                last_error = f"{model}: stopped early ({candidate.get('finishReason')})"
+                log.warning("Gemini %s", last_error)
+                continue
             text = "".join(p.get("text", "") for p in candidate["content"]["parts"] if not p.get("thought"))
             data = json.loads(re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip()))
             if isinstance(data, dict):
@@ -382,7 +394,11 @@ def save_state(state, path=STATE_PATH):
 def authorized(message, chat_id, allowed_user=None):
     if str(message.get("chat", {}).get("id")) != str(chat_id):
         return False
-    return not allowed_user or str(message.get("from", {}).get("id")) == str(allowed_user)
+    if allowed_user:
+        return str(message.get("from", {}).get("id")) == str(allowed_user)
+    # A private chat has one person. In a group anyone could post links, so a
+    # group needs TELEGRAM_FEEDBACK_USER_ID, as the recommender's feedback does.
+    return not str(chat_id).startswith("-")
 
 
 def handle_message(message, state, now, gemini_key, analyzer=analyze):

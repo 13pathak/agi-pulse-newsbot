@@ -200,3 +200,48 @@ def test_separate_takes_bot_only_polls_messages(monkeypatch, tmp_path):
 
     monkeypatch.setattr(vt, "telegram", telegram)
     assert vt.poll("t", "42", "k", state_path=tmp_path / "takes.json", video_state_path=video_path) == 0
+
+
+def test_group_chat_needs_an_authorized_user():
+    group = message("x", chat=-100123, user=7)
+    assert not vt.authorized(group, "-100123")
+    assert vt.authorized(group, "-100123", allowed_user="7")
+
+
+class FakeResponse:
+    def __init__(self, status=200, finish="STOP", text='{"posts": []}'):
+        self.status_code, self.ok = status, status == 200
+        self._body = {"candidates": [{"finishReason": finish, "content": {"parts": [{"text": text}]}}]}
+
+    def json(self):
+        return self._body
+
+
+def test_call_gemini_falls_back_after_bad_request_and_truncation(monkeypatch):
+    replies = {"gemini-3.6-flash": FakeResponse(400), "gemini-flash-latest": FakeResponse(finish="MAX_TOKENS"),
+               "old-model": FakeResponse(text='```json\n{"posts": [1]}\n```')}
+    sent = {}
+
+    def post(url, headers, timeout, json):
+        model = url.split("/models/")[1].split(":")[0]
+        sent[model] = json["generationConfig"]
+        return replies[model]
+
+    monkeypatch.setattr(vt.requests, "post", post)
+    assert vt.call_gemini("k", "p", list(replies)) == {"posts": [1]}
+    assert sent["gemini-3.6-flash"]["thinkingConfig"] == {"thinkingLevel": "LOW"}
+    assert sent["gemini-flash-latest"]["thinkingConfig"] == {"thinkingLevel": "LOW"}
+    assert "thinkingConfig" not in sent["old-model"]
+
+
+def test_call_gemini_stops_on_rejected_key(monkeypatch):
+    seen = []
+
+    def post(url, headers, timeout, json):
+        seen.append(url)
+        return FakeResponse(403)
+
+    monkeypatch.setattr(vt.requests, "post", post)
+    with pytest.raises(vt.TakesError):
+        vt.call_gemini("k", "p", ["a", "b"])
+    assert len(seen) == 1
