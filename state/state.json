@@ -595,7 +595,12 @@
   "a6485c0c371b99b1": "2026-11-10T03:37:43.415221+00:00",
   "7dde1cb64548820a": "2026-11-10T03:37:43.415221+00:00",
   "436189e323ff9a3b": "2026-11-10T03:37:43.415221+00:00",
-  "f3135f0075a53548": "2026-11-10T03:37:43.415221+00:00"
+  "f3135f0075a53548": "2026-11-10T03:37:43.415221+00:00",
+  "4a69b85f66d71ac7": "2026-11-10T04:07:20.803621+00:00",
+  "f65bd15b4fae8d1f": "2026-11-10T04:07:20.803621+00:00",
+  "a9c08f3809a1467e": "2026-11-10T04:07:20.803621+00:00",
+  "c665674c5bb48e65": "2026-11-10T04:07:20.803621+00:00",
+  "0efe3a3dc1058fc5": "2026-11-10T04:07:20.803621+00:00"
  },
  "covered": [
   {
@@ -777,11 +782,15 @@
   {
    "headline": "Australia proposes criminal law changes after OpenAI hack",
    "ts": "2026-11-10T03:37:43.415221+00:00"
+  },
+  {
+   "headline": "Australia announces mandatory AI safeguards and new safety regulator",
+   "ts": "2026-11-10T04:07:20.803621+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1893,45 +1902,6 @@
  },
  "pending": [
   {
-   "id": "c665674c5bb48e65",
-   "item": {
-    "id": "c665674c5bb48e65",
-    "title": "Australia to adopt 'mandatory' AI safeguards",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-to-adopt-mandatory-ai-safeguards/articleshow/135697355.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135697355,imgsize-82816.cms",
-    "snippet": "Artificial intelligence companies will have to abide by new \"mandatory\" safeguards when operating in Australia, Prime Minister Anthony Albanese said Tuesday. With immense renewable energy potential and vast stretches of uninhabited land, Australia has billed itself as a prime location for the data centres needed to power artificial intelligence.",
-    "published": "2026-11-10T02:52:48+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "0efe3a3dc1058fc5",
-     "title": "Australia to Create AI Safety Regulator, Mandatory Safety Rules",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "Australia will create a new artificial-intelligence safety regulator that will have the power to impose “significant penalties” on companies that do the wrong thing, Prime Minister Anthony Albanese said Tuesday in Canberra.",
-     "published": "2026-11-10T02:26:20+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 9,
-   "urgency": "timely",
-   "headline": "Australia announces mandatory AI safeguards and new safety regulator",
-   "post": "Australia announced plans to establish an artificial intelligence safety regulator and implement mandatory safety rules for companies operating in the country, Prime Minister Anthony Albanese said.",
-   "editor_note": "Verify the exact scope of penalties and which companies fall under the new mandatory rules outlined by the Prime Minister.",
-   "published_at": "2026-11-10T02:26:20+00:00",
-   "first_seen_at": "2026-11-10T03:07:20.705440+00:00",
-   "expires_at": "2026-11-11T14:26:20+00:00",
-   "priority": 9.498593,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "38c8ca804432e4c8",
    "item": {
     "id": "38c8ca804432e4c8",
@@ -1954,7 +1924,7 @@
    "published_at": "2026-11-10T03:14:54+00:00",
    "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
    "expires_at": "2026-11-11T15:14:54+00:00",
-   "priority": 9.489434,
+   "priority": 9.506577,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2029,8 +1999,8 @@
    "published_at": "2026-11-09T19:00:00+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:00:00+00:00",
-   "priority": 9.385619,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 9.402762,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "8b937df2ca88bb3e",
@@ -2056,8 +2026,8 @@
    "published_at": "2026-11-10T01:56:50+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:56:50+00:00",
-   "priority": 8.547342,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.564485,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "29dc3ada50a44e0a",
@@ -2096,8 +2066,8 @@
    "published_at": "2026-11-10T01:34:47+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:34:47+00:00",
-   "priority": 8.537134,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.554277,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "b3625594e57429fa",
@@ -2123,7 +2093,7 @@
    "published_at": "2026-11-10T03:10:03+00:00",
    "first_seen_at": "2026-11-10T03:37:43.415221+00:00",
    "expires_at": "2026-11-11T15:10:03+00:00",
-   "priority": 8.487188,
+   "priority": 8.504331,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2149,8 +2119,8 @@
    "published_at": "2026-11-09T20:01:20+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T20:01:20+00:00",
-   "priority": 8.466837,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.487409,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "5d72d36b6c1fd27b",
@@ -2175,8 +2145,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.346348,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.363491,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2201,8 +2171,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.042412,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 8.059555,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2227,8 +2197,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 7.37269,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.389833,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2253,8 +2223,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 7.356954,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.374097,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2281,8 +2251,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.775096,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.80081,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2309,8 +2279,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.775096,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.80081,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2348,8 +2318,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.389156,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.406299,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2374,8 +2344,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.388998,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 6.406141,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2400,8 +2370,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.371764,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 6.358049,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2426,8 +2396,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.371509,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 6.357795,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2453,8 +2423,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.074063,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.091207,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2480,8 +2450,35 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.060776,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.077919,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "8229f0ca2011dd2d",
+   "item": {
+    "id": "8229f0ca2011dd2d",
+    "title": "“泛函数”完成近亿元天使轮融资",
+    "url": "https://36kr.com/newsflashes/4063391777739654?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，AI原生芯片设计公司“泛函数”近日完成近亿元天使轮融资，由上海未来产业基金领投，上海信投、上海科创集团、富海重产基金、徐汇资本、宽桥恒松、无限基金联合投资。本轮融资将重点用于AI原生芯片设计垂类模型训练、全流程工具链迭代、芯片工程与AI算法核心团队扩充，以及客户联合交付与市场拓展。自2026年3月成立以来，“泛函数”已经完成多轮融资。",
+    "published": "2026-11-10T03:53:42+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "AI chip design startup Panhanshu raises nearly 100 million yuan",
+   "post": "AI chip design startup Panhanshu raised nearly 100 million yuan in an angel round led by Shanghai Future Industry Fund. The startup plans to train chip design domain models and iterate its toolchain.",
+   "editor_note": "Verify lead investor Shanghai Future Industry Fund and scope of chip design domain models.",
+   "published_at": "2026-11-10T03:53:42+00:00",
+   "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
+   "expires_at": "2026-11-11T15:53:42+00:00",
+   "priority": 5.993682,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2506,8 +2503,8 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 5.890233,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 5.907376,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2533,34 +2530,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.818323,
-   "selection_reason": "Editorial importance; waiting 2.5h"
-  },
-  {
-   "id": "7cd5e10290710b74",
-   "item": {
-    "id": "7cd5e10290710b74",
-    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "source": "NVIDIA",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
-    "snippet": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
-    "published": "2026-11-09T14:00:01+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 5,
-   "urgency": "routine",
-   "headline": "Nvidia presents simulation tools for training fine robotic manipulation",
-   "post": "Nvidia and research partners demonstrated simulation techniques at the Conference on Robot Learning for training robots in fine manipulation tasks, such as aligning gears, connecting cables, and assembling small components.",
-   "editor_note": "Verify specific benchmark results or software releases tied to Nvidia's CoRL presentation.",
-   "published_at": "2026-11-09T14:00:01+00:00",
-   "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
-   "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.466074,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 5.835466,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "c3f818092f308b52",
@@ -2587,33 +2558,33 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.462201,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 5.457058,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
-   "id": "bd74b7cf0c1bc812",
+   "id": "7cd5e10290710b74",
    "item": {
-    "id": "bd74b7cf0c1bc812",
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
-    "published": "2026-11-09T14:00:00+00:00",
+    "id": "7cd5e10290710b74",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "source": "NVIDIA",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
+    "snippet": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+    "published": "2026-11-09T14:00:01+00:00",
     "images": true,
-    "category": "news",
-    "source_cap": 3
+    "category": "primary",
+    "source_cap": 4
    },
    "related": [],
    "importance": 5,
    "urgency": "routine",
-   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
-   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
-   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
-   "published_at": "2026-11-09T14:00:00+00:00",
-   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
-   "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.371424,
+   "headline": "Nvidia presents simulation tools for training fine robotic manipulation",
+   "post": "Nvidia and research partners demonstrated simulation techniques at the Conference on Robot Learning for training robots in fine manipulation tasks, such as aligning gears, connecting cables, and assembling small components.",
+   "editor_note": "Verify specific benchmark results or software releases tied to Nvidia's CoRL presentation.",
+   "published_at": "2026-11-09T14:00:01+00:00",
+   "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
+   "expires_at": "2026-11-11T14:00:01+00:00",
+   "priority": 5.455788,
    "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
@@ -2639,8 +2610,34 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.370544,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 5.387687,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "bd74b7cf0c1bc812",
+   "item": {
+    "id": "bd74b7cf0c1bc812",
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "published": "2026-11-09T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Automattic debuts Spacefast platform for deploying AI applications",
+   "post": "Automattic has launched Spacefast, a platform designed to host and deploy applications created through natural language AI coding tools.",
+   "editor_note": "Check Spacefast deployment requirements, supported frameworks, and pricing tier details.",
+   "published_at": "2026-11-09T14:00:00+00:00",
+   "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
+   "expires_at": "2026-11-11T02:00:00+00:00",
+   "priority": 5.35771,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2666,8 +2663,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.316624,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 5.333767,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2692,8 +2689,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.276401,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 5.262687,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2732,8 +2729,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.238492,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 5.224778,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2759,8 +2756,8 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.189943,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 5.176228,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2786,8 +2783,34 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 5.032535,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 5.018821,
+   "selection_reason": "Editorial importance; waiting 17.5h"
+  },
+  {
+   "id": "da421f12a83a062d",
+   "item": {
+    "id": "da421f12a83a062d",
+    "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+    "url": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/895962af-cce4-49b8-b534-40b8b9fddd8d_3e595b82.jpg?itok=8Q34aiST&v=1794265531",
+    "snippet": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm elections and the Jensen Huang affair. The US chip giant’s top-of-the-range GeForce RTX 5090 graphics card surged in price last month at Shenzhen’s Huaqiangbei market, but that was m…",
+    "published": "2026-11-10T04:00:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Nvidia GPU prices fall in Shenzhen market amid access confidence",
+   "post": "Prices for Nvidia graphics cards have fallen at Shenzhen's Huaqiangbei electronics market as local traders remain confident in GPU access despite US export control concerns.",
+   "editor_note": "Confirm specific GPU price changes in Huaqiangbei beyond the RTX 5090.",
+   "published_at": "2026-11-10T04:00:30+00:00",
+   "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
+   "expires_at": "2026-11-11T16:00:30+00:00",
+   "priority": 4.99683,
+   "selection_reason": "Editorial importance"
   }
  ]
 }
