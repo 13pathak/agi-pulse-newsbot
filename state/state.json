@@ -647,7 +647,9 @@
   "6b48448e2c0a9b05": "2026-11-10T07:07:23.927899+00:00",
   "f9a613e7e8d4b24d": "2026-11-10T07:07:23.927899+00:00",
   "1ea0d7e1209fccc2": "2026-11-10T07:07:23.927899+00:00",
-  "b3625594e57429fa": "2026-11-10T07:07:23.927899+00:00"
+  "b3625594e57429fa": "2026-11-10T07:07:23.927899+00:00",
+  "960a127182742bbe": "2026-11-10T07:37:22.183022+00:00",
+  "40881cc5fab2fef0": "2026-11-10T07:37:22.183022+00:00"
  },
  "covered": [
   {
@@ -853,11 +855,15 @@
   {
    "headline": "Ant Group Releases LingBot-Touch Tactile Foundation Model",
    "ts": "2026-11-10T07:07:23.927899+00:00"
+  },
+  {
+   "headline": "Moonshot AI accessed advanced Nvidia chips through rental arrangements",
+   "ts": "2026-11-10T07:37:22.183022+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-10",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -1981,32 +1987,6 @@
  },
  "pending": [
   {
-   "id": "40881cc5fab2fef0",
-   "item": {
-    "id": "40881cc5fab2fef0",
-    "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Moonshot AI accessed a trove of Nvidia Corp.’s most advanced chips this summer, according to documents filed with Beijing regulators, highlighting the Chinese artificial intelligence champion’s reliance on American hardware despite US export restrictions.",
-    "published": "2026-11-10T04:54:37+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Moonshot AI accessed advanced Nvidia chips through rental arrangements",
-   "post": "Regulatory filings indicate that Chinese AI developer Moonshot AI accessed Nvidia advanced chips through rental agreements this summer.",
-   "editor_note": "Verify if the specific chip models or quantities are disclosed in the Beijing regulatory documents.",
-   "published_at": "2026-11-10T04:54:37+00:00",
-   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
-   "expires_at": "2026-11-11T16:54:37+00:00",
-   "priority": 8.563492,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "d260e603807999f8",
    "item": {
     "id": "d260e603807999f8",
@@ -2043,7 +2023,33 @@
    "published_at": "2026-11-10T06:35:51+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:35:51+00:00",
-   "priority": 8.485394,
+   "priority": 8.502738,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "93986fa4c49fef56",
+   "item": {
+    "id": "93986fa4c49fef56",
+    "title": "Meta to Introduce Muse AI Agent in India Starting With ₹1,799 Plan: Report",
+    "url": "https://analyticsindiamag.com/ai-news/meta-to-introduce-muse-ai-agent-in-india-starting-with-1799-plan-report",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1786431749665-w0nw4k.webp",
+    "snippet": "Meta has reportedly listed the subscription prices for its personal artificial intelligence (AI) agent, Muse, ahead of India launch. According to a report by The Hindu , the Power subscription is listed at ₹1,799 per month, while the higher-end Maximum plan costs ₹8,999. The prices are displayed on Muse's service, with marginally higher charges for subscriptions purchased through Google Play and A…",
+    "published": "2026-11-10T07:14:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Meta lists Muse AI agent pricing in India ahead of launch",
+   "post": "Meta has listed subscription pricing for its Muse AI agent in India ahead of launch, with the Power plan starting at 1,799 rupees per month and the Maximum plan at 8,999 rupees per month, according to a report by The Hindu.",
+   "editor_note": "Verify if listed prices include mobile app store surcharges versus direct web rates.",
+   "published_at": "2026-11-10T07:14:45+00:00",
+   "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
+   "expires_at": "2026-11-11T19:14:45+00:00",
+   "priority": 8.489528,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2069,8 +2075,8 @@
    "published_at": "2026-11-09T19:49:59+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-11T07:49:59+00:00",
-   "priority": 8.467688,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 8.485033,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "24d961941c1d2ae1",
@@ -2095,8 +2101,8 @@
    "published_at": "2026-11-10T01:46:11+00:00",
    "first_seen_at": "2026-11-10T02:07:26.100452+00:00",
    "expires_at": "2026-11-11T13:46:11+00:00",
-   "priority": 8.163751,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 8.181096,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2121,8 +2127,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.583009,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.600354,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "30d10db5b5c89fdf",
@@ -2161,8 +2167,8 @@
    "published_at": "2026-11-10T02:23:00+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T14:23:00+00:00",
-   "priority": 7.52463,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.541974,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2188,7 +2194,7 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.441945,
+   "priority": 7.459289,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2214,8 +2220,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.066448,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.083792,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2241,8 +2247,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.030602,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.047947,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2267,8 +2273,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.99403,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.011374,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2294,7 +2300,7 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.992616,
+   "priority": 7.009961,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2320,8 +2326,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.978294,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.995638,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2348,8 +2354,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.957105,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.983122,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2376,8 +2382,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.957105,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.983122,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "1c08c141aa01274e",
@@ -2405,6 +2411,18 @@
      "images": true,
      "category": "research",
      "source_cap": 3
+    },
+    {
+     "id": "1afd9e573768b3f1",
+     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "source": "Simon Willison",
+     "image": "",
+     "snippet": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced th…",
+     "published": "2026-11-10T07:28:21+00:00",
+     "images": false,
+     "category": "research",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -2415,8 +2433,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-10T12:00:00+00:00",
-   "priority": 6.510496,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.52784,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "67dd0cfb36bf7333",
@@ -2441,8 +2459,8 @@
    "published_at": "2026-11-09T15:44:53+00:00",
    "first_seen_at": "2026-11-09T16:07:28.073613+00:00",
    "expires_at": "2026-11-11T03:44:53+00:00",
-   "priority": 6.32291,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.309034,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "d67288d027c7e193",
@@ -2467,8 +2485,8 @@
    "published_at": "2026-11-09T14:00:44+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:44+00:00",
-   "priority": 6.274692,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 6.260816,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "eea9b1843c8a5753",
@@ -2493,8 +2511,8 @@
    "published_at": "2026-11-09T14:00:11+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:11+00:00",
-   "priority": 6.274437,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 6.260562,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "586b5f5bd197f933",
@@ -2520,8 +2538,8 @@
    "published_at": "2026-11-10T00:39:24+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:39:24+00:00",
-   "priority": 6.195403,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.212748,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "90a39c5880d64c81",
@@ -2547,8 +2565,8 @@
    "published_at": "2026-11-10T00:10:42+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T12:10:42+00:00",
-   "priority": 6.182116,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.199461,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "8229f0ca2011dd2d",
@@ -2574,8 +2592,8 @@
    "published_at": "2026-11-10T03:53:42+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T15:53:42+00:00",
-   "priority": 6.097879,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.115223,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "4a7141713ab5f922",
@@ -2600,8 +2618,35 @@
    "published_at": "2026-11-09T19:09:58+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T07:09:58+00:00",
-   "priority": 6.011573,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.028918,
+   "selection_reason": "Editorial importance; waiting 6.0h"
+  },
+  {
+   "id": "1ff269d46373d006",
+   "item": {
+    "id": "1ff269d46373d006",
+    "title": "一台机器 2000 万，隐秘的天价 GPU 生意 | 深氪 Lite",
+    "url": "https://36kr.com/p/4063602885039238?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "文｜李炤锋 编辑 | 张雨忻 在南方某城市的保税区一带，一家公司的采购代表陈远（化名）等了整整一天。 陈远需要买一批某型号（以下称X型）的高端 GPU 服务器。来之前，老板给他下了“死命令”：当天必须要拿到货。然而，陈远从早上等到晚上11点， 等来的却是对方的“卖不了了”。 替他找货的中介商林岳（化名）立刻又联系了另一名卖家。这一次，对方报出的价格每台超过2000万元，但依然“没法立刻拿到货”。 陈远要的是X型8卡服务器——一台搭载着8颗X型号高端 GPU 的机器。今年以来，该型号设备的价格经历了一轮暴涨。 去年年末，X型8卡服务器在国内的报价约为400万元；而到了今年9月，同一机型报价涨至原来的近4倍，来到了1500万元左右；而就在近一个月，报价再次大幅上涨，突破了2000万元。 涨价的直接原因，是高端 GPU 的需求在持续扩大——全球范围内，各大AI厂商都在加紧算力的“军备竞赛”。比如，今年2月，Meta与生产高端 GPU 的该芯片厂商就宣布了一项多年合作，计划部署数百万颗高端GPU，建设用于AI模型训练和推理的超大规模数据中心。 另一方面，是这个需求和交易量巨大的市场，并不是一个足够透明的市场——一条货源消息往往要经过多名中介，每转一手，就会被加一次价。而即便买家愿意出高价购买，也未必知道谁真正有货、什么时候能交。 围绕这轮不断攀升的行情，《智能涌现》与几位算力从业者深入地聊了聊。从他们经手的一笔笔生意里，我们试图搞清楚这桩隐秘的天价生意是如何运转的。 中间人的生意 陈远去保税区的前一晚，林岳盯货盯到了凌晨一两点。他记得，自己是反复确认过货没问题，才去睡觉的。 “前一天晚…",
+    "published": "2026-11-10T07:11:04+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 6,
+   "urgency": "routine",
+   "headline": "High-end GPU server prices spike in Chinese secondary market",
+   "post": "Prices for eight-GPU servers using high-end chips have reached over 20 million yuan in China, up from about 4 million yuan late last year, driven by AI compute demand and broker markups, according to 36Kr.",
+   "editor_note": "Check specific GPU model names omitted by source due to pseudonyms.",
+   "published_at": "2026-11-10T07:11:04+00:00",
+   "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
+   "expires_at": "2026-11-11T19:11:04+00:00",
+   "priority": 5.987823,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "ae7e040058e056e9",
@@ -2627,8 +2672,8 @@
    "published_at": "2026-11-09T15:27:00+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T03:27:00+00:00",
-   "priority": 5.939663,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 5.957007,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "b4c048dd7572fd13",
@@ -2655,7 +2700,7 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.675799,
+   "priority": 5.701815,
    "selection_reason": "Editorial importance"
   },
   {
@@ -2683,8 +2728,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-09T10:07:25.046413+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 5.425799,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 5.420596,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "7cd5e10290710b74",
@@ -2709,8 +2754,8 @@
    "published_at": "2026-11-09T14:00:01+00:00",
    "first_seen_at": "2026-11-09T14:37:24.342987+00:00",
    "expires_at": "2026-11-11T14:00:01+00:00",
-   "priority": 5.39327,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 5.382864,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "dbd9680f73cbc538",
@@ -2735,8 +2780,8 @@
    "published_at": "2026-11-09T16:12:28+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T04:12:28+00:00",
-   "priority": 5.33568,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 5.321804,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "f885ef769180b46f",
@@ -2762,8 +2807,8 @@
    "published_at": "2026-11-09T14:16:00+00:00",
    "first_seen_at": "2026-11-09T16:37:26.572504+00:00",
    "expires_at": "2026-11-11T02:16:00+00:00",
-   "priority": 5.28176,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 5.267884,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "bd74b7cf0c1bc812",
@@ -2788,8 +2833,8 @@
    "published_at": "2026-11-09T14:00:00+00:00",
    "first_seen_at": "2026-11-09T14:07:23.032705+00:00",
    "expires_at": "2026-11-11T02:00:00+00:00",
-   "priority": 5.274352,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 5.260477,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "16147b47fe778181",
@@ -2814,8 +2859,8 @@
    "published_at": "2026-11-09T10:34:45+00:00",
    "first_seen_at": "2026-11-09T11:07:21.517844+00:00",
    "expires_at": "2026-11-10T22:34:45+00:00",
-   "priority": 5.179329,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 5.165454,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "df3675d7a4445269",
@@ -2854,8 +2899,8 @@
    "published_at": "2026-11-09T09:12:52+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T21:12:52+00:00",
-   "priority": 5.14142,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 5.127545,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "da421f12a83a062d",
@@ -2880,8 +2925,8 @@
    "published_at": "2026-11-10T04:00:30+00:00",
    "first_seen_at": "2026-11-10T04:07:20.803621+00:00",
    "expires_at": "2026-11-11T16:00:30+00:00",
-   "priority": 5.101027,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 5.118371,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "288844aa1b89ae14",
@@ -2907,8 +2952,61 @@
    "published_at": "2026-11-09T07:28:00+00:00",
    "first_seen_at": "2026-11-09T09:37:21.248928+00:00",
    "expires_at": "2026-11-10T19:28:00+00:00",
-   "priority": 5.092871,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 5.078996,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "0cb7ad579ad86abd",
+   "item": {
+    "id": "0cb7ad579ad86abd",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "published": "2026-11-10T07:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Otter AI adds multilingual transcription support across 27 languages",
+   "post": "Otter AI has expanded its transcription support to 27 languages and announced an upcoming feature to track conversations when speakers switch between languages.",
+   "editor_note": "Verify whether code-switching transcription is currently live or upcoming.",
+   "published_at": "2026-11-10T07:00:00+00:00",
+   "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
+   "expires_at": "2026-11-11T19:00:00+00:00",
+   "priority": 4.982699,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "91dadecb53ca5e70",
+   "item": {
+    "id": "91dadecb53ca5e70",
+    "title": "英飞凌上调AI相关销售预期，受益于数据中心扩产计划",
+    "url": "https://36kr.com/newsflashes/4063570254435461?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "英飞凌科技股份公司上调2027财年数据中心业务销售额预期至约40亿欧元，表示看好该业务拉动增长。公司预计，依托数据中心与电动出行领域功率芯片，2027财年营收和盈利能力将大幅提升。英飞凌计划投入30亿至35亿欧元，主要用于德国德累斯顿基地扩产设备采购以及马来西亚碳化硅产能扩建。（新浪财经）",
+    "published": "2026-11-10T06:37:25+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 5,
+   "urgency": "routine",
+   "headline": "Infineon raises 2027 data center sales forecast to 4 billion euros",
+   "post": "Semiconductor maker Infineon has raised its fiscal 2027 data center sales forecast to about 4 billion euros, citing demand for power chips used in AI infrastructure, and plans to invest up to 3.5 billion euros in expansion.",
+   "editor_note": "Confirm allocation split between Dresden facility and Malaysia SiC plant.",
+   "published_at": "2026-11-10T06:37:25+00:00",
+   "first_seen_at": "2026-11-10T07:37:22.183022+00:00",
+   "expires_at": "2026-11-11T18:37:25+00:00",
+   "priority": 4.972244,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "7639d6d71e8a2958",
@@ -2934,8 +3032,8 @@
    "published_at": "2026-11-09T01:48:00+00:00",
    "first_seen_at": "2026-11-09T10:37:24.219759+00:00",
    "expires_at": "2026-11-10T13:48:00+00:00",
-   "priority": 4.935464,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 4.921588,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   }
  ]
 }
