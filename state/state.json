@@ -1094,10 +1094,6 @@
  },
  "covered": [
   {
-   "headline": "ByteDance releases Seedream 5.5 image model with transparent asset generation",
-   "ts": "2026-11-09T15:07:23.862819+00:00"
-  },
-  {
    "headline": "Adobe embeds CX Enterprise Coworker across major AI platforms",
    "ts": "2026-11-09T15:37:27.777087+00:00"
   },
@@ -2602,6 +2598,19 @@
   },
   "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE": {
    "card": "MiniMax-H3-Image-PE Online API Use MiniMax-H3-Image directly via API. - Global: platform.minimax.io | CN: platform.minimax.cn API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs Introduction MiniMax-H3-Image-PE provides prompt expansion (PE) for MiniMax-H3-Image. It turns a short request into a detailed description of the intended image, together with an aspect-ratio recommendation for image generation. This repository covers two workflows: The examples below explain how to use MiniMax-H3-Image-PE and the image editing task prompt. How to use T2I PE Run the examples from a local copy of this repository so the relative prompt and script paths resolve correctly. Serve MiniMax-H3-Image-PE We recommend SGLang with sglang =0.5.23 and xgrammar =0.2.7 . bash sglang serve \\ --model-path MiniMaxAI/MiniMax-H3-Image-PE \\ --served-model-name MiniMax-H3-Image-PE \\ --model-type llm \\ --reasoning-parser qwen3 \\ --grammar-backend xgrammar \\ --constrained-json-disable-any-whitespace \\ --host 0.0.0.0 \\ --port 30000 SGLang reads the FP4 configuration from the checkpoint. XGrammar constrains the answer to the JSON schema, and the reasoning…"
+  },
+  "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
+   "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease",
+   "desc": "AlphaGenome 2 is our next-generation DNA sequence model that bridges single-cell biology and human genetics, predicting how variants affect human cell types.",
+   "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw",
+   "published": "2026-11-11T15:00:00+00:00"
+  },
+  "https://huggingface.co/blog/token-pooling": {
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+   "published": "2026-11-11T00:00:00.769000+00:00",
+   "excerpt": "Multi-vector embedding models give each query token its own opportunity to find a match in a document. This makes them wonderfully expressive for search, but those document vectors add up quickly. A corpus with millions of documents can contain hundreds of millions of vectors! Token pooling makes these representations smaller by merging similar token vectors. The more aggressively I compress them, however, the easier it becomes to lose something useful. Pooling-aware training teaches the encoder to preserve the information that matters when its vectors are merged, helping you retrieve better from the same storage budget. In this post, I'll explain how pooling works, train a model for compressed retrieval with Sentence Transformers, and explore the resulting quality and storage tradeoff. Wi…"
   }
  },
  "pending": [
@@ -2628,8 +2637,8 @@
    "published_at": "2026-11-11T12:53:07+00:00",
    "first_seen_at": "2026-11-11T13:07:23.466854+00:00",
    "expires_at": "2026-11-13T00:53:07+00:00",
-   "priority": 7.545568,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.562852,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "281df356d71debbc",
@@ -2654,8 +2663,8 @@
    "published_at": "2026-11-11T13:51:11+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:51:11+00:00",
-   "priority": 7.509964,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.527248,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "7218220fa4fbbf3e",
@@ -2680,8 +2689,8 @@
    "published_at": "2026-11-11T13:50:30+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:50:30+00:00",
-   "priority": 7.509648,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.526932,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2706,8 +2715,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.486299,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.503583,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2734,8 +2743,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.347647,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.342462,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2760,34 +2769,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.256789,
-   "selection_reason": "Editorial importance; waiting 13.5h"
-  },
-  {
-   "id": "75611a00ad611de2",
-   "item": {
-    "id": "75611a00ad611de2",
-    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
-    "published": "2026-11-10T18:41:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
-   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
-   "editor_note": "Verify model release status and availability of weights or API.",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.196442,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.242962,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2812,8 +2795,34 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.196151,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.185781,
+   "selection_reason": "Editorial importance; waiting 26.5h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 7.182615,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2838,8 +2847,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.163171,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.149343,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2925,8 +2934,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.153628,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.143257,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2951,8 +2960,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.121975,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.108147,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2977,8 +2986,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.107383,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.093556,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3005,8 +3014,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.097647,
-   "selection_reason": "Editorial importance; waiting 36.0h"
+   "priority": 7.092462,
+   "selection_reason": "Editorial importance; waiting 36.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3033,8 +3042,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.097647,
-   "selection_reason": "Editorial importance; waiting 36.0h"
+   "priority": 7.092462,
+   "selection_reason": "Editorial importance; waiting 36.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3059,8 +3068,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.035686,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.021859,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3085,8 +3094,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.028911,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.015084,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3111,8 +3120,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.004613,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.990786,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3138,8 +3147,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.972569,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.958741,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3250,8 +3259,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.945295,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 6.934924,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3276,8 +3285,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.89888,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.885053,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3303,8 +3312,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.867546,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.853718,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3330,8 +3339,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.843008,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.829181,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3357,8 +3366,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.816874,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.803047,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3383,8 +3392,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.816411,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.802584,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3409,8 +3418,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.801643,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.787816,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   }
  ],
  "details_queue": [],
