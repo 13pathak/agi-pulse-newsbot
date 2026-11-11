@@ -126,12 +126,14 @@
    "categories": [
     "creative"
    ],
-   "status": "new",
+   "status": "retry",
    "screen_after": "2026-11-11T03:38:36.383371+00:00",
    "screen": {
     "category": "creative",
     "relevance": 9
-   }
+   },
+   "attempts": 1,
+   "retry_at": "2026-11-11T15:38:49.449216+00:00"
   },
   "_fIoJ_ywGfY": {
    "id": "_fIoJ_ywGfY",
@@ -146,7 +148,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "haCdbUJiuS4": {
    "id": "haCdbUJiuS4",
@@ -161,7 +163,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "zocKB90jZZg": {
    "id": "zocKB90jZZg",
@@ -268,7 +270,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "VbOaabW4i1A": {
    "id": "VbOaabW4i1A",
@@ -283,7 +285,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "QyDR-B_4WCg": {
    "id": "QyDR-B_4WCg",
@@ -332,7 +334,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "jAFW2uaLq-U": {
    "id": "jAFW2uaLq-U",
@@ -347,7 +349,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "71AHoRKLWHI": {
    "id": "71AHoRKLWHI",
@@ -377,7 +379,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "wb1oJ4L0nQg": {
    "id": "wb1oJ4L0nQg",
@@ -411,7 +413,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "QaG-biWIy3c": {
    "id": "QaG-biWIy3c",
@@ -426,7 +428,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "F8jidmEkIeM": {
    "id": "F8jidmEkIeM",
@@ -475,7 +477,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "fs0MKpzC8L0": {
    "id": "fs0MKpzC8L0",
@@ -490,7 +492,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "rQkQ7xFVshM": {
    "id": "rQkQ7xFVshM",
@@ -505,7 +507,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "g4lrVFThfOM": {
    "id": "g4lrVFThfOM",
@@ -520,7 +522,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "jDk0sPwFH1k": {
    "id": "jDk0sPwFH1k",
@@ -553,7 +555,7 @@
    "categories": [
     "creative"
    ],
-   "status": "ready",
+   "status": "sent",
    "screen_after": "2026-11-11T04:10:19.858723+00:00",
    "screen": {
     "category": "creative",
@@ -591,7 +593,8 @@
      "relevance": 9,
      "clarity": 9
     }
-   }
+   },
+   "sent_at": "2026-11-11T03:38:49.449216+00:00"
   },
   "0wwliv8deUI": {
    "id": "0wwliv8deUI",
@@ -636,7 +639,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "DeAjrKu_AfU": {
    "id": "DeAjrKu_AfU",
@@ -651,7 +654,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "udDdFNqEg0c": {
    "id": "udDdFNqEg0c",
@@ -666,7 +669,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "6UIxkdvPapE": {
    "id": "6UIxkdvPapE",
@@ -696,7 +699,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "zrAiDGbqbqw": {
    "id": "zrAiDGbqbqw",
@@ -711,7 +714,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "LyJkBjkquoI": {
    "id": "LyJkBjkquoI",
@@ -725,12 +728,45 @@
    "categories": [
     "everyday"
    ],
-   "status": "new",
+   "status": "sent",
    "screen_after": "2026-11-11T03:38:36.383371+00:00",
    "screen": {
     "category": "everyday",
     "relevance": 8
-   }
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-11T03:38:49.449216+00:00",
+   "review": {
+    "task": "Discover, copy, and import community n8n automation workflow templates into an n8n workspace.",
+    "demonstrated": "The creator navigates to n8n templates, selects a Google Drive backup workflow, copies its JSON to clipboard, pastes it into a new n8n workflow canvas, and explains credential setup.",
+    "creator_claim": "Templates allow users to quickly set up and reuse prebuilt community automation workflows.",
+    "requirements": "An n8n account/instance.",
+    "cost": "Free community templates available.",
+    "caveat": "Importing a template workflow does not include credentials; users must configure their own account credentials for integrations like Google Drive.",
+    "workflow_key": "import n8n template",
+    "category": "applications",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 21,
+      "observation": "Creator navigates to the n8n templates page showing prebuilt IT automation workflows."
+     },
+     {
+      "seconds": 122,
+      "observation": "Creator opens the template options menu and clicks 'Copy template to clipboard (JSON)'."
+     }
+    ],
+    "tools": [
+     "n8n"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 9,
+     "relevance": 9,
+     "clarity": 9
+    }
+   },
+   "sent_at": "2026-11-11T03:38:49.449216+00:00"
   },
   "aYJYrtXBMF4": {
    "id": "aYJYrtXBMF4",
@@ -745,7 +781,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "_X7L_YecQfM": {
    "id": "_X7L_YecQfM",
@@ -760,7 +796,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "KO2fgXfdr6k": {
    "id": "KO2fgXfdr6k",
@@ -1024,7 +1060,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "pnB_wVLo51g": {
    "id": "pnB_wVLo51g",
@@ -1039,7 +1075,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-11T03:38:36.383371+00:00"
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "bgFkYVUchlY": {
    "id": "bgFkYVUchlY",
@@ -1053,7 +1089,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "jghLtI5LQ4M": {
    "id": "jghLtI5LQ4M",
@@ -1067,7 +1104,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   }
   },
   "Q8t-NWav1_k": {
    "id": "Q8t-NWav1_k",
@@ -1095,7 +1137,12 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "gsaVdlnx7xo": {
    "id": "gsaVdlnx7xo",
@@ -1123,7 +1170,12 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   }
   },
   "2hzb21O2seg": {
    "id": "2hzb21O2seg",
@@ -1137,7 +1189,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "gd2-D47ExhY": {
    "id": "gd2-D47ExhY",
@@ -1151,7 +1204,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "OpSrPiRb3SA": {
    "id": "OpSrPiRb3SA",
@@ -1165,7 +1219,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "ia8xgSqqQ_0": {
    "id": "ia8xgSqqQ_0",
@@ -1179,7 +1238,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "jjXMz-mVp2E": {
    "id": "jjXMz-mVp2E",
@@ -1193,7 +1253,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "ktGkJfxNN9M": {
    "id": "ktGkJfxNN9M",
@@ -1221,7 +1282,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "3KuMya6FNyo": {
    "id": "3KuMya6FNyo",
@@ -1235,7 +1297,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "kau9QOV1G8E": {
    "id": "kau9QOV1G8E",
@@ -1263,7 +1330,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "YWwS13Wbj3M": {
    "id": "YWwS13Wbj3M",
@@ -1277,7 +1349,12 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "hYnOLVYHIY0": {
    "id": "hYnOLVYHIY0",
@@ -1291,7 +1368,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "XcaiqW-cs-M": {
    "id": "XcaiqW-cs-M",
@@ -1305,7 +1383,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "spfTApMoSHM": {
    "id": "spfTApMoSHM",
@@ -1319,7 +1398,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "OvDEOvqF-qg": {
    "id": "OvDEOvqF-qg",
@@ -1333,7 +1413,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "Fl6nagD3gqo": {
    "id": "Fl6nagD3gqo",
@@ -1361,7 +1442,12 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "TV82drtqpyU": {
    "id": "TV82drtqpyU",
@@ -1375,7 +1461,12 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "vk1C6FY-kq4": {
    "id": "vk1C6FY-kq4",
@@ -1431,7 +1522,12 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   }
   },
   "btMoPRHz8eM": {
    "id": "btMoPRHz8eM",
@@ -1445,7 +1541,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00"
   },
   "NkkAwdm2k7s": {
    "id": "NkkAwdm2k7s",
@@ -1459,7 +1556,12 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 8
+   }
   },
   "cGV6w1x7z4E": {
    "id": "cGV6w1x7z4E",
@@ -1473,19 +1575,65 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "ready",
+   "screen_after": "2026-11-12T03:38:49.449216+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-11T03:38:49.449216+00:00",
+   "review": {
+    "task": "Build a vector search index in SQLite using Python and Ollama to save documents, skip unchanged files, and search by meaning.",
+    "demonstrated": "Designed tables for documents and chunks, saved vector embeddings into SQLite blobs, skipped unchanged files via SHA-256 fingerprints, and executed semantic search queries.",
+    "creator_claim": "One command indexes the folder and remembers, skipping unchanged files and running searches by meaning efficiently.",
+    "requirements": "Python 3.12, SQLite, Ollama, uv",
+    "cost": "Not established in the reviewed video",
+    "caveat": "Python loops used for cosine similarity searching can slow down with thousands of chunks without optimization.",
+    "workflow_key": "vector search index in sqlite with ollama",
+    "category": "applications",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 12,
+      "observation": "Terminal showing running docmate index samples command with added files and chunks count output."
+     }
+    ],
+    "tools": [
+     "Python",
+     "SQLite",
+     "Ollama",
+     "uv",
+     "Pydantic"
+    ],
+    "scores": {
+     "evidence": 8,
+     "reproducibility": 7,
+     "relevance": 8,
+     "clarity": 7
+    }
+   }
   }
  },
  "daily": {
   "date": "2026-11-11",
   "searches": 0,
-  "reviews": 0,
-  "video_seconds": 0,
-  "screens": 0,
-  "sent": 0,
-  "categories": [],
-  "channels": [],
-  "fingerprints": []
+  "reviews": 3,
+  "video_seconds": 1355,
+  "screens": 1,
+  "sent": 2,
+  "categories": [
+   "applications",
+   "creative"
+  ],
+  "channels": [
+   "UCWVDEfCzXexyHryT6ztt_bQ",
+   "UCuwpzP90g1LuGk6JUNms_AQ"
+  ],
+  "fingerprints": [
+   "edd8925b2fd732551604",
+   "52c8c98c5f65ce4b1006"
+  ]
  },
  "preferences": {},
  "channel_uploads": {},
