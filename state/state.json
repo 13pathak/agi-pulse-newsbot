@@ -1122,13 +1122,26 @@
   "f26cf0ee089c4eaf": "2026-11-11T16:07:22.427352+00:00",
   "ed0846d8533757ef": "2026-11-11T16:07:22.427352+00:00",
   "e879c6fc35d4933f": "2026-11-11T16:07:22.427352+00:00",
-  "a86af765ffafecba": "2026-11-11T16:07:22.427352+00:00"
+  "a86af765ffafecba": "2026-11-11T16:07:22.427352+00:00",
+  "4ee7db6e89d552be": "2026-11-11T16:37:23.465555+00:00",
+  "3bb3af59874accc9": "2026-11-11T16:37:23.465555+00:00",
+  "8b73b7b93013c2c4": "2026-11-11T16:37:23.465555+00:00",
+  "98f6e90499a388f4": "2026-11-11T16:37:23.465555+00:00",
+  "67e73bb8e0d08179": "2026-11-11T16:37:23.465555+00:00",
+  "66396a150553f7d8": "2026-11-11T16:37:23.465555+00:00",
+  "7a8ca7de71bda47a": "2026-11-11T16:37:23.465555+00:00",
+  "ab1076c840c684f9": "2026-11-11T16:37:23.465555+00:00",
+  "7a7e39baf12fadfc": "2026-11-11T16:37:23.465555+00:00",
+  "a4fd39a324d183bf": "2026-11-11T16:37:23.465555+00:00",
+  "2d8f602ac5a8eead": "2026-11-11T16:37:23.465555+00:00",
+  "43b0fff791a6c914": "2026-11-11T16:37:23.465555+00:00",
+  "e34ff0dedf49f371": "2026-11-11T16:37:23.465555+00:00",
+  "2ed3a890d3d8bbd2": "2026-11-11T16:37:23.465555+00:00",
+  "c6ce416e52096bf7": "2026-11-11T16:37:23.465555+00:00",
+  "ed60c4d7f092c7a8": "2026-11-11T16:37:23.465555+00:00",
+  "e8611a93afeb04e2": "2026-11-11T16:37:23.465555+00:00"
  },
  "covered": [
-  {
-   "headline": "Northern Trust and Microsoft partner for client onboarding AI",
-   "ts": "2026-11-09T16:37:26.572504+00:00"
-  },
   {
    "headline": "Jubilant FoodWorks uses machine learning for Dominos price increases",
    "ts": "2026-11-09T17:07:28.217910+00:00"
@@ -1352,11 +1365,15 @@
   {
    "headline": "Google DeepMind releases AlphaGenome 2 for DNA sequence modeling",
    "ts": "2026-11-11T16:07:22.427352+00:00"
+  },
+  {
+   "headline": "Grok built apps exposed patient data and plaintext passwords",
+   "ts": "2026-11-11T16:37:23.465555+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2643,32 +2660,6 @@
  },
  "pending": [
   {
-   "id": "e8611a93afeb04e2",
-   "item": {
-    "id": "e8611a93afeb04e2",
-    "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
-    "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible. The article Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's ow…",
-    "published": "2026-11-11T12:53:07+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Grok built apps exposed patient data and plaintext passwords",
-   "post": "Security firm Claroc found over 35,000 apps built with Grok exposed patient data and plaintext passwords due to default access settings. SpaceXSI took down its own 24 affected employee apps.",
-   "editor_note": "Verify whether the remaining exposed apps have been secured by developers.",
-   "published_at": "2026-11-11T12:53:07+00:00",
-   "first_seen_at": "2026-11-11T13:07:23.466854+00:00",
-   "expires_at": "2026-11-13T00:53:07+00:00",
-   "priority": 7.597548,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "281df356d71debbc",
    "item": {
     "id": "281df356d71debbc",
@@ -2691,8 +2682,8 @@
    "published_at": "2026-11-11T13:51:11+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:51:11+00:00",
-   "priority": 7.561944,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.579315,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "7218220fa4fbbf3e",
@@ -2717,8 +2708,8 @@
    "published_at": "2026-11-11T13:50:30+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:50:30+00:00",
-   "priority": 7.561628,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.578999,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2743,8 +2734,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.538279,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.55565,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2771,8 +2762,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.332053,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.326842,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2797,8 +2788,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.215205,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.201308,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2823,8 +2814,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.164963,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.15454,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2849,8 +2840,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.154858,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.140961,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2936,8 +2927,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.12244,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.112017,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2962,8 +2953,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.121586,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.107689,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2990,8 +2981,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.082053,
-   "selection_reason": "Editorial importance; waiting 37.5h"
+   "priority": 7.076842,
+   "selection_reason": "Editorial importance; waiting 38.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3018,8 +3009,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.082053,
-   "selection_reason": "Editorial importance; waiting 37.5h"
+   "priority": 7.076842,
+   "selection_reason": "Editorial importance; waiting 38.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -3044,8 +3035,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.08039,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.066493,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -3070,8 +3061,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.065799,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.051902,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3096,8 +3087,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 6.994102,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.980205,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3122,8 +3113,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 6.987327,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.97343,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3148,8 +3139,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 6.963029,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.949132,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3175,8 +3166,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.930984,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.917087,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3287,8 +3278,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.914106,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.903684,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3313,8 +3304,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.857296,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.843399,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3340,8 +3331,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.825961,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.812064,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3367,8 +3358,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.801424,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.787527,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3394,8 +3385,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.77529,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.761393,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3420,47 +3411,11 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.774827,
-   "selection_reason": "Editorial importance; waiting 35.0h"
-  },
-  {
-   "id": "4ee7db6e89d552be",
-   "item": {
-    "id": "4ee7db6e89d552be",
-    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "published": "2026-11-10T04:29:06+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
-   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
-   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
-   "published_at": "2026-11-10T04:29:06+00:00",
-   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
-   "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.760058,
+   "priority": 6.76093,
    "selection_reason": "Editorial importance; waiting 35.5h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-   "source": "Google DeepMind",
-   "kind": "pack",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "summary": "AlphaGenome 2 is our next-generation DNA sequence model that bridges single-cell biology and human genetics, predicting how variants affect human cell types.",
-   "queued_at": "2026-11-11T16:07:22.427352+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3486,11 +3441,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00",
   "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11": "2026-11-11T13:09:27.185558+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems": "2026-11-11T13:38:02.174146+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center": "2026-11-11T14:08:09.130075+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center": "2026-11-11T14:08:09.130075+00:00",
+  "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
+  "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
-  "count": 3,
-  "takes": 22
+  "count": 4,
+  "takes": 23
  }
 }
