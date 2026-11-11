@@ -301,10 +301,31 @@ def test_feedback_persists_before_next_poll_and_survives_expired_callback(monkey
     assert st["preferences"]["creative"]["interest"] == 1
 
 
-def test_existing_telegram_webhook_is_not_replaced(monkeypatch):
-    monkeypatch.setattr(vr, "telegram_call", lambda *a, **kw: {"url": "https://existing.test"})
-    with pytest.raises(vr.ServiceError, match="webhook"):
-        vr.poll_feedback(state(), "secret", "123", "123")
+def test_existing_telegram_webhook_is_left_alone_and_polling_is_skipped(monkeypatch):
+    calls = []
+
+    def telegram(token, method, **payload):
+        calls.append(method)
+        return {"url": "https://existing.test"}
+
+    monkeypatch.setattr(vr, "telegram_call", telegram)
+    vr.poll_feedback(state(), "secret", "123", "123")
+    assert calls == ["getWebhookInfo"]
+
+
+def test_votes_relayed_by_the_webhook_are_applied_once_and_removed(tmp_path):
+    st, saved = state(), []
+    v = ready()
+    v["status"] = "sent"
+    st["videos"][v["id"]] = v
+    (tmp_path / "7.txt").write_text(f"vid:useful:{v['id']}\n", encoding="utf-8")
+    (tmp_path / "8.txt").write_text(f"vid:more:{v['id']}\n", encoding="utf-8")   # second vote: refused
+    (tmp_path / "9.txt").write_text("not a vote", encoding="utf-8")
+    vr.ingest_relayed_feedback(st, "123", "123", lambda: saved.append(1), tmp_path)
+    assert st["videos"][v["id"]]["feedback"] == "useful"
+    assert st["preferences"][v["review"]["category"]]["interest"] == 1
+    assert list(tmp_path.iterdir()) == [] and len(saved) == 3
+    vr.ingest_relayed_feedback(st, "123", "123", directory=tmp_path / "missing")   # no folder: nothing to do
 
 
 @pytest.fixture

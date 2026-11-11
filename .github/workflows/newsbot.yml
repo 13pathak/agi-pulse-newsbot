@@ -5,15 +5,12 @@ on:
   # through the API below; GitHub's own schedule skipped most runs.
   workflow_dispatch:          # cron-job.org timer + "Run workflow" button
     inputs:
+      # A detail pack for one link is its own workflow now: telegram.yml.
       mode:
-        description: "normal / dry-run / check-feeds / inspect-candidates / details (needs url)"
+        description: "normal / dry-run / check-feeds / inspect-candidates"
         default: normal
         type: choice
-        options: [normal, dry-run, check-feeds, inspect-candidates, details]
-      url:
-        description: "Article link for mode 'details': sends a detail pack to Telegram"
-        required: false
-        default: ""
+        options: [normal, dry-run, check-feeds, inspect-candidates]
 
 permissions:
   contents: write   # lets the bot save state/state.json back to the repo
@@ -43,10 +40,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-          DETAILS_URL: ${{ github.event.inputs.url }}
         run: |
           case "${{ github.event.inputs.mode }}" in
-            details)     python article_details.py --url "$DETAILS_URL" ;;
             dry-run)     python newsbot.py --dry-run ;;
             check-feeds) python newsbot.py --check-feeds ;;
             inspect-candidates) python newsbot.py --inspect-candidates ;;

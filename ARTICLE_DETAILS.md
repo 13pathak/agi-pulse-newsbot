@@ -71,9 +71,62 @@ source (the `category: primary` feeds in `config.yaml`) and scored at least
 run. At most `details_max_per_day` (6) per IST day, never during quiet hours, and
 never twice for the same article.
 
-**On request, for any link.** In GitHub: **Actions → AGI Pulse NewsBot → Run
-workflow**, choose mode `details` and paste the article link. The pack arrives in
-Telegram in about a minute. This also works from the GitHub mobile app.
+**On request, for any link.** Send the link to the bot in Telegram. The bot answers
+at once ("⏳ Reading the article") and the pack follows as soon as it is written,
+usually within a minute or two. This does not wait for the half-hourly news run:
+each link starts its own run of the separate **Telegram requests** workflow. It
+needs the one-time relay setup below.
+
+Without the relay, the same thing works by hand: **Actions → Telegram requests →
+Run workflow**, paste the article link into `url`. This also works from the GitHub
+mobile app.
+
+## Sending links from Telegram: one-time setup
+
+GitHub Actions cannot listen to Telegram, so a small relay passes each message on.
+It is `relay/worker.js`, run as a Cloudflare Worker (free plan, no card needed). It
+holds no bot token: it only starts the workflow and answers Telegram.
+
+1. **GitHub token.** Create a fine-grained personal access token limited to this
+   repository with **Actions: Read and write** (the same kind as the one used by
+   the cron-job.org timer; a separate token is easier to revoke).
+2. **Worker.** At [dash.cloudflare.com](https://dash.cloudflare.com), create a
+   Worker (the "Hello World" starter), replace its code with the contents of
+   `relay/worker.js` and deploy. Copy its address (`https://<name>.<you>.workers.dev`).
+3. **Worker secrets.** In the Worker's settings, under variables and secrets, add:
+
+   | Name | Value |
+   |---|---|
+   | `GITHUB_TOKEN` | the token from step 1 |
+   | `GITHUB_REPO` | `<owner>/<repo>`, e.g. `13pathak/agi-pulse-newsbot` |
+   | `TELEGRAM_CHAT_ID` | the same chat ID the bot already uses |
+   | `WEBHOOK_SECRET` | any long random string of letters and digits you make up |
+
+   For a group chat, also add `TELEGRAM_FEEDBACK_USER_ID` (your numeric user ID).
+4. **Point Telegram at the Worker.** Open this address once in a browser, with your
+   own values filled in:
+
+   ```
+   https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=<WORKER_ADDRESS>&secret_token=<WEBHOOK_SECRET>&allowed_updates=["message","callback_query"]
+   ```
+
+   The reply should be `"Webhook was set"`. Keep the `allowed_updates` part: without
+   it Telegram keeps delivering button presses only, and links are never seen.
+5. Send the bot a link. It should answer within a second or two.
+
+Only messages from your chat are acted on; anyone else gets no reply. Requests
+without the right `WEBHOOK_SECRET` are refused.
+
+**Video feedback buttons** go through the relay too once the webhook is set (a bot
+can have a webhook or be polled, not both). A press is acknowledged at once, saved
+as a small file in `state/video_feedback/` and applied on the next video run.
+
+**To undo:** open `https://api.telegram.org/bot<BOT_TOKEN>/deleteWebhook` and delete
+the Worker. Video feedback goes back to polling by itself.
+
+**If nothing happens:** `https://api.telegram.org/bot<BOT_TOKEN>/getWebhookInfo`
+shows the last delivery error. A "Could not start the run" reply means the GitHub
+token is wrong, expired or lacks the Actions permission.
 
 ## Accuracy checks and limits
 
@@ -115,6 +168,8 @@ handled, kept 14 days) and `details_daily` (today's count).
 To pause automatic packs, delete `details_min_importance` from `config.yaml`.
 
 To remove the feature: delete `article_details.py`, `tests/test_article_details.py`
-and this file; remove the **Detail packs for official stories** step, the `details`
-mode and the `url` input from `.github/workflows/newsbot.yml`; and remove
-`queue_details` (the function and its one call) from `newsbot.py`.
+and this file; remove the **Detail packs for official stories** step from
+`.github/workflows/newsbot.yml` and the `details` job from
+`.github/workflows/telegram.yml`; and remove `queue_details` (the function and its
+one call) from `newsbot.py`. The relay (`relay/worker.js`) also carries video
+feedback, so keep it unless the webhook is removed as well.

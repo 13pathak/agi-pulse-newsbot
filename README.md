@@ -18,7 +18,7 @@ AI application building. It has its own queue, daily limits and Telegram feedbac
 automatic recommendations are disabled until API setup and preview checks pass.
 
 - **Opinion takes for every story:** each delivered news draft is followed by three takes written from the full article, in a conversational voice ([details](ARTICLE_DETAILS.md)). The news draft itself stays straight news.
-- **Detail packs:** official announcements scoring 7/10 or higher are followed by a [detail pack](ARTICLE_DETAILS.md): facts and figures from the full article, five drafts and the article's own charts. Any link can be turned into a pack from the Actions tab.
+- **Detail packs:** official announcements scoring 7/10 or higher are followed by a [detail pack](ARTICLE_DETAILS.md): facts and figures from the full article, five drafts and the article's own charts. Send the bot any link in Telegram to get a pack for it straight away ([setup](ARTICLE_DETAILS.md#sending-links-from-telegram-one-time-setup)).
 - **Broad coverage:** 58 enabled sources, including direct lab announcements, independent evaluations, official policy, global, Indian and Chinese reporting, research papers and open-model releases.
 - **Chinese sources, English drafts:** Gemini translates supplied Chinese headlines and excerpts in the existing ranking call. Telegram receives an English story headline, post and editor note, with the original article link retained. Chinese source text stays in the queue for reference; untranslated drafts are held back.
 - **Primary sources first:** category reservations and per-source caps prioritize lab announcements while preserving room for research, policy and original reporting. Identical substantive headlines and canonical URLs are collapsed before Gemini.

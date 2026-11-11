@@ -24,6 +24,7 @@ from newsbot import IST, TelegramError, clean_text, send_telegram
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "video_config.yaml"
 STATE_PATH = ROOT / "state" / "videos.json"
+FEEDBACK_DIR = ROOT / "state" / "video_feedback"
 log = logging.getLogger("video_recommender")
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 CATEGORY_IDS = ("creative", "everyday", "applications")
@@ -519,9 +520,23 @@ def apply_feedback(state, update, chat_id, allowed_user):
     return True
 
 
+def ingest_relayed_feedback(state, chat_id, allowed_user, persist=lambda: None, directory=None):
+    """Apply votes delivered by the Telegram webhook relay (relay/worker.js): one
+    file per vote, written by the "Telegram requests" workflow. Applied files are
+    removed; a vote applied twice is refused by apply_feedback."""
+    for path in sorted((directory or FEEDBACK_DIR).glob("*.txt")):
+        update = {"callback_query": {"data": path.read_text(encoding="utf-8").strip(),
+                                     "from": {"id": allowed_user}, "message": {"chat": {"id": chat_id}}}}
+        apply_feedback(state, update, chat_id, allowed_user)
+        persist()
+        path.unlink()
+
+
 def poll_feedback(state, token, chat_id, allowed_user, persist=lambda: None):
     if telegram_call(token, "getWebhookInfo").get("url"):
-        raise ServiceError("Telegram already has a webhook; video feedback polling requires a separate bot")
+        # A webhook owns this bot's updates; votes arrive through ingest_relayed_feedback.
+        log.info("Telegram webhook is set; feedback comes through the relay, not polling")
+        return
     # One bounded batch; pending updates continue on the next run.
     updates = telegram_call(token, "getUpdates", offset=state["update_offset"], timeout=0,
                             limit=100, allowed_updates=["callback_query"])
@@ -570,6 +585,7 @@ def run(mode="dry-run", config_path=CONFIG_PATH, state_path=STATE_PATH, now=None
         if not allowed_user:
             raise ServiceError("Set TELEGRAM_FEEDBACK_USER_ID for feedback in a group chat")
         # Set VIDEO_FEEDBACK_POLLING=false only if another program reads this bot's updates.
+        ingest_relayed_feedback(state, chat_id, allowed_user, persist)
         if os.environ.get("VIDEO_FEEDBACK_POLLING", "true").lower() == "true":
             poll_feedback(state, token, chat_id, allowed_user, persist)
         if now.astimezone(IST).strftime("%H:%M") < settings["digest_time_ist"]:

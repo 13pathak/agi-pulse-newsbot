@@ -44,9 +44,12 @@ button acknowledgement may time out before the saved vote is processed.
 
 For a private chat, only that chat's owner can submit feedback. In a group chat,
 also set secret `TELEGRAM_FEEDBACK_USER_ID` to the authorized user's numeric ID.
-Polling refuses to run if the Telegram bot already has a webhook, and never deletes
-or replaces one. Do not run another `getUpdates` consumer against the same bot; if
-one must exist, set `VIDEO_FEEDBACK_POLLING=false` so the recommender stops polling.
+If the bot has a webhook (the relay in [ARTICLE_DETAILS.md](ARTICLE_DETAILS.md) that
+lets you send article links), polling is skipped and never deletes or replaces it.
+Button presses then come through the relay: each is acknowledged at once, saved as a
+file in `state/video_feedback/` and applied on the next run. Do not run another
+`getUpdates` consumer against the same bot; if one must exist, set
+`VIDEO_FEEDBACK_POLLING=false` so the recommender stops polling.
 
 ## Discovery and ranking
 
