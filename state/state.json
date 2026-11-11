@@ -1005,13 +1005,16 @@
   "0ae6b047c3e55654": "2026-11-11T08:37:20.546395+00:00",
   "14eef01dc0f429cb": "2026-11-11T09:07:24.243812+00:00",
   "8d8426e9da9afab0": "2026-11-11T09:07:24.243812+00:00",
-  "786b78d6c6e60a44": "2026-11-11T09:07:24.243812+00:00"
+  "786b78d6c6e60a44": "2026-11-11T09:07:24.243812+00:00",
+  "16dadfebd33571f8": "2026-11-11T09:37:22.199163+00:00",
+  "339b18803e37a2cf": "2026-11-11T09:37:22.199163+00:00",
+  "c602d0f1c1a1da95": "2026-11-11T09:37:22.199163+00:00",
+  "49caba93c564e3b5": "2026-11-11T09:37:22.199163+00:00",
+  "cf097931c31f1b57": "2026-11-11T09:37:22.199163+00:00",
+  "9e7098a4fc46164d": "2026-11-11T09:37:22.199163+00:00",
+  "19332df0511e62ee": "2026-11-11T09:37:22.199163+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent rolls out WeCom AI assistant powered by Hunyuan Hy4",
-   "ts": "2026-11-09T09:37:21.248928+00:00"
-  },
   {
    "headline": "PhysicsWallah cites AI efficiency gains for workforce reductions",
    "ts": "2026-11-09T10:07:25.046413+00:00"
@@ -1243,11 +1246,15 @@
   {
    "headline": "Nobel laureate validates OpenAI proof on Yang-Mills problem",
    "ts": "2026-11-11T09:07:24.243812+00:00"
+  },
+  {
+   "headline": "NHA selects EkaCare for AI voice scribe",
+   "ts": "2026-11-11T09:37:22.199163+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2512,32 +2519,6 @@
  },
  "pending": [
   {
-   "id": "19332df0511e62ee",
-   "item": {
-    "id": "19332df0511e62ee",
-    "title": "NHA Selects EkaCare for AI Voice Scribe in Public Health Facilities",
-    "url": "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities",
-    "source": "Analytics India Magazine",
-    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769242933760-686e7f1e-079a-4691-bd5a-50b8b3481339-k5tqn.webp",
-    "snippet": "The National Health Authority (NHA) has selected Bengaluru-based health AI startup EkaCare as a technology partner for its ambient AI-enabled Voice Scribe solution, which aims to reduce documentation for doctors in public health facilities. “With the Voice Scribe, a doctor can speak with the patient in the language they are comfortable in, and a structured clinical note is ready for review when th…",
-    "published": "2026-11-11T08:43:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "NHA selects EkaCare for AI voice scribe",
-   "post": "The National Health Authority selected Bengaluru-based EkaCare as a technology partner to deploy an ambient AI voice scribe in public health facilities to reduce doctor documentation.",
-   "editor_note": "Verify deployment scale and initial rollout timeline across public health facilities.",
-   "published_at": "2026-11-11T08:43:45+00:00",
-   "first_seen_at": "2026-11-11T09:07:24.243812+00:00",
-   "expires_at": "2026-11-12T20:43:45+00:00",
-   "priority": 8.489049,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "9e447f3c0b388572",
    "item": {
     "id": "9e447f3c0b388572",
@@ -2561,8 +2542,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.627744,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.645085,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2587,8 +2568,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.615022,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.632364,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2613,8 +2594,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.609714,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.627055,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2640,8 +2621,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.59662,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.613961,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2668,8 +2649,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.404965,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.399762,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2694,8 +2675,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.310786,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.300381,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2720,8 +2701,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.274821,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.260948,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2746,60 +2727,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.26023,
-   "selection_reason": "Editorial importance; waiting 17.5h"
-  },
-  {
-   "id": "48b75c7fc00d6548",
-   "item": {
-    "id": "48b75c7fc00d6548",
-    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
-    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
-    "published": "2026-11-10T12:54:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
-   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
-   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
-   "published_at": "2026-11-10T12:54:38+00:00",
-   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
-   "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.188532,
-   "selection_reason": "Editorial importance; waiting 19.5h"
-  },
-  {
-   "id": "2551552469f4fa95",
-   "item": {
-    "id": "2551552469f4fa95",
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "published": "2026-11-10T12:40:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
-   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
-   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
-   "published_at": "2026-11-10T12:40:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.181757,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.246356,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2824,19 +2753,45 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.159631,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.176973,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
-   "id": "72145b58f7c9a07a",
+   "id": "48b75c7fc00d6548",
    "item": {
-    "id": "72145b58f7c9a07a",
-    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
-    "published": "2026-11-10T11:47:31+00:00",
+    "id": "48b75c7fc00d6548",
+    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
+    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
+    "published": "2026-11-10T12:54:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
+   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
+   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
+   "published_at": "2026-11-10T12:54:38+00:00",
+   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
+   "expires_at": "2026-11-12T00:54:38+00:00",
+   "priority": 7.174659,
+   "selection_reason": "Editorial importance; waiting 20.0h"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2844,14 +2799,14 @@
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Sea earnings miss estimates amid rising AI costs",
-   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
-   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
-   "published_at": "2026-11-10T11:47:31+00:00",
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.15746,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 7.167884,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2878,8 +2833,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.154965,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 7.149762,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2906,8 +2861,34 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.154965,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 7.149762,
+   "selection_reason": "Editorial importance; waiting 31.0h"
+  },
+  {
+   "id": "72145b58f7c9a07a",
+   "item": {
+    "id": "72145b58f7c9a07a",
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
+    "published": "2026-11-10T11:47:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Sea earnings miss estimates amid rising AI costs",
+   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
+   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
+   "published_at": "2026-11-10T11:47:31+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-11T23:47:31+00:00",
+   "priority": 7.143586,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2933,8 +2914,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.125415,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.111542,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2959,61 +2940,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.068106,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "f35d851cd4a19dfb",
-   "item": {
-    "id": "f35d851cd4a19dfb",
-    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
-    "published": "2026-11-10T07:59:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Thailand sets strict environmental limits for new data centers",
-   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
-   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
-   "published_at": "2026-11-10T07:59:08+00:00",
-   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
-   "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.051727,
-   "selection_reason": "Editorial importance; waiting 24.5h"
-  },
-  {
-   "id": "d3eeea676f9df7d5",
-   "item": {
-    "id": "d3eeea676f9df7d5",
-    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
-    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
-    "published": "2026-11-10T06:51:27+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "SoftBank discloses total investment in OpenAI",
-   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
-   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
-   "published_at": "2026-11-10T06:51:27+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.020392,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.085448,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3099,8 +3027,34 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.018258,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.039068,
+   "selection_reason": "Editorial importance; waiting 8.5h"
+  },
+  {
+   "id": "f35d851cd4a19dfb",
+   "item": {
+    "id": "f35d851cd4a19dfb",
+    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
+    "published": "2026-11-10T07:59:08+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Thailand sets strict environmental limits for new data centers",
+   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
+   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
+   "published_at": "2026-11-10T07:59:08+00:00",
+   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
+   "expires_at": "2026-11-11T19:59:08+00:00",
+   "priority": 7.037853,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3125,8 +3079,35 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.003501,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.020842,
+   "selection_reason": "Editorial importance; waiting 7.5h"
+  },
+  {
+   "id": "d3eeea676f9df7d5",
+   "item": {
+    "id": "d3eeea676f9df7d5",
+    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
+    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
+    "published": "2026-11-10T06:51:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SoftBank discloses total investment in OpenAI",
+   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
+   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
+   "published_at": "2026-11-10T06:51:27+00:00",
+   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
+   "expires_at": "2026-11-11T18:51:27+00:00",
+   "priority": 7.006519,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3152,8 +3133,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.995855,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.981981,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3179,8 +3160,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.96972,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.955847,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3205,8 +3186,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.969257,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.955384,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3231,8 +3212,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.954489,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.940616,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3343,8 +3324,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.809925,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 6.830735,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   }
  ],
  "details_queue": [],
@@ -3363,11 +3344,12 @@
   "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00",
   "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
-  "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00"
+  "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00",
+  "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 12
+  "takes": 13
  }
 }
