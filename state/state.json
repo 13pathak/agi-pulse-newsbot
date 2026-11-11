@@ -1002,13 +1002,12 @@
   "3b1e7c7289ab7395": "2026-11-11T08:37:20.546395+00:00",
   "7ddc4739acd4e8ed": "2026-11-11T08:37:20.546395+00:00",
   "f24c427e17ad49ed": "2026-11-11T08:37:20.546395+00:00",
-  "0ae6b047c3e55654": "2026-11-11T08:37:20.546395+00:00"
+  "0ae6b047c3e55654": "2026-11-11T08:37:20.546395+00:00",
+  "14eef01dc0f429cb": "2026-11-11T09:07:24.243812+00:00",
+  "8d8426e9da9afab0": "2026-11-11T09:07:24.243812+00:00",
+  "786b78d6c6e60a44": "2026-11-11T09:07:24.243812+00:00"
  },
  "covered": [
-  {
-   "headline": "Sakana AI plans 2027 IPO in Japan or US",
-   "ts": "2026-11-09T09:07:22.412222+00:00"
-  },
   {
    "headline": "Tencent rolls out WeCom AI assistant powered by Hunyuan Hy4",
    "ts": "2026-11-09T09:37:21.248928+00:00"
@@ -1240,11 +1239,15 @@
   {
    "headline": "Madras High Court flags AI public library books",
    "ts": "2026-11-11T08:37:20.546395+00:00"
+  },
+  {
+   "headline": "Nobel laureate validates OpenAI proof on Yang-Mills problem",
+   "ts": "2026-11-11T09:07:24.243812+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2509,15 +2512,15 @@
  },
  "pending": [
   {
-   "id": "786b78d6c6e60a44",
+   "id": "19332df0511e62ee",
    "item": {
-    "id": "786b78d6c6e60a44",
-    "title": "Nobel laureate validates OpenAI's AI-generated Yang-Mills proof, but $1 million problem remains open",
-    "url": "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Nobel laureate validates OpenAI's AI-generated Yang-Mills proof, but $1 million problem remains open",
-    "published": "2026-11-11T08:32:26+00:00",
+    "id": "19332df0511e62ee",
+    "title": "NHA Selects EkaCare for AI Voice Scribe in Public Health Facilities",
+    "url": "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769242933760-686e7f1e-079a-4691-bd5a-50b8b3481339-k5tqn.webp",
+    "snippet": "The National Health Authority (NHA) has selected Bengaluru-based health AI startup EkaCare as a technology partner for its ambient AI-enabled Voice Scribe solution, which aims to reduce documentation for doctors in public health facilities. “With the Voice Scribe, a doctor can speak with the patient in the language they are comfortable in, and a structured clinical note is ready for review when th…",
+    "published": "2026-11-11T08:43:45+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2525,40 +2528,14 @@
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Nobel laureate validates OpenAI proof on Yang-Mills problem",
-   "post": "A Nobel laureate has validated an AI-generated proof produced by OpenAI related to the Yang-Mills problem, though the broader Millennium Prize problem remains unresolved.",
-   "editor_note": "Verify which Nobel laureate validated the proof and the specific scope of the partial proof.",
-   "published_at": "2026-11-11T08:32:26+00:00",
-   "first_seen_at": "2026-11-11T08:37:20.546395+00:00",
-   "expires_at": "2026-11-12T20:32:26+00:00",
-   "priority": 8.497727,
+   "headline": "NHA selects EkaCare for AI voice scribe",
+   "post": "The National Health Authority selected Bengaluru-based EkaCare as a technology partner to deploy an ambient AI voice scribe in public health facilities to reduce doctor documentation.",
+   "editor_note": "Verify deployment scale and initial rollout timeline across public health facilities.",
+   "published_at": "2026-11-11T08:43:45+00:00",
+   "first_seen_at": "2026-11-11T09:07:24.243812+00:00",
+   "expires_at": "2026-11-12T20:43:45+00:00",
+   "priority": 8.489049,
    "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "c012fc7ecd62b33e",
-   "item": {
-    "id": "c012fc7ecd62b33e",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "published": "2026-11-10T20:52:13+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "New York begins enforcing AI safety regulations for major developers",
-   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
-   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
-   "published_at": "2026-11-10T20:52:13+00:00",
-   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
-   "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.642234,
-   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2584,8 +2561,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.610347,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.627744,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2610,8 +2587,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.597626,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.615022,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2636,8 +2613,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.592317,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.609714,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2663,8 +2640,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.579223,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.59662,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2691,8 +2668,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.410184,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.404965,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2717,8 +2694,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.321224,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.310786,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2743,8 +2720,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.288738,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.274821,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2769,8 +2746,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.274147,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.26023,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2795,8 +2772,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.202449,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.188532,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2821,8 +2798,34 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.195675,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.181757,
+   "selection_reason": "Editorial importance; waiting 20.0h"
+  },
+  {
+   "id": "c012fc7ecd62b33e",
+   "item": {
+    "id": "c012fc7ecd62b33e",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "published": "2026-11-10T20:52:13+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "New York begins enforcing AI safety regulations for major developers",
+   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
+   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
+   "published_at": "2026-11-10T20:52:13+00:00",
+   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
+   "expires_at": "2026-11-12T08:52:13+00:00",
+   "priority": 7.159631,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2847,8 +2850,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.171377,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.15746,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2875,8 +2878,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.160184,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 7.154965,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2903,8 +2906,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.160184,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 7.154965,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2930,34 +2933,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.139332,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
-   "id": "f35d851cd4a19dfb",
-   "item": {
-    "id": "f35d851cd4a19dfb",
-    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
-    "published": "2026-11-10T07:59:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Thailand sets strict environmental limits for new data centers",
-   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
-   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
-   "published_at": "2026-11-10T07:59:08+00:00",
-   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
-   "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.065644,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.125415,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2982,8 +2959,34 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.05071,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.068106,
+   "selection_reason": "Editorial importance; waiting 7.5h"
+  },
+  {
+   "id": "f35d851cd4a19dfb",
+   "item": {
+    "id": "f35d851cd4a19dfb",
+    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
+    "published": "2026-11-10T07:59:08+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Thailand sets strict environmental limits for new data centers",
+   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
+   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
+   "published_at": "2026-11-10T07:59:08+00:00",
+   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
+   "expires_at": "2026-11-11T19:59:08+00:00",
+   "priority": 7.051727,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3009,35 +3012,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.034309,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "3ea2bbdb97e368ef",
-   "item": {
-    "id": "3ea2bbdb97e368ef",
-    "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
-    "url": "https://36kr.com/newsflashes/4063513408312456?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，天眼查App显示，11月10日，深圳荣耀奇点智能科技有限公司成立，法定代表人为彭求恩，注册资本1亿元人民币，经营范围含服务消费机器人制造、服务消费机器人销售、智能机器人的研发等。股东信息显示，该公司由荣耀终端股份有限公司全资持股。",
-    "published": "2026-11-10T05:58:27+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Honor sets up intelligent technology firm in Shenzhen",
-   "post": "Honor has established Shenzhen Qidian Intelligent Technology Company with a registered capital of 100 million yuan, focusing on intelligent robot research, development, manufacturing, and sales.",
-   "editor_note": "Verify registered capital of 100 million yuan and 100% ownership by Honor Terminal from the filing details.",
-   "published_at": "2026-11-10T05:58:27+00:00",
-   "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
-   "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.009772,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.020392,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3123,8 +3099,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.997382,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.018258,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3149,8 +3125,35 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.986104,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.003501,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "3ea2bbdb97e368ef",
+   "item": {
+    "id": "3ea2bbdb97e368ef",
+    "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
+    "url": "https://36kr.com/newsflashes/4063513408312456?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，天眼查App显示，11月10日，深圳荣耀奇点智能科技有限公司成立，法定代表人为彭求恩，注册资本1亿元人民币，经营范围含服务消费机器人制造、服务消费机器人销售、智能机器人的研发等。股东信息显示，该公司由荣耀终端股份有限公司全资持股。",
+    "published": "2026-11-10T05:58:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Honor sets up intelligent technology firm in Shenzhen",
+   "post": "Honor has established Shenzhen Qidian Intelligent Technology Company with a registered capital of 100 million yuan, focusing on intelligent robot research, development, manufacturing, and sales.",
+   "editor_note": "Verify registered capital of 100 million yuan and 100% ownership by Honor Terminal from the filing details.",
+   "published_at": "2026-11-10T05:58:27+00:00",
+   "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
+   "expires_at": "2026-11-11T17:58:27+00:00",
+   "priority": 6.995855,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3176,8 +3179,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.983638,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.96972,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3202,8 +3205,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.983175,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.969257,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3228,8 +3231,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.968406,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.954489,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3340,21 +3343,11 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.789049,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 6.809925,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/",
-   "source": "MediaNama",
-   "kind": "takes",
-   "title": "Madras High Court flags fake, AI-generated books in public libraries, orders FIR",
-   "summary": "The Madras High Court has ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered an FIR into alleged fraudulent book purchases in Tamil Nadu The post Madras High Court flags fake, AI-generated books in public libraries, orders FIR appeared first on MEDIANAMA .",
-   "queued_at": "2026-11-11T08:37:20.546395+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3368,11 +3361,13 @@
   "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00",
   "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00",
   "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00",
+  "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
+  "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 10
+  "takes": 12
  }
 }
