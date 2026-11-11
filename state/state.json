@@ -1012,13 +1012,14 @@
   "49caba93c564e3b5": "2026-11-11T09:37:22.199163+00:00",
   "cf097931c31f1b57": "2026-11-11T09:37:22.199163+00:00",
   "9e7098a4fc46164d": "2026-11-11T09:37:22.199163+00:00",
-  "19332df0511e62ee": "2026-11-11T09:37:22.199163+00:00"
+  "19332df0511e62ee": "2026-11-11T09:37:22.199163+00:00",
+  "238421460becfb6d": "2026-11-11T10:07:23.829832+00:00",
+  "4c2a8602269c0041": "2026-11-11T10:07:23.829832+00:00",
+  "efe4ef346380a965": "2026-11-11T10:07:23.829832+00:00",
+  "a1b67bb098c1b89f": "2026-11-11T10:07:23.829832+00:00",
+  "9e447f3c0b388572": "2026-11-11T10:07:23.829832+00:00"
  },
  "covered": [
-  {
-   "headline": "PhysicsWallah cites AI efficiency gains for workforce reductions",
-   "ts": "2026-11-09T10:07:25.046413+00:00"
-  },
   {
    "headline": "Alibaba releases Qwen Office 2.0 with Team Agent collaboration",
    "ts": "2026-11-09T10:37:24.219759+00:00"
@@ -1250,11 +1251,15 @@
   {
    "headline": "NHA selects EkaCare for AI voice scribe",
    "ts": "2026-11-11T09:37:22.199163+00:00"
+  },
+  {
+   "headline": "Beijing plans 50000 PFLOPS embodied AI compute cluster",
+   "ts": "2026-11-11T10:07:23.829832+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2519,33 +2524,6 @@
  },
  "pending": [
   {
-   "id": "9e447f3c0b388572",
-   "item": {
-    "id": "9e447f3c0b388572",
-    "title": "北京：新增建设总规模超过50000PFlops的具身智能专用算力集群",
-    "url": "https://36kr.com/newsflashes/4064873704297602?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，《北京市具身智能机器人产业高质量发展行动方案（2026—2028年）》印发，方案提出，加大专用算力资源保障力度。新增建设总规模超过50000PFlops的具身智能专用算力集群，进一步加强高质量具身智能算力保障。推动具身智能重点企业与重点算力节点项目建设单位，以“结对子”方式形成算力供需协同。通过“银河算廊”工程与京外算力集聚城市开展算力协作，为具身智能企业对接国内优质算力资源。",
-    "published": "2026-11-11T04:43:21+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Beijing plans 50000 PFLOPS embodied AI compute cluster",
-   "post": "Beijing published a 2026–2028 action plan for embodied robotics, which includes building dedicated AI computing clusters totaling over 50,000 PFLOPS to support local robotics companies.",
-   "editor_note": "Verify whether 50,000 PFLOPS refers to INT8, FP16, or FP64 precision, as official municipal plan excerpts rarely specify precision metrics.",
-   "published_at": "2026-11-11T04:43:21+00:00",
-   "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
-   "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.645085,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
-  },
-  {
    "id": "5c695888c432dff1",
    "item": {
     "id": "5c695888c432dff1",
@@ -2568,8 +2546,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.632364,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.649741,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2594,8 +2572,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.627055,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.644432,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2621,8 +2599,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.613961,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.631338,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2649,8 +2627,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.399762,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.394549,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2675,8 +2653,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.300381,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.289955,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2701,8 +2679,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.260948,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.247046,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2727,8 +2705,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.246356,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.232455,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2753,8 +2731,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.176973,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.194349,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2779,8 +2757,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.174659,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.160757,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2805,8 +2783,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.167884,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.153983,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2833,8 +2811,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.149762,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 7.144549,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2861,8 +2839,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.149762,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 7.144549,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2887,8 +2865,34 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.143586,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.129685,
+   "selection_reason": "Editorial importance; waiting 21.0h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 7.102825,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2914,34 +2918,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.111542,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "75611a00ad611de2",
-   "item": {
-    "id": "75611a00ad611de2",
-    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
-    "published": "2026-11-10T18:41:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
-   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
-   "editor_note": "Verify model release status and availability of weights or API.",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.085448,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.09764,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3027,34 +3005,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.039068,
-   "selection_reason": "Editorial importance; waiting 8.5h"
-  },
-  {
-   "id": "f35d851cd4a19dfb",
-   "item": {
-    "id": "f35d851cd4a19dfb",
-    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
-    "published": "2026-11-10T07:59:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Thailand sets strict environmental limits for new data centers",
-   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
-   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
-   "published_at": "2026-11-10T07:59:08+00:00",
-   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
-   "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.037853,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.05992,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3079,8 +3031,34 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.020842,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.038219,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "f35d851cd4a19dfb",
+   "item": {
+    "id": "f35d851cd4a19dfb",
+    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
+    "published": "2026-11-10T07:59:08+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Thailand sets strict environmental limits for new data centers",
+   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
+   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
+   "published_at": "2026-11-10T07:59:08+00:00",
+   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
+   "expires_at": "2026-11-11T19:59:08+00:00",
+   "priority": 7.023952,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3106,8 +3084,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.006519,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.992617,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3133,8 +3111,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.981981,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.96808,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3160,8 +3138,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.955847,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.941946,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3186,8 +3164,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.955384,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.941483,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3212,8 +3190,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.940616,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.926714,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3324,8 +3302,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.830735,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 6.851587,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   }
  ],
  "details_queue": [],
@@ -3345,11 +3323,12 @@
   "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00",
   "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
   "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00",
-  "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00"
+  "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00",
+  "https://36kr.com/newsflashes/4064873704297602?f=rss": "2026-11-11T10:07:39.891605+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 13
+  "takes": 14
  }
 }
