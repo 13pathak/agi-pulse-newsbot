@@ -890,13 +890,22 @@
   "ca33366af0ebf860": "2026-11-11T01:37:20.323883+00:00",
   "053da60fa0cfa4af": "2026-11-11T01:37:20.323883+00:00",
   "3e50515c6d1fc8cc": "2026-11-11T01:37:20.323883+00:00",
-  "8792b1f1c1557e49": "2026-11-11T01:37:20.323883+00:00"
+  "8792b1f1c1557e49": "2026-11-11T01:37:20.323883+00:00",
+  "58426d8e2b3863d2": "2026-11-11T02:07:25.142064+00:00",
+  "8062e45538e5b106": "2026-11-11T02:07:25.142064+00:00",
+  "8c96262074122254": "2026-11-11T02:07:25.142064+00:00",
+  "15ee384dc5213ad5": "2026-11-11T02:07:25.142064+00:00",
+  "4ff7ac06f39bcd3d": "2026-11-11T02:07:25.142064+00:00",
+  "2ea12bc3c39642e8": "2026-11-11T02:07:25.142064+00:00",
+  "76285cc16c4874fe": "2026-11-11T02:07:25.142064+00:00",
+  "9922bcaa36cd876a": "2026-11-11T02:07:25.142064+00:00",
+  "6934150060ab458e": "2026-11-11T02:07:25.142064+00:00",
+  "728902a41063df10": "2026-11-11T02:07:25.142064+00:00",
+  "b04b945457ccf153": "2026-11-11T02:07:25.142064+00:00",
+  "661f340c132f6a4d": "2026-11-11T02:07:25.142064+00:00",
+  "02e4a20d191af380": "2026-11-11T02:07:25.142064+00:00"
  },
  "covered": [
-  {
-   "headline": "Rights holders for Elvis Presley and Eminem sue AI music startup Suno",
-   "ts": "2026-11-09T02:07:24.550324+00:00"
-  },
   {
    "headline": "South Korea confirms arrival of 10,000 Nvidia GPUs",
    "ts": "2026-11-09T02:37:21.419191+00:00"
@@ -1108,11 +1117,15 @@
   {
    "headline": "Goldman Sachs projects Anthropic 2030 revenue",
    "ts": "2026-11-11T01:37:20.323883+00:00"
+  },
+  {
+   "headline": "Google Cloud launches Gemini for healthcare workflows",
+   "ts": "2026-11-11T02:07:25.142064+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2330,35 +2343,15 @@
    "desc": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/7Eicp7g84HA3PCzyVJTfbT/d423890d5a1a863bf69a57bcbbbf6e99/business-agents-blog-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-09T19:00:00+00:00"
+  },
+  "https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1": {
+   "title": "Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverage",
+   "desc": "We are launching the Artificial Analysis Endpoint Accuracy Index v1.1, a minor version upgrade alongside new coverage for GLM-5.3 Flash and Muse Spark Open.",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/aba1563e04059d3d4b0a1766ca877c70af4130bc-1254x1254.png?w=1200&auto=format",
+   "published": "2026-11-09T00:00:00+00:00"
   }
  },
  "pending": [
-  {
-   "id": "02e4a20d191af380",
-   "item": {
-    "id": "02e4a20d191af380",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "source": "Google AI Blog",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
-    "snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "published": "2026-11-10T13:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Google Cloud launches Gemini for healthcare workflows",
-   "post": "Google Cloud released Gemini for healthcare to unify clinical data and automate administrative workflows in medical settings.",
-   "editor_note": "Check for specific clinical data standards or regional availability details mentioned in the full release.",
-   "published_at": "2026-11-10T13:00:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T13:00:00+00:00",
-   "priority": 8.487035,
-   "selection_reason": "Editorial importance; waiting 12.5h"
-  },
   {
    "id": "eb2075cc76b3cdb8",
    "item": {
@@ -2395,8 +2388,8 @@
    "published_at": "2026-11-10T21:07:30+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T09:07:30+00:00",
-   "priority": 8.375075,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.392482,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2422,8 +2415,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.37016,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 8.356233,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "35f00681774962fa",
@@ -2448,8 +2441,60 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.363593,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 8.349667,
+   "selection_reason": "Editorial importance; waiting 13.5h"
+  },
+  {
+   "id": "82110824f2abb129",
+   "item": {
+    "id": "82110824f2abb129",
+    "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+    "source": "AWS AI",
+    "image": "",
+    "snippet": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
+    "published": "2026-11-10T16:59:43+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "TCS builds agentic test orchestrator on Amazon Bedrock",
+   "post": "Tata Consultancy Services built an agentic test orchestrator on Amazon Bedrock AgentCore for BFSI clients, cutting internal testing effort by 88 percent.",
+   "editor_note": "Verify if the 88 percent reduction metric is from an internal TCS benchmark.",
+   "published_at": "2026-11-10T16:59:43+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T16:59:43+00:00",
+   "priority": 8.309826,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "2a540ad394ed02ce",
+   "item": {
+    "id": "2a540ad394ed02ce",
+    "title": "OpenAI Acquires AI Travel Agent Odessia",
+    "url": "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia",
+    "source": "The Information",
+    "image": "",
+    "snippet": "OpenAI has acquired the AI travel planning platform Odessia, Odessia’s founder Francis Davidson announced on Tuesday. Davidson will be joining OpenAI to focus on “the future of travel,” he said in an X post. Davidson founded Odessia earlier this year. The platform uses AI to help users plan and ...",
+    "published": "2026-11-10T18:39:07+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "OpenAI acquires AI travel planning platform Odessia",
+   "post": "OpenAI has acquired AI travel planning platform Odessia, founded by Francis Davidson. Davidson will join OpenAI to lead work on travel applications.",
+   "editor_note": "Verify transaction terms if disclosed by OpenAI or founder Francis Davidson.",
+   "published_at": "2026-11-10T18:39:07+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T06:39:07+00:00",
+   "priority": 8.292453,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2499,8 +2544,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.004917,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 8.025806,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2525,8 +2570,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.843494,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "priority": 7.860902,
+   "selection_reason": "Time-sensitive story; waiting 10.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2551,8 +2596,35 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.826833,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 7.844241,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
+  },
+  {
+   "id": "650eadc38ca64367",
+   "item": {
+    "id": "650eadc38ca64367",
+    "title": "高盛领投网络安全初创企业Daylight Security，后者估值达4亿美元",
+    "url": "https://36kr.com/newsflashes/4064719784711043?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "知情人士透露，高盛集团增长股权投资部门牵头对网络安全初创公司Daylight Security开展8000万美元B轮融资。这家总部位于纽约的企业本轮投后估值约4亿美元，融资完成后，公司累计融资总额达1.2亿美元。该公司客户包括AI代码生成初创企业Lovable、索尼旗下动漫流媒体平台Crunchyroll以及体验管理平台Qualtrics。（新浪财经）",
+    "published": "2026-11-11T02:06:47+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Daylight Security raises 80 million dollars in B round",
+   "post": "Cybersecurity startup Daylight Security raised 80 million dollars in a Series B round led by Goldman Sachs, reaching a valuation of 400 million dollars.",
+   "editor_note": "Verify total cumulative funding amount reported at 120 million dollars post-round.",
+   "published_at": "2026-11-11T02:06:47+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T14:06:47+00:00",
+   "priority": 7.499706,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2579,8 +2651,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.483101,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.477879,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2605,8 +2677,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.467058,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.456614,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2631,8 +2703,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.399177,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.416584,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2657,8 +2729,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.396851,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.38297,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2683,8 +2755,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.390121,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.376195,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2709,8 +2781,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.365823,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.351897,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2736,8 +2808,34 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.333778,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.319852,
+   "selection_reason": "Editorial importance; waiting 14.5h"
+  },
+  {
+   "id": "af7403b4563990ca",
+   "item": {
+    "id": "af7403b4563990ca",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "published": "2026-11-10T17:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude Meetings for workplace tasks",
+   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
+   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T05:30:00+00:00",
+   "priority": 7.260454,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2762,8 +2860,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.26009,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.246164,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2790,8 +2888,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.233101,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.227879,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2818,8 +2916,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.233101,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.227879,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2845,8 +2943,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.228755,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.214829,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2872,8 +2970,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.204218,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.190292,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2899,8 +2997,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.178084,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.164158,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2925,8 +3023,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.177621,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.163695,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2951,8 +3049,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.162852,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.148926,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "cb7863665107d049",
@@ -2977,8 +3075,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.870715,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.856789,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -3003,8 +3101,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.855136,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.84121,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3029,8 +3127,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.807652,
-   "selection_reason": "Editorial importance"
+   "priority": 6.825059,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3104,8 +3202,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.705713,
-   "selection_reason": "Editorial importance"
+   "priority": 6.726602,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3204,18 +3302,19 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.497379,
-   "selection_reason": "Editorial importance"
+   "priority": 6.518269,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
-  "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00"
+  "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": "2026-11-11T02:07:50.907396+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
-  "count": 0,
+  "count": 1,
   "takes": 2
  }
 }
