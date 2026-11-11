@@ -960,7 +960,15 @@
   "890069986cbf6a6c": "2026-11-11T05:37:21.063136+00:00",
   "04c114bd6cb816a2": "2026-11-11T05:37:21.063136+00:00",
   "a5eae3fdd29a7351": "2026-11-11T05:37:21.063136+00:00",
-  "3c0c9ce60bfb756b": "2026-11-11T05:37:21.063136+00:00"
+  "3c0c9ce60bfb756b": "2026-11-11T05:37:21.063136+00:00",
+  "cb7863665107d049": "2026-11-11T06:07:21.490074+00:00",
+  "80b38ea7da372c49": "2026-11-11T06:07:21.490074+00:00",
+  "1ff74ee2cb106637": "2026-11-11T06:07:21.490074+00:00",
+  "77a91153249f6d50": "2026-11-11T06:07:21.490074+00:00",
+  "23b382fa4a774bc6": "2026-11-11T06:07:21.490074+00:00",
+  "18780a9d23393f24": "2026-11-11T06:07:21.490074+00:00",
+  "a2d48051cb748221": "2026-11-11T06:07:21.490074+00:00",
+  "35f00681774962fa": "2026-11-11T06:07:21.490074+00:00"
  },
  "covered": [
   {
@@ -1190,11 +1198,15 @@
   {
    "headline": "TSMC approves up to 1 billion dollar investment in Anthropic and OpenAI",
    "ts": "2026-11-11T05:37:21.063136+00:00"
+  },
+  {
+   "headline": "Froncort receives Google.org funding for Indian screening",
+   "ts": "2026-11-11T06:07:21.490074+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2431,35 +2443,21 @@
    "desc": "",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://openai.com/index/chatgpt-plus-for-veterans": {
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "desc": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1xM6UVTcHLBSPyEgaezNtb/9e28e813c1d3f25564da209e17526702/chatgpt-plus-for-veterans-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-10T12:00:00+00:00"
+  },
+  "https://openai.com/index/cogent-security": {
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "desc": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/6yvbDz3WNgZACuqR1Bllrv/eea6d3b2ec1cf6115a5738c06073259b/cogent-security-social-sienna.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-09T08:00:00+00:00"
   }
  },
  "pending": [
-  {
-   "id": "35f00681774962fa",
-   "item": {
-    "id": "35f00681774962fa",
-    "title": "Froncort.AI Gets $2.3M From Google.org to Expand AI-Based Disease Screening in India",
-    "url": "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india",
-    "source": "Analytics India Magazine",
-    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769242744984-1219b0f2-96c1-403c-8d62-91884baa120c-fgnktx.webp",
-    "snippet": "Froncort.AI, a Pune-based healthcare AI company, has received $2.3 million in funding from Google.org to expand its AI-based disease screening platform in India. The company said that it will also receive $200,000 in Google Cloud credits and pro bono technical expertise from Google. “The world does not lack experts. It lacks their reach. AI-NETRA puts that expertise in the health worker's hands at…",
-    "published": "2026-11-10T11:42:42+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Froncort receives Google.org funding for Indian screening",
-   "post": "Pune-based Froncort.AI received $2.3 million from Google.org alongside $200,000 in Google Cloud credits to expand its AI-based disease screening platform across India.",
-   "editor_note": "Confirm the operational rollout timeline for the AI-NETRA platform across Indian healthcare facilities.",
-   "published_at": "2026-11-10T11:42:42+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.252476,
-   "selection_reason": "Editorial importance; waiting 17.0h"
-  },
   {
    "id": "7da1b2b4758f6148",
    "item": {
@@ -2508,8 +2506,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.046678,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 8.036259,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2535,8 +2533,8 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.621194,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.638559,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2561,8 +2559,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.538073,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.555438,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2588,8 +2586,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.506186,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.523551,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2614,8 +2612,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.493464,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.510829,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2640,7 +2638,34 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.488155,
+   "priority": 7.505521,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "1ce88ac3e6754bb1",
+   "item": {
+    "id": "1ce88ac3e6754bb1",
+    "title": "智元发布终身具身智能框架LIFE",
+    "url": "https://36kr.com/newsflashes/4064940199547779?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，近日，智元发布终身具身智能框架LIFE（Learning to Live: A Step Toward Lifelong Embodied Intelligence），该框架将持续感知、长期记忆与能力复用结合，用于支持机器人在任务执行期间及任务间隔期获取环境信息并将历史观察用于后续决策。相关论文、项目主页、RoboBeats系列模型（0.8B/2B/4B）推理代码与权重，以及SSS-Bench评测资源已开放。",
+    "published": "2026-11-11T05:51:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Agibot releases open LIFE embodied intelligence framework",
+   "post": "Agibot released LIFE, an embodied AI framework combining continuous perception and long-term memory for robots. The release includes open weights for its 0.8B, 2B, and 4B RoboBeats models, code, and the SSS-Bench evaluation benchmark.",
+   "editor_note": "Verify open weight licensing terms for the RoboBeats models (0.8B, 2B, and 4B) and repository availability.",
+   "published_at": "2026-11-11T05:51:00+00:00",
+   "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
+   "expires_at": "2026-11-12T17:51:00+00:00",
+   "priority": 7.492427,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2668,8 +2693,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.441432,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.436223,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2694,8 +2719,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.383721,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.373302,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2720,8 +2745,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.372067,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.358175,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2746,8 +2771,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.357476,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.343584,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2772,8 +2797,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.285779,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.271887,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2798,8 +2823,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.279004,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.265112,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2824,8 +2849,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.254706,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.240814,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2851,8 +2876,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.222662,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.208769,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2879,8 +2904,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.191432,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.186223,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2907,8 +2932,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.191432,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.186223,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2933,8 +2958,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.148973,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.135081,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2960,8 +2985,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.117638,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.103746,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2987,8 +3012,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.093101,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.079209,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3014,8 +3039,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.066967,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.053075,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3040,8 +3065,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.066504,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.052612,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3066,8 +3091,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.051736,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.037843,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3092,8 +3117,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.946548,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.963913,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3118,8 +3143,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.881943,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.899308,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3205,34 +3230,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.872388,
-   "selection_reason": "Editorial importance; waiting 4.5h"
-  },
-  {
-   "id": "cb7863665107d049",
-   "item": {
-    "id": "cb7863665107d049",
-    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
-    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
-    "published": "2026-11-09T17:58:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
-   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
-   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
-   "published_at": "2026-11-09T17:58:05+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.759598,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.893226,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3343,8 +3342,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.664055,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.684893,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ],
  "details_queue": [],
@@ -3357,11 +3356,12 @@
   "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00",
   "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00",
   "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00",
-  "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00"
+  "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00",
+  "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 2,
-  "takes": 7
+  "takes": 8
  }
 }
