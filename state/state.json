@@ -1045,13 +1045,17 @@
   "3e62097d304884d1": "2026-11-11T11:37:20.537551+00:00",
   "e6ae36654855307a": "2026-11-11T11:37:20.537551+00:00",
   "7e5aceb460d6dca8": "2026-11-11T11:37:20.537551+00:00",
-  "558a87a3fc410224": "2026-11-11T11:37:20.537551+00:00"
+  "558a87a3fc410224": "2026-11-11T11:37:20.537551+00:00",
+  "7e747f00e201a8c8": "2026-11-11T12:07:25.150326+00:00",
+  "6acb111c18e6ee27": "2026-11-11T12:07:25.150326+00:00",
+  "3059651df1a92528": "2026-11-11T12:07:25.150326+00:00",
+  "4333c505c238a859": "2026-11-11T12:07:25.150326+00:00",
+  "f61c80cf7d04dbb2": "2026-11-11T12:07:25.150326+00:00",
+  "f83304c2bef3bca1": "2026-11-11T12:07:25.150326+00:00",
+  "18197229b3115bd4": "2026-11-11T12:07:25.150326+00:00",
+  "1ce88ac3e6754bb1": "2026-11-11T12:07:25.150326+00:00"
  },
  "covered": [
-  {
-   "headline": "Apple Intelligence completes Chinese regulatory filing for iPad and Mac",
-   "ts": "2026-11-09T12:07:22.714827+00:00"
-  },
   {
    "headline": "Google expands TPU lineup with TPU 8tx and 8i Max",
    "ts": "2026-11-09T13:07:21.640338+00:00"
@@ -1283,11 +1287,15 @@
   {
    "headline": "OpenAI to discontinue standard and advanced ChatGPT voice modes",
    "ts": "2026-11-11T11:37:20.537551+00:00"
+  },
+  {
+   "headline": "Agibot releases open LIFE embodied intelligence framework",
+   "ts": "2026-11-11T12:07:25.150326+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2558,33 +2566,6 @@
  },
  "pending": [
   {
-   "id": "1ce88ac3e6754bb1",
-   "item": {
-    "id": "1ce88ac3e6754bb1",
-    "title": "智元发布终身具身智能框架LIFE",
-    "url": "https://36kr.com/newsflashes/4064940199547779?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，近日，智元发布终身具身智能框架LIFE（Learning to Live: A Step Toward Lifelong Embodied Intelligence），该框架将持续感知、长期记忆与能力复用结合，用于支持机器人在任务执行期间及任务间隔期获取环境信息并将历史观察用于后续决策。相关论文、项目主页、RoboBeats系列模型（0.8B/2B/4B）推理代码与权重，以及SSS-Bench评测资源已开放。",
-    "published": "2026-11-11T05:51:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Agibot releases open LIFE embodied intelligence framework",
-   "post": "Agibot released LIFE, an embodied AI framework combining continuous perception and long-term memory for robots. The release includes open weights for its 0.8B, 2B, and 4B RoboBeats models, code, and the SSS-Bench evaluation benchmark.",
-   "editor_note": "Verify open weight licensing terms for the RoboBeats models (0.8B, 2B, and 4B) and repository availability.",
-   "published_at": "2026-11-11T05:51:00+00:00",
-   "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
-   "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.68339,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
-  },
-  {
    "id": "6db27c0084aa9df3",
    "item": {
     "id": "6db27c0084aa9df3",
@@ -2607,8 +2588,8 @@
    "published_at": "2026-11-11T10:10:36+00:00",
    "first_seen_at": "2026-11-11T10:37:20.945947+00:00",
    "expires_at": "2026-11-12T22:10:36+00:00",
-   "priority": 7.522334,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.53974,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "a5ab5a4847bee965",
@@ -2633,8 +2614,8 @@
    "published_at": "2026-11-11T10:37:35+00:00",
    "first_seen_at": "2026-11-11T11:07:23.012607+00:00",
    "expires_at": "2026-11-12T22:37:35+00:00",
-   "priority": 7.503541,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.520946,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2661,34 +2642,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.378934,
-   "selection_reason": "Editorial importance; waiting 23.0h"
-  },
-  {
-   "id": "f8c1a7370c130fe5",
-   "item": {
-    "id": "f8c1a7370c130fe5",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "source": "Google DeepMind",
-    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
-    "snippet": "AlphaProof Code agents wrote over three million lines of machine-checked proof in Lean to verify the core cryptographic protections in Signal down to machine instructions.",
-    "published": "2026-11-10T12:02:28+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google DeepMind uses AlphaProof Code to verify Signal protocol",
-   "post": "Google DeepMind introduced AlphaProof Code, utilizing agents to write over three million lines of machine-checked Lean proofs verifying Signal cryptographic protections down to machine instructions.",
-   "editor_note": "Check whether the full verification dataset and Lean proof scripts have been published publicly.",
-   "published_at": "2026-11-10T12:02:28+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.258724,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.373712,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2713,8 +2668,34 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.246401,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.263807,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "f8c1a7370c130fe5",
+   "item": {
+    "id": "f8c1a7370c130fe5",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "source": "Google DeepMind",
+    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+    "snippet": "AlphaProof Code agents wrote over three million lines of machine-checked proof in Lean to verify the core cryptographic protections in Signal down to machine instructions.",
+    "published": "2026-11-10T12:02:28+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google DeepMind uses AlphaProof Code to verify Signal protocol",
+   "post": "Google DeepMind introduced AlphaProof Code, utilizing agents to write over three million lines of machine-checked Lean proofs verifying Signal cryptographic protections down to machine instructions.",
+   "editor_note": "Check whether the full verification dataset and Lean proof scripts have been published publicly.",
+   "published_at": "2026-11-10T12:02:28+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-12T12:02:28+00:00",
+   "priority": 7.24828,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2739,8 +2720,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.205405,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.19148,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2765,8 +2746,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.190814,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.176889,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2791,64 +2772,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.154876,
-   "selection_reason": "Editorial importance; waiting 10.0h"
-  },
-  {
-   "id": "296c4d8438776ee2",
-   "item": {
-    "id": "296c4d8438776ee2",
-    "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
-    "url": "https://arxiv.org/abs/2611.08175",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Upvotes: 30. Abstract: Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent, a multimodal PCB routing agent inspired by how human engineers coordinate global strategy with local execution. A Global Routing Planner combines board images and structured electrical and geometric information to specify connection topology, routing order, corridors, and layer transitions. A Detailed Routing Executor realizes these guides through KiCad's native routing engine and performs bounded local recovery. Unresolved failures are returned as structured feedback, enabling targeted guide revisions while preserving accepted routes. We evaluate PCBRouteAgent on 247 synthetic and real-world boards from four PCBWorld-Bench test splits. It achieves clean-pass rates of 100%, 94.9%, 100%, and 40% on D2, D3-A, D3-B, and D3-C, respectively. On the three real-world subsets, PCBRouteAgent outperforms the best evaluated baseline in clean-pass rate by 13.9, 36, and 10 percentage points, respectively.",
-    "published": "2026-11-09T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08175.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Researchers introduce PCBRouteAgent for circuit board routing",
-   "post": "Researchers introduced PCBRouteAgent, a multimodal AI agent that coordinates global strategy and local execution for printed circuit board routing.",
-   "editor_note": "Check the evaluation benchmarks used in the paper beyond the synthetic and real-world test splits.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.128934,
-   "selection_reason": "Editorial importance; waiting 33.0h"
-  },
-  {
-   "id": "cc554af1af51239e",
-   "item": {
-    "id": "cc554af1af51239e",
-    "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
-    "url": "https://arxiv.org/abs/2611.06043",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Netease Youdao. Upvotes: 30. Abstract: Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and English audio while freezing its pre-trained audio encoder and projector. The adaptation is based on the concept of Longest Stable Prefix (LSP), a new notion that we introduce in this work. We prove that LSP is monotone under the prefix order, consistent with the full-audio output, and maximal among labels that equal a whole earlier output. Learning from LSP labels converts a full-context model into a stable-prefix streaming one without any architectural change. Extensive evaluations show that R2T2 brings streaming recognition close to the base model's full-context quality while delivering stable text with low emission lag. Its gains extend beyond the post-training languages, demonstrating a practical path from full-context ASR to stable streaming. We open-source the model weights and code at https://huggingface.co/netease-youdao/Confucius4-R2T2 and https://github.com/netease-youdao/Confucius4-R2T2.",
-    "published": "2026-11-09T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.06043.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Netease Youdao releases Confucius4-R2T2 streaming ASR model",
-   "post": "Researchers at Netease Youdao released Confucius4-R2T2, a stable-prefix streaming ASR model trained on 1,500 hours of audio that preserves earlier output without modification.",
-   "editor_note": "Verify the open-source repository and model weight availability on Hugging Face.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.128934,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 7.172282,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2934,60 +2859,64 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.122382,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.143269,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
-   "id": "48b75c7fc00d6548",
+   "id": "296c4d8438776ee2",
    "item": {
-    "id": "48b75c7fc00d6548",
-    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
-    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
-    "published": "2026-11-10T12:54:38+00:00",
+    "id": "296c4d8438776ee2",
+    "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+    "url": "https://arxiv.org/abs/2611.08175",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Upvotes: 30. Abstract: Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent, a multimodal PCB routing agent inspired by how human engineers coordinate global strategy with local execution. A Global Routing Planner combines board images and structured electrical and geometric information to specify connection topology, routing order, corridors, and layer transitions. A Detailed Routing Executor realizes these guides through KiCad's native routing engine and performs bounded local recovery. Unresolved failures are returned as structured feedback, enabling targeted guide revisions while preserving accepted routes. We evaluate PCBRouteAgent on 247 synthetic and real-world boards from four PCBWorld-Bench test splits. It achieves clean-pass rates of 100%, 94.9%, 100%, and 40% on D2, D3-A, D3-B, and D3-C, respectively. On the three real-world subsets, PCBRouteAgent outperforms the best evaluated baseline in clean-pass rate by 13.9, 36, and 10 percentage points, respectively.",
+    "published": "2026-11-09T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08175.png",
     "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
-   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
-   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
-   "published_at": "2026-11-10T12:54:38+00:00",
-   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
-   "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.119116,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "2551552469f4fa95",
-   "item": {
-    "id": "2551552469f4fa95",
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "published": "2026-11-10T12:40:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
+    "category": "paper",
+    "source_cap": 4
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
-   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
-   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
-   "published_at": "2026-11-10T12:40:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.112342,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "headline": "Researchers introduce PCBRouteAgent for circuit board routing",
+   "post": "Researchers introduced PCBRouteAgent, a multimodal AI agent that coordinates global strategy and local execution for printed circuit board routing.",
+   "editor_note": "Check the evaluation benchmarks used in the paper beyond the synthetic and real-world test splits.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
+   "expires_at": "2026-11-13T00:00:00+00:00",
+   "priority": 7.123712,
+   "selection_reason": "Editorial importance; waiting 33.5h"
+  },
+  {
+   "id": "cc554af1af51239e",
+   "item": {
+    "id": "cc554af1af51239e",
+    "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+    "url": "https://arxiv.org/abs/2611.06043",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Netease Youdao. Upvotes: 30. Abstract: Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and English audio while freezing its pre-trained audio encoder and projector. The adaptation is based on the concept of Longest Stable Prefix (LSP), a new notion that we introduce in this work. We prove that LSP is monotone under the prefix order, consistent with the full-audio output, and maximal among labels that equal a whole earlier output. Learning from LSP labels converts a full-context model into a stable-prefix streaming one without any architectural change. Extensive evaluations show that R2T2 brings streaming recognition close to the base model's full-context quality while delivering stable text with low emission lag. Its gains extend beyond the post-training languages, demonstrating a practical path from full-context ASR to stable streaming. We open-source the model weights and code at https://huggingface.co/netease-youdao/Confucius4-R2T2 and https://github.com/netease-youdao/Confucius4-R2T2.",
+    "published": "2026-11-09T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.06043.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Netease Youdao releases Confucius4-R2T2 streaming ASR model",
+   "post": "Researchers at Netease Youdao released Confucius4-R2T2, a stable-prefix streaming ASR model trained on 1,500 hours of audio that preserves earlier output without modification.",
+   "editor_note": "Verify the open-source repository and model weight availability on Hugging Face.",
+   "published_at": "2026-11-09T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
+   "expires_at": "2026-11-13T00:00:00+00:00",
+   "priority": 7.123712,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3012,8 +2941,60 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.090271,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.107676,
+   "selection_reason": "Editorial importance; waiting 10.0h"
+  },
+  {
+   "id": "48b75c7fc00d6548",
+   "item": {
+    "id": "48b75c7fc00d6548",
+    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
+    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
+    "published": "2026-11-10T12:54:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
+   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
+   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
+   "published_at": "2026-11-10T12:54:38+00:00",
+   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
+   "expires_at": "2026-11-12T00:54:38+00:00",
+   "priority": 7.105192,
+   "selection_reason": "Editorial importance; waiting 22.5h"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 7.098417,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3038,8 +3019,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.088044,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.074119,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3065,8 +3046,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.055999,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.042074,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3091,8 +3072,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.982311,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.968386,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3118,35 +3099,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.950976,
-   "selection_reason": "Editorial importance; waiting 28.5h"
-  },
-  {
-   "id": "3ea2bbdb97e368ef",
-   "item": {
-    "id": "3ea2bbdb97e368ef",
-    "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
-    "url": "https://36kr.com/newsflashes/4063513408312456?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，天眼查App显示，11月10日，深圳荣耀奇点智能科技有限公司成立，法定代表人为彭求恩，注册资本1亿元人民币，经营范围含服务消费机器人制造、服务消费机器人销售、智能机器人的研发等。股东信息显示，该公司由荣耀终端股份有限公司全资持股。",
-    "published": "2026-11-10T05:58:27+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Honor sets up intelligent technology firm in Shenzhen",
-   "post": "Honor has established Shenzhen Qidian Intelligent Technology Company with a registered capital of 100 million yuan, focusing on intelligent robot research, development, manufacturing, and sales.",
-   "editor_note": "Verify registered capital of 100 million yuan and 100% ownership by Honor Terminal from the filing details.",
-   "published_at": "2026-11-10T05:58:27+00:00",
-   "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
-   "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.926439,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.937051,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3257,8 +3211,35 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.914049,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.934935,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "3ea2bbdb97e368ef",
+   "item": {
+    "id": "3ea2bbdb97e368ef",
+    "title": "荣耀在深圳成立奇点智能科技公司，注册资本1亿",
+    "url": "https://36kr.com/newsflashes/4063513408312456?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，天眼查App显示，11月10日，深圳荣耀奇点智能科技有限公司成立，法定代表人为彭求恩，注册资本1亿元人民币，经营范围含服务消费机器人制造、服务消费机器人销售、智能机器人的研发等。股东信息显示，该公司由荣耀终端股份有限公司全资持股。",
+    "published": "2026-11-10T05:58:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Honor sets up intelligent technology firm in Shenzhen",
+   "post": "Honor has established Shenzhen Qidian Intelligent Technology Company with a registered capital of 100 million yuan, focusing on intelligent robot research, development, manufacturing, and sales.",
+   "editor_note": "Verify registered capital of 100 million yuan and 100% ownership by Honor Terminal from the filing details.",
+   "published_at": "2026-11-10T05:58:27+00:00",
+   "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
+   "expires_at": "2026-11-11T17:58:27+00:00",
+   "priority": 6.912514,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3284,8 +3265,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.900304,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.88638,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3310,8 +3291,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.899842,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.885917,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3336,8 +3317,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.885073,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.871149,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   }
  ],
  "details_queue": [],
@@ -3361,11 +3342,12 @@
   "https://36kr.com/newsflashes/4064873704297602?f=rss": "2026-11-11T10:07:39.891605+00:00",
   "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00",
   "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00"
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00",
+  "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 17
+  "takes": 18
  }
 }
