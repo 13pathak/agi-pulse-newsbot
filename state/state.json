@@ -1094,10 +1094,6 @@
  },
  "covered": [
   {
-   "headline": "ChatGPT traffic share exceeds 81 percent among chatbots",
-   "ts": "2026-11-09T14:37:24.342987+00:00"
-  },
-  {
    "headline": "ByteDance releases Seedream 5.5 image model with transparent asset generation",
    "ts": "2026-11-09T15:07:23.862819+00:00"
   },
@@ -2632,8 +2628,8 @@
    "published_at": "2026-11-11T12:53:07+00:00",
    "first_seen_at": "2026-11-11T13:07:23.466854+00:00",
    "expires_at": "2026-11-13T00:53:07+00:00",
-   "priority": 7.528106,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.545568,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "281df356d71debbc",
@@ -2658,8 +2654,8 @@
    "published_at": "2026-11-11T13:51:11+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:51:11+00:00",
-   "priority": 7.492502,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.509964,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "7218220fa4fbbf3e",
@@ -2684,8 +2680,8 @@
    "published_at": "2026-11-11T13:50:30+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:50:30+00:00",
-   "priority": 7.492186,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.509648,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2710,8 +2706,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.468837,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.486299,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2738,8 +2734,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.352886,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.347647,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2764,8 +2760,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.270759,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.256789,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2790,8 +2786,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.210411,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.196442,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2816,8 +2812,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.206628,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.196151,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2842,8 +2838,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.177097,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.163171,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2929,8 +2925,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.164105,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.153628,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2955,8 +2951,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.135944,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.121975,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2981,8 +2977,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.121353,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.107383,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3009,8 +3005,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.102886,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "priority": 7.097647,
+   "selection_reason": "Editorial importance; waiting 36.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3037,8 +3033,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.102886,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "priority": 7.097647,
+   "selection_reason": "Editorial importance; waiting 36.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3063,8 +3059,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.049655,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.035686,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3089,8 +3085,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.042881,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.028911,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3115,8 +3111,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.018583,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.004613,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3142,8 +3138,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.986538,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.972569,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3254,8 +3250,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.955771,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 6.945295,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3280,8 +3276,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.91285,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.89888,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3307,8 +3303,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.881515,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.867546,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3334,8 +3330,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.856978,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.843008,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3361,8 +3357,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.830843,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.816874,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3387,8 +3383,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.830381,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.816411,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3413,8 +3409,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.815612,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.801643,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   }
  ],
  "details_queue": [],
