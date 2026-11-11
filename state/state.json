@@ -968,7 +968,18 @@
   "23b382fa4a774bc6": "2026-11-11T06:07:21.490074+00:00",
   "18780a9d23393f24": "2026-11-11T06:07:21.490074+00:00",
   "a2d48051cb748221": "2026-11-11T06:07:21.490074+00:00",
-  "35f00681774962fa": "2026-11-11T06:07:21.490074+00:00"
+  "35f00681774962fa": "2026-11-11T06:07:21.490074+00:00",
+  "cfc79cd5142774a4": "2026-11-11T06:37:26.026765+00:00",
+  "337c6b69abbad99f": "2026-11-11T06:37:26.026765+00:00",
+  "b06a66690c3ffda7": "2026-11-11T06:37:26.026765+00:00",
+  "96f574d33818acb3": "2026-11-11T06:37:26.026765+00:00",
+  "560ee1c5dc9a5bf9": "2026-11-11T06:37:26.026765+00:00",
+  "abd2751dac6e529d": "2026-11-11T06:37:26.026765+00:00",
+  "2405f04b5717a454": "2026-11-11T06:37:26.026765+00:00",
+  "6ee7f1c7237f08bd": "2026-11-11T06:37:26.026765+00:00",
+  "7da1b2b4758f6148": "2026-11-11T06:37:26.026765+00:00",
+  "0f696e8c856711df": "2026-11-11T06:37:26.026765+00:00",
+  "8ab9bda3b9d181f1": "2026-11-11T06:37:26.026765+00:00"
  },
  "covered": [
   {
@@ -1202,11 +1213,15 @@
   {
    "headline": "Froncort receives Google.org funding for Indian screening",
    "ts": "2026-11-11T06:07:21.490074+00:00"
+  },
+  {
+   "headline": "Google DeepMind unveils Gemini Robotics 2.5 platform",
+   "ts": "2026-11-11T06:37:26.026765+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2459,57 +2474,6 @@
  },
  "pending": [
   {
-   "id": "7da1b2b4758f6148",
-   "item": {
-    "id": "7da1b2b4758f6148",
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "source": "Google DeepMind",
-    "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
-    "snippet": "Introducing Gemini Robotics 2.5, our most capable vision-language-action model enhancing dexterity, reliability, and safety for real-world environments.",
-    "published": "2026-11-09T19:51:47+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "0f696e8c856711df",
-     "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-     "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-     "source": "Ars Technica",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
-     "snippet": "Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. In the 2.5 release, Google says its robotic AI is getting tantalizingly close to completing real-world tasks as well as humans do. In fact, some Gemini robots were able to get actual work done in Mercedes-Benz factories, and the team is preparing for a day when robots operate alongside humans with an open sou…",
-     "published": "2026-11-10T15:00:39+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "8ab9bda3b9d181f1",
-     "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
-     "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeare…",
-     "published": "2026-11-10T17:11:10+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Google DeepMind unveils Gemini Robotics 2.5 platform",
-   "post": "Google DeepMind unveils Gemini Robotics 2.5, a vision-language-action model designed to improve dexterity and safety in real-world factory environments.",
-   "editor_note": "Confirm availability timelines and specific factory deployment partners.",
-   "published_at": "2026-11-09T19:51:47+00:00",
-   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
-   "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.036259,
-   "selection_reason": "Editorial importance; waiting 14.5h"
-  },
-  {
    "id": "650eadc38ca64367",
    "item": {
     "id": "650eadc38ca64367",
@@ -2533,8 +2497,8 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.638559,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.655964,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2559,8 +2523,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.555438,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.572843,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2586,8 +2550,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.523551,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.540956,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2612,8 +2576,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.510829,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.528234,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2638,8 +2602,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.505521,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.522925,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2665,8 +2629,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.492427,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.509832,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2693,8 +2657,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.436223,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.431001,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2719,8 +2683,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.373302,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.362859,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2745,8 +2709,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.358175,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.344251,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2771,8 +2735,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.343584,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.32966,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2797,8 +2761,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.271887,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.257963,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2823,8 +2787,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.265112,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.251188,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2849,8 +2813,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.240814,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.22689,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2876,8 +2840,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.208769,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.194845,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2904,8 +2868,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.186223,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.181001,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2932,8 +2896,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.186223,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.181001,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2958,8 +2922,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.135081,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.121157,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2985,8 +2949,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.103746,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.089822,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3012,8 +2976,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.079209,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.065285,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3039,8 +3003,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.053075,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.039151,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3065,8 +3029,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.052612,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.038688,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3091,8 +3055,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.037843,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.02392,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3117,8 +3081,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.963913,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.981318,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3143,8 +3107,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.899308,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.916713,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3230,8 +3194,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.893226,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.914112,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3342,8 +3306,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.684893,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.705779,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   }
  ],
  "details_queue": [],
@@ -3357,11 +3321,12 @@
   "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00",
   "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00",
   "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00",
-  "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00"
+  "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00",
+  "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
-  "count": 2,
+  "count": 3,
   "takes": 8
  }
 }
