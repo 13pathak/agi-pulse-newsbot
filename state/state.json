@@ -1066,13 +1066,19 @@
   "fad443e2a5b55e00": "2026-11-11T12:37:23.503234+00:00",
   "19bc6f361e379afe": "2026-11-11T12:37:23.503234+00:00",
   "584e833ec75ac743": "2026-11-11T12:37:23.503234+00:00",
-  "6db27c0084aa9df3": "2026-11-11T12:37:23.503234+00:00"
+  "6db27c0084aa9df3": "2026-11-11T12:37:23.503234+00:00",
+  "f96c882dace67c13": "2026-11-11T13:07:23.466854+00:00",
+  "b9922ef242a20a1d": "2026-11-11T13:07:23.466854+00:00",
+  "279dd561933e3537": "2026-11-11T13:07:23.466854+00:00",
+  "db18f905ea40079c": "2026-11-11T13:07:23.466854+00:00",
+  "905273c6de64c6d0": "2026-11-11T13:07:23.466854+00:00",
+  "353b1380325d3f65": "2026-11-11T13:07:23.466854+00:00",
+  "898fff749ce4655e": "2026-11-11T13:07:23.466854+00:00",
+  "e3df3e3c289005f9": "2026-11-11T13:07:23.466854+00:00",
+  "6ef14878d0d8bbd0": "2026-11-11T13:07:23.466854+00:00",
+  "a5ab5a4847bee965": "2026-11-11T13:07:23.466854+00:00"
  },
  "covered": [
-  {
-   "headline": "Google expands TPU lineup with TPU 8tx and 8i Max",
-   "ts": "2026-11-09T13:07:21.640338+00:00"
-  },
   {
    "headline": "Envision delivers first 120MW of Galaxy AI data center",
    "ts": "2026-11-09T13:37:21.585544+00:00"
@@ -1308,11 +1314,15 @@
   {
    "headline": "ByteDance plans AI assistant launch to rival US labs",
    "ts": "2026-11-11T12:37:23.503234+00:00"
+  },
+  {
+   "headline": "ChatGPT Go tier offered to users in India",
+   "ts": "2026-11-11T13:07:23.466854+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2579,35 +2589,12 @@
    "desc": "Meet your AI thinking partner. Tackle complex problems, analyze data, write code, and collaborate on challenging projects.",
    "image": "https://claude.com/resources/articles/self-hosted-claude-managed-agents/opengraph-image/og",
    "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE": {
+   "card": "MiniMax-H3-Image-PE Online API Use MiniMax-H3-Image directly via API. - Global: platform.minimax.io | CN: platform.minimax.cn API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs Introduction MiniMax-H3-Image-PE provides prompt expansion (PE) for MiniMax-H3-Image. It turns a short request into a detailed description of the intended image, together with an aspect-ratio recommendation for image generation. This repository covers two workflows: The examples below explain how to use MiniMax-H3-Image-PE and the image editing task prompt. How to use T2I PE Run the examples from a local copy of this repository so the relative prompt and script paths resolve correctly. Serve MiniMax-H3-Image-PE We recommend SGLang with sglang =0.5.23 and xgrammar =0.2.7 . bash sglang serve \\ --model-path MiniMaxAI/MiniMax-H3-Image-PE \\ --served-model-name MiniMax-H3-Image-PE \\ --model-type llm \\ --reasoning-parser qwen3 \\ --grammar-backend xgrammar \\ --constrained-json-disable-any-whitespace \\ --host 0.0.0.0 \\ --port 30000 SGLang reads the FP4 configuration from the checkpoint. XGrammar constrains the answer to the JSON schema, and the reasoning…"
   }
  },
  "pending": [
-  {
-   "id": "a5ab5a4847bee965",
-   "item": {
-    "id": "a5ab5a4847bee965",
-    "title": "ChatGPT Go available to some users for as little as Rs 99, but there is a catch",
-    "url": "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "ChatGPT Go available to some users for as little as Rs 99, but there is a catch",
-    "published": "2026-11-11T10:37:35+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "ChatGPT Go tier offered to users in India",
-   "post": "OpenAI's ChatGPT Go tier has become available to some users in India priced as low as 99 rupees, subject to specific conditions.",
-   "editor_note": "Check the exact conditions and feature limitations tied to the 99 rupees pricing tier.",
-   "published_at": "2026-11-11T10:37:35+00:00",
-   "first_seen_at": "2026-11-11T11:07:23.012607+00:00",
-   "expires_at": "2026-11-12T22:37:35+00:00",
-   "priority": 7.538292,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
   {
    "id": "0da82ea2c7a2bc75",
    "item": {
@@ -2631,7 +2618,7 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T12:37:23.503234+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.482689,
+   "priority": 7.50005,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2657,7 +2644,33 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T12:37:23.503234+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.482689,
+   "priority": 7.50005,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "e8611a93afeb04e2",
+   "item": {
+    "id": "e8611a93afeb04e2",
+    "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+    "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible. The article Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's ow…",
+    "published": "2026-11-11T12:53:07+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Grok built apps exposed patient data and plaintext passwords",
+   "post": "Security firm Claroc found over 35,000 apps built with Grok exposed patient data and plaintext passwords due to default access settings. SpaceXSI took down its own 24 affected employee apps.",
+   "editor_note": "Verify whether the remaining exposed apps have been secured by developers.",
+   "published_at": "2026-11-11T12:53:07+00:00",
+   "first_seen_at": "2026-11-11T13:07:23.466854+00:00",
+   "expires_at": "2026-11-13T00:53:07+00:00",
+   "priority": 7.493391,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2685,8 +2698,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.368508,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.3633,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2711,8 +2724,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.281152,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.298513,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2737,8 +2750,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.237873,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.227457,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2763,34 +2776,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.189627,
-   "selection_reason": "Editorial importance; waiting 11.0h"
-  },
-  {
-   "id": "219c9a34cdd05da5",
-   "item": {
-    "id": "219c9a34cdd05da5",
-    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
-    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
-    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
-    "published": "2026-11-10T16:01:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Graphon raises 35 million dollars in funding",
-   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
-   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
-   "published_at": "2026-11-10T16:01:01+00:00",
-   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
-   "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.177604,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.206988,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2876,8 +2863,34 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.164083,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.184916,
+   "selection_reason": "Editorial importance; waiting 12.0h"
+  },
+  {
+   "id": "219c9a34cdd05da5",
+   "item": {
+    "id": "219c9a34cdd05da5",
+    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
+    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
+    "published": "2026-11-10T16:01:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Graphon raises 35 million dollars in funding",
+   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
+   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
+   "published_at": "2026-11-10T16:01:01+00:00",
+   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
+   "expires_at": "2026-11-12T04:01:01+00:00",
+   "priority": 7.163716,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2902,8 +2915,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.163013,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.149124,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2928,8 +2941,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.125022,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.142382,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2956,8 +2969,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.118508,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 7.1133,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2984,8 +2997,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.118508,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 7.1133,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3010,8 +3023,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.091316,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.077427,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3036,8 +3049,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.084541,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.070652,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3062,8 +3075,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.060243,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.046354,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3089,8 +3102,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.028198,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.01431,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3201,8 +3214,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.95575,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 6.976583,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3227,8 +3240,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.95451,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.940621,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3254,8 +3267,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.923175,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.909287,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3281,8 +3294,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.898638,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.884749,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3308,8 +3321,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.872504,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.858615,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3334,8 +3347,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.872041,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.858152,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3360,8 +3373,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.857272,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.843384,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   }
  ],
  "details_queue": [],
@@ -3387,11 +3400,12 @@
   "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00",
   "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00",
+  "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11": "2026-11-11T13:09:27.185558+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 19
+  "takes": 20
  }
 }
