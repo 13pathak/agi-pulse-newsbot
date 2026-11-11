@@ -1084,13 +1084,15 @@
   "2d7fd7b17ad86260": "2026-11-11T13:37:24.039730+00:00",
   "019e97548a8a01ad": "2026-11-11T13:37:24.039730+00:00",
   "68c9773c5a8582ac": "2026-11-11T13:37:24.039730+00:00",
-  "0da82ea2c7a2bc75": "2026-11-11T13:37:24.039730+00:00"
+  "0da82ea2c7a2bc75": "2026-11-11T13:37:24.039730+00:00",
+  "f5528be0fb9923ce": "2026-11-11T14:07:22.686423+00:00",
+  "b5726593797433df": "2026-11-11T14:07:22.686423+00:00",
+  "f95e4a530b1c9c51": "2026-11-11T14:07:22.686423+00:00",
+  "20cdc78a84d4d406": "2026-11-11T14:07:22.686423+00:00",
+  "450a9863af999dab": "2026-11-11T14:07:22.686423+00:00",
+  "1a2976e6daf3223d": "2026-11-11T14:07:22.686423+00:00"
  },
  "covered": [
-  {
-   "headline": "Coforge partners with SpaceX to build enterprise Grok AI tools",
-   "ts": "2026-11-09T14:07:23.032705+00:00"
-  },
   {
    "headline": "ChatGPT traffic share exceeds 81 percent among chatbots",
    "ts": "2026-11-09T14:37:24.342987+00:00"
@@ -1326,11 +1328,15 @@
   {
    "headline": "US power companies deploy Anthropic Mythos AI for energy grid security",
    "ts": "2026-11-11T13:37:24.039730+00:00"
+  },
+  {
+   "headline": "Torus raises $500 million for modular AI data center units",
+   "ts": "2026-11-11T14:07:22.686423+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2604,32 +2610,6 @@
  },
  "pending": [
   {
-   "id": "1a2976e6daf3223d",
-   "item": {
-    "id": "1a2976e6daf3223d",
-    "title": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Torus, an energy-storage startup, said it raised $500 million in funding to help launch a new shipping container-sized product that combines batteries with artificial-intelligence computing.",
-    "published": "2026-11-11T12:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Torus raises $500 million for modular AI data center units",
-   "post": "Energy storage startup Torus raised $500 million in funding to build container-sized modular units that combine battery systems with AI computing hardware.",
-   "editor_note": "Verify lead investors in the funding round and deployment timeline for the modular units.",
-   "published_at": "2026-11-11T12:00:00+00:00",
-   "first_seen_at": "2026-11-11T12:37:23.503234+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.517416,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "e8611a93afeb04e2",
    "item": {
     "id": "e8611a93afeb04e2",
@@ -2652,8 +2632,86 @@
    "published_at": "2026-11-11T12:53:07+00:00",
    "first_seen_at": "2026-11-11T13:07:23.466854+00:00",
    "expires_at": "2026-11-13T00:53:07+00:00",
-   "priority": 7.510758,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.528106,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "281df356d71debbc",
+   "item": {
+    "id": "281df356d71debbc",
+    "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+    "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply. The article US data brokers are selling half a billion dollars in RL t…",
+    "published": "2026-11-11T13:51:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "US data brokers sell $500M in RL data to Chinese AI labs",
+   "post": "A ChinaTalk investigation reported by The Decoder states US data brokers sold roughly $500 million in reinforcement learning training environments to Chinese AI labs, including datasets built for OpenAI and Anthropic.",
+   "editor_note": "Verify the original ChinaTalk report for specific US data brokers and Chinese AI labs named.",
+   "published_at": "2026-11-11T13:51:11+00:00",
+   "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
+   "expires_at": "2026-11-13T01:51:11+00:00",
+   "priority": 7.492502,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "7218220fa4fbbf3e",
+   "item": {
+    "id": "7218220fa4fbbf3e",
+    "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+    "url": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. The article DeepL wants real-time translation to finally capture sarcasm and mood shifts appeared first on The Decoder .",
+    "published": "2026-11-11T13:50:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "DeepL introduces Aure model for real-time speech translation",
+   "post": "DeepL launched Aure, a speech model for DeepL Voice that transfers a speaker's tone, emotion, emphasis, and speaking pace into target language translations.",
+   "editor_note": "Check language availability and rollout schedule for the Aure model in DeepL Voice.",
+   "published_at": "2026-11-11T13:50:30+00:00",
+   "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
+   "expires_at": "2026-11-13T01:50:30+00:00",
+   "priority": 7.492186,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "be6a1abda9866f2d",
+   "item": {
+    "id": "be6a1abda9866f2d",
+    "title": "UK chip start-up Fractile hits $7bn valuation",
+    "url": "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "image": "",
+    "snippet": "London-headquartered company is one of a clutch of start-ups developing custom semiconductors for AI",
+    "published": "2026-11-11T13:00:04+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "UK AI chip startup Fractile reaches $7 billion valuation",
+   "post": "London-headquartered startup Fractile reached a $7 billion valuation, the Financial Times reported. The company develops custom AI semiconductors.",
+   "editor_note": "Confirm whether the $7 billion valuation comes from a completed funding round.",
+   "published_at": "2026-11-11T13:00:04+00:00",
+   "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
+   "expires_at": "2026-11-13T01:00:04+00:00",
+   "priority": 7.468837,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2680,8 +2738,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.35809,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.352886,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2706,8 +2764,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.284637,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.270759,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2732,8 +2790,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.22429,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.210411,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2758,8 +2816,34 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.217037,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.206628,
+   "selection_reason": "Editorial importance; waiting 25.5h"
+  },
+  {
+   "id": "af7403b4563990ca",
+   "item": {
+    "id": "af7403b4563990ca",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "published": "2026-11-10T17:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude Meetings for workplace tasks",
+   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
+   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T05:30:00+00:00",
+   "priority": 7.177097,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2845,34 +2929,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.174514,
-   "selection_reason": "Editorial importance; waiting 12.5h"
-  },
-  {
-   "id": "af7403b4563990ca",
-   "item": {
-    "id": "af7403b4563990ca",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "published": "2026-11-10T17:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude Meetings for workplace tasks",
-   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
-   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.159749,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.164105,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2897,8 +2955,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.149822,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.135944,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2923,8 +2981,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.135231,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.121353,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2951,8 +3009,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.10809,
-   "selection_reason": "Editorial importance; waiting 35.0h"
+   "priority": 7.102886,
+   "selection_reason": "Editorial importance; waiting 35.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2979,8 +3037,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.10809,
-   "selection_reason": "Editorial importance; waiting 35.0h"
+   "priority": 7.102886,
+   "selection_reason": "Editorial importance; waiting 35.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3005,8 +3063,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.063534,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.049655,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3031,8 +3089,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.056759,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.042881,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3057,8 +3115,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.032461,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.018583,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3084,8 +3142,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.000416,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.986538,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3196,8 +3254,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.96618,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 6.955771,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3222,8 +3280,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.926728,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.91285,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3249,8 +3307,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.895393,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.881515,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3276,8 +3334,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.870856,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.856978,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3303,8 +3361,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.844722,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.830843,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3329,8 +3387,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.844259,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.830381,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3355,8 +3413,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.82949,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.815612,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   }
  ],
  "details_queue": [],
@@ -3384,11 +3442,12 @@
   "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00",
   "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11": "2026-11-11T13:09:27.185558+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems": "2026-11-11T13:38:02.174146+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems": "2026-11-11T13:38:02.174146+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center": "2026-11-11T14:08:09.130075+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 21
+  "takes": 22
  }
 }
