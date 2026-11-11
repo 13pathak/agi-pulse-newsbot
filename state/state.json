@@ -997,13 +997,14 @@
   "3e9c43baf885a332": "2026-11-11T08:07:21.992795+00:00",
   "819c7c68d2029b76": "2026-11-11T08:07:21.992795+00:00",
   "bc334f28ad5c1ed3": "2026-11-11T08:07:21.992795+00:00",
-  "8b0cae713c3cde2e": "2026-11-11T08:07:21.992795+00:00"
+  "8b0cae713c3cde2e": "2026-11-11T08:07:21.992795+00:00",
+  "7a4feca4106608d3": "2026-11-11T08:37:20.546395+00:00",
+  "3b1e7c7289ab7395": "2026-11-11T08:37:20.546395+00:00",
+  "7ddc4739acd4e8ed": "2026-11-11T08:37:20.546395+00:00",
+  "f24c427e17ad49ed": "2026-11-11T08:37:20.546395+00:00",
+  "0ae6b047c3e55654": "2026-11-11T08:37:20.546395+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia announces planned investments in South Korean AI startups",
-   "ts": "2026-11-09T08:37:20.636253+00:00"
-  },
   {
    "headline": "Sakana AI plans 2027 IPO in Japan or US",
    "ts": "2026-11-09T09:07:22.412222+00:00"
@@ -1235,11 +1236,15 @@
   {
    "headline": "Anthropic targets $3 billion in Japan IPO",
    "ts": "2026-11-11T08:07:21.992795+00:00"
+  },
+  {
+   "headline": "Madras High Court flags AI public library books",
+   "ts": "2026-11-11T08:37:20.546395+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2504,15 +2509,15 @@
  },
  "pending": [
   {
-   "id": "0ae6b047c3e55654",
+   "id": "786b78d6c6e60a44",
    "item": {
-    "id": "0ae6b047c3e55654",
-    "title": "Madras High Court flags fake, AI-generated books in public libraries, orders FIR",
-    "url": "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/",
-    "source": "MediaNama",
+    "id": "786b78d6c6e60a44",
+    "title": "Nobel laureate validates OpenAI's AI-generated Yang-Mills proof, but $1 million problem remains open",
+    "url": "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11?utm_source=rss",
+    "source": "India Today",
     "image": "",
-    "snippet": "The Madras High Court has ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered an FIR into alleged fraudulent book purchases in Tamil Nadu The post Madras High Court flags fake, AI-generated books in public libraries, orders FIR appeared first on MEDIANAMA .",
-    "published": "2026-11-11T07:48:12+00:00",
+    "snippet": "Nobel laureate validates OpenAI's AI-generated Yang-Mills proof, but $1 million problem remains open",
+    "published": "2026-11-11T08:32:26+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2520,13 +2525,13 @@
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Madras High Court flags AI public library books",
-   "post": "The Madras High Court ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered a First Information Report into alleged fraudulent book purchases in Tamil Nadu.",
-   "editor_note": "Confirm the specifics of the FIR orders and the exact scope of the library procurement ban in Tamil Nadu.",
-   "published_at": "2026-11-11T07:48:12+00:00",
-   "first_seen_at": "2026-11-11T08:07:21.992795+00:00",
-   "expires_at": "2026-11-12T19:48:12+00:00",
-   "priority": 8.491127,
+   "headline": "Nobel laureate validates OpenAI proof on Yang-Mills problem",
+   "post": "A Nobel laureate has validated an AI-generated proof produced by OpenAI related to the Yang-Mills problem, though the broader Millennium Prize problem remains unresolved.",
+   "editor_note": "Verify which Nobel laureate validated the proof and the specific scope of the partial proof.",
+   "published_at": "2026-11-11T08:32:26+00:00",
+   "first_seen_at": "2026-11-11T08:37:20.546395+00:00",
+   "expires_at": "2026-11-12T20:32:26+00:00",
+   "priority": 8.497727,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2552,8 +2557,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.624887,
-   "selection_reason": "Time-sensitive story; waiting 7.0h"
+   "priority": 7.642234,
+   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2579,8 +2584,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.593,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.610347,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2605,8 +2610,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.580279,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.597626,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2631,8 +2636,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.57497,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.592317,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2658,8 +2663,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.561876,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.579223,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2686,8 +2691,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.415388,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.410184,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2712,8 +2717,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.331632,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.321224,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2738,8 +2743,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.302616,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.288738,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2764,8 +2769,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.288025,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.274147,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2790,8 +2795,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.216327,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.202449,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2816,8 +2821,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.209553,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.195675,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2842,8 +2847,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.185255,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.171377,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2870,8 +2875,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.165388,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.160184,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2898,8 +2903,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.165388,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.160184,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2925,8 +2930,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.15321,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.139332,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2951,8 +2956,34 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.079522,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.065644,
+   "selection_reason": "Editorial importance; waiting 24.0h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 7.05071,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2978,34 +3009,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.048187,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "75611a00ad611de2",
-   "item": {
-    "id": "75611a00ad611de2",
-    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
-    "published": "2026-11-10T18:41:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
-   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
-   "editor_note": "Verify model release status and availability of weights or API.",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.033362,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.034309,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3031,87 +3036,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.02365,
-   "selection_reason": "Editorial importance; waiting 26.0h"
-  },
-  {
-   "id": "6ea215fc0134acc4",
-   "item": {
-    "id": "6ea215fc0134acc4",
-    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
-    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
-    "published": "2026-11-10T05:02:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "MiaoDong Tech launches Beni tracking robot",
-   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
-   "editor_note": "Check availability details and specific currency limits for international buyers.",
-   "published_at": "2026-11-10T05:02:00+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.997515,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "c1692305c9ca30c3",
-   "item": {
-    "id": "c1692305c9ca30c3",
-    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-    "source": "Wired",
-    "image": "",
-    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-    "published": "2026-11-10T05:01:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google DeepMind AI tool formally verifies Signal protocol security",
-   "post": "Google DeepMind researchers used a formal verification AI tool to confirm that the Signal encryption protocol operates securely as intended.",
-   "editor_note": "Confirm the specific verification methodology used by the DeepMind research team.",
-   "published_at": "2026-11-10T05:01:00+00:00",
-   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
-   "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.997053,
-   "selection_reason": "Editorial importance; waiting 27.0h"
-  },
-  {
-   "id": "4ee7db6e89d552be",
-   "item": {
-    "id": "4ee7db6e89d552be",
-    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "published": "2026-11-10T04:29:06+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
-   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
-   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
-   "published_at": "2026-11-10T04:29:06+00:00",
-   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
-   "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.982284,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.009772,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3197,8 +3123,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.976565,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.997382,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3223,8 +3149,87 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.968757,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.986104,
+   "selection_reason": "Editorial importance; waiting 6.5h"
+  },
+  {
+   "id": "6ea215fc0134acc4",
+   "item": {
+    "id": "6ea215fc0134acc4",
+    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
+    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
+    "published": "2026-11-10T05:02:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "MiaoDong Tech launches Beni tracking robot",
+   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
+   "editor_note": "Check availability details and specific currency limits for international buyers.",
+   "published_at": "2026-11-10T05:02:00+00:00",
+   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
+   "expires_at": "2026-11-11T17:02:00+00:00",
+   "priority": 6.983638,
+   "selection_reason": "Editorial importance; waiting 25.5h"
+  },
+  {
+   "id": "c1692305c9ca30c3",
+   "item": {
+    "id": "c1692305c9ca30c3",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "source": "Wired",
+    "image": "",
+    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "published": "2026-11-10T05:01:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google DeepMind AI tool formally verifies Signal protocol security",
+   "post": "Google DeepMind researchers used a formal verification AI tool to confirm that the Signal encryption protocol operates securely as intended.",
+   "editor_note": "Confirm the specific verification methodology used by the DeepMind research team.",
+   "published_at": "2026-11-10T05:01:00+00:00",
+   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
+   "expires_at": "2026-11-11T17:01:00+00:00",
+   "priority": 6.983175,
+   "selection_reason": "Editorial importance; waiting 27.5h"
+  },
+  {
+   "id": "4ee7db6e89d552be",
+   "item": {
+    "id": "4ee7db6e89d552be",
+    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "published": "2026-11-10T04:29:06+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
+   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
+   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
+   "published_at": "2026-11-10T04:29:06+00:00",
+   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
+   "expires_at": "2026-11-11T16:29:06+00:00",
+   "priority": 6.968406,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3335,11 +3340,21 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.768232,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.789049,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/",
+   "source": "MediaNama",
+   "kind": "takes",
+   "title": "Madras High Court flags fake, AI-generated books in public libraries, orders FIR",
+   "summary": "The Madras High Court has ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered an FIR into alleged fraudulent book purchases in Tamil Nadu The post Madras High Court flags fake, AI-generated books in public libraries, orders FIR appeared first on MEDIANAMA .",
+   "queued_at": "2026-11-11T08:37:20.546395+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
