@@ -1090,17 +1090,41 @@
   "f95e4a530b1c9c51": "2026-11-11T14:07:22.686423+00:00",
   "20cdc78a84d4d406": "2026-11-11T14:07:22.686423+00:00",
   "450a9863af999dab": "2026-11-11T14:07:22.686423+00:00",
-  "1a2976e6daf3223d": "2026-11-11T14:07:22.686423+00:00"
+  "1a2976e6daf3223d": "2026-11-11T14:07:22.686423+00:00",
+  "6e11a23c0428f7b6": "2026-11-11T16:07:22.427352+00:00",
+  "bad6ee94c35695d3": "2026-11-11T16:07:22.427352+00:00",
+  "342e9432073189d3": "2026-11-11T16:07:22.427352+00:00",
+  "d2296a64c0dc3b89": "2026-11-11T16:07:22.427352+00:00",
+  "7026ee2cddf14dd4": "2026-11-11T16:07:22.427352+00:00",
+  "781844fdfff71ed3": "2026-11-11T16:07:22.427352+00:00",
+  "6734a79295b9f50e": "2026-11-11T16:07:22.427352+00:00",
+  "2955758e7211a5a1": "2026-11-11T16:07:22.427352+00:00",
+  "8b85419fd1c2dd78": "2026-11-11T16:07:22.427352+00:00",
+  "73433ebbd9914dd0": "2026-11-11T16:07:22.427352+00:00",
+  "be0f46d5326970c9": "2026-11-11T16:07:22.427352+00:00",
+  "2b39037e3f93bb52": "2026-11-11T16:07:22.427352+00:00",
+  "2578f81cb3bfb716": "2026-11-11T16:07:22.427352+00:00",
+  "7171fc0535188e20": "2026-11-11T16:07:22.427352+00:00",
+  "3bf3c6b59b8029a8": "2026-11-11T16:07:22.427352+00:00",
+  "09010e41873836a2": "2026-11-11T16:07:22.427352+00:00",
+  "6619f09dbc0d0a8f": "2026-11-11T16:07:22.427352+00:00",
+  "8ebecf97e9cb8265": "2026-11-11T16:07:22.427352+00:00",
+  "06ed8415cc86e112": "2026-11-11T16:07:22.427352+00:00",
+  "8042bc4c99277391": "2026-11-11T16:07:22.427352+00:00",
+  "4878c495cef54ff1": "2026-11-11T16:07:22.427352+00:00",
+  "7c84861ca74ffc62": "2026-11-11T16:07:22.427352+00:00",
+  "04a04c6e0a8889e9": "2026-11-11T16:07:22.427352+00:00",
+  "7943974b7f99b5f8": "2026-11-11T16:07:22.427352+00:00",
+  "0d614d490a8c5790": "2026-11-11T16:07:22.427352+00:00",
+  "d287b226cd6b6fb7": "2026-11-11T16:07:22.427352+00:00",
+  "e93ab3188f132b18": "2026-11-11T16:07:22.427352+00:00",
+  "0ccfb511c0c877ba": "2026-11-11T16:07:22.427352+00:00",
+  "f26cf0ee089c4eaf": "2026-11-11T16:07:22.427352+00:00",
+  "ed0846d8533757ef": "2026-11-11T16:07:22.427352+00:00",
+  "e879c6fc35d4933f": "2026-11-11T16:07:22.427352+00:00",
+  "a86af765ffafecba": "2026-11-11T16:07:22.427352+00:00"
  },
  "covered": [
-  {
-   "headline": "Adobe embeds CX Enterprise Coworker across major AI platforms",
-   "ts": "2026-11-09T15:37:27.777087+00:00"
-  },
-  {
-   "headline": "Disney and Adobe partner for generative AI production tools",
-   "ts": "2026-11-09T16:07:28.073613+00:00"
-  },
   {
    "headline": "Northern Trust and Microsoft partner for client onboarding AI",
    "ts": "2026-11-09T16:37:26.572504+00:00"
@@ -1324,11 +1348,15 @@
   {
    "headline": "Torus raises $500 million for modular AI data center units",
    "ts": "2026-11-11T14:07:22.686423+00:00"
+  },
+  {
+   "headline": "Google DeepMind releases AlphaGenome 2 for DNA sequence modeling",
+   "ts": "2026-11-11T16:07:22.427352+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 26
+  "count": 27
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2637,8 +2665,8 @@
    "published_at": "2026-11-11T12:53:07+00:00",
    "first_seen_at": "2026-11-11T13:07:23.466854+00:00",
    "expires_at": "2026-11-13T00:53:07+00:00",
-   "priority": 7.580185,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.597548,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "281df356d71debbc",
@@ -2663,8 +2691,8 @@
    "published_at": "2026-11-11T13:51:11+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:51:11+00:00",
-   "priority": 7.544581,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.561944,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "7218220fa4fbbf3e",
@@ -2689,8 +2717,8 @@
    "published_at": "2026-11-11T13:50:30+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:50:30+00:00",
-   "priority": 7.544264,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.561628,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2715,8 +2743,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.520916,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.538279,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2743,8 +2771,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.337262,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.332053,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2769,8 +2797,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.229096,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.215205,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2795,8 +2823,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.175381,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.164963,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2821,34 +2849,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.168749,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "af7403b4563990ca",
-   "item": {
-    "id": "af7403b4563990ca",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "published": "2026-11-10T17:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude Meetings for workplace tasks",
-   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
-   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.135477,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.154858,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2934,19 +2936,19 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.132858,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.12244,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
-   "id": "219c9a34cdd05da5",
+   "id": "af7403b4563990ca",
    "item": {
-    "id": "219c9a34cdd05da5",
-    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
-    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
-    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
-    "published": "2026-11-10T16:01:01+00:00",
+    "id": "af7403b4563990ca",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "published": "2026-11-10T17:30:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2954,14 +2956,14 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Graphon raises 35 million dollars in funding",
-   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
-   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
-   "published_at": "2026-11-10T16:01:01+00:00",
-   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
-   "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.094281,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "headline": "Anthropic launches Claude Meetings for workplace tasks",
+   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
+   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T05:30:00+00:00",
+   "priority": 7.121586,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2988,8 +2990,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.087262,
-   "selection_reason": "Editorial importance; waiting 37.0h"
+   "priority": 7.082053,
+   "selection_reason": "Editorial importance; waiting 37.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3016,8 +3018,34 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.087262,
-   "selection_reason": "Editorial importance; waiting 37.0h"
+   "priority": 7.082053,
+   "selection_reason": "Editorial importance; waiting 37.5h"
+  },
+  {
+   "id": "219c9a34cdd05da5",
+   "item": {
+    "id": "219c9a34cdd05da5",
+    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
+    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
+    "published": "2026-11-10T16:01:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Graphon raises 35 million dollars in funding",
+   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
+   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
+   "published_at": "2026-11-10T16:01:01+00:00",
+   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
+   "expires_at": "2026-11-12T04:01:01+00:00",
+   "priority": 7.08039,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -3042,8 +3070,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.07969,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.065799,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3068,8 +3096,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.007992,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.994102,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3094,8 +3122,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.001218,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.987327,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3120,8 +3148,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 6.97692,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.963029,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3147,8 +3175,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.944875,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.930984,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3259,8 +3287,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.924524,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 6.914106,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3285,8 +3313,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.871187,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.857296,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3312,8 +3340,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.839852,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.825961,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3339,8 +3367,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.815315,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.801424,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3366,8 +3394,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.789181,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.77529,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3392,8 +3420,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.788718,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 6.774827,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3418,11 +3446,21 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.773949,
-   "selection_reason": "Editorial importance; waiting 35.0h"
+   "priority": 6.760058,
+   "selection_reason": "Editorial importance; waiting 35.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind",
+   "kind": "pack",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "summary": "AlphaGenome 2 is our next-generation DNA sequence model that bridges single-cell biology and human genetics, predicting how variants affect human cell types.",
+   "queued_at": "2026-11-11T16:07:22.427352+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
