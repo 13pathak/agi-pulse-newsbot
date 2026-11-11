@@ -903,13 +903,17 @@
   "728902a41063df10": "2026-11-11T02:07:25.142064+00:00",
   "b04b945457ccf153": "2026-11-11T02:07:25.142064+00:00",
   "661f340c132f6a4d": "2026-11-11T02:07:25.142064+00:00",
-  "02e4a20d191af380": "2026-11-11T02:07:25.142064+00:00"
+  "02e4a20d191af380": "2026-11-11T02:07:25.142064+00:00",
+  "097068809c8c60d2": "2026-11-11T02:37:21.023674+00:00",
+  "987227f420d046c2": "2026-11-11T02:37:21.023674+00:00",
+  "85a2b2a3df6ac8c7": "2026-11-11T02:37:21.023674+00:00",
+  "b4aa88813ddce9cb": "2026-11-11T02:37:21.023674+00:00",
+  "5d7b0d5dcd71f703": "2026-11-11T02:37:21.023674+00:00",
+  "9f049fd286ba871e": "2026-11-11T02:37:21.023674+00:00",
+  "eb2075cc76b3cdb8": "2026-11-11T02:37:21.023674+00:00",
+  "c3f7c1329fa47180": "2026-11-11T02:37:21.023674+00:00"
  },
  "covered": [
-  {
-   "headline": "South Korea confirms arrival of 10,000 Nvidia GPUs",
-   "ts": "2026-11-09T02:37:21.419191+00:00"
-  },
   {
    "headline": "Nvidia board investigates CEO Jensen Huang over admitted affair",
    "ts": "2026-11-09T03:37:21.287180+00:00"
@@ -1121,11 +1125,15 @@
   {
    "headline": "Google Cloud launches Gemini for healthcare workflows",
    "ts": "2026-11-11T02:07:25.142064+00:00"
+  },
+  {
+   "headline": "OpenAI reports 10 billion dollar Q3 revenue alongside growing losses",
+   "ts": "2026-11-11T02:37:21.023674+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2353,45 +2361,6 @@
  },
  "pending": [
   {
-   "id": "eb2075cc76b3cdb8",
-   "item": {
-    "id": "eb2075cc76b3cdb8",
-    "title": "OpenAI Revenue Jumps to $10 Billion in Third Quarter Amid Growing Losses",
-    "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter",
-    "source": "The Information",
-    "image": "",
-    "snippet": "OpenAI has told investors that revenue jumped nearly 50% to $10 billion in the third quarter, rebounding from a period of slower growth as demand for its more recent models and enterprise products picked up, according to a person familiar with the matter. However, the company’s operating losses also grew during the third quarter from $10.1 billion to $10.9 billion, the person said, demonstrating h…",
-    "published": "2026-11-10T21:07:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "c3f7c1329fa47180",
-     "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "OpenAI’s quarterly revenue hit $10 billion for the first time in the three months ending in September, according to people familiar with the matter, driven by strong demand for its latest artificial intelligence software.",
-     "published": "2026-11-10T22:33:06+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "OpenAI reports 10 billion dollar Q3 revenue alongside growing losses",
-   "post": "OpenAI told investors its third-quarter revenue grew nearly 50% quarter-over-quarter to $10 billion, driven by demand for enterprise products and newer models. Operating losses for the quarter rose from $10.1 billion to $10.9 billion.",
-   "editor_note": "Verify Q3 revenue growth rate and exact operating loss figures.",
-   "published_at": "2026-11-10T21:07:30+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T09:07:30+00:00",
-   "priority": 8.392482,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "c06c1375a8dda558",
    "item": {
     "id": "c06c1375a8dda558",
@@ -2415,8 +2384,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.356233,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.342376,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "35f00681774962fa",
@@ -2441,8 +2410,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.349667,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.33581,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "82110824f2abb129",
@@ -2467,7 +2436,7 @@
    "published_at": "2026-11-10T16:59:43+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T16:59:43+00:00",
-   "priority": 8.309826,
+   "priority": 8.330611,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2493,7 +2462,33 @@
    "published_at": "2026-11-10T18:39:07+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T06:39:07+00:00",
-   "priority": 8.292453,
+   "priority": 8.309774,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "d711ebe1a1aa86cf",
+   "item": {
+    "id": "d711ebe1a1aa86cf",
+    "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
+    "url": "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Anthropic in the past month inked new commitments with Microsoft and Google to spend roughly $10 billion more to rent cloud servers between now and 2033 than it previously disclosed, the company said in a filing on Tuesday. At the same time, Anthropic said a $34.9 billion agreement to lease ...",
+    "published": "2026-11-10T17:39:39+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
+   "post": "Anthropic disclosed in a regulatory filing that it committed an additional $10 billion to rent cloud servers from Microsoft and Google through 2033. The company also stated a $34.9 billion server lease deal with Lambda may be cancelled.",
+   "editor_note": "Verify filing details regarding the potential cancellation of the $34.9B Lambda agreement.",
+   "published_at": "2026-11-10T17:39:39+00:00",
+   "first_seen_at": "2026-11-11T02:37:21.023674+00:00",
+   "expires_at": "2026-11-12T05:39:39+00:00",
+   "priority": 8.251065,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2544,8 +2539,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.025806,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 8.046591,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2570,8 +2565,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.860902,
-   "selection_reason": "Time-sensitive story; waiting 10.5h"
+   "priority": 7.878223,
+   "selection_reason": "Time-sensitive story; waiting 11.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2596,8 +2591,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.844241,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "priority": 7.861562,
+   "selection_reason": "Time-sensitive story; waiting 10.5h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2623,7 +2618,7 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.499706,
+   "priority": 7.517027,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2651,8 +2646,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.477879,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.472682,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2677,8 +2672,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.456614,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.446221,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2703,8 +2698,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.416584,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.433906,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2729,8 +2724,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.38297,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.369112,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2755,8 +2750,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.376195,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.362338,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2781,8 +2776,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.351897,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.33804,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2808,8 +2803,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.319852,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.305995,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2834,7 +2829,7 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.260454,
+   "priority": 7.277776,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2860,8 +2855,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.246164,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.232307,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2888,8 +2883,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.227879,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.222682,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2916,8 +2911,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.227879,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.222682,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2943,8 +2938,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.214829,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.200972,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2970,8 +2965,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.190292,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.176435,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2997,8 +2992,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.164158,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.150301,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3023,8 +3018,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.163695,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.149838,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3049,8 +3044,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.148926,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.135069,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -3075,33 +3070,7 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.856789,
-   "selection_reason": "Editorial importance; waiting 24.5h"
-  },
-  {
-   "id": "1f917ef42e116f1b",
-   "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.84121,
+   "priority": 6.842932,
    "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
@@ -3127,8 +3096,34 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.825059,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.842381,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "1f917ef42e116f1b",
+   "item": {
+    "id": "1f917ef42e116f1b",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
+    "published": "2026-11-09T17:24:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
+   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
+   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T05:24:26+00:00",
+   "priority": 6.827353,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3202,8 +3197,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.726602,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.747388,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3302,19 +3297,20 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.518269,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.539054,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
-  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": "2026-11-11T02:07:50.907396+00:00"
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": "2026-11-11T02:07:50.907396+00:00",
+  "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter": "2026-11-11T02:38:18.956197+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 1,
-  "takes": 2
+  "takes": 3
  }
 }
