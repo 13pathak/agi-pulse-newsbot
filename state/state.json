@@ -937,7 +937,18 @@
   "cd94d5a2b6a2b91b": "2026-11-11T04:37:22.558678+00:00",
   "30813aa5a082e1a5": "2026-11-11T04:37:22.558678+00:00",
   "b4712cce82ac038d": "2026-11-11T04:37:22.558678+00:00",
-  "d711ebe1a1aa86cf": "2026-11-11T04:37:22.558678+00:00"
+  "d711ebe1a1aa86cf": "2026-11-11T04:37:22.558678+00:00",
+  "b22522d14a17f95f": "2026-11-11T05:07:24.742377+00:00",
+  "be778195d83e2688": "2026-11-11T05:07:24.742377+00:00",
+  "3159835e3e2f5940": "2026-11-11T05:07:24.742377+00:00",
+  "8c2c1131fcdc528f": "2026-11-11T05:07:24.742377+00:00",
+  "3b0036c117ed5e92": "2026-11-11T05:07:24.742377+00:00",
+  "8aac1a99f983ac78": "2026-11-11T05:07:24.742377+00:00",
+  "307bb581ca5922a6": "2026-11-11T05:07:24.742377+00:00",
+  "0e98438a8fc7b31b": "2026-11-11T05:07:24.742377+00:00",
+  "4de69104b7845815": "2026-11-11T05:07:24.742377+00:00",
+  "9083fc7c8698191e": "2026-11-11T05:07:24.742377+00:00",
+  "c06c1375a8dda558": "2026-11-11T05:07:24.742377+00:00"
  },
  "covered": [
   {
@@ -1163,11 +1174,15 @@
   {
    "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
    "ts": "2026-11-11T04:37:22.558678+00:00"
+  },
+  {
+   "headline": "TSMC board approves investment in OpenAI special shares",
+   "ts": "2026-11-11T05:07:24.742377+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2391,36 +2406,16 @@
    "desc": "We are launching the Artificial Analysis Endpoint Accuracy Index v1.1, a minor version upgrade alongside new coverage for GLM-5.3 Flash and Muse Spark Open.",
    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/aba1563e04059d3d4b0a1766ca877c70af4130bc-1254x1254.png?w=1200&auto=format",
    "published": "2026-11-09T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/qvac/botpsy": {
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "desc": "A Blog post by QVAC on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+   "published": "2026-11-11T05:01:16.152000+00:00",
+   "excerpt": "Frontier cloud LLMs carry high operational costs that can fluctuate unexpectedly, and relying on such third-party models introduces vulnerabilities, as providers can modify, deny, or deprecate access at any time. Furthermore, proprietary models offer limited customization for specific workflows, while posing risks to privacy, data control, and transparency. Besides, not every task demands frontier-level intelligence: small, specialized agents can be equally capable on specific tasks and significantly cheaper to run, since many routine or smaller workloads can be processed efficiently on-device. As intelligence per parameter continues to improve rapidly, we aim to stand at the forefront of this shift toward performant, privacy-focused, self-hosted models. Tether AI Research introduces BotPs…"
   }
  },
  "pending": [
-  {
-   "id": "c06c1375a8dda558",
-   "item": {
-    "id": "c06c1375a8dda558",
-    "title": "台积电：董事会核准以不超5亿美元认购OpenAI特别股股份",
-    "url": "https://36kr.com/newsflashes/4063884296230020?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "台积电11月10日公告，董事会核准以不超过5亿美元的额度认购OpenAI特别股股份。（界面）",
-    "published": "2026-11-10T11:56:53+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "TSMC board approves investment in OpenAI special shares",
-   "post": "TSMC's board of directors approved a subscription of up to $500 million in OpenAI special shares, according to a company announcement.",
-   "editor_note": "Verify the exact equity share class and whether the subscription is part of a broader funding round.",
-   "published_at": "2026-11-10T11:56:53+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.286809,
-   "selection_reason": "Editorial importance; waiting 16.0h"
-  },
   {
    "id": "35f00681774962fa",
    "item": {
@@ -2444,8 +2439,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.280243,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 8.266337,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2495,8 +2490,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.067503,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 8.057073,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2522,8 +2517,8 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.586486,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.603869,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2548,8 +2543,35 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.503365,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.520747,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
+  },
+  {
+   "id": "9e447f3c0b388572",
+   "item": {
+    "id": "9e447f3c0b388572",
+    "title": "北京：新增建设总规模超过50000PFlops的具身智能专用算力集群",
+    "url": "https://36kr.com/newsflashes/4064873704297602?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，《北京市具身智能机器人产业高质量发展行动方案（2026—2028年）》印发，方案提出，加大专用算力资源保障力度。新增建设总规模超过50000PFlops的具身智能专用算力集群，进一步加强高质量具身智能算力保障。推动具身智能重点企业与重点算力节点项目建设单位，以“结对子”方式形成算力供需协同。通过“银河算廊”工程与京外算力集聚城市开展算力协作，为具身智能企业对接国内优质算力资源。",
+    "published": "2026-11-11T04:43:21+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Beijing plans 50000 PFLOPS embodied AI compute cluster",
+   "post": "Beijing published a 2026–2028 action plan for embodied robotics, which includes building dedicated AI computing clusters totaling over 50,000 PFLOPS to support local robotics companies.",
+   "editor_note": "Verify whether 50,000 PFLOPS refers to INT8, FP16, or FP64 precision, as official municipal plan excerpts rarely specify precision metrics.",
+   "published_at": "2026-11-11T04:43:21+00:00",
+   "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
+   "expires_at": "2026-11-12T16:43:21+00:00",
+   "priority": 7.48886,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2576,8 +2598,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.451844,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.44663,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2602,8 +2624,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.404545,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.394116,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2628,8 +2650,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.399834,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.385928,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2654,8 +2676,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.385243,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.371337,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2680,8 +2702,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.347235,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.364617,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2706,8 +2728,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.313545,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.299639,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2732,8 +2754,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.30677,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.292865,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2758,8 +2780,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.282473,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.268567,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2785,8 +2807,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.250428,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.236522,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2813,8 +2835,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.201844,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.19663,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2841,8 +2863,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.201844,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.19663,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2867,8 +2889,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.17674,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.162834,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2894,8 +2916,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.145405,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.131499,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2921,8 +2943,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.120868,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.106962,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2948,8 +2970,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.094733,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.080828,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2974,8 +2996,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.09427,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.080365,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3000,8 +3022,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.079502,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.065596,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3026,8 +3048,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.91184,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.929222,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3113,8 +3135,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.830739,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.851597,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -3139,8 +3161,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.787365,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.773459,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -3165,8 +3187,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.771786,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.75788,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3277,8 +3299,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.622405,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.643264,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
  "details_queue": [],
