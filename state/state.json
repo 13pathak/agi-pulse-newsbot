@@ -926,7 +926,12 @@
   "13fc76caec96a247": "2026-11-11T03:37:22.995445+00:00",
   "21002a8e1dc5cd7d": "2026-11-11T03:37:22.995445+00:00",
   "de567c4fcab87022": "2026-11-11T03:37:22.995445+00:00",
-  "82110824f2abb129": "2026-11-11T03:37:22.995445+00:00"
+  "82110824f2abb129": "2026-11-11T03:37:22.995445+00:00",
+  "0e37bd4bf11cb308": "2026-11-11T04:07:21.533896+00:00",
+  "9af3f2a52cb51605": "2026-11-11T04:07:21.533896+00:00",
+  "3554707bed300e9b": "2026-11-11T04:07:21.533896+00:00",
+  "aeb8dd326aa4da02": "2026-11-11T04:07:21.533896+00:00",
+  "2a540ad394ed02ce": "2026-11-11T04:07:21.533896+00:00"
  },
  "covered": [
   {
@@ -1148,11 +1153,15 @@
   {
    "headline": "TCS builds agentic test orchestrator on Amazon Bedrock",
    "ts": "2026-11-11T03:37:22.995445+00:00"
+  },
+  {
+   "headline": "OpenAI acquires AI travel planning platform Odessia",
+   "ts": "2026-11-11T04:07:21.533896+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2380,15 +2389,15 @@
  },
  "pending": [
   {
-   "id": "2a540ad394ed02ce",
+   "id": "d711ebe1a1aa86cf",
    "item": {
-    "id": "2a540ad394ed02ce",
-    "title": "OpenAI Acquires AI Travel Agent Odessia",
-    "url": "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia",
+    "id": "d711ebe1a1aa86cf",
+    "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
+    "url": "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled",
     "source": "The Information",
     "image": "",
-    "snippet": "OpenAI has acquired the AI travel planning platform Odessia, Odessia’s founder Francis Davidson announced on Tuesday. Davidson will be joining OpenAI to focus on “the future of travel,” he said in an X post. Davidson founded Odessia earlier this year. The platform uses AI to help users plan and ...",
-    "published": "2026-11-10T18:39:07+00:00",
+    "snippet": "Anthropic in the past month inked new commitments with Microsoft and Google to spend roughly $10 billion more to rent cloud servers between now and 2033 than it previously disclosed, the company said in a filing on Tuesday. At the same time, Anthropic said a $34.9 billion agreement to lease ...",
+    "published": "2026-11-10T17:39:39+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2396,13 +2405,13 @@
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "OpenAI acquires AI travel planning platform Odessia",
-   "post": "OpenAI has acquired AI travel planning platform Odessia, founded by Francis Davidson. Davidson will join OpenAI to lead work on travel applications.",
-   "editor_note": "Verify transaction terms if disclosed by OpenAI or founder Francis Davidson.",
-   "published_at": "2026-11-10T18:39:07+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T06:39:07+00:00",
-   "priority": 8.344515,
+   "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
+   "post": "Anthropic disclosed in a regulatory filing that it committed an additional $10 billion to rent cloud servers from Microsoft and Google through 2033. The company also stated a $34.9 billion server lease deal with Lambda may be cancelled.",
+   "editor_note": "Verify filing details regarding the potential cancellation of the $34.9B Lambda agreement.",
+   "published_at": "2026-11-10T17:39:39+00:00",
+   "first_seen_at": "2026-11-11T02:37:21.023674+00:00",
+   "expires_at": "2026-11-12T05:39:39+00:00",
+   "priority": 8.303153,
    "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
@@ -2429,8 +2438,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.314583,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 8.300706,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "35f00681774962fa",
@@ -2455,34 +2464,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.308017,
-   "selection_reason": "Editorial importance; waiting 15.0h"
-  },
-  {
-   "id": "d711ebe1a1aa86cf",
-   "item": {
-    "id": "d711ebe1a1aa86cf",
-    "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
-    "url": "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Anthropic in the past month inked new commitments with Microsoft and Google to spend roughly $10 billion more to rent cloud servers between now and 2033 than it previously disclosed, the company said in a filing on Tuesday. At the same time, Anthropic said a $34.9 billion agreement to lease ...",
-    "published": "2026-11-10T17:39:39+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
-   "post": "Anthropic disclosed in a regulatory filing that it committed an additional $10 billion to rent cloud servers from Microsoft and Google through 2033. The company also stated a $34.9 billion server lease deal with Lambda may be cancelled.",
-   "editor_note": "Verify filing details regarding the potential cancellation of the $34.9B Lambda agreement.",
-   "published_at": "2026-11-10T17:39:39+00:00",
-   "first_seen_at": "2026-11-11T02:37:21.023674+00:00",
-   "expires_at": "2026-11-12T05:39:39+00:00",
-   "priority": 8.285806,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.294139,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2532,34 +2515,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.088281,
-   "selection_reason": "Editorial importance; waiting 12.0h"
-  },
-  {
-   "id": "219c9a34cdd05da5",
-   "item": {
-    "id": "219c9a34cdd05da5",
-    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
-    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
-    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
-    "published": "2026-11-10T16:01:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Graphon raises 35 million dollars in funding",
-   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
-   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
-   "published_at": "2026-11-10T16:01:01+00:00",
-   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
-   "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.896303,
-   "selection_reason": "Time-sensitive story; waiting 11.5h"
+   "priority": 8.077925,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2585,8 +2542,8 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.551768,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.569115,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2611,8 +2568,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.468647,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.485994,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2639,8 +2596,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.46226,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.457056,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2665,8 +2622,34 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.425376,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.414968,
+   "selection_reason": "Editorial importance; waiting 15.5h"
+  },
+  {
+   "id": "219c9a34cdd05da5",
+   "item": {
+    "id": "219c9a34cdd05da5",
+    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
+    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
+    "published": "2026-11-10T16:01:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Graphon raises 35 million dollars in funding",
+   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
+   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
+   "published_at": "2026-11-10T16:01:01+00:00",
+   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
+   "expires_at": "2026-11-12T04:01:01+00:00",
+   "priority": 7.41365,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2691,60 +2674,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.412965,
-   "selection_reason": "Editorial importance; waiting 12.0h"
-  },
-  {
-   "id": "48b75c7fc00d6548",
-   "item": {
-    "id": "48b75c7fc00d6548",
-    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
-    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
-    "published": "2026-11-10T12:54:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
-   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
-   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
-   "published_at": "2026-11-10T12:54:38+00:00",
-   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
-   "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.341319,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "2551552469f4fa95",
-   "item": {
-    "id": "2551552469f4fa95",
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "published": "2026-11-10T12:40:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
-   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
-   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
-   "published_at": "2026-11-10T12:40:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.334545,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.399139,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2769,8 +2700,60 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.312517,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.329864,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "48b75c7fc00d6548",
+   "item": {
+    "id": "48b75c7fc00d6548",
+    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
+    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
+    "published": "2026-11-10T12:54:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
+   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
+   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
+   "published_at": "2026-11-10T12:54:38+00:00",
+   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
+   "expires_at": "2026-11-12T00:54:38+00:00",
+   "priority": 7.327442,
+   "selection_reason": "Editorial importance; waiting 14.5h"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 7.320667,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2795,8 +2778,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.310247,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.296369,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2822,8 +2805,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.278202,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.264325,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2850,8 +2833,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.21226,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.207056,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2878,8 +2861,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.21226,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.207056,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2904,8 +2887,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.204514,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.190636,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2931,8 +2914,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.173179,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.159301,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2958,8 +2941,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.148642,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.134764,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2985,8 +2968,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.122508,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.10863,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3011,8 +2994,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.122045,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.108167,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3037,8 +3020,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.107276,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.093399,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3063,60 +3046,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.877122,
-   "selection_reason": "Editorial importance; waiting 2.0h"
-  },
-  {
-   "id": "cb7863665107d049",
-   "item": {
-    "id": "cb7863665107d049",
-    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "source": "The Guardian",
-    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
-    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
-    "published": "2026-11-09T17:58:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
-   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
-   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
-   "published_at": "2026-11-09T17:58:05+00:00",
-   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
-   "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.815139,
-   "selection_reason": "Editorial importance; waiting 26.0h"
-  },
-  {
-   "id": "1f917ef42e116f1b",
-   "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.79956,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.894469,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3190,8 +3121,60 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.789077,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.809893,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "cb7863665107d049",
+   "item": {
+    "id": "cb7863665107d049",
+    "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+    "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+    "source": "The Guardian",
+    "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+    "snippet": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter …",
+    "published": "2026-11-09T17:58:05+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Palantir Lobbied Minister to Extend AI Reach Into NHS GP Records",
+   "post": "WhatsApp messages indicate Palantir lobbied a health minister to consider extending its AI technology into NHS general practice records.",
+   "editor_note": "Verify attribution to specific WhatsApp messages and minister involvement.",
+   "published_at": "2026-11-09T17:58:05+00:00",
+   "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
+   "expires_at": "2026-11-11T05:58:05+00:00",
+   "priority": 6.801261,
+   "selection_reason": "Editorial importance; waiting 26.5h"
+  },
+  {
+   "id": "1f917ef42e116f1b",
+   "item": {
+    "id": "1f917ef42e116f1b",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
+    "published": "2026-11-09T17:24:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
+   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
+   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
+   "expires_at": "2026-11-11T05:24:26+00:00",
+   "priority": 6.785683,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3302,8 +3285,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.580744,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.60156,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [],
@@ -3313,11 +3296,12 @@
   "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": "2026-11-11T02:07:50.907396+00:00",
   "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter": "2026-11-11T02:38:18.956197+00:00",
   "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00",
-  "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00"
+  "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00",
+  "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 2,
-  "takes": 4
+  "takes": 5
  }
 }
