@@ -979,7 +979,19 @@
   "6ee7f1c7237f08bd": "2026-11-11T06:37:26.026765+00:00",
   "7da1b2b4758f6148": "2026-11-11T06:37:26.026765+00:00",
   "0f696e8c856711df": "2026-11-11T06:37:26.026765+00:00",
-  "8ab9bda3b9d181f1": "2026-11-11T06:37:26.026765+00:00"
+  "8ab9bda3b9d181f1": "2026-11-11T06:37:26.026765+00:00",
+  "4e3e5904c85ae763": "2026-11-11T07:37:22.274032+00:00",
+  "4aaf49b1556fab6d": "2026-11-11T07:37:22.274032+00:00",
+  "e28ff692f1183bac": "2026-11-11T07:37:22.274032+00:00",
+  "e3a13040714b1d87": "2026-11-11T07:37:22.274032+00:00",
+  "950bd6c61f5f06f2": "2026-11-11T07:37:22.274032+00:00",
+  "1713021ae378009e": "2026-11-11T07:37:22.274032+00:00",
+  "d03bc3f1122697de": "2026-11-11T07:37:22.274032+00:00",
+  "7ef4dd4a5b6926c2": "2026-11-11T07:37:22.274032+00:00",
+  "ef46a0f45928e7db": "2026-11-11T07:37:22.274032+00:00",
+  "2402db50358dd631": "2026-11-11T07:37:22.274032+00:00",
+  "bdf2c45c8fe40954": "2026-11-11T07:37:22.274032+00:00",
+  "650eadc38ca64367": "2026-11-11T07:37:22.274032+00:00"
  },
  "covered": [
   {
@@ -1213,11 +1225,15 @@
   {
    "headline": "Google DeepMind unveils Gemini Robotics 2.5 platform",
    "ts": "2026-11-11T06:37:26.026765+00:00"
+  },
+  {
+   "headline": "Daylight Security raises 80 million dollars in B round",
+   "ts": "2026-11-11T07:37:22.274032+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2470,33 +2486,6 @@
  },
  "pending": [
   {
-   "id": "650eadc38ca64367",
-   "item": {
-    "id": "650eadc38ca64367",
-    "title": "高盛领投网络安全初创企业Daylight Security，后者估值达4亿美元",
-    "url": "https://36kr.com/newsflashes/4064719784711043?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "知情人士透露，高盛集团增长股权投资部门牵头对网络安全初创公司Daylight Security开展8000万美元B轮融资。这家总部位于纽约的企业本轮投后估值约4亿美元，融资完成后，公司累计融资总额达1.2亿美元。该公司客户包括AI代码生成初创企业Lovable、索尼旗下动漫流媒体平台Crunchyroll以及体验管理平台Qualtrics。（新浪财经）",
-    "published": "2026-11-11T02:06:47+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Daylight Security raises 80 million dollars in B round",
-   "post": "Cybersecurity startup Daylight Security raised 80 million dollars in a Series B round led by Goldman Sachs, reaching a valuation of 400 million dollars.",
-   "editor_note": "Verify total cumulative funding amount reported at 120 million dollars post-round.",
-   "published_at": "2026-11-11T02:06:47+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.673287,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
-  },
-  {
    "id": "c012fc7ecd62b33e",
    "item": {
     "id": "c012fc7ecd62b33e",
@@ -2519,8 +2508,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.590166,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.607529,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2546,8 +2535,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.558278,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.575642,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2572,8 +2561,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.545557,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.56292,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2598,8 +2587,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.540248,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.557612,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2625,8 +2614,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.527154,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.544518,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2653,8 +2642,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.425804,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.420595,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2679,8 +2668,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.352465,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.342047,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2705,8 +2694,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.330393,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.316503,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2731,8 +2720,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.315802,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.301911,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2757,8 +2746,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.244105,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.230214,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2783,8 +2772,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.23733,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.223439,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2809,35 +2798,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.213032,
-   "selection_reason": "Editorial importance; waiting 18.0h"
-  },
-  {
-   "id": "1d1a610854e40bd0",
-   "item": {
-    "id": "1d1a610854e40bd0",
-    "title": "马斯克披露Grok全新SI训练推理基建，复用星链工程能力",
-    "url": "https://36kr.com/newsflashes/4063807051011206?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "马斯克在X发文，披露Grok新一代SI训练与推理基础设施重大进展，星链的工程技术经验将支撑Grok迭代。SpaceX SI团队从零重写Grok强化学习与推理软件，自研系统替代JAX、SGLang，主体采用C语言开发，辅以少量C++。这套新算力栈，由打造星链复杂卫星网络的工程师团队落地。马斯克表示，SpaceX自主编写头文件、独立计算包含闰秒的时间，这项底层能力一般人难以理解，但业内专业人士清楚其价值。该底层工程积累，是Grok新AI栈的核心根基。（新浪财经）",
-    "published": "2026-11-10T10:38:18+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Musk details Grok AI infrastructure built by SpaceX",
-   "post": "Elon Musk announced that the SpaceX SI team rewrote Grok reinforcement learning and inference software from scratch using C and C++, replacing JAX and SGLang using Starlink engineering expertise.",
-   "editor_note": "Check if this new infrastructure stack is currently active in production or still in development.",
-   "published_at": "2026-11-10T10:38:18+00:00",
-   "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
-   "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.180987,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.199141,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2864,8 +2826,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.175804,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.170595,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2892,8 +2854,35 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.175804,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.170595,
+   "selection_reason": "Editorial importance; waiting 29.0h"
+  },
+  {
+   "id": "1d1a610854e40bd0",
+   "item": {
+    "id": "1d1a610854e40bd0",
+    "title": "马斯克披露Grok全新SI训练推理基建，复用星链工程能力",
+    "url": "https://36kr.com/newsflashes/4063807051011206?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "马斯克在X发文，披露Grok新一代SI训练与推理基础设施重大进展，星链的工程技术经验将支撑Grok迭代。SpaceX SI团队从零重写Grok强化学习与推理软件，自研系统替代JAX、SGLang，主体采用C语言开发，辅以少量C++。这套新算力栈，由打造星链复杂卫星网络的工程师团队落地。马斯克表示，SpaceX自主编写头文件、独立计算包含闰秒的时间，这项底层能力一般人难以理解，但业内专业人士清楚其价值。该底层工程积累，是Grok新AI栈的核心根基。（新浪财经）",
+    "published": "2026-11-10T10:38:18+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Musk details Grok AI infrastructure built by SpaceX",
+   "post": "Elon Musk announced that the SpaceX SI team rewrote Grok reinforcement learning and inference software from scratch using C and C++, replacing JAX and SGLang using Starlink engineering expertise.",
+   "editor_note": "Check if this new infrastructure stack is currently active in production or still in development.",
+   "published_at": "2026-11-10T10:38:18+00:00",
+   "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
+   "expires_at": "2026-11-11T22:38:18+00:00",
+   "priority": 7.167097,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2918,8 +2907,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.107299,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.093408,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2945,8 +2934,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.075964,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.062074,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2972,8 +2961,34 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.051427,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.037536,
+   "selection_reason": "Editorial importance; waiting 25.5h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 7.016004,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2999,8 +3014,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.025293,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.011402,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3025,8 +3040,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.02483,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.010939,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3051,34 +3066,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.010061,
-   "selection_reason": "Editorial importance; waiting 26.5h"
-  },
-  {
-   "id": "75611a00ad611de2",
-   "item": {
-    "id": "75611a00ad611de2",
-    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
-    "published": "2026-11-10T18:41:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
-   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
-   "editor_note": "Verify model release status and availability of weights or API.",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.998641,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.996171,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3164,8 +3153,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.934899,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.955735,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3190,8 +3179,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.934035,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.951399,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3302,8 +3291,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.726566,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.747402,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   }
  ],
  "details_queue": [],
@@ -3318,11 +3307,12 @@
   "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00",
   "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00",
   "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00",
-  "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00"
+  "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00",
+  "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 8
+  "takes": 9
  }
 }
