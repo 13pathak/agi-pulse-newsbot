@@ -991,13 +991,15 @@
   "ef46a0f45928e7db": "2026-11-11T07:37:22.274032+00:00",
   "2402db50358dd631": "2026-11-11T07:37:22.274032+00:00",
   "bdf2c45c8fe40954": "2026-11-11T07:37:22.274032+00:00",
-  "650eadc38ca64367": "2026-11-11T07:37:22.274032+00:00"
+  "650eadc38ca64367": "2026-11-11T07:37:22.274032+00:00",
+  "857fa47fd2aec46f": "2026-11-11T08:07:21.992795+00:00",
+  "2d013ee6fa63187f": "2026-11-11T08:07:21.992795+00:00",
+  "3e9c43baf885a332": "2026-11-11T08:07:21.992795+00:00",
+  "819c7c68d2029b76": "2026-11-11T08:07:21.992795+00:00",
+  "bc334f28ad5c1ed3": "2026-11-11T08:07:21.992795+00:00",
+  "8b0cae713c3cde2e": "2026-11-11T08:07:21.992795+00:00"
  },
  "covered": [
-  {
-   "headline": "Sarvam hires former Google Cloud India MD Sashikumar Sreedharan",
-   "ts": "2026-11-09T08:07:23.267649+00:00"
-  },
   {
    "headline": "Nvidia announces planned investments in South Korean AI startups",
    "ts": "2026-11-09T08:37:20.636253+00:00"
@@ -1229,11 +1231,15 @@
   {
    "headline": "Daylight Security raises 80 million dollars in B round",
    "ts": "2026-11-11T07:37:22.274032+00:00"
+  },
+  {
+   "headline": "Anthropic targets $3 billion in Japan IPO",
+   "ts": "2026-11-11T08:07:21.992795+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2482,9 +2488,47 @@
    "desc": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/6yvbDz3WNgZACuqR1Bllrv/eea6d3b2ec1cf6115a5738c06073259b/cogent-security-social-sienna.png?w=1600&h=900&fit=fill",
    "published": "2026-11-09T08:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/509146.html": {
+   "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+   "desc": "价格、门槛全打穿",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509085.html": {
+   "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+   "desc": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "0ae6b047c3e55654",
+   "item": {
+    "id": "0ae6b047c3e55654",
+    "title": "Madras High Court flags fake, AI-generated books in public libraries, orders FIR",
+    "url": "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "The Madras High Court has ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered an FIR into alleged fraudulent book purchases in Tamil Nadu The post Madras High Court flags fake, AI-generated books in public libraries, orders FIR appeared first on MEDIANAMA .",
+    "published": "2026-11-11T07:48:12+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Madras High Court flags AI public library books",
+   "post": "The Madras High Court ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered a First Information Report into alleged fraudulent book purchases in Tamil Nadu.",
+   "editor_note": "Confirm the specifics of the FIR orders and the exact scope of the library procurement ban in Tamil Nadu.",
+   "published_at": "2026-11-11T07:48:12+00:00",
+   "first_seen_at": "2026-11-11T08:07:21.992795+00:00",
+   "expires_at": "2026-11-12T19:48:12+00:00",
+   "priority": 8.491127,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "c012fc7ecd62b33e",
    "item": {
@@ -2508,8 +2552,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.607529,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.624887,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2535,8 +2579,8 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.575642,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.593,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "5c695888c432dff1",
@@ -2561,8 +2605,8 @@
    "published_at": "2026-11-11T05:23:14+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:23:14+00:00",
-   "priority": 7.56292,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.580279,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "558a87a3fc410224",
@@ -2587,8 +2631,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.557612,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.57497,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2614,8 +2658,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.544518,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.561876,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2642,8 +2686,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.420595,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.415388,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2668,8 +2712,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.342047,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.331632,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2694,8 +2738,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.316503,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.302616,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2720,8 +2764,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.301911,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.288025,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2746,8 +2790,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.230214,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.216327,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2772,8 +2816,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.223439,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.209553,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2798,8 +2842,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.199141,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.185255,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2826,8 +2870,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.170595,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.165388,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2854,8 +2898,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.170595,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.165388,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2881,8 +2925,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.167097,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.15321,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2907,8 +2951,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.093408,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.079522,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2934,8 +2978,34 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.062074,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.048187,
+   "selection_reason": "Editorial importance; waiting 25.0h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 7.033362,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2961,34 +3031,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.037536,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "75611a00ad611de2",
-   "item": {
-    "id": "75611a00ad611de2",
-    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
-    "published": "2026-11-10T18:41:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
-   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
-   "editor_note": "Verify model release status and availability of weights or API.",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.016004,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.02365,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3014,8 +3058,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.011402,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.997515,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3040,8 +3084,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.010939,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.997053,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3066,8 +3110,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.996171,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.982284,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3153,8 +3197,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.955735,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.976565,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3179,8 +3223,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.951399,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.968757,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3291,8 +3335,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.747402,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.768232,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   }
  ],
  "details_queue": [],
@@ -3308,11 +3352,12 @@
   "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00",
   "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00",
   "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00",
-  "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00"
+  "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 9
+  "takes": 10
  }
 }
