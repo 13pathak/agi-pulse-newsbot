@@ -948,13 +948,21 @@
   "0e98438a8fc7b31b": "2026-11-11T05:07:24.742377+00:00",
   "4de69104b7845815": "2026-11-11T05:07:24.742377+00:00",
   "9083fc7c8698191e": "2026-11-11T05:07:24.742377+00:00",
-  "c06c1375a8dda558": "2026-11-11T05:07:24.742377+00:00"
+  "c06c1375a8dda558": "2026-11-11T05:07:24.742377+00:00",
+  "1f917ef42e116f1b": "2026-11-11T05:37:21.063136+00:00",
+  "6e6afca348abc77d": "2026-11-11T05:37:21.063136+00:00",
+  "8181e961dff07bdc": "2026-11-11T05:37:21.063136+00:00",
+  "e923f29ea246e6f7": "2026-11-11T05:37:21.063136+00:00",
+  "32b2ba4910710af4": "2026-11-11T05:37:21.063136+00:00",
+  "f574bb1b184a567e": "2026-11-11T05:37:21.063136+00:00",
+  "ffc8c26fa40cd4aa": "2026-11-11T05:37:21.063136+00:00",
+  "bd8802697046815b": "2026-11-11T05:37:21.063136+00:00",
+  "890069986cbf6a6c": "2026-11-11T05:37:21.063136+00:00",
+  "04c114bd6cb816a2": "2026-11-11T05:37:21.063136+00:00",
+  "a5eae3fdd29a7351": "2026-11-11T05:37:21.063136+00:00",
+  "3c0c9ce60bfb756b": "2026-11-11T05:37:21.063136+00:00"
  },
  "covered": [
-  {
-   "headline": "Russian military uses deepfake videos to claim battlefield success",
-   "ts": "2026-11-09T05:37:21.576546+00:00"
-  },
   {
    "headline": "Ardian raises 1 billion euro semiconductor fund for AI demand",
    "ts": "2026-11-09T07:07:21.635948+00:00"
@@ -1178,11 +1186,15 @@
   {
    "headline": "TSMC board approves investment in OpenAI special shares",
    "ts": "2026-11-11T05:07:24.742377+00:00"
+  },
+  {
+   "headline": "TSMC approves up to 1 billion dollar investment in Anthropic and OpenAI",
+   "ts": "2026-11-11T05:37:21.063136+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2413,6 +2425,12 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
    "published": "2026-11-11T05:01:16.152000+00:00",
    "excerpt": "Frontier cloud LLMs carry high operational costs that can fluctuate unexpectedly, and relying on such third-party models introduces vulnerabilities, as providers can modify, deny, or deprecate access at any time. Furthermore, proprietary models offer limited customization for specific workflows, while posing risks to privacy, data control, and transparency. Besides, not every task demands frontier-level intelligence: small, specialized agents can be equally capable on specific tasks and significantly cheaper to run, since many routine or smaller workloads can be processed efficiently on-device. As intelligence per parameter continues to improve rapidly, we aim to stand at the forefront of this shift toward performant, privacy-focused, self-hosted models. Tether AI Research introduces BotPs…"
+  },
+  "https://www.qbitai.com/2026/11/509032.html": {
+   "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+   "desc": "",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -2439,8 +2457,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.266337,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 8.252476,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2490,8 +2508,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.057073,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.046678,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2517,8 +2535,8 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.603869,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.621194,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2543,8 +2561,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.520747,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.538073,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "9e447f3c0b388572",
@@ -2570,7 +2588,59 @@
    "published_at": "2026-11-11T04:43:21+00:00",
    "first_seen_at": "2026-11-11T05:07:24.742377+00:00",
    "expires_at": "2026-11-12T16:43:21+00:00",
-   "priority": 7.48886,
+   "priority": 7.506186,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "5c695888c432dff1",
+   "item": {
+    "id": "5c695888c432dff1",
+    "title": "PuppyGraph Raises $10 Mn to Help AI Agents Query Enterprise Tables",
+    "url": "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769120008967-01722ca9-5119-4713-993a-e15c9489fe91-23wms.webp",
+    "snippet": "PuppyGraph, a graph query engine startup for enterprise artificial intelligence (AI), has raised $10 million in a Series A round led by Particle Future, with participation from defy.vc. “The insights of enterprise data will soon be generated by agents,” Weimo Liu, Co-founder and CEO of PuppyGraph, said in a statement. He added that agents would need to navigate thousands of tables, follow relation…",
+    "published": "2026-11-11T05:23:14+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "PuppyGraph raises 10 million dollars in Series A funding",
+   "post": "Graph query engine startup PuppyGraph has raised 10 million dollars in a Series A round led by Particle Future to help AI agents query enterprise tables.",
+   "editor_note": "Check participation details for defy.vc and the total valuation if mentioned.",
+   "published_at": "2026-11-11T05:23:14+00:00",
+   "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
+   "expires_at": "2026-11-12T17:23:14+00:00",
+   "priority": 7.493464,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "558a87a3fc410224",
+   "item": {
+    "id": "558a87a3fc410224",
+    "title": "OpenAI to discontinue old ChatGPT voice modes from Dec 11; users to shift to live voice mode",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135726625,imgsize-.cms",
+    "snippet": "OpenAI will discontinue the Advanced and Standard voice options in ChatGPT from December 11 this year, moving users to its newer Live voice mode as the company looks to simplify the voice experience and focus on improving its latest technology.",
+    "published": "2026-11-11T05:11:46+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "OpenAI to discontinue standard and advanced ChatGPT voice modes",
+   "post": "OpenAI announced it will discontinue its standard and advanced voice options in ChatGPT on December 11, transitioning users to its live voice mode.",
+   "editor_note": "Confirm whether any user data or custom voice settings transfer automatically to the live mode.",
+   "published_at": "2026-11-11T05:11:46+00:00",
+   "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
+   "expires_at": "2026-11-12T17:11:46+00:00",
+   "priority": 7.488155,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2598,8 +2668,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.44663,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.441432,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2624,8 +2694,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.394116,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.383721,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2650,8 +2720,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.385928,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.372067,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2676,34 +2746,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.371337,
-   "selection_reason": "Editorial importance; waiting 13.5h"
-  },
-  {
-   "id": "af7403b4563990ca",
-   "item": {
-    "id": "af7403b4563990ca",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "published": "2026-11-10T17:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude Meetings for workplace tasks",
-   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
-   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.364617,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.357476,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2728,8 +2772,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.299639,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.285779,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2754,8 +2798,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.292865,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.279004,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2780,8 +2824,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.268567,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.254706,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2807,8 +2851,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.236522,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.222662,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2835,8 +2879,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.19663,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.191432,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2863,8 +2907,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.19663,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.191432,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2889,8 +2933,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.162834,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.148973,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2916,8 +2960,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.131499,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.117638,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2943,8 +2987,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.106962,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.093101,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2970,8 +3014,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.080828,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.066967,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2996,8 +3040,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.080365,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.066504,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3022,8 +3066,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.065596,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.051736,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3048,7 +3092,33 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.929222,
+   "priority": 6.946548,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "af7403b4563990ca",
+   "item": {
+    "id": "af7403b4563990ca",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "published": "2026-11-10T17:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude Meetings for workplace tasks",
+   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
+   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T05:30:00+00:00",
+   "priority": 6.881943,
    "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
@@ -3135,8 +3205,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.851597,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.872388,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "cb7863665107d049",
@@ -3161,33 +3231,7 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.773459,
-   "selection_reason": "Editorial importance; waiting 27.5h"
-  },
-  {
-   "id": "1f917ef42e116f1b",
-   "item": {
-    "id": "1f917ef42e116f1b",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-    "snippet": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled. That's the finding of AI security researchers at Apiiro, who discovered thousands of secrets , including database passwords, API tokens, and root logins, amid Claude Code settings files embedded in GitHub repositories. The leak stems from the way Claude C…",
-    "published": "2026-11-09T17:24:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Security flaw in Claude Code exposes credentials on GitHub",
-   "post": "Security firm Apiiro reported that settings files embedded in public GitHub repositories have exposed thousands of credentials, including database passwords and API tokens, due to how Claude Code handles configuration files.",
-   "editor_note": "Verify whether Anthropic has released a patch or updated configuration guidance.",
-   "published_at": "2026-11-09T17:24:26+00:00",
-   "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
-   "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.75788,
+   "priority": 6.759598,
    "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
@@ -3299,8 +3343,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.643264,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.664055,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ],
  "details_queue": [],
@@ -3312,11 +3356,12 @@
   "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00",
   "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00",
   "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00",
-  "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00"
+  "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00",
+  "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 2,
-  "takes": 6
+  "takes": 7
  }
 }
