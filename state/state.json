@@ -1053,7 +1053,20 @@
   "f61c80cf7d04dbb2": "2026-11-11T12:07:25.150326+00:00",
   "f83304c2bef3bca1": "2026-11-11T12:07:25.150326+00:00",
   "18197229b3115bd4": "2026-11-11T12:07:25.150326+00:00",
-  "1ce88ac3e6754bb1": "2026-11-11T12:07:25.150326+00:00"
+  "1ce88ac3e6754bb1": "2026-11-11T12:07:25.150326+00:00",
+  "63443a2372b348cc": "2026-11-11T12:37:23.503234+00:00",
+  "e4e6c2d5784e8f90": "2026-11-11T12:37:23.503234+00:00",
+  "49ddec349ce56dcd": "2026-11-11T12:37:23.503234+00:00",
+  "c909bba7f573a24b": "2026-11-11T12:37:23.503234+00:00",
+  "d8fb75dbc1b18cad": "2026-11-11T12:37:23.503234+00:00",
+  "308e3a536b38d92d": "2026-11-11T12:37:23.503234+00:00",
+  "cdfc317db495b7e0": "2026-11-11T12:37:23.503234+00:00",
+  "db66188bf728d717": "2026-11-11T12:37:23.503234+00:00",
+  "4a49589c293fe5b8": "2026-11-11T12:37:23.503234+00:00",
+  "fad443e2a5b55e00": "2026-11-11T12:37:23.503234+00:00",
+  "19bc6f361e379afe": "2026-11-11T12:37:23.503234+00:00",
+  "584e833ec75ac743": "2026-11-11T12:37:23.503234+00:00",
+  "6db27c0084aa9df3": "2026-11-11T12:37:23.503234+00:00"
  },
  "covered": [
   {
@@ -1291,11 +1304,15 @@
   {
    "headline": "Agibot releases open LIFE embodied intelligence framework",
    "ts": "2026-11-11T12:07:25.150326+00:00"
+  },
+  {
+   "headline": "ByteDance plans AI assistant launch to rival US labs",
+   "ts": "2026-11-11T12:37:23.503234+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2566,32 +2583,6 @@
  },
  "pending": [
   {
-   "id": "6db27c0084aa9df3",
-   "item": {
-    "id": "6db27c0084aa9df3",
-    "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "ByteDance Ltd. plans the release of a Muse-like AI assistant in the coming weeks to augment its lead in AI video, a milestone event the company hopes will help close the gap with top US labs in as soon as three years.",
-    "published": "2026-11-11T10:10:36+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "ByteDance plans AI assistant launch to rival US labs",
-   "post": "ByteDance plans to release an AI assistant in the coming weeks to expand its video AI capabilities and help narrow the gap with top US labs over the next three years, Bloomberg reported.",
-   "editor_note": "Verify the specific capabilities, model foundation, and public release timeline for ByteDance's planned AI agent once officially announced.",
-   "published_at": "2026-11-11T10:10:36+00:00",
-   "first_seen_at": "2026-11-11T10:37:20.945947+00:00",
-   "expires_at": "2026-11-12T22:10:36+00:00",
-   "priority": 7.53974,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
-  {
    "id": "a5ab5a4847bee965",
    "item": {
     "id": "a5ab5a4847bee965",
@@ -2614,8 +2605,60 @@
    "published_at": "2026-11-11T10:37:35+00:00",
    "first_seen_at": "2026-11-11T11:07:23.012607+00:00",
    "expires_at": "2026-11-12T22:37:35+00:00",
-   "priority": 7.520946,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.538292,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "0da82ea2c7a2bc75",
+   "item": {
+    "id": "0da82ea2c7a2bc75",
+    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Some power companies are using cybersecurity technology from Anthropic PBC after spending months urging US government officials and the artificial intelligence company to help them access to the company’s powerful AI models in order to help fend off hackers.",
+    "published": "2026-11-11T12:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "US power companies deploy Anthropic Mythos AI for energy grid security",
+   "post": "US power companies are using Anthropic's Mythos AI model to scan energy infrastructure for software vulnerabilities and protect critical grid systems against potential cyberattacks.",
+   "editor_note": "Verify whether Mythos is a standalone cybersecurity model or a fine-tuned variant of Claude.",
+   "published_at": "2026-11-11T12:00:00+00:00",
+   "first_seen_at": "2026-11-11T12:37:23.503234+00:00",
+   "expires_at": "2026-11-13T00:00:00+00:00",
+   "priority": 7.482689,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "1a2976e6daf3223d",
+   "item": {
+    "id": "1a2976e6daf3223d",
+    "title": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Torus, an energy-storage startup, said it raised $500 million in funding to help launch a new shipping container-sized product that combines batteries with artificial-intelligence computing.",
+    "published": "2026-11-11T12:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Torus raises $500 million for modular AI data center units",
+   "post": "Energy storage startup Torus raised $500 million in funding to build container-sized modular units that combine battery systems with AI computing hardware.",
+   "editor_note": "Verify lead investors in the funding round and deployment timeline for the modular units.",
+   "published_at": "2026-11-11T12:00:00+00:00",
+   "first_seen_at": "2026-11-11T12:37:23.503234+00:00",
+   "expires_at": "2026-11-13T00:00:00+00:00",
+   "priority": 7.482689,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2642,8 +2685,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.373712,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.368508,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2668,8 +2711,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.263807,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.281152,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2694,60 +2737,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.24828,
-   "selection_reason": "Editorial importance; waiting 23.5h"
-  },
-  {
-   "id": "219c9a34cdd05da5",
-   "item": {
-    "id": "219c9a34cdd05da5",
-    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
-    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
-    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
-    "published": "2026-11-10T16:01:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Graphon raises 35 million dollars in funding",
-   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
-   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
-   "published_at": "2026-11-10T16:01:01+00:00",
-   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
-   "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.19148,
-   "selection_reason": "Editorial importance; waiting 20.0h"
-  },
-  {
-   "id": "a92c103556a09803",
-   "item": {
-    "id": "a92c103556a09803",
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "published": "2026-11-10T15:29:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Meta Muse AI agent launches on Apple Watch",
-   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
-   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
-   "published_at": "2026-11-10T15:29:30+00:00",
-   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
-   "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.176889,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.237873,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2772,8 +2763,34 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.172282,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.189627,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "219c9a34cdd05da5",
+   "item": {
+    "id": "219c9a34cdd05da5",
+    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
+    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
+    "published": "2026-11-10T16:01:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Graphon raises 35 million dollars in funding",
+   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
+   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
+   "published_at": "2026-11-10T16:01:01+00:00",
+   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
+   "expires_at": "2026-11-12T04:01:01+00:00",
+   "priority": 7.177604,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2859,8 +2876,60 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.143269,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.164083,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "a92c103556a09803",
+   "item": {
+    "id": "a92c103556a09803",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "published": "2026-11-10T15:29:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Meta Muse AI agent launches on Apple Watch",
+   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
+   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
+   "published_at": "2026-11-10T15:29:30+00:00",
+   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
+   "expires_at": "2026-11-12T03:29:30+00:00",
+   "priority": 7.163013,
+   "selection_reason": "Editorial importance; waiting 21.0h"
+  },
+  {
+   "id": "af7403b4563990ca",
+   "item": {
+    "id": "af7403b4563990ca",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "published": "2026-11-10T17:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude Meetings for workplace tasks",
+   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
+   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
+   "expires_at": "2026-11-12T05:30:00+00:00",
+   "priority": 7.125022,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2887,8 +2956,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.123712,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 7.118508,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2915,34 +2984,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.123712,
-   "selection_reason": "Editorial importance; waiting 33.5h"
-  },
-  {
-   "id": "af7403b4563990ca",
-   "item": {
-    "id": "af7403b4563990ca",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "published": "2026-11-10T17:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude Meetings for workplace tasks",
-   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
-   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.107676,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.118508,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2967,8 +3010,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.105192,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.091316,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2993,8 +3036,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.098417,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.084541,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3019,8 +3062,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.074119,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.060243,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3046,61 +3089,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.042074,
-   "selection_reason": "Editorial importance; waiting 24.5h"
-  },
-  {
-   "id": "f35d851cd4a19dfb",
-   "item": {
-    "id": "f35d851cd4a19dfb",
-    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
-    "published": "2026-11-10T07:59:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Thailand sets strict environmental limits for new data centers",
-   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
-   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
-   "published_at": "2026-11-10T07:59:08+00:00",
-   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
-   "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.968386,
-   "selection_reason": "Editorial importance; waiting 27.5h"
-  },
-  {
-   "id": "d3eeea676f9df7d5",
-   "item": {
-    "id": "d3eeea676f9df7d5",
-    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
-    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
-    "published": "2026-11-10T06:51:27+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "SoftBank discloses total investment in OpenAI",
-   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
-   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
-   "published_at": "2026-11-10T06:51:27+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.937051,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.028198,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3211,8 +3201,61 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.934935,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 6.95575,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "f35d851cd4a19dfb",
+   "item": {
+    "id": "f35d851cd4a19dfb",
+    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
+    "published": "2026-11-10T07:59:08+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Thailand sets strict environmental limits for new data centers",
+   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
+   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
+   "published_at": "2026-11-10T07:59:08+00:00",
+   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
+   "expires_at": "2026-11-11T19:59:08+00:00",
+   "priority": 6.95451,
+   "selection_reason": "Editorial importance; waiting 28.0h"
+  },
+  {
+   "id": "d3eeea676f9df7d5",
+   "item": {
+    "id": "d3eeea676f9df7d5",
+    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
+    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
+    "published": "2026-11-10T06:51:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SoftBank discloses total investment in OpenAI",
+   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
+   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
+   "published_at": "2026-11-10T06:51:27+00:00",
+   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
+   "expires_at": "2026-11-11T18:51:27+00:00",
+   "priority": 6.923175,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3238,8 +3281,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.912514,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.898638,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3265,8 +3308,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.88638,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.872504,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3291,8 +3334,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.885917,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.872041,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3317,8 +3360,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.871149,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.857272,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   }
  ],
  "details_queue": [],
@@ -3343,11 +3386,12 @@
   "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00",
   "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00",
-  "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00"
+  "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 18
+  "takes": 19
  }
 }
