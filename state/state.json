@@ -922,13 +922,13 @@
   "7b08d5acaf19afad": "2026-11-11T03:07:21.766925+00:00",
   "00c56fda60c21ade": "2026-11-11T03:07:21.766925+00:00",
   "b6f2a28d971f311e": "2026-11-11T03:07:21.766925+00:00",
-  "364719680f613828": "2026-11-11T03:07:21.766925+00:00"
+  "364719680f613828": "2026-11-11T03:07:21.766925+00:00",
+  "13fc76caec96a247": "2026-11-11T03:37:22.995445+00:00",
+  "21002a8e1dc5cd7d": "2026-11-11T03:37:22.995445+00:00",
+  "de567c4fcab87022": "2026-11-11T03:37:22.995445+00:00",
+  "82110824f2abb129": "2026-11-11T03:37:22.995445+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia board investigates CEO Jensen Huang over admitted affair",
-   "ts": "2026-11-09T03:37:21.287180+00:00"
-  },
   {
    "headline": "LTM and ServiceNow expand partnership for AI agent deployments",
    "ts": "2026-11-09T04:37:20.776111+00:00"
@@ -1144,11 +1144,15 @@
   {
    "headline": "CoreWeave reports third quarter revenue exceeding analyst estimates",
    "ts": "2026-11-11T03:07:21.766925+00:00"
+  },
+  {
+   "headline": "TCS builds agentic test orchestrator on Amazon Bedrock",
+   "ts": "2026-11-11T03:37:22.995445+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2376,30 +2380,30 @@
  },
  "pending": [
   {
-   "id": "82110824f2abb129",
+   "id": "2a540ad394ed02ce",
    "item": {
-    "id": "82110824f2abb129",
-    "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
-    "source": "AWS AI",
+    "id": "2a540ad394ed02ce",
+    "title": "OpenAI Acquires AI Travel Agent Odessia",
+    "url": "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia",
+    "source": "The Information",
     "image": "",
-    "snippet": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
-    "published": "2026-11-10T16:59:43+00:00",
+    "snippet": "OpenAI has acquired the AI travel planning platform Odessia, Odessia’s founder Francis Davidson announced on Tuesday. Davidson will be joining OpenAI to focus on “the future of travel,” he said in an X post. Davidson founded Odessia earlier this year. The platform uses AI to help users plan and ...",
+    "published": "2026-11-10T18:39:07+00:00",
     "images": true,
-    "category": "primary",
-    "source_cap": 2
+    "category": "news",
+    "source_cap": 3
    },
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "TCS builds agentic test orchestrator on Amazon Bedrock",
-   "post": "Tata Consultancy Services built an agentic test orchestrator on Amazon Bedrock AgentCore for BFSI clients, cutting internal testing effort by 88 percent.",
-   "editor_note": "Verify if the 88 percent reduction metric is from an internal TCS benchmark.",
-   "published_at": "2026-11-10T16:59:43+00:00",
+   "headline": "OpenAI acquires AI travel planning platform Odessia",
+   "post": "OpenAI has acquired AI travel planning platform Odessia, founded by Francis Davidson. Davidson will join OpenAI to lead work on travel applications.",
+   "editor_note": "Verify transaction terms if disclosed by OpenAI or founder Francis Davidson.",
+   "published_at": "2026-11-10T18:39:07+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T16:59:43+00:00",
-   "priority": 8.351453,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "expires_at": "2026-11-12T06:39:07+00:00",
+   "priority": 8.344515,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2425,34 +2429,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.328482,
-   "selection_reason": "Editorial importance; waiting 14.5h"
-  },
-  {
-   "id": "2a540ad394ed02ce",
-   "item": {
-    "id": "2a540ad394ed02ce",
-    "title": "OpenAI Acquires AI Travel Agent Odessia",
-    "url": "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia",
-    "source": "The Information",
-    "image": "",
-    "snippet": "OpenAI has acquired the AI travel planning platform Odessia, Odessia’s founder Francis Davidson announced on Tuesday. Davidson will be joining OpenAI to focus on “the future of travel,” he said in an X post. Davidson founded Odessia earlier this year. The platform uses AI to help users plan and ...",
-    "published": "2026-11-10T18:39:07+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "OpenAI acquires AI travel planning platform Odessia",
-   "post": "OpenAI has acquired AI travel planning platform Odessia, founded by Francis Davidson. Davidson will join OpenAI to lead work on travel applications.",
-   "editor_note": "Verify transaction terms if disclosed by OpenAI or founder Francis Davidson.",
-   "published_at": "2026-11-10T18:39:07+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T06:39:07+00:00",
-   "priority": 8.327142,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.314583,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "35f00681774962fa",
@@ -2477,8 +2455,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.321915,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 8.308017,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "d711ebe1a1aa86cf",
@@ -2503,8 +2481,8 @@
    "published_at": "2026-11-10T17:39:39+00:00",
    "first_seen_at": "2026-11-11T02:37:21.023674+00:00",
    "expires_at": "2026-11-12T05:39:39+00:00",
-   "priority": 8.268433,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.285806,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2554,34 +2532,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.067433,
-   "selection_reason": "Editorial importance; waiting 11.5h"
-  },
-  {
-   "id": "a92c103556a09803",
-   "item": {
-    "id": "a92c103556a09803",
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "published": "2026-11-10T15:29:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Meta Muse AI agent launches on Apple Watch",
-   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
-   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
-   "published_at": "2026-11-10T15:29:30+00:00",
-   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
-   "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.895592,
-   "selection_reason": "Time-sensitive story; waiting 11.5h"
+   "priority": 8.088281,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2606,8 +2558,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.87893,
-   "selection_reason": "Time-sensitive story; waiting 11.0h"
+   "priority": 7.896303,
+   "selection_reason": "Time-sensitive story; waiting 11.5h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2633,8 +2585,34 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.534395,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.551768,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "c012fc7ecd62b33e",
+   "item": {
+    "id": "c012fc7ecd62b33e",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "published": "2026-11-10T20:52:13+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "New York begins enforcing AI safety regulations for major developers",
+   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
+   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
+   "published_at": "2026-11-10T20:52:13+00:00",
+   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
+   "expires_at": "2026-11-12T08:52:13+00:00",
+   "priority": 7.468647,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2661,34 +2639,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.467472,
-   "selection_reason": "Editorial importance; waiting 14.5h"
-  },
-  {
-   "id": "c012fc7ecd62b33e",
-   "item": {
-    "id": "c012fc7ecd62b33e",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "published": "2026-11-10T20:52:13+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "New York begins enforcing AI safety regulations for major developers",
-   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
-   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
-   "published_at": "2026-11-10T20:52:13+00:00",
-   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
-   "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.451274,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.46226,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2713,8 +2665,34 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.4358,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.425376,
+   "selection_reason": "Editorial importance; waiting 15.0h"
+  },
+  {
+   "id": "a92c103556a09803",
+   "item": {
+    "id": "a92c103556a09803",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "published": "2026-11-10T15:29:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Meta Muse AI agent launches on Apple Watch",
+   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
+   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
+   "published_at": "2026-11-10T15:29:30+00:00",
+   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
+   "expires_at": "2026-11-12T03:29:30+00:00",
+   "priority": 7.412965,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2739,8 +2717,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.355218,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.341319,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2765,34 +2743,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.348443,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "72145b58f7c9a07a",
-   "item": {
-    "id": "72145b58f7c9a07a",
-    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
-    "published": "2026-11-10T11:47:31+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Sea earnings miss estimates amid rising AI costs",
-   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
-   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
-   "published_at": "2026-11-10T11:47:31+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.324145,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.334545,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2817,8 +2769,34 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.295144,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.312517,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "72145b58f7c9a07a",
+   "item": {
+    "id": "72145b58f7c9a07a",
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
+    "published": "2026-11-10T11:47:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Sea earnings miss estimates amid rising AI costs",
+   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
+   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
+   "published_at": "2026-11-10T11:47:31+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-11T23:47:31+00:00",
+   "priority": 7.310247,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2844,34 +2822,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.292101,
-   "selection_reason": "Editorial importance; waiting 15.5h"
-  },
-  {
-   "id": "f35d851cd4a19dfb",
-   "item": {
-    "id": "f35d851cd4a19dfb",
-    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
-    "published": "2026-11-10T07:59:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Thailand sets strict environmental limits for new data centers",
-   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
-   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
-   "published_at": "2026-11-10T07:59:08+00:00",
-   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
-   "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.218412,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.278202,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2898,8 +2850,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.217472,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.21226,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2926,8 +2878,34 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.217472,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.21226,
+   "selection_reason": "Editorial importance; waiting 25.0h"
+  },
+  {
+   "id": "f35d851cd4a19dfb",
+   "item": {
+    "id": "f35d851cd4a19dfb",
+    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Thailand imposed new noise, heat and water rules on data centers, putting specific environmental limits on an industry expanding rapidly with the artificial intelligence investment boom.",
+    "published": "2026-11-10T07:59:08+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Thailand sets strict environmental limits for new data centers",
+   "post": "Thailand introduced mandatory environmental rules for data centers, setting specific limits on noise, heat, and water use amid the AI infrastructure boom.",
+   "editor_note": "Check the exact decibel and thermal thresholds specified in the Thai regulations.",
+   "published_at": "2026-11-10T07:59:08+00:00",
+   "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
+   "expires_at": "2026-11-11T19:59:08+00:00",
+   "priority": 7.204514,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2953,8 +2931,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.187077,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.173179,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2980,8 +2958,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.16254,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.148642,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3007,8 +2985,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.136406,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.122508,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3033,8 +3011,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.135943,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.122045,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3059,8 +3037,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.121175,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.107276,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3085,8 +3063,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.859749,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.877122,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -3111,8 +3089,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.829037,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.815139,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -3137,8 +3115,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.813459,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.79956,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3212,8 +3190,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.76823,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.789077,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3302,6 +3280,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "133decccb34d4809",
+     "title": "Anthropic expands Claude into spreadsheets, dashboards and collaborative workplace tools",
+     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-expands-claude-into-spreadsheets-dashboards-and-collaborative-workplace-tools/articleshow/135723896.cms",
+     "source": "The Economic Times",
+     "image": "https://img.etimg.com/photo/msid-135723896,imgsize-30930.cms",
+     "snippet": "Artificial intelligence company Anthropic has expanded its Claude platform with new tools for creating spreadsheets, digital whiteboards and data dashboards, broadening its capabilities in workplace productivity and collaboration.",
+     "published": "2026-11-11T03:00:48+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -3312,8 +3302,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.559896,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.580744,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -3322,11 +3312,12 @@
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
   "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare": "2026-11-11T02:07:50.907396+00:00",
   "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter": "2026-11-11T02:38:18.956197+00:00",
-  "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00"
+  "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00",
+  "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
-  "count": 1,
+  "count": 2,
   "takes": 4
  }
 }
