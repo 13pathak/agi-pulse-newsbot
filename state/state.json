@@ -1023,13 +1023,20 @@
   "471729b5f9a179d9": "2026-11-11T10:37:20.945947+00:00",
   "7eb11c8f95b6375d": "2026-11-11T10:37:20.945947+00:00",
   "7befb3377f156a98": "2026-11-11T10:37:20.945947+00:00",
-  "5c695888c432dff1": "2026-11-11T10:37:20.945947+00:00"
+  "5c695888c432dff1": "2026-11-11T10:37:20.945947+00:00",
+  "1383804c9ccf0f82": "2026-11-11T11:07:23.012607+00:00",
+  "6b75d515d367494e": "2026-11-11T11:07:23.012607+00:00",
+  "f6ce9f0cc130556c": "2026-11-11T11:07:23.012607+00:00",
+  "7e5611257fe7a8d1": "2026-11-11T11:07:23.012607+00:00",
+  "d42d8c080c074a7a": "2026-11-11T11:07:23.012607+00:00",
+  "96a5abd22c043c37": "2026-11-11T11:07:23.012607+00:00",
+  "9521d64bda668317": "2026-11-11T11:07:23.012607+00:00",
+  "07b188e4bbdbc026": "2026-11-11T11:07:23.012607+00:00",
+  "50f38afba5bf106a": "2026-11-11T11:07:23.012607+00:00",
+  "ff1aad5f53885825": "2026-11-11T11:07:23.012607+00:00",
+  "8720d209ccf54646": "2026-11-11T11:07:23.012607+00:00"
  },
  "covered": [
-  {
-   "headline": "National Stock Exchange of India adds AI tools to Market Lens platform",
-   "ts": "2026-11-09T11:07:21.517844+00:00"
-  },
   {
    "headline": "Baidu discloses ERNIE Evolve system for automated AI research",
    "ts": "2026-11-09T11:37:20.224380+00:00"
@@ -1261,11 +1268,15 @@
   {
    "headline": "PuppyGraph raises 10 million dollars in Series A funding",
    "ts": "2026-11-11T10:37:20.945947+00:00"
+  },
+  {
+   "headline": "Google releases November Pixel Drop with Gemini AI features",
+   "ts": "2026-11-11T11:07:23.012607+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2552,8 +2563,8 @@
    "published_at": "2026-11-11T05:11:46+00:00",
    "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
    "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.661765,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.679146,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "1ce88ac3e6754bb1",
@@ -2579,8 +2590,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.648672,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.666053,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "6db27c0084aa9df3",
@@ -2605,7 +2616,33 @@
    "published_at": "2026-11-11T10:10:36+00:00",
    "first_seen_at": "2026-11-11T10:37:20.945947+00:00",
    "expires_at": "2026-11-12T22:10:36+00:00",
-   "priority": 7.487616,
+   "priority": 7.504997,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "a5ab5a4847bee965",
+   "item": {
+    "id": "a5ab5a4847bee965",
+    "title": "ChatGPT Go available to some users for as little as Rs 99, but there is a catch",
+    "url": "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "ChatGPT Go available to some users for as little as Rs 99, but there is a catch",
+    "published": "2026-11-11T10:37:35+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "ChatGPT Go tier offered to users in India",
+   "post": "OpenAI's ChatGPT Go tier has become available to some users in India priced as low as 99 rupees, subject to specific conditions.",
+   "editor_note": "Check the exact conditions and feature limitations tied to the 99 rupees pricing tier.",
+   "published_at": "2026-11-11T10:37:35+00:00",
+   "first_seen_at": "2026-11-11T11:07:23.012607+00:00",
+   "expires_at": "2026-11-12T22:37:35+00:00",
+   "priority": 7.486204,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2633,8 +2670,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.389349,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.384135,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2659,60 +2696,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.279555,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "219c9a34cdd05da5",
-   "item": {
-    "id": "219c9a34cdd05da5",
-    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
-    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
-    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
-    "published": "2026-11-10T16:01:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Graphon raises 35 million dollars in funding",
-   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
-   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
-   "published_at": "2026-11-10T16:01:01+00:00",
-   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
-   "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.233179,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
-   "id": "a92c103556a09803",
-   "item": {
-    "id": "a92c103556a09803",
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "published": "2026-11-10T15:29:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Meta Muse AI agent launches on Apple Watch",
-   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
-   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
-   "published_at": "2026-11-10T15:29:30+00:00",
-   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
-   "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.218588,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.269126,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2737,19 +2722,19 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.211683,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.229064,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
-   "id": "48b75c7fc00d6548",
+   "id": "219c9a34cdd05da5",
    "item": {
-    "id": "48b75c7fc00d6548",
-    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
-    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
-    "published": "2026-11-10T12:54:38+00:00",
+    "id": "219c9a34cdd05da5",
+    "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+    "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6af26b2280d4b24f18347ddc?format=jpeg",
+    "snippet": "Graphon has raised $35 million to enhance AI data mapping for businesses and developers. Graphon says it creates a “fabric” of information, rather than retrieving data in individual pieces. Check out the pitch deck it used to secure the new funding: AI agents can write code, search databases, and carry out multistep tasks. But they can still lose track of past conversations and struggle to make se…",
+    "published": "2026-11-10T16:01:01+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2757,25 +2742,51 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
-   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
-   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
-   "published_at": "2026-11-10T12:54:38+00:00",
-   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
-   "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.146891,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "headline": "Graphon raises 35 million dollars in funding",
+   "post": "Graphon has raised 35 million dollars in funding to build an information fabric designed to help AI agents manage long-term data mapping.",
+   "editor_note": "Confirm the lead investor for the 35 million dollar round if available in the source.",
+   "published_at": "2026-11-10T16:01:01+00:00",
+   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
+   "expires_at": "2026-11-12T04:01:01+00:00",
+   "priority": 7.219275,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
-   "id": "2551552469f4fa95",
+   "id": "a92c103556a09803",
    "item": {
-    "id": "2551552469f4fa95",
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "published": "2026-11-10T12:40:00+00:00",
+    "id": "a92c103556a09803",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "published": "2026-11-10T15:29:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Meta Muse AI agent launches on Apple Watch",
+   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
+   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
+   "published_at": "2026-11-10T15:29:30+00:00",
+   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
+   "expires_at": "2026-11-12T03:29:30+00:00",
+   "priority": 7.204684,
+   "selection_reason": "Editorial importance; waiting 19.5h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2783,14 +2794,14 @@
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
-   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
-   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
-   "published_at": "2026-11-10T12:40:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.140116,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 7.137539,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2817,8 +2828,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.139349,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 7.134135,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2845,19 +2856,45 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.139349,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 7.134135,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
-   "id": "75611a00ad611de2",
+   "id": "48b75c7fc00d6548",
    "item": {
-    "id": "75611a00ad611de2",
-    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
-    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
-    "published": "2026-11-10T18:41:52+00:00",
+    "id": "48b75c7fc00d6548",
+    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
+    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
+    "published": "2026-11-10T12:54:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
+   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
+   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
+   "published_at": "2026-11-10T12:54:38+00:00",
+   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
+   "expires_at": "2026-11-12T00:54:38+00:00",
+   "priority": 7.132986,
+   "selection_reason": "Editorial importance; waiting 21.5h"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -2865,14 +2902,14 @@
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
-   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
-   "editor_note": "Verify model release status and availability of weights or API.",
-   "published_at": "2026-11-10T18:41:52+00:00",
-   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
-   "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.120158,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 7.126211,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2897,35 +2934,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.115818,
-   "selection_reason": "Editorial importance; waiting 21.5h"
-  },
-  {
-   "id": "1d1a610854e40bd0",
-   "item": {
-    "id": "1d1a610854e40bd0",
-    "title": "马斯克披露Grok全新SI训练推理基建，复用星链工程能力",
-    "url": "https://36kr.com/newsflashes/4063807051011206?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "马斯克在X发文，披露Grok新一代SI训练与推理基础设施重大进展，星链的工程技术经验将支撑Grok迭代。SpaceX SI团队从零重写Grok强化学习与推理软件，自研系统替代JAX、SGLang，主体采用C语言开发，辅以少量C++。这套新算力栈，由打造星链复杂卫星网络的工程师团队落地。马斯克表示，SpaceX自主编写头文件、独立计算包含闰秒的时间，这项底层能力一般人难以理解，但业内专业人士清楚其价值。该底层工程积累，是Grok新AI栈的核心根基。（新浪财经）",
-    "published": "2026-11-10T10:38:18+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Musk details Grok AI infrastructure built by SpaceX",
-   "post": "Elon Musk announced that the SpaceX SI team rewrote Grok reinforcement learning and inference software from scratch using C and C++, replacing JAX and SGLang using Starlink engineering expertise.",
-   "editor_note": "Check if this new infrastructure stack is currently active in production or still in development.",
-   "published_at": "2026-11-10T10:38:18+00:00",
-   "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
-   "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.083774,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.101913,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3011,8 +3021,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.08072,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.101577,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3037,8 +3047,35 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.055553,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.072934,
+   "selection_reason": "Editorial importance; waiting 9.0h"
+  },
+  {
+   "id": "1d1a610854e40bd0",
+   "item": {
+    "id": "1d1a610854e40bd0",
+    "title": "马斯克披露Grok全新SI训练推理基建，复用星链工程能力",
+    "url": "https://36kr.com/newsflashes/4063807051011206?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "马斯克在X发文，披露Grok新一代SI训练与推理基础设施重大进展，星链的工程技术经验将支撑Grok迭代。SpaceX SI团队从零重写Grok强化学习与推理软件，自研系统替代JAX、SGLang，主体采用C语言开发，辅以少量C++。这套新算力栈，由打造星链复杂卫星网络的工程师团队落地。马斯克表示，SpaceX自主编写头文件、独立计算包含闰秒的时间，这项底层能力一般人难以理解，但业内专业人士清楚其价值。该底层工程积累，是Grok新AI栈的核心根基。（新浪财经）",
+    "published": "2026-11-10T10:38:18+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Musk details Grok AI infrastructure built by SpaceX",
+   "post": "Elon Musk announced that the SpaceX SI team rewrote Grok reinforcement learning and inference software from scratch using C and C++, replacing JAX and SGLang using Starlink engineering expertise.",
+   "editor_note": "Check if this new infrastructure stack is currently active in production or still in development.",
+   "published_at": "2026-11-10T10:38:18+00:00",
+   "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
+   "expires_at": "2026-11-11T22:38:18+00:00",
+   "priority": 7.069869,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3063,8 +3100,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.010085,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.99618,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3090,8 +3127,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.97875,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.964846,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3117,8 +3154,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.954213,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.940309,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -3144,8 +3181,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.928079,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.914174,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -3170,8 +3207,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.927616,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.913711,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3196,8 +3233,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.912848,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.898943,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3308,8 +3345,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.872387,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 6.893244,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   }
  ],
  "details_queue": [],
@@ -3331,11 +3368,12 @@
   "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00",
   "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00",
   "https://36kr.com/newsflashes/4064873704297602?f=rss": "2026-11-11T10:07:39.891605+00:00",
-  "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00"
+  "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00",
+  "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 15
+  "takes": 16
  }
 }
