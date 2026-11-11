@@ -931,13 +931,15 @@
   "9af3f2a52cb51605": "2026-11-11T04:07:21.533896+00:00",
   "3554707bed300e9b": "2026-11-11T04:07:21.533896+00:00",
   "aeb8dd326aa4da02": "2026-11-11T04:07:21.533896+00:00",
-  "2a540ad394ed02ce": "2026-11-11T04:07:21.533896+00:00"
+  "2a540ad394ed02ce": "2026-11-11T04:07:21.533896+00:00",
+  "536b29973ed94c9a": "2026-11-11T04:37:22.558678+00:00",
+  "2bb2496f12b8d14c": "2026-11-11T04:37:22.558678+00:00",
+  "cd94d5a2b6a2b91b": "2026-11-11T04:37:22.558678+00:00",
+  "30813aa5a082e1a5": "2026-11-11T04:37:22.558678+00:00",
+  "b4712cce82ac038d": "2026-11-11T04:37:22.558678+00:00",
+  "d711ebe1a1aa86cf": "2026-11-11T04:37:22.558678+00:00"
  },
  "covered": [
-  {
-   "headline": "LTM and ServiceNow expand partnership for AI agent deployments",
-   "ts": "2026-11-09T04:37:20.776111+00:00"
-  },
   {
    "headline": "Russian military uses deepfake videos to claim battlefield success",
    "ts": "2026-11-09T05:37:21.576546+00:00"
@@ -1157,11 +1159,15 @@
   {
    "headline": "OpenAI acquires AI travel planning platform Odessia",
    "ts": "2026-11-11T04:07:21.533896+00:00"
+  },
+  {
+   "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
+   "ts": "2026-11-11T04:37:22.558678+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2389,32 +2395,6 @@
  },
  "pending": [
   {
-   "id": "d711ebe1a1aa86cf",
-   "item": {
-    "id": "d711ebe1a1aa86cf",
-    "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
-    "url": "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Anthropic in the past month inked new commitments with Microsoft and Google to spend roughly $10 billion more to rent cloud servers between now and 2033 than it previously disclosed, the company said in a filing on Tuesday. At the same time, Anthropic said a $34.9 billion agreement to lease ...",
-    "published": "2026-11-10T17:39:39+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
-   "post": "Anthropic disclosed in a regulatory filing that it committed an additional $10 billion to rent cloud servers from Microsoft and Google through 2033. The company also stated a $34.9 billion server lease deal with Lambda may be cancelled.",
-   "editor_note": "Verify filing details regarding the potential cancellation of the $34.9B Lambda agreement.",
-   "published_at": "2026-11-10T17:39:39+00:00",
-   "first_seen_at": "2026-11-11T02:37:21.023674+00:00",
-   "expires_at": "2026-11-12T05:39:39+00:00",
-   "priority": 8.303153,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
-  {
    "id": "c06c1375a8dda558",
    "item": {
     "id": "c06c1375a8dda558",
@@ -2438,8 +2418,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.300706,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 8.286809,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "35f00681774962fa",
@@ -2464,8 +2444,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.294139,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 8.280243,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2515,8 +2495,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 8.077925,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 8.067503,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "650eadc38ca64367",
@@ -2542,8 +2522,8 @@
    "published_at": "2026-11-11T02:06:47+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T14:06:47+00:00",
-   "priority": 7.569115,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.586486,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2568,8 +2548,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.485994,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.503365,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2596,8 +2576,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.457056,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.451844,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2622,8 +2602,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.414968,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.404545,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2648,8 +2628,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.41365,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.399834,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2674,8 +2654,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.399139,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.385243,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2700,8 +2680,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.329864,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.347235,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2726,8 +2706,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.327442,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.313545,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "2551552469f4fa95",
@@ -2752,8 +2732,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.320667,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.30677,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -2778,8 +2758,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.296369,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.282473,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2805,8 +2785,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.264325,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.250428,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2833,8 +2813,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.207056,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.201844,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2861,8 +2841,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.207056,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.201844,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2887,8 +2867,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.190636,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.17674,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -2914,8 +2894,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.159301,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.145405,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2941,8 +2921,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.134764,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.120868,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2968,8 +2948,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.10863,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.094733,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2994,8 +2974,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.108167,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.09427,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -3020,8 +3000,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.093399,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.079502,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3046,8 +3026,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.894469,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.91184,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3111,6 +3091,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "b1cad9669f49012e",
+     "title": "OpenAI rolls out business AI agents on ChatGPT, to help customers during shopping",
+     "url": "https://www.indiatoday.in/technology/news/story/openai-rolls-out-business-ai-agents-on-chatgpt-to-help-customers-during-shopping-3036500-2026-11-11?utm_source=rss",
+     "source": "India Today",
+     "image": "",
+     "snippet": "OpenAI rolls out business AI agents on ChatGPT, to help customers during shopping",
+     "published": "2026-11-11T04:35:09+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -3121,8 +3113,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.809893,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.830739,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "cb7863665107d049",
@@ -3147,8 +3139,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.801261,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.787365,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -3173,8 +3165,8 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.785683,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.771786,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3285,8 +3277,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.60156,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.622405,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
@@ -3297,11 +3289,12 @@
   "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter": "2026-11-11T02:38:18.956197+00:00",
   "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00",
   "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00",
-  "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00"
+  "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00",
+  "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 2,
-  "takes": 5
+  "takes": 6
  }
 }
