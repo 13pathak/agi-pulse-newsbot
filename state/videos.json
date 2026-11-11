@@ -536,11 +536,48 @@
    "categories": [
     "creative"
    ],
-   "status": "new",
+   "status": "ready",
    "screen_after": "2026-11-11T04:10:19.858723+00:00",
    "screen": {
     "category": "creative",
     "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-11T04:39:27.739604+00:00",
+   "review": {
+    "task": "Create cinematic AI videos from scratch using Google Flow by generating characters, scenes, frames, and animations.",
+    "demonstrated": "Demonstrates creating characters and office locations in Google Flow, generating storyboard frames, animating them into video clips, and assembling them in CapCut.",
+    "creator_claim": "Break down the AI filmmaking workflow I use to create a complete video, from creating characters and frames to animating scenes.",
+    "requirements": "Google Flow account, basic text prompts, and a video editor like CapCut.",
+    "cost": "Mentions free accounts receive 50 credits daily, pro accounts receive 1000 credits/month.",
+    "caveat": "High demand queue times and generation costs per clip can limit free tier usage.",
+    "workflow_key": "make ai videos using google flow",
+    "category": "creative",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 314,
+      "observation": "Demonstrates character generation using text prompts in Google Flow."
+     },
+     {
+      "seconds": 641,
+      "observation": "Generates and selects office scene backdrops using text prompts."
+     },
+     {
+      "seconds": 951,
+      "observation": "Animates frames and plays back the generated video clip in Google Flow."
+     }
+    ],
+    "tools": [
+     "Google Flow",
+     "CapCut"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 8
+    }
    }
   },
   "Mt91SiQotOU": {
@@ -1461,11 +1498,48 @@
    "categories": [
     "everyday"
    ],
-   "status": "new",
+   "status": "ready",
    "screen_after": "2026-11-12T03:38:49.449216+00:00",
    "screen": {
     "category": "everyday",
     "relevance": 8
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-11T04:39:27.739604+00:00",
+   "review": {
+    "task": "Install ChatGPT add-in in Excel and analyze financial data using natural-language prompts",
+    "demonstrated": "The creator demonstrates installing the ChatGPT add-in from Excel's Home tab, signing in, and using sidebar prompts to compare budgets, find expense overruns, and summarize pending transactions.",
+    "creator_claim": "None noted",
+    "requirements": "Microsoft Excel, ChatGPT account",
+    "cost": "Not established in the reviewed video",
+    "caveat": "Organization admin settings may block add-in installation on work or school accounts.",
+    "workflow_key": "analyze_financial_data_chatgpt_excel",
+    "category": "applications",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 46,
+      "observation": "Searching and adding the official ChatGPT add-in from the Excel add-ins menu"
+     },
+     {
+      "seconds": 243,
+      "observation": "ChatGPT generating budget overrun analysis and inserting formulas in the Overview sheet"
+     },
+     {
+      "seconds": 412,
+      "observation": "Visible final summary of monthly net operating results on the Overview sheet"
+     }
+    ],
+    "tools": [
+     "Microsoft Excel",
+     "ChatGPT add-in"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 8
+    }
    }
   },
   "vk1C6FY-kq4": {
@@ -1522,11 +1596,47 @@
    "categories": [
     "applications"
    ],
-   "status": "new",
+   "status": "ready",
    "screen_after": "2026-11-12T03:38:49.449216+00:00",
    "screen": {
     "category": "applications",
     "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-11T04:39:27.739604+00:00",
+   "review": {
+    "task": "Build an AI PDF chatbot using Next.js and Retrieval-Augmented Generation (RAG) to answer questions with source page citations and deploy it to Vercel.",
+    "demonstrated": "The creator demonstrates uploading a PDF, asking questions, receiving answers with source page numbers, and walks through the codebase setup from chunking to vector search and prompt configuration.",
+    "creator_claim": "The app can be built from zero with Next.js and OpenAI using RAG, and deployed live on Vercel in under a minute.",
+    "requirements": "Node.js environment, Next.js knowledge, OpenAI API key",
+    "cost": "Free to build locally using demo keyword search mode; OpenAI API usage incurs standard embedding and completion token co",
+    "caveat": "The tutorial uses in-memory vector storage rather than a production vector database like Postgres with pgvector for scalability.",
+    "workflow_key": "build ai pdf chatbot with next js and openai",
+    "category": "applications",
+    "difficulty": "intermediate",
+    "evidence": [
+     {
+      "seconds": 5,
+      "observation": "Live demo showing a PDF upload and chatbot answering 'How many vacation days do I get?' with page citation."
+     },
+     {
+      "seconds": 215,
+      "observation": "Code snippet showing Next.js API route reading PDF data and extracting text page by page."
+     }
+    ],
+    "tools": [
+     "Next.js",
+     "OpenAI API",
+     "unpdf",
+     "Zod",
+     "Vercel"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 8
+    }
    }
   },
   "btMoPRHz8eM": {
@@ -2024,8 +2134,8 @@
  "daily": {
   "date": "2026-11-11",
   "searches": 6,
-  "reviews": 3,
-  "video_seconds": 1355,
+  "reviews": 6,
+  "video_seconds": 3274,
   "screens": 2,
   "sent": 2,
   "categories": [
