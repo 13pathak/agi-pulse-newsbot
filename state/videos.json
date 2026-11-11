@@ -2342,24 +2342,15 @@
   }
  },
  "daily": {
-  "date": "2026-11-11",
-  "searches": 12,
-  "reviews": 6,
-  "video_seconds": 3274,
-  "screens": 2,
-  "sent": 2,
-  "categories": [
-   "applications",
-   "creative"
-  ],
-  "channels": [
-   "UCWVDEfCzXexyHryT6ztt_bQ",
-   "UCuwpzP90g1LuGk6JUNms_AQ"
-  ],
-  "fingerprints": [
-   "edd8925b2fd732551604",
-   "52c8c98c5f65ce4b1006"
-  ]
+  "date": "2026-11-12",
+  "searches": 0,
+  "reviews": 0,
+  "video_seconds": 0,
+  "screens": 0,
+  "sent": 0,
+  "categories": [],
+  "channels": [],
+  "fingerprints": []
  },
  "preferences": {},
  "channel_uploads": {},
