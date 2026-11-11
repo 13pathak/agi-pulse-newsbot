@@ -1139,13 +1139,17 @@
   "2ed3a890d3d8bbd2": "2026-11-11T16:37:23.465555+00:00",
   "c6ce416e52096bf7": "2026-11-11T16:37:23.465555+00:00",
   "ed60c4d7f092c7a8": "2026-11-11T16:37:23.465555+00:00",
-  "e8611a93afeb04e2": "2026-11-11T16:37:23.465555+00:00"
+  "e8611a93afeb04e2": "2026-11-11T16:37:23.465555+00:00",
+  "6ea215fc0134acc4": "2026-11-11T17:07:23.599054+00:00",
+  "c1692305c9ca30c3": "2026-11-11T17:07:23.599054+00:00",
+  "a5c3d321385253fd": "2026-11-11T17:07:23.599054+00:00",
+  "fb8ad0bd1f151c45": "2026-11-11T17:07:23.599054+00:00",
+  "58c504f4d048ee94": "2026-11-11T17:07:23.599054+00:00",
+  "acf89acf164139d3": "2026-11-11T17:07:23.599054+00:00",
+  "9bb543b1670e75ef": "2026-11-11T17:07:23.599054+00:00",
+  "281df356d71debbc": "2026-11-11T17:07:23.599054+00:00"
  },
  "covered": [
-  {
-   "headline": "Jubilant FoodWorks uses machine learning for Dominos price increases",
-   "ts": "2026-11-09T17:07:28.217910+00:00"
-  },
   {
    "headline": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 models",
    "ts": "2026-11-10T01:07:22.062265+00:00"
@@ -1369,11 +1373,15 @@
   {
    "headline": "Grok built apps exposed patient data and plaintext passwords",
    "ts": "2026-11-11T16:37:23.465555+00:00"
+  },
+  {
+   "headline": "US data brokers sell $500M in RL data to Chinese AI labs",
+   "ts": "2026-11-11T17:07:23.599054+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 28
+  "count": 29
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2660,32 +2668,6 @@
  },
  "pending": [
   {
-   "id": "281df356d71debbc",
-   "item": {
-    "id": "281df356d71debbc",
-    "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-    "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply. The article US data brokers are selling half a billion dollars in RL t…",
-    "published": "2026-11-11T13:51:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "US data brokers sell $500M in RL data to Chinese AI labs",
-   "post": "A ChinaTalk investigation reported by The Decoder states US data brokers sold roughly $500 million in reinforcement learning training environments to Chinese AI labs, including datasets built for OpenAI and Anthropic.",
-   "editor_note": "Verify the original ChinaTalk report for specific US data brokers and Chinese AI labs named.",
-   "published_at": "2026-11-11T13:51:11+00:00",
-   "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
-   "expires_at": "2026-11-13T01:51:11+00:00",
-   "priority": 7.579315,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
    "id": "7218220fa4fbbf3e",
    "item": {
     "id": "7218220fa4fbbf3e",
@@ -2708,8 +2690,8 @@
    "published_at": "2026-11-11T13:50:30+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:50:30+00:00",
-   "priority": 7.578999,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.596362,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2734,8 +2716,60 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.55565,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.573013,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
+  },
+  {
+   "id": "e3140873dc4ba8e7",
+   "item": {
+    "id": "e3140873dc4ba8e7",
+    "title": "A Startup Wants to Fight AI Bioweapons With AI",
+    "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+    "source": "Wired",
+    "image": "",
+    "snippet": "Startup Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "published": "2026-11-11T17:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Radical Numerics develops offline pathogen identification model",
+   "post": "Startup Radical Numerics has developed an AI model designed to identify both natural and AI-engineered pathogens without requiring an internet connection.",
+   "editor_note": "Confirm the startup name and claim that the model operates entirely offline.",
+   "published_at": "2026-11-11T17:00:00+00:00",
+   "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
+   "expires_at": "2026-11-13T05:00:00+00:00",
+   "priority": 7.496577,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "cfb2bce945d5aca3",
+   "item": {
+    "id": "cfb2bce945d5aca3",
+    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
+    "url": "https://elevenlabs.io/blog/nvidia",
+    "source": "ElevenLabs",
+    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dzrt2l99qq7-Blog-Template1920--9-.webp",
+    "snippet": "ElevenLabs and NVIDIA expand their partnership with Nemotron in ElevenAgents, 15MW of compute, and a sovereign voice agent for Poland’s e-Health.",
+    "published": "2026-11-11T12:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "ElevenLabs and Nvidia expand global voice agent collaboration",
+   "post": "ElevenLabs and Nvidia are expanding their partnership to integrate Nvidia Nemotron into ElevenAgents, deploy 15 megawatts of compute, and build a sovereign voice agent for Poland's e-Health system.",
+   "editor_note": "Verify the 15MW compute allocation and Nemotron integration details from the announcement.",
+   "published_at": "2026-11-11T12:00:00+00:00",
+   "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
+   "expires_at": "2026-11-13T12:00:00+00:00",
+   "priority": 7.393266,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2762,8 +2796,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.326842,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.321633,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2788,8 +2822,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.201308,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.187418,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2814,8 +2848,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.15454,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.144123,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2840,8 +2874,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.140961,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.127071,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -2927,8 +2961,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.112017,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.1016,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -2953,8 +2987,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.107689,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.093799,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2981,8 +3015,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.076842,
-   "selection_reason": "Editorial importance; waiting 38.0h"
+   "priority": 7.071633,
+   "selection_reason": "Editorial importance; waiting 38.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3009,8 +3043,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.076842,
-   "selection_reason": "Editorial importance; waiting 38.0h"
+   "priority": 7.071633,
+   "selection_reason": "Editorial importance; waiting 38.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -3035,8 +3069,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.066493,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.052603,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -3061,8 +3095,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.051902,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.038012,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -3087,8 +3121,8 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 6.980205,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.966315,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "2551552469f4fa95",
@@ -3113,8 +3147,8 @@
    "published_at": "2026-11-10T12:40:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 6.97343,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.95954,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "72145b58f7c9a07a",
@@ -3139,8 +3173,8 @@
    "published_at": "2026-11-10T11:47:31+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 6.949132,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.935242,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3166,8 +3200,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 6.917087,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.903198,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3278,8 +3312,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.903684,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.893266,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3304,8 +3338,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.843399,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.829509,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3331,8 +3365,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.812064,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.798174,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3358,64 +3392,21 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.787527,
-   "selection_reason": "Editorial importance; waiting 34.5h"
-  },
-  {
-   "id": "6ea215fc0134acc4",
-   "item": {
-    "id": "6ea215fc0134acc4",
-    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
-    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
-    "published": "2026-11-10T05:02:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "MiaoDong Tech launches Beni tracking robot",
-   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
-   "editor_note": "Check availability details and specific currency limits for international buyers.",
-   "published_at": "2026-11-10T05:02:00+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.761393,
-   "selection_reason": "Editorial importance; waiting 33.5h"
-  },
-  {
-   "id": "c1692305c9ca30c3",
-   "item": {
-    "id": "c1692305c9ca30c3",
-    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-    "source": "Wired",
-    "image": "",
-    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-    "published": "2026-11-10T05:01:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google DeepMind AI tool formally verifies Signal protocol security",
-   "post": "Google DeepMind researchers used a formal verification AI tool to confirm that the Signal encryption protocol operates securely as intended.",
-   "editor_note": "Confirm the specific verification methodology used by the DeepMind research team.",
-   "published_at": "2026-11-10T05:01:00+00:00",
-   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
-   "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.76093,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "priority": 6.773637,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+   "source": "The Decoder",
+   "kind": "takes",
+   "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+   "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply. The article US data brokers are selling half a billion dollars in RL t…",
+   "queued_at": "2026-11-11T17:07:23.599054+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
