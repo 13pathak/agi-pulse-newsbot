@@ -199,7 +199,7 @@ def test_light_pack_uses_summary_when_article_is_unreadable(monkeypatch):
             "summary": "It costs $8 per million tokens, is 30% faster and scores 69.9% on Coding v2, the firm says."}
     result = ad.build_for_entry(item, "k", {}, True)
     assert result["summary_only"] and result["light"] and result["details"] == [] and len(result["posts"]) <= 3
-    assert "exactly 5, every one an opinion take; the best 3 are kept" in seen["prompt"]
+    assert "exactly 7 opinion takes; the best 3 are kept" in seen["prompt"]
     text, _ = ad.render(result)
     assert text.startswith("💭 <b>Takes</b> · Paper") and "Written from the summary only" in text
     with pytest.raises(ad.DetailsError):                   # a full pack never falls back to a summary
@@ -270,17 +270,88 @@ def test_calculated_figures_in_details_are_flagged():
     result.update(url="https://x.test/a", title="T", source="Lab", preview="")
     text, _ = ad.render(result)
     assert "figure not found in the article text" in text and "📌" not in text
-    assert "every one an opinion take" in ad.PROMPT and '"kind": "fact"' not in ad.PROMPT
+    assert "opinion takes" in ad.PROMPT and '"kind": "fact"' not in ad.PROMPT
 
 
-def test_stiff_drafts_go_last_and_only_five_are_kept():
+@pytest.mark.parametrize("text,reason", [
+    ("Torus raised $500M for container data centers. How do you cool that?", None),
+    ("Grid hookups take years. That's the case for Torus's $500M raise, and it's a fair one.", None),
+    ("Signal's protocol was verified by a DeepMind tool. Who checks the tool?", None),
+    ("This signals a new era for enterprise AI.", "stock wording"),
+    ("Honestly, $8 per million tokens is cheap.", "stock wording"),
+    ("The price cut is real — the benchmark gap is small.", "dash"),
+    ("Cheaper tokens; slower answers.", "semicolon or exclamation mark"),
+    ("Fable 5.2 is not just faster, it costs less.", "contrast frame"),
+    ("The launch isn't about speed. It's about price.", "contrast frame"),
+    ("Fable 5.2 is faster, cheaper and safer than before.", "list of three"),
+    ("The catch? Nobody verified the 49.1% score.", "label opener"),
+    ("The takeaway: prices fell again.", "label opener"),
+    ("Slashing prices to $8 looks like a land grab.", "-ing opener"),
+    ("Pricing at $8 per million tokens undercuts the last model.", None),
+    ("Nothing in the post says who verified the 49.1% score.", None),
+    ("Big launch from Anthropic #AI", "hashtag, mention or emoji"),
+])
+def test_machine_tells(text, reason):
+    assert ad.machine_tells(text) == ([reason] if reason else [])
+
+
+def test_drafts_with_tells_are_discarded_when_enough_clean_ones_remain():
     data = raw()
     data["posts"] = [{"text": "This signals a new era for enterprise AI."},
                      {"text": "Embedding apps highlights the shift."}] + [
-                     {"text": f"Honestly not sure take {n} holds up."} for n in "abcde"]
+                     {"text": f"Not sure take {n} holds up."} for n in "abcdef"]
     posts = ad.validate(data, article(), images())["posts"]
-    assert len(posts) == 5 and not any(ad.STIFF.search(p["text"]) for p in posts)
-    assert posts[0]["text"] == "Honestly not sure take a holds up."
+    assert len(posts) == 5 and not any(ad.machine_tells(p["text"]) for p in posts)
+    assert posts[0]["text"] == "Not sure take a holds up."
+    data["posts"] = data["posts"][:3]                    # only one clean draft: keep the rest, last
+    posts = ad.validate(data, article(), images())["posts"]
+    assert [bool(ad.machine_tells(p["text"])) for p in posts] == [False, True, True]
+
+
+def test_shape_plan_gives_every_post_its_own_shape():
+    import random
+    plan = ad.shape_plan(7, random.Random(1)).splitlines()
+    assert len(plan) == 7 and plan[0].startswith("  Post 1: ")
+    shapes = [line.split(": ", 1)[1].split(".")[0] for line in plan]
+    assert len(set(shapes)) == 7                          # no shape repeats within a pack
+    assert {length for length in ad.LENGTHS if any(length in line for line in plan)} == set(ad.LENGTHS)
+    assert ad.shape_plan(7, random.Random(1)) != ad.shape_plan(7, random.Random(2))
+    assert len(ad.shape_plan(9, random.Random(3)).splitlines()) == 9
+
+
+def test_judge_reorders_and_survives_failures(monkeypatch):
+    posts = [{"text": "a"}, {"text": "b"}, {"text": "c"}]
+    scores = {"scores": [{"n": 1, "human": 9, "clear": False}, {"n": 2, "human": 4, "clear": True},
+                         {"n": 3, "human": 8, "clear": True}]}
+    monkeypatch.setattr(ad, "call_gemini", lambda prompt, imgs, key, models: scores)
+    assert ad.judge(posts, "k", ["m"]) and [p["text"] for p in posts] == ["c", "b", "a"]
+    monkeypatch.setattr(ad, "call_gemini", lambda *a: {"scores": [{"n": 1, "human": 9}]})   # incomplete
+    assert not ad.judge(posts, "k", ["m"]) and [p["text"] for p in posts] == ["c", "b", "a"]
+
+    def busy(*a):
+        raise nb.GeminiUnavailable("busy")
+    monkeypatch.setattr(ad, "call_gemini", busy)
+    assert not ad.judge(posts, "k", ["m"]) and [p["text"] for p in posts] == ["c", "b", "a"]
+
+
+def test_build_pack_judges_only_when_there_is_a_choice(monkeypatch):
+    prompts = []
+    many = {"posts": [{"text": f"Model 5.2 costs $8. Not sure point {n} holds."} for n in "abcdefg"], "check": ""}
+
+    def gemini(prompt, imgs, key, models):
+        prompts.append(prompt)
+        if "DRAFTS:" in prompt:
+            return {"scores": [{"n": n, "human": n, "clear": True} for n in range(1, 8)]}
+        return many
+
+    monkeypatch.setattr(ad, "fetch_article", lambda url: {**article(), "images": []})
+    monkeypatch.setattr(ad, "call_gemini", gemini)
+    result = ad.build_pack("https://x.test/a", "k", {}, light=True)
+    assert len(prompts) == 2 and "Post 7: " in prompts[0] and "Post 8: " not in prompts[0]
+    assert [p["text"][-8:-7] for p in result["posts"]] == ["g", "f", "e"]      # highest judged first
+    prompts.clear()
+    ad.build_pack("https://x.test/a", "k", {"takes_judge": False}, light=True)
+    assert len(prompts) == 1
 
 
 def test_drafts_without_the_news_in_them_go_last():
@@ -288,12 +359,12 @@ def test_drafts_without_the_news_in_them_go_last():
              "text": "Utah company Torus raised $500 million to build modular data centers in containers."}
     data = {"posts": [{"text": "Shipping containers packed with batteries sound like a thermal nightmare."},
                       {"text": "Torus just raised $500 million for container data centers. Cooling is the hard part."},
-                      {"text": "Honestly the grid is the real bottleneck here."},
+                      {"text": "The grid is the bottleneck here, I think."},
                       {"text": "A Utah startup got $500 million to put compute in containers. Makes sense to me."}]}
     posts = ad.validate(data, story, [], keep=3)["posts"]
-    assert [p["text"].split()[0] for p in posts] == ["Torus", "A", "Shipping"]
+    assert [p["text"].split()[0] for p in posts] == ["Torus", "A", "The"]   # the -ing opener is discarded
     assert ad.has_context("Torus is onto something.", {"Torus"}) and not ad.has_context("Big if true.", {"Torus"})
-    assert "NEWS, then the REACTION" in ad.PROMPT
+    assert "Every post must contain the news itself" in ad.PROMPT
 
 
 def test_voice_can_be_set_in_config(monkeypatch):

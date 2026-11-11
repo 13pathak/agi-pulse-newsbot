@@ -33,20 +33,35 @@ summary, so you can see what happened and then choose a take to post.
   takes instead of a pack.
 - If the article cannot be read (paywall, login, browser-only page), the takes are
   written from the feed's summary and the message says so. Treat those as thinner.
-- At most `takes_max_per_day` (30) per IST day. Each one is one extra Gemini request.
+- At most `takes_max_per_day` (30) per IST day. Each one is two extra Gemini
+  requests: one to write the drafts and one to pick the best.
 - Set `takes_for_all_stories: false` to turn this off and keep only the packs.
 
 ## The writing voice
 
-Every draft opens with the news itself in one short clause (who did what, with
-the key figure) and then gives the reaction, so it makes sense on X to someone who
-has not seen the story. Drafts that do not name anyone or anything from the article
-are ranked last. Drafts are asked to sound like a person typing a thought on their
-phone: plain spoken English, one idea, no press-release wording. Gemini writes seven takes;
-the five most natural are kept, and any that use stock phrases ("signals",
-"redefine", "the end of" and similar) are ranked last. To change the voice, set
-`takes_voice` in `config.yaml`; the built-in wording is `DEFAULT_VOICE` in
-`article_details.py`.
+The aim is drafts that read as written by a person, and that do not all look alike.
+
+- **Tone.** Measured and critical (the obvious question a sensible reader would ask,
+  or what is unproven, missing or hard) or plainly neutral. Never sarcastic, jokey
+  or excited. To change it, set `takes_voice` in `config.yaml`; the built-in wording
+  is `DEFAULT_VOICE` in `article_details.py`.
+- **Context.** Every draft must contain the news itself (who did what, with the key
+  figure), so it makes sense on X to someone who has not seen the story. Drafts that
+  name nobody and nothing from the article are ranked last.
+- **Different shapes.** Each pack draws a fresh mix from eight shapes (news then a
+  doubt, question first, view first, one sentence, comparison, what is missing,
+  concede then object, who it affects) and three lengths, so a day's posts do not
+  share one template. They are `SHAPES` and `LENGTHS` in `article_details.py`.
+- **Machine tells are filtered out.** Drafts are checked against over 100 stock
+  words and phrases ("signals", "landscape", "the future of", "honestly" and so
+  on) and against patterns such as long dashes, semicolons, lists of three, "not
+  just X" contrasts, "The catch?" openers and -ing openers. A draft with any of
+  them is discarded when at least two clean drafts remain. The lists are
+  `TELL_WORDS` and `TELL_PATTERNS`.
+- **A second pass picks the best.** Gemini writes four more drafts than are needed.
+  A second Gemini request scores the survivors for how human they read and whether
+  the news is clear, and the top three (takes) or five (packs) are kept. If that
+  request fails, the first-pass order is used. Set `takes_judge: false` to skip it.
 
 ## When a pack is made
 
@@ -72,7 +87,8 @@ Telegram in about a minute. This also works from the GitHub mobile app.
 - **Some pages cannot be read**: paywalls, logins, and pages that only render in a
   browser. Nothing is bypassed; a requested pack reports the failure in Telegram,
   an automatic one is skipped and logged.
-- **It is one extra Gemini request per pack**, with up to six pictures attached.
+- **It is two extra Gemini requests per pack**: one to write (with up to six
+  pictures attached) and one to pick the best drafts.
 - Opinion drafts are suggestions for a take, never invented personal experience.
   Read the article and make the post your own.
 

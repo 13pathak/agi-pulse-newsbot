@@ -10,6 +10,7 @@ settings:
   details_max_per_day: 6       # automatic detail packs per IST day (each has 5 drafts)
   takes_for_all_stories: true  # every other delivered story gets 3 opinion takes written from its full article
   takes_max_per_day: 30        # cap on those takes messages per IST day
+  takes_judge: true            # second Gemini request picks the most natural drafts (false = skip it)
   # takes_voice: |            # optional: replace the built-in writing voice for detail-pack drafts
   #   (see DEFAULT_VOICE in article_details.py for the current wording)
   lookback_hours: 24           # ignore articles older than this (a full day, so slow nights still have stories)
