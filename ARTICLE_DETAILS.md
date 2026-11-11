@@ -38,8 +38,11 @@ summary, so you can see what happened and then choose a take to post.
 
 ## The writing voice
 
-Drafts are asked to sound like a person typing a thought on their phone: plain
-spoken English, one idea, no press-release wording. Gemini writes seven takes;
+Every draft opens with the news itself in one short clause (who did what, with
+the key figure) and then gives the reaction, so it makes sense on X to someone who
+has not seen the story. Drafts that do not name anyone or anything from the article
+are ranked last. Drafts are asked to sound like a person typing a thought on their
+phone: plain spoken English, one idea, no press-release wording. Gemini writes seven takes;
 the five most natural are kept, and any that use stock phrases ("signals",
 "redefine", "the end of" and similar) are ranked last. To change the voice, set
 `takes_voice` in `config.yaml`; the built-in wording is `DEFAULT_VOICE` in

@@ -67,9 +67,13 @@ Examples of the voice only (different topic; never reuse their content):
   fast. Concurrent models need raw VRAM density, not just compute speed."
 - "A common problem with multi-GPU rigs. They need a Xeon W9-3495X setup to even
   pull 112 PCIe Gen 5 lanes across seven slots."
-- "10 hours down to 30 minutes sounds great until you ask who checks the
-  forecast. Bet the review step is where the time goes now."
-- "9,000 connectors is a big number. How many of them actually get used?"
+- "Torus just raised $500M to pack batteries and AI compute into shipping
+  containers. Makes sense, grid hookups take years. Cooling that box is the
+  hard part though."
+- "Anthropic says a finance team cut forecast prep from 10 hours to 30 minutes
+  with Claude. Sounds great until you ask who checks the forecast."
+- "Claude's marketplace now lists 9,000+ connectors. Big number. How many of
+  them actually get used?"
 """
 
 # Stock phrases that make a draft read as machine-written; such drafts are kept last.
@@ -325,16 +329,22 @@ DETAILS ({details_count})
   percentage gains) from the article's numbers.
 
 POSTS (exactly {posts_count}, every one an opinion take; the best {keep} are kept)
-- Each is one person's honest reaction to ONE specific detail from the article:
-  what it means, what it changes, what people will miss. Not a summary, and not
-  a restatement of the detail. Name the detail so the take could not be posted
-  about any other launch.
-- Never write a plain fact post ("Anthropic says the model costs $8 ...").
+- Each post has two parts in this order: the NEWS, then the REACTION.
+  1. NEWS: open by saying what happened, in one short clause or sentence (about
+     60-110 characters): who did what, with the name of the company or product
+     and the key figure. Someone scrolling X who has seen no news today must
+     understand what the post is about from this alone. Never start with the
+     reaction, and never refer to "this", "it" or "they" before naming them.
+  2. REACTION: one person's honest take on ONE specific detail: what it means,
+     what it changes, what people will miss.
+- Word the news differently in each post, and react to a different detail.
+- A post that is only the news, with no reaction, is wrong. So is a reaction
+  with no news in front of it.
 - Opinion only: never invent personal experience ("I tested", "I built") and
   never present a vendor's claim as independently proven.
 - No hashtags, emojis, links, @mentions or engagement bait. Do not say "the
   article" or "the post"; each draft must stand alone.
-- At most 250 characters. Make at least two of them short (under 140).
+- At most 270 characters in total.
 
 VOICE (this matters most)
 {voice}
@@ -415,6 +425,21 @@ def unsupported_numbers(post: str, source_text: str) -> list[str]:
     return missing
 
 
+def proper_nouns(source_text: str) -> set[str]:
+    """Names used in the article: capitalised words that never appear in lower case
+    (so "Torus" and "Utah" count, a sentence-opening "The" or "Startup" does not)."""
+    capitalised = set(re.findall(r"\b[A-Z][A-Za-z0-9-]{2,}", source_text))
+    lower = set(re.findall(r"\b[a-z][a-z0-9-]{2,}", source_text))
+    return {word for word in capitalised if word.lower() not in lower}
+
+
+def has_context(post: str, names: set[str]) -> bool:
+    """Does a draft say what the news is about? It should name someone or something
+    from the article, so it still makes sense to a reader who has not seen the story."""
+    words = set(re.findall(r"[A-Z][A-Za-z0-9-]{2,}", post))
+    return bool(words & names)
+
+
 def validate(raw: dict, article: dict, images: list[dict], keep: int = 5, max_details: int = 6) -> dict:
     by_id = {image["id"]: image for image in images}
     kinds = {}
@@ -454,7 +479,9 @@ def validate(raw: dict, article: dict, images: list[dict], keep: int = 5, max_de
                       "picture": number.get(image_id), "verify_chart": from_chart and image_id in visual})
     if not posts:
         raise DetailsError("Gemini produced no usable drafts for this article.")
-    posts.sort(key=lambda post: bool(STIFF.search(post["text"])))  # natural-sounding drafts first (stable)
+    names = proper_nouns(source_text)
+    # Best first (stable): drafts that say what the news is, then natural-sounding ones.
+    posts.sort(key=lambda post: (not has_context(post["text"], names), bool(STIFF.search(post["text"]))))
     return {"details": details[:max_details], "posts": posts[:keep], "dropped": dropped,
             "check": nb.clean_text(str(raw.get("check") or ""), 220),
             "album": [{**by_id[i], "kind": kinds[i][0], "note": kinds[i][1]} for i in album]}

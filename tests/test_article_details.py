@@ -283,6 +283,19 @@ def test_stiff_drafts_go_last_and_only_five_are_kept():
     assert posts[0]["text"] == "Honestly not sure take a holds up."
 
 
+def test_drafts_without_the_news_in_them_go_last():
+    story = {"url": "u", "title": "Startup raises $500 million", "desc": "", "preview": "",
+             "text": "Utah company Torus raised $500 million to build modular data centers in containers."}
+    data = {"posts": [{"text": "Shipping containers packed with batteries sound like a thermal nightmare."},
+                      {"text": "Torus just raised $500 million for container data centers. Cooling is the hard part."},
+                      {"text": "Honestly the grid is the real bottleneck here."},
+                      {"text": "A Utah startup got $500 million to put compute in containers. Makes sense to me."}]}
+    posts = ad.validate(data, story, [], keep=3)["posts"]
+    assert [p["text"].split()[0] for p in posts] == ["Torus", "A", "Shipping"]
+    assert ad.has_context("Torus is onto something.", {"Torus"}) and not ad.has_context("Big if true.", {"Torus"})
+    assert "NEWS, then the REACTION" in ad.PROMPT
+
+
 def test_voice_can_be_set_in_config(monkeypatch):
     seen = {}
     monkeypatch.setattr(ad, "fetch_article", lambda url: {**article(), "images": []})
