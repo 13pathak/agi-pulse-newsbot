@@ -1034,13 +1034,20 @@
   "07b188e4bbdbc026": "2026-11-11T11:07:23.012607+00:00",
   "50f38afba5bf106a": "2026-11-11T11:07:23.012607+00:00",
   "ff1aad5f53885825": "2026-11-11T11:07:23.012607+00:00",
-  "8720d209ccf54646": "2026-11-11T11:07:23.012607+00:00"
+  "8720d209ccf54646": "2026-11-11T11:07:23.012607+00:00",
+  "5b59c75a11e5ce1d": "2026-11-11T11:37:20.537551+00:00",
+  "cf2f1f69ec6d3904": "2026-11-11T11:37:20.537551+00:00",
+  "da207fd44a9065d8": "2026-11-11T11:37:20.537551+00:00",
+  "f0e7e306d4f7c44e": "2026-11-11T11:37:20.537551+00:00",
+  "84934b4fdd2aba87": "2026-11-11T11:37:20.537551+00:00",
+  "6953975a69f50ab5": "2026-11-11T11:37:20.537551+00:00",
+  "2d9a8c10411fdce9": "2026-11-11T11:37:20.537551+00:00",
+  "3e62097d304884d1": "2026-11-11T11:37:20.537551+00:00",
+  "e6ae36654855307a": "2026-11-11T11:37:20.537551+00:00",
+  "7e5aceb460d6dca8": "2026-11-11T11:37:20.537551+00:00",
+  "558a87a3fc410224": "2026-11-11T11:37:20.537551+00:00"
  },
  "covered": [
-  {
-   "headline": "Baidu discloses ERNIE Evolve system for automated AI research",
-   "ts": "2026-11-09T11:37:20.224380+00:00"
-  },
   {
    "headline": "Apple Intelligence completes Chinese regulatory filing for iPad and Mac",
    "ts": "2026-11-09T12:07:22.714827+00:00"
@@ -1272,11 +1279,15 @@
   {
    "headline": "Google releases November Pixel Drop with Gemini AI features",
    "ts": "2026-11-11T11:07:23.012607+00:00"
+  },
+  {
+   "headline": "OpenAI to discontinue standard and advanced ChatGPT voice modes",
+   "ts": "2026-11-11T11:37:20.537551+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2537,35 +2548,15 @@
    "desc": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://claude.com/resources/articles/self-hosted-claude-managed-agents": {
+   "title": "Operate Claude Managed Agents inside your security perimeter",
+   "desc": "Meet your AI thinking partner. Tackle complex problems, analyze data, write code, and collaborate on challenging projects.",
+   "image": "https://claude.com/resources/articles/self-hosted-claude-managed-agents/opengraph-image/og",
+   "published": "2026-11-12T00:00:00+00:00"
   }
  },
  "pending": [
-  {
-   "id": "558a87a3fc410224",
-   "item": {
-    "id": "558a87a3fc410224",
-    "title": "OpenAI to discontinue old ChatGPT voice modes from Dec 11; users to shift to live voice mode",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135726625,imgsize-.cms",
-    "snippet": "OpenAI will discontinue the Advanced and Standard voice options in ChatGPT from December 11 this year, moving users to its newer Live voice mode as the company looks to simplify the voice experience and focus on improving its latest technology.",
-    "published": "2026-11-11T05:11:46+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI to discontinue standard and advanced ChatGPT voice modes",
-   "post": "OpenAI announced it will discontinue its standard and advanced voice options in ChatGPT on December 11, transitioning users to its live voice mode.",
-   "editor_note": "Confirm whether any user data or custom voice settings transfer automatically to the live mode.",
-   "published_at": "2026-11-11T05:11:46+00:00",
-   "first_seen_at": "2026-11-11T05:37:21.063136+00:00",
-   "expires_at": "2026-11-12T17:11:46+00:00",
-   "priority": 7.679146,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
-  },
   {
    "id": "1ce88ac3e6754bb1",
    "item": {
@@ -2590,8 +2581,8 @@
    "published_at": "2026-11-11T05:51:00+00:00",
    "first_seen_at": "2026-11-11T06:07:21.490074+00:00",
    "expires_at": "2026-11-12T17:51:00+00:00",
-   "priority": 7.666053,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.68339,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "6db27c0084aa9df3",
@@ -2616,8 +2607,8 @@
    "published_at": "2026-11-11T10:10:36+00:00",
    "first_seen_at": "2026-11-11T10:37:20.945947+00:00",
    "expires_at": "2026-11-12T22:10:36+00:00",
-   "priority": 7.504997,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.522334,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "a5ab5a4847bee965",
@@ -2642,7 +2633,7 @@
    "published_at": "2026-11-11T10:37:35+00:00",
    "first_seen_at": "2026-11-11T11:07:23.012607+00:00",
    "expires_at": "2026-11-12T22:37:35+00:00",
-   "priority": 7.486204,
+   "priority": 7.503541,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2670,8 +2661,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.384135,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.378934,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2696,8 +2687,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.269126,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.258724,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2722,8 +2713,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.229064,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.246401,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2748,8 +2739,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.219275,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.205405,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -2774,8 +2765,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.204684,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.190814,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -2800,8 +2791,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 7.137539,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.154876,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2828,8 +2819,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.134135,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 7.128934,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2856,86 +2847,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.134135,
-   "selection_reason": "Editorial importance; waiting 32.5h"
-  },
-  {
-   "id": "48b75c7fc00d6548",
-   "item": {
-    "id": "48b75c7fc00d6548",
-    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
-    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
-    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
-    "published": "2026-11-10T12:54:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
-   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
-   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
-   "published_at": "2026-11-10T12:54:38+00:00",
-   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
-   "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.132986,
-   "selection_reason": "Editorial importance; waiting 21.5h"
-  },
-  {
-   "id": "2551552469f4fa95",
-   "item": {
-    "id": "2551552469f4fa95",
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "published": "2026-11-10T12:40:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
-   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
-   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
-   "published_at": "2026-11-10T12:40:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.126211,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "72145b58f7c9a07a",
-   "item": {
-    "id": "72145b58f7c9a07a",
-    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
-    "published": "2026-11-10T11:47:31+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Sea earnings miss estimates amid rising AI costs",
-   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
-   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
-   "published_at": "2026-11-10T11:47:31+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.101913,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.128934,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3021,8 +2934,60 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 7.101577,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.122382,
+   "selection_reason": "Editorial importance; waiting 10.5h"
+  },
+  {
+   "id": "48b75c7fc00d6548",
+   "item": {
+    "id": "48b75c7fc00d6548",
+    "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+    "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135711507,imgsize-82374.cms",
+    "snippet": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
+    "published": "2026-11-10T12:54:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Cognizant commits 25,000 workers to Anthropic Claude enterprise deployments",
+   "post": "Cognizant assigned over 25,000 professionals to help enterprise clients deploy Anthropic's Claude models. The IT services provider aims to scale AI tools from pilot projects to production across core business operations.",
+   "editor_note": "Confirm whether Cognizant established a dedicated business unit or financial targets for the partnership.",
+   "published_at": "2026-11-10T12:54:38+00:00",
+   "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
+   "expires_at": "2026-11-12T00:54:38+00:00",
+   "priority": 7.119116,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 7.112342,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3047,8 +3012,34 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 7.072934,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.090271,
+   "selection_reason": "Editorial importance; waiting 9.5h"
+  },
+  {
+   "id": "72145b58f7c9a07a",
+   "item": {
+    "id": "72145b58f7c9a07a",
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
+    "published": "2026-11-10T11:47:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Sea earnings miss estimates amid rising AI costs",
+   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
+   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
+   "published_at": "2026-11-10T11:47:31+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-11T23:47:31+00:00",
+   "priority": 7.088044,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -3074,8 +3065,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.069869,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.055999,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -3100,8 +3091,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 6.99618,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.982311,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "d3eeea676f9df7d5",
@@ -3127,8 +3118,8 @@
    "published_at": "2026-11-10T06:51:27+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 6.964846,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.950976,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -3154,87 +3145,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 6.940309,
-   "selection_reason": "Editorial importance; waiting 29.0h"
-  },
-  {
-   "id": "6ea215fc0134acc4",
-   "item": {
-    "id": "6ea215fc0134acc4",
-    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
-    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
-    "published": "2026-11-10T05:02:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "MiaoDong Tech launches Beni tracking robot",
-   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
-   "editor_note": "Check availability details and specific currency limits for international buyers.",
-   "published_at": "2026-11-10T05:02:00+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 6.914174,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "c1692305c9ca30c3",
-   "item": {
-    "id": "c1692305c9ca30c3",
-    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-    "source": "Wired",
-    "image": "",
-    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-    "published": "2026-11-10T05:01:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google DeepMind AI tool formally verifies Signal protocol security",
-   "post": "Google DeepMind researchers used a formal verification AI tool to confirm that the Signal encryption protocol operates securely as intended.",
-   "editor_note": "Confirm the specific verification methodology used by the DeepMind research team.",
-   "published_at": "2026-11-10T05:01:00+00:00",
-   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
-   "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 6.913711,
-   "selection_reason": "Editorial importance; waiting 30.0h"
-  },
-  {
-   "id": "4ee7db6e89d552be",
-   "item": {
-    "id": "4ee7db6e89d552be",
-    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
-    "published": "2026-11-10T04:29:06+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
-   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
-   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
-   "published_at": "2026-11-10T04:29:06+00:00",
-   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
-   "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 6.898943,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.926439,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "7737e173e31a5988",
@@ -3345,8 +3257,87 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.893244,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 6.914049,
+   "selection_reason": "Editorial importance; waiting 10.5h"
+  },
+  {
+   "id": "6ea215fc0134acc4",
+   "item": {
+    "id": "6ea215fc0134acc4",
+    "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
+    "url": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在“地面视角×运动与日常生活”这一象限里，长期处于空白。 Beni正在填补这一空白——与依赖手持、固定安装或云台转动的设备不同，也与空中跟拍设备不同，Beni 将双轮足机器人结构与专业影像工程结合，让拍摄设备能够在地面自主移动，实现多地形、多角度的自主跟拍。 在运动场景中，这种能力带来了全新体验。跑步者不再需要反复架设设备、调整机位，即可通过侧面或后方跟拍记录自己的跑步状态；网球爱好者可以在固定全景机位之外，获得 360° 环绕跟拍和低视角的冲击感画面；滑板、轮滑等运动场景中，地面移动拍摄能把运动者的动作、轮子与地面环境同时纳入画面，形成更具运动感与冲击力的影像。 对于亲子家庭、创作者、独自旅行…",
+    "published": "2026-11-10T05:02:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "MiaoDong Tech launches Beni tracking robot",
+   "post": "MiaoDong Tech released its Beni multi-terrain tracking robot for immediate sale in China, priced at 4999 yuan for the standard set and 5799 yuan for the exploration set.",
+   "editor_note": "Check availability details and specific currency limits for international buyers.",
+   "published_at": "2026-11-10T05:02:00+00:00",
+   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
+   "expires_at": "2026-11-11T17:02:00+00:00",
+   "priority": 6.900304,
+   "selection_reason": "Editorial importance; waiting 28.5h"
+  },
+  {
+   "id": "c1692305c9ca30c3",
+   "item": {
+    "id": "c1692305c9ca30c3",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "source": "Wired",
+    "image": "",
+    "snippet": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "published": "2026-11-10T05:01:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google DeepMind AI tool formally verifies Signal protocol security",
+   "post": "Google DeepMind researchers used a formal verification AI tool to confirm that the Signal encryption protocol operates securely as intended.",
+   "editor_note": "Confirm the specific verification methodology used by the DeepMind research team.",
+   "published_at": "2026-11-10T05:01:00+00:00",
+   "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
+   "expires_at": "2026-11-11T17:01:00+00:00",
+   "priority": 6.899842,
+   "selection_reason": "Editorial importance; waiting 30.5h"
+  },
+  {
+   "id": "4ee7db6e89d552be",
+   "item": {
+    "id": "4ee7db6e89d552be",
+    "title": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "url": "https://www.indiatoday.in/technology/news/story/instagram-goes-global-with-ai-to-catch-teens-using-fake-adult-birthdays-3035795-2026-11-10?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Instagram goes global with AI to catch teens using fake adult birthdays",
+    "published": "2026-11-10T04:29:06+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Instagram Deploys AI Globally to Detect Teen Age Falsification",
+   "post": "Instagram is rolling out AI globally to detect and restrict teenagers who use fake adult birthdates on their accounts.",
+   "editor_note": "Check the specific regions and rollout schedule mentioned in the full release.",
+   "published_at": "2026-11-10T04:29:06+00:00",
+   "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
+   "expires_at": "2026-11-11T16:29:06+00:00",
+   "priority": 6.885073,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   }
  ],
  "details_queue": [],
@@ -3369,11 +3360,12 @@
   "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00",
   "https://36kr.com/newsflashes/4064873704297602?f=rss": "2026-11-11T10:07:39.891605+00:00",
   "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00",
-  "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00"
+  "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00"
  },
  "details_daily": {
   "date": "2026-11-11",
   "count": 3,
-  "takes": 16
+  "takes": 17
  }
 }
