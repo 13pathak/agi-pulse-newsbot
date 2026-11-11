@@ -867,13 +867,32 @@
   "1ef4277bb0b5e2f7": "2026-11-11T01:07:24.490567+00:00",
   "e18f58ec7dc7acb9": "2026-11-11T01:07:24.490567+00:00",
   "9623c7701a3b9276": "2026-11-11T01:07:24.490567+00:00",
-  "3e64000748503007": "2026-11-11T01:07:24.490567+00:00"
+  "3e64000748503007": "2026-11-11T01:07:24.490567+00:00",
+  "14f6b8b420073dc3": "2026-11-11T01:37:20.323883+00:00",
+  "cd0c3adea5a38d8b": "2026-11-11T01:37:20.323883+00:00",
+  "3bbd319f62a658ac": "2026-11-11T01:37:20.323883+00:00",
+  "970cdfbccaba1942": "2026-11-11T01:37:20.323883+00:00",
+  "0d29205225fd706b": "2026-11-11T01:37:20.323883+00:00",
+  "7739f93bab443e21": "2026-11-11T01:37:20.323883+00:00",
+  "ec8711a9b2909bb7": "2026-11-11T01:37:20.323883+00:00",
+  "87cf98e8f8b7ef89": "2026-11-11T01:37:20.323883+00:00",
+  "7ac1a3b2939bf58c": "2026-11-11T01:37:20.323883+00:00",
+  "cfd647cb340b1c80": "2026-11-11T01:37:20.323883+00:00",
+  "0300aafe4db21dff": "2026-11-11T01:37:20.323883+00:00",
+  "a8c7b35d67eac301": "2026-11-11T01:37:20.323883+00:00",
+  "5fb33f5f2e66b016": "2026-11-11T01:37:20.323883+00:00",
+  "6fcd75d626ddcf98": "2026-11-11T01:37:20.323883+00:00",
+  "413ad23659f84bb1": "2026-11-11T01:37:20.323883+00:00",
+  "378aaa0a4b16ddb3": "2026-11-11T01:37:20.323883+00:00",
+  "b8295f7edcde5fc0": "2026-11-11T01:37:20.323883+00:00",
+  "fb5e3d8fa411484c": "2026-11-11T01:37:20.323883+00:00",
+  "f9ce6b037a3d95c6": "2026-11-11T01:37:20.323883+00:00",
+  "ca33366af0ebf860": "2026-11-11T01:37:20.323883+00:00",
+  "053da60fa0cfa4af": "2026-11-11T01:37:20.323883+00:00",
+  "3e50515c6d1fc8cc": "2026-11-11T01:37:20.323883+00:00",
+  "8792b1f1c1557e49": "2026-11-11T01:37:20.323883+00:00"
  },
  "covered": [
-  {
-   "headline": "DeepSeek reports 1.54 million daily users on AI agent platform",
-   "ts": "2026-11-09T01:37:20.079145+00:00"
-  },
   {
    "headline": "Rights holders for Elvis Presley and Eminem sue AI music startup Suno",
    "ts": "2026-11-09T02:07:24.550324+00:00"
@@ -1085,11 +1104,15 @@
   {
    "headline": "Eight countries and top AI labs sign Paris declaration on safety",
    "ts": "2026-11-11T01:07:24.490567+00:00"
+  },
+  {
+   "headline": "Goldman Sachs projects Anthropic 2030 revenue",
+   "ts": "2026-11-11T01:37:20.323883+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-11",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2311,32 +2334,6 @@
  },
  "pending": [
   {
-   "id": "8792b1f1c1557e49",
-   "item": {
-    "id": "8792b1f1c1557e49",
-    "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
-    "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "image": "",
-    "snippet": "Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade",
-    "published": "2026-11-10T14:52:07+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Goldman Sachs projects Anthropic 2030 revenue",
-   "post": "Goldman Sachs projects Anthropic revenue will exceed 600 billion dollars by 2030, representing a 130-fold increase from current sales.",
-   "editor_note": "Verify whether Goldman's projection is based on public filings or private estimates.",
-   "published_at": "2026-11-10T14:52:07+00:00",
-   "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
-   "expires_at": "2026-11-12T02:52:07+00:00",
-   "priority": 8.777614,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
-  },
-  {
    "id": "02e4a20d191af380",
    "item": {
     "id": "02e4a20d191af380",
@@ -2359,8 +2356,47 @@
    "published_at": "2026-11-10T13:00:00+00:00",
    "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
    "expires_at": "2026-11-12T13:00:00+00:00",
-   "priority": 8.497428,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 8.487035,
+   "selection_reason": "Editorial importance; waiting 12.5h"
+  },
+  {
+   "id": "eb2075cc76b3cdb8",
+   "item": {
+    "id": "eb2075cc76b3cdb8",
+    "title": "OpenAI Revenue Jumps to $10 Billion in Third Quarter Amid Growing Losses",
+    "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter",
+    "source": "The Information",
+    "image": "",
+    "snippet": "OpenAI has told investors that revenue jumped nearly 50% to $10 billion in the third quarter, rebounding from a period of slower growth as demand for its more recent models and enterprise products picked up, according to a person familiar with the matter. However, the company’s operating losses also grew during the third quarter from $10.1 billion to $10.9 billion, the person said, demonstrating h…",
+    "published": "2026-11-10T21:07:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "c3f7c1329fa47180",
+     "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "OpenAI’s quarterly revenue hit $10 billion for the first time in the three months ending in September, according to people familiar with the matter, driven by strong demand for its latest artificial intelligence software.",
+     "published": "2026-11-10T22:33:06+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "OpenAI reports 10 billion dollar Q3 revenue alongside growing losses",
+   "post": "OpenAI told investors its third-quarter revenue grew nearly 50% quarter-over-quarter to $10 billion, driven by demand for enterprise products and newer models. Operating losses for the quarter rose from $10.1 billion to $10.9 billion.",
+   "editor_note": "Verify Q3 revenue growth rate and exact operating loss figures.",
+   "published_at": "2026-11-10T21:07:30+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T09:07:30+00:00",
+   "priority": 8.375075,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "c06c1375a8dda558",
@@ -2386,8 +2422,8 @@
    "published_at": "2026-11-10T11:56:53+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:56:53+00:00",
-   "priority": 8.384016,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 8.37016,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "35f00681774962fa",
@@ -2412,8 +2448,8 @@
    "published_at": "2026-11-10T11:42:42+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-11T23:42:42+00:00",
-   "priority": 8.37745,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 8.363593,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "7da1b2b4758f6148",
@@ -2441,6 +2477,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "8ab9bda3b9d181f1",
+     "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+     "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+     "source": "The Decoder",
+     "image": "",
+     "snippet": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeare…",
+     "published": "2026-11-10T17:11:10+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 8,
@@ -2451,8 +2499,8 @@
    "published_at": "2026-11-09T19:51:47+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-11T19:51:47+00:00",
-   "priority": 7.984132,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 8.004917,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -2477,8 +2525,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 7.826173,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 7.843494,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -2503,8 +2551,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 7.809512,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
+   "priority": 7.826833,
+   "selection_reason": "Time-sensitive story; waiting 9.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2531,8 +2579,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.488297,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.483101,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2557,34 +2605,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 7.477451,
-   "selection_reason": "Editorial importance; waiting 12.5h"
-  },
-  {
-   "id": "2551552469f4fa95",
-   "item": {
-    "id": "2551552469f4fa95",
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
-    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "published": "2026-11-10T12:40:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
-   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
-   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
-   "published_at": "2026-11-10T12:40:00+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-12T00:40:00+00:00",
-   "priority": 7.403978,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.467058,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2609,34 +2631,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 7.381856,
+   "priority": 7.399177,
    "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "72145b58f7c9a07a",
-   "item": {
-    "id": "72145b58f7c9a07a",
-    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
-    "published": "2026-11-10T11:47:31+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Sea earnings miss estimates amid rising AI costs",
-   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
-   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
-   "published_at": "2026-11-10T11:47:31+00:00",
-   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
-   "expires_at": "2026-11-11T23:47:31+00:00",
-   "priority": 7.37968,
-   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "48b75c7fc00d6548",
@@ -2661,8 +2657,60 @@
    "published_at": "2026-11-10T12:54:38+00:00",
    "first_seen_at": "2026-11-10T13:37:22.908739+00:00",
    "expires_at": "2026-11-12T00:54:38+00:00",
-   "priority": 7.37953,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.396851,
+   "selection_reason": "Editorial importance; waiting 12.0h"
+  },
+  {
+   "id": "2551552469f4fa95",
+   "item": {
+    "id": "2551552469f4fa95",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGPofATL3kp6DFUFcsTyYd-1920-80.jpg",
+    "snippet": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "published": "2026-11-10T12:40:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Linus Torvalds reports AI fixes in Linux kernel",
+   "post": "Linus Torvalds reported that AI-driven fixes accounted for most progress in Linux kernel 7.4rc2, with BPF receiving more AI-written fixes than bug reports.",
+   "editor_note": "Check if Linus Torvalds attributes the trend directly to automated code generation or developer tools.",
+   "published_at": "2026-11-10T12:40:00+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-12T00:40:00+00:00",
+   "priority": 7.390121,
+   "selection_reason": "Editorial importance; waiting 12.5h"
+  },
+  {
+   "id": "72145b58f7c9a07a",
+   "item": {
+    "id": "72145b58f7c9a07a",
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Sea Ltd. earnings missed estimates after the Southeast Asia e-commerce leader boosted spending in AI features and intense competition weighed on prices.",
+    "published": "2026-11-10T11:47:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Sea earnings miss estimates amid rising AI costs",
+   "post": "Sea Ltd. missed earnings estimates as the Southeast Asian e-commerce operator increased spending on artificial intelligence features and faced pricing competition.",
+   "editor_note": "Verify the exact financial shortfall and the proportion of expenses attributed directly to AI feature investments.",
+   "published_at": "2026-11-10T11:47:31+00:00",
+   "first_seen_at": "2026-11-10T13:07:23.002969+00:00",
+   "expires_at": "2026-11-11T23:47:31+00:00",
+   "priority": 7.365823,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "1d1a610854e40bd0",
@@ -2688,8 +2736,8 @@
    "published_at": "2026-11-10T10:38:18+00:00",
    "first_seen_at": "2026-11-10T11:37:22.099252+00:00",
    "expires_at": "2026-11-11T22:38:18+00:00",
-   "priority": 7.347635,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.333778,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "f35d851cd4a19dfb",
@@ -2714,35 +2762,8 @@
    "published_at": "2026-11-10T07:59:08+00:00",
    "first_seen_at": "2026-11-10T08:37:24.312523+00:00",
    "expires_at": "2026-11-11T19:59:08+00:00",
-   "priority": 7.273947,
-   "selection_reason": "Editorial importance; waiting 16.5h"
-  },
-  {
-   "id": "d3eeea676f9df7d5",
-   "item": {
-    "id": "d3eeea676f9df7d5",
-    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
-    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
-    "published": "2026-11-10T06:51:27+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "SoftBank discloses total investment in OpenAI",
-   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
-   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
-   "published_at": "2026-11-10T06:51:27+00:00",
-   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
-   "expires_at": "2026-11-11T18:51:27+00:00",
-   "priority": 7.242612,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.26009,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2769,8 +2790,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.238297,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.233101,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2797,8 +2818,35 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 7.238297,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.233101,
+   "selection_reason": "Editorial importance; waiting 23.0h"
+  },
+  {
+   "id": "d3eeea676f9df7d5",
+   "item": {
+    "id": "d3eeea676f9df7d5",
+    "title": "软银：截至第二季度末对OpenAI投资总额546亿美元",
+    "url": "https://36kr.com/newsflashes/4063584052466817?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）",
+    "published": "2026-11-10T06:51:27+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SoftBank discloses total investment in OpenAI",
+   "post": "SoftBank reported a total investment of 54.6 billion dollars in OpenAI as of the end of the second quarter.",
+   "editor_note": "Confirm the specific quarter definition referenced in the financial disclosure.",
+   "published_at": "2026-11-10T06:51:27+00:00",
+   "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
+   "expires_at": "2026-11-11T18:51:27+00:00",
+   "priority": 7.228755,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "3ea2bbdb97e368ef",
@@ -2824,8 +2872,8 @@
    "published_at": "2026-11-10T05:58:27+00:00",
    "first_seen_at": "2026-11-10T06:07:22.591193+00:00",
    "expires_at": "2026-11-11T17:58:27+00:00",
-   "priority": 7.218075,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.204218,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "6ea215fc0134acc4",
@@ -2851,8 +2899,8 @@
    "published_at": "2026-11-10T05:02:00+00:00",
    "first_seen_at": "2026-11-10T07:07:23.927899+00:00",
    "expires_at": "2026-11-11T17:02:00+00:00",
-   "priority": 7.191941,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.178084,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "c1692305c9ca30c3",
@@ -2877,8 +2925,8 @@
    "published_at": "2026-11-10T05:01:00+00:00",
    "first_seen_at": "2026-11-10T05:07:25.911204+00:00",
    "expires_at": "2026-11-11T17:01:00+00:00",
-   "priority": 7.191478,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.177621,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "4ee7db6e89d552be",
@@ -2903,8 +2951,8 @@
    "published_at": "2026-11-10T04:29:06+00:00",
    "first_seen_at": "2026-11-10T04:37:21.282550+00:00",
    "expires_at": "2026-11-11T16:29:06+00:00",
-   "priority": 7.176709,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.162852,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "cb7863665107d049",
@@ -2929,8 +2977,8 @@
    "published_at": "2026-11-09T17:58:05+00:00",
    "first_seen_at": "2026-11-10T01:37:25.783284+00:00",
    "expires_at": "2026-11-11T05:58:05+00:00",
-   "priority": 6.884572,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.870715,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "1f917ef42e116f1b",
@@ -2955,8 +3003,34 @@
    "published_at": "2026-11-09T17:24:26+00:00",
    "first_seen_at": "2026-11-10T01:07:22.062265+00:00",
    "expires_at": "2026-11-11T05:24:26+00:00",
-   "priority": 6.868993,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.855136,
+   "selection_reason": "Editorial importance; waiting 24.5h"
+  },
+  {
+   "id": "75611a00ad611de2",
+   "item": {
+    "id": "75611a00ad611de2",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines it…",
+    "published": "2026-11-10T18:41:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia releases GR00T 2 model for video-based robot training",
+   "post": "Nvidia introduced GR00T 2, an AI model designed to train robotic arms by mapping human movements from video footage rather than teleoperation. Trained on roughly 400,000 hours of video, task success rates range from 10% to 80%.",
+   "editor_note": "Verify model release status and availability of weights or API.",
+   "published_at": "2026-11-10T18:41:52+00:00",
+   "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
+   "expires_at": "2026-11-12T06:41:52+00:00",
+   "priority": 6.807652,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3008,6 +3082,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "445fc6287a33b8c1",
+     "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+     "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+     "published": "2026-11-10T18:49:52+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -3018,7 +3104,7 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.684928,
+   "priority": 6.705713,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3071,6 +3157,43 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "eb06b7a71ce1379c",
+     "title": "Open your apps in Claude and work in them together",
+     "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+     "source": "Claude Product Updates",
+     "image": "https://claude.com/resources/articles/interactive-connectors-full-tool/opengraph-image/og",
+     "snippet": "Interactive connectors can now open beside your chat or full screen, so you and Claude can work in the same tool, where the connector supports it.",
+     "published": "2026-11-10T00:00:00+00:00",
+     "images": true,
+     "category": "primary",
+     "source_cap": 3
+    },
+    {
+     "id": "4b6f48407a5aed2f",
+     "title": "Anthropic进军人工智能办公软件，IPO前与微软谷歌竞争升温",
+     "url": "https://36kr.com/newsflashes/4064625635185794?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "Anthropic推出一系列工具，进一步将人工智能（AI）融入日常办公，与微软和谷歌展开更直接的竞争。这些功能将于周二Anthropic的一场活动上发布，包括视频通话助手、数据仪表板工具，以及名为Claude Sheets的电子表格服务。Claude Sheets与微软Excel和谷歌Sheets非常相似，但内置Anthropic的AI功能。许多新工具将以测试版形式向付费用户开放。（新浪财经）",
+     "published": "2026-11-11T00:40:56+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    },
+    {
+     "id": "ec3f910d2a185a91",
+     "title": "Anthropic has its own AI-powered office suite now",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
+     "published": "2026-11-10T17:30:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -3081,25 +3204,18 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T00:00:00+00:00",
-   "priority": 6.476594,
+   "priority": 6.497379,
    "selection_reason": "Editorial importance"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
-   "source": "The Decoder",
-   "kind": "takes",
-   "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
-   "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines. The article Eight countries and top AI labs agree to shutdown mechani…",
-   "queued_at": "2026-11-11T01:07:24.490567+00:00",
-   "attempts": 1
-  }
- ],
- "details_done": {},
+ "details_queue": [],
+ "details_done": {
+  "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
+  "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00"
+ },
  "details_daily": {
   "date": "2026-11-11",
   "count": 0,
-  "takes": 0
+  "takes": 2
  }
 }
