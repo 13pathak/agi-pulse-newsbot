@@ -3141,8 +3141,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.594876,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.612267,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "fcaa5a11eb2249d0",
@@ -3167,8 +3167,8 @@
    "published_at": "2026-11-12T13:21:09+00:00",
    "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
    "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.527122,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.544513,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3195,8 +3195,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.097676,
-   "selection_reason": "Editorial importance; waiting 50.0h"
+   "priority": 7.092459,
+   "selection_reason": "Editorial importance; waiting 50.5h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3221,8 +3221,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.00852,
-   "selection_reason": "Editorial importance"
+   "priority": 7.025912,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3249,8 +3249,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.847676,
-   "selection_reason": "Editorial importance; waiting 60.0h"
+   "priority": 6.842459,
+   "selection_reason": "Editorial importance; waiting 60.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3277,8 +3277,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.847676,
-   "selection_reason": "Editorial importance; waiting 60.0h"
+   "priority": 6.842459,
+   "selection_reason": "Editorial importance; waiting 60.5h"
   }
  ],
  "details_queue": [],
