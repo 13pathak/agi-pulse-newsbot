@@ -220,17 +220,42 @@ def test_process_queue_failures_and_quiet_hours():
             raise ad.DetailsError("no text")
         raise nb.GeminiUnavailable("busy")
 
+    waits = []
     for attempt in (1, 2):
-        assert ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, None) == 0
+        assert ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, None, sleep=waits.append) == 0
         assert [e["url"] for e in state["details_queue"]] == ["https://a.test/busy"]
         assert state["details_queue"][0]["attempts"] == attempt
-    ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, None)
+    assert waits == [*ad.RETRY_WAITS] * 2                  # each run waits and retries before postponing
+    ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, None, sleep=waits.append)
     assert state["details_queue"] == []                    # given up after three attempts
 
     night = datetime(2026, 11, 10, 19, 0, tzinfo=timezone.utc)  # 00:30 IST
     state = {"details_queue": [entry("https://a.test/1")]}
     assert ad.process_queue(state, SETTINGS, night, "t", "c", "k", lambda *a: pytest.fail("quiet hours"), None) == 0
     assert len(state["details_queue"]) == 1
+
+
+def test_process_queue_retries_a_busy_gemini_in_the_same_run(monkeypatch):
+    calls, waits, sent = [], [], []
+
+    def build(item, key, settings, light):
+        calls.append(item["url"])
+        if len(calls) == 1:
+            raise nb.GeminiUnavailable("busy")
+        return {"url": item["url"], "light": light}
+
+    state = {"details_queue": [{**entry("https://a.test/1"), "kind": "takes"}]}
+    assert ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, lambda t, c, p: sent.append(p),
+                            sleep=waits.append) == 1
+    assert len(calls) == 2 and waits == [ad.RETRY_WAITS[0]] and len(sent) == 1
+    assert state["details_queue"] == []                    # sent in this run, not postponed to the next
+
+    # Out of time: no further wait, the entry is postponed as before.
+    monkeypatch.setattr(ad, "RETRY_BUDGET", 0)
+    calls.clear(), waits.clear()
+    state = {"details_queue": [{**entry("https://a.test/2"), "kind": "takes"}]}
+    assert ad.process_queue(state, SETTINGS, NOW, "t", "c", "k", build, None, sleep=waits.append) == 0
+    assert waits == [] and state["details_queue"][0]["attempts"] == 1
 
 
 def test_requested_pack_retries_once_then_reports_gemini_overload(monkeypatch):

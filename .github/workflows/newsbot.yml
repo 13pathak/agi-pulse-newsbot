@@ -22,7 +22,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -53,7 +53,9 @@ jobs:
         # A failure here must not stop the state from being saved or fail the news run.
         if: ${{ !cancelled() && steps.run_bot.outcome != 'skipped' && (github.event.inputs.mode == 'normal' || github.event.inputs.mode == '') }}
         continue-on-error: true
-        timeout-minutes: 4   # never let a slow pack keep the state from being saved
+        # Room to wait out a busy Gemini and retry in this run (article_details.py
+        # RETRY_WAITS), but never let a slow pack keep the state from being saved.
+        timeout-minutes: 9
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

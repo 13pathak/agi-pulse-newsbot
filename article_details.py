@@ -43,6 +43,8 @@ MAX_ALBUM = 4                  # pictures sent to Telegram
 QUEUE_TTL_HOURS = 12
 MAX_ATTEMPTS = 3
 PACKS_PER_RUN = 2
+RETRY_WAITS = (45, 60)         # seconds to wait before retrying a pack when Gemini is busy
+RETRY_BUDGET = 300             # no new wait once the queue step has run this long (step limit: 9 min)
 TELEGRAM_LIMIT = 4096
 IMAGE_TYPES = {"image/jpeg": "jpg", "image/png": "png", "image/webp": "webp"}
 USEFUL_KINDS = ("chart", "table", "diagram", "screenshot", "photo")
@@ -727,10 +729,25 @@ def send_pack(token: str, chat_id: str, pack: dict) -> None:
 
 # ───────────────────────── follow-ups for delivered official stories ─────────────────────────
 
+def build_patiently(builder, entry: dict, api_key: str, settings: dict, light: bool, started: float,
+                    sleep=time.sleep) -> dict:
+    """Build a pack, waiting out a brief Gemini overload inside this run. Without this
+    the follow-up would arrive with the next run, half an hour after its news draft."""
+    for wait in (*RETRY_WAITS, None):
+        try:
+            return builder(entry, api_key, settings, light)
+        except nb.GeminiUnavailable as e:
+            if wait is None or time.monotonic() - started + wait > RETRY_BUDGET:
+                raise
+            log.warning("Gemini unavailable (%s); retrying in %ds", e, wait)
+            sleep(wait)
+
+
 def process_queue(state: dict, settings: dict, now: datetime, token: str, chat_id: str, api_key: str,
-                  builder=build_for_entry, sender=send_pack, persist=lambda: None) -> int:
+                  builder=build_for_entry, sender=send_pack, persist=lambda: None, sleep=time.sleep) -> int:
     """Send follow-ups for delivered stories: detail packs for official ones, takes
     for the rest. Returns how many were sent."""
+    started = time.monotonic()
     queue = state.setdefault("details_queue", [])
     done = state.setdefault("details_done", {})
     for url, stamp in list(done.items()):
@@ -756,7 +773,7 @@ def process_queue(state: dict, settings: dict, now: datetime, token: str, chat_i
         if sent >= PACKS_PER_RUN or (light and daily["takes"] >= takes_limit):
             break
         try:
-            pack = builder(entry, api_key, settings, light)
+            pack = build_patiently(builder, entry, api_key, settings, light, started, sleep)
             sender(token, chat_id, pack)
         except DetailsError as e:
             log.warning("no detail pack for %s: %s", entry["url"], e)
