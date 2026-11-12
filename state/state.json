@@ -1381,13 +1381,23 @@
   "f2aa274e5fb1c127": "2026-11-12T09:37:22.304670+00:00",
   "191f48f34687e030": "2026-11-12T09:37:22.304670+00:00",
   "2a31c182cd85e830": "2026-11-12T09:37:22.304670+00:00",
-  "be6a1abda9866f2d": "2026-11-12T09:37:22.304670+00:00"
+  "be6a1abda9866f2d": "2026-11-12T09:37:22.304670+00:00",
+  "5ca4dc7b6d88cb31": "2026-11-12T10:07:27.209325+00:00",
+  "9198dc1328a39d8d": "2026-11-12T10:07:27.209325+00:00",
+  "c4aec7fa660f3f85": "2026-11-12T10:07:27.209325+00:00",
+  "7396b577c72532a7": "2026-11-12T10:07:27.209325+00:00",
+  "445fc6287a33b8c1": "2026-11-12T10:07:27.209325+00:00",
+  "b1cad9669f49012e": "2026-11-12T10:07:27.209325+00:00",
+  "227c554b75c881a1": "2026-11-12T10:07:27.209325+00:00",
+  "a180c04ab4e82784": "2026-11-12T10:07:27.209325+00:00",
+  "04a3bf12dd36deca": "2026-11-12T10:07:27.209325+00:00",
+  "d3eed08b58fd28f7": "2026-11-12T10:07:27.209325+00:00",
+  "3713080338819159": "2026-11-12T10:07:27.209325+00:00",
+  "ff62c4b9f599337f": "2026-11-12T10:07:27.209325+00:00",
+  "bff82217dc5b16a9": "2026-11-12T10:07:27.209325+00:00",
+  "f42c66e7d0fc9eca": "2026-11-12T10:07:27.209325+00:00"
  },
  "covered": [
-  {
-   "headline": "Marvell plans $115 billion acquisition of Lumentum",
-   "ts": "2026-11-10T10:07:23.436183+00:00"
-  },
   {
    "headline": "Anthropic sets IPO share price range at 70 to 78 dollars",
    "ts": "2026-11-10T11:07:22.430225+00:00"
@@ -1611,11 +1621,15 @@
   {
    "headline": "UK AI chip startup Fractile reaches $7 billion valuation",
    "ts": "2026-11-12T09:37:22.304670+00:00"
+  },
+  {
+   "headline": "Chariot launches text-to-speech model supporting 11 Indian languages",
+   "ts": "2026-11-12T10:07:27.209325+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2932,6 +2946,33 @@
  },
  "pending": [
   {
+   "id": "183da59d7eb10ef3",
+   "item": {
+    "id": "183da59d7eb10ef3",
+    "title": "联合航空禁止Muse、Instinct等AI智能体预订航班",
+    "url": "https://36kr.com/newsflashes/4066584261022849?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "继银行、零售商出于隐私顾虑出台同类禁令之后，联合航空宣布将禁止各类AI智能体与AI助手预订本航空公司的航班。该禁令既适用于在联合航空App、官网直接发起的订票行为，也涵盖通过旅行社与旅游聚合平台完成的订票。航司称，正在更新订票、出票与分销相关政策，同时更新客户帮助页面，帮助用户保护个人信息。（新浪财经）",
+    "published": "2026-11-12T09:52:43+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "United Airlines bans AI agents from booking flights",
+   "post": "United Airlines has banned AI agents and assistants from booking flights across its app, website, and third-party channels. The airline cited privacy concerns and is updating its ticketing and distribution policies.",
+   "editor_note": "Confirm effective date and enforcement mechanism for third-party travel aggregator channels.",
+   "published_at": "2026-11-12T09:52:43+00:00",
+   "first_seen_at": "2026-11-12T10:07:27.209325+00:00",
+   "expires_at": "2026-11-13T21:52:43+00:00",
+   "priority": 7.493177,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "13f9d9491c402dfb",
    "item": {
     "id": "13f9d9491c402dfb",
@@ -2956,8 +2997,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.149762,
-   "selection_reason": "Editorial importance; waiting 45.0h"
+   "priority": 7.144539,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2984,8 +3025,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.899762,
-   "selection_reason": "Editorial importance; waiting 55.0h"
+   "priority": 6.894539,
+   "selection_reason": "Editorial importance; waiting 55.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3012,8 +3053,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.899762,
-   "selection_reason": "Editorial importance; waiting 55.0h"
+   "priority": 6.894539,
+   "selection_reason": "Editorial importance; waiting 55.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3051,95 +3092,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.80038,
-   "selection_reason": "Editorial importance; waiting 45.0h"
-  },
-  {
-   "id": "5ca4dc7b6d88cb31",
-   "item": {
-    "id": "5ca4dc7b6d88cb31",
-    "title": "Introducing Businesses in ChatGPT",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt",
-    "source": "OpenAI",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7Eicp7g84HA3PCzyVJTfbT/d423890d5a1a863bf69a57bcbbbf6e99/business-agents-blog-social.png?w=1600&h=900&fit=fill",
-    "snippet": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "published": "2026-11-10T10:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "9198dc1328a39d8d",
-     "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
-     "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions appeared first on The D…",
-     "published": "2026-11-10T20:17:00+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "c4aec7fa660f3f85",
-     "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US ecommerce firms",
-     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms/articleshow/135719046.cms",
-     "source": "The Economic Times",
-     "image": "https://img.etimg.com/photo/msid-135719046,imgsize-1695316.cms",
-     "snippet": "OpenAI said on Tuesday it was launching \"Businesses\" in beta within ChatGPT, giving companies a way to claim and manage their profiles, update information and track how users engage",
-     "published": "2026-11-10T19:08:14+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "7396b577c72532a7",
-     "title": "ChatGPT is getting verified AI ‘Business Agents’",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-     "source": "The Verge",
-     "image": "",
-     "snippet": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
-     "published": "2026-11-10T18:00:00+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "445fc6287a33b8c1",
-     "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-     "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-     "published": "2026-11-10T18:49:52+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "b1cad9669f49012e",
-     "title": "OpenAI rolls out business AI agents on ChatGPT, to help customers during shopping",
-     "url": "https://www.indiatoday.in/technology/news/story/openai-rolls-out-business-ai-agents-on-chatgpt-to-help-customers-during-shopping-3036500-2026-11-11?utm_source=rss",
-     "source": "India Today",
-     "image": "",
-     "snippet": "OpenAI rolls out business AI agents on ChatGPT, to help customers during shopping",
-     "published": "2026-11-11T04:35:09+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI introduces business profiles and AI agents in ChatGPT",
-   "post": "OpenAI launched a beta feature called Businesses in ChatGPT, allowing companies to claim profiles and manage product information. Eligible U.S. e-commerce merchants can also deploy AI agents to handle customer inquiries directly in chats.",
-   "editor_note": "Verify beta availability scope for e-commerce merchants.",
-   "published_at": "2026-11-10T10:00:00+00:00",
-   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
-   "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.757857,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.789935,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   }
  ],
  "details_queue": [],
@@ -3189,11 +3143,12 @@
   "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india": "2026-11-12T08:08:22.501020+00:00",
   "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html": "2026-11-12T08:41:48.567861+00:00",
   "https://elevenlabs.io/blog/nvidia": "2026-11-12T09:08:26.946706+00:00",
-  "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1": "2026-11-12T09:40:59.936706+00:00"
+  "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1": "2026-11-12T09:40:59.936706+00:00",
+  "https://analyticsindiamag.com/ai-news/chariot-launches-multilingual-tts-model-with-support-for-11-indian-languages": "2026-11-12T10:09:36.991416+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 2,
-  "takes": 17
+  "takes": 18
  }
 }
