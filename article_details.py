@@ -462,6 +462,14 @@ def call_gemini(prompt: str, images: list[dict], api_key: str, models: list[str]
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}}
     problems = []
     for i, model in enumerate(models):
+        if model.startswith(nb.CEREBRAS_PREFIX):   # a non-Gemini fallback; its reply carries "written_by"
+            try:
+                return nb.call_cerebras(prompt, model, [
+                    {"label": parts[n]["text"], "mime": image["mime"], "data": image["data"]}
+                    for n, image in zip(range(1, len(parts), 2), images)], 0.9)
+            except nb.GeminiUnavailable as e:
+                problems.append(str(e))
+                continue
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
         try:
             r = nb._post_gemini(url, body, api_key, model, tries=2 if i == 0 else 1)
@@ -732,8 +740,10 @@ def build_pack(url: str, api_key: str, settings: dict, source: str = "", light: 
                            details_count="3" if light else "5 or 6", posts_count=wanted, keep=keep,
                            shape_plan=shape_plan(wanted, rng or random.Random()))
     models = gemini_models(settings)
-    pack = validate(call_gemini(prompt, images, api_key, models), article, images,
-                    keep=wanted, max_details=0 if summary_only else 3 if light else 6)
+    raw = call_gemini(prompt, images, api_key, models)
+    pack = validate(raw, article, images, keep=wanted, max_details=0 if summary_only else 3 if light else 6)
+    if raw.get("written_by"):
+        pack["written_by"] = raw["written_by"]
     if settings.get("takes_judge", True) and len(pack["posts"]) > keep:
         notes = {}
         judge(pack["posts"], api_key, models, f"{article['title']}\n{article['text']}",
@@ -767,6 +777,8 @@ def render(pack: dict) -> tuple[str, list[list[dict]]]:
     head = [f"{label} · {esc(pack['source'])}", f"<i>{esc(pack['title'] or pack['url'])}</i>"]
     if pack.get("summary_only"):
         head.append("⚠️ Written from the summary only: the full article could not be read.")
+    if pack.get("written_by"):
+        head.append(nb.fallback_note(pack["written_by"]))
     drafts = ["", "<b>Drafts — review before posting</b>"]
     for n, post in enumerate(pack["posts"], 1):
         notes = [f"{nb.x_len(post['text'])}/280"]

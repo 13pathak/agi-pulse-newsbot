@@ -253,6 +253,61 @@ def test_picture_check_drops_only_pictures_judged_unhelpful(monkeypatch):
     assert newsbot.picture_helps({**pick, "picture": None}, "https://x.test/page", "k", "m") and len(asked) == 2
 
 
+def test_cerebras_writes_the_draft_when_every_gemini_model_is_busy(env, monkeypatch):
+    import yaml
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["settings"]["gemini_fallback_models"] = ["gemini-3.6-flash", "cerebras:gpt-oss-120b", "cerebras:qwen-3.8-27b"]
+    cfg["settings"]["max_drafts_per_run"] = 1
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+    telegram, asked = newsbot.requests.post, []
+
+    def post(url, json=None, headers=None, **kw):
+        if "generativelanguage" in url:
+            return Resp(status=429)
+        if url == newsbot.CEREBRAS_URL:
+            asked.append((json["model"], headers))
+            if json["model"] == "gpt-oss-120b":
+                return Resp(status=503)
+            prompt = json["messages"][0]["content"]
+            first = __import__("json").loads(prompt.split("ITEMS:\n")[1].split("\n\nReply with")[0])[0]
+            reply = {"picks": [{"primary_id": first["id"], "importance": 9, "headline": "Fallback headline",
+                                "post": "A fallback draft."}]}
+            return Resp(payload={"choices": [{"message": {"content": "```json\n" + __import__("json").dumps(reply) + "\n```"}}]})
+        return telegram(url, json=json, **kw)
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    monkeypatch.setattr(newsbot.time, "sleep", lambda seconds: None)
+    assert newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"]) == 0   # no key: queue kept
+    assert asked == [] and env["sent"] == []
+    monkeypatch.setenv("CEREBRAS_API_KEY", "c")
+    assert newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"]) == 0
+    assert [model for model, _ in asked] == ["gpt-oss-120b", "qwen-3.8-27b"]
+    assert asked[0][1] == {"Authorization": "Bearer c"}
+    text = env["sent"][0]["text"]
+    assert "A fallback draft." in text
+    assert "Written by the fallback model qwen-3.8-27b because Gemini was busy" in text
+
+
+def test_cerebras_pictures_go_only_to_a_model_that_can_read_them(monkeypatch):
+    bodies = []
+    monkeypatch.setenv("CEREBRAS_API_KEY", "c")
+    monkeypatch.setattr(newsbot.requests, "post", lambda url, json=None, **kw: bodies.append(json) or Resp(
+        payload={"choices": [{"message": {"content": '{"posts": []}'}}]}))
+    pictures = [{"label": "PICTURE i1", "mime": "image/png", "data": b"png"},
+                {"label": "PICTURE i2", "mime": "image/webp", "data": b"webp"}]
+    with pytest.raises(newsbot.GeminiUnavailable, match="cannot read pictures"):
+        newsbot.call_cerebras("prompt", "cerebras:gpt-oss-120b", pictures)
+    reply = newsbot.call_cerebras("prompt", "cerebras:qwen-3.8-27b", pictures)
+    assert reply == {"posts": [], "written_by": "cerebras:qwen-3.8-27b"}
+    content = bodies[0]["messages"][0]["content"]
+    assert [part["type"] for part in content] == ["text", "text", "image_url"]        # WebP is not accepted
+    assert content[2]["image_url"]["url"].startswith("data:image/png;base64,")
+    assert bodies[0]["response_format"] == {"type": "json_object"}
+    monkeypatch.setattr(newsbot.requests, "post", lambda url, **kw: Resp(payload={"choices": []}))
+    with pytest.raises(newsbot.GeminiUnavailable, match="incomplete response"):
+        newsbot.call_cerebras("prompt", "cerebras:gpt-oss-120b")
+
+
 def test_call_decisions_request_and_errors(monkeypatch):
     calls = []
     replies = [Resp(payload={"answers": {"q": {"type": "noul", "noul": 0.8, "confidence": 0.8}}}),

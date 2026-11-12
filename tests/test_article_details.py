@@ -234,6 +234,28 @@ def test_takes_are_written_from_the_first_outlet_that_can_be_read(monkeypatch):
     assert ad.build_for_entry(item, "k", {}, True)["summary_only"]
 
 
+def test_pack_written_by_a_fallback_model_says_so(monkeypatch):
+    calls = []
+
+    def cerebras(prompt, model, pictures=(), temperature=0.8):
+        calls.append((model, [p["label"] for p in pictures]))
+        if model == "cerebras:gpt-oss-120b":
+            raise nb.GeminiUnavailable(f"{model}: cannot read pictures")
+        return {"posts": [{"text": "Model 5.2 costs $8. Is that enough?"}], "written_by": model}
+
+    monkeypatch.setattr(nb, "_post_gemini", lambda *a, **kw: (_ for _ in ()).throw(nb.GeminiUnavailable("busy")))
+    monkeypatch.setattr(nb, "call_cerebras", cerebras)
+    monkeypatch.setattr(ad, "fetch_article", lambda url: {**article(), "images": []})
+    monkeypatch.setattr(ad, "download_images", lambda candidates: images())
+    settings = {"gemini_fallback_models": ["cerebras:gpt-oss-120b", "cerebras:qwen-3.8-27b"], "takes_judge": False}
+    result = ad.build_pack("https://x.test/a", "k", settings)
+    assert [model for model, _ in calls] == ["cerebras:gpt-oss-120b", "cerebras:qwen-3.8-27b"]
+    assert len(calls[1][1]) == len(images()) and calls[1][1][0].startswith("PICTURE i1")
+    assert result["written_by"] == "cerebras:qwen-3.8-27b"
+    assert "Written by the fallback model qwen-3.8-27b" in ad.render(result)[0]
+    assert "fallback model" not in ad.render(pack())[0]
+
+
 def test_render_shows_the_launch_checklist():
     text, _ = ad.render({**pack(), "checklist": ["✅ price stated", "❌ available now"]})
     assert "🧾 <b>In the article:</b> ✅ price stated · ❌ available now" in text

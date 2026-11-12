@@ -32,6 +32,7 @@ jobs:
       - name: Send detail pack
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}   # optional: fallback when Gemini is busy
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
