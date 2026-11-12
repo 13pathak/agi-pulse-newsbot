@@ -1301,17 +1301,19 @@
   "c6472d283700a641": "2026-11-12T05:07:23.365501+00:00",
   "669c2fe832ea24b1": "2026-11-12T05:07:23.365501+00:00",
   "72bf0a9d0e4936f7": "2026-11-12T05:07:23.365501+00:00",
-  "7f5fb0b6e890e321": "2026-11-12T05:07:23.365501+00:00"
+  "7f5fb0b6e890e321": "2026-11-12T05:07:23.365501+00:00",
+  "af7403b4563990ca": "2026-11-12T05:37:23.867291+00:00",
+  "c6f6800eebd05e24": "2026-11-12T05:37:23.867291+00:00",
+  "9bf0d2825fbdbcc2": "2026-11-12T05:37:23.867291+00:00",
+  "59ac979418cf1942": "2026-11-12T05:37:23.867291+00:00",
+  "cf7208e93ee63009": "2026-11-12T05:37:23.867291+00:00",
+  "e854e6eabb4340ed": "2026-11-12T05:37:23.867291+00:00",
+  "dbdeea12bd513df2": "2026-11-12T05:37:23.867291+00:00",
+  "c8ebb12507be8153": "2026-11-12T05:37:23.867291+00:00",
+  "9f12785eb3a902ff": "2026-11-12T05:37:23.867291+00:00",
+  "c0eb96b74d10367b": "2026-11-12T05:37:23.867291+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic Releases Claude Fable and Mythos 5.2 Models",
-   "ts": "2026-11-10T05:07:25.911204+00:00"
-  },
-  {
-   "headline": "Tesla Targets Late 2027 For Optimus Robot Deliveries",
-   "ts": "2026-11-10T05:37:22.133193+00:00"
-  },
   {
    "headline": "Qantas Cuts 850 Jobs In Accenture AI Partnership",
    "ts": "2026-11-10T06:07:22.591193+00:00"
@@ -1535,11 +1537,15 @@
   {
    "headline": "Baidu CEO forecasts long-term inference chip demand",
    "ts": "2026-11-12T05:07:23.365501+00:00"
+  },
+  {
+   "headline": "Tencent launches public web search engine Yuanbao Search",
+   "ts": "2026-11-12T05:37:23.867291+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2878,8 +2884,8 @@
    "published_at": "2026-11-11T22:42:47+00:00",
    "first_seen_at": "2026-11-12T03:07:20.943877+00:00",
    "expires_at": "2026-11-13T10:42:47+00:00",
-   "priority": 7.446984,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.46435,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "a1c8c9dbe43bef5c",
@@ -2905,7 +2911,34 @@
    "published_at": "2026-11-12T02:46:00+00:00",
    "first_seen_at": "2026-11-12T05:07:23.365501+00:00",
    "expires_at": "2026-11-13T14:46:00+00:00",
-   "priority": 7.434542,
+   "priority": 7.451908,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "bca8b18b365a3783",
+   "item": {
+    "id": "bca8b18b365a3783",
+    "title": "豆包工作接入更多模型 并推出限时额度优惠",
+    "url": "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "为满足用户根据不同任务自主选择模型的需求，11月12日，豆包工作正式接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，并推出限时特惠计划。用户可根据实际工作需要，选择相应模型完成任务。 此前，豆包工作已向企业客户开放了第三方模型，为了让用户更清晰地了解不同模型的使用差异，豆包工作也在模型选择页面更新标注了各模型的额度消耗倍率，倍率系数越低，额度消耗越少。用户在选择模型时，可以根据消耗情况，结合任务需求和使用成本作出选择。 在简单小额任务免费的基础上，豆包工作将推出全新限时优惠活动。用户在工作日及节假日的指定优惠时段使用参与活动的模型，可享受额度消耗优惠。 此外，豆包工作已针对豆包 2.1 Lite和DeepSeek V4.1 Flash推出限时优惠，下调这两款模型的额度消耗倍率，同等任务消耗更少，额度更耐用。 雷峰网 雷峰网",
+    "published": "2026-11-12T03:12:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Doubao Work integrates third-party models with discounts",
+   "post": "Doubao Work has integrated third-party models including Kimi 3.1 Pro, GLM 5.3, and DeepSeek V4.1 Flash, while introducing limited-time token consumption discounts during specified promotional hours.",
+   "editor_note": "Confirm the exact discount percentages and eligible time windows for the promotional rates.",
+   "published_at": "2026-11-12T03:12:00+00:00",
+   "first_seen_at": "2026-11-12T05:37:23.867291+00:00",
+   "expires_at": "2026-11-13T15:12:00+00:00",
+   "priority": 7.432686,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2931,8 +2964,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.393264,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.382848,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2957,8 +2990,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.302165,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.288273,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2985,8 +3018,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.196634,
-   "selection_reason": "Editorial importance; waiting 40.5h"
+   "priority": 7.191424,
+   "selection_reason": "Editorial importance; waiting 41.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3013,8 +3046,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.946634,
-   "selection_reason": "Editorial importance; waiting 50.5h"
+   "priority": 6.941424,
+   "selection_reason": "Editorial importance; waiting 51.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3041,8 +3074,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.946634,
-   "selection_reason": "Editorial importance; waiting 50.5h"
+   "priority": 6.941424,
+   "selection_reason": "Editorial importance; waiting 51.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3080,34 +3113,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.894124,
-   "selection_reason": "Editorial importance; waiting 40.5h"
-  },
-  {
-   "id": "c012fc7ecd62b33e",
-   "item": {
-    "id": "c012fc7ecd62b33e",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "published": "2026-11-10T20:52:13+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "New York begins enforcing AI safety regulations for major developers",
-   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
-   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
-   "published_at": "2026-11-10T20:52:13+00:00",
-   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
-   "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.854087,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.883704,
+   "selection_reason": "Editorial importance; waiting 41.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3193,8 +3200,34 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.851601,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.841181,
+   "selection_reason": "Editorial importance; waiting 28.5h"
+  },
+  {
+   "id": "c012fc7ecd62b33e",
+   "item": {
+    "id": "c012fc7ecd62b33e",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "published": "2026-11-10T20:52:13+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "New York begins enforcing AI safety regulations for major developers",
+   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
+   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
+   "published_at": "2026-11-10T20:52:13+00:00",
+   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
+   "expires_at": "2026-11-12T08:52:13+00:00",
+   "priority": 6.840194,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3219,46 +3252,11 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.793739,
-   "selection_reason": "Editorial importance; waiting 27.5h"
-  },
-  {
-   "id": "af7403b4563990ca",
-   "item": {
-    "id": "af7403b4563990ca",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "published": "2026-11-10T17:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude Meetings for workplace tasks",
-   "post": "Anthropic introduced Claude Meetings to draft plans, map timelines on whiteboards, answer chat questions, and retrieve information from connected work apps during discussions.",
-   "editor_note": "Check plan availability and supported video conferencing platforms for Claude Meetings.",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
-   "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.760468,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.779847,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://36kr.com/newsflashes/4066258760340615?f=rss",
-   "source": "36Kr",
-   "kind": "takes",
-   "title": "李彦宏：推理将成AI芯片长期持续增长的主要推动力",
-   "summary": "36氪获悉，在百度世界2026开幕式上，百度创始人李彦宏在谈及AI芯片时表示，过去AI算力需求主要以训练为主，而现在是训练与推理并重的格局，尤其是智能体应用的规模化，带动了推理计算需求的大爆发。“我们相信，推理将成为AI芯片长期持续增长的主要推动力。”昆仑��介绍了下一步产品计划，目前M100已如期上市，M300将于明年推出。",
-   "queued_at": "2026-11-12T05:07:23.365501+00:00"
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3295,11 +3293,13 @@
   "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule": "2026-11-12T03:37:48.246078+00:00",
   "https://36kr.com/newsflashes/4066188005692289?f=rss": "2026-11-12T03:37:48.246078+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-working-with-outside-firm-to-identify-ceo-candidates/articleshow/135753825.cms": "2026-11-12T04:07:55.965330+00:00",
-  "https://36kr.com/newsflashes/4066240518034311?f=rss": "2026-11-12T04:37:47.440128+00:00"
+  "https://36kr.com/newsflashes/4066240518034311?f=rss": "2026-11-12T04:37:47.440128+00:00",
+  "https://36kr.com/newsflashes/4066258760340615?f=rss": "2026-11-12T05:37:49.903588+00:00",
+  "https://36kr.com/p/4066338158695304?f=rss": "2026-11-12T05:37:49.903588+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 8
+  "takes": 10
  }
 }
