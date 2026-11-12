@@ -171,6 +171,88 @@ def test_fact_check_failure_never_blocks_drafts(env, monkeypatch):
     assert len(env["sent"]) == 2 and not any("Fact check" in m["text"] for m in env["sent"])
 
 
+def triage_stub(calls, ai=None, importance=None):
+    """A decision model that answers the fact check with 0.9 and triage from the given
+    {headline fragment: value} maps (defaults: 0.5 chance of AI, importance 2)."""
+    def decisions(content, questions, key, model):
+        calls.append(questions)
+        if "s1" in questions:
+            return {name: {"noul": 0.9} for name in questions}
+        answers = {}
+        for line in content.splitlines():
+            if line.startswith("ITEM "):
+                n = line.split(" ")[1]
+                pick = lambda table, default: next((v for k, v in (table or {}).items() if k in line), default)
+                answers[f"imp{n}"] = {"score": pick(importance, 2.0)}
+                if f"ai{n}" in questions:
+                    answers[f"ai{n}"] = {"noul": pick(ai, 0.5)}
+        return answers
+    return decisions
+
+
+def test_triage_adds_missed_ai_stories_and_leaves_out_keyword_noise(env, monkeypatch):
+    use_decision_model(env)
+    calls = []
+    monkeypatch.setattr(newsbot, "call_decisions", triage_stub(calls, ai={"smartphone": 0.9, "Sarvam": 0.05}))
+    assert newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"]) == 0
+    prompt = env["prompts"][0]
+    assert "New smartphone launched in India" in prompt     # no keyword, but judged to be about AI
+    assert "Sarvam" not in prompt                           # keyword match, judged not about AI
+    asked = calls[0]
+    assert sum(name.startswith("ai") for name in asked) == 2   # only the general feed's two items
+    assert sum(name.startswith("imp") for name in asked) == 5
+    assert len(json.loads(env["state"].read_text())["triage"]) == 5
+    triage_calls = sum("s1" not in c for c in calls)
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert sum("s1" not in c for c in calls) == triage_calls   # verdicts are remembered, not asked again
+
+
+def test_triage_sends_the_strongest_stories_when_slots_are_short(env, monkeypatch):
+    import yaml
+    use_decision_model(env)
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["settings"]["max_candidates"] = 1
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+    scores = {"GPT-6 is here": 3.0, "OpenAI launches": 0.2, "gadgets": 0.1, "Sarvam": 1.0}
+    monkeypatch.setattr(newsbot, "call_decisions", triage_stub([], importance=scores))
+    newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
+    assert "GPT-6 is here" in env["prompts"][0] and "OpenAI launches GPT-6" not in env["prompts"][0]
+
+
+def test_triage_failure_keeps_the_keyword_filter(env, monkeypatch):
+    use_decision_model(env)
+
+    def down(*a):
+        raise newsbot.GeminiUnavailable("gemini-decision-1: HTTP 429")
+    monkeypatch.setattr(newsbot, "call_decisions", down)
+    assert newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"]) == 0
+    assert "smartphone" not in env["prompts"][0] and "Sarvam" in env["prompts"][0] and len(env["sent"]) == 2
+
+
+def test_picture_check_drops_only_pictures_judged_unhelpful(monkeypatch):
+    png = b"\x89PNG\r\n\x1a\n" + b"0" * 64
+    fetched, asked = [], []
+    monkeypatch.setattr(newsbot.requests, "get", lambda url, **kw: fetched.append(url) or Resp(content=png))
+
+    def decisions(content, questions, key, model):
+        asked.append(content)
+        return {"picture": {"noul": 0.2 if "hero" in url_of[0] else 0.9}}
+
+    monkeypatch.setattr(newsbot, "call_decisions", decisions)
+    pick = {"headline": "OpenAI releases GPT-6", "post": "OpenAI announced GPT-6."}
+    url_of = ["https://x.test/hero.png"]
+    assert not newsbot.picture_helps(pick, url_of[0], "k", "gemini-decision-1")
+    assert not newsbot.picture_helps(pick, url_of[0], "k", "gemini-decision-1") and len(asked) == 1   # remembered
+    text, image = asked[0]
+    assert "DRAFT POST: OpenAI announced GPT-6." in text["text"]
+    assert image["type"] == "image" and image["mime_type"] == "image/png" and image["data"]
+    url_of[0] = "https://x.test/chart.png"
+    assert newsbot.picture_helps(pick, url_of[0], "k", "gemini-decision-1") and len(asked) == 2
+    assert newsbot.picture_helps(pick, url_of[0], "k", "")                      # no model: keep the picture
+    monkeypatch.setattr(newsbot.requests, "get", lambda url, **kw: Resp(content=b"<html>"))
+    assert newsbot.picture_helps({**pick, "picture": None}, "https://x.test/page", "k", "m") and len(asked) == 2
+
+
 def test_call_decisions_request_and_errors(monkeypatch):
     calls = []
     replies = [Resp(payload={"answers": {"q": {"type": "noul", "noul": 0.8, "confidence": 0.8}}}),

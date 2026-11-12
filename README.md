@@ -56,6 +56,17 @@ Token, chat, rate-limit, server and network failures stop delivery for that run 
 
 Discovery logs show per-source and total counts for `seen`, `queued`, `old`, `keyword_miss` and `eligible`. Each article is counted under the first applicable filter, in that order; counts cover items returned by the source adapters. `seen` means previously processed, which can include articles Gemini did not select, and does not imply publication. AI-only feeds bypass keyword matching; general feeds use the configured keywords in their titles and summaries. Separate counts explain duplicate removal, shortlist limits and prompt limits. An empty shortlist means no candidates reached Gemini, not that all fetched articles were judged unrelated to AI. When Gemini runs, a separate editorial log reports the candidate and qualifying-story counts.
 
+## The decision model
+
+`decision_model` (Gemini Decision 1) does not write. It reads some text or a picture and returns a probability for each question asked. It uses the same `GEMINI_API_KEY`. Every use is optional: if a request fails, the run continues as it would without the model.
+
+- **Triage.** Before the writing model sees anything, one request scores every new item from 0 (not worth a post) to 3 (major). Within each category the highest-rated stories are shortlisted first, and stories rated under 0.75 only fill slots that stronger stories leave empty. For general feeds it also asks whether the item is mainly about AI: a keyword miss at 70% or more becomes a candidate, and a keyword match at 20% or less is left out. Verdicts are saved in `state.json` under `triage`, so each item is asked about once. At most 120 new items are scored per run; the rest wait for the next run and use the keyword filter until then. `--inspect-candidates` never calls the model but does use saved verdicts.
+- **Fact check.** Each news draft is compared with the source text it was written from. A draft under 50% gets a "Fact check" warning in Telegram.
+- **Picture check.** Before a source picture is attached, the model is asked whether it helps a reader understand the story. Under 50%, the draft is sent without it.
+- **Takes judge.** See [ARTICLE_DETAILS.md](ARTICLE_DETAILS.md).
+
+The thresholds are constants near the functions `triage`, `fact_check` and `picture_helps` in `newsbot.py`. They are starting values, not tuned ones; the run log prints every score.
+
 ## Sources
 
 | Category | Examples |
@@ -158,7 +169,8 @@ All settings live in [`config.yaml`](config.yaml).
 | `takes_for_all_stories` | `true` | Follow every other delivered draft with three opinion takes from its full article. |
 | `takes_max_per_day` | `30` | Daily cap on those takes messages. |
 | `takes_judge` | `true` | A second Gemini request picks the best drafts; `false` skips it. |
-| `decision_model` | `gemini-decision-1` | Scores drafts instead of writing them. It fact-checks each news draft against its source text (a draft scoring under 50% gets a "Fact check" warning in Telegram) and judges the takes. Empty turns it off. If the model fails, drafts are sent without the check. |
+| `decision_model` | `gemini-decision-1` | A model that answers questions with probabilities instead of writing; see [The decision model](#the-decision-model). Empty turns it off. |
+| `picture_check` | `true` | Let the decision model leave out a source picture that adds nothing; `false` always attaches it. |
 | `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
 | `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |

@@ -44,10 +44,15 @@ settings:
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.
   gemini_fallback_models: ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
-  # Scores drafts instead of writing them: fact-checks each news draft against its source
-  # text, and judges the takes (facts, clarity, how human they read). "" turns it off;
-  # the takes judge then uses the writing model, as it also does if this model fails.
+  # Answers questions with probabilities instead of writing. It is used four times:
+  #   1. Triage: scores every new story for importance, adds AI stories the keywords
+  #      missed and leaves out keyword matches that are not about AI.
+  #   2. Fact check: compares each news draft with its source text.
+  #   3. Picture check: leaves out a source picture that tells the reader nothing.
+  #   4. Takes judge: facts, clarity and how human each take reads.
+  # "" turns all four off. If the model fails, the bot carries on as it did without it.
   decision_model: "gemini-decision-1"
+  picture_check: true          # false = always attach the source picture
 
 # The voice Gemini writes in. Edit to match the account.
 persona: |
