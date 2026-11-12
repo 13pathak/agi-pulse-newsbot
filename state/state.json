@@ -1247,13 +1247,19 @@
   "9da964c7cf336403": "2026-11-12T02:07:22.039868+00:00",
   "cce714811b519a82": "2026-11-12T02:07:22.039868+00:00",
   "624a305adfa41ec6": "2026-11-12T02:07:22.039868+00:00",
-  "4d33a45a8c997261": "2026-11-12T02:07:22.039868+00:00"
+  "4d33a45a8c997261": "2026-11-12T02:07:22.039868+00:00",
+  "6dbf5bd5b92f8aef": "2026-11-12T02:37:22.152349+00:00",
+  "3beb9de1922ea0ed": "2026-11-12T02:37:22.152349+00:00",
+  "d8b62352da85dbe0": "2026-11-12T02:37:22.152349+00:00",
+  "a4f8ac7606edc808": "2026-11-12T02:37:22.152349+00:00",
+  "d30672a6c1041b9b": "2026-11-12T02:37:22.152349+00:00",
+  "02a16b38f8be40f8": "2026-11-12T02:37:22.152349+00:00",
+  "dac9c1bac1473a51": "2026-11-12T02:37:22.152349+00:00",
+  "23f50ed1917abc71": "2026-11-12T02:37:22.152349+00:00",
+  "07028a7624033eb6": "2026-11-12T02:37:22.152349+00:00",
+  "6c1b3120e6bb86c5": "2026-11-12T02:37:22.152349+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic retracts IPO prospectus sent to banks",
-   "ts": "2026-11-10T02:37:20.673340+00:00"
-  },
   {
    "headline": "Nvidia Board Investigates CEO Jensen Huang Over Affair Allegations",
    "ts": "2026-11-10T03:07:20.705440+00:00"
@@ -1477,11 +1483,15 @@
   {
    "headline": "Google introduces Gemini Decisions API for multimodal evaluation",
    "ts": "2026-11-12T02:07:22.039868+00:00"
+  },
+  {
+   "headline": "Tongxin Intelligence raises funding for AGI chips",
+   "ts": "2026-11-12T02:37:22.152349+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2802,8 +2812,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.385498,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.371619,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "cfb2bce945d5aca3",
@@ -2828,8 +2838,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.268248,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.289083,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2856,8 +2866,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.227888,
-   "selection_reason": "Editorial importance; waiting 37.5h"
+   "priority": 7.222679,
+   "selection_reason": "Editorial importance; waiting 38.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2884,8 +2894,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.977888,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 6.972679,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2912,8 +2922,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.977888,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 6.972679,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2951,8 +2961,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.956632,
-   "selection_reason": "Editorial importance; waiting 37.5h"
+   "priority": 6.946214,
+   "selection_reason": "Editorial importance; waiting 38.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -2977,8 +2987,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.93743,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.92354,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3064,8 +3074,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.914109,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.903691,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3090,8 +3100,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.877083,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.863193,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3116,8 +3126,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.843811,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.829922,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -3142,8 +3152,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 6.802615,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.788726,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -3168,8 +3178,8 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 6.788024,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 6.774135,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   }
  ],
  "details_queue": [],
@@ -3204,11 +3214,12 @@
   "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs": "2026-11-12T01:08:29.497043+00:00",
   "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well": "2026-11-12T01:08:29.497043+00:00",
   "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai": "2026-11-12T02:09:18.398428+00:00",
-  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": "2026-11-12T02:09:18.398428+00:00"
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": "2026-11-12T02:09:18.398428+00:00",
+  "https://36kr.com/p/4066136377873286?f=rss": "2026-11-12T02:37:47.765585+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 3
+  "takes": 4
  }
 }
