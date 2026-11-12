@@ -1316,13 +1316,16 @@
   "dd249bfef93cb8d4": "2026-11-12T06:07:22.967625+00:00",
   "c2634a695e25ff69": "2026-11-12T06:07:22.967625+00:00",
   "08ffdf2bdfafb60c": "2026-11-12T06:07:22.967625+00:00",
-  "b430cf8dee31787a": "2026-11-12T06:07:22.967625+00:00"
+  "b430cf8dee31787a": "2026-11-12T06:07:22.967625+00:00",
+  "5f9630b848a97139": "2026-11-12T06:37:21.976127+00:00",
+  "a0e2f968ffdec205": "2026-11-12T06:37:21.976127+00:00",
+  "c2b4e8b4949878ea": "2026-11-12T06:37:21.976127+00:00",
+  "eeb1de5b96cdfcb8": "2026-11-12T06:37:21.976127+00:00",
+  "ece26333da3ea5ef": "2026-11-12T06:37:21.976127+00:00",
+  "a057aac1cbb4525e": "2026-11-12T06:37:21.976127+00:00",
+  "b4c2eec46d3aa272": "2026-11-12T06:37:21.976127+00:00"
  },
  "covered": [
-  {
-   "headline": "NVIDIA Nemotron 3.5 Super VL Available on SageMaker",
-   "ts": "2026-11-10T06:37:20.139290+00:00"
-  },
   {
    "headline": "Ant Group Releases LingBot-Touch Tactile Foundation Model",
    "ts": "2026-11-10T07:07:23.927899+00:00"
@@ -1546,11 +1549,15 @@
   {
    "headline": "CoreWeave plans $4 billion investment-grade loan offering",
    "ts": "2026-11-12T06:07:22.967625+00:00"
+  },
+  {
+   "headline": "SoftBank leads 500 million dollar round for Agile Robots",
+   "ts": "2026-11-12T06:37:21.976127+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2890,8 +2897,8 @@
    "published_at": "2026-11-12T02:46:00+00:00",
    "first_seen_at": "2026-11-12T05:07:23.365501+00:00",
    "expires_at": "2026-11-13T14:46:00+00:00",
-   "priority": 7.46926,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.486612,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "bca8b18b365a3783",
@@ -2917,8 +2924,8 @@
    "published_at": "2026-11-12T03:12:00+00:00",
    "first_seen_at": "2026-11-12T05:37:23.867291+00:00",
    "expires_at": "2026-11-13T15:12:00+00:00",
-   "priority": 7.450039,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.46739,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "cfb2bce945d5aca3",
@@ -2943,8 +2950,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.372437,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.362026,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2969,8 +2976,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.274391,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.260509,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2997,8 +3004,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.186218,
-   "selection_reason": "Editorial importance; waiting 41.5h"
+   "priority": 7.181013,
+   "selection_reason": "Editorial importance; waiting 42.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3025,8 +3032,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.936218,
-   "selection_reason": "Editorial importance; waiting 51.5h"
+   "priority": 6.931013,
+   "selection_reason": "Editorial importance; waiting 52.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3053,8 +3060,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.936218,
-   "selection_reason": "Editorial importance; waiting 51.5h"
+   "priority": 6.931013,
+   "selection_reason": "Editorial importance; waiting 52.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3092,8 +3099,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.873293,
-   "selection_reason": "Editorial importance; waiting 41.5h"
+   "priority": 6.862882,
+   "selection_reason": "Editorial importance; waiting 42.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3179,8 +3186,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.83077,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.820359,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3205,8 +3212,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.826312,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.812431,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3231,8 +3238,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.765965,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.752084,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   }
  ],
  "details_queue": [],
@@ -3275,11 +3282,12 @@
   "https://36kr.com/newsflashes/4066240518034311?f=rss": "2026-11-12T04:37:47.440128+00:00",
   "https://36kr.com/newsflashes/4066258760340615?f=rss": "2026-11-12T05:37:49.903588+00:00",
   "https://36kr.com/p/4066338158695304?f=rss": "2026-11-12T05:37:49.903588+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan": "2026-11-12T06:07:48.804570+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan": "2026-11-12T06:07:48.804570+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push": "2026-11-12T06:37:56.695764+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 11
+  "takes": 12
  }
 }
