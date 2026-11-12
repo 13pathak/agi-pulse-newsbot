@@ -3115,6 +3115,12 @@
    "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
    "published": "2026-11-12T00:00:00.770000+00:00",
    "excerpt": "TLDR; In this blog, we provide fine-tuning scripts and containers to fine-tune TRELLIS.2, a popular 3D model on your 3D assets, that can run both locally and on Hugging Face Jobs. If you are interested in fine-tuning, you can use our scripts with few arguments (assuming you updated your dataset to Hugging Face Hub) or tinker with them yourself with this repository. If you want to learn more, we go through how the script works. Let’s go! 3D generation has many uses in robotics, simulation, media, and entertainment. In these fields, it is difficult to make generated objects obey strict rules and standardize model and data representations. There are many file formats, such as GLB and PLY. There are also many representations, such as neural radiance fields (NeRFs) and 3D Gaussian splatting (3D…"
+  },
+  "https://claude.com/resources/articles/claude-tag-guide-for-startups": {
+   "title": "The Claude Tag guide for startups",
+   "desc": "Which Slack channels to tag Claude in first: use cases, starter instructions, and a rollout checklist from eight startups using Claude Tag.",
+   "image": "https://claude.com/resources/articles/claude-tag-guide-for-startups/opengraph-image/og",
+   "published": "2026-11-12T00:00:00+00:00"
   }
  },
  "pending": [
@@ -3141,8 +3147,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.612267,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.629606,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "fcaa5a11eb2249d0",
@@ -3167,8 +3173,8 @@
    "published_at": "2026-11-12T13:21:09+00:00",
    "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
    "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.544513,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.561852,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3195,8 +3201,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.092459,
-   "selection_reason": "Editorial importance; waiting 50.5h"
+   "priority": 7.087257,
+   "selection_reason": "Editorial importance; waiting 51.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3221,8 +3227,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.025912,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.043251,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3249,8 +3255,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.842459,
-   "selection_reason": "Editorial importance; waiting 60.5h"
+   "priority": 6.837257,
+   "selection_reason": "Editorial importance; waiting 61.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3277,8 +3283,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.842459,
-   "selection_reason": "Editorial importance; waiting 60.5h"
+   "priority": 6.837257,
+   "selection_reason": "Editorial importance; waiting 61.0h"
   }
  ],
  "details_queue": [],
