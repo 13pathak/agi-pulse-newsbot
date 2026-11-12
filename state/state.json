@@ -1270,13 +1270,20 @@
   "7241c09e0d48bfb6": "2026-11-12T03:07:20.943877+00:00",
   "e782a3450920d3e4": "2026-11-12T03:07:20.943877+00:00",
   "5c2c373e9f6ad841": "2026-11-12T03:07:20.943877+00:00",
-  "b6cab54de45545ca": "2026-11-12T03:07:20.943877+00:00"
+  "b6cab54de45545ca": "2026-11-12T03:07:20.943877+00:00",
+  "a92c103556a09803": "2026-11-12T03:37:23.593271+00:00",
+  "6743d8143271ac1f": "2026-11-12T03:37:23.593271+00:00",
+  "89c9dbd4f8dab2d7": "2026-11-12T03:37:23.593271+00:00",
+  "df5c4c0af68f09b1": "2026-11-12T03:37:23.593271+00:00",
+  "72ade767b5d745ef": "2026-11-12T03:37:23.593271+00:00",
+  "d8efcd876ca565e7": "2026-11-12T03:37:23.593271+00:00",
+  "f39534a5ad3e77af": "2026-11-12T03:37:23.593271+00:00",
+  "a62873c6243eea09": "2026-11-12T03:37:23.593271+00:00",
+  "f6f58e60468425b6": "2026-11-12T03:37:23.593271+00:00",
+  "1e19a4ec8fd3220a": "2026-11-12T03:37:23.593271+00:00",
+  "748ea9cdce3b226f": "2026-11-12T03:37:23.593271+00:00"
  },
  "covered": [
-  {
-   "headline": "Australia proposes criminal law changes after OpenAI hack",
-   "ts": "2026-11-10T03:37:43.415221+00:00"
-  },
   {
    "headline": "Australia announces mandatory AI safeguards and new safety regulator",
    "ts": "2026-11-10T04:07:20.803621+00:00"
@@ -1500,11 +1507,15 @@
   {
    "headline": "US Commerce Department finalizing remote access rule for chips",
    "ts": "2026-11-12T03:07:20.943877+00:00"
+  },
+  {
+   "headline": "Baidu launches Ciyuan Suo model trading platform",
+   "ts": "2026-11-12T03:37:23.593271+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2821,33 +2832,6 @@
  },
  "pending": [
   {
-   "id": "748ea9cdce3b226f",
-   "item": {
-    "id": "748ea9cdce3b226f",
-    "title": "百度推出大模型交易平台词元所",
-    "url": "https://36kr.com/newsflashes/4066188005692289?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，在百度世界2026开幕式上，百度创始人李彦宏表示，模型迭代速度非常快，今年前9个月，几乎每天都有不止一款新模型发布，与此同时，对模型的调用需求也迎来大爆发。由此催生的一批词元中转站。为此，百度推出大模型交易平台词元所。他表示，词元所是大模型的交易所，希望汇聚好的模型和模型提供商，让企业乃至个人都能便捷地找到、购买和使用可信的模型Token。词元所上线一个月以来，入驻供应资源已超100个，日均调用次数突破5000万，日均调用Token超7000亿。",
-    "published": "2026-11-12T03:00:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Baidu launches Ciyuan Suo model trading platform",
-   "post": "Baidu launched Ciyuan Suo, an AI model trading platform that recorded over 100 suppliers and 50 million daily calls in its first month.",
-   "editor_note": "Confirm the stated daily token and call volume metrics reported since launch.",
-   "published_at": "2026-11-12T03:00:20+00:00",
-   "first_seen_at": "2026-11-12T03:07:20.943877+00:00",
-   "expires_at": "2026-11-13T15:00:20+00:00",
-   "priority": 7.496752,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "b430cf8dee31787a",
    "item": {
     "id": "b430cf8dee31787a",
@@ -2870,8 +2854,8 @@
    "published_at": "2026-11-11T22:42:47+00:00",
    "first_seen_at": "2026-11-12T03:07:20.943877+00:00",
    "expires_at": "2026-11-13T10:42:47+00:00",
-   "priority": 7.377516,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.394903,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2896,8 +2880,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.35774,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.34383,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "cfb2bce945d5aca3",
@@ -2922,8 +2906,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.309902,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.330766,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2950,8 +2934,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.217474,
-   "selection_reason": "Editorial importance; waiting 38.5h"
+   "priority": 7.212258,
+   "selection_reason": "Editorial importance; waiting 39.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2978,8 +2962,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.967474,
-   "selection_reason": "Editorial importance; waiting 48.5h"
+   "priority": 6.962258,
+   "selection_reason": "Editorial importance; waiting 49.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3006,8 +2990,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.967474,
-   "selection_reason": "Editorial importance; waiting 48.5h"
+   "priority": 6.962258,
+   "selection_reason": "Editorial importance; waiting 49.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3045,8 +3029,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.935805,
-   "selection_reason": "Editorial importance; waiting 38.5h"
+   "priority": 6.925373,
+   "selection_reason": "Editorial importance; waiting 39.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3071,8 +3055,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.909661,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.895752,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3158,8 +3142,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.893282,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.88285,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3184,8 +3168,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.849314,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.835404,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3210,8 +3194,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.816042,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.802133,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -3236,46 +3220,11 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 6.774846,
-   "selection_reason": "Editorial importance; waiting 35.0h"
-  },
-  {
-   "id": "a92c103556a09803",
-   "item": {
-    "id": "a92c103556a09803",
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "published": "2026-11-10T15:29:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Meta Muse AI agent launches on Apple Watch",
-   "post": "Meta integrates its Muse AI assistant onto Apple Watch and Android Wear OS, supporting voice calls, text messages, and dictation.",
-   "editor_note": "Check rollout regions and compatibility requirements for wearable devices.",
-   "published_at": "2026-11-10T15:29:30+00:00",
-   "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
-   "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 6.760255,
+   "priority": 6.760937,
    "selection_reason": "Editorial importance; waiting 35.5h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule",
-   "source": "The Information",
-   "kind": "takes",
-   "title": "Commerce Department Finalizing Long-Awaited AI Remote Access Rule",
-   "summary": "The Commerce Department is finalizing a long-awaited rule that will prevent Chinese AI firms from remotely accessing advanced AI chips through data centers in other countries, according to two people familiar with the process. The move could help the department push back on criticism that it has acted too slowly to create policies to limit China’s access to advanced AI technologies—rules that have…",
-   "queued_at": "2026-11-12T03:07:20.943877+00:00"
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3308,11 +3257,13 @@
   "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well": "2026-11-12T01:08:29.497043+00:00",
   "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai": "2026-11-12T02:09:18.398428+00:00",
   "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": "2026-11-12T02:09:18.398428+00:00",
-  "https://36kr.com/p/4066136377873286?f=rss": "2026-11-12T02:37:47.765585+00:00"
+  "https://36kr.com/p/4066136377873286?f=rss": "2026-11-12T02:37:47.765585+00:00",
+  "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule": "2026-11-12T03:37:48.246078+00:00",
+  "https://36kr.com/newsflashes/4066188005692289?f=rss": "2026-11-12T03:37:48.246078+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 4
+  "takes": 6
  }
 }
