@@ -43,7 +43,11 @@ settings:
   gemini_model: "gemini-flash-latest"   # can be overridden by the GEMINI_MODEL repo variable
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.
-  gemini_fallback_models: ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
+  # A "cerebras:" name is a non-Gemini model on Cerebras, used only when every Gemini model
+  # before it is busy. It needs the CEREBRAS_API_KEY secret and is skipped without it.
+  # Only qwen can read pictures, so a detail pack with pictures goes straight to it.
+  gemini_fallback_models: ["gemini-3.6-flash", "gemini-3.5-flash-lite",
+                           "cerebras:gpt-oss-120b", "cerebras:qwen-3.8-27b"]
   # Answers questions with probabilities instead of writing. It is used four times:
   #   1. Triage: scores every new story for importance, adds AI stories the keywords
   #      missed and leaves out keyword matches that are not about AI.
@@ -54,6 +58,7 @@ settings:
   # "" turns all four off. If the model fails, the bot carries on as it did without it.
   decision_model: "gemini-decision-1"
   picture_check: true          # false = always attach the source picture
+  decision_weight: 0.5         # its 0-3 rating moves a draft up or down the queue by at most this (0 = off)
   # Who follows the account and what they come for. The decision model reads this when it
   # ranks takes by likely response, so the more specific it is, the better the ranking.
   account_profile: |

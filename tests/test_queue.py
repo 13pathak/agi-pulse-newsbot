@@ -43,6 +43,23 @@ def test_important_backlog_beats_routine_new_story_but_breaking_news_wins():
     assert len(queue["pending"]) == 3  # lower-priority stories remain available
 
 
+def test_decision_rating_orders_equally_rated_stories_and_is_shown():
+    queue = state()
+    settings = CONFIG["settings"]
+    picks = [pick(1, importance=7), pick(2, importance=7), pick(3, importance=7), pick(4, importance=9)]
+    ids = [p["item"]["id"] for p in picks]
+    queue["triage"] = {ids[0]: {"imp": 0.4}, ids[1]: {"imp": 2.8}, ids[3]: {"imp": 0.0}}   # story 3 unrated
+    newsbot.enqueue_picks(queue, picks, NOW, settings)
+    assert [p["headline"].split()[-1] for p in queue["pending"]] == ["4", "2", "3", "1"]
+    rated = {p["headline"].split()[-1]: p.get("decision") for p in queue["pending"]}
+    assert rated == {"4": 0.0, "2": 2.8, "3": None, "1": 0.4}
+    high, low = queue["pending"][1], queue["pending"][3]
+    assert high["priority"] - low["priority"] == pytest.approx(0.5 * (2.8 - 0.4) / 1.5)
+    assert "importance 7/10 · decision model 2.8/3" in newsbot.telegram_message(high, high["post"])
+    assert "decision model" not in newsbot.telegram_message(queue["pending"][2], "post")
+    assert newsbot.decision_adjustment(high, {**settings, "decision_weight": 0}) == 0
+
+
 def test_waiting_helps_similar_stories_but_never_outweighs_large_importance_gap():
     queue = state()
     settings = CONFIG["settings"]

@@ -992,14 +992,76 @@ def _post_gemini(url: str, body: dict, api_key: str, model: str, tries: int) -> 
     raise GeminiUnavailable(f"{model}: {last}")
 
 
+CEREBRAS_URL = "https://api.cerebras.ai/v1/chat/completions"
+CEREBRAS_PREFIX = "cerebras:"       # a model name with this prefix is served by Cerebras
+CEREBRAS_VISION = ("qwen",)         # Cerebras models that can read pictures
+CEREBRAS_IMAGE_TYPES = ("image/jpeg", "image/png")
+
+
+def call_cerebras(prompt: str, model: str, images: list[dict] | tuple = (), temperature: float = 0.8) -> dict:
+    """One attempt at a Cerebras model ("cerebras:<id>"), used when every Gemini model is
+    busy. `images` are {"label", "mime", "data"}. Returns the parsed JSON reply; raises
+    GeminiUnavailable on any failure, so callers move on to the next model."""
+    name = model.removeprefix(CEREBRAS_PREFIX)
+    api_key = os.environ.get("CEREBRAS_API_KEY")
+    if not api_key:
+        raise GeminiUnavailable(f"{model}: CEREBRAS_API_KEY is not set")
+    content = prompt
+    if images:
+        if not name.startswith(CEREBRAS_VISION):
+            raise GeminiUnavailable(f"{model}: cannot read pictures")
+        content = [{"type": "text", "text": prompt}]
+        for image in images:
+            if image["mime"] in CEREBRAS_IMAGE_TYPES:
+                data = base64.b64encode(image["data"]).decode()
+                content += [{"type": "text", "text": image["label"]},
+                            {"type": "image_url", "image_url": {"url": f"data:{image['mime']};base64,{data}"}}]
+    body = {"model": name, "messages": [{"role": "user", "content": content}],
+            "response_format": {"type": "json_object"}, "temperature": temperature,
+            "reasoning_effort": "low", "max_completion_tokens": 16000}
+    try:
+        r = requests.post(CEREBRAS_URL, json=body, timeout=(10, 60),
+                          headers={"Authorization": f"Bearer {api_key}"})
+    except (requests.Timeout, requests.ConnectionError) as e:
+        raise GeminiUnavailable(f"{model}: {type(e).__name__}") from None
+    if not r.ok:
+        raise GeminiUnavailable(f"{model}: HTTP {r.status_code}")
+    try:
+        text = r.json()["choices"][0]["message"]["content"].strip()
+        data = json.loads(re.sub(r"^```(?:json)?\s*|\s*```$", "", text))
+    except (KeyError, IndexError, TypeError, AttributeError, ValueError):
+        raise GeminiUnavailable(f"{model}: incomplete response") from None
+    if not isinstance(data, dict):
+        raise GeminiUnavailable(f"{model}: unexpected JSON")
+    log.warning("Gemini was unavailable; written by fallback model %s", model)
+    data["written_by"] = model
+    return data
+
+
+def fallback_note(model: str) -> str:
+    """A line for the editor when a draft did not come from Gemini; empty otherwise."""
+    if not model:
+        return ""
+    name = model.removeprefix(CEREBRAS_PREFIX)
+    return f"✍️ Written by the fallback model {name} because Gemini was busy. Read it closely."
+
+
 def call_gemini(prompt: str, api_key: str, models: list[str]) -> dict:
     """Try each model in order. The first gets two tries, backups one each, so the
-    worst case (~6 min) stays inside the workflow's 10-minute limit."""
+    worst case (~6 min) stays inside the workflow's 10-minute limit.
+    A "cerebras:" model is a non-Gemini fallback; its reply carries "written_by"."""
     body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.8}}
     models = list(dict.fromkeys(m for m in models if m))  # drop blanks and repeats
     problems, missing = [], []
     for i, model in enumerate(models):
+        if model.startswith(CEREBRAS_PREFIX):
+            try:
+                return call_cerebras(prompt, model)
+            except GeminiUnavailable as e:
+                problems.append(str(e))
+                log.warning("%s; trying the next model", e)
+                continue
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
         try:
             r = _post_gemini(url, body, api_key, model, tries=2 if i == 0 else 1)
@@ -1156,7 +1218,8 @@ def select_picks(result: dict, cands: list[dict], min_importance: int, limit: in
                       "urgency": urgency, "pending_id": p.get("pending_id"),
                       "supersedes_pending_ids": supersedes if isinstance(supersedes, list) else [],
                       "headline": (p.get("headline") or primary["title"]).strip(), "post": post,
-                      "editor_note": clean_text(note, 180) if isinstance(note, str) else ""})
+                      "editor_note": clean_text(note, 180) if isinstance(note, str) else "",
+                      **({"written_by": result["written_by"]} if result.get("written_by") else {})})
         validate_draft_language(picks[-1])
     picks.sort(key=lambda p: p["importance"], reverse=True)
     return picks[:limit]
@@ -1204,6 +1267,16 @@ def queue_details(state: dict, pick: dict, settings: dict, now: datetime) -> Non
          **({"alternates": alternates} if alternates else {})})
 
 
+def decision_adjustment(pick: dict, settings: dict) -> float:
+    """The decision model's 0-3 rating as a nudge of up to +/- `decision_weight` (default
+    0.5), so drafts the writing model all rated 7 are not ordered by waiting time alone."""
+    rating = pick.get("decision")
+    if rating is None:
+        return 0.0
+    weight = max(0.0, float(settings.get("decision_weight", 0.5)))
+    return weight * (min(3.0, max(0.0, float(rating))) - 1.5) / 1.5
+
+
 def story_priority(pick: dict, now: datetime, settings: dict) -> tuple[float, str]:
     """Importance dominates; urgency fades, waiting is capped, and stale stories expire."""
     first_seen = article_date(pick["first_seen_at"])
@@ -1219,7 +1292,8 @@ def story_priority(pick: dict, now: datetime, settings: dict) -> tuple[float, st
     if dated and not urgent and pick["urgency"] in ("timely", "breaking") and age < window * 2:
         urgent = 0.5
     wait_boost = 0.75 * min(1, waiting / max(1, float(settings.get("waiting_boost_hours", 12))))
-    score = pick["importance"] + urgent + wait_boost - min(1, age / lifetime)
+    score = (pick["importance"] + decision_adjustment(pick, settings) + urgent + wait_boost
+             - min(1, age / lifetime))
     reason = "Breaking development" if urgent == 2 else "Time-sensitive story" if urgent else "Editorial importance"
     if waiting >= 0.5:
         reason += f"; waiting {waiting:.1f}h"
@@ -1235,7 +1309,12 @@ def rank_pending(pending: list[dict], now: datetime, settings: dict) -> list[dic
 
 def prune_pending(state: dict, now: datetime, settings: dict) -> None:
     kept = []
+    verdicts = state.get("triage", {})
     for pick in state.get("pending", []):
+        # The decision model's rating of the story: the highest among the outlets covering it.
+        ratings = [verdicts[i["id"]]["imp"] for i in story_items(pick) if i["id"] in verdicts]
+        if ratings:
+            pick["decision"] = max(ratings)
         if article_date(pick["expires_at"]) <= now or pick["importance"] < settings["min_importance"]:
             remember_story(state, pick, now)
             log.info("queue retired: %s (expired or below threshold)", pick["headline"])
@@ -1279,9 +1358,10 @@ def enqueue_picks(state: dict, picks: list[dict], now: datetime, settings: dict)
             if candidate_category(item) == "primary" and candidate_category(existing["item"]) != "primary":
                 existing.update(item=item, headline=pick["headline"], post=pick["post"],
                                 editor_note=pick.get("editor_note", ""))
-                existing.pop("support", None)   # the fact check belongs to the replaced draft
-                if "support" in pick:
-                    existing["support"] = pick["support"]
+                for key in ("support", "written_by"):   # these describe the replaced draft
+                    existing.pop(key, None)
+                    if key in pick:
+                        existing[key] = pick[key]
             existing["related"] = [i for key, i in aliases.items() if key != existing["item"]["id"]]
             for duplicate in matches[1:]:
                 pending.remove(duplicate)
@@ -1302,7 +1382,7 @@ def enqueue_picks(state: dict, picks: list[dict], now: datetime, settings: dict)
         pending.append({"id": item["id"], "item": item, "related": related, "importance": pick["importance"],
                         "urgency": pick["urgency"], "headline": pick["headline"], "post": pick["post"],
                         "editor_note": pick.get("editor_note", ""),
-                        **({"support": pick["support"]} if "support" in pick else {}),
+                        **{key: pick[key] for key in ("support", "written_by") if key in pick},
                         "published_at": date_string(published),
                         "first_seen_at": now.isoformat(), "expires_at": expires.isoformat()})
     prune_pending(state, now, settings)
@@ -1326,7 +1406,8 @@ def fact_warning(pick: dict) -> str:
 def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
     it = pick["item"]
     others = sorted({r["source"] for r in pick["related"]} - {it["source"]})
-    lines = [f"📰 <b>{html.escape(it['source'])}</b> · importance {pick['importance']}/10",
+    second = f" · decision model {pick['decision']:.1f}/3" if pick.get("decision") is not None else ""
+    lines = [f"📰 <b>{html.escape(it['source'])}</b> · importance {pick['importance']}/10{second}",
              f"<i>{html.escape(pick.get('headline') or it['title'])}</i>", "",
              "<b>AI-assisted draft — review before posting</b>", html.escape(post), "",
              f"<code>{x_len(post)}/280 characters</code>"]
@@ -1335,6 +1416,8 @@ def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
         lines.append("Editor note (not posted): " + html.escape(pick["editor_note"]))
     if fact_warning(pick):
         lines.append(fact_warning(pick))
+    if pick.get("written_by"):
+        lines.append(fallback_note(pick["written_by"]))
     if pick.get("selection_reason"):
         lines.append("Why now: " + html.escape(pick["selection_reason"]))
     if others:
@@ -1584,6 +1667,8 @@ def run(dry_run: bool = False, now: datetime | None = None,
                 print(f"Editor note (not posted): {pick['editor_note']}")
             if fact_warning(pick):
                 print(fact_warning(pick))
+            if pick.get("written_by"):
+                print(fallback_note(pick["written_by"]))
             if photo:
                 print(f"image: {photo}")
             delivered += 1

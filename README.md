@@ -61,6 +61,7 @@ Discovery logs show per-source and total counts for `seen`, `queued`, `old`, `ke
 `decision_model` (Gemini Decision 1) does not write. It reads some text or a picture and returns a probability for each question asked. It uses the same `GEMINI_API_KEY`. Every use is optional: if a request fails, the run continues as it would without the model.
 
 - **Triage.** Before the writing model sees anything, one request scores every new item from 0 (not worth a post) to 3 (major). Within each category the highest-rated stories are shortlisted first, and stories rated under 0.75 only fill slots that stronger stories leave empty. For general feeds it also asks whether the item is mainly about AI: a keyword miss at 70% or more becomes a candidate, and a keyword match at 20% or less is left out. Verdicts are saved in `state.json` under `triage`, so each item is asked about once. At most 120 new items are scored per run; the rest wait for the next run and use the keyword filter until then. `--inspect-candidates` never calls the model but does use saved verdicts.
+- **Queue order.** The writing model still rates each story 1–10 and decides what qualifies. The triage rating then moves a queued draft up or down by at most `decision_weight` (0.5): a 3 adds 0.5, a 1.5 adds nothing, a 0 subtracts 0.5. This separates drafts that all received the same 1–10 rating. Telegram shows both, for example "importance 7/10 · decision model 2.4/3".
 - **Fact check.** Each news draft is compared with the source text it was written from. A draft under 50% gets a "Fact check" warning in Telegram.
 - **Picture check.** Before a source picture is attached, the model is asked whether it helps a reader understand the story. Under 50%, the draft is sent without it.
 - **Takes judge.** See [ARTICLE_DETAILS.md](ARTICLE_DETAILS.md).
@@ -123,6 +124,7 @@ Create a key at [Google AI Studio](https://aistudio.google.com) (**Get API key �
 | `GEMINI_API_KEY` | Gemini API key |
 | `TELEGRAM_BOT_TOKEN` | Telegram bot token |
 | `TELEGRAM_CHAT_ID` | Telegram chat ID |
+| `CEREBRAS_API_KEY` | Optional. A [Cerebras](https://cloud.cerebras.ai) API key, used only when every Gemini model is busy. |
 
 Optionally, add a repository **variable** `GEMINI_MODEL` to override the model in `config.yaml`.
 
@@ -171,6 +173,7 @@ All settings live in [`config.yaml`](config.yaml).
 | `takes_judge` | `true` | A second Gemini request picks the best drafts; `false` skips it. |
 | `decision_model` | `gemini-decision-1` | A model that answers questions with probabilities instead of writing; see [The decision model](#the-decision-model). Empty turns it off. |
 | `picture_check` | `true` | Let the decision model leave out a source picture that adds nothing; `false` always attaches it. |
+| `decision_weight` | `0.5` | The most the decision model's rating can move a draft up or down the queue; `0` turns it off. |
 | `account_profile` | (see file) | Who follows the account and what they respond to. The decision model reads it when ranking takes by likely response. |
 | `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
@@ -188,7 +191,7 @@ All settings live in [`config.yaml`](config.yaml).
 | `include_link` | `false` | End posts with the article link. |
 | `attach_images` | `true` | Attach the article's own picture (feed image, or the page's og:image) for sources marked `images: true`. This does not grant reuse rights. |
 | `gemini_model` | `gemini-flash-latest` | Main Gemini model. |
-| `gemini_fallback_models` | see file | Tried in order if the main model is busy or retired. |
+| `gemini_fallback_models` | see file | Tried in order if the main model is busy or retired. A name starting with `cerebras:` is a model on Cerebras, tried when the Gemini models before it are busy (HTTP 429 or 503, or a timeout). It needs the `CEREBRAS_API_KEY` secret and is skipped without it. A draft it writes is marked "Written by the fallback model …" in Telegram and passes the same checks as any other draft. Only `qwen` models read pictures, so a detail pack with pictures skips `gpt-oss-120b`. |
 
 `persona` sets the voice Gemini writes in, and `keywords` decides which stories from general feeds count as AI news.
 
