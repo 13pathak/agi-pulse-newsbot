@@ -1541,7 +1541,34 @@
   "1d2566da0bc6f88a": "2026-11-12T16:37:22.826379+00:00",
   "51db2e7671fa62e8": "2026-11-12T16:37:22.826379+00:00",
   "efcd2b895a9b4cf8": "2026-11-12T16:37:22.826379+00:00",
-  "e918b92f13194ec9": "2026-11-12T16:37:22.826379+00:00"
+  "e918b92f13194ec9": "2026-11-12T16:37:22.826379+00:00",
+  "aff6802cc567cefa": "2026-11-12T17:07:23.605760+00:00",
+  "9ed2099ae4857f6f": "2026-11-12T17:07:23.605760+00:00",
+  "830958e6e6f7f875": "2026-11-12T17:07:23.605760+00:00",
+  "86e6b2979c212f65": "2026-11-12T17:07:23.605760+00:00",
+  "4aa06dd6cdf43e8c": "2026-11-12T17:07:23.605760+00:00",
+  "011e549bc3cc474a": "2026-11-12T17:07:23.605760+00:00",
+  "1447c52b300c38a1": "2026-11-12T17:07:23.605760+00:00",
+  "38226191f56b47b0": "2026-11-12T17:07:23.605760+00:00",
+  "baf44ce1f39f42fd": "2026-11-12T17:07:23.605760+00:00",
+  "523621c0890f9baf": "2026-11-12T17:07:23.605760+00:00",
+  "0dbcabf87960e56e": "2026-11-12T17:07:23.605760+00:00",
+  "eb2e85b595995c9f": "2026-11-12T17:07:23.605760+00:00",
+  "95a4709c7a2d8ec6": "2026-11-12T17:07:23.605760+00:00",
+  "55f1ac06c2c66346": "2026-11-12T17:07:23.605760+00:00",
+  "1d250e9233fe0f75": "2026-11-12T17:07:23.605760+00:00",
+  "a1d24db7e08ad9ae": "2026-11-12T17:07:23.605760+00:00",
+  "d921609fe702e0eb": "2026-11-12T17:07:23.605760+00:00",
+  "32933935200c2839": "2026-11-12T17:07:23.605760+00:00",
+  "f7713de9eb2a049e": "2026-11-12T17:07:23.605760+00:00",
+  "bfccb2d38562aef8": "2026-11-12T17:07:23.605760+00:00",
+  "7bee507d31352a67": "2026-11-12T17:07:23.605760+00:00",
+  "212b1ab02418f715": "2026-11-12T17:07:23.605760+00:00",
+  "22996a43746bf1ba": "2026-11-12T17:07:23.605760+00:00",
+  "9e67a4e79ad8928e": "2026-11-12T17:07:23.605760+00:00",
+  "ca80552a275a9336": "2026-11-12T17:07:23.605760+00:00",
+  "8badbe29a09323a1": "2026-11-12T17:07:23.605760+00:00",
+  "fcaa5a11eb2249d0": "2026-11-12T17:07:23.605760+00:00"
  },
  "covered": [
   {
@@ -1767,11 +1794,15 @@
   {
    "headline": "Australia proposes mandatory safety rules and audits for frontier AI",
    "ts": "2026-11-12T16:37:22.826379+00:00"
+  },
+  {
+   "headline": "Kutlerri.ai raises 4 million dollars",
+   "ts": "2026-11-12T17:07:23.605760+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3145,35 +3176,27 @@
    "desc": "Which Slack channels to tag Claude in first: use cases, starter instructions, and a rollout checklist from eight startups using Claude Tag.",
    "image": "https://claude.com/resources/articles/claude-tag-guide-for-startups/opengraph-image/og",
    "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/claude-for-manufacturing": {
+   "title": "Claude for Manufacturing: AI plugin for plant teams",
+   "desc": "Claude for Manufacturing drafts quotes, quality reports, and supplier requests from your plant’s own records, for your team to review and approve.",
+   "image": "https://claude.com/resources/articles/claude-for-manufacturing/opengraph-image/og",
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/509440.html": {
+   "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+   "desc": "「CAD拆解」",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509334.html": {
+   "title": "马斯克已准备好聘请黄仁勋",
+   "desc": "老黄出轨认错、再曝婚外恋",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "fcaa5a11eb2249d0",
-   "item": {
-    "id": "fcaa5a11eb2249d0",
-    "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
-    "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents",
-    "source": "YourStory",
-    "image": "",
-    "snippet": "Founded by former HighRadius executives Kiran Rana and Payal Tripathy, Kutlerri.ai charges restaurants a percentage of the revenue its AI agents generate or the costs they save.",
-    "published": "2026-11-12T13:21:09+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Kutlerri.ai raises 4 million dollars",
-   "post": "Kutlerri.ai has raised four million dollars to provide AI agents for US restaurants, operating on a revenue and cost-saving share model.",
-   "editor_note": "Verify the exact funding round name if disclosed and the currency context.",
-   "published_at": "2026-11-12T13:21:09+00:00",
-   "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
-   "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.596564,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
   {
    "id": "f98f612fda85d6f2",
    "item": {
@@ -3197,8 +3220,8 @@
    "published_at": "2026-11-12T14:50:17+00:00",
    "first_seen_at": "2026-11-12T16:37:22.826379+00:00",
    "expires_at": "2026-11-14T02:50:17+00:00",
-   "priority": 7.450418,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.467787,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3223,8 +3246,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.077962,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.095331,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3251,8 +3274,35 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.076844,
-   "selection_reason": "Editorial importance; waiting 52.0h"
+   "priority": 7.071633,
+   "selection_reason": "Editorial importance; waiting 52.5h"
+  },
+  {
+   "id": "55c10e3370c708ea",
+   "item": {
+    "id": "55c10e3370c708ea",
+    "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+    "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not a law of nature but also reflects tradeoffs around capability and cost. The article OpenAI’s data s…",
+    "published": "2026-11-12T16:58:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI safety study analyzes chain-of-thought oversight loss",
+   "post": "An OpenAI safety study found frontier models increasingly conceal their reasoning due to training trade-offs for capability and cost. The analysis identified four drivers of oversight loss, including architecture choices and reinforcement learning.",
+   "editor_note": "Verify whether OpenAI published this as a full paper or blog post, and check specific model versions analyzed.",
+   "support": 0.89,
+   "published_at": "2026-11-12T16:58:11+00:00",
+   "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
+   "expires_at": "2026-11-14T04:58:11+00:00",
+   "priority": 6.995736,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3279,8 +3329,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.826844,
-   "selection_reason": "Editorial importance; waiting 62.0h"
+   "priority": 6.821633,
+   "selection_reason": "Editorial importance; waiting 62.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3307,11 +3357,61 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.826844,
-   "selection_reason": "Editorial importance; waiting 62.0h"
+   "priority": 6.821633,
+   "selection_reason": "Editorial importance; waiting 62.5h"
+  },
+  {
+   "id": "6b5db77df3bfd94b",
+   "item": {
+    "id": "6b5db77df3bfd94b",
+    "title": "Claude for Manufacturing: AI plugin for plant teams",
+    "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+    "source": "Claude Product Updates",
+    "image": "https://claude.com/resources/articles/claude-for-manufacturing/opengraph-image/og",
+    "snippet": "Claude for Manufacturing drafts quotes, quality reports, and supplier requests from your plant’s own records, for your team to review and approve.",
+    "published": "2026-11-12T00:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "829ec27078fa35c2",
+     "title": "Anthropic pitches a new Claude tool as a salve for manufacturers' labor shortages",
+     "url": "https://www.businessinsider.com/anthropic-launches-claude-for-manufacturers-ahead-of-ipo-2026-11",
+     "source": "Business Insider",
+     "image": "https://i.insider.com/6af52563cbe2120470734966?format=jpeg",
+     "snippet": "Anthropic is launching a Claude plugin for manufacturers. It's part of the company's sales playbook ahead of the large IPO planned for next week. Anthropic's business sales leader said she hopes the tool will help address labor shortages. Anthropic has a new target for Claude adoption : people who run the factory floor. The company launched a new Claude for Manufacturers plugin on Thursday. It's a…",
+     "published": "2026-11-12T17:00:01+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude plugin for manufacturing teams",
+   "post": "Anthropic launched a Claude for Manufacturing plugin designed for industrial plant teams. The tool integrates with plant records to draft quotes, quality reports, and supplier requests for human review and approval.",
+   "editor_note": "Verify availability details and whether the plugin requires specific Enterprise tier access.",
+   "support": 0.83,
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.643266,
+   "selection_reason": "Editorial importance"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents",
+   "source": "YourStory",
+   "kind": "takes",
+   "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
+   "summary": "Founded by former HighRadius executives Kiran Rana and Payal Tripathy, Kutlerri.ai charges restaurants a percentage of the revenue its AI agents generate or the costs they save.",
+   "queued_at": "2026-11-12T17:07:23.605760+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3372,5 +3472,607 @@
   "date": "2026-11-12",
   "count": 2,
   "takes": 25
+ },
+ "triage": {
+  "32933935200c2839": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "4213b9afeff9a7e6": {
+   "imp": 1.17,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "1d250e9233fe0f75": {
+   "imp": 2.62,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "830958e6e6f7f875": {
+   "imp": 2.68,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "ca80552a275a9336": {
+   "imp": 1.58,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "0cefd18c08c5c4ac": {
+   "imp": 1.16,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "1447c52b300c38a1": {
+   "imp": 2.21,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "bfccb2d38562aef8": {
+   "imp": 1.68,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "660711644cdc9dc9": {
+   "imp": 1.55,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "55c10e3370c708ea": {
+   "imp": 2.06,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "8badbe29a09323a1": {
+   "imp": 0.37,
+   "ai": 0.51,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "f40bba2f98936dbf": {
+   "imp": 1.72,
+   "ai": 0.41,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "62fcab499810bdd2": {
+   "imp": 2.15,
+   "ai": 0.92,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "a1d24db7e08ad9ae": {
+   "imp": 2.4,
+   "ai": 0.96,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "7cc93aa3859a8ea1": {
+   "imp": 2.15,
+   "ai": 0.95,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "f7713de9eb2a049e": {
+   "imp": 2.33,
+   "ai": 0.89,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9c2bfb914f30e065": {
+   "imp": 2.17,
+   "ai": 0.96,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "e83c088f99394fb3": {
+   "imp": 1.66,
+   "ai": 0.91,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "a32aa3e0aa6c8c84": {
+   "imp": 1.83,
+   "ai": 0.5,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "5ce2d31d42c03b93": {
+   "imp": 2.27,
+   "ai": 0.92,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "42131c66b112b7f9": {
+   "imp": 1.4,
+   "ai": 0.85,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "18c37323df95574c": {
+   "imp": 1.92,
+   "ai": 0.92,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "86e6b2979c212f65": {
+   "imp": 2.59,
+   "ai": 0.91,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "4aa06dd6cdf43e8c": {
+   "imp": 2.44,
+   "ai": 0.93,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "829ec27078fa35c2": {
+   "imp": 1.84,
+   "ai": 0.94,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "011e549bc3cc474a": {
+   "imp": 2.26,
+   "ai": 0.88,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9e67a4e79ad8928e": {
+   "imp": 1.01,
+   "ai": 0.72,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "38226191f56b47b0": {
+   "imp": 2.03,
+   "ai": 0.58,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "55f1ac06c2c66346": {
+   "imp": 1.32,
+   "ai": 0.29,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "6b5db77df3bfd94b": {
+   "imp": 1.64,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9ed2099ae4857f6f": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "aff6802cc567cefa": {
+   "imp": 1.38,
+   "ai": null,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "0dbcabf87960e56e": {
+   "imp": 1.74,
+   "ai": 0.89,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "0684e4a211366997": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "58917bb9e58d7ade": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "03ecca820d15ecb2": {
+   "imp": 0.32,
+   "ai": 0.05,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "e5eba46e3e2f6c70": {
+   "imp": 1.16,
+   "ai": 0.39,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "d0ef1aadf1eda2ce": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "efd6ad06a45a95ec": {
+   "imp": 0.47,
+   "ai": 0.29,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "388db3fff7638422": {
+   "imp": 0.46,
+   "ai": 0.17,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "296a051b3a1a6ae4": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "d921609fe702e0eb": {
+   "imp": 1.49,
+   "ai": 0.78,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "b7617a9fe2c6ead9": {
+   "imp": 0.27,
+   "ai": 0.06,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "e2efaddbec39de29": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "95a4709c7a2d8ec6": {
+   "imp": 1.58,
+   "ai": 0.9,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "66fa64e8f6a8614c": {
+   "imp": 0.3,
+   "ai": 0.05,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "251c4b2fc68e8c74": {
+   "imp": 1.03,
+   "ai": 0.41,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "3e2f5769aecdf2f6": {
+   "imp": 0.36,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "22996a43746bf1ba": {
+   "imp": 1.27,
+   "ai": 0.9,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "592e667881897a2b": {
+   "imp": 1.4,
+   "ai": 0.62,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "a367972ec179d17d": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9a811f0d067fd5e2": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "2e8c520e987d5ae1": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "88ba9814a247bcd3": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "75c8505e7550fd5f": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "6c045c13fd761e06": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "8dddb757b60de172": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "f294ccc0bc03e270": {
+   "imp": 0.71,
+   "ai": 0.11,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "84a4148b19383e02": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "91c36047d39d350d": {
+   "imp": 0.42,
+   "ai": 0.06,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "5f47d6e60ea63a9f": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "5e9162def3228550": {
+   "imp": 0.35,
+   "ai": 0.07,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "78f60b9bc77e99e5": {
+   "imp": 1.75,
+   "ai": 0.61,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "3c29367803d34b91": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "212b1ab02418f715": {
+   "imp": 1.66,
+   "ai": 0.93,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "523621c0890f9baf": {
+   "imp": 1.78,
+   "ai": 0.74,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "7ac75bfe9b207981": {
+   "imp": 0.71,
+   "ai": 0.06,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "baf44ce1f39f42fd": {
+   "imp": 2.02,
+   "ai": 0.97,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "7bee507d31352a67": {
+   "imp": 1.48,
+   "ai": 0.72,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "f075810ad7d22354": {
+   "imp": 1.29,
+   "ai": 0.57,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "417ac55e66da5d31": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "4bbb473dc364e821": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "d0ebee82261becd1": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "b096c2b88c26f1d5": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "d455d8f6c7b4be4c": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "1a01e20183eca217": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "eb2e85b595995c9f": {
+   "imp": 1.72,
+   "ai": 0.9,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "f54c63ca21b87772": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "d6572d5df8e90d22": {
+   "imp": 0.15,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "4e91cebe8ea2a73c": {
+   "imp": 1.35,
+   "ai": 0.49,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "a4ec1687b5a2a444": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9ca0606b5b86f222": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "22323e92fad4485d": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "df97f62b5f1d174c": {
+   "imp": 1.18,
+   "ai": 0.64,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "ee484be5d320c962": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "cf2b696aa7ab656d": {
+   "imp": 0.96,
+   "ai": 0.3,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "4f541a7f4741df1c": {
+   "imp": 0.29,
+   "ai": 0.11,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "3f06f59f5fb7e033": {
+   "imp": 0.24,
+   "ai": 0.04,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "27f1b3018fd966d0": {
+   "imp": 0.2,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9b6bea5e9cf7cabc": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "e73399df9e075a19": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "a7acc4b5cbb8bd96": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "fcc3acf2a9bceac3": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "1062db8539aaf361": {
+   "imp": 0.73,
+   "ai": 0.09,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "8563355c12565ae1": {
+   "imp": 0.21,
+   "ai": 0.18,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "96baade49f6a3653": {
+   "imp": 1.74,
+   "ai": 0.18,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "be43be4785250e50": {
+   "imp": 0.97,
+   "ai": 0.48,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "e8f9678b1be51b48": {
+   "imp": 0.84,
+   "ai": 0.51,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "c700c79de0cf159c": {
+   "imp": 0.93,
+   "ai": 0.56,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "9eff95a55493c758": {
+   "imp": 0.31,
+   "ai": 0.06,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "bf278d710bf1d028": {
+   "imp": 0.21,
+   "ai": 0.06,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "417afde87709823d": {
+   "imp": 0.26,
+   "ai": 0.05,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "fa85ec11ed36557c": {
+   "imp": 1.3,
+   "ai": 0.34,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "f964d9479ea45cde": {
+   "imp": 0.17,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "c18ee447e03d61c8": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "817c951bc8158367": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "440929a8bd1916d3": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "4495a1bcb22306bf": {
+   "imp": 0.22,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "5125cead89e23510": {
+   "imp": 0.47,
+   "ai": 0.07,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "c77ac129b31f6238": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "eeaa23c8611e8f4a": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "56d9f7ae63fb47dd": {
+   "imp": 0.32,
+   "ai": 0.08,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "29f16d9ecb978e44": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "2a388f2ff93883f5": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "1d160d5f39f33775": {
+   "imp": 1.45,
+   "ai": 0.23,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "582c7a04ab7e799f": {
+   "imp": 0.48,
+   "ai": 0.04,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "10f71cc25384c7af": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "831f3b4e689246dc": {
+   "imp": 0.28,
+   "ai": 0.06,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "fca15eb0b4be391e": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "95374993e8e3a4e9": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-12T17:07:23.605760+00:00"
+  }
  }
 }
