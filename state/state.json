@@ -1513,10 +1513,6 @@
  },
  "covered": [
   {
-   "headline": "TSMC approves up to $1 billion in Anthropic and OpenAI investments",
-   "ts": "2026-11-10T15:37:26.018801+00:00"
-  },
-  {
    "headline": "Google releases Gemini 4 Carbon model",
    "ts": "2026-11-10T16:07:26.141387+00:00"
   },
@@ -3147,8 +3143,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.629606,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.646986,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "fcaa5a11eb2249d0",
@@ -3173,8 +3169,8 @@
    "published_at": "2026-11-12T13:21:09+00:00",
    "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
    "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.561852,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.579232,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3201,8 +3197,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.087257,
-   "selection_reason": "Editorial importance; waiting 51.0h"
+   "priority": 7.082043,
+   "selection_reason": "Editorial importance; waiting 51.5h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3227,8 +3223,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.043251,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.06063,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3255,8 +3251,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.837257,
-   "selection_reason": "Editorial importance; waiting 61.0h"
+   "priority": 6.832043,
+   "selection_reason": "Editorial importance; waiting 61.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3283,8 +3279,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.837257,
-   "selection_reason": "Editorial importance; waiting 61.0h"
+   "priority": 6.832043,
+   "selection_reason": "Editorial importance; waiting 61.5h"
   }
  ],
  "details_queue": [],
