@@ -362,6 +362,36 @@ def test_judge_reorders_and_survives_failures(monkeypatch):
     assert not ad.judge(posts, "k", ["m"]) and [p["text"] for p in posts] == ["c", "b", "a"]
 
 
+def test_decision_judge_puts_unsupported_drafts_last_and_falls_back(monkeypatch):
+    asked = {}
+
+    def decisions(text, questions, key, model):
+        asked.update(text=text, questions=questions, model=model)
+        answer = {"facts": [0.9, 0.2, 0.8], "clear": [0.9, 0.9, 0.3], "human": [1.0, 4.0, 3.5]}
+        return {f"{name}{n}": {"score" if name == "human" else "noul": values[n - 1]}
+                for name, values in answer.items() for n in (1, 2, 3)}
+
+    def no_writer(*a):
+        raise AssertionError("the writing model must not judge when the decision model answered")
+
+    monkeypatch.setattr(nb, "call_decisions", decisions)
+    monkeypatch.setattr(ad, "call_gemini", no_writer)
+    posts = [{"text": "a"}, {"text": "b"}, {"text": "c"}]
+    assert ad.judge(posts, "k", ["m"], "Article body.", "gemini-decision-1")
+    assert [p["text"] for p in posts] == ["a", "c", "b"]      # b reads best but its facts are unsupported
+    assert asked["model"] == "gemini-decision-1" and len(asked["questions"]) == 9
+    assert "Article body." in asked["text"] and "DRAFT 2: b" in asked["text"]
+    assert asked["questions"]["human1"]["criteria"] == ad.HUMAN_LEVELS
+
+    def down(*a):
+        raise nb.GeminiUnavailable("gemini-decision-1: HTTP 404")
+    monkeypatch.setattr(nb, "call_decisions", down)
+    monkeypatch.setattr(ad, "call_gemini", lambda *a: {"scores": [{"n": n, "human": n, "clear": True}
+                                                                   for n in (1, 2, 3)]})
+    assert ad.judge(posts, "k", ["m"], "Article body.", "gemini-decision-1")
+    assert [p["text"] for p in posts] == ["b", "c", "a"]      # judged by the writing model instead
+
+
 def test_build_pack_judges_only_when_there_is_a_choice(monkeypatch):
     prompts = []
     many = {"posts": [{"text": f"Model 5.2 costs $8. Not sure point {n} holds."} for n in "abcdefg"], "check": ""}

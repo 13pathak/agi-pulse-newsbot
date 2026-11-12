@@ -10,7 +10,7 @@ settings:
   details_max_per_day: 6       # automatic detail packs per IST day (each has 5 drafts)
   takes_for_all_stories: true  # every other delivered story gets 3 opinion takes written from its full article
   takes_max_per_day: 30        # cap on those takes messages per IST day
-  takes_judge: true            # second Gemini request picks the most natural drafts (false = skip it)
+  takes_judge: true            # second Gemini request (decision_model below) picks the best drafts (false = skip it)
   # takes_voice: |            # optional: replace the built-in writing voice for detail-pack drafts
   #   (see DEFAULT_VOICE in article_details.py for the current wording)
   lookback_hours: 24           # ignore articles older than this (a full day, so slow nights still have stories)
@@ -44,6 +44,10 @@ settings:
   # Tried in order if the main model is overloaded or retired. Check current names at
   # https://aistudio.google.com/docs/models when Google retires a model.
   gemini_fallback_models: ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
+  # Scores drafts instead of writing them: fact-checks each news draft against its source
+  # text, and judges the takes (facts, clarity, how human they read). "" turns it off;
+  # the takes judge then uses the writing model, as it also does if this model fails.
+  decision_model: "gemini-decision-1"
 
 # The voice Gemini writes in. Edit to match the account.
 persona: |

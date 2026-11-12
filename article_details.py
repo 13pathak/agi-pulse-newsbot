@@ -591,20 +591,72 @@ DRAFTS:
 """
 
 
-def judge(posts: list[dict], api_key: str, models: list[str]) -> bool:
-    """Second pass: reorder `posts` so the clearest, most natural drafts come first.
-    Any failure leaves the order as it was. Returns True when the order was judged."""
-    drafts = "\n".join(f"{n}. {post['text']}" for n, post in enumerate(posts, 1))
-    try:
-        result = call_gemini(JUDGE_PROMPT.format(drafts=drafts), [], api_key, models)
-    except Exception as e:  # the judge is optional; never lose a pack over it
-        log.warning("draft judge skipped (%s)", type(e).__name__)
-        return False
+# The decision model's scale for "does this read as typed by a person", lowest first.
+HUMAN_LEVELS = [
+    "Clearly AI or a template: press-release or marketing wording, hype, a grand claim about the "
+    "future, a moral or summary at the end, a joke or sarcasm.",
+    "Probably AI: tidy symmetrical sentences, a contrast frame, vague wording, or it sounds like "
+    "the other drafts.",
+    "Could be either.",
+    "Probably a person: plain words and one specific detail.",
+    "Clearly a person typing a thought: plain words, a named specific detail, a real doubt or an "
+    "obvious question, uneven natural rhythm.",
+]
+
+
+def decision_scores(posts: list[dict], article_text: str, api_key: str, model: str) -> dict:
+    """Score every draft with the decision model, which also sees the article, so it can
+    check the facts. Returns {draft number: (facts supported, clear, human score)}."""
+    drafts = "\n".join(f"DRAFT {n}: {post['text']}" for n, post in enumerate(posts, 1))
+    questions = {}
+    for n in range(1, len(posts) + 1):
+        questions[f"facts{n}"] = {
+            "type": "noul",
+            "instructions": f"Is every fact that draft {n} states about the news (names, figures, dates, "
+                            "events) supported by the article? Its opinions, doubts and questions are "
+                            "not facts and do not count."}
+        questions[f"clear{n}"] = {
+            "type": "noul",
+            "instructions": f"Would someone who has not seen the news understand what happened from "
+                            f"draft {n} alone?"}
+        questions[f"human{n}"] = {
+            "type": "score", "criteria": HUMAN_LEVELS,
+            "instructions": f"How would draft {n} strike a careful reader of X: typed by a real person, "
+                            "or written by AI?"}
+    answers = nb.call_decisions(f"ARTICLE:\n{article_text}\n\nDRAFT POSTS FOR X:\n{drafts}",
+                                questions, api_key, model)
     scores = {}
-    for entry in result.get("scores") or []:
-        if (isinstance(entry, dict) and type(entry.get("n")) is int and 1 <= entry["n"] <= len(posts)
-                and type(entry.get("human")) in (int, float)):
-            scores[entry["n"]] = (entry.get("clear") is not False, float(entry["human"]))
+    for n in range(1, len(posts) + 1):
+        facts, clear = float(answers[f"facts{n}"]["noul"]), float(answers[f"clear{n}"]["noul"])
+        human = float(answers[f"human{n}"]["score"])
+        log.info("draft %d: facts %.2f, clear %.2f, human %.1f/%d", n, facts, clear, human, len(HUMAN_LEVELS) - 1)
+        scores[n] = (facts >= nb.FACT_SUPPORT_MIN, clear >= 0.5, human)
+    return scores
+
+
+def judge(posts: list[dict], api_key: str, models: list[str], article_text: str = "",
+          decision_model: str = "") -> bool:
+    """Second pass: reorder `posts` so the clearest, most natural drafts come first.
+    With a decision model, drafts whose facts the article does not support go last.
+    If that model fails, the writing models judge instead (they do not check facts).
+    Any failure leaves the order as it was. Returns True when the order was judged."""
+    scores = {}
+    if decision_model:
+        try:
+            scores = decision_scores(posts, article_text, api_key, decision_model)
+        except Exception as e:  # fall back to the writing models
+            log.warning("decision judge failed (%s); using the writing model", e)
+    if not scores:
+        drafts = "\n".join(f"{n}. {post['text']}" for n, post in enumerate(posts, 1))
+        try:
+            result = call_gemini(JUDGE_PROMPT.format(drafts=drafts), [], api_key, models)
+        except Exception as e:  # the judge is optional; never lose a pack over it
+            log.warning("draft judge skipped (%s)", type(e).__name__)
+            return False
+        for entry in result.get("scores") or []:
+            if (isinstance(entry, dict) and type(entry.get("n")) is int and 1 <= entry["n"] <= len(posts)
+                    and type(entry.get("human")) in (int, float)):
+                scores[entry["n"]] = (True, entry.get("clear") is not False, float(entry["human"]))
     if len(scores) < len(posts):
         return False
     order = sorted(range(len(posts)), key=lambda i: scores[i + 1], reverse=True)  # stable for ties
@@ -637,7 +689,8 @@ def build_pack(url: str, api_key: str, settings: dict, source: str = "", light: 
     pack = validate(call_gemini(prompt, images, api_key, models), article, images,
                     keep=wanted, max_details=0 if summary_only else 3 if light else 6)
     if settings.get("takes_judge", True) and len(pack["posts"]) > keep:
-        judge(pack["posts"], api_key, models)
+        judge(pack["posts"], api_key, models, f"{article['title']}\n{article['text']}",
+              settings.get("decision_model") or "")
     pack["posts"] = pack["posts"][:keep]
     pack.update(url=article["url"], title=article["title"], source=source, preview=article["preview"],
                 light=light, summary_only=summary_only)

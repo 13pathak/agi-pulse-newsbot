@@ -157,7 +157,8 @@ All settings live in [`config.yaml`](config.yaml).
 | `details_max_per_day` | `6` | Automatic detail packs per IST day. |
 | `takes_for_all_stories` | `true` | Follow every other delivered draft with three opinion takes from its full article. |
 | `takes_max_per_day` | `30` | Daily cap on those takes messages. |
-| `takes_judge` | `true` | A second Gemini request picks the most natural drafts; `false` skips it. |
+| `takes_judge` | `true` | A second Gemini request picks the best drafts; `false` skips it. |
+| `decision_model` | `gemini-decision-1` | Scores drafts instead of writing them. It fact-checks each news draft against its source text (a draft scoring under 50% gets a "Fact check" warning in Telegram) and judges the takes. Empty turns it off. If the model fails, drafts are sent without the check. |
 | `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
 | `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |

@@ -138,6 +138,60 @@ def test_full_run(env):
     assert st["daily"]["count"] == 2 and len(st["covered"]) == 2
 
 
+def use_decision_model(env):
+    import yaml
+    cfg = yaml.safe_load(env["cfg"].read_text())
+    cfg["settings"]["decision_model"] = "gemini-decision-1"
+    env["cfg"].write_text(yaml.safe_dump(cfg))
+
+
+def test_fact_check_flags_only_doubtful_drafts(env, monkeypatch):
+    use_decision_model(env)
+    asked = {}
+
+    def decisions(text, questions, key, model):
+        asked.update(text=text, questions=questions, model=model)
+        return {"s1": {"noul": 0.3}, "s2": {"noul": 0.95}}
+
+    monkeypatch.setattr(newsbot, "call_decisions", decisions)
+    assert newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"]) == 0
+    first, second = (m["text"] for m in env["sent"])
+    assert "Fact check: 30% chance" in first and "Fact check" not in second
+    assert asked["model"] == "gemini-decision-1" and set(asked["questions"]) == {"s1", "s2"}
+    assert "DRAFT POST: OpenAI announced GPT-6." in asked["text"] and "OpenAI launches GPT-6. A new model." in asked["text"]
+
+
+def test_fact_check_failure_never_blocks_drafts(env, monkeypatch):
+    use_decision_model(env)
+
+    def down(*a):
+        raise newsbot.GeminiUnavailable("gemini-decision-1: HTTP 429")
+    monkeypatch.setattr(newsbot, "call_decisions", down)
+    assert newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"]) == 0
+    assert len(env["sent"]) == 2 and not any("Fact check" in m["text"] for m in env["sent"])
+
+
+def test_call_decisions_request_and_errors(monkeypatch):
+    calls = []
+    replies = [Resp(payload={"answers": {"q": {"type": "noul", "noul": 0.8, "confidence": 0.8}}}),
+               Resp(payload={"answers": {}}), Resp(status=400, content=b'{"error": {"code": "safety"}}')]
+
+    def post(url, json=None, headers=None, **kw):
+        calls.append((url, json, headers))
+        return replies[len(calls) - 1]
+
+    monkeypatch.setattr(newsbot.requests, "post", post)
+    question = {"q": {"type": "noul", "instructions": "Is it?"}}
+    assert newsbot.call_decisions("text", question, "k", "gemini-decision-1")["q"]["noul"] == 0.8
+    url, body, headers = calls[0]
+    assert url == "https://generativelanguage.googleapis.com/v1beta/decisions"
+    assert body == {"model": "gemini-decision-1", "input": "text", "questions": question}
+    assert headers == {"x-goog-api-key": "k"}
+    for _ in range(2):                                      # a missing answer, then a refused request
+        with pytest.raises(newsbot.GeminiUnavailable):
+            newsbot.call_decisions("text", question, "k", "gemini-decision-1")
+
+
 def test_second_run_sends_nothing_new(env):
     newsbot.run(now=NOW, config_path=env["cfg"], state_path=env["state"])
     env["sent"].clear()

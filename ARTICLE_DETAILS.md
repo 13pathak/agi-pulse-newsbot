@@ -60,9 +60,15 @@ The aim is drafts that read as written by a person, and that do not all look ali
   them is discarded when at least two clean drafts remain. The lists are
   `TELL_WORDS` and `TELL_PATTERNS`.
 - **A second pass picks the best.** Gemini writes four more drafts than are needed.
-  A second Gemini request scores the survivors for how human they read and whether
-  the news is clear, and the top three (takes) or five (packs) are kept. If that
-  request fails, the first-pass order is used. Set `takes_judge: false` to skip it.
+  A second Gemini request scores the survivors, and the top three (takes) or five
+  (packs) are kept. That request goes to the model named in `decision_model`
+  (`gemini-decision-1`), which does not write: it returns a probability for each
+  question. It reads the article next to the drafts and answers three questions
+  per draft: are its facts supported by the article, is the news clear, and how
+  human does it read. Drafts with unsupported facts are ranked last, then unclear
+  ones. If that model fails or `decision_model` is empty, the writing model judges
+  instead, without the fact check. If that fails too, the first-pass order is
+  used. Set `takes_judge: false` to skip the second pass.
 
 ## When a pack is made
 

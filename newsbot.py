@@ -925,6 +925,52 @@ def call_gemini(prompt: str, api_key: str, models: list[str]) -> dict:
     return json.loads(text)
 
 
+DECISIONS_URL = "https://generativelanguage.googleapis.com/v1beta/decisions"
+FACT_SUPPORT_MIN = 0.5   # below this probability a draft is flagged (news) or ranked last (takes)
+
+
+def call_decisions(text: str, questions: dict, api_key: str, model: str) -> dict:
+    """Ask a Gemini decision model (gemini-decision-1) many questions about one text.
+    It writes nothing: every answer is a probability or a score. One attempt only,
+    because every caller treats it as optional. Raises GeminiUnavailable on any failure."""
+    body = {"model": model, "input": text, "questions": questions}
+    r = _post_gemini(DECISIONS_URL, body, api_key, model, tries=1)
+    if not r.ok:
+        raise GeminiUnavailable(f"{model}: HTTP {r.status_code} {clean_text(r.text, 160)}")
+    try:
+        answers = r.json()["answers"]
+        if set(questions) <= set(answers):
+            return answers
+    except (KeyError, TypeError, ValueError):
+        pass
+    raise GeminiUnavailable(f"{model}: incomplete response")
+
+
+def fact_check(picks: list[dict], api_key: str, model: str) -> None:
+    """Set pick["support"]: the probability that every fact in the draft is in the source
+    text Gemini wrote it from. Optional: on any failure the picks are left unmarked."""
+    if not (picks and model):
+        return
+    stories, questions = [], {}
+    for n, pick in enumerate(picks, 1):
+        sources = "\n".join(f"- {i['source']}: {i['title']}. {i.get('snippet', '')}" for i in story_items(pick))
+        stories.append(f"STORY {n}\nSOURCE TEXT:\n{sources}\nDRAFT POST: {pick['post']}")
+        questions[f"s{n}"] = {
+            "type": "noul",
+            "instructions": f"In story {n}, is every fact stated in the draft post (names, figures, dates, "
+                            "events, availability) supported by that story's source text? The draft may "
+                            "be an English translation of a source in another language."}
+    try:
+        answers = call_decisions("\n\n".join(stories), questions, api_key, model)
+        support = [round(float(answers[f"s{n}"]["noul"]), 2) for n in range(1, len(picks) + 1)]
+    except (GeminiUnavailable, KeyError, TypeError, ValueError) as e:
+        log.warning("fact check skipped (%s)", e)
+        return
+    for pick, value in zip(picks, support):
+        pick["support"] = value
+        log.info("fact check %.2f: %s", value, pick["headline"])
+
+
 class TranslationIncomplete(ValueError):
     """A draft still contains Han text; retry before marking candidates seen."""
 
@@ -1083,6 +1129,9 @@ def enqueue_picks(state: dict, picks: list[dict], now: datetime, settings: dict)
             if candidate_category(item) == "primary" and candidate_category(existing["item"]) != "primary":
                 existing.update(item=item, headline=pick["headline"], post=pick["post"],
                                 editor_note=pick.get("editor_note", ""))
+                existing.pop("support", None)   # the fact check belongs to the replaced draft
+                if "support" in pick:
+                    existing["support"] = pick["support"]
             existing["related"] = [i for key, i in aliases.items() if key != existing["item"]["id"]]
             for duplicate in matches[1:]:
                 pending.remove(duplicate)
@@ -1103,6 +1152,7 @@ def enqueue_picks(state: dict, picks: list[dict], now: datetime, settings: dict)
         pending.append({"id": item["id"], "item": item, "related": related, "importance": pick["importance"],
                         "urgency": pick["urgency"], "headline": pick["headline"], "post": pick["post"],
                         "editor_note": pick.get("editor_note", ""),
+                        **({"support": pick["support"]} if "support" in pick else {}),
                         "published_at": date_string(published),
                         "first_seen_at": now.isoformat(), "expires_at": expires.isoformat()})
     prune_pending(state, now, settings)
@@ -1112,6 +1162,15 @@ def enqueue_picks(state: dict, picks: list[dict], now: datetime, settings: dict)
 
 def intent_url(text: str) -> str:
     return "https://x.com/intent/tweet?text=" + urllib.parse.quote(text, safe="")
+
+
+def fact_warning(pick: dict) -> str:
+    """A line for the editor when the decision model doubts the draft; empty otherwise."""
+    support = pick.get("support")
+    if support is None or support >= FACT_SUPPORT_MIN:
+        return ""
+    return (f"⚠️ Fact check: {support:.0%} chance that every fact here is in the source text. "
+            "Compare it with the source.")
 
 
 def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
@@ -1124,6 +1183,8 @@ def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
     lines.append("Read the source and add your own perspective before posting.")
     if pick.get("editor_note"):
         lines.append("Editor note (not posted): " + html.escape(pick["editor_note"]))
+    if fact_warning(pick):
+        lines.append(fact_warning(pick))
     if pick.get("selection_reason"):
         lines.append("Why now: " + html.escape(pick["selection_reason"]))
     if others:
@@ -1317,6 +1378,7 @@ def run(dry_run: bool = False, now: datetime | None = None,
                 save_state(state, now, state_path)
             return 1
         log.info("editorial: %d candidates reviewed, %d qualifying stories", len(cands), len(qualified))
+        fact_check(qualified, api_key, s.get("decision_model") or "")
         enqueue_picks(state, qualified, now, s)
         held_ids = {item["id"] for p in state["pending"] for item in story_items(p)}
         for c in cands:
@@ -1366,6 +1428,8 @@ def run(dry_run: bool = False, now: datetime | None = None,
             print(f"({x_len(post)}/280)  {intent_url(post)[:90]}…")
             if pick.get("editor_note"):
                 print(f"Editor note (not posted): {pick['editor_note']}")
+            if fact_warning(pick):
+                print(fact_warning(pick))
             if photo:
                 print(f"image: {photo}")
             delivered += 1
