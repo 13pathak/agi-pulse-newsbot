@@ -1343,13 +1343,18 @@
   "7678ca90b97d9aef": "2026-11-12T07:37:21.776611+00:00",
   "3d49771b404a762c": "2026-11-12T07:37:21.776611+00:00",
   "8f8983da426379c1": "2026-11-12T07:37:21.776611+00:00",
-  "cf22e1aa93c0a3f1": "2026-11-12T07:37:21.776611+00:00"
+  "cf22e1aa93c0a3f1": "2026-11-12T07:37:21.776611+00:00",
+  "f21422b2449f8882": "2026-11-12T08:07:21.544996+00:00",
+  "77f66d3573894c03": "2026-11-12T08:07:21.544996+00:00",
+  "8eecf18e838fad23": "2026-11-12T08:07:21.544996+00:00",
+  "8b8b0e8eeb881f03": "2026-11-12T08:07:21.544996+00:00",
+  "ba4e71f6705fd8e1": "2026-11-12T08:07:21.544996+00:00",
+  "0fe49869519bdcf4": "2026-11-12T08:07:21.544996+00:00",
+  "6cfa660c5a1ca551": "2026-11-12T08:07:21.544996+00:00",
+  "152f80bd3a14b674": "2026-11-12T08:07:21.544996+00:00",
+  "e1842b672534d279": "2026-11-12T08:07:21.544996+00:00"
  },
  "covered": [
-  {
-   "headline": "SoftBank posts loss from US data center costs",
-   "ts": "2026-11-10T08:07:23.259704+00:00"
-  },
   {
    "headline": "Meta lists Muse AI agent pricing in India ahead of launch",
    "ts": "2026-11-10T08:37:24.312523+00:00"
@@ -1573,11 +1578,15 @@
   {
    "headline": "India considers requiring domestic AI models in critical sectors",
    "ts": "2026-11-12T07:37:21.776611+00:00"
+  },
+  {
+   "headline": "OpenAI launches API inference residency in India",
+   "ts": "2026-11-12T08:07:21.544996+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2917,8 +2926,8 @@
    "published_at": "2026-11-12T03:12:00+00:00",
    "first_seen_at": "2026-11-12T05:37:23.867291+00:00",
    "expires_at": "2026-11-13T15:12:00+00:00",
-   "priority": 7.50211,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.519469,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "cfb2bce945d5aca3",
@@ -2943,8 +2952,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.341193,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.330778,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2969,8 +2978,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.232733,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.218846,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2997,8 +3006,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.170597,
-   "selection_reason": "Editorial importance; waiting 43.0h"
+   "priority": 7.165389,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3025,8 +3034,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.920597,
-   "selection_reason": "Editorial importance; waiting 53.0h"
+   "priority": 6.915389,
+   "selection_reason": "Editorial importance; waiting 53.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3053,8 +3062,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.920597,
-   "selection_reason": "Editorial importance; waiting 53.0h"
+   "priority": 6.915389,
+   "selection_reason": "Editorial importance; waiting 53.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3092,8 +3101,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.84205,
-   "selection_reason": "Editorial importance; waiting 43.0h"
+   "priority": 6.831635,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3179,8 +3188,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.799527,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.789111,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3205,8 +3214,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.784655,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.770767,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   }
  ],
  "details_queue": [],
@@ -3252,11 +3261,12 @@
   "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan": "2026-11-12T06:07:48.804570+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push": "2026-11-12T06:37:56.695764+00:00",
   "https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html": "2026-11-12T07:08:40.163727+00:00",
-  "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors": "2026-11-12T07:37:55.447846+00:00"
+  "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors": "2026-11-12T07:37:55.447846+00:00",
+  "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india": "2026-11-12T08:08:22.501020+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 14
+  "takes": 15
  }
 }
