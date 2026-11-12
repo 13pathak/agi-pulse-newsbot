@@ -1289,13 +1289,12 @@
   "c06de90de3ca8124": "2026-11-12T04:07:21.934969+00:00",
   "0fe25ac3b7759869": "2026-11-12T04:07:21.934969+00:00",
   "dfbec83d343883e1": "2026-11-12T04:07:21.934969+00:00",
-  "7b9ea008ef7978ac": "2026-11-12T04:07:21.934969+00:00"
+  "7b9ea008ef7978ac": "2026-11-12T04:07:21.934969+00:00",
+  "928156a4205c7d59": "2026-11-12T04:37:22.390561+00:00",
+  "301a91fd915c0bcb": "2026-11-12T04:37:22.390561+00:00",
+  "32b07a33f6a81410": "2026-11-12T04:37:22.390561+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic Plans Live Stream IPO Event With Jamie Dimon",
-   "ts": "2026-11-10T04:37:21.282550+00:00"
-  },
   {
    "headline": "Anthropic Releases Claude Fable and Mythos 5.2 Models",
    "ts": "2026-11-10T05:07:25.911204+00:00"
@@ -1519,11 +1518,15 @@
   {
    "headline": "Nvidia board searches for CEO candidates amid review",
    "ts": "2026-11-12T04:07:21.934969+00:00"
+  },
+  {
+   "headline": "Xixuan Chuangzhi raises 500 million yuan in angel round",
+   "ts": "2026-11-12T04:37:22.390561+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2840,6 +2843,33 @@
  },
  "pending": [
   {
+   "id": "7f5fb0b6e890e321",
+   "item": {
+    "id": "7f5fb0b6e890e321",
+    "title": "李彦宏：推理将成AI芯片长期持续增长的主要推动力",
+    "url": "https://36kr.com/newsflashes/4066258760340615?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，在百度世界2026开幕式上，百度创始人李彦宏在谈及AI芯片时表示，过去AI算力需求主要以训练为主，而现在是训练与推理并重的格局，尤其是智能体应用的规模化，带动了推理计算需求的大爆发。“我们相信，推理将成为AI芯片长期持续增长的主要推动力。”昆仑��介绍了下一步产品计划，目前M100已如期上市，M300将于明年推出。",
+    "published": "2026-11-12T04:31:07+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Baidu CEO forecasts long-term inference chip demand",
+   "post": "Baidu founder Robin Li stated that inference will become the primary driver of long-term AI chip demand, driven by scaled agentic applications. The company announced its M100 chip is shipping with the M300 planned for next year.",
+   "editor_note": "Confirm Baidu's stated hardware roadmap for the M100 and M300 chips.",
+   "published_at": "2026-11-12T04:31:07+00:00",
+   "first_seen_at": "2026-11-12T04:37:22.390561+00:00",
+   "expires_at": "2026-11-13T16:31:07+00:00",
+   "priority": 7.497103,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "b430cf8dee31787a",
    "item": {
     "id": "b430cf8dee31787a",
@@ -2862,8 +2892,8 @@
    "published_at": "2026-11-11T22:42:47+00:00",
    "first_seen_at": "2026-11-12T03:07:20.943877+00:00",
    "expires_at": "2026-11-13T10:42:47+00:00",
-   "priority": 7.412248,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.429613,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "cfb2bce945d5aca3",
@@ -2888,8 +2918,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.35158,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.372419,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2914,8 +2944,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.329954,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.316062,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2942,8 +2972,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.207055,
-   "selection_reason": "Editorial importance; waiting 39.5h"
+   "priority": 7.201845,
+   "selection_reason": "Editorial importance; waiting 40.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2970,8 +3000,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.957055,
-   "selection_reason": "Editorial importance; waiting 49.5h"
+   "priority": 6.951845,
+   "selection_reason": "Editorial importance; waiting 50.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2998,8 +3028,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.957055,
-   "selection_reason": "Editorial importance; waiting 49.5h"
+   "priority": 6.951845,
+   "selection_reason": "Editorial importance; waiting 50.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3037,8 +3067,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.914966,
-   "selection_reason": "Editorial importance; waiting 39.5h"
+   "priority": 6.904546,
+   "selection_reason": "Editorial importance; waiting 40.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3063,8 +3093,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.881876,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.867983,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3150,8 +3180,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.872443,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.862023,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3176,8 +3206,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.821528,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.807636,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3202,8 +3232,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.788257,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.774364,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   }
  ],
  "details_queue": [],
@@ -3242,11 +3272,12 @@
   "https://36kr.com/p/4066136377873286?f=rss": "2026-11-12T02:37:47.765585+00:00",
   "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule": "2026-11-12T03:37:48.246078+00:00",
   "https://36kr.com/newsflashes/4066188005692289?f=rss": "2026-11-12T03:37:48.246078+00:00",
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-working-with-outside-firm-to-identify-ceo-candidates/articleshow/135753825.cms": "2026-11-12T04:07:55.965330+00:00"
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-working-with-outside-firm-to-identify-ceo-candidates/articleshow/135753825.cms": "2026-11-12T04:07:55.965330+00:00",
+  "https://36kr.com/newsflashes/4066240518034311?f=rss": "2026-11-12T04:37:47.440128+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 7
+  "takes": 8
  }
 }
