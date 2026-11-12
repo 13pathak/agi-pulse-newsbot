@@ -1509,17 +1509,41 @@
   "a3d887525c687762": "2026-11-12T14:37:23.076371+00:00",
   "329fd0d65fc5db3e": "2026-11-12T14:37:23.076371+00:00",
   "b5ca4e19eb54da53": "2026-11-12T14:37:23.076371+00:00",
-  "2489f95117a4e569": "2026-11-12T14:37:23.076371+00:00"
+  "2489f95117a4e569": "2026-11-12T14:37:23.076371+00:00",
+  "6d29ea24a6e6fee7": "2026-11-12T16:37:22.826379+00:00",
+  "e89c62d75061c48c": "2026-11-12T16:37:22.826379+00:00",
+  "d3206ea89ca22b21": "2026-11-12T16:37:22.826379+00:00",
+  "aa4bf4548cc5dfc6": "2026-11-12T16:37:22.826379+00:00",
+  "516c66760e018174": "2026-11-12T16:37:22.826379+00:00",
+  "308f77b3796da70a": "2026-11-12T16:37:22.826379+00:00",
+  "033f16938689c352": "2026-11-12T16:37:22.826379+00:00",
+  "aed2e3faab556633": "2026-11-12T16:37:22.826379+00:00",
+  "dad6a0660695ec83": "2026-11-12T16:37:22.826379+00:00",
+  "0ddde9b08f100a05": "2026-11-12T16:37:22.826379+00:00",
+  "020f6c38996b5d05": "2026-11-12T16:37:22.826379+00:00",
+  "dfc7b8fa01676ea8": "2026-11-12T16:37:22.826379+00:00",
+  "ef25c42384ffbf36": "2026-11-12T16:37:22.826379+00:00",
+  "1c7a8a12d94d3915": "2026-11-12T16:37:22.826379+00:00",
+  "a5ab0c26558856ef": "2026-11-12T16:37:22.826379+00:00",
+  "f7498150d53af985": "2026-11-12T16:37:22.826379+00:00",
+  "e28a19d520a9029a": "2026-11-12T16:37:22.826379+00:00",
+  "426b199762db8714": "2026-11-12T16:37:22.826379+00:00",
+  "aff4b2c65530b3e6": "2026-11-12T16:37:22.826379+00:00",
+  "4d4792636663d087": "2026-11-12T16:37:22.826379+00:00",
+  "caced9783dab4cd6": "2026-11-12T16:37:22.826379+00:00",
+  "7d789dcda497dcad": "2026-11-12T16:37:22.826379+00:00",
+  "c45cf7e771a2a4c3": "2026-11-12T16:37:22.826379+00:00",
+  "33a370b4be9088e7": "2026-11-12T16:37:22.826379+00:00",
+  "6ad6c9a2db1d7ea6": "2026-11-12T16:37:22.826379+00:00",
+  "e8ed4f4630626dea": "2026-11-12T16:37:22.826379+00:00",
+  "44722bd030259051": "2026-11-12T16:37:22.826379+00:00",
+  "0ae5fa9e51c7d0ec": "2026-11-12T16:37:22.826379+00:00",
+  "1d2566da0bc6f88a": "2026-11-12T16:37:22.826379+00:00",
+  "51db2e7671fa62e8": "2026-11-12T16:37:22.826379+00:00",
+  "efcd2b895a9b4cf8": "2026-11-12T16:37:22.826379+00:00",
+  "e918b92f13194ec9": "2026-11-12T16:37:22.826379+00:00"
  },
  "covered": [
-  {
-   "headline": "Google releases Gemini 4 Carbon model",
-   "ts": "2026-11-10T16:07:26.141387+00:00"
-  },
-  {
-   "headline": "Mercor raises $750 million at $20 billion valuation",
-   "ts": "2026-11-10T16:37:22.446864+00:00"
-  },
   {
    "headline": "Eight countries and top AI labs sign Paris declaration on safety",
    "ts": "2026-11-11T01:07:24.490567+00:00"
@@ -1739,11 +1763,15 @@
   {
    "headline": "LangChain raises 300 million dollars at 3 billion valuation",
    "ts": "2026-11-12T14:37:23.076371+00:00"
+  },
+  {
+   "headline": "Australia proposes mandatory safety rules and audits for frontier AI",
+   "ts": "2026-11-12T16:37:22.826379+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 26
+  "count": 27
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3121,32 +3149,6 @@
  },
  "pending": [
   {
-   "id": "e918b92f13194ec9",
-   "item": {
-    "id": "e918b92f13194ec9",
-    "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
-    "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliberately prioritizing domestic regulation before entering international talks. The article Australia's proposed …",
-    "published": "2026-11-12T10:09:56+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Australia proposes mandatory safety rules and audits for frontier AI",
-   "post": "Australia's government has proposed legislation to establish mandatory safety rules for frontier AI developers. The draft law would create a regulator to enforce independent model audits and issue penalties for non-compliance.",
-   "editor_note": "Verify specific penalty limits and audit requirements in the draft Australian AI safety bill.",
-   "published_at": "2026-11-12T10:09:56+00:00",
-   "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
-   "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.646986,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
-  },
-  {
    "id": "fcaa5a11eb2249d0",
    "item": {
     "id": "fcaa5a11eb2249d0",
@@ -3169,8 +3171,60 @@
    "published_at": "2026-11-12T13:21:09+00:00",
    "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
    "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.579232,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.596564,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
+  },
+  {
+   "id": "f98f612fda85d6f2",
+   "item": {
+    "id": "f98f612fda85d6f2",
+    "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+    "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
+    "snippet": "Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days . Now, Google is ready to take another swing at \" intelligent eyewear \" for the Gemini era after previewing its plans a couple of times. The first glasses are up for preorder today from G…",
+    "published": "2026-11-12T14:50:17+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google opens preorders for $395 Gemini smartglasses",
+   "post": "Google has opened preorders for its Gemini-powered smartglasses starting at $395. The eyewear integrates Google's Gemini AI capabilities alongside privacy-focused features.",
+   "editor_note": "Verify hardware specifications, full launch dates, and international market availability.",
+   "published_at": "2026-11-12T14:50:17+00:00",
+   "first_seen_at": "2026-11-12T16:37:22.826379+00:00",
+   "expires_at": "2026-11-14T02:50:17+00:00",
+   "priority": 7.450418,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "06552fbaf1ca878c",
+   "item": {
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 7.077962,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3197,34 +3251,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.082043,
-   "selection_reason": "Editorial importance; waiting 51.5h"
-  },
-  {
-   "id": "06552fbaf1ca878c",
-   "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.06063,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.076844,
+   "selection_reason": "Editorial importance; waiting 52.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3251,8 +3279,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.832043,
-   "selection_reason": "Editorial importance; waiting 61.5h"
+   "priority": 6.826844,
+   "selection_reason": "Editorial importance; waiting 62.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3279,8 +3307,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.832043,
-   "selection_reason": "Editorial importance; waiting 61.5h"
+   "priority": 6.826844,
+   "selection_reason": "Editorial importance; waiting 62.0h"
   }
  ],
  "details_queue": [],
