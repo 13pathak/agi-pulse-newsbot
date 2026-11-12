@@ -1487,7 +1487,29 @@
   "7ff574131ea056ce": "2026-11-12T14:07:23.819597+00:00",
   "a556e265663bf750": "2026-11-12T14:07:23.819597+00:00",
   "854c6128ccb06de3": "2026-11-12T14:07:23.819597+00:00",
-  "be058f840287324d": "2026-11-12T14:07:23.819597+00:00"
+  "be058f840287324d": "2026-11-12T14:07:23.819597+00:00",
+  "91eeb3c1136d9128": "2026-11-12T14:37:23.076371+00:00",
+  "2315d5b92875d018": "2026-11-12T14:37:23.076371+00:00",
+  "56dac742ff29ffe2": "2026-11-12T14:37:23.076371+00:00",
+  "cbc568438d679699": "2026-11-12T14:37:23.076371+00:00",
+  "a496e2adb0327667": "2026-11-12T14:37:23.076371+00:00",
+  "ef98f01e800c5260": "2026-11-12T14:37:23.076371+00:00",
+  "c221ba3edc6e0d06": "2026-11-12T14:37:23.076371+00:00",
+  "78b8a944bca166b1": "2026-11-12T14:37:23.076371+00:00",
+  "0588d770dba15d3a": "2026-11-12T14:37:23.076371+00:00",
+  "8879a0f8cc11c89c": "2026-11-12T14:37:23.076371+00:00",
+  "8f30ac9550ed2938": "2026-11-12T14:37:23.076371+00:00",
+  "09aee490d7c134a0": "2026-11-12T14:37:23.076371+00:00",
+  "19014573428caa81": "2026-11-12T14:37:23.076371+00:00",
+  "588bccb6f16e5f89": "2026-11-12T14:37:23.076371+00:00",
+  "39f4c129e4341242": "2026-11-12T14:37:23.076371+00:00",
+  "08c116a64c825bf6": "2026-11-12T14:37:23.076371+00:00",
+  "792bad34ba12e593": "2026-11-12T14:37:23.076371+00:00",
+  "9ed6bfff6f1fc771": "2026-11-12T14:37:23.076371+00:00",
+  "a3d887525c687762": "2026-11-12T14:37:23.076371+00:00",
+  "329fd0d65fc5db3e": "2026-11-12T14:37:23.076371+00:00",
+  "b5ca4e19eb54da53": "2026-11-12T14:37:23.076371+00:00",
+  "2489f95117a4e569": "2026-11-12T14:37:23.076371+00:00"
  },
  "covered": [
   {
@@ -1717,11 +1739,15 @@
   {
    "headline": "Jensen Huang resigns as Nvidia CEO and board member",
    "ts": "2026-11-12T14:07:23.819597+00:00"
+  },
+  {
+   "headline": "LangChain raises 300 million dollars at 3 billion valuation",
+   "ts": "2026-11-12T14:37:23.076371+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3082,35 +3108,16 @@
    "desc": "J.Crew’s new Style Advisor uses Claude to help customers shop JCrew.com by complete outfit, drawing on looks created by J.Crew’s own stylists.",
    "image": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude/opengraph-image/og",
    "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/3d-lora-finetuning": {
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+   "published": "2026-11-12T00:00:00.770000+00:00",
+   "excerpt": "TLDR; In this blog, we provide fine-tuning scripts and containers to fine-tune TRELLIS.2, a popular 3D model on your 3D assets, that can run both locally and on Hugging Face Jobs. If you are interested in fine-tuning, you can use our scripts with few arguments (assuming you updated your dataset to Hugging Face Hub) or tinker with them yourself with this repository. If you want to learn more, we go through how the script works. Let’s go! 3D generation has many uses in robotics, simulation, media, and entertainment. In these fields, it is difficult to make generated objects obey strict rules and standardize model and data representations. There are many file formats, such as GLB and PLY. There are also many representations, such as neural radiance fields (NeRFs) and 3D Gaussian splatting (3D…"
   }
  },
  "pending": [
-  {
-   "id": "2489f95117a4e569",
-   "item": {
-    "id": "2489f95117a4e569",
-    "title": "AI Startup LangChain More Than Doubles Its Valuation to $3 Billion",
-    "url": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology",
-    "source": "The Wall Street Journal",
-    "image": "https://images.wsj.net/im-23818061",
-    "snippet": "Alphabet’s CapitalG led the $300 million investment into the startup as it targets enterprises with agent-development platform.",
-    "published": "2026-11-12T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "LangChain raises 300 million dollars at 3 billion valuation",
-   "post": "AI startup LangChain has raised a $300 million investment led by Alphabet's CapitalG, more than doubling its valuation to $3 billion as it targets enterprises with its agent-development platform.",
-   "editor_note": "Confirm the funding amount ($300M), valuation ($3B), and lead investor (CapitalG).",
-   "published_at": "2026-11-12T14:00:00+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T02:00:00+00:00",
-   "priority": 8.496575,
-   "selection_reason": "Time-sensitive story"
-  },
   {
    "id": "e918b92f13194ec9",
    "item": {
@@ -3134,8 +3141,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.577522,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.594876,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "fcaa5a11eb2249d0",
@@ -3160,8 +3167,8 @@
    "published_at": "2026-11-12T13:21:09+00:00",
    "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
    "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.509768,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.527122,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3188,8 +3195,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.102882,
-   "selection_reason": "Editorial importance; waiting 49.5h"
+   "priority": 7.097676,
+   "selection_reason": "Editorial importance; waiting 50.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3214,7 +3221,7 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 6.991167,
+   "priority": 7.00852,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3242,8 +3249,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.852882,
-   "selection_reason": "Editorial importance; waiting 59.5h"
+   "priority": 6.847676,
+   "selection_reason": "Editorial importance; waiting 60.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3270,21 +3277,11 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.852882,
-   "selection_reason": "Editorial importance; waiting 59.5h"
+   "priority": 6.847676,
+   "selection_reason": "Editorial importance; waiting 60.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal",
-   "source": "South China Morning Post",
-   "kind": "takes",
-   "title": "Jensen Huang resigns as Nvidia CEO amid affairs scandal",
-   "summary": "Jensen Huang has resigned as president, chief executive officer and a member of the board of the AI chip giant Nvidia, effective immediately, the firm announced on Thursday, amid media reports of his alleged extramarital affairs.",
-   "queued_at": "2026-11-12T14:07:23.819597+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3337,11 +3334,13 @@
   "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub": "2026-11-12T11:38:57.801512+00:00",
   "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network": "2026-11-12T13:07:56.949623+00:00",
   "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": "2026-11-12T13:07:56.949623+00:00",
-  "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00"
+  "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00",
+  "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal": "2026-11-12T14:38:02.388631+00:00",
+  "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 2,
-  "takes": 23
+  "takes": 25
  }
 }
