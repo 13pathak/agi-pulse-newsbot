@@ -1311,13 +1311,14 @@
   "dbdeea12bd513df2": "2026-11-12T05:37:23.867291+00:00",
   "c8ebb12507be8153": "2026-11-12T05:37:23.867291+00:00",
   "9f12785eb3a902ff": "2026-11-12T05:37:23.867291+00:00",
-  "c0eb96b74d10367b": "2026-11-12T05:37:23.867291+00:00"
+  "c0eb96b74d10367b": "2026-11-12T05:37:23.867291+00:00",
+  "6078e8a8af7ff2c9": "2026-11-12T06:07:22.967625+00:00",
+  "dd249bfef93cb8d4": "2026-11-12T06:07:22.967625+00:00",
+  "c2634a695e25ff69": "2026-11-12T06:07:22.967625+00:00",
+  "08ffdf2bdfafb60c": "2026-11-12T06:07:22.967625+00:00",
+  "b430cf8dee31787a": "2026-11-12T06:07:22.967625+00:00"
  },
  "covered": [
-  {
-   "headline": "Qantas Cuts 850 Jobs In Accenture AI Partnership",
-   "ts": "2026-11-10T06:07:22.591193+00:00"
-  },
   {
    "headline": "NVIDIA Nemotron 3.5 Super VL Available on SageMaker",
    "ts": "2026-11-10T06:37:20.139290+00:00"
@@ -1541,11 +1542,15 @@
   {
    "headline": "Tencent launches public web search engine Yuanbao Search",
    "ts": "2026-11-12T05:37:23.867291+00:00"
+  },
+  {
+   "headline": "CoreWeave plans $4 billion investment-grade loan offering",
+   "ts": "2026-11-12T06:07:22.967625+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2862,32 +2867,6 @@
  },
  "pending": [
   {
-   "id": "b430cf8dee31787a",
-   "item": {
-    "id": "b430cf8dee31787a",
-    "title": "CoreWeave Plans to Raise at Least $4 Billion in High-Grade Loan",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering after the AI computing supplier boosted its annual sales forecast, easing investor concerns about its debt-laden business.",
-    "published": "2026-11-11T22:42:47+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "CoreWeave plans $4 billion investment-grade loan offering",
-   "post": "CoreWeave plans to raise at least $4 billion through an investment-grade loan offering following an increased annual sales forecast.",
-   "editor_note": "Check terms and final close of the investment-grade loan offering.",
-   "published_at": "2026-11-11T22:42:47+00:00",
-   "first_seen_at": "2026-11-12T03:07:20.943877+00:00",
-   "expires_at": "2026-11-13T10:42:47+00:00",
-   "priority": 7.46435,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
    "id": "a1c8c9dbe43bef5c",
    "item": {
     "id": "a1c8c9dbe43bef5c",
@@ -2911,8 +2890,8 @@
    "published_at": "2026-11-12T02:46:00+00:00",
    "first_seen_at": "2026-11-12T05:07:23.365501+00:00",
    "expires_at": "2026-11-13T14:46:00+00:00",
-   "priority": 7.451908,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.46926,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "bca8b18b365a3783",
@@ -2938,7 +2917,7 @@
    "published_at": "2026-11-12T03:12:00+00:00",
    "first_seen_at": "2026-11-12T05:37:23.867291+00:00",
    "expires_at": "2026-11-13T15:12:00+00:00",
-   "priority": 7.432686,
+   "priority": 7.450039,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2964,8 +2943,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.382848,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.372437,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2990,8 +2969,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.288273,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.274391,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3018,8 +2997,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.191424,
-   "selection_reason": "Editorial importance; waiting 41.0h"
+   "priority": 7.186218,
+   "selection_reason": "Editorial importance; waiting 41.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3046,8 +3025,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.941424,
-   "selection_reason": "Editorial importance; waiting 51.0h"
+   "priority": 6.936218,
+   "selection_reason": "Editorial importance; waiting 51.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3074,8 +3053,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.941424,
-   "selection_reason": "Editorial importance; waiting 51.0h"
+   "priority": 6.936218,
+   "selection_reason": "Editorial importance; waiting 51.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3113,8 +3092,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.883704,
-   "selection_reason": "Editorial importance; waiting 41.0h"
+   "priority": 6.873293,
+   "selection_reason": "Editorial importance; waiting 41.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3200,8 +3179,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.841181,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.83077,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3226,8 +3205,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.840194,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.826312,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3252,8 +3231,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.779847,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.765965,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   }
  ],
  "details_queue": [],
@@ -3295,11 +3274,12 @@
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-working-with-outside-firm-to-identify-ceo-candidates/articleshow/135753825.cms": "2026-11-12T04:07:55.965330+00:00",
   "https://36kr.com/newsflashes/4066240518034311?f=rss": "2026-11-12T04:37:47.440128+00:00",
   "https://36kr.com/newsflashes/4066258760340615?f=rss": "2026-11-12T05:37:49.903588+00:00",
-  "https://36kr.com/p/4066338158695304?f=rss": "2026-11-12T05:37:49.903588+00:00"
+  "https://36kr.com/p/4066338158695304?f=rss": "2026-11-12T05:37:49.903588+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan": "2026-11-12T06:07:48.804570+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 1,
-  "takes": 10
+  "takes": 11
  }
 }
