@@ -2523,11 +2523,123 @@
      "clarity": 8
     }
    }
+  },
+  "b5RI-tdtyE0": {
+   "id": "b5RI-tdtyE0",
+   "title": "How to Control AI Video With Claude and Blender",
+   "description": "Claude built every shot of this drift race as grey boxes in Blender, then Seedance 2.5 on Artlist turned that blocking into the final AI video. Here's the full workflow: connect Claude to Blender, block out a complex scene in plain English, and use the clay render as a video reference so your AI generation actually follows your camera moves and timing. No Blender experience needed. If you've ever burned credits on an AI shot that never quite matches the one in your head (cars on the wrong level, the camera going the wrong way), this is the fix. 🔗 LINKS Blender (free): https://www.blender.org/download/ Blender MCP server + Claude extension: https://www.blender.org/lab/mcp-server/ Artlist MCP (connect Artlist to Claude): https://artlist.io/mcp Artlist MCP URL: https://mcp.artlist.io/mcp ⏱️ CHAPTERS 0:00 Every shot started as grey boxes 1:10 Setup: connect Claude to Blender and Artlist 3:06 Describe your scene like a story 4:06 Claude builds the grey-box scene 6:11 Turning the blocking into an AI video 7:28 The first generation 8:32 Same prompt without the Blender blocking 9:48 Fix only the sections you don't like 12:33 The missing piece: music 14:03 4 things that tripped me up 15:26 What the whole scene cost 16:46 Motion graphics brief winner 🛠️ WHAT YOU'LL LEARN • How to connect Claude to Blender with the official Blender MCP server and the Claude desktop extension • How to describe a scene like a story (location, beats, time of day, feeling) so Claude can block it out for you • How to use a grey clay render as a Seedance 2.5 video reference to lock in camera moves and timing • How to keep one Claude chat for the whole project, so it writes your Artlist prompt with every shot already in context • How to use Artlist character tags so your reference sheets load into the pr",
+   "channel": "Artlist",
+   "channel_id": "UCXNK0IHTX0BoktdtKjqIWoA",
+   "duration": 1037,
+   "published_at": "2026-11-11T15:00:21+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "X6WdPtKjx9A": {
+   "id": "X6WdPtKjx9A",
+   "title": "How to Connect AI Tools and Automate Everyday Tasks",
+   "description": "What if your digital tools could work together instead of making you repeat the same tasks in different applications? In this episode, we explore how connecting tools and applications can simplify everyday digital work for African entrepreneurs, small businesses and creators. We follow a fictional fashion business in Nairobi as it moves from a business idea to a promotional video. Along the way, we explore how ChatGPT, Canva, video-editing software and automation platforms can support different stages of the process. We also demonstrate a simple workflow that connects a customer enquiry form to a spreadsheet and an email notification. **In this episode, you'll learn:** - How different applications can work together. - The difference between using tools, connecting tools and automating tasks. - What triggers and actions mean in workflow automation. - How platforms such as Zapier and Make connect applications. - What makes an AI agent different from a normal automation. - Why testing, permissions and human review matter. You don't need dozens of applications to become productive. You need to understand the task, choose the right tools and make information move efficiently between them. **YOUR TURN:** Which repetitive digital task would you like to simplify by connecting two or more applications? Subscribe to Yoro zaga for beginner-friendly lessons on AI, AI agents, connected tools and how technology is changing industries across Africa. **PLAYLIST:** AI in African Industries: From Small Businesses to Big Opportunities #ArtificialIntelligence #AIWorkflows #AIAgents #WorkflowAutomation #AfricanEntrepreneurs #DigitalProductivity #YoroZaga",
+   "channel": "Yoro zaga",
+   "channel_id": "UCaeP93P_WrRQRa5k81RJ8aQ",
+   "duration": 444,
+   "published_at": "2026-11-03T04:07:05+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new"
+  },
+  "phEg77DwNvQ": {
+   "id": "phEg77DwNvQ",
+   "title": "Claude Fable 5.2 Is INSANE for AI Filmmaking (4 Ways to Use It Now)",
+   "description": "Claude Fable 5.2 can help you make better AI films—from controlling camera moves in Blender to improving Seedance 2.5 prompts and editing in DaVinci Resolve. In this video, I break down four practical use cases, show the results, and share the prompting tips that make these workflows useful. Learn AI filmmaking with me: Skool: https://go.jonfilmmaking.com/skool-claude Higgsfield: https://go.jonfilmmaking.com/higgsfield-claude OpenArt: https://go.jonfilmmaking.com/openart-claude TopView: https://go.jonfilmmaking.com/topview-claude WHAT YOU'LL LEARN • How Claude and Blender can help you build a scene and control the camera movement before using it as a Seedance reference. • How to develop your story, characters and audience hooks inside a Claude Project. • Why giving Claude the video model's prompting guidelines and best practices can improve your prompts. • How Claude can work with DaVinci Resolve through an MCP connection to help edit your videos. You'll see the Blender-to-Seedance medieval town example and an AI-edited timeline, plus my thoughts on where Claude fits into an AI filmmaking workflow. CHAPTERS 00:00 Claude Fable 5.2 for AI filmmaking 01:12 Camera control with Claude + Blender 04:12 Story, characters and audience hooks 05:39 Better Seedance 2.5 prompts 07:41 AI editing with DaVinci Resolve TOOLS & PLATFORMS MENTIONED Claude: https://claude.ai/ Blender: https://www.blender.org/download/ DaVinci Resolve: https://www.blackmagicdesign.com/products/davinciresolve Which would help your films most: camera control, story, prompting or editing? Let me know in the comments. Subscribe to Jon Filmmaking for practical AI filmmaking tutorials, workflows and real examples. #AIFilmmaking #ClaudeAI #Seedance",
+   "channel": "Jon Filmmaking",
+   "channel_id": "UCDbckTTdtV2LO_9a-XD9OWw",
+   "duration": 640,
+   "published_at": "2026-11-11T08:00:08+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "cBPCyYtfkaE": {
+   "id": "cBPCyYtfkaE",
+   "title": "أقوى طريقة لعمل فيلم وثائقي بالذكاء الاصطناعي Google Flow + Google Vids",
+   "description": "هل تتخيل إنك تقدر تصنع فيلمًا وثائقيًا سينمائيًا بالذكاء الاصطناعي، بمشاهد مذهلة وحركات كاميرا احترافية، ومن غير كاميرات أو تصوير حقيقي؟! 😱 في الفيديو ده هنتعلم طريقة احترافية لصناعة فيلم وثائقي باستخدام Google Flow وGoogle Vids، من الفكرة وحتى النتيجة النهائية! هنطبق عمليًا على فيلم وثائقي عن عجائب الدنيا السبع القديمة، ونشوف إزاي نحول المعلومات التاريخية إلى مشاهد سينمائية مبهرة باستخدام الذكاء الاصطناعي. 🚀 هنتعلم في الفيديو: ✅ إنشاء مشاهد وثائقية سينمائية باستخدام Google Flow. ✅ استخدام حركات الكاميرا الاحترافية مثل Drone Shots و360° Orbit وSatellite Zoom وTop-Down View. ✅ تصميم لقطات جوية مذهلة لاستعراض المعالم التاريخية. ✅ كتابة برومبتات احترافية للحصول على مشاهد واقعية بجودة سينمائية. ✅ إنشاء مؤثرات صوتية واقعية بدون موسيقى خلفية. ✅ توليد تعليق صوتي باللغة العربية الفصحى باستخدام Google Speech. ✅ تجميع المشاهد والتعليق الصوتي وإخراج الفيلم النهائي باستخدام Google Vids. 🌍 في النهاية هنشاهد فيلمًا وثائقيًا قصيرًا عن عجائب الدنيا السبع القديمة، من هرم خوفو في مصر إلى منارة الإسكندرية، في تجربة عملية توضح إمكانيات الذكاء الاصطناعي في صناعة المحتوى الوثائقي. سواء كنت صانع محتوى على يوتيوب، أو مهتمًا بصناعة الأفلام، أو عاوز تطور مهاراتك في استخدام أدوات الذكاء الاصطناعي، فالفيديو ده هيقدم لك طريقة عمل تقدر تطبقها بنفسك. 💬 شاركني رأيك: إيه أكتر مشهد عجبك في الفيلم؟ وهل تحب نشوف تطبيقات وثائقية ومشاريع سينمائية أخرى باستخدام Google Flow؟ 👍 متنساش اللايك والاشتراك في قناة Pixelator لو حابب تتعلم أحدث أدوات التصميم والذكاء الاصطناعي وتطبيقاتها العملية. #GoogleFlow #GoogleVids #الذكاء_الاصطناعي #AI #صناعة_الأفلام #فيلم_وثائقي #Pixelator Google Flow, Google Vids, Google Flow tutorial, Google Vids tutorial, AI documentary, How to make a documentary with AI, AI filmmaking, AI film production, Cinematic AI video, Google Flow cinematic video, Google AI tools, AI video generation,",
+   "channel": "Pixelator",
+   "channel_id": "UCea5tWfAmIILEGspNL1PFAQ",
+   "duration": 972,
+   "published_at": "2026-11-08T11:00:34+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "bfs13XgHRCw": {
+   "id": "bfs13XgHRCw",
+   "title": "This AI Just Took My Video Creation to the NEXT LEVEL!",
+   "description": "Try the AI Video Tool Here: https://pixverse.onelink.me/0gRx/AIPlaybook-b5c Want to turn your imagination into stunning cinematic videos using AI? In this tutorial, I’ll show you how to transform an original story into an engaging AI-generated video using custom characters, detailed scene prompts, and powerful AI video generation models. We’ll start with a rough story and use AI to improve the writing, refine the lyrics, and make the overall narrative more engaging while keeping the original idea intact. Then, we’ll use an AI-powered canvas workflow to organize our project and turn the story into a complete visual experience. You’ll learn how to generate detailed character sheet prompts, create character images using reference photos, customize outfits, and maintain a consistent character appearance throughout your video. I’ll also show you how to create environmental reference sheets and connect your story, character images, and prompts to build a more structured video generation workflow. Next, we’ll generate detailed video prompts with instructions for camera angles, close-up shots, slow-motion sequences, and cinematic scene transitions. Finally, we’ll explore AI video models, including PixVerse V6, Seedance 2.5, and Wan 3.0, and use this workflow to bring our story to life with AI-generated visuals. Whether you’re interested in AI filmmaking, cinematic storytelling, music videos, creative short films, or AI-generated social media content, this tutorial will help you understand how to approach the entire process, from your initial idea to the final video. In this tutorial, you’ll learn how to: Turn a rough story into a polished, engaging narrative using AI. Generate detailed character sheet prompts for every character. Create custom AI characters using reference imag",
+   "channel": "AI Playbook",
+   "channel_id": "UC2StTATqw1y7XlNpRilwk2A",
+   "duration": 712,
+   "published_at": "2026-11-02T05:34:01+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "creative"
+   ],
+   "status": "new"
+  },
+  "BQr9hWHGWTg": {
+   "id": "BQr9hWHGWTg",
+   "title": "How To Build AI Research Workflows In n8n (Best Method)",
+   "description": "How To Build AI Research Workflows In n8n (Best Method) Try n8n today: https://n8n.io Learn how to build AI Research Workflows in n8n with this practical step-by-step tutorial. This guide walks you through the key tools, settings, and workflow so you can complete the process efficiently and get better results. In this video, you’ll learn: - How to build AI Research Workflows in n8n - How to set up the right tools and workflow - How to configure the most important options - How to improve efficiency and get better results - Useful tips and common mistakes to avoid Whether you are a beginner or already using n8n, this tutorial gives you a straightforward workflow you can follow for your own projects. Disclaimer: Video is for educational purposes only. Some of the links in the description are affiliate links and we may earn commissions if you use the links to make a purchase. This will support our channel and help us make more helpful videos. Thanks for watching. Subscribe!",
+   "channel": "AI Terminal",
+   "channel_id": "UCJhfsQ7h0CiEnaa1fFCJ3sA",
+   "duration": 155,
+   "published_at": "2026-11-06T16:00:14+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new"
+  },
+  "cEWxu_PitdI": {
+   "id": "cEWxu_PitdI",
+   "title": "How To Build An AI Automation System With n8n (2026 Tutorial)",
+   "description": "Want to build an AI-powered automation system that can handle repetitive tasks and streamline your daily workflow? In this step-by-step n8n tutorial, you'll learn how to create an AI automation system that connects AI models, apps, and business tools to automate different processes. Get the 250 Power AI Playbook Prompt here: https://earthtonewallpapers.gumroad.com/l/aiplaybook 🖥️ 📱Get Desktop / IPad & IPhone / Android Wallpapers: https://earthtonewallpapers.gumroad.com/ n8n is a powerful workflow automation platform that allows you to connect applications, APIs, and AI services through visual workflows. By combining n8n with AI models, you can build intelligent systems that process information, generate responses, organize data, and automate business tasks with minimal manual work. Whether you're a business owner, freelancer, developer, or AI enthusiast, this tutorial will help you understand how to build practical AI-powered workflows using n8n. 🤖 What You'll Learn in This Tutorial: What n8n is and how AI automation works How to set up your n8n workspace How to create your first automation workflow How to connect AI models to n8n How to configure AI-powered workflow nodes How to use triggers to start automated workflows How to connect different apps and services How to process data using AI How to automate repetitive business tasks How to build workflows using AI agents How to add conditions and logic to your automation How to test, debug, and improve your workflows How to activate and manage your AI automation system By the end of this tutorial, you'll understand how to build an AI automation system with n8n and connect different tools to create smarter, more efficient workflows. 🎯 Who Is This Tutorial For? Beginners learning AI automation Small business owners Entrep",
+   "channel": "Tutorial Made Easy",
+   "channel_id": "UCBM7xsls92kELAh5Eq4PdjA",
+   "duration": 520,
+   "published_at": "2026-10-30T12:10:04+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "everyday"
+   ],
+   "status": "new"
+  },
+  "0hUko6Fj9kc": {
+   "id": "0hUko6Fj9kc",
+   "title": "My Entire AI Agent Setup (Claude Code + Dev Containers)",
+   "description": "🚀 Apply to join KubeCraft & land your DevOps job: https://kubecraft.click/cgv177 Download your free DevOps Career Roadmap here: https://kubecraft.click/roadmap-cgv177 This is my full AI agent setup, and I run all of it from the command line. My Framework laptop works as an agent server, Herdr manages the agents across machines, and every agent runs inside a dev container. It’s for engineers who want Claude Code to work on long tasks without risking their own machine. 🤖 I walk through how I run several Claude Code agents at once on my own AI app, with a sound alert when each one is done. You’ll see Rex, my personal AI system built on Daniel Miessler’s Life OS, check my homelab for firing alerts and walk me through a fix. 🔒 I also explain why I give each project its own dev container, why I keep all my skills in one repo on a self-hosted Forgejo server instead of GitHub, and how containers let me skip permission prompts safely. 🔗 RESOURCES MENTIONED: → Apply to the KubeCraft mentorship program: https://kubecraft.click/cgv177 → Free DevOps Career Roadmap: https://kubecraft.click/roadmap-cgv177 → My Herdr video: https://www.youtube.com/watch?v=SIEkDrxhFU8 → Herdr: https://herdr.dev/ → Dev containers: https://containers.dev/ → DevPod: https://devpod.sh/ → Fabric by Daniel Miessler: https://github.com/danielmiessler/fabric → Forgejo: https://forgejo.org/ 📱 CONNECT WITH ME: → Website: https://kubecraft.click/yt-apply-2 → X / Twitter: https://x.com/mischavdburg → Personal blog: https://mischavandenburg.substack.com/ → LinkedIn: https://www.linkedin.com/in/mischavandenburg/ → Instagram: https://www.instagram.com/mischavandenburg/ → TikTok: https://www.tiktok.com/@mischavandenburg ℹ️ ABOUT KUBECRAFT: I help you land six figure tech jobs through Kubernetes, Linux, home labs, self ",
+   "channel": "Mischa van den Burg",
+   "channel_id": "UCDAck-gFPTrgTx_qp59-bQA",
+   "duration": 1149,
+   "published_at": "2026-11-10T13:44:35+00:00",
+   "discovered_at": "2026-11-12T05:12:32.579173+00:00",
+   "categories": [
+    "applications"
+   ],
+   "status": "new"
   }
  },
  "daily": {
   "date": "2026-11-12",
-  "searches": 0,
+  "searches": 6,
   "reviews": 3,
   "video_seconds": 1924,
   "screens": 1,
@@ -2551,5 +2663,5 @@
  "preferences": {},
  "channel_uploads": {},
  "update_offset": 0,
- "next_discovery_at": "2026-11-12T04:40:05.897319+00:00"
+ "next_discovery_at": "2026-11-12T17:12:32.579173+00:00"
 }
