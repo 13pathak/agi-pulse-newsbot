@@ -2942,6 +2942,18 @@
    "desc": "复刻一个物理世界",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://openai.com/business/customer-stories/holidays-extras-codex": {
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "desc": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/YQ7iIOI0bWh6X0QxSJfhc/52dfd3404ac0611fbab3c54ed6178bce/holiday-extras-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://openai.com/index/children-first-declaration": {
+   "title": "Supporting research on AI and children’s safety",
+   "desc": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sf0H3Wms7pT8ElWHCBqtC/dc443a9424134ea7518258ed6bdd9ffa/supporting-research-on-ai-and-childrens-safety-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-05T02:00:00+00:00"
   }
  },
  "pending": [
@@ -2969,7 +2981,7 @@
    "published_at": "2026-11-12T09:52:43+00:00",
    "first_seen_at": "2026-11-12T10:07:27.209325+00:00",
    "expires_at": "2026-11-13T21:52:43+00:00",
-   "priority": 7.493177,
+   "priority": 7.510494,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -2997,8 +3009,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.144539,
-   "selection_reason": "Editorial importance; waiting 45.5h"
+   "priority": 7.139344,
+   "selection_reason": "Editorial importance; waiting 46.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3025,8 +3037,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.894539,
-   "selection_reason": "Editorial importance; waiting 55.5h"
+   "priority": 6.889344,
+   "selection_reason": "Editorial importance; waiting 56.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3053,8 +3065,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.894539,
-   "selection_reason": "Editorial importance; waiting 55.5h"
+   "priority": 6.889344,
+   "selection_reason": "Editorial importance; waiting 56.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3092,8 +3104,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.789935,
-   "selection_reason": "Editorial importance; waiting 45.5h"
+   "priority": 6.779545,
+   "selection_reason": "Editorial importance; waiting 46.0h"
   }
  ],
  "details_queue": [],
