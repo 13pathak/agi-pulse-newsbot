@@ -1207,13 +1207,30 @@
   "44087d608320586b": "2026-11-12T01:07:22.215794+00:00",
   "d8ef3fe6591f506a": "2026-11-12T01:07:22.215794+00:00",
   "2464a640b3fba604": "2026-11-12T01:07:22.215794+00:00",
-  "7218220fa4fbbf3e": "2026-11-12T01:07:22.215794+00:00"
+  "7218220fa4fbbf3e": "2026-11-12T01:07:22.215794+00:00",
+  "a0a8bd68435e7a18": "2026-11-12T01:37:22.582035+00:00",
+  "005484e05b9e6189": "2026-11-12T01:37:22.582035+00:00",
+  "4ec3b964cec4b47d": "2026-11-12T01:37:22.582035+00:00",
+  "23257b6b2fca97f6": "2026-11-12T01:37:22.582035+00:00",
+  "a44f3a66e352cc10": "2026-11-12T01:37:22.582035+00:00",
+  "16f171ec016706cb": "2026-11-12T01:37:22.582035+00:00",
+  "1f240319c6d7590a": "2026-11-12T01:37:22.582035+00:00",
+  "b9efeac5a455f79c": "2026-11-12T01:37:22.582035+00:00",
+  "ae5556d61c0b046e": "2026-11-12T01:37:22.582035+00:00",
+  "0ff2cac9df285c6b": "2026-11-12T01:37:22.582035+00:00",
+  "d95b8f1846c4eefa": "2026-11-12T01:37:22.582035+00:00",
+  "a947c71932a715a8": "2026-11-12T01:37:22.582035+00:00",
+  "4212ce0f5a08b76d": "2026-11-12T01:37:22.582035+00:00",
+  "a79708e90bab5152": "2026-11-12T01:37:22.582035+00:00",
+  "2866d6d977658f25": "2026-11-12T01:37:22.582035+00:00",
+  "70b89fd3ef03cc10": "2026-11-12T01:37:22.582035+00:00",
+  "8650d8ab41a4ebe5": "2026-11-12T01:37:22.582035+00:00",
+  "dfffc5d39db5d7c4": "2026-11-12T01:37:22.582035+00:00",
+  "a9df339f0d41d7a2": "2026-11-12T01:37:22.582035+00:00",
+  "bdeaa23eb9886c5a": "2026-11-12T01:37:22.582035+00:00",
+  "e3140873dc4ba8e7": "2026-11-12T01:37:22.582035+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic Moves Forward With Initial Public Offering",
-   "ts": "2026-11-10T01:37:25.783284+00:00"
-  },
   {
    "headline": "Anthropic Files For Initial Public Offering To Raise Billions",
    "ts": "2026-11-10T02:07:26.100452+00:00"
@@ -1437,11 +1454,15 @@
   {
    "headline": "DeepL introduces Aure model for real-time speech translation",
    "ts": "2026-11-12T01:07:22.215794+00:00"
+  },
+  {
+   "headline": "Radical Numerics develops offline pathogen identification model",
+   "ts": "2026-11-12T01:37:22.582035+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2740,32 +2761,6 @@
  },
  "pending": [
   {
-   "id": "e3140873dc4ba8e7",
-   "item": {
-    "id": "e3140873dc4ba8e7",
-    "title": "A Startup Wants to Fight AI Bioweapons With AI",
-    "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-    "source": "Wired",
-    "image": "",
-    "snippet": "Startup Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-    "published": "2026-11-11T17:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Radical Numerics develops offline pathogen identification model",
-   "post": "Startup Radical Numerics has developed an AI model designed to identify both natural and AI-engineered pathogens without requiring an internet connection.",
-   "editor_note": "Confirm the startup name and claim that the model operates entirely offline.",
-   "published_at": "2026-11-11T17:00:00+00:00",
-   "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
-   "expires_at": "2026-11-13T05:00:00+00:00",
-   "priority": 7.774342,
-   "selection_reason": "Time-sensitive story; waiting 8.0h"
-  },
-  {
    "id": "cce714811b519a82",
    "item": {
     "id": "cce714811b519a82",
@@ -2813,8 +2808,8 @@
    "published_at": "2026-11-11T18:00:00+00:00",
    "first_seen_at": "2026-11-12T01:07:22.215794+00:00",
    "expires_at": "2026-11-13T18:00:00+00:00",
-   "priority": 7.351608,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.372445,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "be6a1abda9866f2d",
@@ -2839,8 +2834,34 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.350777,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.368142,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "cfb2bce945d5aca3",
+   "item": {
+    "id": "cfb2bce945d5aca3",
+    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
+    "url": "https://elevenlabs.io/blog/nvidia",
+    "source": "ElevenLabs",
+    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dzrt2l99qq7-Blog-Template1920--9-.webp",
+    "snippet": "ElevenLabs and NVIDIA expand their partnership with Nemotron in ElevenAgents, 15MW of compute, and a sovereign voice agent for Poland’s e-Health.",
+    "published": "2026-11-11T12:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "ElevenLabs and Nvidia expand global voice agent collaboration",
+   "post": "ElevenLabs and Nvidia are expanding their partnership to integrate Nvidia Nemotron into ElevenAgents, deploy 15 megawatts of compute, and build a sovereign voice agent for Poland's e-Health system.",
+   "editor_note": "Verify the 15MW compute allocation and Nemotron integration details from the announcement.",
+   "published_at": "2026-11-11T12:00:00+00:00",
+   "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
+   "expires_at": "2026-11-13T12:00:00+00:00",
+   "priority": 7.247421,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2867,34 +2888,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.238304,
-   "selection_reason": "Editorial importance; waiting 36.5h"
-  },
-  {
-   "id": "cfb2bce945d5aca3",
-   "item": {
-    "id": "cfb2bce945d5aca3",
-    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
-    "url": "https://elevenlabs.io/blog/nvidia",
-    "source": "ElevenLabs",
-    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dzrt2l99qq7-Blog-Template1920--9-.webp",
-    "snippet": "ElevenLabs and NVIDIA expand their partnership with Nemotron in ElevenAgents, 15MW of compute, and a sovereign voice agent for Poland’s e-Health.",
-    "published": "2026-11-11T12:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "ElevenLabs and Nvidia expand global voice agent collaboration",
-   "post": "ElevenLabs and Nvidia are expanding their partnership to integrate Nvidia Nemotron into ElevenAgents, deploy 15 megawatts of compute, and build a sovereign voice agent for Poland's e-Health system.",
-   "editor_note": "Verify the 15MW compute allocation and Nemotron integration details from the announcement.",
-   "published_at": "2026-11-11T12:00:00+00:00",
-   "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
-   "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.226584,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.233094,
+   "selection_reason": "Editorial importance; waiting 37.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2921,8 +2916,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.988304,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 6.983094,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2949,8 +2944,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.988304,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 6.983094,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2988,8 +2983,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.977464,
-   "selection_reason": "Editorial importance; waiting 36.5h"
+   "priority": 6.967045,
+   "selection_reason": "Editorial importance; waiting 37.0h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3014,8 +3009,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.965207,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.951315,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3101,8 +3096,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.934941,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.924522,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3127,8 +3122,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.904859,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.890968,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3153,8 +3148,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.871588,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.857696,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -3179,8 +3174,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 6.830392,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.8165,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "a92c103556a09803",
@@ -3205,11 +3200,21 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 6.815801,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.801909,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+   "source": "Wired",
+   "kind": "takes",
+   "title": "A Startup Wants to Fight AI Bioweapons With AI",
+   "summary": "Startup Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+   "queued_at": "2026-11-12T01:37:22.582035+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
