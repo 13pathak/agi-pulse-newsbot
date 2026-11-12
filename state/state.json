@@ -1422,13 +1422,22 @@
   "64f138fe6a7f314a": "2026-11-12T11:07:26.197438+00:00",
   "623ac82d496c14df": "2026-11-12T11:07:26.197438+00:00",
   "86c3365af11352aa": "2026-11-12T11:07:26.197438+00:00",
-  "183da59d7eb10ef3": "2026-11-12T11:07:26.197438+00:00"
+  "183da59d7eb10ef3": "2026-11-12T11:07:26.197438+00:00",
+  "5f85462c31ca2693": "2026-11-12T11:37:21.679140+00:00",
+  "93f813ae2f803348": "2026-11-12T11:37:21.679140+00:00",
+  "5e7d974835a50946": "2026-11-12T11:37:21.679140+00:00",
+  "ed8622da7861be87": "2026-11-12T11:37:21.679140+00:00",
+  "7e823ef0509fe04e": "2026-11-12T11:37:21.679140+00:00",
+  "926fa2d8a5cbd105": "2026-11-12T11:37:21.679140+00:00",
+  "5ba36c508cc98b70": "2026-11-12T11:37:21.679140+00:00",
+  "b6a7ca09009b2080": "2026-11-12T11:37:21.679140+00:00",
+  "34e98fc6a38de7a4": "2026-11-12T11:37:21.679140+00:00",
+  "b5aac21720ee481c": "2026-11-12T11:37:21.679140+00:00",
+  "801248cda4cd3310": "2026-11-12T11:37:21.679140+00:00",
+  "2fa5057fbbed719e": "2026-11-12T11:37:21.679140+00:00",
+  "a0ee63f286c65a89": "2026-11-12T11:37:21.679140+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia Board Investigates CEO Jensen Huang Amid Affair Claims",
-   "ts": "2026-11-10T11:37:22.099252+00:00"
-  },
   {
    "headline": "Anthropic sets IPO price range and targets trillion-dollar valuation",
    "ts": "2026-11-10T12:37:25.483982+00:00"
@@ -1652,11 +1661,15 @@
   {
    "headline": "United Airlines bans AI agents from booking flights",
    "ts": "2026-11-12T11:07:26.197438+00:00"
+  },
+  {
+   "headline": "Karnataka explores GPU subsidies for startups via AI hub",
+   "ts": "2026-11-12T11:37:21.679140+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3003,6 +3016,33 @@
  },
  "pending": [
   {
+   "id": "8a74ed88bfbc96ee",
+   "item": {
+    "id": "8a74ed88bfbc96ee",
+    "title": "姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」",
+    "url": "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Kimi 刷新 629 条边图论参考纪录，只多加了1条边，为什么数学界等了这么多年？ 作者丨 郑佳美 编辑丨岑 峰 给 124 个点连线，不能出现三角形，也不能出现四边形。此前的参考记录是 629 条——数学界认为这已经接近极限。而Kimi K3 构造出了 630 条边的图，并通过程序验证。 多1条边，听起来不多。但在组合数学里，你每试图多塞进一条边，都需要在全图 124 个点之间重新完成一次精密的结构大重构。这1条边意味着AI第一次在“极值构造”这类研究级任务上，把人类参考纪录往前推了一步。 这项成果来自图灵奖得主、中科院院士、清华大学交叉信息研究院院长姚期智与月之暗面创始人杨植麟等人的联合研究。他们真正想回答的问题是： AI到底能不能做数学研究，而不只是做数学题？ 01 「多 1 条边」算不算真突破？ 姚期智，图灵奖得主、清华大学交叉信息研究院院长，是中国理论计算机科学的奠基者之一；杨植麟，月之暗面创始人，Kimi背后的推动者。 两代人、两种身份：一位是理论计算机科学的泰斗，一位是大模型创业的一线操盘手，第一次联合署名。 这个组合本身就说明了一件事：AI做科研，已经不是“实验室里的猜想”，而是需要理论计算机科学家和大模型团队坐在一起定义“什么叫算做出来了”。 但在另一面，争议同样如影随形： 多构造出一条边，到底算不算真正的科学突破？ 这算不算只是暴力搜索蒙对的个例？AI真懂背后的数学机理吗？ 这正是姚期智团队的核心初衷。如果无法区分‘运气好撞上’和‘逻辑上证明’，AI 就永远只是个黑盒计算器。于是，他们没有继续在传统基准上打转，而是联手搭了一套前所未有的评测系统—— TCS…",
+    "published": "2026-11-12T09:09:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Moonshot AI and Tsinghua researchers push graph theory record",
+   "post": "Researchers including Turing Award winner Andrew Yao and Moonshot AI founder Yang Zhilin used the Kimi K3 model to construct a graph with 630 edges, surpassing the previous reference record of 629 edges under triangle and quadrilateral constraints.",
+   "editor_note": "Verify the claim that Kimi K3 constructed 630 edges and that the result was verified through program execution.",
+   "published_at": "2026-11-12T09:09:00+00:00",
+   "first_seen_at": "2026-11-12T11:37:21.679140+00:00",
+   "expires_at": "2026-11-13T21:09:00+00:00",
+   "priority": 8.431314,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "e918b92f13194ec9",
    "item": {
     "id": "e918b92f13194ec9",
@@ -3025,7 +3065,7 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.473378,
+   "priority": 7.490696,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3053,8 +3093,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.134126,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 7.12893,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3081,8 +3121,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.884126,
-   "selection_reason": "Editorial importance; waiting 56.5h"
+   "priority": 6.87893,
+   "selection_reason": "Editorial importance; waiting 57.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3109,8 +3149,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.884126,
-   "selection_reason": "Editorial importance; waiting 56.5h"
+   "priority": 6.87893,
+   "selection_reason": "Editorial importance; waiting 57.0h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3148,8 +3188,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.769108,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 6.758717,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   }
  ],
  "details_queue": [],
@@ -3201,11 +3241,12 @@
   "https://elevenlabs.io/blog/nvidia": "2026-11-12T09:08:26.946706+00:00",
   "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1": "2026-11-12T09:40:59.936706+00:00",
   "https://analyticsindiamag.com/ai-news/chariot-launches-multilingual-tts-model-with-support-for-11-indian-languages": "2026-11-12T10:09:36.991416+00:00",
-  "https://36kr.com/newsflashes/4066584261022849?f=rss": "2026-11-12T11:08:11.530315+00:00"
+  "https://36kr.com/newsflashes/4066584261022849?f=rss": "2026-11-12T11:08:11.530315+00:00",
+  "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub": "2026-11-12T11:38:57.801512+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 2,
-  "takes": 19
+  "takes": 20
  }
 }
