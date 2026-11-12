@@ -103,12 +103,11 @@ holds no bot token: it only starts the workflow and answers Telegram.
    | `TELEGRAM_CHAT_ID` | the same chat ID the bot already uses |
    | `WEBHOOK_SECRET` | any long random string of letters and digits you make up |
 
-   For a group chat, also add `TELEGRAM_FEEDBACK_USER_ID` (your numeric user ID).
 4. **Point Telegram at the Worker.** Open this address once in a browser, with your
    own values filled in:
 
    ```
-   https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=<WORKER_ADDRESS>&secret_token=<WEBHOOK_SECRET>&allowed_updates=["message","callback_query"]
+   https://api.telegram.org/bot<BOT_TOKEN>/setWebhook?url=<WORKER_ADDRESS>&secret_token=<WEBHOOK_SECRET>&allowed_updates=["message"]
    ```
 
    The reply should be `"Webhook was set"`. Keep the `allowed_updates` part: without
@@ -118,12 +117,8 @@ holds no bot token: it only starts the workflow and answers Telegram.
 Only messages from your chat are acted on; anyone else gets no reply. Requests
 without the right `WEBHOOK_SECRET` are refused.
 
-**Video feedback buttons** go through the relay too once the webhook is set (a bot
-can have a webhook or be polled, not both). A press is acknowledged at once, saved
-as a small file in `state/video_feedback/` and applied on the next video run.
-
 **To undo:** open `https://api.telegram.org/bot<BOT_TOKEN>/deleteWebhook` and delete
-the Worker. Video feedback goes back to polling by itself.
+the Worker.
 
 **If nothing happens:** `https://api.telegram.org/bot<BOT_TOKEN>/getWebhookInfo`
 shows the last delivery error. A "Could not start the run" reply means the GitHub
@@ -172,5 +167,5 @@ To remove the feature: delete `article_details.py`, `tests/test_article_details.
 and this file; remove the **Detail packs for official stories** step from
 `.github/workflows/newsbot.yml` and the `details` job from
 `.github/workflows/telegram.yml`; and remove `queue_details` (the function and its
-one call) from `newsbot.py`. The relay (`relay/worker.js`) also carries video
-feedback, so keep it unless the webhook is removed as well.
+one call) from `newsbot.py`. The relay (`relay/worker.js`) only serves this
+feature: delete the webhook and the Worker as described above.

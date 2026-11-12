@@ -10,14 +10,6 @@ on:
         description: "Article link: sends a detail pack to Telegram"
         required: false
         default: ""
-      feedback:
-        description: "Video feedback vote (filled in by the relay)"
-        required: false
-        default: ""
-      update_id:
-        description: "Telegram update number (filled in by the relay)"
-        required: false
-        default: ""
 
 permissions:
   contents: read
@@ -45,45 +37,3 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           DETAILS_URL: ${{ inputs.url }}
         run: python article_details.py --url "$DETAILS_URL"
-
-  feedback:
-    # One small file per vote, so votes pressed in quick succession never collide.
-    # The video recommender reads and removes them on its next run.
-    if: ${{ inputs.feedback != '' }}
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Save vote
-        env:
-          FEEDBACK: ${{ inputs.feedback }}
-          UPDATE_ID: ${{ inputs.update_id }}
-        run: |
-          if [[ ! "$FEEDBACK" =~ ^vid:(useful|basic|technical|more):[A-Za-z0-9_-]{11}$ ]]; then
-            echo "not a video vote; ignored"
-            exit 0
-          fi
-          [[ "$UPDATE_ID" =~ ^[0-9]+$ ]] || UPDATE_ID="run$GITHUB_RUN_ID"
-          mkdir -p state/video_feedback
-          printf '%s\n' "$FEEDBACK" > "state/video_feedback/$UPDATE_ID.txt"
-          git config user.name  "agi-pulse-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/video_feedback
-          if git diff --cached --quiet; then
-            echo "vote already saved"
-            exit 0
-          fi
-          git commit -m "videos: feedback received [skip ci]"
-          for attempt in 1 2 3 4 5; do
-            if git pull --rebase --quiet origin main && git push origin HEAD:main; then
-              exit 0
-            fi
-            sleep $((attempt * 3))
-          done
-          echo "could not save the vote"
-          exit 1

@@ -1,16 +1,14 @@
 // Telegram -> GitHub relay, run as a free Cloudflare Worker (setup: ARTICLE_DETAILS.md).
 //
 // Telegram calls this Worker the moment a message reaches the bot. The Worker
-// starts the "Telegram requests" workflow (.github/workflows/telegram.yml):
-//   - a message with a link   -> a detail pack for that article
-//   - a video feedback button -> the vote is saved for the video recommender
+// starts the "Telegram requests" workflow (.github/workflows/telegram.yml): a
+// message with a link gets a detail pack for that article.
 // It answers Telegram in the same response, so it never needs the bot token.
 //
 // Worker secrets: GITHUB_TOKEN (fine-grained, Actions: read and write on the repo),
 // GITHUB_REPO ("owner/name"), TELEGRAM_CHAT_ID, WEBHOOK_SECRET.
-// Optional: TELEGRAM_FEEDBACK_USER_ID (group chats), GITHUB_REF (default "main").
+// Optional: GITHUB_REF (default "main").
 
-const VOTE = /^vid:(useful|basic|technical|more):[A-Za-z0-9_-]{11}$/;
 const HELP = "Send me an article link and I'll reply with a detail pack: facts, figures and draft posts.";
 
 const answer = (payload) => Response.json(payload);
@@ -59,16 +57,11 @@ async function onMessage(message, env) {
     : `⚠️ Could not start the run (GitHub answered ${status || "nothing"}). Check the relay's GitHub token.`);
 }
 
-async function onButton(callback, updateId, env) {
-  const reply = (text) => answer({ method: "answerCallbackQuery", callback_query_id: callback.id, text });
-  const chat = String(callback.message?.chat?.id);
-  const allowed = String(env.TELEGRAM_FEEDBACK_USER_ID || env.TELEGRAM_CHAT_ID);
-  if (chat !== String(env.TELEGRAM_CHAT_ID) || String(callback.from?.id) !== allowed
-      || !VOTE.test(callback.data ?? "")) {
-    return reply("Feedback unavailable");
-  }
-  const status = await startWorkflow(env, { feedback: callback.data, update_id: String(updateId) }).catch(() => 0);
-  return reply(status === 204 ? "Feedback received" : "Could not save feedback, try again later");
+// The bot's own buttons are plain links. A press here comes from a message sent by
+// a removed feature; answer it so Telegram stops showing the button as loading.
+function onButton(callback) {
+  return answer({ method: "answerCallbackQuery", callback_query_id: callback.id,
+    text: "This button is no longer in use" });
 }
 
 export default {
@@ -85,7 +78,7 @@ export default {
     }
     // Always answer 200 from here on: any other status makes Telegram resend the update.
     try {
-      if (update.callback_query) return await onButton(update.callback_query, update.update_id, env);
+      if (update.callback_query) return onButton(update.callback_query);
       if (update.message) return await onMessage(update.message, env);
     } catch (error) {
       console.error("relay failed:", error?.message);

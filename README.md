@@ -12,11 +12,6 @@ An automated AI-news desk. It monitors 58 enabled sources across news outlets, l
 
 ## Features
 
-The separate [practical AI video recommender](VIDEO_RECOMMENDER.md) discovers and
-reviews YouTube demonstrations across creative projects, everyday/no-code work and
-AI application building. It has its own queue, daily limits and Telegram feedback;
-automatic recommendations are disabled until API setup and preview checks pass.
-
 - **Opinion takes for every story:** each delivered news draft is followed by three takes written from the full article, in a conversational voice ([details](ARTICLE_DETAILS.md)). The news draft itself stays straight news.
 - **Detail packs:** official announcements scoring 7/10 or higher are followed by a [detail pack](ARTICLE_DETAILS.md): facts and figures from the full article, five drafts and the article's own charts. Send the bot any link in Telegram to get a pack for it straight away ([setup](ARTICLE_DETAILS.md#sending-links-from-telegram-one-time-setup)).
 - **Broad coverage:** 58 enabled sources, including direct lab announcements, independent evaluations, official policy, global, Indian and Chinese reporting, research papers and open-model releases.

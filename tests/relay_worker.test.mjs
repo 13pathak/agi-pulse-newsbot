@@ -3,7 +3,6 @@ import test from "node:test";
 import worker, { firstLink } from "../relay/worker.js";
 
 const ENV = { GITHUB_TOKEN: "gh-token", GITHUB_REPO: "owner/repo", TELEGRAM_CHAT_ID: "123", WEBHOOK_SECRET: "s3cret" };
-const VIDEO = "abcdefghijk";
 
 async function send(update, { secret = "s3cret", github = 204, env = ENV } = {}) {
   const calls = [];
@@ -24,8 +23,8 @@ async function send(update, { secret = "s3cret", github = 204, env = ENV } = {})
 }
 
 const message = (text, extra = {}) => ({ update_id: 1, message: { message_id: 9, chat: { id: 123 }, text, ...extra } });
-const button = (data, from = 123, chat = 123) => ({
-  update_id: 77, callback_query: { id: "cb1", data, from: { id: from }, message: { chat: { id: chat } } },
+const button = (data) => ({
+  update_id: 77, callback_query: { id: "cb1", data, from: { id: 123 }, message: { chat: { id: 123 } } },
 });
 
 test("a link starts the detail-pack workflow and is acknowledged at once", async () => {
@@ -71,19 +70,8 @@ test("a GitHub failure is reported in the chat", async () => {
   assert.match(reply.text, /401/);
 });
 
-test("a video vote is relayed with its update number", async () => {
-  const { reply, calls } = await send(button(`vid:useful:${VIDEO}`));
-  assert.deepEqual(calls[0].body.inputs, { feedback: `vid:useful:${VIDEO}`, update_id: "77" });
-  assert.deepEqual(reply, { method: "answerCallbackQuery", callback_query_id: "cb1", text: "Feedback received" });
-});
-
-test("votes from other users, other chats or with odd data are refused", async () => {
-  for (const update of [button(`vid:useful:${VIDEO}`, 555), button(`vid:useful:${VIDEO}`, 123, 999), button("vid:useful:x; rm -rf")]) {
-    const { reply, calls } = await send(update);
-    assert.equal(calls.length, 0);
-    assert.equal(reply.text, "Feedback unavailable");
-  }
-  const group = { ...ENV, TELEGRAM_CHAT_ID: "-100", TELEGRAM_FEEDBACK_USER_ID: "555" };
-  const { calls } = await send(button(`vid:more:${VIDEO}`, 555, -100), { env: group });
-  assert.equal(calls.length, 1);
+test("a leftover button press is answered and starts nothing", async () => {
+  const { reply, calls } = await send(button("old-button"));
+  assert.equal(calls.length, 0);
+  assert.deepEqual([reply.method, reply.callback_query_id], ["answerCallbackQuery", "cb1"]);
 });
