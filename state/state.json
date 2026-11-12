@@ -1473,13 +1473,23 @@
   "24d7fb83f2c2988f": "2026-11-12T13:37:27.918786+00:00",
   "2d5446f7d51e047a": "2026-11-12T13:37:27.918786+00:00",
   "b86c8fbe7035460b": "2026-11-12T13:37:27.918786+00:00",
-  "8a74ed88bfbc96ee": "2026-11-12T13:37:27.918786+00:00"
+  "8a74ed88bfbc96ee": "2026-11-12T13:37:27.918786+00:00",
+  "103f6398ed67445d": "2026-11-12T14:07:23.819597+00:00",
+  "98f2eaefc3a854fb": "2026-11-12T14:07:23.819597+00:00",
+  "225bd10db8685396": "2026-11-12T14:07:23.819597+00:00",
+  "2ca1b26b2964cb94": "2026-11-12T14:07:23.819597+00:00",
+  "d3be8f1af6a426c3": "2026-11-12T14:07:23.819597+00:00",
+  "4b0950e9ebe78093": "2026-11-12T14:07:23.819597+00:00",
+  "3666cb96e0a17460": "2026-11-12T14:07:23.819597+00:00",
+  "5ad6b27ae2027021": "2026-11-12T14:07:23.819597+00:00",
+  "a647d71f08016843": "2026-11-12T14:07:23.819597+00:00",
+  "c3ba0c08efdd08e2": "2026-11-12T14:07:23.819597+00:00",
+  "7ff574131ea056ce": "2026-11-12T14:07:23.819597+00:00",
+  "a556e265663bf750": "2026-11-12T14:07:23.819597+00:00",
+  "854c6128ccb06de3": "2026-11-12T14:07:23.819597+00:00",
+  "be058f840287324d": "2026-11-12T14:07:23.819597+00:00"
  },
  "covered": [
-  {
-   "headline": "IBM and Microsoft partner on AI agent platform",
-   "ts": "2026-11-10T14:07:24.307553+00:00"
-  },
   {
    "headline": "TSMC approves up to $1 billion in Anthropic and OpenAI investments",
    "ts": "2026-11-10T15:37:26.018801+00:00"
@@ -1703,11 +1713,15 @@
   {
    "headline": "Moonshot AI and Tsinghua researchers push graph theory record",
    "ts": "2026-11-12T13:37:27.918786+00:00"
+  },
+  {
+   "headline": "Jensen Huang resigns as Nvidia CEO and board member",
+   "ts": "2026-11-12T14:07:23.819597+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3062,9 +3076,41 @@
    "desc": "全世界都在踩刹车，达里奥一个人踩油门",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://claude.com/resources/articles/j-crew-style-advisor-with-claude": {
+   "title": "J.Crew’s Style Advisor: an AI stylist built with Claude",
+   "desc": "J.Crew’s new Style Advisor uses Claude to help customers shop JCrew.com by complete outfit, drawing on looks created by J.Crew’s own stylists.",
+   "image": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude/opengraph-image/og",
+   "published": "2026-11-12T00:00:00+00:00"
   }
  },
  "pending": [
+  {
+   "id": "2489f95117a4e569",
+   "item": {
+    "id": "2489f95117a4e569",
+    "title": "AI Startup LangChain More Than Doubles Its Valuation to $3 Billion",
+    "url": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology",
+    "source": "The Wall Street Journal",
+    "image": "https://images.wsj.net/im-23818061",
+    "snippet": "Alphabet’s CapitalG led the $300 million investment into the startup as it targets enterprises with agent-development platform.",
+    "published": "2026-11-12T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "LangChain raises 300 million dollars at 3 billion valuation",
+   "post": "AI startup LangChain has raised a $300 million investment led by Alphabet's CapitalG, more than doubling its valuation to $3 billion as it targets enterprises with its agent-development platform.",
+   "editor_note": "Confirm the funding amount ($300M), valuation ($3B), and lead investor (CapitalG).",
+   "published_at": "2026-11-12T14:00:00+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T02:00:00+00:00",
+   "priority": 8.496575,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "e918b92f13194ec9",
    "item": {
@@ -3088,8 +3134,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.5602,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.577522,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "fcaa5a11eb2249d0",
@@ -3114,7 +3160,7 @@
    "published_at": "2026-11-12T13:21:09+00:00",
    "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
    "expires_at": "2026-11-14T01:21:09+00:00",
-   "priority": 7.492447,
+   "priority": 7.509768,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3142,8 +3188,34 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.108079,
-   "selection_reason": "Editorial importance; waiting 49.0h"
+   "priority": 7.102882,
+   "selection_reason": "Editorial importance; waiting 49.5h"
+  },
+  {
+   "id": "06552fbaf1ca878c",
+   "item": {
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 6.991167,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3170,8 +3242,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.858079,
-   "selection_reason": "Editorial importance; waiting 59.0h"
+   "priority": 6.852882,
+   "selection_reason": "Editorial importance; waiting 59.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3198,11 +3270,21 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.858079,
-   "selection_reason": "Editorial importance; waiting 59.0h"
+   "priority": 6.852882,
+   "selection_reason": "Editorial importance; waiting 59.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal",
+   "source": "South China Morning Post",
+   "kind": "takes",
+   "title": "Jensen Huang resigns as Nvidia CEO amid affairs scandal",
+   "summary": "Jensen Huang has resigned as president, chief executive officer and a member of the board of the AI chip giant Nvidia, effective immediately, the firm announced on Thursday, amid media reports of his alleged extramarital affairs.",
+   "queued_at": "2026-11-12T14:07:23.819597+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
