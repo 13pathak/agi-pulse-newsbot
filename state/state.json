@@ -1228,13 +1228,28 @@
   "dfffc5d39db5d7c4": "2026-11-12T01:37:22.582035+00:00",
   "a9df339f0d41d7a2": "2026-11-12T01:37:22.582035+00:00",
   "bdeaa23eb9886c5a": "2026-11-12T01:37:22.582035+00:00",
-  "e3140873dc4ba8e7": "2026-11-12T01:37:22.582035+00:00"
+  "e3140873dc4ba8e7": "2026-11-12T01:37:22.582035+00:00",
+  "263d7dc4e1e25dd6": "2026-11-12T02:07:22.039868+00:00",
+  "8b208eddf6e27264": "2026-11-12T02:07:22.039868+00:00",
+  "d26bc4db360d8ac1": "2026-11-12T02:07:22.039868+00:00",
+  "884320d26c33daf9": "2026-11-12T02:07:22.039868+00:00",
+  "4afdadf1486687dd": "2026-11-12T02:07:22.039868+00:00",
+  "850c0644106f9238": "2026-11-12T02:07:22.039868+00:00",
+  "bbaa924c55143160": "2026-11-12T02:07:22.039868+00:00",
+  "e3cf64a2836005ed": "2026-11-12T02:07:22.039868+00:00",
+  "b64867af76714503": "2026-11-12T02:07:22.039868+00:00",
+  "10c5f32fd412d5a9": "2026-11-12T02:07:22.039868+00:00",
+  "6f3c74a04fea158f": "2026-11-12T02:07:22.039868+00:00",
+  "91877a5e9575f8f1": "2026-11-12T02:07:22.039868+00:00",
+  "15392eb1c30ec272": "2026-11-12T02:07:22.039868+00:00",
+  "e3b1eba0d4ee5a57": "2026-11-12T02:07:22.039868+00:00",
+  "94fcbf10f80778a7": "2026-11-12T02:07:22.039868+00:00",
+  "9da964c7cf336403": "2026-11-12T02:07:22.039868+00:00",
+  "cce714811b519a82": "2026-11-12T02:07:22.039868+00:00",
+  "624a305adfa41ec6": "2026-11-12T02:07:22.039868+00:00",
+  "4d33a45a8c997261": "2026-11-12T02:07:22.039868+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic Files For Initial Public Offering To Raise Billions",
-   "ts": "2026-11-10T02:07:26.100452+00:00"
-  },
   {
    "headline": "Anthropic retracts IPO prospectus sent to banks",
    "ts": "2026-11-10T02:37:20.673340+00:00"
@@ -1458,11 +1473,15 @@
   {
    "headline": "Radical Numerics develops offline pathogen identification model",
    "ts": "2026-11-12T01:37:22.582035+00:00"
+  },
+  {
+   "headline": "Google introduces Gemini Decisions API for multimodal evaluation",
+   "ts": "2026-11-12T02:07:22.039868+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2761,57 +2780,6 @@
  },
  "pending": [
   {
-   "id": "cce714811b519a82",
-   "item": {
-    "id": "cce714811b519a82",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "source": "Google AI Blog",
-    "image": "",
-    "snippet": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "published": "2026-11-11T18:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "624a305adfa41ec6",
-     "title": "Gemini Decisions API",
-     "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-     "source": "Simon Willison",
-     "image": "",
-     "snippet": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free…",
-     "published": "2026-11-11T22:03:25+00:00",
-     "images": false,
-     "category": "research",
-     "source_cap": 3
-    },
-    {
-     "id": "4d33a45a8c997261",
-     "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-     "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass…",
-     "published": "2026-11-11T20:12:46+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google introduces Gemini Decisions API for multimodal evaluation",
-   "post": "Google released the Gemini Decisions API, powered by its Gemini Decision 1 model for multimodal evaluation across text, audio, and video. Google says it evaluates up to 1,000 questions per pass with latency of 150 to 250 milliseconds.",
-   "editor_note": "Verify API pricing ($0.10/M input tokens, free output tokens) and regional availability.",
-   "published_at": "2026-11-11T18:00:00+00:00",
-   "first_seen_at": "2026-11-12T01:07:22.215794+00:00",
-   "expires_at": "2026-11-13T18:00:00+00:00",
-   "priority": 7.372445,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "be6a1abda9866f2d",
    "item": {
     "id": "be6a1abda9866f2d",
@@ -2834,8 +2802,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.368142,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.385498,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "cfb2bce945d5aca3",
@@ -2860,8 +2828,8 @@
    "published_at": "2026-11-11T12:00:00+00:00",
    "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
    "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.247421,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.268248,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2888,8 +2856,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.233094,
-   "selection_reason": "Editorial importance; waiting 37.0h"
+   "priority": 7.227888,
+   "selection_reason": "Editorial importance; waiting 37.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -2916,8 +2884,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.983094,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 6.977888,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -2944,8 +2912,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.983094,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 6.977888,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -2983,8 +2951,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.967045,
-   "selection_reason": "Editorial importance; waiting 37.0h"
+   "priority": 6.956632,
+   "selection_reason": "Editorial importance; waiting 37.5h"
   },
   {
    "id": "c012fc7ecd62b33e",
@@ -3009,8 +2977,8 @@
    "published_at": "2026-11-10T20:52:13+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.951315,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.93743,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3096,8 +3064,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.924522,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.914109,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "75611a00ad611de2",
@@ -3122,8 +3090,8 @@
    "published_at": "2026-11-10T18:41:52+00:00",
    "first_seen_at": "2026-11-11T01:37:20.323883+00:00",
    "expires_at": "2026-11-12T06:41:52+00:00",
-   "priority": 6.890968,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.877083,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "af7403b4563990ca",
@@ -3148,8 +3116,8 @@
    "published_at": "2026-11-10T17:30:00+00:00",
    "first_seen_at": "2026-11-11T02:07:25.142064+00:00",
    "expires_at": "2026-11-12T05:30:00+00:00",
-   "priority": 6.857696,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.843811,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "219c9a34cdd05da5",
@@ -3174,8 +3142,8 @@
    "published_at": "2026-11-10T16:01:01+00:00",
    "first_seen_at": "2026-11-10T16:07:26.141387+00:00",
    "expires_at": "2026-11-12T04:01:01+00:00",
-   "priority": 6.8165,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.802615,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "a92c103556a09803",
@@ -3200,21 +3168,11 @@
    "published_at": "2026-11-10T15:29:30+00:00",
    "first_seen_at": "2026-11-10T15:37:26.018801+00:00",
    "expires_at": "2026-11-12T03:29:30+00:00",
-   "priority": 6.801909,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.788024,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-   "source": "Wired",
-   "kind": "takes",
-   "title": "A Startup Wants to Fight AI Bioweapons With AI",
-   "summary": "Startup Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-   "queued_at": "2026-11-12T01:37:22.582035+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3244,11 +3202,13 @@
   "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs": "2026-11-12T01:08:29.497043+00:00",
-  "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well": "2026-11-12T01:08:29.497043+00:00"
+  "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well": "2026-11-12T01:08:29.497043+00:00",
+  "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai": "2026-11-12T02:09:18.398428+00:00",
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": "2026-11-12T02:09:18.398428+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
-  "count": 0,
-  "takes": 2
+  "count": 1,
+  "takes": 3
  }
 }
