@@ -1437,13 +1437,32 @@
   "2fa5057fbbed719e": "2026-11-12T11:37:21.679140+00:00",
   "a0ee63f286c65a89": "2026-11-12T11:37:21.679140+00:00",
   "f8c1a7370c130fe5": "2026-11-12T12:07:25.480600+00:00",
-  "dc8dd8269ac9ca39": "2026-11-12T12:07:25.480600+00:00"
+  "dc8dd8269ac9ca39": "2026-11-12T12:07:25.480600+00:00",
+  "2aac58e4c1e4800f": "2026-11-12T12:37:25.726588+00:00",
+  "4c3a4da346ee84b3": "2026-11-12T12:37:25.726588+00:00",
+  "98aef0ae35053436": "2026-11-12T12:37:25.726588+00:00",
+  "e254ac178fa16d84": "2026-11-12T12:37:25.726588+00:00",
+  "213543903c903b3e": "2026-11-12T12:37:25.726588+00:00",
+  "65a8859c7cf348d6": "2026-11-12T12:37:25.726588+00:00",
+  "d2c68a76cef05150": "2026-11-12T12:37:25.726588+00:00",
+  "ce1135186e3ec620": "2026-11-12T12:37:25.726588+00:00",
+  "5ee27369f360d913": "2026-11-12T12:37:25.726588+00:00",
+  "b7bad316a3d95757": "2026-11-12T12:37:25.726588+00:00",
+  "b919e80e99089a11": "2026-11-12T12:37:25.726588+00:00",
+  "51f5443e5e7145b7": "2026-11-12T12:37:25.726588+00:00",
+  "69f3ed20cc8b4ccf": "2026-11-12T12:37:25.726588+00:00",
+  "a7388d0f99bfe1bd": "2026-11-12T12:37:25.726588+00:00",
+  "b3620f18b45612ad": "2026-11-12T12:37:25.726588+00:00",
+  "f10e5be3e1721bd6": "2026-11-12T12:37:25.726588+00:00",
+  "0cbf809577a1b800": "2026-11-12T12:37:25.726588+00:00",
+  "0082abfd53b1fe2d": "2026-11-12T12:37:25.726588+00:00",
+  "cb3895eef8c5838b": "2026-11-12T12:37:25.726588+00:00",
+  "70349d4a23362682": "2026-11-12T12:37:25.726588+00:00",
+  "e189580829f8fafd": "2026-11-12T12:37:25.726588+00:00",
+  "c650f56f5cb1eb2f": "2026-11-12T12:37:25.726588+00:00",
+  "befc7fabc6dfa9e0": "2026-11-12T12:37:25.726588+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic sets IPO price range and targets trillion-dollar valuation",
-   "ts": "2026-11-10T12:37:25.483982+00:00"
-  },
   {
    "headline": "Alibaba subsidiary T-Head applies for Hong Kong IPO",
    "ts": "2026-11-10T13:07:23.002969+00:00"
@@ -1667,11 +1686,15 @@
   {
    "headline": "Karnataka explores GPU subsidies for startups via AI hub",
    "ts": "2026-11-12T11:37:21.679140+00:00"
+  },
+  {
+   "headline": "Astrome secures 64 crore rupees for AI satellite network",
+   "ts": "2026-11-12T12:37:25.726588+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3014,9 +3037,47 @@
    "desc": "只管挖不管埋。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509404.html": {
+   "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+   "desc": "银河智学首席科学家邓澍军博士发表主题演讲",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509381.html": {
+   "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+   "desc": "全世界都在踩刹车，达里奥一个人踩油门",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "fb2e985da6df6349",
+   "item": {
+    "id": "fb2e985da6df6349",
+    "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+    "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platfor…",
+    "published": "2026-11-12T12:09:43+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Google DeepMind releases AlphaGenome 2 for single-cell genomics",
+   "post": "Google DeepMind has released AlphaGenome 2, an AI model trained on over 107 million cell profiles to analyze genetic variants at single-cell resolution. It is available for noncommercial research via API.",
+   "editor_note": "Check noncommercial research API availability and mention of integration into Google agentic platforms.",
+   "published_at": "2026-11-12T12:09:43+00:00",
+   "first_seen_at": "2026-11-12T12:37:25.726588+00:00",
+   "expires_at": "2026-11-14T00:09:43+00:00",
+   "priority": 8.48717,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "8a74ed88bfbc96ee",
    "item": {
@@ -3041,8 +3102,8 @@
    "published_at": "2026-11-12T09:09:00+00:00",
    "first_seen_at": "2026-11-12T11:37:21.679140+00:00",
    "expires_at": "2026-11-13T21:09:00+00:00",
-   "priority": 8.448712,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.466075,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "e918b92f13194ec9",
@@ -3067,8 +3128,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.508093,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.525457,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3095,8 +3156,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.123711,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 7.118502,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3123,8 +3184,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.873711,
-   "selection_reason": "Editorial importance; waiting 57.5h"
+   "priority": 6.868502,
+   "selection_reason": "Editorial importance; waiting 58.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3151,11 +3212,21 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.873711,
-   "selection_reason": "Editorial importance; waiting 57.5h"
+   "priority": 6.868502,
+   "selection_reason": "Editorial importance; waiting 58.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network",
+   "source": "Analytics India Magazine",
+   "kind": "takes",
+   "title": "Space Tech Startup Astrome Bags ₹64 Cr RDI Fund for AI Satellite Network",
+   "summary": "The Bengaluru-based startup plans to deploy 50-kg microsatellites in low Earth orbit to detect and analyse electronic signals for national security applications",
+   "queued_at": "2026-11-12T12:37:25.726588+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
