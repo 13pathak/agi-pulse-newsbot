@@ -1435,7 +1435,9 @@
   "b5aac21720ee481c": "2026-11-12T11:37:21.679140+00:00",
   "801248cda4cd3310": "2026-11-12T11:37:21.679140+00:00",
   "2fa5057fbbed719e": "2026-11-12T11:37:21.679140+00:00",
-  "a0ee63f286c65a89": "2026-11-12T11:37:21.679140+00:00"
+  "a0ee63f286c65a89": "2026-11-12T11:37:21.679140+00:00",
+  "f8c1a7370c130fe5": "2026-11-12T12:07:25.480600+00:00",
+  "dc8dd8269ac9ca39": "2026-11-12T12:07:25.480600+00:00"
  },
  "covered": [
   {
@@ -3039,8 +3041,8 @@
    "published_at": "2026-11-12T09:09:00+00:00",
    "first_seen_at": "2026-11-12T11:37:21.679140+00:00",
    "expires_at": "2026-11-13T21:09:00+00:00",
-   "priority": 8.431314,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.448712,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "e918b92f13194ec9",
@@ -3065,8 +3067,8 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.490696,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.508093,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3093,8 +3095,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.12893,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 7.123711,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3121,8 +3123,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.87893,
-   "selection_reason": "Editorial importance; waiting 57.0h"
+   "priority": 6.873711,
+   "selection_reason": "Editorial importance; waiting 57.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3149,47 +3151,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.87893,
-   "selection_reason": "Editorial importance; waiting 57.0h"
-  },
-  {
-   "id": "f8c1a7370c130fe5",
-   "item": {
-    "id": "f8c1a7370c130fe5",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "source": "Google DeepMind",
-    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
-    "snippet": "AlphaProof Code agents wrote over three million lines of machine-checked proof in Lean to verify the core cryptographic protections in Signal down to machine instructions.",
-    "published": "2026-11-10T12:02:28+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "dc8dd8269ac9ca39",
-     "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
-     "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices. The article Google …",
-     "published": "2026-11-11T18:18:25+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google DeepMind uses AlphaProof Code to verify Signal protocol",
-   "post": "Google DeepMind introduced AlphaProof Code, utilizing agents to write over three million lines of machine-checked Lean proofs verifying Signal cryptographic protections down to machine instructions.",
-   "editor_note": "Check whether the full verification dataset and Lean proof scripts have been published publicly.",
-   "published_at": "2026-11-10T12:02:28+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.758717,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 6.873711,
+   "selection_reason": "Editorial importance; waiting 57.5h"
   }
  ],
  "details_queue": [],
