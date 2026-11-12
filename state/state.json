@@ -1362,13 +1362,20 @@
   "c89df5952baf6c16": "2026-11-12T08:37:21.049070+00:00",
   "0ce4b0e0eee0efb9": "2026-11-12T08:37:21.049070+00:00",
   "3ca0598598bb3a40": "2026-11-12T08:37:21.049070+00:00",
-  "bca8b18b365a3783": "2026-11-12T08:37:21.049070+00:00"
+  "bca8b18b365a3783": "2026-11-12T08:37:21.049070+00:00",
+  "c012fc7ecd62b33e": "2026-11-12T09:07:23.451619+00:00",
+  "d13477ab212c3584": "2026-11-12T09:07:23.451619+00:00",
+  "e65b55186532f0c1": "2026-11-12T09:07:23.451619+00:00",
+  "f2eedb9640809931": "2026-11-12T09:07:23.451619+00:00",
+  "40ea709ea5eb9c6a": "2026-11-12T09:07:23.451619+00:00",
+  "0c23bb7b08e86679": "2026-11-12T09:07:23.451619+00:00",
+  "66f02c4912ffcc94": "2026-11-12T09:07:23.451619+00:00",
+  "8b2c0eaa180cd40d": "2026-11-12T09:07:23.451619+00:00",
+  "7489d310693409ae": "2026-11-12T09:07:23.451619+00:00",
+  "fcf89759274b7a0d": "2026-11-12T09:07:23.451619+00:00",
+  "cfb2bce945d5aca3": "2026-11-12T09:07:23.451619+00:00"
  },
  "covered": [
-  {
-   "headline": "SoftBank posts unexpected quarterly loss on data center writedowns",
-   "ts": "2026-11-10T09:07:24.038923+00:00"
-  },
   {
    "headline": "Altimeter Capital Targets Over $3 Billion For Private Markets",
    "ts": "2026-11-10T09:37:21.848454+00:00"
@@ -1592,11 +1599,15 @@
   {
    "headline": "Doubao Work integrates third-party models with discounts",
    "ts": "2026-11-12T08:37:21.049070+00:00"
+  },
+  {
+   "headline": "ElevenLabs and Nvidia expand global voice agent collaboration",
+   "ts": "2026-11-12T09:07:23.451619+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -2913,32 +2924,6 @@
  },
  "pending": [
   {
-   "id": "cfb2bce945d5aca3",
-   "item": {
-    "id": "cfb2bce945d5aca3",
-    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
-    "url": "https://elevenlabs.io/blog/nvidia",
-    "source": "ElevenLabs",
-    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/dzrt2l99qq7-Blog-Template1920--9-.webp",
-    "snippet": "ElevenLabs and NVIDIA expand their partnership with Nemotron in ElevenAgents, 15MW of compute, and a sovereign voice agent for Poland’s e-Health.",
-    "published": "2026-11-11T12:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "ElevenLabs and Nvidia expand global voice agent collaboration",
-   "post": "ElevenLabs and Nvidia are expanding their partnership to integrate Nvidia Nemotron into ElevenAgents, deploy 15 megawatts of compute, and build a sovereign voice agent for Poland's e-Health system.",
-   "editor_note": "Verify the 15MW compute allocation and Nemotron integration details from the announcement.",
-   "published_at": "2026-11-11T12:00:00+00:00",
-   "first_seen_at": "2026-11-11T17:07:23.599054+00:00",
-   "expires_at": "2026-11-13T12:00:00+00:00",
-   "priority": 7.320364,
-   "selection_reason": "Editorial importance; waiting 15.5h"
-  },
-  {
    "id": "be6a1abda9866f2d",
    "item": {
     "id": "be6a1abda9866f2d",
@@ -2961,8 +2946,8 @@
    "published_at": "2026-11-11T13:00:04+00:00",
    "first_seen_at": "2026-11-11T14:07:22.686423+00:00",
    "expires_at": "2026-11-13T01:00:04+00:00",
-   "priority": 7.204961,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.191054,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -2989,8 +2974,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.160182,
-   "selection_reason": "Editorial importance; waiting 44.0h"
+   "priority": 7.154967,
+   "selection_reason": "Editorial importance; waiting 44.5h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3017,8 +3002,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.910182,
-   "selection_reason": "Editorial importance; waiting 54.0h"
+   "priority": 6.904967,
+   "selection_reason": "Editorial importance; waiting 54.5h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3045,8 +3030,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.910182,
-   "selection_reason": "Editorial importance; waiting 54.0h"
+   "priority": 6.904967,
+   "selection_reason": "Editorial importance; waiting 54.5h"
   },
   {
    "id": "f8c1a7370c130fe5",
@@ -3084,8 +3069,8 @@
    "published_at": "2026-11-10T12:02:28+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-12T12:02:28+00:00",
-   "priority": 6.821221,
-   "selection_reason": "Editorial importance; waiting 44.0h"
+   "priority": 6.81079,
+   "selection_reason": "Editorial importance; waiting 44.5h"
   },
   {
    "id": "5ca4dc7b6d88cb31",
@@ -3171,34 +3156,8 @@
    "published_at": "2026-11-10T10:00:00+00:00",
    "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
    "expires_at": "2026-11-12T10:00:00+00:00",
-   "priority": 6.778698,
-   "selection_reason": "Editorial importance; waiting 31.5h"
-  },
-  {
-   "id": "c012fc7ecd62b33e",
-   "item": {
-    "id": "c012fc7ecd62b33e",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "published": "2026-11-10T20:52:13+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "New York begins enforcing AI safety regulations for major developers",
-   "post": "New York has begun enforcing its artificial intelligence safety law, requiring large AI model developers to register with the state, disclose safety practices, and report critical security incidents or face financial penalties.",
-   "editor_note": "Verify registration deadlines and penalty details under New York state law.",
-   "published_at": "2026-11-10T20:52:13+00:00",
-   "first_seen_at": "2026-11-11T01:07:24.490567+00:00",
-   "expires_at": "2026-11-12T08:52:13+00:00",
-   "priority": 6.756882,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.768267,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   }
  ],
  "details_queue": [],
@@ -3246,11 +3205,12 @@
   "https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html": "2026-11-12T07:08:40.163727+00:00",
   "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors": "2026-11-12T07:37:55.447846+00:00",
   "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india": "2026-11-12T08:08:22.501020+00:00",
-  "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html": "2026-11-12T08:41:48.567861+00:00"
+  "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html": "2026-11-12T08:41:48.567861+00:00",
+  "https://elevenlabs.io/blog/nvidia": "2026-11-12T09:08:26.946706+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
-  "count": 1,
+  "count": 2,
   "takes": 16
  }
 }
