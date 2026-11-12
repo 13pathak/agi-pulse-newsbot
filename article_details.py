@@ -336,7 +336,9 @@ def fetch_article(url: str) -> dict:
         body = r.raw.read(MAX_PAGE_BYTES + 1, decode_content=True)
     except requests.RequestException:
         raise DetailsError("The page could not be loaded.") from None
-    page = body[:MAX_PAGE_BYTES].decode(r.encoding or "utf-8", errors="replace")
+    # Without a declared charset, requests assumes Latin-1 and garbles quotes and dashes.
+    declared = "charset" in r.headers.get("content-type", "").lower()
+    page = body[:MAX_PAGE_BYTES].decode((declared and r.encoding) or "utf-8", errors="replace")
     parsed = ArticleHTML(page)
     text = parsed.text()
     if len(text) < 400:
@@ -671,15 +673,18 @@ def render(pack: dict) -> tuple[str, list[list[dict]]]:
         tail.append(f"{pack['dropped']} draft(s) removed: they used numbers not found in the article.")
 
     facts = ["", "<b>Details worth posting</b>"] if pack["details"] else []
-    for detail in pack["details"]:
-        line = f"• {esc(detail['text'])}" + (f" <i>(picture {detail['picture']})</i>" if detail["picture"] else "")
+    shown = []   # details that fit in the message; each gets its own Post button
+    for letter, detail in zip("ABCDEFGH", pack["details"]):
+        line = f"{letter}. {esc(detail['text'])}" + (f" <i>(picture {detail['picture']})</i>" if detail["picture"] else "")
         if detail["unverified"]:
             line += " <i>(⚠️ figure not found in the article text, verify)</i>"
         if len("\n".join(head + facts + [line] + drafts + tail)) > TELEGRAM_LIMIT - 40:
             break
         facts.append(line)
+        shown.append({"text": f"✅ Post {letter} on X", "url": nb.intent_url(detail["text"])})
     buttons = [{"text": f"✅ Post {n} on X", "url": nb.intent_url(p["text"])} for n, p in enumerate(pack["posts"], 1)]
-    keyboard = [buttons[i:i + 2] for i in range(0, len(buttons), 2)]
+    keyboard = [shown[i:i + 3] for i in range(0, len(shown), 3)]
+    keyboard += [buttons[i:i + 2] for i in range(0, len(buttons), 2)]
     keyboard.append([{"text": "📖 Read article", "url": pack["url"]}])
     return "\n".join(head + facts + drafts + tail)[:TELEGRAM_LIMIT], keyboard
 

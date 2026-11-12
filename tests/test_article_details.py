@@ -122,9 +122,12 @@ def test_render_labels_chart_numbers_and_builds_buttons():
     assert "goes with picture 1" in text and "number read from a chart, verify" in text
     assert "1 draft(s) removed" in text and "Chart: Example Lab" in text
     assert len(text) <= ad.TELEGRAM_LIMIT
-    assert [b["text"] for row in keyboard for b in row] == ["✅ Post 1 on X", "✅ Post 2 on X", "✅ Post 3 on X",
-                                                           "📖 Read article"]
-    assert keyboard[0][0]["url"].startswith("https://x.com/intent/tweet?text=The%20model")
+    assert [[b["text"] for b in row] for row in keyboard] == [
+        ["✅ Post A on X", "✅ Post B on X"],                 # one button per listed detail
+        ["✅ Post 1 on X", "✅ Post 2 on X"], ["✅ Post 3 on X"], ["📖 Read article"]]
+    assert "A. Costs $8 per million input tokens" in text
+    assert keyboard[0][0]["url"] == "https://x.com/intent/tweet?text=Costs%20%248%20per%20million%20input%20tokens"
+    assert keyboard[1][0]["url"].startswith("https://x.com/intent/tweet?text=The%20model")
 
 
 def pick(importance=8, category="primary", related=()):

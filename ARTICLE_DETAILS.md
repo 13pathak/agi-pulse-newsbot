@@ -11,7 +11,8 @@ or pictures from inside the article.
    screenshots and informative photos; decorative art is left out. If the article
    has no usable picture, its preview image is sent instead.
 2. **One message** with:
-   - 5–6 details worth posting (prices, benchmark scores, limits, dates);
+   - 5–6 details worth posting (prices, benchmark scores, limits, dates), lettered
+     A, B, C…, each with its own **✅ Post A on X** button that posts the detail as is;
    - 5 drafts under 280 characters, all opinion takes anchored in a specific detail,
      each with its own **✅ Post on X** button and a note saying which picture
      goes with it;
