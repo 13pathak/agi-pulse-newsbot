@@ -1468,13 +1468,14 @@
   "4f9c1d0ac7dcc790": "2026-11-12T13:07:23.294863+00:00",
   "5e2639ffe48da773": "2026-11-12T13:07:23.294863+00:00",
   "d65f745eca4a8628": "2026-11-12T13:07:23.294863+00:00",
-  "fb2e985da6df6349": "2026-11-12T13:07:23.294863+00:00"
+  "fb2e985da6df6349": "2026-11-12T13:07:23.294863+00:00",
+  "b1d207771d857037": "2026-11-12T13:37:27.918786+00:00",
+  "24d7fb83f2c2988f": "2026-11-12T13:37:27.918786+00:00",
+  "2d5446f7d51e047a": "2026-11-12T13:37:27.918786+00:00",
+  "b86c8fbe7035460b": "2026-11-12T13:37:27.918786+00:00",
+  "8a74ed88bfbc96ee": "2026-11-12T13:37:27.918786+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI builds control room to halt rogue AI agents",
-   "ts": "2026-11-10T13:37:22.908739+00:00"
-  },
   {
    "headline": "IBM and Microsoft partner on AI agent platform",
    "ts": "2026-11-10T14:07:24.307553+00:00"
@@ -1698,11 +1699,15 @@
   {
    "headline": "Google DeepMind releases AlphaGenome 2 for single-cell genomics",
    "ts": "2026-11-12T13:07:23.294863+00:00"
+  },
+  {
+   "headline": "Moonshot AI and Tsinghua researchers push graph theory record",
+   "ts": "2026-11-12T13:37:27.918786+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-12",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3061,33 +3066,6 @@
  },
  "pending": [
   {
-   "id": "8a74ed88bfbc96ee",
-   "item": {
-    "id": "8a74ed88bfbc96ee",
-    "title": "姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」",
-    "url": "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Kimi 刷新 629 条边图论参考纪录，只多加了1条边，为什么数学界等了这么多年？ 作者丨 郑佳美 编辑丨岑 峰 给 124 个点连线，不能出现三角形，也不能出现四边形。此前的参考记录是 629 条——数学界认为这已经接近极限。而Kimi K3 构造出了 630 条边的图，并通过程序验证。 多1条边，听起来不多。但在组合数学里，你每试图多塞进一条边，都需要在全图 124 个点之间重新完成一次精密的结构大重构。这1条边意味着AI第一次在“极值构造”这类研究级任务上，把人类参考纪录往前推了一步。 这项成果来自图灵奖得主、中科院院士、清华大学交叉信息研究院院长姚期智与月之暗面创始人杨植麟等人的联合研究。他们真正想回答的问题是： AI到底能不能做数学研究，而不只是做数学题？ 01 「多 1 条边」算不算真突破？ 姚期智，图灵奖得主、清华大学交叉信息研究院院长，是中国理论计算机科学的奠基者之一；杨植麟，月之暗面创始人，Kimi背后的推动者。 两代人、两种身份：一位是理论计算机科学的泰斗，一位是大模型创业的一线操盘手，第一次联合署名。 这个组合本身就说明了一件事：AI做科研，已经不是“实验室里的猜想”，而是需要理论计算机科学家和大模型团队坐在一起定义“什么叫算做出来了”。 但在另一面，争议同样如影随形： 多构造出一条边，到底算不算真正的科学突破？ 这算不算只是暴力搜索蒙对的个例？AI真懂背后的数学机理吗？ 这正是姚期智团队的核心初衷。如果无法区分‘运气好撞上’和‘逻辑上证明’，AI 就永远只是个黑盒计算器。于是，他们没有继续在传统基准上打转，而是联手搭了一套前所未有的评测系统—— TCS…",
-    "published": "2026-11-12T09:09:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Moonshot AI and Tsinghua researchers push graph theory record",
-   "post": "Researchers including Turing Award winner Andrew Yao and Moonshot AI founder Yang Zhilin used the Kimi K3 model to construct a graph with 630 edges, surpassing the previous reference record of 629 edges under triangle and quadrilateral constraints.",
-   "editor_note": "Verify the claim that Kimi K3 constructed 630 edges and that the result was verified through program execution.",
-   "published_at": "2026-11-12T09:09:00+00:00",
-   "first_seen_at": "2026-11-12T11:37:21.679140+00:00",
-   "expires_at": "2026-11-13T21:09:00+00:00",
-   "priority": 8.483413,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
-  {
    "id": "e918b92f13194ec9",
    "item": {
     "id": "e918b92f13194ec9",
@@ -3110,8 +3088,34 @@
    "published_at": "2026-11-12T10:09:56+00:00",
    "first_seen_at": "2026-11-12T11:07:26.197438+00:00",
    "expires_at": "2026-11-13T22:09:56+00:00",
-   "priority": 7.542795,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.5602,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
+  },
+  {
+   "id": "fcaa5a11eb2249d0",
+   "item": {
+    "id": "fcaa5a11eb2249d0",
+    "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
+    "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents",
+    "source": "YourStory",
+    "image": "",
+    "snippet": "Founded by former HighRadius executives Kiran Rana and Payal Tripathy, Kutlerri.ai charges restaurants a percentage of the revenue its AI agents generate or the costs they save.",
+    "published": "2026-11-12T13:21:09+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Kutlerri.ai raises 4 million dollars",
+   "post": "Kutlerri.ai has raised four million dollars to provide AI agents for US restaurants, operating on a revenue and cost-saving share model.",
+   "editor_note": "Verify the exact funding round name if disclosed and the currency context.",
+   "published_at": "2026-11-12T13:21:09+00:00",
+   "first_seen_at": "2026-11-12T13:37:27.918786+00:00",
+   "expires_at": "2026-11-14T01:21:09+00:00",
+   "priority": 7.492447,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3138,8 +3142,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.113301,
-   "selection_reason": "Editorial importance; waiting 48.5h"
+   "priority": 7.108079,
+   "selection_reason": "Editorial importance; waiting 49.0h"
   },
   {
    "id": "296c4d8438776ee2",
@@ -3166,8 +3170,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.863301,
-   "selection_reason": "Editorial importance; waiting 58.5h"
+   "priority": 6.858079,
+   "selection_reason": "Editorial importance; waiting 59.0h"
   },
   {
    "id": "cc554af1af51239e",
@@ -3194,8 +3198,8 @@
    "published_at": "2026-11-09T00:00:00+00:00",
    "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
    "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.863301,
-   "selection_reason": "Editorial importance; waiting 58.5h"
+   "priority": 6.858079,
+   "selection_reason": "Editorial importance; waiting 59.0h"
   }
  ],
  "details_queue": [],
@@ -3250,11 +3254,12 @@
   "https://36kr.com/newsflashes/4066584261022849?f=rss": "2026-11-12T11:08:11.530315+00:00",
   "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub": "2026-11-12T11:38:57.801512+00:00",
   "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network": "2026-11-12T13:07:56.949623+00:00",
-  "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": "2026-11-12T13:07:56.949623+00:00"
+  "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": "2026-11-12T13:07:56.949623+00:00",
+  "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00"
  },
  "details_daily": {
   "date": "2026-11-12",
   "count": 2,
-  "takes": 22
+  "takes": 23
  }
 }
