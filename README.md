@@ -171,6 +171,7 @@ All settings live in [`config.yaml`](config.yaml).
 | `takes_judge` | `true` | A second Gemini request picks the best drafts; `false` skips it. |
 | `decision_model` | `gemini-decision-1` | A model that answers questions with probabilities instead of writing; see [The decision model](#the-decision-model). Empty turns it off. |
 | `picture_check` | `true` | Let the decision model leave out a source picture that adds nothing; `false` always attaches it. |
+| `account_profile` | (see file) | Who follows the account and what they respond to. The decision model reads it when ranking takes by likely response. |
 | `lookback_hours` | `24` | Ignore items older than this (sources can override it). |
 | `max_pending_stories` | `40` | Maximum saved qualifying drafts; retain the highest-priority stories. |
 | `breaking_window_hours` | `6` | Breaking boost lasts this long; the smaller timely boost lasts twice as long. |

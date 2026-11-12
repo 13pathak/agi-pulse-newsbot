@@ -63,12 +63,33 @@ The aim is drafts that read as written by a person, and that do not all look ali
   A second Gemini request scores the survivors, and the top three (takes) or five
   (packs) are kept. That request goes to the model named in `decision_model`
   (`gemini-decision-1`), which does not write: it returns a probability for each
-  question. It reads the article next to the drafts and answers three questions
-  per draft: are its facts supported by the article, is the news clear, and how
-  human does it read. Drafts with unsupported facts are ranked last, then unclear
-  ones. If that model fails or `decision_model` is empty, the writing model judges
+  question. It reads the article next to the drafts and answers four questions
+  per draft: are its facts supported by the article, is the news clear, how human
+  does it read, and how would the account's followers respond. Drafts with
+  unsupported facts are ranked last, then unclear ones; the rest are ordered by
+  the human and response scores added together. The response score is a guess
+  from the wording and from `account_profile` in `config.yaml`: the model has no
+  engagement data from X. If that model fails or `decision_model` is empty, the writing model judges
   instead, without the fact check. If that fails too, the first-pass order is
   used. Set `takes_judge: false` to skip the second pass.
+
+## Launch checklist
+
+When the decision model judges the drafts, the same request asks whether the
+article is about a launch. If it is, the message ends with a line such as:
+
+`🧾 In the article: ✅ price stated · ❌ available now · ❔ independent test cited · ❌ benchmark method given`
+
+✅ means the article says so (70% or more), ❌ that it does not (30% or less) and
+❔ that the model is unsure. It is left out for stories that are not launches and
+for takes written from a summary.
+
+## Paywalled and blocked pages
+
+Takes and packs are written from the full article. When several outlets covered
+the story and the first page cannot be read (a paywall, a login or a block), the
+next outlet's page is tried, up to three more. Only if none can be read are takes
+written from the feed summary, and the message says so.
 
 ## When a pack is made
 

@@ -211,6 +211,35 @@ def test_light_pack_uses_summary_when_article_is_unreadable(monkeypatch):
         ad.build_for_entry({**item, "summary": "", "title": "Short"}, "k", {}, True)
 
 
+def test_takes_are_written_from_the_first_outlet_that_can_be_read(monkeypatch):
+    tried = []
+
+    def fetch(url):
+        tried.append(url)
+        if "paywalled" in url:
+            raise ad.DetailsError("paywall")
+        return {**article(), "url": url, "images": []}
+
+    monkeypatch.setattr(ad, "fetch_article", fetch)
+    monkeypatch.setattr(ad, "call_gemini", lambda *a: {"posts": [{"text": "Model 5.2 costs $8. Is that enough?"}]})
+    item = {"url": "https://paywalled.test/a", "source": "Paper", "title": "Model 5.2 launch",
+            "summary": "Model 5.2 costs $8 per million tokens, the company says. " * 3,
+            "alternates": [{"url": "https://paywalled.test/b", "source": "Other paper"},
+                           {"url": "https://open.test/c", "source": "Open outlet"}]}
+    result = ad.build_for_entry(item, "k", {}, True)
+    assert tried == ["https://paywalled.test/a", "https://paywalled.test/b", "https://open.test/c"]
+    assert result["source"] == "Open outlet" and result["url"] == "https://open.test/c"
+    assert not result["summary_only"]
+    item["alternates"] = item["alternates"][:1]              # nobody readable: the summary, as before
+    assert ad.build_for_entry(item, "k", {}, True)["summary_only"]
+
+
+def test_render_shows_the_launch_checklist():
+    text, _ = ad.render({**pack(), "checklist": ["✅ price stated", "❌ available now"]})
+    assert "🧾 <b>In the article:</b> ✅ price stated · ❌ available now" in text
+    assert "In the article" not in ad.render(pack())[0]
+
+
 def test_process_queue_failures_and_quiet_hours():
     state = {"details_queue": [entry("https://a.test/unreadable"), entry("https://a.test/busy")]}
 
@@ -367,9 +396,12 @@ def test_decision_judge_puts_unsupported_drafts_last_and_falls_back(monkeypatch)
 
     def decisions(text, questions, key, model):
         asked.update(text=text, questions=questions, model=model)
-        answer = {"facts": [0.9, 0.2, 0.8], "clear": [0.9, 0.9, 0.3], "human": [1.0, 4.0, 3.5]}
-        return {f"{name}{n}": {"score" if name == "human" else "noul": values[n - 1]}
-                for name, values in answer.items() for n in (1, 2, 3)}
+        answer = {"facts": [0.9, 0.2, 0.8], "clear": [0.9, 0.9, 0.3], "human": [1.0, 4.0, 3.5],
+                  "reach": [2.0, 4.0, 0.5]}
+        checks = {"launch": 0.9, "price": 0.95, "available": 0.1, "independent": 0.5, "method": 0.2}
+        return {**{key: {"noul": value} for key, value in checks.items()},
+                **{f"{name}{n}": {"score" if name in ("human", "reach") else "noul": values[n - 1]}
+                   for name, values in answer.items() for n in (1, 2, 3)}}
 
     def no_writer(*a):
         raise AssertionError("the writing model must not judge when the decision model answered")
@@ -377,10 +409,15 @@ def test_decision_judge_puts_unsupported_drafts_last_and_falls_back(monkeypatch)
     monkeypatch.setattr(nb, "call_decisions", decisions)
     monkeypatch.setattr(ad, "call_gemini", no_writer)
     posts = [{"text": "a"}, {"text": "b"}, {"text": "c"}]
-    assert ad.judge(posts, "k", ["m"], "Article body.", "gemini-decision-1")
+    notes = {}
+    assert ad.judge(posts, "k", ["m"], "Article body.", "gemini-decision-1", "AI news for Indian founders.", notes)
     assert [p["text"] for p in posts] == ["a", "c", "b"]      # b reads best but its facts are unsupported
-    assert asked["model"] == "gemini-decision-1" and len(asked["questions"]) == 9
+    assert asked["model"] == "gemini-decision-1" and len(asked["questions"]) == 4 * 3 + len(ad.CHECKS)
     assert "Article body." in asked["text"] and "DRAFT 2: b" in asked["text"]
+    assert asked["text"].startswith("ACCOUNT: AI news for Indian founders.")
+    assert notes["checklist"] == ["✅ price stated", "❌ available now", "❔ independent test cited",
+                                  "❌ benchmark method given"]
+    assert ad.checklist({**{key: {"noul": 0.9} for key, _, _ in ad.CHECKS}, "launch": {"noul": 0.2}}) == []
     assert asked["questions"]["human1"]["criteria"] == ad.HUMAN_LEVELS
 
     def down(*a):

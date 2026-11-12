@@ -762,6 +762,11 @@ def collect_candidates(config: dict, state: dict, now: datetime, api_key: str = 
     if rescued or not_ai:
         log.info("triage: %d keyword misses added as AI stories, %d keyword matches left out as not AI",
                  len(rescued), len(not_ai))
+        for item in rescued:
+            log.info("triage added: %s: %s", item["source"], item["title"])
+        for item in fresh:
+            if item["id"] in not_ai:
+                log.info("triage left out: %s: %s", item["source"], item["title"])
     fresh = [i for i in fresh if i["id"] not in not_ai] + rescued
 
     def importance(item):
@@ -1066,7 +1071,7 @@ def fact_check(picks: list[dict], api_key: str, model: str) -> None:
 
 
 PICTURE_MIN = 0.5            # below this probability the picture is not attached
-PICTURE_MAX_BYTES = 4_000_000
+PICTURE_MAX_BYTES = 15_000_000
 IMAGE_SIGNATURES = ((b"\xff\xd8\xff", "image/jpeg"), (b"\x89PNG\r\n\x1a\n", "image/png"),
                     (b"GIF8", "image/gif"))
 
@@ -1090,6 +1095,8 @@ def picture_helps(pick: dict, photo: str, api_key: str, model: str) -> bool:
             r = requests.get(photo, headers={"User-Agent": USER_AGENT}, timeout=10)
             mime = image_mime(r.content) if r.ok else ""
             if not mime or len(r.content) > PICTURE_MAX_BYTES:
+                log.info("picture check skipped (HTTP %s, %s, %d bytes)", r.status_code,
+                         mime or "not a JPEG, PNG, GIF or WebP", len(r.content))
                 return True
             content = [
                 {"type": "text", "text": f"STORY: {pick['headline']}\nDRAFT POST: {pick['post']}\n"},
@@ -1188,9 +1195,13 @@ def queue_details(state: dict, pick: dict, settings: dict, now: datetime) -> Non
         item, kind = official or pick["item"], "takes"
     else:
         return
+    # Other outlets on the same story, tried in turn if this page cannot be read (paywall, block).
+    alternates = [{"url": i["url"], "source": i["source"]} for i in story_items(pick)
+                  if i.get("url") and i["url"] != item["url"]][:3]
     state.setdefault("details_queue", []).append(
         {"url": item["url"], "source": item["source"], "kind": kind, "title": item.get("title", ""),
-         "summary": clean_text(item.get("snippet", ""), 1500), "queued_at": now.isoformat()})
+         "summary": clean_text(item.get("snippet", ""), 1500), "queued_at": now.isoformat(),
+         **({"alternates": alternates} if alternates else {})})
 
 
 def story_priority(pick: dict, now: datetime, settings: dict) -> tuple[float, str]:

@@ -49,10 +49,18 @@ settings:
   #      missed and leaves out keyword matches that are not about AI.
   #   2. Fact check: compares each news draft with its source text.
   #   3. Picture check: leaves out a source picture that tells the reader nothing.
-  #   4. Takes judge: facts, clarity and how human each take reads.
+  #   4. Takes judge: facts, clarity, how human each take reads and how your followers
+  #      would respond to it. The same request adds a checklist to launch stories.
   # "" turns all four off. If the model fails, the bot carries on as it did without it.
   decision_model: "gemini-decision-1"
   picture_check: true          # false = always attach the source picture
+  # Who follows the account and what they come for. The decision model reads this when it
+  # ranks takes by likely response, so the more specific it is, the better the ranking.
+  account_profile: |
+    An X account that covers AI news for a global audience with a focus on India.
+    Followers are developers, founders, students and investors who follow AI closely.
+    They respond to concrete numbers, new model releases, Indian AI news and a clear,
+    sceptical point of view. They ignore hype and vague commentary.
 
 # The voice Gemini writes in. Edit to match the account.
 persona: |

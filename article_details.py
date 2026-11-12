@@ -604,11 +604,49 @@ HUMAN_LEVELS = [
 ]
 
 
-def decision_scores(posts: list[dict], article_text: str, api_key: str, model: str) -> dict:
+# The decision model's guess at how the account's followers would respond, lowest first.
+# It has no engagement data: this rewards a specific, relevant point, not hype.
+REACH_LEVELS = [
+    "Scrolled past: nothing specific and no stake for the reader.",
+    "Weak: accurate but flat, with no reason to react.",
+    "Average for this account.",
+    "Strong: a concrete figure or name up front, and a point this audience would reply to or repost.",
+    "Very strong: surprising, specific and directly relevant to this audience, with a point many "
+    "would share.",
+]
+DEFAULT_PROFILE = "An X account that covers AI news for a global audience with a focus on India."
+
+# Asked about the article itself. The first decides whether the rest are shown.
+CHECKS = (
+    ("launch", "", "Is the article mainly about the launch or release of a product, model, feature or service?"),
+    ("price", "price stated", "Does the article state a price, or say that it is free?"),
+    ("available", "available now", "Does the article say it can be used now, as opposed to announced, "
+                                   "in preview, on a waitlist or coming later?"),
+    ("independent", "independent test cited", "Does the article cite a test, measurement or confirmation "
+                                              "from someone other than the company itself?"),
+    ("method", "benchmark method given", "Does the article give benchmark or performance figures together "
+                                         "with how they were measured (test name, dataset or conditions)?"),
+)
+
+
+def checklist(answers: dict) -> list[str]:
+    """For a launch story, what the article does and does not say: ✅ yes, ❌ no, ❔ unclear."""
+    if float(answers["launch"]["noul"]) < 0.5:
+        return []
+    marks = []
+    for key, label, _ in CHECKS[1:]:
+        chance = float(answers[key]["noul"])
+        marks.append(("✅" if chance >= 0.7 else "❌" if chance <= 0.3 else "❔") + " " + label)
+    return marks
+
+
+def decision_scores(posts: list[dict], article_text: str, api_key: str, model: str,
+                    profile: str = "", notes: dict | None = None) -> dict:
     """Score every draft with the decision model, which also sees the article, so it can
-    check the facts. Returns {draft number: (facts supported, clear, human score)}."""
+    check the facts. Returns {draft number: (facts supported, clear, human + reach score)}.
+    The same request fills notes["checklist"] for launch stories."""
     drafts = "\n".join(f"DRAFT {n}: {post['text']}" for n, post in enumerate(posts, 1))
-    questions = {}
+    questions = {key: {"type": "noul", "instructions": question} for key, _, question in CHECKS}
     for n in range(1, len(posts) + 1):
         questions[f"facts{n}"] = {
             "type": "noul",
@@ -623,27 +661,35 @@ def decision_scores(posts: list[dict], article_text: str, api_key: str, model: s
             "type": "score", "criteria": HUMAN_LEVELS,
             "instructions": f"How would draft {n} strike a careful reader of X: typed by a real person, "
                             "or written by AI?"}
-    answers = nb.call_decisions(f"ARTICLE:\n{article_text}\n\nDRAFT POSTS FOR X:\n{drafts}",
-                                questions, api_key, model)
+        questions[f"reach{n}"] = {
+            "type": "score", "criteria": REACH_LEVELS,
+            "instructions": f"How strongly would the followers of the account described at the top "
+                            f"respond to draft {n} (replies, reposts, likes)?"}
+    answers = nb.call_decisions(f"ACCOUNT: {(profile or DEFAULT_PROFILE).strip()}\n\nARTICLE:\n{article_text}"
+                                f"\n\nDRAFT POSTS FOR X:\n{drafts}", questions, api_key, model)
+    if notes is not None:
+        notes["checklist"] = checklist(answers)
     scores = {}
     for n in range(1, len(posts) + 1):
         facts, clear = float(answers[f"facts{n}"]["noul"]), float(answers[f"clear{n}"]["noul"])
-        human = float(answers[f"human{n}"]["score"])
-        log.info("draft %d: facts %.2f, clear %.2f, human %.1f/%d", n, facts, clear, human, len(HUMAN_LEVELS) - 1)
-        scores[n] = (facts >= nb.FACT_SUPPORT_MIN, clear >= 0.5, human)
+        human, reach = float(answers[f"human{n}"]["score"]), float(answers[f"reach{n}"]["score"])
+        log.info("draft %d: facts %.2f, clear %.2f, human %.1f/4, reach %.1f/4", n, facts, clear, human, reach)
+        scores[n] = (facts >= nb.FACT_SUPPORT_MIN, clear >= 0.5, human + reach)
     return scores
 
 
 def judge(posts: list[dict], api_key: str, models: list[str], article_text: str = "",
-          decision_model: str = "") -> bool:
+          decision_model: str = "", profile: str = "", notes: dict | None = None) -> bool:
     """Second pass: reorder `posts` so the clearest, most natural drafts come first.
-    With a decision model, drafts whose facts the article does not support go last.
+    With a decision model, drafts whose facts the article does not support go last, and
+    the rest are ordered by how human they read plus how the account's followers would
+    respond; `notes` receives a launch checklist from the same request.
     If that model fails, the writing models judge instead (they do not check facts).
     Any failure leaves the order as it was. Returns True when the order was judged."""
     scores = {}
     if decision_model:
         try:
-            scores = decision_scores(posts, article_text, api_key, decision_model)
+            scores = decision_scores(posts, article_text, api_key, decision_model, profile, notes)
         except Exception as e:  # fall back to the writing models
             log.warning("decision judge failed (%s); using the writing model", e)
     if not scores:
@@ -689,8 +735,11 @@ def build_pack(url: str, api_key: str, settings: dict, source: str = "", light: 
     pack = validate(call_gemini(prompt, images, api_key, models), article, images,
                     keep=wanted, max_details=0 if summary_only else 3 if light else 6)
     if settings.get("takes_judge", True) and len(pack["posts"]) > keep:
+        notes = {}
         judge(pack["posts"], api_key, models, f"{article['title']}\n{article['text']}",
-              settings.get("decision_model") or "")
+              settings.get("decision_model") or "", settings.get("account_profile") or "", notes)
+        if not summary_only:   # a summary is too short to say what the article leaves out
+            pack["checklist"] = notes.get("checklist") or []
     pack["posts"] = pack["posts"][:keep]
     pack.update(url=article["url"], title=article["title"], source=source, preview=article["preview"],
                 light=light, summary_only=summary_only)
@@ -700,6 +749,13 @@ def build_pack(url: str, api_key: str, settings: dict, source: str = "", light: 
 def build_for_entry(entry: dict, api_key: str, settings: dict, light: bool) -> dict:
     summary = {"title": entry.get("title", ""),
                "text": " ".join(filter(None, [entry.get("title"), entry.get("summary")]))}
+    # Read the story from the first outlet whose page can be read; a paywalled or blocked
+    # page moves on to the next outlet that covered it. Only then fall back to the summary.
+    for choice in ([entry, *entry["alternates"]] if entry.get("alternates") else []):
+        try:
+            return build_pack(choice["url"], api_key, settings, choice.get("source", ""), light)
+        except DetailsError as e:
+            log.info("could not read %s (%s)", choice.get("source") or choice["url"], e)
     return build_pack(entry["url"], api_key, settings, entry.get("source", ""), light, summary)
 
 
@@ -722,6 +778,8 @@ def render(pack: dict) -> tuple[str, list[list[dict]]]:
     tail = []
     if pack["check"]:
         tail.append(f"\n🔎 <b>Check:</b> {esc(pack['check'])}")
+    if pack.get("checklist"):
+        tail.append("🧾 <b>In the article:</b> " + " · ".join(pack["checklist"]))
     if pack["album"]:
         tail.append(f"Pictures are from the article. Credit them, e.g. \"Chart: {esc(pack['source'])}\".")
     if pack["dropped"]:
