@@ -148,7 +148,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "haCdbUJiuS4": {
    "id": "haCdbUJiuS4",
@@ -270,7 +270,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "VbOaabW4i1A": {
    "id": "VbOaabW4i1A",
@@ -285,7 +285,11 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "QyDR-B_4WCg": {
    "id": "QyDR-B_4WCg",
@@ -349,7 +353,11 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "71AHoRKLWHI": {
    "id": "71AHoRKLWHI",
@@ -379,7 +387,11 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "wb1oJ4L0nQg": {
    "id": "wb1oJ4L0nQg",
@@ -413,7 +425,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "QaG-biWIy3c": {
    "id": "QaG-biWIy3c",
@@ -428,7 +440,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "F8jidmEkIeM": {
    "id": "F8jidmEkIeM",
@@ -477,7 +489,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "fs0MKpzC8L0": {
    "id": "fs0MKpzC8L0",
@@ -522,7 +534,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "jDk0sPwFH1k": {
    "id": "jDk0sPwFH1k",
@@ -676,7 +688,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "DeAjrKu_AfU": {
    "id": "DeAjrKu_AfU",
@@ -691,7 +703,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "udDdFNqEg0c": {
    "id": "udDdFNqEg0c",
@@ -818,7 +830,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "_X7L_YecQfM": {
    "id": "_X7L_YecQfM",
@@ -833,7 +845,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "KO2fgXfdr6k": {
    "id": "KO2fgXfdr6k",
@@ -1112,7 +1124,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "bgFkYVUchlY": {
    "id": "bgFkYVUchlY",
@@ -1227,7 +1239,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "gd2-D47ExhY": {
    "id": "gd2-D47ExhY",
@@ -1242,7 +1254,7 @@
     "applications"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "OpSrPiRb3SA": {
    "id": "OpSrPiRb3SA",
@@ -1276,7 +1288,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "jjXMz-mVp2E": {
    "id": "jjXMz-mVp2E",
@@ -1320,7 +1332,7 @@
     "creative"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "3KuMya6FNyo": {
    "id": "3KuMya6FNyo",
@@ -1405,8 +1417,50 @@
    "categories": [
     "everyday"
    ],
-   "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "status": "sent",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-12T03:39:19.855228+00:00",
+   "review": {
+    "task": "Extract data from PDF invoices, receipts, and documents directly into Google Sheets using AI",
+    "demonstrated": "Creator drops multiple PDF/image receipts and invoices into the DispatchSheets AI extension inside Google Sheets, maps fields, and auto-populates rows.",
+    "creator_claim": "AI extraction saves hours of manual work and eliminates human data entry errors across different business use cases.",
+    "requirements": "Google Sheets account and DispatchSheets.ai account",
+    "cost": "Paid tool with a 15% discount coupon code mentioned (ASLAMSPEAKS15)",
+    "caveat": "Extracted values require manual review and might contain occasional mapping errors that need correction.",
+    "workflow_key": "extract document data to google sheets with dispatchsheets",
+    "category": "everyday",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 25,
+      "observation": "Demonstrates opening DispatchSheets panel in Google Sheets and uploading invoice files."
+     },
+     {
+      "seconds": 331,
+      "observation": "Shows mapped fields interface matching receipt data to columns in Google Sheets."
+     },
+     {
+      "seconds": 434,
+      "observation": "Displays populated expense spreadsheet rows automatically generated from uploaded receipts."
+     }
+    ],
+    "tools": [
+     "DispatchSheets.ai",
+     "Google Sheets"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 8
+    }
+   },
+   "sent_at": "2026-11-12T03:39:19.855228+00:00"
   },
   "XcaiqW-cs-M": {
    "id": "XcaiqW-cs-M",
@@ -1436,7 +1490,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "OvDEOvqF-qg": {
    "id": "OvDEOvqF-qg",
@@ -1451,7 +1505,7 @@
     "everyday"
    ],
    "status": "new",
-   "screen_after": "2026-11-12T03:38:49.449216+00:00"
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "Fl6nagD3gqo": {
    "id": "Fl6nagD3gqo",
@@ -1596,7 +1650,7 @@
    "categories": [
     "applications"
    ],
-   "status": "ready",
+   "status": "sent",
    "screen_after": "2026-11-12T03:38:49.449216+00:00",
    "screen": {
     "category": "applications",
@@ -1637,7 +1691,8 @@
      "relevance": 9,
      "clarity": 8
     }
-   }
+   },
+   "sent_at": "2026-11-12T03:39:19.855228+00:00"
   },
   "btMoPRHz8eM": {
    "id": "btMoPRHz8eM",
@@ -1736,7 +1791,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "xRhqz-R-MEo": {
    "id": "xRhqz-R-MEo",
@@ -1750,7 +1806,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "axBF6zXzsNA": {
    "id": "axBF6zXzsNA",
@@ -1764,7 +1825,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "peHi4w1SKEA": {
    "id": "peHi4w1SKEA",
@@ -1778,7 +1844,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "H1gBK_JMhN8": {
    "id": "H1gBK_JMhN8",
@@ -1792,7 +1859,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "1iHWqu_9WK4": {
    "id": "1iHWqu_9WK4",
@@ -1806,7 +1874,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "rd-jo8fENfw": {
    "id": "rd-jo8fENfw",
@@ -1848,7 +1917,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "MwXRsnZol28": {
    "id": "MwXRsnZol28",
@@ -1862,7 +1932,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "MDH718aNRa4": {
    "id": "MDH718aNRa4",
@@ -1876,7 +1947,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "upzsQGFhvCc": {
    "id": "upzsQGFhvCc",
@@ -1932,7 +2004,8 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "pE0O7OQ-iW8": {
    "id": "pE0O7OQ-iW8",
@@ -1974,7 +2047,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "AeAn0M0upY8": {
    "id": "AeAn0M0upY8",
@@ -2030,7 +2104,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "R75vBDe21o0": {
    "id": "R75vBDe21o0",
@@ -2142,7 +2217,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 8
+   }
   },
   "FM8NoM5XSuk": {
    "id": "FM8NoM5XSuk",
@@ -2156,7 +2236,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   }
   },
   "PDkS2Ek0xM8": {
    "id": "PDkS2Ek0xM8",
@@ -2170,7 +2255,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "YeQ8WZ3FeMU": {
    "id": "YeQ8WZ3FeMU",
@@ -2184,7 +2270,8 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "m7IWWQQbc_w": {
    "id": "m7IWWQQbc_w",
@@ -2198,7 +2285,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "IsZvhd-LQAM": {
    "id": "IsZvhd-LQAM",
@@ -2212,7 +2300,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "Drg3YlH5Nd4": {
    "id": "Drg3YlH5Nd4",
@@ -2240,7 +2329,48 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "sent",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-12T03:39:19.855228+00:00",
+   "review": {
+    "task": "Create viral stickman animated shorts in 3D-style environments using free AI tools like Claude, Google Flow, ElevenLabs, and CapCut.",
+    "demonstrated": "Using Claude for prompts and scripts, Google Flow for character sheets and video clips, ElevenLabs for voiceover, and CapCut for editing.",
+    "creator_claim": "Create viral 2D stickman animation videos in realistic 3D environments using a completely free AI workflow.",
+    "requirements": "Free accounts on Claude, Google Flow, and ElevenLabs, plus video editing software like CapCut.",
+    "cost": "Free tier available for Claude, Google Flow, and ElevenLabs.",
+    "caveat": "Relies on external tool availability, specific prompt handling, and manual timeline speed matching.",
+    "workflow_key": "stickman animation generation with claude and google flow",
+    "category": "creative",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 348,
+      "observation": "Pasting the master prompt into Claude and selecting a story idea."
+     },
+     {
+      "seconds": 747,
+      "observation": "Pasting clip prompts into Google Flow alongside character sheet references to generate animation clips."
+     }
+    ],
+    "tools": [
+     "Claude",
+     "Google Flow",
+     "ElevenLabs",
+     "CapCut"
+    ],
+    "scores": {
+     "evidence": 9,
+     "reproducibility": 8,
+     "relevance": 9,
+     "clarity": 8
+    }
+   },
+   "sent_at": "2026-11-12T03:39:19.855228+00:00"
   },
   "jw1s_5UkZJc": {
    "id": "jw1s_5UkZJc",
@@ -2268,7 +2398,12 @@
    "categories": [
     "creative"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "creative",
+    "relevance": 9
+   }
   },
   "kL1-NOEK7cs": {
    "id": "kL1-NOEK7cs",
@@ -2282,7 +2417,12 @@
    "categories": [
     "everyday"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "everyday",
+    "relevance": 8
+   }
   },
   "Oh_hJoMEjOE": {
    "id": "Oh_hJoMEjOE",
@@ -2310,7 +2450,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "ahWsQWtJUww": {
    "id": "ahWsQWtJUww",
@@ -2324,7 +2465,8 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "new",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00"
   },
   "-qiIihY5vAY": {
    "id": "-qiIihY5vAY",
@@ -2338,19 +2480,73 @@
    "categories": [
     "applications"
    ],
-   "status": "new"
+   "status": "ready",
+   "screen_after": "2026-11-13T03:39:19.855228+00:00",
+   "screen": {
+    "category": "applications",
+    "relevance": 9
+   },
+   "attempts": 1,
+   "reviewed_at": "2026-11-12T03:39:19.855228+00:00",
+   "review": {
+    "task": "Create viral DIY build videos using AI tools like ChatGPT, Google Flow, and ElevenLabs",
+    "demonstrated": "Step-by-step workflow creating character sheets, generating video clips via Google Flow image-to-video, and assembling in CapCut",
+    "creator_claim": "Make viral DIY videos for free using AI that rack up millions of views with no building or editing skills",
+    "requirements": "Accounts for ChatGPT, Google Flow, ElevenLabs, and video editor like CapCut",
+    "cost": "Not established in the reviewed video",
+    "caveat": "Relies on free tiers or promotional credits of AI services which may run out or change pricing",
+    "workflow_key": "create_viral_diy_videos_google_flow",
+    "category": "creative",
+    "difficulty": "beginner",
+    "evidence": [
+     {
+      "seconds": 127,
+      "observation": "Generating character image in Google Flow from ChatGPT prompt"
+     },
+     {
+      "seconds": 250,
+      "observation": "Animating video clip using Google Flow with image input and prompt"
+     }
+    ],
+    "tools": [
+     "ChatGPT",
+     "Google Flow",
+     "Nano Banana 2.1",
+     "Omni 1.2 Flash",
+     "ElevenLabs",
+     "CapCut"
+    ],
+    "scores": {
+     "evidence": 8,
+     "reproducibility": 7,
+     "relevance": 8,
+     "clarity": 8
+    }
+   }
   }
  },
  "daily": {
   "date": "2026-11-12",
   "searches": 0,
-  "reviews": 0,
-  "video_seconds": 0,
-  "screens": 0,
-  "sent": 0,
-  "categories": [],
-  "channels": [],
-  "fingerprints": []
+  "reviews": 3,
+  "video_seconds": 1924,
+  "screens": 1,
+  "sent": 3,
+  "categories": [
+   "creative",
+   "applications",
+   "everyday"
+  ],
+  "channels": [
+   "UC4Y_xFRrw0JYs3dvKoXe-sg",
+   "UC56Q2bWaSRApOoBv877W2Dg",
+   "UCKSUmT13j2RjNG8-TvIuJFA"
+  ],
+  "fingerprints": [
+   "68d4991644e925c803d1",
+   "7ca5a6320729544b0dea",
+   "2a7ae9878f0daff8362a"
+  ]
  },
  "preferences": {},
  "channel_uploads": {},
