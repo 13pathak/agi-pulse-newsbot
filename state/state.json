@@ -1787,13 +1787,17 @@
   "0239886cb34ab7e1": "2026-11-13T09:07:22.927374+00:00",
   "10c45432b5ce2038": "2026-11-13T09:07:22.927374+00:00",
   "2446a8a75538f3c3": "2026-11-13T09:07:22.927374+00:00",
-  "fb8776473e77bf42": "2026-11-13T09:07:22.927374+00:00"
+  "fb8776473e77bf42": "2026-11-13T09:07:22.927374+00:00",
+  "88177097345d5b6c": "2026-11-13T09:37:21.260876+00:00",
+  "d7e79e32eb234aa5": "2026-11-13T09:37:21.260876+00:00",
+  "2958d880ad1560d9": "2026-11-13T09:37:21.260876+00:00",
+  "aa0175cd57a88d57": "2026-11-13T09:37:21.260876+00:00",
+  "6cc97cd5952e40a3": "2026-11-13T09:37:21.260876+00:00",
+  "f3b102e39fa099b6": "2026-11-13T09:37:21.260876+00:00",
+  "b80a52e5c724cf60": "2026-11-13T09:37:21.260876+00:00",
+  "ec886a92fa12a05a": "2026-11-13T09:37:21.260876+00:00"
  },
  "covered": [
-  {
-   "headline": "NHA selects EkaCare for AI voice scribe",
-   "ts": "2026-11-11T09:37:22.199163+00:00"
-  },
   {
    "headline": "Beijing plans 50000 PFLOPS embodied AI compute cluster",
    "ts": "2026-11-11T10:07:23.829832+00:00"
@@ -2013,11 +2017,15 @@
   {
    "headline": "Tencent Hunyuan releases Hy Realtime voice model",
    "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  {
+   "headline": "AWS releases SGLang-Neuron for Trainium instances",
+   "ts": "2026-11-13T09:37:21.260876+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3484,36 +3492,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.213396,
-   "selection_reason": "Editorial importance; waiting 19.0h"
-  },
-  {
-   "id": "ec886a92fa12a05a",
-   "item": {
-    "id": "ec886a92fa12a05a",
-    "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
-    "source": "AWS AI",
-    "image": "",
-    "snippet": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
-    "published": "2026-11-12T22:03:34+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "AWS releases SGLang-Neuron for Trainium instances",
-   "post": "AWS has made SGLang-Neuron publicly available via a deep learning container, enabling model serving and reinforcement learning rollouts on Trainium using native PyTorch interfaces.",
-   "editor_note": "Confirm supported instance types and PyTorch version requirements for SGLang-Neuron.",
-   "support": 0.95,
-   "published_at": "2026-11-12T22:03:34+00:00",
-   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
-   "expires_at": "2026-11-14T22:03:34+00:00",
-   "decision": 1.29,
-   "priority": 7.199484,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.19952,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "294c246e7e16ea99",
@@ -3540,8 +3520,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-14T17:55:56+00:00",
    "decision": 1.83,
-   "priority": 7.177493,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.194838,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3580,8 +3560,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.17327,
-   "selection_reason": "Editorial importance; waiting 16.0h",
+   "priority": 7.162863,
+   "selection_reason": "Editorial importance; waiting 16.5h",
    "decision": 1.84
   },
   {
@@ -3609,8 +3589,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 7.13824,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.159054,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3638,8 +3618,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.090076,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.107421,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3668,8 +3648,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.991095,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.017112,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3696,8 +3676,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.904968,
-   "selection_reason": "Editorial importance; waiting 68.5h"
+   "priority": 6.899765,
+   "selection_reason": "Editorial importance; waiting 69.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3737,8 +3717,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.866579,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 6.887393,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   }
  ],
  "details_queue": [],
@@ -3812,11 +3792,12 @@
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video": "2026-11-13T07:38:01.980210+00:00",
   "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms": "2026-11-13T08:08:03.735608+00:00",
   "https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer": "2026-11-13T08:39:46.781857+00:00",
-  "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00"
+  "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00",
+  "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "2026-11-13T09:38:30.404318+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
-  "count": 1,
+  "count": 2,
   "takes": 15
  },
  "triage": {
@@ -6614,6 +6595,131 @@
    "imp": 0.06,
    "ai": 0.01,
    "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "aa0175cd57a88d57": {
+   "imp": 1.65,
+   "ai": 0.47,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "f3b102e39fa099b6": {
+   "imp": 0.94,
+   "ai": 0.79,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "b80a52e5c724cf60": {
+   "imp": 0.93,
+   "ai": 0.44,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "d7e79e32eb234aa5": {
+   "imp": 2.63,
+   "ai": 0.97,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "6cc97cd5952e40a3": {
+   "imp": 1.64,
+   "ai": 0.31,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "512dcb56266802ec": {
+   "imp": 0.2,
+   "ai": 0.11,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "2958d880ad1560d9": {
+   "imp": 2.32,
+   "ai": 0.95,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "88177097345d5b6c": {
+   "imp": 1.38,
+   "ai": null,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "9938d0d396ca271b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "f99026b29b1ed78d": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "f48240d63329d0ab": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "0586c225d6a76ce7": {
+   "imp": 1.32,
+   "ai": 0.21,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "7e1ebab6bd233e28": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "a1937de3178f22d5": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "b328b648ef2c8de8": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "282f89b5ab704bdc": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "3243d90dea224b03": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "0ac71c729ca9be4f": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "9d85a6b40be96c95": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "e9c5222cdcb3e721": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "0860218da1fda1f5": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "f51c7d374a5bd7cb": {
+   "imp": 0.28,
+   "ai": 0.07,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "0eebef4d64ccbdfe": {
+   "imp": 0.56,
+   "ai": 0.12,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "fe7f7c3d7a1e2687": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
+  },
+  "e2491e515cab788b": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:37:21.260876+00:00"
   }
  }
 }
