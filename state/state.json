@@ -1673,13 +1673,23 @@
   "63198f51e4193ee6": "2026-11-13T02:07:20.260034+00:00",
   "6f7ba87cad700bc3": "2026-11-13T02:07:20.260034+00:00",
   "d3c21aad125298df": "2026-11-13T02:07:20.260034+00:00",
-  "f98f612fda85d6f2": "2026-11-13T02:07:20.260034+00:00"
+  "f98f612fda85d6f2": "2026-11-13T02:07:20.260034+00:00",
+  "83054ecb029e1c53": "2026-11-13T02:37:37.820581+00:00",
+  "10f55558e870986a": "2026-11-13T02:37:37.820581+00:00",
+  "33901aab5680e73c": "2026-11-13T02:37:37.820581+00:00",
+  "9d5773919c0524e8": "2026-11-13T02:37:37.820581+00:00",
+  "e82d1380f8b14fa9": "2026-11-13T02:37:37.820581+00:00",
+  "1c05f7da961df638": "2026-11-13T02:37:37.820581+00:00",
+  "055a210bf82d1720": "2026-11-13T02:37:37.820581+00:00",
+  "fc8c27cc2e9c9b2a": "2026-11-13T02:37:37.820581+00:00",
+  "82d9be95873a98db": "2026-11-13T02:37:37.820581+00:00",
+  "f40bba2f98936dbf": "2026-11-13T02:37:37.820581+00:00",
+  "c30258c9bb600e53": "2026-11-13T02:37:37.820581+00:00",
+  "0cefd18c08c5c4ac": "2026-11-13T02:37:37.820581+00:00",
+  "9036ecf80c178bb4": "2026-11-13T02:37:37.820581+00:00",
+  "642026de4eb8cc0c": "2026-11-13T02:37:37.820581+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI reports 10 billion dollar Q3 revenue alongside growing losses",
-   "ts": "2026-11-11T02:37:21.023674+00:00"
-  },
   {
    "headline": "CoreWeave reports third quarter revenue exceeding analyst estimates",
    "ts": "2026-11-11T03:07:21.766925+00:00"
@@ -1903,11 +1913,15 @@
   {
    "headline": "Google opens preorders for $395 Gemini smartglasses",
    "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  {
+   "headline": "Cerebras reports quarterly revenue and Microsoft deal",
+   "ts": "2026-11-13T02:37:37.820581+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3334,34 +3348,6 @@
  },
  "pending": [
   {
-   "id": "642026de4eb8cc0c",
-   "item": {
-    "id": "642026de4eb8cc0c",
-    "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-    "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-    "source": "CNBC",
-    "image": "",
-    "snippet": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
-    "published": "2026-11-12T22:48:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Cerebras reports quarterly revenue and Microsoft deal",
-   "post": "Cerebras reported a 17% surge following quarterly revenue results that beat expectations and the announcement of a new partnership agreement with Microsoft.",
-   "editor_note": "Check the specific financial figures reported in the quarterly results alongside the Microsoft agreement.",
-   "support": 0.86,
-   "published_at": "2026-11-12T22:48:26+00:00",
-   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
-   "expires_at": "2026-11-14T10:48:26+00:00",
-   "decision": 1.89,
-   "priority": 7.600344,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "e74bef3fc4647011",
    "item": {
     "id": "e74bef3fc4647011",
@@ -3387,7 +3373,49 @@
    "first_seen_at": "2026-11-13T02:07:20.260034+00:00",
    "expires_at": "2026-11-14T14:04:43+00:00",
    "decision": 1.69,
-   "priority": 7.56212,
+   "priority": 7.57965,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "d1dc0ea91b809207",
+   "item": {
+    "id": "d1dc0ea91b809207",
+    "title": "China Chipmaker SigmaStar Said to Plan $300 Million HK Listing",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "SigmaStar Technology Ltd., a Chinese artificial intelligence chipmaker, is seeking to raise as much as $300 million in a Hong Kong listing as soon as this year, people familiar with the matter said, as the nation’s technology companies look for an opportune fundraising window.",
+    "published": "2026-11-13T02:11:43+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "b8c9bab20708b534",
+     "title": "Sigmastar据悉计划在香港上市，融资3亿美元",
+     "url": "https://36kr.com/newsflashes/4067561366262658?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "中国芯片制造商Sigmastar（星宸科技）据悉计划在香港上市，融资3亿美元。（新浪财经）",
+     "published": "2026-11-13T02:17:23+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Chinese AI chipmaker SigmaStar plans Hong Kong listing",
+   "post": "Chinese AI chip maker SigmaStar Technology is planning a Hong Kong listing to raise up to $300 million.",
+   "editor_note": "Verify timing and target valuation for the proposed Hong Kong listing.",
+   "support": 0.93,
+   "published_at": "2026-11-13T02:11:43+00:00",
+   "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
+   "expires_at": "2026-11-14T14:11:43+00:00",
+   "decision": 1.7,
+   "priority": 7.55467,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3414,9 +3442,38 @@
    "published_at": "2026-11-12T16:58:11+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 7.49487,
-   "selection_reason": "Editorial importance; waiting 9.0h",
+   "priority": 7.512401,
+   "selection_reason": "Editorial importance; waiting 9.5h",
    "decision": 2.06
+  },
+  {
+   "id": "98f5d9925889e020",
+   "item": {
+    "id": "98f5d9925889e020",
+    "title": "阿里快乐虾米App上线",
+    "url": "https://36kr.com/newsflashes/4067554198770564?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月13日，阿里巴巴旗下AI音乐创作平台快乐虾米（HappyShrimp）正式上线App版本，同步登陆iOS与Android平台，覆盖AppStore及各大安卓应用商店。快乐虾米是一款面向大众用户的AI音乐创作与发现应用，用户只需描述想表达的情绪、故事或音乐风格，即可由AI完成歌词、作曲、编曲与演唱。",
+    "published": "2026-11-13T02:10:06+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba launches HappyShrimp AI music app",
+   "post": "Alibaba launched the mobile app version of its AI music creation platform HappyShrimp for iOS and Android.",
+   "editor_note": "Confirm supported languages and geographic availability for HappyShrimp.",
+   "support": 0.97,
+   "published_at": "2026-11-13T02:10:06+00:00",
+   "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
+   "expires_at": "2026-11-14T14:10:06+00:00",
+   "decision": 1.4,
+   "priority": 7.453921,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3441,8 +3498,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.407799,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.393836,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3481,8 +3538,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.131561,
-   "selection_reason": "Editorial importance; waiting 9.0h",
+   "priority": 7.152597,
+   "selection_reason": "Editorial importance; waiting 9.5h",
    "decision": 1.84
   },
   {
@@ -3510,8 +3567,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.977893,
-   "selection_reason": "Editorial importance; waiting 61.5h"
+   "priority": 6.972634,
+   "selection_reason": "Editorial importance; waiting 62.0h"
   },
   {
    "id": "ec886a92fa12a05a",
@@ -3538,8 +3595,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 6.907786,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.928823,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3566,8 +3623,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.846542,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.867579,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3607,8 +3664,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.574881,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.595918,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -3670,12 +3727,13 @@
   "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents": "2026-11-13T01:08:58.806600+00:00",
   "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00",
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00",
-  "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00"
+  "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00",
+  "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html": "2026-11-13T02:38:08.836413+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
   "32933935200c2839": {
@@ -5242,6 +5300,91 @@
    "imp": 0.21,
    "ai": 0.05,
    "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "9036ecf80c178bb4": {
+   "imp": 1.5,
+   "ai": 0.87,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "d1dc0ea91b809207": {
+   "imp": 1.7,
+   "ai": 0.92,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "e82d1380f8b14fa9": {
+   "imp": 2.59,
+   "ai": 0.95,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "c30258c9bb600e53": {
+   "imp": 1.6,
+   "ai": 0.9,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "f1f8ea095289c131": {
+   "imp": 0.29,
+   "ai": 0.08,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "98f5d9925889e020": {
+   "imp": 1.4,
+   "ai": 0.96,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "1c05f7da961df638": {
+   "imp": 2.59,
+   "ai": 0.87,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "fc8c27cc2e9c9b2a": {
+   "imp": 2.27,
+   "ai": 0.85,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "055a210bf82d1720": {
+   "imp": 2.27,
+   "ai": 0.91,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "33901aab5680e73c": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "9d5773919c0524e8": {
+   "imp": 1.23,
+   "ai": null,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "10f55558e870986a": {
+   "imp": 1.44,
+   "ai": null,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "4e51cf00fbdc21c6": {
+   "imp": 0.2,
+   "ai": 0.06,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "b8c9bab20708b534": {
+   "imp": 1.57,
+   "ai": 0.83,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "b23e610b672b7821": {
+   "imp": 0.13,
+   "ai": 0.07,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "4411cbb19891c6f7": {
+   "imp": 0.14,
+   "ai": 0.07,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "2b3bbb4f43a1b216": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-13T02:37:37.820581+00:00"
   }
  }
 }
