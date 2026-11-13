@@ -1841,13 +1841,15 @@
   "aa189383f7bd2657": "2026-11-13T13:07:22.506341+00:00",
   "725cc9557187d5c2": "2026-11-13T13:07:22.506341+00:00",
   "a11b7e7f40ac5bb6": "2026-11-13T13:07:22.506341+00:00",
-  "eedaaf26e82c4f65": "2026-11-13T13:07:22.506341+00:00"
+  "eedaaf26e82c4f65": "2026-11-13T13:07:22.506341+00:00",
+  "ece4b84db3e9cab7": "2026-11-13T13:37:22.130371+00:00",
+  "31e584dc281d8d6a": "2026-11-13T13:37:22.130371+00:00",
+  "3089c4bb16cc96a8": "2026-11-13T13:37:22.130371+00:00",
+  "e15a3b5797ee60fc": "2026-11-13T13:37:22.130371+00:00",
+  "e734eb03ab12a1be": "2026-11-13T13:37:22.130371+00:00",
+  "d27a0bd0e57af52a": "2026-11-13T13:37:22.130371+00:00"
  },
  "covered": [
-  {
-   "headline": "US power companies deploy Anthropic Mythos AI for energy grid security",
-   "ts": "2026-11-11T13:37:24.039730+00:00"
-  },
   {
    "headline": "Torus raises $500 million for modular AI data center units",
    "ts": "2026-11-11T14:07:22.686423+00:00"
@@ -2067,11 +2069,15 @@
   {
    "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
    "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  {
+   "headline": "Naukri reports 60 crore rupees in Q2 AI revenue",
+   "ts": "2026-11-13T13:37:22.130371+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3566,8 +3572,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.199422,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.225458,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3594,8 +3600,37 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.155339,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.172697,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "b0617c4d1d1de1a1",
+   "item": {
+    "id": "b0617c4d1d1de1a1",
+    "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
+    "url": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "西湖世界模型研究中心成立，施一公亲自揭牌。 作者丨 张岂萍 编辑丨 幸丽娟 世界模型赛道已经不缺创业公司。 海外李飞飞、Yann LeCun 等学术大佬亲自下场，国内极佳视界、逆矩阵、流形空间等创业公司高密度入场。 但最近几个月，入场的力量开始发生变化，下场的不再只是公司，高校和地方政府也开始组织力量，参与这场技术竞争。 今年 7 月，北京大学与逆矩阵科技成立世界模型联合实验室。10 月，由极佳视界牵头的通用世界模型北京市重点实验室揭牌。一个是高校与创业公司联合研发，一个是北京市支持建设的重点科研平台。 如今，西湖大学再落一子，成立世界模型研究中心。西湖大学校长、中国科学院院士施一公亲自揭牌。 与研究中心同时亮相的，还有首版基础模型 Awomo-0.5。这款仅有 40 亿参数的模型，在6项国际公开评测的不同榜单中同时登顶，涉及物理推理、机器人操作和泛化等任务。 更值得关注的是，西湖大学 团队 已经开展了三年世界模型研究，建有自主智能实验室 AutoLab。 有实验室，还有阶段性技术成果， 为什么还要成立一个校级研究中心？先看它想把世界模型做到什么程度。 01 40亿参数“概念世界模型”， 瞄准通用物理智能 西湖大学 团队 发布的首版基础模型 Awomo-0.5，定位是 通用物理世界模型 。它希望让 AI 学习能够跨场景复用的物理规律，理解物体之间的关系，并预测真实世界接下来会发生什么。 这款模型只有 4B（40 亿）参数，采用的是 “概念世界模型”（Concept World Model） 技术路线。 目前，一部分世界模型研究主要通过生成未来视频，模拟环境和物体的变化。西湖大学…",
+    "published": "2026-11-13T07:43:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Westlake University launches Awomo-0.5 physics model",
+   "post": "Westlake University researchers introduced Awomo-0.5, a 4-billion-parameter concept world model designed for physical reasoning, robotics, and generalization tasks.",
+   "editor_note": "Verify the claim that the 4-billion-parameter model topped six public benchmarks across physical reasoning and robotics tasks.",
+   "support": 0.93,
+   "published_at": "2026-11-13T07:43:00+00:00",
+   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
+   "expires_at": "2026-11-14T19:43:00+00:00",
+   "decision": 1.65,
+   "priority": 7.10468,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3620,8 +3655,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.102288,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.088402,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3660,38 +3695,9 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.089939,
-   "selection_reason": "Editorial importance; waiting 20.0h",
+   "priority": 7.079525,
+   "selection_reason": "Editorial importance; waiting 20.5h",
    "decision": 1.84
-  },
-  {
-   "id": "b0617c4d1d1de1a1",
-   "item": {
-    "id": "b0617c4d1d1de1a1",
-    "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
-    "url": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "西湖世界模型研究中心成立，施一公亲自揭牌。 作者丨 张岂萍 编辑丨 幸丽娟 世界模型赛道已经不缺创业公司。 海外李飞飞、Yann LeCun 等学术大佬亲自下场，国内极佳视界、逆矩阵、流形空间等创业公司高密度入场。 但最近几个月，入场的力量开始发生变化，下场的不再只是公司，高校和地方政府也开始组织力量，参与这场技术竞争。 今年 7 月，北京大学与逆矩阵科技成立世界模型联合实验室。10 月，由极佳视界牵头的通用世界模型北京市重点实验室揭牌。一个是高校与创业公司联合研发，一个是北京市支持建设的重点科研平台。 如今，西湖大学再落一子，成立世界模型研究中心。西湖大学校长、中国科学院院士施一公亲自揭牌。 与研究中心同时亮相的，还有首版基础模型 Awomo-0.5。这款仅有 40 亿参数的模型，在6项国际公开评测的不同榜单中同时登顶，涉及物理推理、机器人操作和泛化等任务。 更值得关注的是，西湖大学 团队 已经开展了三年世界模型研究，建有自主智能实验室 AutoLab。 有实验室，还有阶段性技术成果， 为什么还要成立一个校级研究中心？先看它想把世界模型做到什么程度。 01 40亿参数“概念世界模型”， 瞄准通用物理智能 西湖大学 团队 发布的首版基础模型 Awomo-0.5，定位是 通用物理世界模型 。它希望让 AI 学习能够跨场景复用的物理规律，理解物体之间的关系，并预测真实世界接下来会发生什么。 这款模型只有 4B（40 亿）参数，采用的是 “概念世界模型”（Concept World Model） 技术路线。 目前，一部分世界模型研究主要通过生成未来视频，模拟环境和物体的变化。西湖大学…",
-    "published": "2026-11-13T07:43:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Westlake University launches Awomo-0.5 physics model",
-   "post": "Westlake University researchers introduced Awomo-0.5, a 4-billion-parameter concept world model designed for physical reasoning, robotics, and generalization tasks.",
-   "editor_note": "Verify the claim that the 4-billion-parameter model topped six public benchmarks across physical reasoning and robotics tasks.",
-   "support": 0.93,
-   "published_at": "2026-11-13T07:43:00+00:00",
-   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
-   "expires_at": "2026-11-14T19:43:00+00:00",
-   "decision": 1.65,
-   "priority": 7.087322,
-   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3731,8 +3737,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 7.033241,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.022858,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3760,36 +3766,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.906025,
-   "selection_reason": "Editorial importance; waiting 1.5h"
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.863303,
-   "selection_reason": "Editorial importance; waiting 72.5h"
+   "priority": 6.923382,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3817,8 +3795,36 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.84902,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.866378,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.858096,
+   "selection_reason": "Editorial importance; waiting 73.0h"
   }
  ],
  "details_queue": [],
@@ -3900,12 +3906,13 @@
   "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
   "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00",
   "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00",
-  "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00"
+  "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00",
+  "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri": "2026-11-13T13:37:54.419334+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 21
+  "takes": 22
  },
  "triage": {
   "32933935200c2839": {
@@ -7777,6 +7784,56 @@
    "imp": 0.37,
    "ai": 0.08,
    "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "3089c4bb16cc96a8": {
+   "imp": 1.12,
+   "ai": 0.79,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "e15a3b5797ee60fc": {
+   "imp": 0.78,
+   "ai": 0.87,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "e734eb03ab12a1be": {
+   "imp": 0.58,
+   "ai": 0.75,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "31e584dc281d8d6a": {
+   "imp": 1.4,
+   "ai": 0.91,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "d27a0bd0e57af52a": {
+   "imp": 1.58,
+   "ai": 0.76,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "ece4b84db3e9cab7": {
+   "imp": 0.75,
+   "ai": null,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "f4d1fb0f786c92dd": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "6ac8587e43dd6269": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "74e5515dba0f2a36": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "90b455e91a1c3861": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-13T13:37:22.130371+00:00"
   }
  }
 }
