@@ -1882,13 +1882,19 @@
   "c791fa845858778c": "2026-11-13T16:37:22.214977+00:00",
   "7d6f33056303e279": "2026-11-13T16:37:22.214977+00:00",
   "a1ffa3194999acb7": "2026-11-13T16:37:22.214977+00:00",
-  "4d6f012cbac12e6d": "2026-11-13T16:37:22.214977+00:00"
+  "4d6f012cbac12e6d": "2026-11-13T16:37:22.214977+00:00",
+  "8400bdfe1e2afd49": "2026-11-13T17:07:23.545296+00:00",
+  "af5c3614999945bd": "2026-11-13T17:07:23.545296+00:00",
+  "cfb7d5946481ebf2": "2026-11-13T17:07:23.545296+00:00",
+  "ac08d1590707ea35": "2026-11-13T17:07:23.545296+00:00",
+  "e940fd9875725f16": "2026-11-13T17:07:23.545296+00:00",
+  "2b40cb3e224fa452": "2026-11-13T17:07:23.545296+00:00",
+  "5bf4951adbe9698d": "2026-11-13T17:07:23.545296+00:00",
+  "88d77a52ad5e37e4": "2026-11-13T17:07:23.545296+00:00",
+  "4e379f6cb9d33e5a": "2026-11-13T17:07:23.545296+00:00",
+  "13e393cb09e0c2fe": "2026-11-13T17:07:23.545296+00:00"
  },
  "covered": [
-  {
-   "headline": "US data brokers sell $500M in RL data to Chinese AI labs",
-   "ts": "2026-11-11T17:07:23.599054+00:00"
-  },
   {
    "headline": "DeepL introduces Aure model for real-time speech translation",
    "ts": "2026-11-12T01:07:22.215794+00:00"
@@ -2108,11 +2114,15 @@
   {
    "headline": "Anthropic IPO attracts massive investor demand at valuation target",
    "ts": "2026-11-13T16:37:22.214977+00:00"
+  },
+  {
+   "headline": "OpenAI introduces ChatGPT Wallet for AI agents",
+   "ts": "2026-11-13T17:07:23.545296+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3590,62 +3600,16 @@
    "desc": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-10T10:00:00+00:00"
+  },
+  "https://huggingface.co/blog/allenai/xybench": {
+   "title": "XYBench: Helping with the problem behind the question",
+   "desc": "A Blog post by Ai2 on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
+   "published": "2026-11-13T17:02:35.607000+00:00",
+   "excerpt": "Truly useful AI assistants need to be able to help users who ask misguided questions—not just users who ask the right question with the right amount of detail. We’re releasing XYBench, a benchmark of 8K+ questions that tests how AI assistants respond to requests based on misconceptions, such as asking how to thicken frosting that keeps sliding off cupcakes when the real problem is that the cupcakes are still too warm to frost. XYBench won the Best Resource Paper Award at EMNLP 2026. A mismatch between the approach someone asks about and the goal they want to achieve is known as the XY problem: a person wants to accomplish X, assumes a particular approach Y will work, and asks for help with Y. In the cupcake example, the person is so committed to making the frosting stick that they fail to …"
   }
  },
  "pending": [
-  {
-   "id": "5bf4951adbe9698d",
-   "item": {
-    "id": "5bf4951adbe9698d",
-    "title": "Introducing ChatGPT Wallet",
-    "url": "https://openai.com/index/introducing-chatgpt-wallet",
-    "source": "OpenAI",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill",
-    "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "published": "2026-11-13T15:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "88d77a52ad5e37e4",
-     "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-     "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-     "source": "CNBC",
-     "image": "",
-     "snippet": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
-     "published": "2026-11-13T15:31:58+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "4e379f6cb9d33e5a",
-     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-     "published": "2026-11-13T16:00:12+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 9,
-   "urgency": "timely",
-   "headline": "OpenAI introduces ChatGPT Wallet for AI agents",
-   "post": "OpenAI launched ChatGPT Wallet to allow AI agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and card protections.",
-   "editor_note": "Check which payment networks and user tiers are supported at launch.",
-   "support": 0.94,
-   "published_at": "2026-11-13T15:00:00+00:00",
-   "first_seen_at": "2026-11-13T16:07:27.082293+00:00",
-   "expires_at": "2026-11-15T15:00:00+00:00",
-   "decision": 2.37,
-   "priority": 9.787356,
-   "selection_reason": "Time-sensitive story"
-  },
   {
    "id": "449fc35486b25600",
    "item": {
@@ -3671,8 +3635,8 @@
    "first_seen_at": "2026-11-13T16:07:27.082293+00:00",
    "expires_at": "2026-11-15T03:21:04+00:00",
    "decision": 2.2,
-   "priority": 9.729173,
-   "selection_reason": "Time-sensitive story"
+   "priority": 9.746547,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3701,8 +3665,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.381709,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.40777,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3729,8 +3693,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.276864,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.294238,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3758,8 +3722,36 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.208847,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.226221,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "70be99cd333fb782",
+   "item": {
+    "id": "70be99cd333fb782",
+    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "image": "",
+    "snippet": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+    "published": "2026-11-13T16:53:17+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia approaches Arm CEO Rene Haas for chief executive role",
+   "post": "Nvidia has approached Arm Chief Executive Officer Rene Haas as a candidate in its search for a new CEO following the resignation of Jensen Huang, according to the Financial Times.",
+   "editor_note": "Verify if Nvidia or Arm have issued official statements regarding executive recruiting.",
+   "support": 0.56,
+   "published_at": "2026-11-13T16:53:17+00:00",
+   "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
+   "expires_at": "2026-11-15T04:53:17+00:00",
+   "decision": 2.05,
+   "priority": 7.176801,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "2edbd065f0868506",
@@ -3786,8 +3778,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T01:30:31+00:00",
    "decision": 1.78,
-   "priority": 7.100522,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.117896,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3815,8 +3807,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.02755,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.044924,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3855,8 +3847,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.017024,
-   "selection_reason": "Editorial importance; waiting 23.5h",
+   "priority": 7.0066,
+   "selection_reason": "Editorial importance; waiting 24.0h",
    "decision": 1.84
   },
   {
@@ -3882,8 +3874,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.005068,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.991169,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3911,8 +3903,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.970545,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.987919,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "40e78db6601d46e6",
@@ -3939,8 +3931,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 6.96425,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.985098,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3980,8 +3972,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.960358,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.949933,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -4008,8 +4000,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.826845,
-   "selection_reason": "Editorial importance; waiting 76.0h"
+   "priority": 6.821633,
+   "selection_reason": "Editorial importance; waiting 76.5h"
   }
  ],
  "details_queue": [],
@@ -4095,11 +4087,12 @@
   "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri": "2026-11-13T13:37:54.419334+00:00",
   "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00",
   "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00",
-  "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00"
+  "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
+  "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
-  "count": 3,
+  "count": 4,
   "takes": 25
  },
  "triage": {
@@ -8302,6 +8295,91 @@
    "imp": 0.21,
    "ai": 0.06,
    "ts": "2026-11-13T16:37:22.214977+00:00"
+  },
+  "bd821b4081af36fa": {
+   "imp": 0.99,
+   "ai": 0.15,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "13e393cb09e0c2fe": {
+   "imp": 1.94,
+   "ai": 0.95,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "e940fd9875725f16": {
+   "imp": 1.56,
+   "ai": null,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "ac08d1590707ea35": {
+   "imp": 1.63,
+   "ai": 0.76,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "2b40cb3e224fa452": {
+   "imp": 1.37,
+   "ai": 0.8,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "70be99cd333fb782": {
+   "imp": 2.05,
+   "ai": 0.92,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "cfb7d5946481ebf2": {
+   "imp": 1.68,
+   "ai": 0.66,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "8400bdfe1e2afd49": {
+   "imp": 1.19,
+   "ai": null,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "af5c3614999945bd": {
+   "imp": 1.21,
+   "ai": null,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "e6e86eec38f6c2b1": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "bcee6403bafc3e08": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "85b6ac1bcf0d4bb2": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "f77e57b02e929fda": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "d71c07e16364047e": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "0acc80f4119f5538": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "489656188720fdb7": {
+   "imp": 0.31,
+   "ai": 0.05,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "34ef104f5dc6a1ff": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-13T17:07:23.545296+00:00"
   }
  }
 }
