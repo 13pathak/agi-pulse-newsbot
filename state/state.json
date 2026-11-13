@@ -1687,13 +1687,16 @@
   "c30258c9bb600e53": "2026-11-13T02:37:37.820581+00:00",
   "0cefd18c08c5c4ac": "2026-11-13T02:37:37.820581+00:00",
   "9036ecf80c178bb4": "2026-11-13T02:37:37.820581+00:00",
-  "642026de4eb8cc0c": "2026-11-13T02:37:37.820581+00:00"
+  "642026de4eb8cc0c": "2026-11-13T02:37:37.820581+00:00",
+  "376d01b45580e9f4": "2026-11-13T03:07:23.017931+00:00",
+  "1dcba385dec91313": "2026-11-13T03:07:23.017931+00:00",
+  "564fcb182cc20953": "2026-11-13T03:07:23.017931+00:00",
+  "fbfd861083374789": "2026-11-13T03:07:23.017931+00:00",
+  "c7ec460d59c7cc18": "2026-11-13T03:07:23.017931+00:00",
+  "79c16b53a36c2763": "2026-11-13T03:07:23.017931+00:00",
+  "e74bef3fc4647011": "2026-11-13T03:07:23.017931+00:00"
  },
  "covered": [
-  {
-   "headline": "CoreWeave reports third quarter revenue exceeding analyst estimates",
-   "ts": "2026-11-11T03:07:21.766925+00:00"
-  },
   {
    "headline": "TCS builds agentic test orchestrator on Amazon Bedrock",
    "ts": "2026-11-11T03:37:22.995445+00:00"
@@ -1917,11 +1920,15 @@
   {
    "headline": "Cerebras reports quarterly revenue and Microsoft deal",
    "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  {
+   "headline": "Physical AI startup Qingkui Zhizao raises Series A",
+   "ts": "2026-11-13T03:07:23.017931+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3348,35 +3355,6 @@
  },
  "pending": [
   {
-   "id": "e74bef3fc4647011",
-   "item": {
-    "id": "e74bef3fc4647011",
-    "title": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室",
-    "url": "https://36kr.com/p/4067548192576389?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "图源/企业 本文约 3000 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，面向科学研发的Physical AI公司——青葵智造近日宣布完成亿元A轮融资，由创东方投资、飞荣达股份及金辉大数据共同参与。资金将重点用于核心技术研发、重点行业拓展以及云实验室建设，加速自驱动实验室的产业化落地。 青葵智造成立于2021年，核心业务是面向生物医药、化学工业、先进材料、新能源等领域，提供“AI设计—自动化执行—多模态数据回流—模型自适应迭代”的干湿实验闭环解决方案。公司创始人、董事长陈南江为北航博士，曾任职于北航机械学院，在机器人及智能制造领域有十余年连续创业经验。 近年来，AI4S（AI for Science）正从计算驱动的科学发现，向AI自主实验执行演进。不过，行业内仍面临着“Execution Gap”（执行鸿沟）与“Data Gap”（数据鸿沟）这样的核心痛点，即数字世界中的智能决策，与真实世界中的实验执行尚未充分打通。 “目前不少科学模型仍然依赖公开文献和数据库训练，但公开数据往往存在实验条件记录不完整、失败样本不足等问题。模型可以提出很多假设，但如果缺少真实实验验证和持续的数据反馈，就很难不断提高预测和决策能力。”陈南江向硬氪直言。随着大模型技术的爆发，行业逐渐意识到，没有高质量的结构化湿实验数据，AI在条件筛选与合成层面的能力将遭遇天花板。 基于这一判断，青葵智造选择了一条“软硬一体、干湿闭环”的路线。陈南江将一套完整的自动化实验室解决方案类比为人体：底层是负责物理执行的硬件（双手），中层是负责调度的操作系统（神经系统），顶层是负责实验设计决策的科学大模型（大…",
-    "published": "2026-11-13T02:04:43+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Physical AI startup Qingkui Zhizao raises Series A",
-   "post": "Physical AI startup Qingkui Zhizao raised 100 million yuan in a Series A funding round to develop self-driving laboratories for scientific research.",
-   "editor_note": "Verify the investor names and the specific industry sectors targeted by the automated laboratory platform.",
-   "support": 0.96,
-   "published_at": "2026-11-13T02:04:43+00:00",
-   "first_seen_at": "2026-11-13T02:07:20.260034+00:00",
-   "expires_at": "2026-11-14T14:04:43+00:00",
-   "decision": 1.69,
-   "priority": 7.57965,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "d1dc0ea91b809207",
    "item": {
     "id": "d1dc0ea91b809207",
@@ -3415,7 +3393,7 @@
    "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
    "expires_at": "2026-11-14T14:11:43+00:00",
    "decision": 1.7,
-   "priority": 7.55467,
+   "priority": 7.571888,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3442,8 +3420,8 @@
    "published_at": "2026-11-12T16:58:11+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 7.512401,
-   "selection_reason": "Editorial importance; waiting 9.5h",
+   "priority": 7.529619,
+   "selection_reason": "Editorial importance; waiting 10.0h",
    "decision": 2.06
   },
   {
@@ -3472,7 +3450,7 @@
    "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
    "expires_at": "2026-11-14T14:10:06+00:00",
    "decision": 1.4,
-   "priority": 7.453921,
+   "priority": 7.471139,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3498,8 +3476,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.393836,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.380062,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3538,8 +3516,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.152597,
-   "selection_reason": "Editorial importance; waiting 9.5h",
+   "priority": 7.173259,
+   "selection_reason": "Editorial importance; waiting 10.0h",
    "decision": 1.84
   },
   {
@@ -3567,8 +3545,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.972634,
-   "selection_reason": "Editorial importance; waiting 62.0h"
+   "priority": 6.967468,
+   "selection_reason": "Editorial importance; waiting 62.5h"
   },
   {
    "id": "ec886a92fa12a05a",
@@ -3595,8 +3573,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 6.928823,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.949485,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3623,8 +3601,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.867579,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.888241,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3664,8 +3642,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.595918,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.61658,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -3728,12 +3706,13 @@
   "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00",
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00",
   "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00",
-  "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html": "2026-11-13T02:38:08.836413+00:00"
+  "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html": "2026-11-13T02:38:08.836413+00:00",
+  "https://36kr.com/p/4067548192576389?f=rss": "2026-11-13T03:08:18.080975+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
   "32933935200c2839": {
@@ -5385,6 +5364,61 @@
    "imp": 0.15,
    "ai": 0.07,
    "ts": "2026-11-13T02:37:37.820581+00:00"
+  },
+  "564fcb182cc20953": {
+   "imp": 2.05,
+   "ai": 0.71,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "1dcba385dec91313": {
+   "imp": 2.52,
+   "ai": 0.86,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "376d01b45580e9f4": {
+   "imp": 2.76,
+   "ai": 0.92,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "9dd8017bfe490db1": {
+   "imp": 0.3,
+   "ai": 0.09,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "a94cd359b16414f0": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "8d0a7510907e15e2": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "012b20f1ef43942c": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "b47cfdb7ba1100d5": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "a98af227bc55ce6a": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "f1300985e7a43752": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "593d4a0939380034": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-13T03:07:23.017931+00:00"
   }
  }
 }
