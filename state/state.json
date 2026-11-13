@@ -1,47 +1,5 @@
 {
  "seen": {
-  "4a341634cecdf894": "2026-11-06T10:15:28.494649+00:00",
-  "93fc4c1ba090e949": "2026-11-06T10:15:28.494649+00:00",
-  "63298250b8e53d51": "2026-11-06T10:15:28.494649+00:00",
-  "904574e3ce2480c2": "2026-11-06T10:15:28.494649+00:00",
-  "5c7f6b4ec55ef88c": "2026-11-06T10:15:28.494649+00:00",
-  "7aeb2f7cff1f8140": "2026-11-06T10:15:28.494649+00:00",
-  "5eee546fa7ec5c24": "2026-11-06T10:15:28.494649+00:00",
-  "e2e425b6ae70f806": "2026-11-06T10:15:28.494649+00:00",
-  "17626bd322d935ef": "2026-11-06T10:15:28.494649+00:00",
-  "93a69c3105894e9f": "2026-11-06T10:15:28.494649+00:00",
-  "be653fa59db4dd88": "2026-11-06T10:15:28.494649+00:00",
-  "d9e465d66d62c7fd": "2026-11-06T10:15:28.494649+00:00",
-  "c538f6bb90c3acce": "2026-11-06T10:15:28.494649+00:00",
-  "85f398082dadd860": "2026-11-06T10:15:28.494649+00:00",
-  "cc48f8093c5bb103": "2026-11-06T10:15:28.494649+00:00",
-  "82196d4ece0a644e": "2026-11-06T10:15:28.494649+00:00",
-  "eb0fa5ee6198e221": "2026-11-06T10:15:28.494649+00:00",
-  "1eac7fe42e873b21": "2026-11-06T10:15:28.494649+00:00",
-  "8e75ec02fc50e91f": "2026-11-06T10:15:28.494649+00:00",
-  "56b7bacf1dd0d65a": "2026-11-06T10:15:28.494649+00:00",
-  "b0ae5318dec9e884": "2026-11-06T10:15:28.494649+00:00",
-  "96a4ab9e96733ace": "2026-11-06T10:15:28.494649+00:00",
-  "c88b52d0b21039c7": "2026-11-06T10:15:28.494649+00:00",
-  "3c0e84566a0e25fa": "2026-11-06T10:15:28.494649+00:00",
-  "e8690f74b67f5698": "2026-11-06T10:15:28.494649+00:00",
-  "b48ffd832e2f1d6a": "2026-11-06T10:15:28.494649+00:00",
-  "2e06a7a163b7d0a2": "2026-11-06T10:15:28.494649+00:00",
-  "ec73671ce52f6e9d": "2026-11-06T10:15:28.494649+00:00",
-  "c6134d61030c25d1": "2026-11-06T10:15:28.494649+00:00",
-  "4b657726626081d4": "2026-11-06T10:15:28.494649+00:00",
-  "cfd1704d56b5f495": "2026-11-06T10:15:28.494649+00:00",
-  "f49d817c3fd35c35": "2026-11-06T10:15:28.494649+00:00",
-  "7b187a5bdc286419": "2026-11-06T10:15:28.494649+00:00",
-  "23696f011bd98b05": "2026-11-06T10:15:28.494649+00:00",
-  "003a6dd08e360129": "2026-11-06T10:15:28.494649+00:00",
-  "4dac3d0c60c6510e": "2026-11-06T10:15:28.494649+00:00",
-  "b529285c262b3aff": "2026-11-06T10:15:28.494649+00:00",
-  "b58fee4edbbb5f7a": "2026-11-06T10:15:28.494649+00:00",
-  "d7e9e3e89ee778d6": "2026-11-06T10:15:28.494649+00:00",
-  "c72ba9b8aa6c3310": "2026-11-06T10:15:28.494649+00:00",
-  "438dbd4a23956426": "2026-11-06T10:15:28.494649+00:00",
-  "2846e03446f423d7": "2026-11-06T10:15:28.494649+00:00",
   "6813d62fd92533cd": "2026-11-07T01:38:44.401340+00:00",
   "118369de89f061c4": "2026-11-07T01:38:44.401340+00:00",
   "2483c783f783e801": "2026-11-07T01:38:44.401340+00:00",
@@ -1804,13 +1762,19 @@
   "24d6f4cb8ab9eeb6": "2026-11-13T10:07:22.750068+00:00",
   "6b5073ab6b12bc65": "2026-11-13T10:07:22.750068+00:00",
   "434722db9bf95617": "2026-11-13T10:07:22.750068+00:00",
-  "294c246e7e16ea99": "2026-11-13T10:07:22.750068+00:00"
+  "294c246e7e16ea99": "2026-11-13T10:07:22.750068+00:00",
+  "139d22549f65ad3f": "2026-11-13T10:37:22.508699+00:00",
+  "cb5bc8cfb675913d": "2026-11-13T10:37:22.508699+00:00",
+  "9b9348454ec34180": "2026-11-13T10:37:22.508699+00:00",
+  "3830705056322dbc": "2026-11-13T10:37:22.508699+00:00",
+  "9508034964bf19c1": "2026-11-13T10:37:22.508699+00:00",
+  "fba3cffa35311a51": "2026-11-13T10:37:22.508699+00:00",
+  "e1c0b7be64d8ee03": "2026-11-13T10:37:22.508699+00:00",
+  "b0ebb737da27be00": "2026-11-13T10:37:22.508699+00:00",
+  "13b9eaa9bf55e0e5": "2026-11-13T10:37:22.508699+00:00",
+  "85bacafff42444d7": "2026-11-13T10:37:22.508699+00:00"
  },
  "covered": [
-  {
-   "headline": "PuppyGraph raises 10 million dollars in Series A funding",
-   "ts": "2026-11-11T10:37:20.945947+00:00"
-  },
   {
    "headline": "Google releases November Pixel Drop with Gemini AI features",
    "ts": "2026-11-11T11:07:23.012607+00:00"
@@ -2030,11 +1994,15 @@
   {
    "headline": "SMIC forecasts AI computing crunch to continue until 2028",
    "ts": "2026-11-13T10:07:22.750068+00:00"
+  },
+  {
+   "headline": "AWS releases next-generation AgentCore runtime",
+   "ts": "2026-11-13T10:37:22.508699+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3501,36 +3469,37 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.185619,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.171732,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
-   "id": "85bacafff42444d7",
+   "id": "eedaaf26e82c4f65",
    "item": {
-    "id": "85bacafff42444d7",
-    "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
-    "source": "AWS AI",
+    "id": "eedaaf26e82c4f65",
+    "title": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
+    "url": "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
+    "source": "LeiPhone",
     "image": "",
-    "snippet": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
-    "published": "2026-11-12T17:59:59+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
+    "snippet": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作。 当前，具身智能正加速进入产业化发展新阶段，真实场景数据稀缺、模型训练成本高、跨本体能力复用难等问题，成为制约规模化落地的关键挑战。作为全球商用服务机器人领军企业，普渡机器人业务覆盖全球85个国家和地区，服务超5万家终端客户，累计出货超13万台。围绕“一脑多形”技术理念，普渡构建了由机器人本体、通用具身智能体PuduAgent及通用具身基座大模型PuduFM组成的Physical Agent架构，并以具身导航、具身操作、具身交互三大技术栈为支撑，推动专用、类人形及人形机器人的智能能力协同进化。 此次合作，普渡将依托百度百舸AI计算平台，完善算力基础设施。围绕自身具身智能技术布局，普渡将持续开展PuduFM模型训练与迭代，结合全球商业部署积累的真实场景数据，建设高质量数据体系，并推进PuduAgent具身智能体平台能力升级，推动智能能力在不同形态机器人及应用场景中复用。 目前，百度智能云已为70余家具身智能产业链重点企业提供全栈AI云技术支撑。未来，双方将持续深化合作，推动商用服务机器人从“单机智能”迈向“平台化智能”。",
+    "published": "2026-11-13T01:19:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "AWS releases next-generation AgentCore runtime",
-   "post": "Amazon Web Services has launched the next-generation Bedrock AgentCore runtime, featuring hardware-isolated sessions, faster start times, usage-based billing, and data-level isolation for multi-step AI agents.",
-   "editor_note": "Verify regional availability and pricing tiers for the new AgentCore runtime on Bedrock.",
-   "support": 0.87,
-   "published_at": "2026-11-12T17:59:59+00:00",
-   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
-   "expires_at": "2026-11-14T17:59:59+00:00",
-   "decision": 1.36,
-   "priority": 7.179904,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
+   "post": "Baidu Smart Cloud and Pudu Robotics formed a strategic partnership to support PuduFM base model training, scenario data collection, and PuduAgent platform development using Baidukeduo AI computing infrastructure.",
+   "editor_note": "Verify the partnership scope regarding Baidu's infrastructure support for Pudu Robotics' 130,000+ deployed units.",
+   "support": 0.95,
+   "published_at": "2026-11-13T01:19:00+00:00",
+   "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
+   "expires_at": "2026-11-14T13:19:00+00:00",
+   "decision": 1.39,
+   "priority": 7.142156,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3569,66 +3538,9 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.152438,
-   "selection_reason": "Editorial importance; waiting 17.0h",
+   "priority": 7.142023,
+   "selection_reason": "Editorial importance; waiting 17.5h",
    "decision": 1.84
-  },
-  {
-   "id": "eedaaf26e82c4f65",
-   "item": {
-    "id": "eedaaf26e82c4f65",
-    "title": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
-    "url": "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作。 当前，具身智能正加速进入产业化发展新阶段，真实场景数据稀缺、模型训练成本高、跨本体能力复用难等问题，成为制约规模化落地的关键挑战。作为全球商用服务机器人领军企业，普渡机器人业务覆盖全球85个国家和地区，服务超5万家终端客户，累计出货超13万台。围绕“一脑多形”技术理念，普渡构建了由机器人本体、通用具身智能体PuduAgent及通用具身基座大模型PuduFM组成的Physical Agent架构，并以具身导航、具身操作、具身交互三大技术栈为支撑，推动专用、类人形及人形机器人的智能能力协同进化。 此次合作，普渡将依托百度百舸AI计算平台，完善算力基础设施。围绕自身具身智能技术布局，普渡将持续开展PuduFM模型训练与迭代，结合全球商业部署积累的真实场景数据，建设高质量数据体系，并推进PuduAgent具身智能体平台能力升级，推动智能能力在不同形态机器人及应用场景中复用。 目前，百度智能云已为70余家具身智能产业链重点企业提供全栈AI云技术支撑。未来，双方将持续深化合作，推动商用服务机器人从“单机智能”迈向“平台化智能”。",
-    "published": "2026-11-13T01:19:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
-   "post": "Baidu Smart Cloud and Pudu Robotics formed a strategic partnership to support PuduFM base model training, scenario data collection, and PuduAgent platform development using Baidukeduo AI computing infrastructure.",
-   "editor_note": "Verify the partnership scope regarding Baidu's infrastructure support for Pudu Robotics' 130,000+ deployed units.",
-   "support": 0.95,
-   "published_at": "2026-11-13T01:19:00+00:00",
-   "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
-   "expires_at": "2026-11-14T13:19:00+00:00",
-   "decision": 1.39,
-   "priority": 7.124797,
-   "selection_reason": "Editorial importance; waiting 6.5h"
-  },
-  {
-   "id": "d6d8c69f54f19a5e",
-   "item": {
-    "id": "d6d8c69f54f19a5e",
-    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
-    "published": "2026-11-13T09:33:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "South Korean startup DeepX invests $100 million in Samsung",
-   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
-   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
-   "support": 0.96,
-   "published_at": "2026-11-13T09:33:55+00:00",
-   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
-   "expires_at": "2026-11-14T21:33:55+00:00",
-   "decision": 1.7,
-   "priority": 7.051175,
-   "selection_reason": "Editorial importance"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3657,8 +3569,36 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.043175,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.069214,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "d6d8c69f54f19a5e",
+   "item": {
+    "id": "d6d8c69f54f19a5e",
+    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
+    "published": "2026-11-13T09:33:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "South Korean startup DeepX invests $100 million in Samsung",
+   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
+   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
+   "support": 0.96,
+   "published_at": "2026-11-13T09:33:55+00:00",
+   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
+   "expires_at": "2026-11-14T21:33:55+00:00",
+   "decision": 1.7,
+   "priority": 7.068534,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3686,7 +3626,7 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 6.983158,
+   "priority": 7.000517,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3727,8 +3667,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.908243,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.929074,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3755,8 +3695,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.894552,
-   "selection_reason": "Editorial importance; waiting 69.5h"
+   "priority": 6.889345,
+   "selection_reason": "Editorial importance; waiting 70.0h"
   }
  ],
  "details_queue": [],
@@ -3832,11 +3772,12 @@
   "https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer": "2026-11-13T08:39:46.781857+00:00",
   "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00",
   "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "2026-11-13T09:38:30.404318+00:00",
-  "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00"
+  "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
+  "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
-  "count": 2,
+  "count": 3,
   "takes": 16
  },
  "triage": {
@@ -6894,6 +6835,191 @@
    "imp": 0.23,
    "ai": 0.05,
    "ts": "2026-11-13T10:07:22.750068+00:00"
+  },
+  "cb5bc8cfb675913d": {
+   "imp": 2.58,
+   "ai": 0.88,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "9508034964bf19c1": {
+   "imp": 1.08,
+   "ai": 0.73,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "3830705056322dbc": {
+   "imp": 1.38,
+   "ai": 0.83,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "ef40ccf4d0154f22": {
+   "imp": 2.25,
+   "ai": 0.86,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "b0ebb737da27be00": {
+   "imp": 2.53,
+   "ai": 0.56,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "0a861bba165fef6c": {
+   "imp": 1.0,
+   "ai": 0.43,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "e1c0b7be64d8ee03": {
+   "imp": 2.58,
+   "ai": 0.89,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "efe05c730e5de1a1": {
+   "imp": 1.74,
+   "ai": 0.89,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "ee71d278a1467c41": {
+   "imp": 2.43,
+   "ai": 0.69,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "b1f5c004595bf863": {
+   "imp": 2.18,
+   "ai": 0.52,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "547548d8af355aa7": {
+   "imp": 2.4,
+   "ai": 0.48,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "8fcb3001e7117556": {
+   "imp": 2.25,
+   "ai": 0.96,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "3442c49f321326c3": {
+   "imp": 1.87,
+   "ai": 0.94,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "e74e359305b4dd75": {
+   "imp": 2.54,
+   "ai": 0.95,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "139d22549f65ad3f": {
+   "imp": 2.72,
+   "ai": 0.85,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "47ea25b516f5a626": {
+   "imp": 2.42,
+   "ai": 0.9,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "ba7a7f1b4a0c75fa": {
+   "imp": 1.87,
+   "ai": 0.58,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "13b9eaa9bf55e0e5": {
+   "imp": 0.19,
+   "ai": 0.44,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "fba3cffa35311a51": {
+   "imp": 0.89,
+   "ai": 0.73,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "9b9348454ec34180": {
+   "imp": 2.25,
+   "ai": 0.95,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "a3f479fef463c6d5": {
+   "imp": 1.13,
+   "ai": 0.12,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "a37b855b5679c25b": {
+   "imp": 0.63,
+   "ai": 0.35,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "661881aa29c7939f": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "35393f645f4c3c8e": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "460fdd4e83ff13f7": {
+   "imp": 0.35,
+   "ai": 0.09,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "44d67391a96f2235": {
+   "imp": 0.23,
+   "ai": 0.06,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "d707e44c94e3ad76": {
+   "imp": 0.23,
+   "ai": 0.09,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "caf76f6c58ad3069": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "4e7ccdec73d4fba2": {
+   "imp": 0.88,
+   "ai": 0.18,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "8fdb1f1be6852037": {
+   "imp": 0.24,
+   "ai": 0.08,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "f1c316cc089c3902": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "5a3fe5436e753d9a": {
+   "imp": 0.15,
+   "ai": 0.01,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "3d264e412ef8bea4": {
+   "imp": 0.92,
+   "ai": 0.26,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "099a7c9ed32fcabf": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "f0806e0e684fe37f": {
+   "imp": 0.55,
+   "ai": 0.09,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "23bc669b284cb0ef": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "31d09c1dd91afb06": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T10:37:22.508699+00:00"
   }
  }
 }
