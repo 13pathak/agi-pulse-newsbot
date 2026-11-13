@@ -1705,13 +1705,16 @@
   "71f35087caf18cb8": "2026-11-13T03:37:32.343574+00:00",
   "72e8d0ce832e2fa5": "2026-11-13T03:37:32.343574+00:00",
   "d1dc0ea91b809207": "2026-11-13T03:37:32.343574+00:00",
-  "b8c9bab20708b534": "2026-11-13T03:37:32.343574+00:00"
+  "b8c9bab20708b534": "2026-11-13T03:37:32.343574+00:00",
+  "b67a9547ab8b60e2": "2026-11-13T04:07:21.377149+00:00",
+  "f107febddc27ef2c": "2026-11-13T04:07:21.377149+00:00",
+  "4b7d84206fbc37b6": "2026-11-13T04:07:21.377149+00:00",
+  "ffab10612b28e7d0": "2026-11-13T04:07:21.377149+00:00",
+  "2cb4b06fb0b585b4": "2026-11-13T04:07:21.377149+00:00",
+  "e2590def19e5932c": "2026-11-13T04:07:21.377149+00:00",
+  "55c10e3370c708ea": "2026-11-13T04:07:21.377149+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI acquires AI travel planning platform Odessia",
-   "ts": "2026-11-11T04:07:21.533896+00:00"
-  },
   {
    "headline": "Anthropic discloses 10 billion dollars in new cloud commitments",
    "ts": "2026-11-11T04:37:22.558678+00:00"
@@ -1935,11 +1938,15 @@
   {
    "headline": "Chinese AI chipmaker SigmaStar plans Hong Kong listing",
    "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  {
+   "headline": "OpenAI safety study analyzes chain-of-thought oversight loss",
+   "ts": "2026-11-13T04:07:21.377149+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3366,34 +3373,6 @@
  },
  "pending": [
   {
-   "id": "55c10e3370c708ea",
-   "item": {
-    "id": "55c10e3370c708ea",
-    "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-    "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not a law of nature but also reflects tradeoffs around capability and cost. The article OpenAI’s data s…",
-    "published": "2026-11-12T16:58:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI safety study analyzes chain-of-thought oversight loss",
-   "post": "An OpenAI safety study found frontier models increasingly conceal their reasoning due to training trade-offs for capability and cost. The analysis identified four drivers of oversight loss, including architecture choices and reinforcement learning.",
-   "editor_note": "Verify whether OpenAI published this as a full paper or blog post, and check specific model versions analyzed.",
-   "support": 0.89,
-   "published_at": "2026-11-12T16:58:11+00:00",
-   "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
-   "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 7.54707,
-   "selection_reason": "Editorial importance; waiting 10.5h",
-   "decision": 2.06
-  },
-  {
    "id": "98f5d9925889e020",
    "item": {
     "id": "98f5d9925889e020",
@@ -3419,8 +3398,37 @@
    "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
    "expires_at": "2026-11-14T14:10:06+00:00",
    "decision": 1.4,
-   "priority": 7.488591,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.505846,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "c2547d2542c220ad",
+   "item": {
+    "id": "c2547d2542c220ad",
+    "title": "灵睿智芯完成数亿元Pre-A+轮融资，产业资本密集押注",
+    "url": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成数亿元Pre-A+轮融资。本轮融资由美团战投领投，京东关联基金、干杯基金、力合算芯基金（东方算芯CVC）、钧犀资本、商汤国香资本、尚颀资本（上汽CVC）、深信服科技的产业投资基金琥珀资本等头部产业资本和众多老股东跟投。至此，这家2025年初才成立的企业，累计融资金额已接近十亿元。 灵睿智芯创始人、董事长兼总经理刘洋表示，本轮融资将主要用于加速智能体CPU内核和芯片产品的的研发迭代与流片验证。 据了解，灵睿智芯服务器级、智能体CPU内核P100拥有国内唯一的动态同时多线程（SMT4）技术，单核最高支持4线程，并可在SMT1至SMT4之间动态切换，将I/O等待间隙转化为有效算力；配合超20级深度乱序流水线和8译码10发射超宽架构，在单核响应与多任务并发之间取得适配各种智能体负载的高效平衡。 雷峰网雷峰网",
+    "published": "2026-11-13T01:52:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Lingrui Zhixin raises hundreds of millions in Pre-A+ round",
+   "post": "Shanghai-based Lingrui Zhixin raised several hundred million yuan in a Pre-A+ funding round led by Meituan's strategic venture arm, bringing its total financing to nearly one billion yuan since early 2025.",
+   "editor_note": "Verify if the total funding figure of nearly one billion yuan includes this round and prior investments.",
+   "support": 0.97,
+   "published_at": "2026-11-13T01:52:00+00:00",
+   "first_seen_at": "2026-11-13T04:07:21.377149+00:00",
+   "expires_at": "2026-11-14T13:52:00+00:00",
+   "decision": 1.56,
+   "priority": 7.457335,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3445,8 +3453,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.366101,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.352296,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3485,8 +3493,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.194201,
-   "selection_reason": "Editorial importance; waiting 10.5h",
+   "priority": 7.214907,
+   "selection_reason": "Editorial importance; waiting 11.0h",
    "decision": 1.84
   },
   {
@@ -3514,8 +3522,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 6.970426,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.991133,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3542,8 +3550,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.962233,
-   "selection_reason": "Editorial importance; waiting 63.0h"
+   "priority": 6.957056,
+   "selection_reason": "Editorial importance; waiting 63.5h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3570,8 +3578,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.909182,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.929888,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3599,7 +3607,7 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 6.899195,
+   "priority": 6.91645,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3640,8 +3648,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.637521,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.658228,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [],
@@ -3706,12 +3714,13 @@
   "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00",
   "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html": "2026-11-13T02:38:08.836413+00:00",
   "https://36kr.com/p/4067548192576389?f=rss": "2026-11-13T03:08:18.080975+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": "2026-11-13T03:38:18.776346+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": "2026-11-13T03:38:18.776346+00:00",
+  "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": "2026-11-13T04:09:20.181440+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
   "32933935200c2839": {
@@ -5498,6 +5507,96 @@
    "imp": 0.08,
    "ai": 0.03,
    "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "b67a9547ab8b60e2": {
+   "imp": 2.48,
+   "ai": 0.9,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "f107febddc27ef2c": {
+   "imp": 2.28,
+   "ai": 0.94,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "2cb4b06fb0b585b4": {
+   "imp": 0.86,
+   "ai": 0.31,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "e2590def19e5932c": {
+   "imp": 0.67,
+   "ai": 0.25,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "c2547d2542c220ad": {
+   "imp": 1.56,
+   "ai": 0.96,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "ffab10612b28e7d0": {
+   "imp": 1.48,
+   "ai": 0.95,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "4b7d84206fbc37b6": {
+   "imp": 2.25,
+   "ai": 0.87,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "4b878c130abb648e": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "e04de70243616252": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "83d24d0e3bfa5629": {
+   "imp": 0.37,
+   "ai": 0.1,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "d3f4bf2ec15563e4": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "619e69c950880905": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "92be1fb7aa3d567c": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "7ff9afe97ba8005b": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "631bdc31caca0e4a": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "66cfce1ca7856d47": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "9a8eaafe9665ec1a": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
+  },
+  "61ed92cc9262c224": {
+   "imp": 1.83,
+   "ai": 0.35,
+   "ts": "2026-11-13T04:07:21.377149+00:00"
   }
  }
 }
