@@ -1619,13 +1619,48 @@
   "b9523f8187fa60d5": "2026-11-13T01:07:24.343628+00:00",
   "472966db1225e4ef": "2026-11-13T01:07:24.343628+00:00",
   "dcc6a3862c0e34d9": "2026-11-13T01:07:24.343628+00:00",
-  "09ddc5c37fef9833": "2026-11-13T01:07:24.343628+00:00"
+  "09ddc5c37fef9833": "2026-11-13T01:07:24.343628+00:00",
+  "cb86ca9a5a41005e": "2026-11-13T01:37:22.632963+00:00",
+  "c8c5dc29297d2e3d": "2026-11-13T01:37:22.632963+00:00",
+  "55c82808e34dc93d": "2026-11-13T01:37:22.632963+00:00",
+  "af86e61fe4ce47cc": "2026-11-13T01:37:22.632963+00:00",
+  "3903c89c61e50edc": "2026-11-13T01:37:22.632963+00:00",
+  "96ecb0d7004865d1": "2026-11-13T01:37:22.632963+00:00",
+  "39669d2d6e5c60c1": "2026-11-13T01:37:22.632963+00:00",
+  "1473b27afe9e2e21": "2026-11-13T01:37:22.632963+00:00",
+  "860631918f65ec73": "2026-11-13T01:37:22.632963+00:00",
+  "86fdf0954cc3c31a": "2026-11-13T01:37:22.632963+00:00",
+  "b5b1e8f149e47936": "2026-11-13T01:37:22.632963+00:00",
+  "73736854192c70e5": "2026-11-13T01:37:22.632963+00:00",
+  "d7090ffe324cd52f": "2026-11-13T01:37:22.632963+00:00",
+  "4213b9afeff9a7e6": "2026-11-13T01:37:22.632963+00:00",
+  "7061f07c1bf28910": "2026-11-13T01:37:22.632963+00:00",
+  "484503c1e22b4073": "2026-11-13T01:37:22.632963+00:00",
+  "5c8a7e2ce9e472f4": "2026-11-13T01:37:22.632963+00:00",
+  "e1047eb6c971032c": "2026-11-13T01:37:22.632963+00:00",
+  "a8b643eb64fbed24": "2026-11-13T01:37:22.632963+00:00",
+  "c8f0355be83c6230": "2026-11-13T01:37:22.632963+00:00",
+  "fc0f425d4885ad33": "2026-11-13T01:37:22.632963+00:00",
+  "8d17049a8b3cbd55": "2026-11-13T01:37:22.632963+00:00",
+  "54870133dd92d7d7": "2026-11-13T01:37:22.632963+00:00",
+  "99fc1b1648d4d4c6": "2026-11-13T01:37:22.632963+00:00",
+  "ffce7db4127cd4d8": "2026-11-13T01:37:22.632963+00:00",
+  "28f618273b47e60b": "2026-11-13T01:37:22.632963+00:00",
+  "1d5bf5c310515265": "2026-11-13T01:37:22.632963+00:00",
+  "564a7b5e35d6d5dc": "2026-11-13T01:37:22.632963+00:00",
+  "6b6531993c1a1870": "2026-11-13T01:37:22.632963+00:00",
+  "1cee8f9d3f505b5c": "2026-11-13T01:37:22.632963+00:00",
+  "ce66f14179283fa2": "2026-11-13T01:37:22.632963+00:00",
+  "4e5f050a8025acc5": "2026-11-13T01:37:22.632963+00:00",
+  "fddd91688ce47808": "2026-11-13T01:37:22.632963+00:00",
+  "a8d5fa7d24b3647f": "2026-11-13T01:37:22.632963+00:00",
+  "ad614f81e42f72e5": "2026-11-13T01:37:22.632963+00:00",
+  "a67e1509e9c05d5d": "2026-11-13T01:37:22.632963+00:00",
+  "3403360ccc1df753": "2026-11-13T01:37:22.632963+00:00",
+  "4d9244537a2033a7": "2026-11-13T01:37:22.632963+00:00",
+  "875637b2c34d1326": "2026-11-13T01:37:22.632963+00:00"
  },
  "covered": [
-  {
-   "headline": "Goldman Sachs projects Anthropic 2030 revenue",
-   "ts": "2026-11-11T01:37:20.323883+00:00"
-  },
   {
    "headline": "Google Cloud launches Gemini for healthcare workflows",
    "ts": "2026-11-11T02:07:25.142064+00:00"
@@ -1849,11 +1884,15 @@
   {
    "headline": "Nvidia CEO Jensen Huang resigns amid investigations",
    "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  {
+   "headline": "Google releases Gemini 4 Hydrogen model globally",
+   "ts": "2026-11-13T01:37:22.632963+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3280,95 +3319,6 @@
  },
  "pending": [
   {
-   "id": "a8d5fa7d24b3647f",
-   "item": {
-    "id": "a8d5fa7d24b3647f",
-    "title": "Introducing Gemini 4 Hydrogen",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "source": "Google DeepMind",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-    "snippet": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
-    "published": "2026-11-12T18:00:50+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "ad614f81e42f72e5",
-     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-     "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-     "source": "Google AI Blog",
-     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-     "snippet": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-     "published": "2026-11-12T18:00:00+00:00",
-     "images": true,
-     "category": "primary",
-     "source_cap": 4
-    },
-    {
-     "id": "a67e1509e9c05d5d",
-     "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-     "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-     "source": "Ars Technica",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-     "snippet": "Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen's purpose is clear: It replaces the faster, more economical Flash models most people in Google's ecosystem use. With Google's recent Argon and Carbon releases, the rollout was staged and began with cybersecurity research…",
-     "published": "2026-11-12T19:23:03+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "3403360ccc1df753",
-     "title": "Google’s new Gemini model is better at understanding complicated questions",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-     "source": "The Verge",
-     "image": "",
-     "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
-     "published": "2026-11-12T21:55:32+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "4d9244537a2033a7",
-     "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-     "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google's Gemini 4 Hydrogen outscores the bigger Argon j…",
-     "published": "2026-11-12T19:58:43+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "875637b2c34d1326",
-     "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-     "published": "2026-11-12T19:27:45+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 9,
-   "urgency": "timely",
-   "headline": "Google releases Gemini 4 Hydrogen model globally",
-   "post": "Google has released Gemini 4 Hydrogen, a new model designed for agentic workflows and complex multi-part queries. The model is rolling out globally in Google Search, the Gemini app, and developer tiers.",
-   "editor_note": "Verify Gemini 4 Hydrogen pricing and specific availability across developer tiers before posting.",
-   "support": 0.72,
-   "published_at": "2026-11-12T18:00:00+00:00",
-   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
-   "expires_at": "2026-11-14T18:00:00+00:00",
-   "decision": 2.42,
-   "priority": 9.658262,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "f98f612fda85d6f2",
    "item": {
     "id": "f98f612fda85d6f2",
@@ -3391,8 +3341,8 @@
    "published_at": "2026-11-12T14:50:17+00:00",
    "first_seen_at": "2026-11-12T16:37:22.826379+00:00",
    "expires_at": "2026-11-14T02:50:17+00:00",
-   "priority": 7.745572,
-   "selection_reason": "Time-sensitive story; waiting 8.5h"
+   "priority": 7.762916,
+   "selection_reason": "Time-sensitive story; waiting 9.0h"
   },
   {
    "id": "642026de4eb8cc0c",
@@ -3419,7 +3369,7 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T10:48:26+00:00",
    "decision": 1.89,
-   "priority": 7.565661,
+   "priority": 7.583006,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3446,8 +3396,8 @@
    "published_at": "2026-11-12T16:58:11+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 7.460188,
-   "selection_reason": "Editorial importance; waiting 8.0h",
+   "priority": 7.477532,
+   "selection_reason": "Editorial importance; waiting 8.5h",
    "decision": 2.06
   },
   {
@@ -3473,8 +3423,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.373116,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.390461,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3513,8 +3463,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.089941,
-   "selection_reason": "Editorial importance; waiting 8.0h",
+   "priority": 7.110755,
+   "selection_reason": "Editorial importance; waiting 8.5h",
    "decision": 1.84
   },
   {
@@ -3542,8 +3492,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.988298,
-   "selection_reason": "Editorial importance; waiting 60.5h"
+   "priority": 6.983094,
+   "selection_reason": "Editorial importance; waiting 61.0h"
   },
   {
    "id": "ec886a92fa12a05a",
@@ -3570,7 +3520,7 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 6.866167,
+   "priority": 6.886981,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3598,7 +3548,7 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.804923,
+   "priority": 6.825736,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3639,7 +3589,7 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.533262,
+   "priority": 6.554075,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -3700,11 +3650,12 @@
   "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal": "2026-11-12T14:38:02.388631+00:00",
   "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00",
   "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents": "2026-11-13T01:08:58.806600+00:00",
-  "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00"
+  "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00",
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
-  "count": 0,
+  "count": 1,
   "takes": 2
  },
  "triage": {
@@ -4907,6 +4858,326 @@
    "imp": 0.19,
    "ai": 0.05,
    "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "ce66f14179283fa2": {
+   "imp": 0.68,
+   "ai": 0.46,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "1d5bf5c310515265": {
+   "imp": 1.14,
+   "ai": 0.88,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "4e5f050a8025acc5": {
+   "imp": 0.27,
+   "ai": 0.63,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "73736854192c70e5": {
+   "imp": 1.3,
+   "ai": 0.56,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "fcb6861266d9721c": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "184ffb741dbf1058": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "c385dd2c126dff5e": {
+   "imp": 1.0,
+   "ai": 0.18,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "86ce35e2a96afd64": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "67367449f26384d0": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "4a2108350b441eb0": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "d3cb434486f28345": {
+   "imp": 0.26,
+   "ai": 0.11,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "742942d3987e1c0b": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "b5ae6a1d15392a8b": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "1fe2bf1acf3621c1": {
+   "imp": 1.11,
+   "ai": 0.62,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "c663ec5f1720c61b": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "5d1a105918ce9186": {
+   "imp": 0.54,
+   "ai": 0.31,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2bec6a52c6adecca": {
+   "imp": 0.23,
+   "ai": 0.07,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "3c59bf2a97bf60e7": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2e1acb02187c8cc5": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "7ce01fbf896577a2": {
+   "imp": 0.93,
+   "ai": 0.62,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "bd00f03175b96299": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "be1491acda8eeadb": {
+   "imp": 0.65,
+   "ai": 0.49,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "d041d1ccc020ccee": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "f41a6b70442aa940": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2425543f8181c85e": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "155a857ec3f7cb46": {
+   "imp": 0.5,
+   "ai": 0.11,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "7dce85c8730cc1fa": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "1356a7dd59accbbb": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "5b0d730868cebffe": {
+   "imp": 0.15,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "b6809731ebaf508b": {
+   "imp": 0.95,
+   "ai": 0.32,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "f58e5d29282a4b35": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "a70408bd5091c4cf": {
+   "imp": 0.59,
+   "ai": 0.14,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "7a3840d2fab4e4c9": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "e9621a64697d42a8": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "e314c3e1eaeb96b5": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "50253c0aa198bfe3": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2cfbeee14f857e3e": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "eab134ae3f003da8": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "27da65ab27e80abd": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2e7944609b5f244c": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2160f8cde6e01cf2": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "0bfb879e83d02c77": {
+   "imp": 0.64,
+   "ai": 0.29,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "4848b30887429698": {
+   "imp": 0.36,
+   "ai": 0.14,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "860faefa3f2d25a2": {
+   "imp": 0.26,
+   "ai": 0.17,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "366292dd15a3902c": {
+   "imp": 0.31,
+   "ai": 0.13,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "514720c0fa509c0f": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "841c01cc1dce14a3": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "a8273c05c7151fee": {
+   "imp": 0.29,
+   "ai": 0.13,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "40b3469495104d52": {
+   "imp": 1.09,
+   "ai": 0.36,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "da3e075c83dfa676": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "e6c668dcd9845817": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "413f955ea0dace25": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "865e7e22c5df554c": {
+   "imp": 0.71,
+   "ai": 0.1,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "5662c8dd70c06112": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "4519d17553c60ba4": {
+   "imp": 0.61,
+   "ai": 0.13,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "ecdde4cd312d1f6a": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "4124ffddb814a4f1": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "bacb569d2d8d563d": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "de293adb8e2eb299": {
+   "imp": 0.26,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "8a11b25b3189a54d": {
+   "imp": 0.17,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "2a39fda91564e8f4": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "888549e2425e7aed": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "13248b22d6f4f440": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "78e31b38a7bbe61f": {
+   "imp": 0.25,
+   "ai": 0.08,
+   "ts": "2026-11-13T01:37:22.632963+00:00"
   }
  }
 }
