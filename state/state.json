@@ -1720,13 +1720,22 @@
   "d794618846b5d57d": "2026-11-13T05:07:21.522060+00:00",
   "32a21ea96f917110": "2026-11-13T05:07:21.522060+00:00",
   "4e437135c956e244": "2026-11-13T05:07:21.522060+00:00",
-  "e273a90290d43b01": "2026-11-13T05:07:21.522060+00:00"
+  "e273a90290d43b01": "2026-11-13T05:07:21.522060+00:00",
+  "adda4b497c1c647c": "2026-11-13T05:37:30.240695+00:00",
+  "ae3f9a42dec380fe": "2026-11-13T05:37:30.240695+00:00",
+  "dcffbd6f25b8e4ce": "2026-11-13T05:37:30.240695+00:00",
+  "6921b99e0673af86": "2026-11-13T05:37:30.240695+00:00",
+  "4326a5ac0e7c900d": "2026-11-13T05:37:30.240695+00:00",
+  "c2aabc9572b545c6": "2026-11-13T05:37:30.240695+00:00",
+  "55cb8bbe4ac43b62": "2026-11-13T05:37:30.240695+00:00",
+  "94704d8dcfa44339": "2026-11-13T05:37:30.240695+00:00",
+  "6780fb45b0c1fd84": "2026-11-13T05:37:30.240695+00:00",
+  "caaa35c99dce2b9b": "2026-11-13T05:37:30.240695+00:00",
+  "5c945bdc0233d739": "2026-11-13T05:37:30.240695+00:00",
+  "5b03ad4fc66b34de": "2026-11-13T05:37:30.240695+00:00",
+  "c2547d2542c220ad": "2026-11-13T05:37:30.240695+00:00"
  },
  "covered": [
-  {
-   "headline": "TSMC approves up to 1 billion dollar investment in Anthropic and OpenAI",
-   "ts": "2026-11-11T05:37:21.063136+00:00"
-  },
   {
    "headline": "Froncort receives Google.org funding for Indian screening",
    "ts": "2026-11-11T06:07:21.490074+00:00"
@@ -1950,11 +1959,15 @@
   {
    "headline": "Desible.ai raises Rs 32 crore",
    "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  {
+   "headline": "Lingrui Zhixin raises hundreds of millions in Pre-A+ round",
+   "ts": "2026-11-13T05:37:30.240695+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3381,35 +3394,6 @@
  },
  "pending": [
   {
-   "id": "c2547d2542c220ad",
-   "item": {
-    "id": "c2547d2542c220ad",
-    "title": "灵睿智芯完成数亿元Pre-A+轮融资，产业资本密集押注",
-    "url": "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成数亿元Pre-A+轮融资。本轮融资由美团战投领投，京东关联基金、干杯基金、力合算芯基金（东方算芯CVC）、钧犀资本、商汤国香资本、尚颀资本（上汽CVC）、深信服科技的产业投资基金琥珀资本等头部产业资本和众多老股东跟投。至此，这家2025年初才成立的企业，累计融资金额已接近十亿元。 灵睿智芯创始人、董事长兼总经理刘洋表示，本轮融资将主要用于加速智能体CPU内核和芯片产品的的研发迭代与流片验证。 据了解，灵睿智芯服务器级、智能体CPU内核P100拥有国内唯一的动态同时多线程（SMT4）技术，单核最高支持4线程，并可在SMT1至SMT4之间动态切换，将I/O等待间隙转化为有效算力；配合超20级深度乱序流水线和8译码10发射超宽架构，在单核响应与多任务并发之间取得适配各种智能体负载的高效平衡。 雷峰网雷峰网",
-    "published": "2026-11-13T01:52:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Lingrui Zhixin raises hundreds of millions in Pre-A+ round",
-   "post": "Shanghai-based Lingrui Zhixin raised several hundred million yuan in a Pre-A+ funding round led by Meituan's strategic venture arm, bringing its total financing to nearly one billion yuan since early 2025.",
-   "editor_note": "Verify if the total funding figure of nearly one billion yuan includes this round and prior investments.",
-   "support": 0.97,
-   "published_at": "2026-11-13T01:52:00+00:00",
-   "first_seen_at": "2026-11-13T04:07:21.377149+00:00",
-   "expires_at": "2026-11-14T13:52:00+00:00",
-   "decision": 1.56,
-   "priority": 7.492059,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "06552fbaf1ca878c",
    "item": {
     "id": "06552fbaf1ca878c",
@@ -3432,8 +3416,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.324518,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.310561,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3472,8 +3456,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.256575,
-   "selection_reason": "Editorial importance; waiting 12.0h",
+   "priority": 7.246144,
+   "selection_reason": "Editorial importance; waiting 12.5h",
    "decision": 1.84
   },
   {
@@ -3501,8 +3485,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 7.032801,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.053735,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3529,8 +3513,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.971557,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.992491,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3558,8 +3542,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 6.951174,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.968619,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3586,8 +3570,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.946639,
-   "selection_reason": "Editorial importance; waiting 64.5h"
+   "priority": 6.941406,
+   "selection_reason": "Editorial importance; waiting 65.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3627,8 +3611,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.699896,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.72083,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ],
  "details_queue": [],
@@ -3696,12 +3680,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": "2026-11-13T03:38:18.776346+00:00",
   "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": "2026-11-13T04:09:20.181440+00:00",
   "https://36kr.com/newsflashes/4067554198770564?f=rss": "2026-11-13T04:38:09.638610+00:00",
-  "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00"
+  "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00",
+  "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
   "32933935200c2839": {
@@ -5678,6 +5663,121 @@
    "imp": 0.15,
    "ai": 0.03,
    "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "5b03ad4fc66b34de": {
+   "imp": 0.26,
+   "ai": null,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "94704d8dcfa44339": {
+   "imp": 2.27,
+   "ai": 0.9,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "5c945bdc0233d739": {
+   "imp": 0.57,
+   "ai": 0.23,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "80a3e1466591637e": {
+   "imp": 1.11,
+   "ai": 0.85,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "4256f9a0e16d7e83": {
+   "imp": 0.98,
+   "ai": 0.89,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "caaa35c99dce2b9b": {
+   "imp": 1.85,
+   "ai": 0.94,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "d33b693afccdb9c0": {
+   "imp": 0.76,
+   "ai": 0.66,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "adda4b497c1c647c": {
+   "imp": 2.65,
+   "ai": 0.9,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "4326a5ac0e7c900d": {
+   "imp": 1.97,
+   "ai": 0.5,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "ae3f9a42dec380fe": {
+   "imp": 2.37,
+   "ai": 0.62,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "55cb8bbe4ac43b62": {
+   "imp": 0.89,
+   "ai": 0.42,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "6921b99e0673af86": {
+   "imp": 2.05,
+   "ai": 0.9,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "dcffbd6f25b8e4ce": {
+   "imp": 2.2,
+   "ai": 0.95,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "6780fb45b0c1fd84": {
+   "imp": 1.13,
+   "ai": 0.26,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "c2aabc9572b545c6": {
+   "imp": 1.59,
+   "ai": 0.94,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "46b2efc452223177": {
+   "imp": 1.03,
+   "ai": 0.16,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "d38257668545a7e9": {
+   "imp": 0.38,
+   "ai": 0.09,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "2c035888b8c77bd7": {
+   "imp": 1.19,
+   "ai": 0.88,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "795e5a68d88d6cc9": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "455577f2b3373ba5": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "69c89831c7078d74": {
+   "imp": 0.25,
+   "ai": 0.06,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "c99ed9712e0cac0e": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "312d45e289dc9bce": {
+   "imp": 0.24,
+   "ai": 0.04,
+   "ts": "2026-11-13T05:37:30.240695+00:00"
   }
  }
 }
