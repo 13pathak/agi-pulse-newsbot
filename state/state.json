@@ -1568,13 +1568,60 @@
   "9e67a4e79ad8928e": "2026-11-12T17:07:23.605760+00:00",
   "ca80552a275a9336": "2026-11-12T17:07:23.605760+00:00",
   "8badbe29a09323a1": "2026-11-12T17:07:23.605760+00:00",
-  "fcaa5a11eb2249d0": "2026-11-12T17:07:23.605760+00:00"
+  "fcaa5a11eb2249d0": "2026-11-12T17:07:23.605760+00:00",
+  "296c4d8438776ee2": "2026-11-13T01:07:24.343628+00:00",
+  "cc554af1af51239e": "2026-11-13T01:07:24.343628+00:00",
+  "a88bddb17214a029": "2026-11-13T01:07:24.343628+00:00",
+  "5b0f73df89a6e310": "2026-11-13T01:07:24.343628+00:00",
+  "05f1e3cef6173c85": "2026-11-13T01:07:24.343628+00:00",
+  "90d79223706ea3ab": "2026-11-13T01:07:24.343628+00:00",
+  "08bf69a226db6a3e": "2026-11-13T01:07:24.343628+00:00",
+  "7ca0fec9fce8c54e": "2026-11-13T01:07:24.343628+00:00",
+  "9f0b516152c12ca0": "2026-11-13T01:07:24.343628+00:00",
+  "d1b4a114799fe3c5": "2026-11-13T01:07:24.343628+00:00",
+  "81bcb5c122b27570": "2026-11-13T01:07:24.343628+00:00",
+  "757b78ff49801829": "2026-11-13T01:07:24.343628+00:00",
+  "1bc71044618e4e68": "2026-11-13T01:07:24.343628+00:00",
+  "e94b957965237b81": "2026-11-13T01:07:24.343628+00:00",
+  "3b869b1138e3a082": "2026-11-13T01:07:24.343628+00:00",
+  "573f99d9a84503e6": "2026-11-13T01:07:24.343628+00:00",
+  "8f73ef70a010f02b": "2026-11-13T01:07:24.343628+00:00",
+  "45b6309038794b93": "2026-11-13T01:07:24.343628+00:00",
+  "d545fdc617b9aefd": "2026-11-13T01:07:24.343628+00:00",
+  "7898c60f7b7ca9b2": "2026-11-13T01:07:24.343628+00:00",
+  "2225d2572d74c611": "2026-11-13T01:07:24.343628+00:00",
+  "932c4e0c545706dc": "2026-11-13T01:07:24.343628+00:00",
+  "0d3ca999f192c802": "2026-11-13T01:07:24.343628+00:00",
+  "2f41e43f638f55f5": "2026-11-13T01:07:24.343628+00:00",
+  "917201068ee816e1": "2026-11-13T01:07:24.343628+00:00",
+  "612401c52da0f6c9": "2026-11-13T01:07:24.343628+00:00",
+  "009ee185716782c0": "2026-11-13T01:07:24.343628+00:00",
+  "4e2810e47ea31ac4": "2026-11-13T01:07:24.343628+00:00",
+  "c258cbe85444e52c": "2026-11-13T01:07:24.343628+00:00",
+  "015c7999f22912f5": "2026-11-13T01:07:24.343628+00:00",
+  "213455771f2f796d": "2026-11-13T01:07:24.343628+00:00",
+  "cf8487d746b197f8": "2026-11-13T01:07:24.343628+00:00",
+  "7e974c010eef03d3": "2026-11-13T01:07:24.343628+00:00",
+  "c96368c31afcbd2b": "2026-11-13T01:07:24.343628+00:00",
+  "69cd15cf9b5b415e": "2026-11-13T01:07:24.343628+00:00",
+  "eca8a0a2b39e18f8": "2026-11-13T01:07:24.343628+00:00",
+  "f46b17bdb27d07e8": "2026-11-13T01:07:24.343628+00:00",
+  "6eff6376874dc0bd": "2026-11-13T01:07:24.343628+00:00",
+  "92467d3f16d5f88c": "2026-11-13T01:07:24.343628+00:00",
+  "96892311de09e14b": "2026-11-13T01:07:24.343628+00:00",
+  "30f2c6ff0af617b5": "2026-11-13T01:07:24.343628+00:00",
+  "299426b57f035bea": "2026-11-13T01:07:24.343628+00:00",
+  "277433e2ade18b7d": "2026-11-13T01:07:24.343628+00:00",
+  "939d9d8d8aae0fc5": "2026-11-13T01:07:24.343628+00:00",
+  "21b2303c71d92874": "2026-11-13T01:07:24.343628+00:00",
+  "58deace3ef1c5948": "2026-11-13T01:07:24.343628+00:00",
+  "1525d94728858b36": "2026-11-13T01:07:24.343628+00:00",
+  "b9523f8187fa60d5": "2026-11-13T01:07:24.343628+00:00",
+  "472966db1225e4ef": "2026-11-13T01:07:24.343628+00:00",
+  "dcc6a3862c0e34d9": "2026-11-13T01:07:24.343628+00:00",
+  "09ddc5c37fef9833": "2026-11-13T01:07:24.343628+00:00"
  },
  "covered": [
-  {
-   "headline": "Eight countries and top AI labs sign Paris declaration on safety",
-   "ts": "2026-11-11T01:07:24.490567+00:00"
-  },
   {
    "headline": "Goldman Sachs projects Anthropic 2030 revenue",
    "ts": "2026-11-11T01:37:20.323883+00:00"
@@ -1798,11 +1845,15 @@
   {
    "headline": "Kutlerri.ai raises 4 million dollars",
    "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  {
+   "headline": "Nvidia CEO Jensen Huang resigns amid investigations",
+   "ts": "2026-11-13T01:07:24.343628+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-12",
-  "count": 28
+  "date": "2026-11-13",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3194,9 +3245,129 @@
    "desc": "老黄出轨认错、再曝婚外恋",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://claude.com/resources/articles/claude-meetings": {
+   "title": "Introducing Claude Meetings, now in beta",
+   "desc": "Add Claude to your video calls to take notes, answer questions, and build docs and whiteboards while your team talks.",
+   "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work": {
+   "title": "Which Claude model is best to use for knowledge work",
+   "desc": "Here's Opus 5.5 compares with Anthropic's other models for daily work.",
+   "image": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work/opengraph-image/og",
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+   "title": "Introducing Gemini 4 Hydrogen",
+   "desc": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+   "published": "2026-11-12T18:00:00+00:00"
+  },
+  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "desc": "A Blog post by IBM Granite on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+   "published": "2026-11-12T19:07:35.672000+00:00",
+   "excerpt": "LLMs rely on their context to generate the next set of tokens. Over a long trajectory, the context fills with numerous types of components: a system prompt, past conversation turns, instructions that act on retrieved documents, tool responses or user data, requirements constraining the allowed output, and reasoning chains. The context carries a rich structure, most of which is either implicit to the model or encoded in formats such as JSON that were not designed to be digested by LLMs. This is one of the main reasons LLMs, particularly those on the smaller end of the scale, are brittle and sometimes fail in unexpected ways. The lack of explicit structure can also be exploited by attackers, for example, in the form of prompt injections. To address this, we developed LLMON (LLM Object Notati…"
+  },
+  "https://openai.com/business/customer-stories/gondola": {
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "desc": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2gyH3WDalGtGbAK3JBzNl2/29480242d3537e70529f699d9662e99c/Gondola-Option-A-SEO-1920x1080.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-10T00:00:00+00:00"
   }
  },
  "pending": [
+  {
+   "id": "a8d5fa7d24b3647f",
+   "item": {
+    "id": "a8d5fa7d24b3647f",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "Google DeepMind",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+    "snippet": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+    "published": "2026-11-12T18:00:50+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [
+    {
+     "id": "ad614f81e42f72e5",
+     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+     "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+     "source": "Google AI Blog",
+     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+     "snippet": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+     "published": "2026-11-12T18:00:00+00:00",
+     "images": true,
+     "category": "primary",
+     "source_cap": 4
+    },
+    {
+     "id": "a67e1509e9c05d5d",
+     "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+     "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+     "source": "Ars Technica",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+     "snippet": "Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen's purpose is clear: It replaces the faster, more economical Flash models most people in Google's ecosystem use. With Google's recent Argon and Carbon releases, the rollout was staged and began with cybersecurity research…",
+     "published": "2026-11-12T19:23:03+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "3403360ccc1df753",
+     "title": "Google’s new Gemini model is better at understanding complicated questions",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+     "published": "2026-11-12T21:55:32+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "4d9244537a2033a7",
+     "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+     "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+     "source": "The Decoder",
+     "image": "",
+     "snippet": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google's Gemini 4 Hydrogen outscores the bigger Argon j…",
+     "published": "2026-11-12T19:58:43+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "875637b2c34d1326",
+     "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+     "published": "2026-11-12T19:27:45+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 9,
+   "urgency": "timely",
+   "headline": "Google releases Gemini 4 Hydrogen model globally",
+   "post": "Google has released Gemini 4 Hydrogen, a new model designed for agentic workflows and complex multi-part queries. The model is rolling out globally in Google Search, the Gemini app, and developer tiers.",
+   "editor_note": "Verify Gemini 4 Hydrogen pricing and specific availability across developer tiers before posting.",
+   "support": 0.72,
+   "published_at": "2026-11-12T18:00:00+00:00",
+   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
+   "expires_at": "2026-11-14T18:00:00+00:00",
+   "decision": 2.42,
+   "priority": 9.658262,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "f98f612fda85d6f2",
    "item": {
@@ -3220,62 +3391,36 @@
    "published_at": "2026-11-12T14:50:17+00:00",
    "first_seen_at": "2026-11-12T16:37:22.826379+00:00",
    "expires_at": "2026-11-14T02:50:17+00:00",
-   "priority": 7.467787,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.745572,
+   "selection_reason": "Time-sensitive story; waiting 8.5h"
   },
   {
-   "id": "06552fbaf1ca878c",
+   "id": "642026de4eb8cc0c",
    "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
+    "id": "642026de4eb8cc0c",
+    "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    "source": "CNBC",
     "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
+    "snippet": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "published": "2026-11-12T22:48:26+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.095331,
-   "selection_reason": "Editorial importance; waiting 3.0h"
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.071633,
-   "selection_reason": "Editorial importance; waiting 52.5h"
+   "urgency": "timely",
+   "headline": "Cerebras reports quarterly revenue and Microsoft deal",
+   "post": "Cerebras reported a 17% surge following quarterly revenue results that beat expectations and the announcement of a new partnership agreement with Microsoft.",
+   "editor_note": "Check the specific financial figures reported in the quarterly results alongside the Microsoft agreement.",
+   "support": 0.86,
+   "published_at": "2026-11-12T22:48:26+00:00",
+   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
+   "expires_at": "2026-11-14T10:48:26+00:00",
+   "decision": 1.89,
+   "priority": 7.565661,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "55c10e3370c708ea",
@@ -3301,64 +3446,35 @@
    "published_at": "2026-11-12T16:58:11+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 6.995736,
-   "selection_reason": "Editorial importance"
+   "priority": 7.460188,
+   "selection_reason": "Editorial importance; waiting 8.0h",
+   "decision": 2.06
   },
   {
-   "id": "296c4d8438776ee2",
+   "id": "06552fbaf1ca878c",
    "item": {
-    "id": "296c4d8438776ee2",
-    "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
-    "url": "https://arxiv.org/abs/2611.08175",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Upvotes: 30. Abstract: Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent, a multimodal PCB routing agent inspired by how human engineers coordinate global strategy with local execution. A Global Routing Planner combines board images and structured electrical and geometric information to specify connection topology, routing order, corridors, and layer transitions. A Detailed Routing Executor realizes these guides through KiCad's native routing engine and performs bounded local recovery. Unresolved failures are returned as structured feedback, enabling targeted guide revisions while preserving accepted routes. We evaluate PCBRouteAgent on 247 synthetic and real-world boards from four PCBWorld-Bench test splits. It achieves clean-pass rates of 100%, 94.9%, 100%, and 40% on D2, D3-A, D3-B, and D3-C, respectively. On the three real-world subsets, PCBRouteAgent outperforms the best evaluated baseline in clean-pass rate by 13.9, 36, and 10 percentage points, respectively.",
-    "published": "2026-11-09T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.08175.png",
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
     "images": true,
-    "category": "paper",
-    "source_cap": 4
+    "category": "news",
+    "source_cap": 3
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Researchers introduce PCBRouteAgent for circuit board routing",
-   "post": "Researchers introduced PCBRouteAgent, a multimodal AI agent that coordinates global strategy and local execution for printed circuit board routing.",
-   "editor_note": "Check the evaluation benchmarks used in the paper beyond the synthetic and real-world test splits.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.821633,
-   "selection_reason": "Editorial importance; waiting 62.5h"
-  },
-  {
-   "id": "cc554af1af51239e",
-   "item": {
-    "id": "cc554af1af51239e",
-    "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
-    "url": "https://arxiv.org/abs/2611.06043",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Netease Youdao. Upvotes: 30. Abstract: Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and English audio while freezing its pre-trained audio encoder and projector. The adaptation is based on the concept of Longest Stable Prefix (LSP), a new notion that we introduce in this work. We prove that LSP is monotone under the prefix order, consistent with the full-audio output, and maximal among labels that equal a whole earlier output. Learning from LSP labels converts a full-context model into a stable-prefix streaming one without any architectural change. Extensive evaluations show that R2T2 brings streaming recognition close to the base model's full-context quality while delivering stable text with low emission lag. Its gains extend beyond the post-training languages, demonstrating a practical path from full-context ASR to stable streaming. We open-source the model weights and code at https://huggingface.co/netease-youdao/Confucius4-R2T2 and https://github.com/netease-youdao/Confucius4-R2T2.",
-    "published": "2026-11-09T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.06043.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Netease Youdao releases Confucius4-R2T2 streaming ASR model",
-   "post": "Researchers at Netease Youdao released Confucius4-R2T2, a stable-prefix streaming ASR model trained on 1,500 hours of audio that preserves earlier output without modification.",
-   "editor_note": "Verify the open-source repository and model weight availability on Hugging Face.",
-   "published_at": "2026-11-09T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T02:37:20.673340+00:00",
-   "expires_at": "2026-11-13T00:00:00+00:00",
-   "priority": 6.821633,
-   "selection_reason": "Editorial importance; waiting 62.5h"
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 7.373116,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3397,21 +3513,137 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.643266,
+   "priority": 7.089941,
+   "selection_reason": "Editorial importance; waiting 8.0h",
+   "decision": 1.84
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.988298,
+   "selection_reason": "Editorial importance; waiting 60.5h"
+  },
+  {
+   "id": "ec886a92fa12a05a",
+   "item": {
+    "id": "ec886a92fa12a05a",
+    "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+    "source": "AWS AI",
+    "image": "",
+    "snippet": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+    "published": "2026-11-12T22:03:34+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "AWS releases SGLang-Neuron for Trainium instances",
+   "post": "AWS has made SGLang-Neuron publicly available via a deep learning container, enabling model serving and reinforcement learning rollouts on Trainium using native PyTorch interfaces.",
+   "editor_note": "Confirm supported instance types and PyTorch version requirements for SGLang-Neuron.",
+   "support": 0.95,
+   "published_at": "2026-11-12T22:03:34+00:00",
+   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
+   "expires_at": "2026-11-14T22:03:34+00:00",
+   "decision": 1.29,
+   "priority": 6.866167,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "85bacafff42444d7",
+   "item": {
+    "id": "85bacafff42444d7",
+    "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+    "source": "AWS AI",
+    "image": "",
+    "snippet": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
+    "published": "2026-11-12T17:59:59+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "AWS releases next-generation AgentCore runtime",
+   "post": "Amazon Web Services has launched the next-generation Bedrock AgentCore runtime, featuring hardware-isolated sessions, faster start times, usage-based billing, and data-level isolation for multi-step AI agents.",
+   "editor_note": "Verify regional availability and pricing tiers for the new AgentCore runtime on Bedrock.",
+   "support": 0.87,
+   "published_at": "2026-11-12T17:59:59+00:00",
+   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
+   "expires_at": "2026-11-14T17:59:59+00:00",
+   "decision": 1.36,
+   "priority": 6.804923,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "21ab7432dba474e0",
+   "item": {
+    "id": "21ab7432dba474e0",
+    "title": "Introducing Claude Meetings, now in beta",
+    "url": "https://claude.com/resources/articles/claude-meetings",
+    "source": "Claude Product Updates",
+    "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
+    "snippet": "Add Claude to your video calls to take notes, answer questions, and build docs and whiteboards while your team talks.",
+    "published": "2026-11-12T00:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "c88537f3a56d1457",
+     "title": "Claude Meetings lets Anthropic's AI join your video calls",
+     "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+     "source": "The Decoder",
+     "image": "",
+     "snippet": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder .",
+     "published": "2026-11-12T20:26:50+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude Meetings beta for video calls",
+   "post": "Anthropic has introduced Claude Meetings in beta, allowing users to add the AI assistant to Google Meet sessions to generate real-time notes, documents, and whiteboards.",
+   "editor_note": "Check which video call platforms beyond Google Meet are supported in the beta release.",
+   "support": 0.67,
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "decision": 1.67,
+   "priority": 6.533262,
    "selection_reason": "Editorial importance"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents",
-   "source": "YourStory",
-   "kind": "takes",
-   "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
-   "summary": "Founded by former HighRadius executives Kiran Rana and Payal Tripathy, Kutlerri.ai charges restaurants a percentage of the revenue its AI agents generate or the costs they save.",
-   "queued_at": "2026-11-12T17:07:23.605760+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -3466,12 +3698,14 @@
   "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": "2026-11-12T13:07:56.949623+00:00",
   "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal": "2026-11-12T14:38:02.388631+00:00",
-  "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00"
+  "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00",
+  "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents": "2026-11-13T01:08:58.806600+00:00",
+  "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 0,
-  "takes": 0
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -4073,6 +4307,606 @@
    "imp": 0.15,
    "ai": 0.04,
    "ts": "2026-11-12T17:07:23.605760+00:00"
+  },
+  "39669d2d6e5c60c1": {
+   "imp": 1.86,
+   "ai": 0.91,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "cf8487d746b197f8": {
+   "imp": 2.48,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "2225d2572d74c611": {
+   "imp": 2.86,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "939d9d8d8aae0fc5": {
+   "imp": 2.25,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "54870133dd92d7d7": {
+   "imp": 1.28,
+   "ai": 0.55,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "dcc6a3862c0e34d9": {
+   "imp": 0.72,
+   "ai": 0.88,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "8f73ef70a010f02b": {
+   "imp": 1.57,
+   "ai": 0.91,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "fddd91688ce47808": {
+   "imp": 0.31,
+   "ai": 0.48,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "09ddc5c37fef9833": {
+   "imp": 0.61,
+   "ai": 0.86,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "277433e2ade18b7d": {
+   "imp": 1.77,
+   "ai": 0.85,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "3403360ccc1df753": {
+   "imp": 2.28,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "3b869b1138e3a082": {
+   "imp": 1.16,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "d545fdc617b9aefd": {
+   "imp": 0.26,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "96892311de09e14b": {
+   "imp": 1.9,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "4e2810e47ea31ac4": {
+   "imp": 2.31,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "82d9be95873a98db": {
+   "imp": 1.28,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "fc0f425d4885ad33": {
+   "imp": 1.76,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "92467d3f16d5f88c": {
+   "imp": 2.27,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "875637b2c34d1326": {
+   "imp": 2.26,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "d3c21aad125298df": {
+   "imp": 1.41,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "3903c89c61e50edc": {
+   "imp": 2.19,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "5c8a7e2ce9e472f4": {
+   "imp": 2.06,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "322f998ba4d6dbd2": {
+   "imp": 1.67,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "d1b4a114799fe3c5": {
+   "imp": 1.99,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "e94b957965237b81": {
+   "imp": 1.62,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "b5b1e8f149e47936": {
+   "imp": 1.46,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "a67e1509e9c05d5d": {
+   "imp": 2.37,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "81bcb5c122b27570": {
+   "imp": 1.7,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "b9523f8187fa60d5": {
+   "imp": 1.94,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "860631918f65ec73": {
+   "imp": 1.78,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "6b6531993c1a1870": {
+   "imp": 0.84,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "f46b17bdb27d07e8": {
+   "imp": 2.34,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "ffce7db4127cd4d8": {
+   "imp": 1.23,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "612401c52da0f6c9": {
+   "imp": 2.6,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "c88537f3a56d1457": {
+   "imp": 1.67,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "4d9244537a2033a7": {
+   "imp": 2.21,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "6eff6376874dc0bd": {
+   "imp": 2.52,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "009ee185716782c0": {
+   "imp": 2.61,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "c96368c31afcbd2b": {
+   "imp": 2.56,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "58deace3ef1c5948": {
+   "imp": 2.59,
+   "ai": 0.94,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "6f7ba87cad700bc3": {
+   "imp": 1.74,
+   "ai": 0.95,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "71f35087caf18cb8": {
+   "imp": 1.16,
+   "ai": 0.43,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "fbfd861083374789": {
+   "imp": 1.52,
+   "ai": 0.69,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "a8b643eb64fbed24": {
+   "imp": 2.06,
+   "ai": 0.97,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "79c16b53a36c2763": {
+   "imp": 1.33,
+   "ai": 0.73,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "b90cea4a1abbbfe6": {
+   "imp": 1.84,
+   "ai": 0.96,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "932c4e0c545706dc": {
+   "imp": 2.73,
+   "ai": 0.95,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "c7ec460d59c7cc18": {
+   "imp": 1.44,
+   "ai": 0.8,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "55c82808e34dc93d": {
+   "imp": 2.24,
+   "ai": 0.9,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "8f26722d3a932fa4": {
+   "imp": 1.93,
+   "ai": 0.89,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "45b6309038794b93": {
+   "imp": 0.43,
+   "ai": 0.53,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "7061f07c1bf28910": {
+   "imp": 2.18,
+   "ai": 0.94,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "7898c60f7b7ca9b2": {
+   "imp": 2.76,
+   "ai": 0.92,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "7e974c010eef03d3": {
+   "imp": 2.3,
+   "ai": 0.91,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "96ecb0d7004865d1": {
+   "imp": 2.03,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "e1047eb6c971032c": {
+   "imp": 1.95,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "8d17049a8b3cbd55": {
+   "imp": 1.84,
+   "ai": 0.86,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "21b2303c71d92874": {
+   "imp": 2.24,
+   "ai": 0.95,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "63198f51e4193ee6": {
+   "imp": 1.26,
+   "ai": 0.84,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "213455771f2f796d": {
+   "imp": 2.02,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1473b27afe9e2e21": {
+   "imp": 1.79,
+   "ai": 0.9,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "99fc1b1648d4d4c6": {
+   "imp": 1.54,
+   "ai": 0.92,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "299426b57f035bea": {
+   "imp": 2.0,
+   "ai": 0.88,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "564a7b5e35d6d5dc": {
+   "imp": 1.46,
+   "ai": 0.88,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "ca82d66df2f2d887": {
+   "imp": 1.53,
+   "ai": 0.69,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "472966db1225e4ef": {
+   "imp": 1.7,
+   "ai": 0.78,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1cee8f9d3f505b5c": {
+   "imp": 0.84,
+   "ai": 0.6,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "c258cbe85444e52c": {
+   "imp": 2.34,
+   "ai": 0.85,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "28f618273b47e60b": {
+   "imp": 0.9,
+   "ai": 0.71,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "30f2c6ff0af617b5": {
+   "imp": 1.96,
+   "ai": 0.89,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "86fdf0954cc3c31a": {
+   "imp": 1.68,
+   "ai": 0.94,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1525d94728858b36": {
+   "imp": 2.28,
+   "ai": 0.92,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "9bab9cc4033ad7ed": {
+   "imp": 1.61,
+   "ai": 0.93,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "eca8a0a2b39e18f8": {
+   "imp": 2.39,
+   "ai": 0.92,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "2f41e43f638f55f5": {
+   "imp": 2.62,
+   "ai": 0.89,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "484503c1e22b4073": {
+   "imp": 2.08,
+   "ai": 0.77,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "af86e61fe4ce47cc": {
+   "imp": 2.16,
+   "ai": 0.96,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "c8f0355be83c6230": {
+   "imp": 1.74,
+   "ai": 0.96,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "015c7999f22912f5": {
+   "imp": 2.25,
+   "ai": 0.68,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "573f99d9a84503e6": {
+   "imp": 1.38,
+   "ai": 0.86,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "d7090ffe324cd52f": {
+   "imp": 1.32,
+   "ai": 0.89,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "757b78ff49801829": {
+   "imp": 1.62,
+   "ai": 0.91,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "3b41e4bb2fab8630": {
+   "imp": 1.11,
+   "ai": 0.56,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "ea1e386c86108287": {
+   "imp": 0.77,
+   "ai": 0.81,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1bc71044618e4e68": {
+   "imp": 1.42,
+   "ai": 0.85,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "69cd15cf9b5b415e": {
+   "imp": 2.28,
+   "ai": 0.81,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "0d3ca999f192c802": {
+   "imp": 2.7,
+   "ai": 0.91,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "5b0f73df89a6e310": {
+   "imp": 0.83,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "90d79223706ea3ab": {
+   "imp": 0.63,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "a8d5fa7d24b3647f": {
+   "imp": 2.42,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "ad614f81e42f72e5": {
+   "imp": 2.37,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "a88bddb17214a029": {
+   "imp": 1.25,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "9f0b516152c12ca0": {
+   "imp": 1.45,
+   "ai": 0.96,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "21ab7432dba474e0": {
+   "imp": 1.66,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "05f1e3cef6173c85": {
+   "imp": 1.11,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "08bf69a226db6a3e": {
+   "imp": 0.35,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "ec886a92fa12a05a": {
+   "imp": 1.29,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "cb86ca9a5a41005e": {
+   "imp": 1.12,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "e9b2308e4ac312d9": {
+   "imp": 0.9,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "c8c5dc29297d2e3d": {
+   "imp": 1.06,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "4e46e49750fb65fe": {
+   "imp": 1.07,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "83054ecb029e1c53": {
+   "imp": 0.86,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "85bacafff42444d7": {
+   "imp": 1.36,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "7ca0fec9fce8c54e": {
+   "imp": 1.47,
+   "ai": null,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "917201068ee816e1": {
+   "imp": 2.61,
+   "ai": 0.96,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "89a9e0787008d2a2": {
+   "imp": 0.7,
+   "ai": 0.16,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1dd8f2cf95ac6547": {
+   "imp": 0.22,
+   "ai": 0.35,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1fc75bf672a29fb9": {
+   "imp": 1.04,
+   "ai": 0.68,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "fba0097cc359f8b6": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "06a699fa5ce9b0b3": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "0ec957af4a42a969": {
+   "imp": 0.22,
+   "ai": 0.07,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "f4059a9375b608ad": {
+   "imp": 1.31,
+   "ai": 0.34,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "7d2193d80fc41cdc": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "4e27b3821dd11593": {
+   "imp": 0.27,
+   "ai": 0.06,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "1f91ff92de3f0640": {
+   "imp": 0.27,
+   "ai": 0.05,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "642026de4eb8cc0c": {
+   "imp": 1.89,
+   "ai": 0.77,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "d29d43d990e24726": {
+   "imp": 0.4,
+   "ai": 0.13,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "eb63d82c8694274c": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "24372cf4e5e1258b": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
+  },
+  "7149d9ce5bd53c93": {
+   "imp": 0.19,
+   "ai": 0.05,
+   "ts": "2026-11-13T01:07:24.343628+00:00"
   }
  }
 }
