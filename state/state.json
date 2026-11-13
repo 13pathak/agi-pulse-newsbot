@@ -1776,13 +1776,20 @@
   "c7d14863ab6cf77a": "2026-11-13T08:07:23.832592+00:00",
   "7387f5f0d57fa092": "2026-11-13T08:07:23.832592+00:00",
   "cac1e20ff384d73e": "2026-11-13T08:07:23.832592+00:00",
-  "adc4551161f2fe73": "2026-11-13T08:37:20.813754+00:00"
+  "adc4551161f2fe73": "2026-11-13T08:37:20.813754+00:00",
+  "cafe4a03e39dc550": "2026-11-13T09:07:22.927374+00:00",
+  "1a7caf61dab36232": "2026-11-13T09:07:22.927374+00:00",
+  "1cefe2d071f9aa76": "2026-11-13T09:07:22.927374+00:00",
+  "f0adc5a4e17fbd23": "2026-11-13T09:07:22.927374+00:00",
+  "64e34cc7adf07b5b": "2026-11-13T09:07:22.927374+00:00",
+  "77bf4ba9c6e4ac0a": "2026-11-13T09:07:22.927374+00:00",
+  "926b1b7cc2cb7571": "2026-11-13T09:07:22.927374+00:00",
+  "0239886cb34ab7e1": "2026-11-13T09:07:22.927374+00:00",
+  "10c45432b5ce2038": "2026-11-13T09:07:22.927374+00:00",
+  "2446a8a75538f3c3": "2026-11-13T09:07:22.927374+00:00",
+  "fb8776473e77bf42": "2026-11-13T09:07:22.927374+00:00"
  },
  "covered": [
-  {
-   "headline": "Nobel laureate validates OpenAI proof on Yang-Mills problem",
-   "ts": "2026-11-11T09:07:24.243812+00:00"
-  },
   {
    "headline": "NHA selects EkaCare for AI voice scribe",
    "ts": "2026-11-11T09:37:22.199163+00:00"
@@ -2002,11 +2009,15 @@
   {
    "headline": "Frammer AI launches AI live sports highlights platform",
    "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  {
+   "headline": "Tencent Hunyuan releases Hy Realtime voice model",
+   "ts": "2026-11-13T09:07:22.927374+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3429,6 +3440,24 @@
    "desc": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/2gyH3WDalGtGbAK3JBzNl2/29480242d3537e70529f699d9662e99c/Gondola-Option-A-SEO-1920x1080.png?w=1600&h=900&fit=fill",
    "published": "2026-11-10T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/509663.html": {
+   "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+   "desc": "数据不出域、本地可部署",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509576.html": {
+   "title": "国产大模型又杀出一匹黑马，引发硅谷关注！",
+   "desc": "中国大模型黑马杀进头部梯队",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509653.html": {
+   "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+   "desc": "想要什么功能，让Agent自己开发",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -3455,8 +3484,64 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.227301,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.213396,
+   "selection_reason": "Editorial importance; waiting 19.0h"
+  },
+  {
+   "id": "ec886a92fa12a05a",
+   "item": {
+    "id": "ec886a92fa12a05a",
+    "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+    "source": "AWS AI",
+    "image": "",
+    "snippet": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+    "published": "2026-11-12T22:03:34+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "AWS releases SGLang-Neuron for Trainium instances",
+   "post": "AWS has made SGLang-Neuron publicly available via a deep learning container, enabling model serving and reinforcement learning rollouts on Trainium using native PyTorch interfaces.",
+   "editor_note": "Confirm supported instance types and PyTorch version requirements for SGLang-Neuron.",
+   "support": 0.95,
+   "published_at": "2026-11-12T22:03:34+00:00",
+   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
+   "expires_at": "2026-11-14T22:03:34+00:00",
+   "decision": 1.29,
+   "priority": 7.199484,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "294c246e7e16ea99",
+   "item": {
+    "id": "294c246e7e16ea99",
+    "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/5ca40b4c-5e88-47e8-81d1-c7acecc10e77_ae0edc39.jpg?itok=4P3fF_Ck&v=1794548432",
+    "snippet": "China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next two years. The bullish forecast comes as scrutiny over former Nvidia CEO Jensen Huang threatens to intensify Washington’s curbs on Chinese access to advanced American processors – a shift that could acc…",
+    "published": "2026-11-13T05:55:56+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SMIC forecasts AI computing crunch to continue until 2028",
+   "post": "SMIC forecasts that global data center expansion will keep artificial intelligence computing power in short supply until 2028, as regulatory scrutiny surrounding Nvidia heightens risks of tighter curbs on advanced processors.",
+   "editor_note": "Verify SMIC's 2028 timeline forecast for the AI computing shortage and attribution of tighter processor curbs.",
+   "support": 0.57,
+   "published_at": "2026-11-13T05:55:56+00:00",
+   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
+   "expires_at": "2026-11-14T17:55:56+00:00",
+   "decision": 1.83,
+   "priority": 7.177493,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3495,65 +3580,9 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.183699,
-   "selection_reason": "Editorial importance; waiting 15.5h",
+   "priority": 7.17327,
+   "selection_reason": "Editorial importance; waiting 16.0h",
    "decision": 1.84
-  },
-  {
-   "id": "ec886a92fa12a05a",
-   "item": {
-    "id": "ec886a92fa12a05a",
-    "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
-    "source": "AWS AI",
-    "image": "",
-    "snippet": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
-    "published": "2026-11-12T22:03:34+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "AWS releases SGLang-Neuron for Trainium instances",
-   "post": "AWS has made SGLang-Neuron publicly available via a deep learning container, enabling model serving and reinforcement learning rollouts on Trainium using native PyTorch interfaces.",
-   "editor_note": "Confirm supported instance types and PyTorch version requirements for SGLang-Neuron.",
-   "support": 0.95,
-   "published_at": "2026-11-12T22:03:34+00:00",
-   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
-   "expires_at": "2026-11-14T22:03:34+00:00",
-   "decision": 1.29,
-   "priority": 7.178626,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "294c246e7e16ea99",
-   "item": {
-    "id": "294c246e7e16ea99",
-    "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/5ca40b4c-5e88-47e8-81d1-c7acecc10e77_ae0edc39.jpg?itok=4P3fF_Ck&v=1794548432",
-    "snippet": "China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next two years. The bullish forecast comes as scrutiny over former Nvidia CEO Jensen Huang threatens to intensify Washington’s curbs on Chinese access to advanced American processors – a shift that could acc…",
-    "published": "2026-11-13T05:55:56+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "SMIC forecasts AI computing crunch to continue until 2028",
-   "post": "SMIC forecasts that global data center expansion will keep artificial intelligence computing power in short supply until 2028, as regulatory scrutiny surrounding Nvidia heightens risks of tighter curbs on advanced processors.",
-   "editor_note": "Verify SMIC's 2028 timeline forecast for the AI computing shortage and attribution of tighter processor curbs.",
-   "support": 0.57,
-   "published_at": "2026-11-13T05:55:56+00:00",
-   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
-   "expires_at": "2026-11-14T17:55:56+00:00",
-   "decision": 1.83,
-   "priority": 7.160111,
-   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3580,8 +3609,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 7.117382,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.13824,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3609,8 +3638,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.072695,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.090076,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3639,8 +3668,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.965022,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.991095,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3667,8 +3696,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.910183,
-   "selection_reason": "Editorial importance; waiting 68.0h"
+   "priority": 6.904968,
+   "selection_reason": "Editorial importance; waiting 68.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3708,8 +3737,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.845721,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 6.866579,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   }
  ],
  "details_queue": [],
@@ -3782,12 +3811,13 @@
   "https://36kr.com/newsflashes/4067761515730049?f=rss": "2026-11-13T06:37:56.829334+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video": "2026-11-13T07:38:01.980210+00:00",
   "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms": "2026-11-13T08:08:03.735608+00:00",
-  "https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer": "2026-11-13T08:39:46.781857+00:00"
+  "https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer": "2026-11-13T08:39:46.781857+00:00",
+  "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
   "32933935200c2839": {
@@ -6429,6 +6459,161 @@
    "imp": 0.94,
    "ai": 0.23,
    "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "10c45432b5ce2038": {
+   "imp": 0.95,
+   "ai": 0.82,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "1cefe2d071f9aa76": {
+   "imp": 2.18,
+   "ai": 0.81,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "1a7caf61dab36232": {
+   "imp": 2.2,
+   "ai": 0.76,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "aa189383f7bd2657": {
+   "imp": 1.35,
+   "ai": 0.86,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "0239886cb34ab7e1": {
+   "imp": 1.66,
+   "ai": 0.97,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "03a1e051274dd4de": {
+   "imp": 1.25,
+   "ai": 0.93,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "926b1b7cc2cb7571": {
+   "imp": 1.97,
+   "ai": 0.68,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "f0adc5a4e17fbd23": {
+   "imp": 2.25,
+   "ai": 0.96,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "cafe4a03e39dc550": {
+   "imp": 1.36,
+   "ai": null,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "5efc21343ba3b2b7": {
+   "imp": 0.82,
+   "ai": 0.08,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "77bf4ba9c6e4ac0a": {
+   "imp": 0.9,
+   "ai": 0.76,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "c59fedced1bf9447": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "b3d9608ba330d53a": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "b50eaa8ed2dcd727": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "64e34cc7adf07b5b": {
+   "imp": 1.66,
+   "ai": 0.98,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "2446a8a75538f3c3": {
+   "imp": 1.6,
+   "ai": 0.97,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "4db1f53c2cd9b841": {
+   "imp": 0.37,
+   "ai": 0.1,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "ea705325da6c1d2f": {
+   "imp": 1.56,
+   "ai": 0.85,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "2f8b4dbcd10dc5d8": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "cb2493d1e6a636b1": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "c2a7df509e6dfc10": {
+   "imp": 0.37,
+   "ai": 0.1,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "c734ad96ccbc7713": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "0f1ce4296e203406": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "b299626be20da054": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "fb8776473e77bf42": {
+   "imp": 1.76,
+   "ai": 0.99,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "cb9e4d5f1ab1da50": {
+   "imp": 0.09,
+   "ai": 0.06,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "ca52532ec14cb4b1": {
+   "imp": 0.12,
+   "ai": 0.13,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "cc8fda3c73da122c": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "c6b7f959df006132": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "d19051d46d42732f": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
+  },
+  "af7f92261052ad59": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-13T09:07:22.927374+00:00"
   }
  }
 }
