@@ -3575,8 +3575,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.251525,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.277561,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3603,8 +3603,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.190074,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.207432,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3632,8 +3632,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.122057,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.139415,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3658,8 +3658,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.0745,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.060614,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3698,8 +3698,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.069098,
-   "selection_reason": "Editorial importance; waiting 21.0h",
+   "priority": 7.058684,
+   "selection_reason": "Editorial importance; waiting 21.5h",
    "decision": 1.84
   },
   {
@@ -3740,8 +3740,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 7.012431,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.002017,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3769,8 +3769,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.94076,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.958118,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3798,8 +3798,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.883755,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.901113,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3826,8 +3826,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.852882,
-   "selection_reason": "Editorial importance; waiting 73.5h"
+   "priority": 6.847675,
+   "selection_reason": "Editorial importance; waiting 74.0h"
   }
  ],
  "details_queue": [],
@@ -7882,6 +7882,31 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "a56d58a76890099c": {
+   "imp": 0.45,
+   "ai": 0.12,
+   "ts": "2026-11-13T14:37:23.462956+00:00"
+  },
+  "6a871c620f2c6814": {
+   "imp": 1.1,
+   "ai": 0.97,
+   "ts": "2026-11-13T14:37:23.462956+00:00"
+  },
+  "8b3d8cd52f6b1a81": {
+   "imp": 0.31,
+   "ai": 0.06,
+   "ts": "2026-11-13T14:37:23.462956+00:00"
+  },
+  "597f731c6f50de5b": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-13T14:37:23.462956+00:00"
+  },
+  "c44898526f010552": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T14:37:23.462956+00:00"
   }
  }
 }
