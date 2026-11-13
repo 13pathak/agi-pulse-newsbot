@@ -1816,13 +1816,20 @@
   "29693579ec4a5ece": "2026-11-13T12:07:26.736390+00:00",
   "ba7a7f1b4a0c75fa": "2026-11-13T12:07:26.736390+00:00",
   "3ac6640ed3ef5afa": "2026-11-13T12:07:26.736390+00:00",
-  "efcf2dc52887de8f": "2026-11-13T12:07:26.736390+00:00"
+  "efcf2dc52887de8f": "2026-11-13T12:07:26.736390+00:00",
+  "3aeaac4b1af622f8": "2026-11-13T12:37:34.922491+00:00",
+  "1cfa2ca498fda23d": "2026-11-13T12:37:34.922491+00:00",
+  "f18bd3913d1857d7": "2026-11-13T12:37:34.922491+00:00",
+  "69b43a95305bbe20": "2026-11-13T12:37:34.922491+00:00",
+  "bc8944b17cc0d1d4": "2026-11-13T12:37:34.922491+00:00",
+  "e7b4d074d37b80a9": "2026-11-13T12:37:34.922491+00:00",
+  "5f64e7eed892a640": "2026-11-13T12:37:34.922491+00:00",
+  "6fcee31fcfd3f5b2": "2026-11-13T12:37:34.922491+00:00",
+  "23546ebf32cb0cc7": "2026-11-13T12:37:34.922491+00:00",
+  "93cbdb4aad9f5ee1": "2026-11-13T12:37:34.922491+00:00",
+  "4907eb362d1d1eb1": "2026-11-13T12:37:34.922491+00:00"
  },
  "covered": [
-  {
-   "headline": "ByteDance plans AI assistant launch to rival US labs",
-   "ts": "2026-11-11T12:37:23.503234+00:00"
-  },
   {
    "headline": "ChatGPT Go tier offered to users in India",
    "ts": "2026-11-11T13:07:23.466854+00:00"
@@ -2042,11 +2049,15 @@
   {
    "headline": "Adobe and Google expand artificial intelligence partnership",
    "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  {
+   "headline": "ReNew pledges ₹80,000 crore for green data center in India",
+   "ts": "2026-11-13T12:37:34.922491+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3516,8 +3527,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.19428,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.21172,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3546,34 +3557,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.1474,
-   "selection_reason": "Editorial importance; waiting 5.5h"
-  },
-  {
-   "id": "06552fbaf1ca878c",
-   "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.130033,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.17356,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3600,8 +3585,34 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.120658,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.138098,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "06552fbaf1ca878c",
+   "item": {
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 7.116081,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3640,8 +3651,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.110748,
-   "selection_reason": "Editorial importance; waiting 19.0h",
+   "priority": 7.100284,
+   "selection_reason": "Editorial importance; waiting 19.5h",
    "decision": 1.84
   },
   {
@@ -3670,8 +3681,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.052641,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.070081,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3711,36 +3722,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.991623,
-   "selection_reason": "Editorial importance; waiting 11.0h"
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.873707,
-   "selection_reason": "Editorial importance; waiting 71.5h"
+   "priority": 7.012551,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3768,8 +3751,36 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.871344,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.888784,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.868475,
+   "selection_reason": "Editorial importance; waiting 72.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3797,8 +3808,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.814339,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.831779,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -3878,12 +3889,13 @@
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
   "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
   "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
-  "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00"
+  "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00",
+  "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
   "32933935200c2839": {
@@ -7505,6 +7517,136 @@
    "imp": 0.16,
    "ai": 0.05,
    "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "6fcee31fcfd3f5b2": {
+   "imp": 1.25,
+   "ai": 0.84,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "69b43a95305bbe20": {
+   "imp": 1.92,
+   "ai": null,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "1cfa2ca498fda23d": {
+   "imp": 2.11,
+   "ai": 0.86,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "23546ebf32cb0cc7": {
+   "imp": 2.25,
+   "ai": 0.92,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "3aeaac4b1af622f8": {
+   "imp": 2.59,
+   "ai": 0.94,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "93cbdb4aad9f5ee1": {
+   "imp": 1.0,
+   "ai": 0.47,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "4907eb362d1d1eb1": {
+   "imp": 2.34,
+   "ai": 0.83,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "f18bd3913d1857d7": {
+   "imp": 2.09,
+   "ai": 0.93,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "bc8944b17cc0d1d4": {
+   "imp": 1.32,
+   "ai": 0.94,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "fa6597bd549833bd": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "33b89bf27fec6e12": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "6434b6a7082ba202": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "b39868f82030e9ae": {
+   "imp": 0.33,
+   "ai": 0.06,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "21ecf0d17eae3186": {
+   "imp": 0.48,
+   "ai": 0.11,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "5f64e7eed892a640": {
+   "imp": 1.2,
+   "ai": 0.79,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "8a3162fc57e0acc3": {
+   "imp": 0.21,
+   "ai": 0.07,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "bf3a9acb5add04e1": {
+   "imp": 0.85,
+   "ai": 0.32,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "622756a0baad807c": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "402802b21a16162a": {
+   "imp": 0.23,
+   "ai": 0.09,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "fbb26b3e2c28bd5f": {
+   "imp": 0.32,
+   "ai": 0.08,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "792679ab60c2774b": {
+   "imp": 0.2,
+   "ai": 0.1,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "138424ddd1ed0949": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "1c6ffee93f4dda86": {
+   "imp": 0.25,
+   "ai": 0.04,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "7488657c1e1018a5": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "622533350e2ae0b1": {
+   "imp": 0.27,
+   "ai": 0.07,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "db15fbcd45402c0a": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-13T12:37:34.922491+00:00"
   }
  }
 }
