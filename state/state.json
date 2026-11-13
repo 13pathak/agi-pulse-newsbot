@@ -1694,13 +1694,20 @@
   "fbfd861083374789": "2026-11-13T03:07:23.017931+00:00",
   "c7ec460d59c7cc18": "2026-11-13T03:07:23.017931+00:00",
   "79c16b53a36c2763": "2026-11-13T03:07:23.017931+00:00",
-  "e74bef3fc4647011": "2026-11-13T03:07:23.017931+00:00"
+  "e74bef3fc4647011": "2026-11-13T03:07:23.017931+00:00",
+  "f8571fcf34a6e708": "2026-11-13T03:37:32.343574+00:00",
+  "597dc3d27b6195ed": "2026-11-13T03:37:32.343574+00:00",
+  "d0cd2a98f1d44297": "2026-11-13T03:37:32.343574+00:00",
+  "985fcfcc8fa8beca": "2026-11-13T03:37:32.343574+00:00",
+  "44dfb324aa3b433b": "2026-11-13T03:37:32.343574+00:00",
+  "e9f52aa13a0677d1": "2026-11-13T03:37:32.343574+00:00",
+  "bdfbc69a6c19cf9a": "2026-11-13T03:37:32.343574+00:00",
+  "71f35087caf18cb8": "2026-11-13T03:37:32.343574+00:00",
+  "72e8d0ce832e2fa5": "2026-11-13T03:37:32.343574+00:00",
+  "d1dc0ea91b809207": "2026-11-13T03:37:32.343574+00:00",
+  "b8c9bab20708b534": "2026-11-13T03:37:32.343574+00:00"
  },
  "covered": [
-  {
-   "headline": "TCS builds agentic test orchestrator on Amazon Bedrock",
-   "ts": "2026-11-11T03:37:22.995445+00:00"
-  },
   {
    "headline": "OpenAI acquires AI travel planning platform Odessia",
    "ts": "2026-11-11T04:07:21.533896+00:00"
@@ -1924,11 +1931,15 @@
   {
    "headline": "Physical AI startup Qingkui Zhizao raises Series A",
    "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  {
+   "headline": "Chinese AI chipmaker SigmaStar plans Hong Kong listing",
+   "ts": "2026-11-13T03:37:32.343574+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3355,48 +3366,6 @@
  },
  "pending": [
   {
-   "id": "d1dc0ea91b809207",
-   "item": {
-    "id": "d1dc0ea91b809207",
-    "title": "China Chipmaker SigmaStar Said to Plan $300 Million HK Listing",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "SigmaStar Technology Ltd., a Chinese artificial intelligence chipmaker, is seeking to raise as much as $300 million in a Hong Kong listing as soon as this year, people familiar with the matter said, as the nation’s technology companies look for an opportune fundraising window.",
-    "published": "2026-11-13T02:11:43+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "b8c9bab20708b534",
-     "title": "Sigmastar据悉计划在香港上市，融资3亿美元",
-     "url": "https://36kr.com/newsflashes/4067561366262658?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "中国芯片制造商Sigmastar（星宸科技）据悉计划在香港上市，融资3亿美元。（新浪财经）",
-     "published": "2026-11-13T02:17:23+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Chinese AI chipmaker SigmaStar plans Hong Kong listing",
-   "post": "Chinese AI chip maker SigmaStar Technology is planning a Hong Kong listing to raise up to $300 million.",
-   "editor_note": "Verify timing and target valuation for the proposed Hong Kong listing.",
-   "support": 0.93,
-   "published_at": "2026-11-13T02:11:43+00:00",
-   "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
-   "expires_at": "2026-11-14T14:11:43+00:00",
-   "decision": 1.7,
-   "priority": 7.571888,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "55c10e3370c708ea",
    "item": {
     "id": "55c10e3370c708ea",
@@ -3420,8 +3389,8 @@
    "published_at": "2026-11-12T16:58:11+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 7.529619,
-   "selection_reason": "Editorial importance; waiting 10.0h",
+   "priority": 7.54707,
+   "selection_reason": "Editorial importance; waiting 10.5h",
    "decision": 2.06
   },
   {
@@ -3450,8 +3419,8 @@
    "first_seen_at": "2026-11-13T02:37:37.820581+00:00",
    "expires_at": "2026-11-14T14:10:06+00:00",
    "decision": 1.4,
-   "priority": 7.471139,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.488591,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3476,8 +3445,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.380062,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.366101,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3516,37 +3485,9 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.173259,
-   "selection_reason": "Editorial importance; waiting 10.0h",
+   "priority": 7.194201,
+   "selection_reason": "Editorial importance; waiting 10.5h",
    "decision": 1.84
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.967468,
-   "selection_reason": "Editorial importance; waiting 62.5h"
   },
   {
    "id": "ec886a92fa12a05a",
@@ -3573,8 +3514,36 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 6.949485,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.970426,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.962233,
+   "selection_reason": "Editorial importance; waiting 63.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3601,8 +3570,37 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.888241,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.909182,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "eedaaf26e82c4f65",
+   "item": {
+    "id": "eedaaf26e82c4f65",
+    "title": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
+    "url": "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作。 当前，具身智能正加速进入产业化发展新阶段，真实场景数据稀缺、模型训练成本高、跨本体能力复用难等问题，成为制约规模化落地的关键挑战。作为全球商用服务机器人领军企业，普渡机器人业务覆盖全球85个国家和地区，服务超5万家终端客户，累计出货超13万台。围绕“一脑多形”技术理念，普渡构建了由机器人本体、通用具身智能体PuduAgent及通用具身基座大模型PuduFM组成的Physical Agent架构，并以具身导航、具身操作、具身交互三大技术栈为支撑，推动专用、类人形及人形机器人的智能能力协同进化。 此次合作，普渡将依托百度百舸AI计算平台，完善算力基础设施。围绕自身具身智能技术布局，普渡将持续开展PuduFM模型训练与迭代，结合全球商业部署积累的真实场景数据，建设高质量数据体系，并推进PuduAgent具身智能体平台能力升级，推动智能能力在不同形态机器人及应用场景中复用。 目前，百度智能云已为70余家具身智能产业链重点企业提供全栈AI云技术支撑。未来，双方将持续深化合作，推动商用服务机器人从“单机智能”迈向“平台化智能”。",
+    "published": "2026-11-13T01:19:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
+   "post": "Baidu Smart Cloud and Pudu Robotics formed a strategic partnership to support PuduFM base model training, scenario data collection, and PuduAgent platform development using Baidukeduo AI computing infrastructure.",
+   "editor_note": "Verify the partnership scope regarding Baidu's infrastructure support for Pudu Robotics' 130,000+ deployed units.",
+   "support": 0.95,
+   "published_at": "2026-11-13T01:19:00+00:00",
+   "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
+   "expires_at": "2026-11-14T13:19:00+00:00",
+   "decision": 1.39,
+   "priority": 6.899195,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3642,8 +3640,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.61658,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.637521,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -3707,12 +3705,13 @@
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00",
   "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00",
   "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html": "2026-11-13T02:38:08.836413+00:00",
-  "https://36kr.com/p/4067548192576389?f=rss": "2026-11-13T03:08:18.080975+00:00"
+  "https://36kr.com/p/4067548192576389?f=rss": "2026-11-13T03:08:18.080975+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": "2026-11-13T03:38:18.776346+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
   "32933935200c2839": {
@@ -5419,6 +5418,86 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-13T03:07:23.017931+00:00"
+  },
+  "bdfbc69a6c19cf9a": {
+   "imp": 1.54,
+   "ai": 0.92,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "985fcfcc8fa8beca": {
+   "imp": 1.57,
+   "ai": 0.77,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "f8571fcf34a6e708": {
+   "imp": 2.67,
+   "ai": 0.95,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "2673c7a6cd5f0fd0": {
+   "imp": 0.39,
+   "ai": 0.07,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "72e8d0ce832e2fa5": {
+   "imp": 0.41,
+   "ai": 0.25,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "e9f52aa13a0677d1": {
+   "imp": 1.37,
+   "ai": 0.54,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "eedaaf26e82c4f65": {
+   "imp": 1.39,
+   "ai": 0.96,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "44dfb324aa3b433b": {
+   "imp": 1.59,
+   "ai": 0.92,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "d0cd2a98f1d44297": {
+   "imp": 1.67,
+   "ai": 0.27,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "597dc3d27b6195ed": {
+   "imp": 2.18,
+   "ai": 0.9,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "bbb158d96dab751f": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "c10e9d5555e04a59": {
+   "imp": 0.36,
+   "ai": 0.14,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "9f8d508cde9fef2d": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "a8a3708b4ed61677": {
+   "imp": 0.29,
+   "ai": 0.05,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "12e98f85f5c0dfaa": {
+   "imp": 1.61,
+   "ai": 0.59,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
+  },
+  "a47e5df9e49e0de9": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-13T03:37:32.343574+00:00"
   }
  }
 }
