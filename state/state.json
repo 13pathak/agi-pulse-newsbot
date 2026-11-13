@@ -1658,13 +1658,24 @@
   "a67e1509e9c05d5d": "2026-11-13T01:37:22.632963+00:00",
   "3403360ccc1df753": "2026-11-13T01:37:22.632963+00:00",
   "4d9244537a2033a7": "2026-11-13T01:37:22.632963+00:00",
-  "875637b2c34d1326": "2026-11-13T01:37:22.632963+00:00"
+  "875637b2c34d1326": "2026-11-13T01:37:22.632963+00:00",
+  "4e46e49750fb65fe": "2026-11-13T02:07:20.260034+00:00",
+  "e9b2308e4ac312d9": "2026-11-13T02:07:20.260034+00:00",
+  "8f26722d3a932fa4": "2026-11-13T02:07:20.260034+00:00",
+  "1cc368635586ea22": "2026-11-13T02:07:20.260034+00:00",
+  "322f998ba4d6dbd2": "2026-11-13T02:07:20.260034+00:00",
+  "9bab9cc4033ad7ed": "2026-11-13T02:07:20.260034+00:00",
+  "ca82d66df2f2d887": "2026-11-13T02:07:20.260034+00:00",
+  "b90cea4a1abbbfe6": "2026-11-13T02:07:20.260034+00:00",
+  "20f5b12d66de6e76": "2026-11-13T02:07:20.260034+00:00",
+  "660711644cdc9dc9": "2026-11-13T02:07:20.260034+00:00",
+  "b091fe4d058b0c6f": "2026-11-13T02:07:20.260034+00:00",
+  "63198f51e4193ee6": "2026-11-13T02:07:20.260034+00:00",
+  "6f7ba87cad700bc3": "2026-11-13T02:07:20.260034+00:00",
+  "d3c21aad125298df": "2026-11-13T02:07:20.260034+00:00",
+  "f98f612fda85d6f2": "2026-11-13T02:07:20.260034+00:00"
  },
  "covered": [
-  {
-   "headline": "Google Cloud launches Gemini for healthcare workflows",
-   "ts": "2026-11-11T02:07:25.142064+00:00"
-  },
   {
    "headline": "OpenAI reports 10 billion dollar Q3 revenue alongside growing losses",
    "ts": "2026-11-11T02:37:21.023674+00:00"
@@ -1888,11 +1899,15 @@
   {
    "headline": "Google releases Gemini 4 Hydrogen model globally",
    "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  {
+   "headline": "Google opens preorders for $395 Gemini smartglasses",
+   "ts": "2026-11-13T02:07:20.260034+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3319,32 +3334,6 @@
  },
  "pending": [
   {
-   "id": "f98f612fda85d6f2",
-   "item": {
-    "id": "f98f612fda85d6f2",
-    "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-    "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
-    "snippet": "Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days . Now, Google is ready to take another swing at \" intelligent eyewear \" for the Gemini era after previewing its plans a couple of times. The first glasses are up for preorder today from G…",
-    "published": "2026-11-12T14:50:17+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google opens preorders for $395 Gemini smartglasses",
-   "post": "Google has opened preorders for its Gemini-powered smartglasses starting at $395. The eyewear integrates Google's Gemini AI capabilities alongside privacy-focused features.",
-   "editor_note": "Verify hardware specifications, full launch dates, and international market availability.",
-   "published_at": "2026-11-12T14:50:17+00:00",
-   "first_seen_at": "2026-11-12T16:37:22.826379+00:00",
-   "expires_at": "2026-11-14T02:50:17+00:00",
-   "priority": 7.762916,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
-  },
-  {
    "id": "642026de4eb8cc0c",
    "item": {
     "id": "642026de4eb8cc0c",
@@ -3369,7 +3358,36 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T10:48:26+00:00",
    "decision": 1.89,
-   "priority": 7.583006,
+   "priority": 7.600344,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "e74bef3fc4647011",
+   "item": {
+    "id": "e74bef3fc4647011",
+    "title": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室",
+    "url": "https://36kr.com/p/4067548192576389?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "图源/企业 本文约 3000 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，面向科学研发的Physical AI公司——青葵智造近日宣布完成亿元A轮融资，由创东方投资、飞荣达股份及金辉大数据共同参与。资金将重点用于核心技术研发、重点行业拓展以及云实验室建设，加速自驱动实验室的产业化落地。 青葵智造成立于2021年，核心业务是面向生物医药、化学工业、先进材料、新能源等领域，提供“AI设计—自动化执行—多模态数据回流—模型自适应迭代”的干湿实验闭环解决方案。公司创始人、董事长陈南江为北航博士，曾任职于北航机械学院，在机器人及智能制造领域有十余年连续创业经验。 近年来，AI4S（AI for Science）正从计算驱动的科学发现，向AI自主实验执行演进。不过，行业内仍面临着“Execution Gap”（执行鸿沟）与“Data Gap”（数据鸿沟）这样的核心痛点，即数字世界中的智能决策，与真实世界中的实验执行尚未充分打通。 “目前不少科学模型仍然依赖公开文献和数据库训练，但公开数据往往存在实验条件记录不完整、失败样本不足等问题。模型可以提出很多假设，但如果缺少真实实验验证和持续的数据反馈，就很难不断提高预测和决策能力。”陈南江向硬氪直言。随着大模型技术的爆发，行业逐渐意识到，没有高质量的结构化湿实验数据，AI在条件筛选与合成层面的能力将遭遇天花板。 基于这一判断，青葵智造选择了一条“软硬一体、干湿闭环”的路线。陈南江将一套完整的自动化实验室解决方案类比为人体：底层是负责物理执行的硬件（双手），中层是负责调度的操作系统（神经系统），顶层是负责实验设计决策的科学大模型（大…",
+    "published": "2026-11-13T02:04:43+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Physical AI startup Qingkui Zhizao raises Series A",
+   "post": "Physical AI startup Qingkui Zhizao raised 100 million yuan in a Series A funding round to develop self-driving laboratories for scientific research.",
+   "editor_note": "Verify the investor names and the specific industry sectors targeted by the automated laboratory platform.",
+   "support": 0.96,
+   "published_at": "2026-11-13T02:04:43+00:00",
+   "first_seen_at": "2026-11-13T02:07:20.260034+00:00",
+   "expires_at": "2026-11-14T14:04:43+00:00",
+   "decision": 1.69,
+   "priority": 7.56212,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3396,8 +3414,8 @@
    "published_at": "2026-11-12T16:58:11+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T04:58:11+00:00",
-   "priority": 7.477532,
-   "selection_reason": "Editorial importance; waiting 8.5h",
+   "priority": 7.49487,
+   "selection_reason": "Editorial importance; waiting 9.0h",
    "decision": 2.06
   },
   {
@@ -3423,8 +3441,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.390461,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.407799,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3463,8 +3481,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.110755,
-   "selection_reason": "Editorial importance; waiting 8.5h",
+   "priority": 7.131561,
+   "selection_reason": "Editorial importance; waiting 9.0h",
    "decision": 1.84
   },
   {
@@ -3492,8 +3510,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.983094,
-   "selection_reason": "Editorial importance; waiting 61.0h"
+   "priority": 6.977893,
+   "selection_reason": "Editorial importance; waiting 61.5h"
   },
   {
    "id": "ec886a92fa12a05a",
@@ -3520,8 +3538,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 6.886981,
-   "selection_reason": "Editorial importance"
+   "priority": 6.907786,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3548,8 +3566,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.825736,
-   "selection_reason": "Editorial importance"
+   "priority": 6.846542,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3589,8 +3607,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.554075,
-   "selection_reason": "Editorial importance"
+   "priority": 6.574881,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -3651,12 +3669,13 @@
   "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00",
   "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents": "2026-11-13T01:08:58.806600+00:00",
   "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00",
-  "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00"
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00",
+  "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
   "32933935200c2839": {
@@ -5178,6 +5197,51 @@
    "imp": 0.25,
    "ai": 0.08,
    "ts": "2026-11-13T01:37:22.632963+00:00"
+  },
+  "1cc368635586ea22": {
+   "imp": 1.69,
+   "ai": 0.84,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "b091fe4d058b0c6f": {
+   "imp": 1.1,
+   "ai": 0.5,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "e74bef3fc4647011": {
+   "imp": 1.69,
+   "ai": 0.96,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "20f5b12d66de6e76": {
+   "imp": 1.46,
+   "ai": 0.75,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "5feb594f77c0300d": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "ce0032c7a11023e9": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "85fc2dcac3728c09": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "9714682e5d537994": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
+  },
+  "105d00ad689b201c": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-13T02:07:20.260034+00:00"
   }
  }
 }
