@@ -1851,10 +1851,6 @@
  },
  "covered": [
   {
-   "headline": "Torus raises $500 million for modular AI data center units",
-   "ts": "2026-11-11T14:07:22.686423+00:00"
-  },
-  {
    "headline": "Google DeepMind releases AlphaGenome 2 for DNA sequence modeling",
    "ts": "2026-11-11T16:07:22.427352+00:00"
   },
@@ -3542,6 +3538,13 @@
    "desc": "12.9 北京，来MEET2027现场",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "desc": "A Blog post by ggml-org on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+   "published": "2026-11-13T14:05:22.744000+00:00",
+   "excerpt": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…"
   }
  },
  "pending": [
@@ -3572,8 +3575,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.225458,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.251525,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3600,8 +3603,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.172697,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.190074,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3629,8 +3632,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.10468,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.122057,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3655,8 +3658,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.088402,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.0745,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3695,8 +3698,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.079525,
-   "selection_reason": "Editorial importance; waiting 20.5h",
+   "priority": 7.069098,
+   "selection_reason": "Editorial importance; waiting 21.0h",
    "decision": 1.84
   },
   {
@@ -3737,8 +3740,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 7.022858,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.012431,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3766,8 +3769,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.923382,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.94076,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3795,8 +3798,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.866378,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.883755,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3823,8 +3826,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.858096,
-   "selection_reason": "Editorial importance; waiting 73.0h"
+   "priority": 6.852882,
+   "selection_reason": "Editorial importance; waiting 73.5h"
   }
  ],
  "details_queue": [],
@@ -7834,6 +7837,51 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-13T13:37:22.130371+00:00"
+  },
+  "e11df0c1a697abd3": {
+   "imp": 2.37,
+   "ai": 0.88,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "cd9d1a105b69dd29": {
+   "imp": 1.73,
+   "ai": null,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "24521c49692e8621": {
+   "imp": 1.48,
+   "ai": 0.88,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "2edbd065f0868506": {
+   "imp": 1.78,
+   "ai": 0.84,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "1411377b7314ed4d": {
+   "imp": 1.56,
+   "ai": 0.6,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "eab418db04646951": {
+   "imp": 1.91,
+   "ai": 0.96,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "ba4fab55ebd338d0": {
+   "imp": 2.24,
+   "ai": 0.94,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "40e78db6601d46e6": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
+  },
+  "7495c20ae3172981": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-13T14:07:23.857730+00:00"
   }
  }
 }
