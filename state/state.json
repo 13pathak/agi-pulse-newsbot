@@ -1800,13 +1800,25 @@
   "ef40ccf4d0154f22": "2026-11-13T11:37:25.465062+00:00",
   "e027394f77e2a2ab": "2026-11-13T11:37:25.465062+00:00",
   "b1f5c004595bf863": "2026-11-13T11:37:25.465062+00:00",
-  "2cf60afac2834da2": "2026-11-13T11:37:25.465062+00:00"
+  "2cf60afac2834da2": "2026-11-13T11:37:25.465062+00:00",
+  "548dc0241fb93c86": "2026-11-13T12:07:26.736390+00:00",
+  "c4b5715bfda23a0e": "2026-11-13T12:07:26.736390+00:00",
+  "8fcb3001e7117556": "2026-11-13T12:07:26.736390+00:00",
+  "30be3a106f431b13": "2026-11-13T12:07:26.736390+00:00",
+  "2af8c10fdf158eb2": "2026-11-13T12:07:26.736390+00:00",
+  "8e8fa33cec469b93": "2026-11-13T12:07:26.736390+00:00",
+  "d9962f7c194b797b": "2026-11-13T12:07:26.736390+00:00",
+  "71dad9da95c2fbfe": "2026-11-13T12:07:26.736390+00:00",
+  "8bc37b438d7cdefb": "2026-11-13T12:07:26.736390+00:00",
+  "2d7db38ea1c92823": "2026-11-13T12:07:26.736390+00:00",
+  "3442c49f321326c3": "2026-11-13T12:07:26.736390+00:00",
+  "19d5ccf10fefa612": "2026-11-13T12:07:26.736390+00:00",
+  "29693579ec4a5ece": "2026-11-13T12:07:26.736390+00:00",
+  "ba7a7f1b4a0c75fa": "2026-11-13T12:07:26.736390+00:00",
+  "3ac6640ed3ef5afa": "2026-11-13T12:07:26.736390+00:00",
+  "efcf2dc52887de8f": "2026-11-13T12:07:26.736390+00:00"
  },
  "covered": [
-  {
-   "headline": "Agibot releases open LIFE embodied intelligence framework",
-   "ts": "2026-11-11T12:07:25.150326+00:00"
-  },
   {
    "headline": "ByteDance plans AI assistant launch to rival US labs",
    "ts": "2026-11-11T12:37:23.503234+00:00"
@@ -2026,11 +2038,15 @@
   {
    "headline": "Jensen Huang resigns as Nvidia CEO amid federal investigations",
    "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  {
+   "headline": "Adobe and Google expand artificial intelligence partnership",
+   "ts": "2026-11-13T12:07:26.736390+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3475,34 +3491,6 @@
  },
  "pending": [
   {
-   "id": "efcf2dc52887de8f",
-   "item": {
-    "id": "efcf2dc52887de8f",
-    "title": "Adobe, Google Expand AI Partnership Across Creative and Productivity Tools",
-    "url": "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools",
-    "source": "Analytics India Magazine",
-    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/ai-news-updates/adobe-unveils-ai-video-innovations-10-million-grants-ahead-of-sundance-film-festival-1769241558816-adobe-1536x864.jpg.w.webp",
-    "snippet": "Adobe and Google have expanded their strategic partnership to integrate Google's artificial intelligence models into Adobe's creative software and extend Adobe's tools across Google's products, including Workspace, Gemini, and Google Search. The collaboration will bring Google's latest image and video models to Adobe Firefly, Photoshop, Premiere, and Express, while integrating Gemini models into A…",
-    "published": "2026-11-13T10:51:59+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Adobe and Google expand artificial intelligence partnership",
-   "post": "Adobe and Google expanded their partnership to integrate Google artificial intelligence models into Adobe creative software and extend Adobe tools across Google products including Workspace and Gemini.",
-   "editor_note": "Check specific product availability timelines in the full release.",
-   "support": 0.96,
-   "published_at": "2026-11-13T10:51:59+00:00",
-   "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
-   "expires_at": "2026-11-14T22:51:59+00:00",
-   "decision": 2.02,
-   "priority": 7.183161,
-   "selection_reason": "Editorial importance"
-  },
-  {
    "id": "eedaaf26e82c4f65",
    "item": {
     "id": "eedaaf26e82c4f65",
@@ -3528,34 +3516,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.176906,
-   "selection_reason": "Editorial importance; waiting 8.0h"
-  },
-  {
-   "id": "06552fbaf1ca878c",
-   "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.143932,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.19428,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3584,8 +3546,62 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.12134,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.1474,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "06552fbaf1ca878c",
+   "item": {
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 7.130033,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "d6d8c69f54f19a5e",
+   "item": {
+    "id": "d6d8c69f54f19a5e",
+    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
+    "published": "2026-11-13T09:33:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "South Korean startup DeepX invests $100 million in Samsung",
+   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
+   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
+   "support": 0.96,
+   "published_at": "2026-11-13T09:33:55+00:00",
+   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
+   "expires_at": "2026-11-14T21:33:55+00:00",
+   "decision": 1.7,
+   "priority": 7.120658,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3624,37 +3640,9 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.121172,
-   "selection_reason": "Editorial importance; waiting 18.5h",
+   "priority": 7.110748,
+   "selection_reason": "Editorial importance; waiting 19.0h",
    "decision": 1.84
-  },
-  {
-   "id": "d6d8c69f54f19a5e",
-   "item": {
-    "id": "d6d8c69f54f19a5e",
-    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
-    "published": "2026-11-13T09:33:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "South Korean startup DeepX invests $100 million in Samsung",
-   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
-   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
-   "support": 0.96,
-   "published_at": "2026-11-13T09:33:55+00:00",
-   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
-   "expires_at": "2026-11-14T21:33:55+00:00",
-   "decision": 1.7,
-   "priority": 7.103284,
-   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3682,8 +3670,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.035267,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.052641,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3723,8 +3711,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.970775,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.991623,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3751,8 +3739,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.878919,
-   "selection_reason": "Editorial importance; waiting 71.0h"
+   "priority": 6.873707,
+   "selection_reason": "Editorial importance; waiting 71.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3780,8 +3768,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.85397,
-   "selection_reason": "Editorial importance"
+   "priority": 6.871344,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3809,8 +3797,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.796965,
-   "selection_reason": "Editorial importance"
+   "priority": 6.814339,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -3889,12 +3877,13 @@
   "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
   "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
-  "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00"
+  "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
+  "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
   "32933935200c2839": {
@@ -7406,6 +7395,116 @@
    "imp": 1.23,
    "ai": 0.24,
    "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "71dad9da95c2fbfe": {
+   "imp": 0.83,
+   "ai": null,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "2af8c10fdf158eb2": {
+   "imp": 1.05,
+   "ai": null,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "19d5ccf10fefa612": {
+   "imp": 1.97,
+   "ai": 0.83,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "8bc37b438d7cdefb": {
+   "imp": 2.11,
+   "ai": 0.89,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "548dc0241fb93c86": {
+   "imp": 2.51,
+   "ai": 0.93,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "2d7db38ea1c92823": {
+   "imp": 1.62,
+   "ai": 0.66,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "c4b5715bfda23a0e": {
+   "imp": 2.19,
+   "ai": 0.91,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "29693579ec4a5ece": {
+   "imp": 1.07,
+   "ai": 0.39,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "d9962f7c194b797b": {
+   "imp": 0.93,
+   "ai": 0.94,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "3ac6640ed3ef5afa": {
+   "imp": 0.58,
+   "ai": 0.3,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "8e8fa33cec469b93": {
+   "imp": 0.98,
+   "ai": 0.73,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "65318f3299b7e538": {
+   "imp": 0.55,
+   "ai": 0.12,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "30be3a106f431b13": {
+   "imp": 1.62,
+   "ai": 0.6,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "4a3894bfa36e6a86": {
+   "imp": 0.15,
+   "ai": 0.08,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "dfd07813b40a8954": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "6375cd068da72995": {
+   "imp": 0.25,
+   "ai": 0.08,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "362fbd985b9b293e": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "e90f7117e67b4b3e": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "277c254ed8905ef3": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "1f4ec7eafadc3a61": {
+   "imp": 0.6,
+   "ai": 0.08,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "7dd81dd74696e1fd": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
+  },
+  "fd8d7f2d89bcf720": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-13T12:07:26.736390+00:00"
   }
  }
 }
