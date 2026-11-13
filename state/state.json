@@ -1772,13 +1772,23 @@
   "e1c0b7be64d8ee03": "2026-11-13T10:37:22.508699+00:00",
   "b0ebb737da27be00": "2026-11-13T10:37:22.508699+00:00",
   "13b9eaa9bf55e0e5": "2026-11-13T10:37:22.508699+00:00",
-  "85bacafff42444d7": "2026-11-13T10:37:22.508699+00:00"
+  "85bacafff42444d7": "2026-11-13T10:37:22.508699+00:00",
+  "cefbc3be34f9ab38": "2026-11-13T11:07:47.605962+00:00",
+  "e74e359305b4dd75": "2026-11-13T11:07:47.605962+00:00",
+  "9469d6fdfcc69aea": "2026-11-13T11:07:47.605962+00:00",
+  "be52da9a4706f9b1": "2026-11-13T11:07:47.605962+00:00",
+  "8a429aeabf43037c": "2026-11-13T11:07:47.605962+00:00",
+  "538eb184e33a3445": "2026-11-13T11:07:47.605962+00:00",
+  "f757f350875f40cc": "2026-11-13T11:07:47.605962+00:00",
+  "a9260ebfaa959636": "2026-11-13T11:07:47.605962+00:00",
+  "ee71d278a1467c41": "2026-11-13T11:07:47.605962+00:00",
+  "3b56eead2522d3ea": "2026-11-13T11:07:47.605962+00:00",
+  "b5bbadfd4ae4cf2f": "2026-11-13T11:07:47.605962+00:00",
+  "547548d8af355aa7": "2026-11-13T11:07:47.605962+00:00",
+  "7a6bfd556855a833": "2026-11-13T11:07:47.605962+00:00",
+  "3e21bf261d77e299": "2026-11-13T11:07:47.605962+00:00"
  },
  "covered": [
-  {
-   "headline": "Google releases November Pixel Drop with Gemini AI features",
-   "ts": "2026-11-11T11:07:23.012607+00:00"
-  },
   {
    "headline": "OpenAI to discontinue standard and advanced ChatGPT voice modes",
    "ts": "2026-11-11T11:37:20.537551+00:00"
@@ -1998,11 +2008,15 @@
   {
    "headline": "AWS releases next-generation AgentCore runtime",
    "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  {
+   "headline": "Shield AI opens Bengaluru engineering office for defense software",
+   "ts": "2026-11-13T11:07:47.605962+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3447,15 +3461,15 @@
  },
  "pending": [
   {
-   "id": "06552fbaf1ca878c",
+   "id": "efcf2dc52887de8f",
    "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
+    "id": "efcf2dc52887de8f",
+    "title": "Adobe, Google Expand AI Partnership Across Creative and Productivity Tools",
+    "url": "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools",
+    "source": "Analytics India Magazine",
+    "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/ai-news-updates/adobe-unveils-ai-video-innovations-10-million-grants-ahead-of-sundance-film-festival-1769241558816-adobe-1536x864.jpg.w.webp",
+    "snippet": "Adobe and Google have expanded their strategic partnership to integrate Google's artificial intelligence models into Adobe's creative software and extend Adobe's tools across Google's products, including Workspace, Gemini, and Google Search. The collaboration will bring Google's latest image and video models to Adobe Firefly, Photoshop, Premiere, and Express, while integrating Gemini models into A…",
+    "published": "2026-11-13T10:51:59+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -3463,14 +3477,16 @@
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.171732,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "headline": "Adobe and Google expand artificial intelligence partnership",
+   "post": "Adobe and Google expanded their partnership to integrate Google artificial intelligence models into Adobe creative software and extend Adobe tools across Google products including Workspace and Gemini.",
+   "editor_note": "Check specific product availability timelines in the full release.",
+   "support": 0.96,
+   "published_at": "2026-11-13T10:51:59+00:00",
+   "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
+   "expires_at": "2026-11-14T22:51:59+00:00",
+   "decision": 2.02,
+   "priority": 7.166014,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3498,8 +3514,34 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.142156,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.159759,
+   "selection_reason": "Editorial importance; waiting 7.5h"
+  },
+  {
+   "id": "06552fbaf1ca878c",
+   "item": {
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 7.15765,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3538,8 +3580,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.142023,
-   "selection_reason": "Editorial importance; waiting 17.5h",
+   "priority": 7.131461,
+   "selection_reason": "Editorial importance; waiting 18.0h",
    "decision": 1.84
   },
   {
@@ -3569,8 +3611,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.069214,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.095618,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3597,8 +3639,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.068534,
-   "selection_reason": "Editorial importance"
+   "priority": 7.086137,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3626,8 +3668,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.000517,
-   "selection_reason": "Editorial importance"
+   "priority": 7.01812,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3667,8 +3709,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.929074,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 6.950198,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3695,8 +3737,37 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.889345,
-   "selection_reason": "Editorial importance; waiting 70.0h"
+   "priority": 6.884064,
+   "selection_reason": "Editorial importance; waiting 70.5h"
+  },
+  {
+   "id": "32127b7dbbe3fec4",
+   "item": {
+    "id": "32127b7dbbe3fec4",
+    "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+    "url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。 双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。 中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席执行官、蚂蚁数科董事长韩歆毅（左二）出席并见证签约仪式。中金公司党委委员、中金财富党委书记、总裁王建力（右一），蚂蚁集团资深副总裁、蚂蚁数科CEO赵闻飙（左一）代表双方签署协议。 随着大模型和智能体技术发展，AI正逐步深入投研、客户服务和财富管理等金融环节。根据协议，双方将重点围绕三个方向开展合作。 一是探索AI赋能财富管理人机协同工作新模式。 双方计划探索打造服务与营销协同的智能体集群，将AI应用于客户需求洞察、资产配置、投资研究等环节，辅助财富管理顾问提升服务效率和专业能力，为客户提供更及时、个性化的服务，推动财富管理从“被动响应”向“主动服务”转变。 二是探索全域客户价值全周期经营体系建设。 双方拟共建覆盖客户全生命周期的精细化财富经营体系。通过智能客户陪伴、精准需求洞察与买方投顾专业服务，提升客户满意度和长期粘性；通过AI辅助客户需求分析与服务匹配，探索更便捷、个性化的财富管理服务，满足客户不同人生阶段需求。 三是深化智能技术和模型合作。 双方将围绕智能体评测基准建设，在投研研判、财务文本解析、估值建模等场景开展技术验证，推动AI技术安全、可靠地应用于实际业务。 双方还计划…",
+    "published": "2026-11-13T09:05:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "China International Capital Corporation and Ant Group partner on AI",
+   "post": "CICC and Ant Group signed a strategic agreement to collaborate on financial large models, wealth management agent clusters, and client lifecycle management systems.",
+   "editor_note": "Verify translation of CICC and Ant Group partnership details from LeiPhone.",
+   "support": 0.94,
+   "published_at": "2026-11-13T09:05:00+00:00",
+   "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
+   "expires_at": "2026-11-14T21:05:00+00:00",
+   "decision": 1.01,
+   "priority": 6.779818,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -3773,12 +3844,13 @@
   "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00",
   "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "2026-11-13T09:38:30.404318+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
-  "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00"
+  "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
+  "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
   "32933935200c2839": {
@@ -7020,6 +7092,131 @@
    "imp": 0.13,
    "ai": 0.02,
    "ts": "2026-11-13T10:37:22.508699+00:00"
+  },
+  "f757f350875f40cc": {
+   "imp": 1.59,
+   "ai": 0.86,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "be52da9a4706f9b1": {
+   "imp": 2.31,
+   "ai": 0.94,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "9469d6fdfcc69aea": {
+   "imp": 2.4,
+   "ai": 0.87,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "cefbc3be34f9ab38": {
+   "imp": 2.47,
+   "ai": 0.95,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "3b56eead2522d3ea": {
+   "imp": 1.91,
+   "ai": 0.92,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "8a429aeabf43037c": {
+   "imp": 2.17,
+   "ai": 0.95,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "c38877cc800eee1d": {
+   "imp": 0.29,
+   "ai": 0.09,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "32127b7dbbe3fec4": {
+   "imp": 1.01,
+   "ai": 0.77,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "b5bbadfd4ae4cf2f": {
+   "imp": 0.92,
+   "ai": 0.42,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "538eb184e33a3445": {
+   "imp": 2.04,
+   "ai": 0.93,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "3e21bf261d77e299": {
+   "imp": 1.9,
+   "ai": 0.86,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "efcf2dc52887de8f": {
+   "imp": 2.02,
+   "ai": 0.95,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "7a6bfd556855a833": {
+   "imp": 0.38,
+   "ai": 0.91,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "a9260ebfaa959636": {
+   "imp": 1.58,
+   "ai": 0.88,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "567a1b41e85c041e": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "0c72fa4a2847c528": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "aad001a500bfaf36": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "7d2087245f41ef61": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "fb4640ff56092144": {
+   "imp": 0.09,
+   "ai": 0.05,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "92ef028674215511": {
+   "imp": 0.35,
+   "ai": 0.07,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "f6316ecccb230856": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "96cde5a471ebb21f": {
+   "imp": 0.92,
+   "ai": 0.43,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "1cab4abc297a7e34": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "62b6284cb8a96f0a": {
+   "imp": 0.3,
+   "ai": 0.04,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "92c026a41718cc7f": {
+   "imp": 0.31,
+   "ai": 0.07,
+   "ts": "2026-11-13T11:07:47.605962+00:00"
   }
  }
 }
