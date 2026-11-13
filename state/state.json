@@ -1716,13 +1716,13 @@
   "5f1c1bc4542a3b94": "2026-11-13T04:37:23.922152+00:00",
   "1a1165928e28b7b1": "2026-11-13T04:37:23.922152+00:00",
   "db29ed7285b9cba1": "2026-11-13T04:37:23.922152+00:00",
-  "98f5d9925889e020": "2026-11-13T04:37:23.922152+00:00"
+  "98f5d9925889e020": "2026-11-13T04:37:23.922152+00:00",
+  "d794618846b5d57d": "2026-11-13T05:07:21.522060+00:00",
+  "32a21ea96f917110": "2026-11-13T05:07:21.522060+00:00",
+  "4e437135c956e244": "2026-11-13T05:07:21.522060+00:00",
+  "e273a90290d43b01": "2026-11-13T05:07:21.522060+00:00"
  },
  "covered": [
-  {
-   "headline": "TSMC board approves investment in OpenAI special shares",
-   "ts": "2026-11-11T05:07:24.742377+00:00"
-  },
   {
    "headline": "TSMC approves up to 1 billion dollar investment in Anthropic and OpenAI",
    "ts": "2026-11-11T05:37:21.063136+00:00"
@@ -1946,11 +1946,15 @@
   {
    "headline": "Alibaba launches HappyShrimp AI music app",
    "ts": "2026-11-13T04:37:23.922152+00:00"
+  },
+  {
+   "headline": "Desible.ai raises Rs 32 crore",
+   "ts": "2026-11-13T05:07:21.522060+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3402,8 +3406,8 @@
    "first_seen_at": "2026-11-13T04:07:21.377149+00:00",
    "expires_at": "2026-11-14T13:52:00+00:00",
    "decision": 1.56,
-   "priority": 7.474721,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.492059,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3428,8 +3432,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.338388,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.324518,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3468,8 +3472,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.23577,
-   "selection_reason": "Editorial importance; waiting 11.5h",
+   "priority": 7.256575,
+   "selection_reason": "Editorial importance; waiting 12.0h",
    "decision": 1.84
   },
   {
@@ -3497,36 +3501,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 7.011995,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.951841,
-   "selection_reason": "Editorial importance; waiting 64.0h"
+   "priority": 7.032801,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3553,8 +3529,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.950751,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.971557,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3582,8 +3558,36 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 6.933836,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.951174,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.946639,
+   "selection_reason": "Editorial importance; waiting 64.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3623,8 +3627,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.67909,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.699896,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
  "details_queue": [],
@@ -3691,12 +3695,13 @@
   "https://36kr.com/p/4067548192576389?f=rss": "2026-11-13T03:08:18.080975+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": "2026-11-13T03:38:18.776346+00:00",
   "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": "2026-11-13T04:09:20.181440+00:00",
-  "https://36kr.com/newsflashes/4067554198770564?f=rss": "2026-11-13T04:38:09.638610+00:00"
+  "https://36kr.com/newsflashes/4067554198770564?f=rss": "2026-11-13T04:38:09.638610+00:00",
+  "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
   "32933935200c2839": {
@@ -5608,6 +5613,71 @@
    "imp": 1.65,
    "ai": 0.69,
    "ts": "2026-11-13T04:37:23.922152+00:00"
+  },
+  "32a21ea96f917110": {
+   "imp": 1.64,
+   "ai": 0.97,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "4e437135c956e244": {
+   "imp": 1.1,
+   "ai": 0.66,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "e273a90290d43b01": {
+   "imp": 2.47,
+   "ai": 0.96,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "665663ff752ed6cb": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "d3487b67bea9b6f9": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "345c53f3c4f97f39": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "067497cf273b2ab9": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "5cb58cff846d1708": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "a049377d6696d231": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "cba4b522411d2a87": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "ae44097b7e451b69": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "d794618846b5d57d": {
+   "imp": 1.63,
+   "ai": 0.76,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
+  },
+  "38b4f96f5777bd26": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-13T05:07:21.522060+00:00"
   }
  }
 }
