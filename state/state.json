@@ -1737,10 +1737,6 @@
  },
  "covered": [
   {
-   "headline": "Froncort receives Google.org funding for Indian screening",
-   "ts": "2026-11-11T06:07:21.490074+00:00"
-  },
-  {
    "headline": "Google DeepMind unveils Gemini Robotics 2.5 platform",
    "ts": "2026-11-11T06:37:26.026765+00:00"
   },
@@ -3416,8 +3412,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.310561,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.296717,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3456,8 +3452,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.246144,
-   "selection_reason": "Editorial importance; waiting 12.5h",
+   "priority": 7.235761,
+   "selection_reason": "Editorial importance; waiting 13.0h",
    "decision": 1.84
   },
   {
@@ -3485,8 +3481,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 7.053735,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.074502,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3513,8 +3509,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 6.992491,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.013257,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3542,8 +3538,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 6.968619,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.985924,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3570,8 +3566,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.941406,
-   "selection_reason": "Editorial importance; waiting 65.0h"
+   "priority": 6.936214,
+   "selection_reason": "Editorial importance; waiting 65.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3611,8 +3607,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.72083,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.741597,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ],
  "details_queue": [],
@@ -5778,6 +5774,81 @@
    "imp": 0.24,
    "ai": 0.04,
    "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  "8ea144c295d40aeb": {
+   "imp": 1.92,
+   "ai": 0.83,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "294c246e7e16ea99": {
+   "imp": 1.83,
+   "ai": 0.92,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "83c41a9c2e6b4b3c": {
+   "imp": 1.86,
+   "ai": 0.52,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "4cd725602f286286": {
+   "imp": 1.1,
+   "ai": 0.91,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "9ed9d9b7515122da": {
+   "imp": 2.12,
+   "ai": 0.92,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "f994a479cb3d5341": {
+   "imp": 1.89,
+   "ai": 0.89,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "7586615b2cc9ce9c": {
+   "imp": 0.53,
+   "ai": 0.09,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "60e98b6bb983174e": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "a56a652b61899213": {
+   "imp": 0.27,
+   "ai": 0.03,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "cb08b5c9f5a15d9f": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "632e48e9a2477bac": {
+   "imp": 0.1,
+   "ai": 0.08,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "dac6ec8ad2a5d158": {
+   "imp": 0.31,
+   "ai": 0.06,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "e320dda163dcd75b": {
+   "imp": 0.1,
+   "ai": 0.05,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "5394b93b79e29a88": {
+   "imp": 0.55,
+   "ai": 0.23,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "0ff20b5a5b3e4c66": {
+   "imp": 0.28,
+   "ai": 0.1,
+   "ts": "2026-11-13T06:07:24.459882+00:00"
   }
  }
 }
