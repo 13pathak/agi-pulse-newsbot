@@ -1733,13 +1733,27 @@
   "caaa35c99dce2b9b": "2026-11-13T05:37:30.240695+00:00",
   "5c945bdc0233d739": "2026-11-13T05:37:30.240695+00:00",
   "5b03ad4fc66b34de": "2026-11-13T05:37:30.240695+00:00",
-  "c2547d2542c220ad": "2026-11-13T05:37:30.240695+00:00"
+  "c2547d2542c220ad": "2026-11-13T05:37:30.240695+00:00",
+  "de06bec5ec8071c8": "2026-11-13T06:37:30.057071+00:00",
+  "08c7f991044ea74b": "2026-11-13T06:37:30.057071+00:00",
+  "9a84b692c389219b": "2026-11-13T06:37:30.057071+00:00",
+  "bb29c4c74880cfc0": "2026-11-13T06:37:30.057071+00:00",
+  "bd6e3601b8c6d4d1": "2026-11-13T06:37:30.057071+00:00",
+  "9ed9d9b7515122da": "2026-11-13T06:37:30.057071+00:00",
+  "00ccf51f4f6efee2": "2026-11-13T06:37:30.057071+00:00",
+  "383b23c14b23bacb": "2026-11-13T06:37:30.057071+00:00",
+  "8ea144c295d40aeb": "2026-11-13T06:37:30.057071+00:00",
+  "2c035888b8c77bd7": "2026-11-13T06:37:30.057071+00:00",
+  "4cd725602f286286": "2026-11-13T06:37:30.057071+00:00",
+  "cbf22493d8c74bd5": "2026-11-13T06:37:30.057071+00:00",
+  "f994a479cb3d5341": "2026-11-13T06:37:30.057071+00:00",
+  "23a0e23d40067a71": "2026-11-13T06:37:30.057071+00:00",
+  "2035108bc57d1040": "2026-11-13T06:37:30.057071+00:00",
+  "80a3e1466591637e": "2026-11-13T06:37:30.057071+00:00",
+  "4256f9a0e16d7e83": "2026-11-13T06:37:30.057071+00:00",
+  "83c41a9c2e6b4b3c": "2026-11-13T06:37:30.057071+00:00"
  },
  "covered": [
-  {
-   "headline": "Google DeepMind unveils Gemini Robotics 2.5 platform",
-   "ts": "2026-11-11T06:37:26.026765+00:00"
-  },
   {
    "headline": "Daylight Security raises 80 million dollars in B round",
    "ts": "2026-11-11T07:37:22.274032+00:00"
@@ -1959,11 +1973,15 @@
   {
    "headline": "Lingrui Zhixin raises hundreds of millions in Pre-A+ round",
    "ts": "2026-11-13T05:37:30.240695+00:00"
+  },
+  {
+   "headline": "ByteDance offers share buyback at $400 billion valuation",
+   "ts": "2026-11-13T06:37:30.057071+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3412,8 +3430,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.296717,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.282785,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3452,8 +3470,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.235761,
-   "selection_reason": "Editorial importance; waiting 13.0h",
+   "priority": 7.225312,
+   "selection_reason": "Editorial importance; waiting 13.5h",
    "decision": 1.84
   },
   {
@@ -3481,8 +3499,36 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 7.074502,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.0954,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "294c246e7e16ea99",
+   "item": {
+    "id": "294c246e7e16ea99",
+    "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/5ca40b4c-5e88-47e8-81d1-c7acecc10e77_ae0edc39.jpg?itok=4P3fF_Ck&v=1794548432",
+    "snippet": "China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next two years. The bullish forecast comes as scrutiny over former Nvidia CEO Jensen Huang threatens to intensify Washington’s curbs on Chinese access to advanced American processors – a shift that could acc…",
+    "published": "2026-11-13T05:55:56+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SMIC forecasts AI computing crunch to continue until 2028",
+   "post": "SMIC forecasts that global data center expansion will keep artificial intelligence computing power in short supply until 2028, as regulatory scrutiny surrounding Nvidia heightens risks of tighter curbs on advanced processors.",
+   "editor_note": "Verify SMIC's 2028 timeline forecast for the AI computing shortage and attribution of tighter processor curbs.",
+   "support": 0.57,
+   "published_at": "2026-11-13T05:55:56+00:00",
+   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
+   "expires_at": "2026-11-14T17:55:56+00:00",
+   "decision": 1.83,
+   "priority": 7.090756,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "85bacafff42444d7",
@@ -3509,8 +3555,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 7.013257,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.034156,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3538,8 +3584,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 6.985924,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.003339,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3566,8 +3612,38 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.936214,
-   "selection_reason": "Editorial importance; waiting 65.5h"
+   "priority": 6.930989,
+   "selection_reason": "Editorial importance; waiting 66.0h"
+  },
+  {
+   "id": "218c8f96d3aa7ec9",
+   "item": {
+    "id": "218c8f96d3aa7ec9",
+    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "url": "https://arxiv.org/abs/2611.14815",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: NVIDIA. Upvotes: 30. Abstract: Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion transformers, one per stream, lets each stream inform the other during generation. The predicted BEV also provides a geometric interface for ego control: we translate and rotate its latest frame along an input ego trajectory and use the resulting frames as a soft condition that shows how the scene would appear to move if only the ego vehicle moved. At inference, BirdDreams generates both videos from a …",
+    "published": "2026-11-13T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14815.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia researchers introduce BirdDreams driving world model",
+   "post": "Researchers at Nvidia introduced BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view video using joint attention between two video diffusion transformers.",
+   "editor_note": "Check that the abstract specifies joint attention between two video diffusion transformers for perspective and BEV video generation.",
+   "support": 0.96,
+   "published_at": "2026-11-13T00:00:00+00:00",
+   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
+   "expires_at": "2026-11-17T00:00:00+00:00",
+   "decision": 1.29,
+   "priority": 6.860989,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3607,8 +3683,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.741597,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.762495,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   }
  ],
  "details_queue": [],
@@ -3677,12 +3753,13 @@
   "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": "2026-11-13T04:09:20.181440+00:00",
   "https://36kr.com/newsflashes/4067554198770564?f=rss": "2026-11-13T04:38:09.638610+00:00",
   "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00",
-  "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00"
+  "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00",
+  "https://36kr.com/newsflashes/4067761515730049?f=rss": "2026-11-13T06:37:56.829334+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -5849,6 +5926,101 @@
    "imp": 0.28,
    "ai": 0.1,
    "ts": "2026-11-13T06:07:24.459882+00:00"
+  },
+  "de06bec5ec8071c8": {
+   "imp": 2.56,
+   "ai": null,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "bd6e3601b8c6d4d1": {
+   "imp": 2.1,
+   "ai": 0.87,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "00ccf51f4f6efee2": {
+   "imp": 2.1,
+   "ai": 0.9,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "2035108bc57d1040": {
+   "imp": 1.5,
+   "ai": 0.96,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "bb29c4c74880cfc0": {
+   "imp": 2.07,
+   "ai": 0.94,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "7fe60d5bf37fc7f5": {
+   "imp": 0.73,
+   "ai": 0.12,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "cbf22493d8c74bd5": {
+   "imp": 1.57,
+   "ai": 0.82,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "08c7f991044ea74b": {
+   "imp": 2.37,
+   "ai": 0.95,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "23a0e23d40067a71": {
+   "imp": 1.23,
+   "ai": 0.97,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "383b23c14b23bacb": {
+   "imp": 1.86,
+   "ai": 0.92,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "9a84b692c389219b": {
+   "imp": 2.27,
+   "ai": 0.95,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "218c8f96d3aa7ec9": {
+   "imp": 1.29,
+   "ai": null,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "8203747cbc7e1202": {
+   "imp": 0.22,
+   "ai": 0.1,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "a26a2fa6428014ac": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "0d025368b2edc7b8": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "92e594578e166e0d": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "46253fd06cd8ca6e": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "f3b9e200615a163d": {
+   "imp": 0.44,
+   "ai": 0.13,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
+  },
+  "e0e32a236db868fa": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-13T06:37:30.057071+00:00"
   }
  }
 }
