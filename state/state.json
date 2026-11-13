@@ -3590,8 +3590,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.30363,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.329699,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3618,8 +3618,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.224811,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.24219,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3647,8 +3647,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.156794,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.174173,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "2edbd065f0868506",
@@ -3675,8 +3675,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T01:30:31+00:00",
    "decision": 1.78,
-   "priority": 7.048469,
-   "selection_reason": "Editorial importance"
+   "priority": 7.065849,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3715,8 +3715,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.048256,
-   "selection_reason": "Editorial importance; waiting 22.0h",
+   "priority": 7.037828,
+   "selection_reason": "Editorial importance; waiting 22.5h",
    "decision": 1.84
   },
   {
@@ -3742,8 +3742,37 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.04671,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.032807,
+   "selection_reason": "Editorial importance; waiting 25.5h"
+  },
+  {
+   "id": "6a6b6e0dbaec40e4",
+   "item": {
+    "id": "6a6b6e0dbaec40e4",
+    "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+    "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资。 钻耐科思（DiamNEX）成立于2025年，由 香港大学孵化 ，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力 。 金刚石被誉为“ 终极半导体材料” ，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量子科技与第四代超宽禁带半导体的关键材料。 传统半导体散热大多通过铜基风冷的方式进行，但伴随token消耗量剧增和对AI算力需求的不断提升，传统半导体材料散热愈发捉襟见肘。英伟达公开数据显示，下一代Rubin GPU功耗将突破2300W，风冷与铜基散热将逼近物理极限。 采用金刚石作为半导体材料能够有效缓解散热难题，但在传统制备路径下，金刚石材料面临着生长尺寸受限，制备周期长、切割损耗大、研磨抛光困难等产业化困境。 产业此前大致分为三条路线：金刚石基复合材料成本低但上限不高；多晶 CVD 金刚石居中；单晶 CVD 性能最高但实现难度最大。 DiamNEX选择在多晶路线上进行进一步拓展，其首创的\"边缘暴露剥离法\"按\"生长、切口、机械剥离\"三步，能够从衬底上直接剥出 晶圆级柔性金刚石薄膜 ，厚度低至200纳米、表面粗糙度优于0.5纳米、热导率超过1300 W/m·K。…",
+    "published": "2026-11-13T09:22:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "DiamNEX secures funding for diamond semiconductor materials",
+   "post": "Hong Kong University spin-off DiamNEX has raised tens of millions of yuan in a funding round led by Flashpoint Capital to develop diamond semiconductor materials for AI hardware cooling.",
+   "editor_note": "Confirm the exact funding currency and investor names from official release details.",
+   "support": 0.34,
+   "published_at": "2026-11-13T09:22:00+00:00",
+   "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
+   "expires_at": "2026-11-14T21:22:00+00:00",
+   "decision": 1.25,
+   "priority": 6.992876,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3783,37 +3812,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.991589,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "6a6b6e0dbaec40e4",
-   "item": {
-    "id": "6a6b6e0dbaec40e4",
-    "title": "独家丨港大孵化的半导体材料公司，融资数千万",
-    "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资。 钻耐科思（DiamNEX）成立于2025年，由 香港大学孵化 ，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力 。 金刚石被誉为“ 终极半导体材料” ，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量子科技与第四代超宽禁带半导体的关键材料。 传统半导体散热大多通过铜基风冷的方式进行，但伴随token消耗量剧增和对AI算力需求的不断提升，传统半导体材料散热愈发捉襟见肘。英伟达公开数据显示，下一代Rubin GPU功耗将突破2300W，风冷与铜基散热将逼近物理极限。 采用金刚石作为半导体材料能够有效缓解散热难题，但在传统制备路径下，金刚石材料面临着生长尺寸受限，制备周期长、切割损耗大、研磨抛光困难等产业化困境。 产业此前大致分为三条路线：金刚石基复合材料成本低但上限不高；多晶 CVD 金刚石居中；单晶 CVD 性能最高但实现难度最大。 DiamNEX选择在多晶路线上进行进一步拓展，其首创的\"边缘暴露剥离法\"按\"生长、切口、机械剥离\"三步，能够从衬底上直接剥出 晶圆级柔性金刚石薄膜 ，厚度低至200纳米、表面粗糙度优于0.5纳米、热导率超过1300 W/m·K。…",
-    "published": "2026-11-13T09:22:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "DiamNEX secures funding for diamond semiconductor materials",
-   "post": "Hong Kong University spin-off DiamNEX has raised tens of millions of yuan in a funding round led by Flashpoint Capital to develop diamond semiconductor materials for AI hardware cooling.",
-   "editor_note": "Confirm the exact funding currency and investor names from official release details.",
-   "support": 0.34,
-   "published_at": "2026-11-13T09:22:00+00:00",
-   "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
-   "expires_at": "2026-11-14T21:22:00+00:00",
-   "decision": 1.25,
-   "priority": 6.975497,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.981162,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3841,8 +3841,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.918492,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.935872,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "40e78db6601d46e6",
@@ -3869,8 +3869,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 6.901786,
-   "selection_reason": "Editorial importance"
+   "priority": 6.922641,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3897,8 +3897,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.842461,
-   "selection_reason": "Editorial importance; waiting 74.5h"
+   "priority": 6.837248,
+   "selection_reason": "Editorial importance; waiting 75.0h"
   }
  ],
  "details_queue": [],
@@ -7999,6 +7999,76 @@
    "imp": 2.73,
    "ai": 0.95,
    "ts": "2026-11-13T15:07:25.360059+00:00"
+  },
+  "4d6f012cbac12e6d": {
+   "imp": 1.84,
+   "ai": 0.92,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "a8617b75cc0e00e8": {
+   "imp": 1.38,
+   "ai": 0.94,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "f8c0d3e8e42d750e": {
+   "imp": 1.33,
+   "ai": 0.57,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "449fc35486b25600": {
+   "imp": 2.2,
+   "ai": null,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "a1ffa3194999acb7": {
+   "imp": 2.58,
+   "ai": null,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "1bdcb63cc91c6b08": {
+   "imp": 1.96,
+   "ai": null,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "434c7ccbfb9a3e47": {
+   "imp": 1.81,
+   "ai": null,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "88d77a52ad5e37e4": {
+   "imp": 2.1,
+   "ai": 0.97,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "c3b2320da0248bb7": {
+   "imp": 0.73,
+   "ai": 0.63,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "657afbac4d86e979": {
+   "imp": 1.94,
+   "ai": 0.96,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "0256ce4f6b9b0b18": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "18f4549343f57800": {
+   "imp": 0.89,
+   "ai": 0.14,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "8b3a2b1b8b436cb5": {
+   "imp": 0.54,
+   "ai": 0.18,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "67857839df1ea0a3": {
+   "imp": 1.03,
+   "ai": 0.12,
+   "ts": "2026-11-13T15:37:27.258596+00:00"
   }
  }
 }
