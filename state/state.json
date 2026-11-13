@@ -1764,13 +1764,20 @@
   "7b741aa0df36415f": "2026-11-13T07:37:35.670710+00:00",
   "9e2d4e6285993acc": "2026-11-13T07:37:35.670710+00:00",
   "555d01f99d0b8d71": "2026-11-13T07:37:35.670710+00:00",
-  "742505ac920e42cc": "2026-11-13T07:37:35.670710+00:00"
+  "742505ac920e42cc": "2026-11-13T07:37:35.670710+00:00",
+  "ad10287ee6ec7822": "2026-11-13T08:07:23.832592+00:00",
+  "fcf11ff0b42e91bf": "2026-11-13T08:07:23.832592+00:00",
+  "ada1e6052e3fbc26": "2026-11-13T08:07:23.832592+00:00",
+  "9a7611cb8c65bf62": "2026-11-13T08:07:23.832592+00:00",
+  "ccb13385f2ca8928": "2026-11-13T08:07:23.832592+00:00",
+  "05676206f9121e02": "2026-11-13T08:07:23.832592+00:00",
+  "d33b693afccdb9c0": "2026-11-13T08:07:23.832592+00:00",
+  "bc7f67e0bbed0e06": "2026-11-13T08:07:23.832592+00:00",
+  "c7d14863ab6cf77a": "2026-11-13T08:07:23.832592+00:00",
+  "7387f5f0d57fa092": "2026-11-13T08:07:23.832592+00:00",
+  "cac1e20ff384d73e": "2026-11-13T08:07:23.832592+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic targets $3 billion in Japan IPO",
-   "ts": "2026-11-11T08:07:21.992795+00:00"
-  },
   {
    "headline": "Madras High Court flags AI public library books",
    "ts": "2026-11-11T08:37:20.546395+00:00"
@@ -1990,11 +1997,15 @@
   {
    "headline": "Anthropic IPO is six times oversubscribed in filings",
    "ts": "2026-11-13T07:37:35.670710+00:00"
+  },
+  {
+   "headline": "MeitY questions home platforms over physical AI video data",
+   "ts": "2026-11-13T08:07:23.832592+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3421,47 +3432,6 @@
  },
  "pending": [
   {
-   "id": "7387f5f0d57fa092",
-   "item": {
-    "id": "7387f5f0d57fa092",
-    "title": "Is footage from Indian homes going abroad to train robots? MeitY questions Pronto and other platforms",
-    "url": "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "MeitY has questioned Pronto, Urban Company and Snabbit over footage recorded inside Indian homes, asking whether companies share it with overseas AI developers and how they obtain consent and protect privacy. The post Is footage from Indian homes going abroad to train robots? MeitY questions Pronto and other platforms appeared first on MEDIANAMA .",
-    "published": "2026-11-13T07:24:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "cac1e20ff384d73e",
-     "title": "MeitY examines data collection by home services platforms for physical AI training",
-     "url": "https://entrackr.com/news/meity-examines-data-collection-by-home-services-platforms-for-physical-ai-training-12806000",
-     "source": "Entrackr",
-     "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/13/home-service-2-2026-11-13-13-03-43.png",
-     "snippet": "The Ministry of Electronics and Information Technology (MeitY) has raised concerns over the collection of first-person video and sensor data from gig workers to train physical AI models. The scrutiny comes amid Pronto’s in-home video recording initiative, while rival platforms Snabbit and Urban Company have decided against adopting the practice. According to an ET report, senior officials from the…",
-     "published": "2026-11-13T07:34:11+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "MeitY questions home platforms over physical AI video data",
-   "post": "India's Ministry of Electronics and Information Technology has questioned platforms including Pronto and Urban Company regarding in-home video data collection for physical AI training.",
-   "editor_note": "Check details on consent protocols and whether data was shared with overseas developers.",
-   "support": 0.95,
-   "published_at": "2026-11-13T07:24:45+00:00",
-   "first_seen_at": "2026-11-13T07:37:35.670710+00:00",
-   "expires_at": "2026-11-14T19:24:45+00:00",
-   "decision": 2.28,
-   "priority": 8.754053,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "06552fbaf1ca878c",
    "item": {
     "id": "06552fbaf1ca878c",
@@ -3484,8 +3454,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.254964,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.241166,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3524,8 +3494,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.204446,
-   "selection_reason": "Editorial importance; waiting 14.5h",
+   "priority": 7.194098,
+   "selection_reason": "Editorial importance; waiting 15.0h",
    "decision": 1.84
   },
   {
@@ -3553,8 +3523,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 7.137131,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.157828,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "294c246e7e16ea99",
@@ -3581,8 +3551,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-14T17:55:56+00:00",
    "decision": 1.83,
-   "priority": 7.125532,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.142779,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3609,8 +3579,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 7.075887,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.096584,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3638,36 +3608,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.038116,
-   "selection_reason": "Editorial importance; waiting 4.0h"
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.920557,
-   "selection_reason": "Editorial importance; waiting 67.0h"
+   "priority": 7.055363,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3696,8 +3638,36 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.913154,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.939024,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "13f9d9491c402dfb",
+   "item": {
+    "id": "13f9d9491c402dfb",
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "url": "https://arxiv.org/abs/2611.12762",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+    "published": "2026-11-10T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
+   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
+   "expires_at": "2026-11-14T00:00:00+00:00",
+   "priority": 6.915382,
+   "selection_reason": "Editorial importance; waiting 67.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3737,8 +3707,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.804226,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.824923,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   }
  ],
  "details_queue": [],
@@ -3809,12 +3779,13 @@
   "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00",
   "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00",
   "https://36kr.com/newsflashes/4067761515730049?f=rss": "2026-11-13T06:37:56.829334+00:00",
-  "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video": "2026-11-13T07:38:01.980210+00:00"
+  "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video": "2026-11-13T07:38:01.980210+00:00",
+  "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms": "2026-11-13T08:08:03.735608+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -6306,6 +6277,106 @@
    "imp": 0.26,
    "ai": 0.06,
    "ts": "2026-11-13T07:37:35.670710+00:00"
+  },
+  "ad10287ee6ec7822": {
+   "imp": 2.16,
+   "ai": 0.93,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "05676206f9121e02": {
+   "imp": 1.82,
+   "ai": 0.83,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "bc7f67e0bbed0e06": {
+   "imp": 0.69,
+   "ai": 0.74,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "c7d14863ab6cf77a": {
+   "imp": 0.66,
+   "ai": 0.22,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "ccb13385f2ca8928": {
+   "imp": 1.88,
+   "ai": 0.3,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "ada1e6052e3fbc26": {
+   "imp": 1.88,
+   "ai": 0.93,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "9a7611cb8c65bf62": {
+   "imp": 1.94,
+   "ai": 0.94,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "38aafb08f09b9e47": {
+   "imp": 1.31,
+   "ai": 0.33,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "31fd66f76fa29fe1": {
+   "imp": 0.94,
+   "ai": 0.35,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "70ce9be8f62cdb21": {
+   "imp": 0.69,
+   "ai": 0.19,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "21b6957904f74838": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "529f11e3af0edcef": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "8569195f1ee7dbb7": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "0a94c439996211ae": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "b00dcbe7fc450c43": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "1ea16af14bd99792": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "d7fe0bfa8e1f9c65": {
+   "imp": 1.48,
+   "ai": 0.15,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "2cdba503ac00cc0b": {
+   "imp": 1.4,
+   "ai": 0.19,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "24af89c29ed6883b": {
+   "imp": 0.57,
+   "ai": 0.14,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "2da55a1fe880173e": {
+   "imp": 0.67,
+   "ai": 0.13,
+   "ts": "2026-11-13T08:07:23.832592+00:00"
   }
  }
 }
