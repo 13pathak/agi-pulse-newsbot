@@ -1827,13 +1827,23 @@
   "6fcee31fcfd3f5b2": "2026-11-13T12:37:34.922491+00:00",
   "23546ebf32cb0cc7": "2026-11-13T12:37:34.922491+00:00",
   "93cbdb4aad9f5ee1": "2026-11-13T12:37:34.922491+00:00",
-  "4907eb362d1d1eb1": "2026-11-13T12:37:34.922491+00:00"
+  "4907eb362d1d1eb1": "2026-11-13T12:37:34.922491+00:00",
+  "ac6b5041cf84e88d": "2026-11-13T13:07:22.506341+00:00",
+  "ce59473d8279bfdd": "2026-11-13T13:07:22.506341+00:00",
+  "5d554d3b6b91af65": "2026-11-13T13:07:22.506341+00:00",
+  "e00ed907e42f1c2a": "2026-11-13T13:07:22.506341+00:00",
+  "bed46def9dbdf936": "2026-11-13T13:07:22.506341+00:00",
+  "7f4b634fdd63e732": "2026-11-13T13:07:22.506341+00:00",
+  "005f504376543daa": "2026-11-13T13:07:22.506341+00:00",
+  "d022c477d9fe46af": "2026-11-13T13:07:22.506341+00:00",
+  "87c11ac884eb74bd": "2026-11-13T13:07:22.506341+00:00",
+  "ef47fa6404976e84": "2026-11-13T13:07:22.506341+00:00",
+  "aa189383f7bd2657": "2026-11-13T13:07:22.506341+00:00",
+  "725cc9557187d5c2": "2026-11-13T13:07:22.506341+00:00",
+  "a11b7e7f40ac5bb6": "2026-11-13T13:07:22.506341+00:00",
+  "eedaaf26e82c4f65": "2026-11-13T13:07:22.506341+00:00"
  },
  "covered": [
-  {
-   "headline": "ChatGPT Go tier offered to users in India",
-   "ts": "2026-11-11T13:07:23.466854+00:00"
-  },
   {
    "headline": "US power companies deploy Anthropic Mythos AI for energy grid security",
    "ts": "2026-11-11T13:37:24.039730+00:00"
@@ -2053,11 +2063,15 @@
   {
    "headline": "ReNew pledges ₹80,000 crore for green data center in India",
    "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  {
+   "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
+   "ts": "2026-11-13T13:07:22.506341+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3498,38 +3512,33 @@
    "desc": "想要什么功能，让Agent自己开发",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509995.html": {
+   "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+   "desc": "一个时代结束了",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509796.html": {
+   "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+   "desc": "250名国内顶尖三甲医院医生联合评测",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509614.html": {
+   "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+   "desc": "信息少传80%，准确率反而提高",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/509827.html": {
+   "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+   "desc": "12.9 北京，来MEET2027现场",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "eedaaf26e82c4f65",
-   "item": {
-    "id": "eedaaf26e82c4f65",
-    "title": "百度智能云与普渡机器人达成战略合作 聚焦具身模型训练、真实场景数据等四大方向",
-    "url": "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月12日，在2026百度世界大会期间，百度与全球商用服务机器人领军企业深圳市普渡科技股份有限公司正式达成战略合作。百度智能云将为普渡提供模型训练所需的基础设施与云服务支撑；普渡将依托自身技术体系，自主开展具身基座模型训练，建设完善多元场景数据体系，并推进智能体平台能力升级。双方还将在产业生态协同方面展开深度合作。 当前，具身智能正加速进入产业化发展新阶段，真实场景数据稀缺、模型训练成本高、跨本体能力复用难等问题，成为制约规模化落地的关键挑战。作为全球商用服务机器人领军企业，普渡机器人业务覆盖全球85个国家和地区，服务超5万家终端客户，累计出货超13万台。围绕“一脑多形”技术理念，普渡构建了由机器人本体、通用具身智能体PuduAgent及通用具身基座大模型PuduFM组成的Physical Agent架构，并以具身导航、具身操作、具身交互三大技术栈为支撑，推动专用、类人形及人形机器人的智能能力协同进化。 此次合作，普渡将依托百度百舸AI计算平台，完善算力基础设施。围绕自身具身智能技术布局，普渡将持续开展PuduFM模型训练与迭代，结合全球商业部署积累的真实场景数据，建设高质量数据体系，并推进PuduAgent具身智能体平台能力升级，推动智能能力在不同形态机器人及应用场景中复用。 目前，百度智能云已为70余家具身智能产业链重点企业提供全栈AI云技术支撑。未来，双方将持续深化合作，推动商用服务机器人从“单机智能”迈向“平台化智能”。",
-    "published": "2026-11-13T01:19:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
-   "post": "Baidu Smart Cloud and Pudu Robotics formed a strategic partnership to support PuduFM base model training, scenario data collection, and PuduAgent platform development using Baidukeduo AI computing infrastructure.",
-   "editor_note": "Verify the partnership scope regarding Baidu's infrastructure support for Pudu Robotics' 130,000+ deployed units.",
-   "support": 0.95,
-   "published_at": "2026-11-13T01:19:00+00:00",
-   "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
-   "expires_at": "2026-11-14T13:19:00+00:00",
-   "decision": 1.39,
-   "priority": 7.21172,
-   "selection_reason": "Editorial importance; waiting 9.0h"
-  },
   {
    "id": "218c8f96d3aa7ec9",
    "item": {
@@ -3557,8 +3566,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.17356,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.199422,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3585,8 +3594,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.138098,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.155339,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3611,8 +3620,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.116081,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.102288,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3651,8 +3660,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.100284,
-   "selection_reason": "Editorial importance; waiting 19.5h",
+   "priority": 7.089939,
+   "selection_reason": "Editorial importance; waiting 20.0h",
    "decision": 1.84
   },
   {
@@ -3681,8 +3690,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.070081,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.087322,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3722,8 +3731,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 7.012551,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.033241,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3751,8 +3760,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.888784,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.906025,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3779,8 +3788,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.868475,
-   "selection_reason": "Editorial importance; waiting 72.0h"
+   "priority": 6.863303,
+   "selection_reason": "Editorial importance; waiting 72.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3808,8 +3817,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.831779,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.84902,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -3890,12 +3899,13 @@
   "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
   "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
   "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00",
-  "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00"
+  "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00",
+  "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
   "32933935200c2839": {
@@ -7647,6 +7657,126 @@
    "imp": 0.15,
    "ai": 0.05,
    "ts": "2026-11-13T12:37:34.922491+00:00"
+  },
+  "5d554d3b6b91af65": {
+   "imp": 2.14,
+   "ai": 0.88,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "e00ed907e42f1c2a": {
+   "imp": 2.15,
+   "ai": null,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "7f4b634fdd63e732": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "ef47fa6404976e84": {
+   "imp": 2.44,
+   "ai": 0.96,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "ce59473d8279bfdd": {
+   "imp": 2.54,
+   "ai": 0.96,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "005f504376543daa": {
+   "imp": 0.99,
+   "ai": 0.83,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "bed46def9dbdf936": {
+   "imp": 2.03,
+   "ai": 0.81,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "ac6b5041cf84e88d": {
+   "imp": 2.82,
+   "ai": 0.96,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "a11b7e7f40ac5bb6": {
+   "imp": 0.23,
+   "ai": 0.8,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "87c11ac884eb74bd": {
+   "imp": 1.78,
+   "ai": 0.95,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "d022c477d9fe46af": {
+   "imp": 0.82,
+   "ai": 0.43,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "725cc9557187d5c2": {
+   "imp": 0.56,
+   "ai": 0.51,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "7cad831a40bad8cd": {
+   "imp": 0.19,
+   "ai": 0.07,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "f2b23e908635aa8d": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "ce37d0a1f48e31fc": {
+   "imp": 0.45,
+   "ai": 0.07,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "1ae59959ee09650f": {
+   "imp": 0.09,
+   "ai": 0.06,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "20bc8b25d4b39f3f": {
+   "imp": 0.54,
+   "ai": 0.22,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "97f8346b1f88f90e": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "81cfab7315bac3f7": {
+   "imp": 0.31,
+   "ai": 0.03,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "b074d5f2247fbbef": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "4baeb57a507a6eaa": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "6d5a21a8df01ea72": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "e6526c3d8e4e3423": {
+   "imp": 0.43,
+   "ai": 0.06,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
+  },
+  "6c196d0606b67f43": {
+   "imp": 0.37,
+   "ai": 0.08,
+   "ts": "2026-11-13T13:07:22.506341+00:00"
   }
  }
 }
