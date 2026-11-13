@@ -1786,13 +1786,23 @@
   "b5bbadfd4ae4cf2f": "2026-11-13T11:07:47.605962+00:00",
   "547548d8af355aa7": "2026-11-13T11:07:47.605962+00:00",
   "7a6bfd556855a833": "2026-11-13T11:07:47.605962+00:00",
-  "3e21bf261d77e299": "2026-11-13T11:07:47.605962+00:00"
+  "3e21bf261d77e299": "2026-11-13T11:07:47.605962+00:00",
+  "72315bb03f36759e": "2026-11-13T11:37:25.465062+00:00",
+  "9b0fc0ebc6efeece": "2026-11-13T11:37:25.465062+00:00",
+  "51e939fde6f0ed64": "2026-11-13T11:37:25.465062+00:00",
+  "0dbadd8158b7a524": "2026-11-13T11:37:25.465062+00:00",
+  "47ea25b516f5a626": "2026-11-13T11:37:25.465062+00:00",
+  "460ec4813c81b720": "2026-11-13T11:37:25.465062+00:00",
+  "d5040ea97e44c30b": "2026-11-13T11:37:25.465062+00:00",
+  "35841fa878f59e0e": "2026-11-13T11:37:25.465062+00:00",
+  "ad4711629dd6923d": "2026-11-13T11:37:25.465062+00:00",
+  "1b66973b422d4d8f": "2026-11-13T11:37:25.465062+00:00",
+  "ef40ccf4d0154f22": "2026-11-13T11:37:25.465062+00:00",
+  "e027394f77e2a2ab": "2026-11-13T11:37:25.465062+00:00",
+  "b1f5c004595bf863": "2026-11-13T11:37:25.465062+00:00",
+  "2cf60afac2834da2": "2026-11-13T11:37:25.465062+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI to discontinue standard and advanced ChatGPT voice modes",
-   "ts": "2026-11-11T11:37:20.537551+00:00"
-  },
   {
    "headline": "Agibot releases open LIFE embodied intelligence framework",
    "ts": "2026-11-11T12:07:25.150326+00:00"
@@ -2012,11 +2022,15 @@
   {
    "headline": "Shield AI opens Bengaluru engineering office for defense software",
    "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  {
+   "headline": "Jensen Huang resigns as Nvidia CEO amid federal investigations",
+   "ts": "2026-11-13T11:37:25.465062+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3485,7 +3499,7 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T22:51:59+00:00",
    "decision": 2.02,
-   "priority": 7.166014,
+   "priority": 7.183161,
    "selection_reason": "Editorial importance"
   },
   {
@@ -3514,8 +3528,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.159759,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.176906,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3540,8 +3554,38 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.15765,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.143932,
+   "selection_reason": "Editorial importance; waiting 21.5h"
+  },
+  {
+   "id": "218c8f96d3aa7ec9",
+   "item": {
+    "id": "218c8f96d3aa7ec9",
+    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "url": "https://arxiv.org/abs/2611.14815",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: NVIDIA. Upvotes: 30. Abstract: Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion transformers, one per stream, lets each stream inform the other during generation. The predicted BEV also provides a geometric interface for ego control: we translate and rotate its latest frame along an input ego trajectory and use the resulting frames as a soft condition that shows how the scene would appear to move if only the ego vehicle moved. At inference, BirdDreams generates both videos from a …",
+    "published": "2026-11-13T00:00:00+00:00",
+    "upvotes": 30,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14815.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia researchers introduce BirdDreams driving world model",
+   "post": "Researchers at Nvidia introduced BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view video using joint attention between two video diffusion transformers.",
+   "editor_note": "Check that the abstract specifies joint attention between two video diffusion transformers for perspective and BEV video generation.",
+   "support": 0.96,
+   "published_at": "2026-11-13T00:00:00+00:00",
+   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
+   "expires_at": "2026-11-17T00:00:00+00:00",
+   "decision": 1.29,
+   "priority": 7.12134,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3580,39 +3624,9 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.131461,
-   "selection_reason": "Editorial importance; waiting 18.0h",
+   "priority": 7.121172,
+   "selection_reason": "Editorial importance; waiting 18.5h",
    "decision": 1.84
-  },
-  {
-   "id": "218c8f96d3aa7ec9",
-   "item": {
-    "id": "218c8f96d3aa7ec9",
-    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
-    "url": "https://arxiv.org/abs/2611.14815",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: NVIDIA. Upvotes: 30. Abstract: Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion transformers, one per stream, lets each stream inform the other during generation. The predicted BEV also provides a geometric interface for ego control: we translate and rotate its latest frame along an input ego trajectory and use the resulting frames as a soft condition that shows how the scene would appear to move if only the ego vehicle moved. At inference, BirdDreams generates both videos from a …",
-    "published": "2026-11-13T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14815.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia researchers introduce BirdDreams driving world model",
-   "post": "Researchers at Nvidia introduced BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view video using joint attention between two video diffusion transformers.",
-   "editor_note": "Check that the abstract specifies joint attention between two video diffusion transformers for perspective and BEV video generation.",
-   "support": 0.96,
-   "published_at": "2026-11-13T00:00:00+00:00",
-   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
-   "expires_at": "2026-11-17T00:00:00+00:00",
-   "decision": 1.29,
-   "priority": 7.095618,
-   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3639,8 +3653,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.086137,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.103284,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3668,8 +3682,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.01812,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.035267,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3709,8 +3723,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.950198,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 6.970775,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3737,8 +3751,37 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.884064,
-   "selection_reason": "Editorial importance; waiting 70.5h"
+   "priority": 6.878919,
+   "selection_reason": "Editorial importance; waiting 71.0h"
+  },
+  {
+   "id": "6a6b6e0dbaec40e4",
+   "item": {
+    "id": "6a6b6e0dbaec40e4",
+    "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+    "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资。 钻耐科思（DiamNEX）成立于2025年，由 香港大学孵化 ，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力 。 金刚石被誉为“ 终极半导体材料” ，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量子科技与第四代超宽禁带半导体的关键材料。 传统半导体散热大多通过铜基风冷的方式进行，但伴随token消耗量剧增和对AI算力需求的不断提升，传统半导体材料散热愈发捉襟见肘。英伟达公开数据显示，下一代Rubin GPU功耗将突破2300W，风冷与铜基散热将逼近物理极限。 采用金刚石作为半导体材料能够有效缓解散热难题，但在传统制备路径下，金刚石材料面临着生长尺寸受限，制备周期长、切割损耗大、研磨抛光困难等产业化困境。 产业此前大致分为三条路线：金刚石基复合材料成本低但上限不高；多晶 CVD 金刚石居中；单晶 CVD 性能最高但实现难度最大。 DiamNEX选择在多晶路线上进行进一步拓展，其首创的\"边缘暴露剥离法\"按\"生长、切口、机械剥离\"三步，能够从衬底上直接剥出 晶圆级柔性金刚石薄膜 ，厚度低至200纳米、表面粗糙度优于0.5纳米、热导率超过1300 W/m·K。…",
+    "published": "2026-11-13T09:22:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "DiamNEX secures funding for diamond semiconductor materials",
+   "post": "Hong Kong University spin-off DiamNEX has raised tens of millions of yuan in a funding round led by Flashpoint Capital to develop diamond semiconductor materials for AI hardware cooling.",
+   "editor_note": "Confirm the exact funding currency and investor names from official release details.",
+   "support": 0.34,
+   "published_at": "2026-11-13T09:22:00+00:00",
+   "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
+   "expires_at": "2026-11-14T21:22:00+00:00",
+   "decision": 1.25,
+   "priority": 6.85397,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3766,7 +3809,7 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.779818,
+   "priority": 6.796965,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -3845,12 +3888,13 @@
   "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "2026-11-13T09:38:30.404318+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
-  "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00"
+  "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
+  "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
   "32933935200c2839": {
@@ -7217,6 +7261,151 @@
    "imp": 0.31,
    "ai": 0.07,
    "ts": "2026-11-13T11:07:47.605962+00:00"
+  },
+  "460ec4813c81b720": {
+   "imp": 2.29,
+   "ai": 0.93,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "e027394f77e2a2ab": {
+   "imp": 1.8,
+   "ai": 0.92,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "2cf60afac2834da2": {
+   "imp": 1.64,
+   "ai": 0.96,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "e7b4d074d37b80a9": {
+   "imp": 1.28,
+   "ai": 0.61,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "51e939fde6f0ed64": {
+   "imp": 1.13,
+   "ai": 0.84,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "d5040ea97e44c30b": {
+   "imp": 2.23,
+   "ai": 0.93,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "35841fa878f59e0e": {
+   "imp": 2.09,
+   "ai": 0.86,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "ad4711629dd6923d": {
+   "imp": 1.65,
+   "ai": 0.67,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "6a6b6e0dbaec40e4": {
+   "imp": 1.25,
+   "ai": 0.26,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "d10ac11e325f58aa": {
+   "imp": 0.09,
+   "ai": 0.07,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "9b0fc0ebc6efeece": {
+   "imp": 1.66,
+   "ai": 0.73,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "72315bb03f36759e": {
+   "imp": 2.04,
+   "ai": 0.42,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "0dbadd8158b7a524": {
+   "imp": 2.67,
+   "ai": 0.69,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "1b66973b422d4d8f": {
+   "imp": 1.01,
+   "ai": 0.29,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "f75ea76f795feab7": {
+   "imp": 0.24,
+   "ai": 0.03,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "da97fcfce154dbdf": {
+   "imp": 0.17,
+   "ai": 0.11,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "0e09c29813f5db12": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "1a8b7f6d1f663271": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "10c0c3765de1d5df": {
+   "imp": 0.85,
+   "ai": 0.18,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "c46ed70e9fa5255c": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "9a56be3c4423c0bb": {
+   "imp": 1.14,
+   "ai": 0.48,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "823391927c8f031b": {
+   "imp": 1.62,
+   "ai": 0.22,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "594c427109ed956b": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "9a0948412fc0f871": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "5faee52fd754c8d9": {
+   "imp": 0.26,
+   "ai": 0.04,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "4c19ffe696296248": {
+   "imp": 1.54,
+   "ai": 0.55,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "43b56f06cc61e67b": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "087d698d9da9b65f": {
+   "imp": 1.58,
+   "ai": 0.21,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
+  },
+  "a01b73f8686bd103": {
+   "imp": 1.23,
+   "ai": 0.24,
+   "ts": "2026-11-13T11:37:25.465062+00:00"
   }
  }
 }
