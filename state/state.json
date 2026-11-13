@@ -1858,13 +1858,20 @@
   "cd9d1a105b69dd29": "2026-11-13T15:07:25.360059+00:00",
   "24521c49692e8621": "2026-11-13T15:07:25.360059+00:00",
   "4ad04229e843ecc9": "2026-11-13T15:07:25.360059+00:00",
-  "eab418db04646951": "2026-11-13T15:07:25.360059+00:00"
+  "eab418db04646951": "2026-11-13T15:07:25.360059+00:00",
+  "6343212a54f99ab7": "2026-11-13T16:07:27.082293+00:00",
+  "657afbac4d86e979": "2026-11-13T16:07:27.082293+00:00",
+  "f8c0d3e8e42d750e": "2026-11-13T16:07:27.082293+00:00",
+  "2fe293e399e8f3f7": "2026-11-13T16:07:27.082293+00:00",
+  "a8617b75cc0e00e8": "2026-11-13T16:07:27.082293+00:00",
+  "1bdcb63cc91c6b08": "2026-11-13T16:07:27.082293+00:00",
+  "c3b2320da0248bb7": "2026-11-13T16:07:27.082293+00:00",
+  "56623f1d9c94c2c4": "2026-11-13T16:07:27.082293+00:00",
+  "889eb791f25c9ea9": "2026-11-13T16:07:27.082293+00:00",
+  "948cab028170cbf2": "2026-11-13T16:07:27.082293+00:00",
+  "a329082777fc6eeb": "2026-11-13T16:07:27.082293+00:00"
  },
  "covered": [
-  {
-   "headline": "Google DeepMind releases AlphaGenome 2 for DNA sequence modeling",
-   "ts": "2026-11-11T16:07:22.427352+00:00"
-  },
   {
    "headline": "Grok built apps exposed patient data and plaintext passwords",
    "ts": "2026-11-11T16:37:23.465555+00:00"
@@ -2084,11 +2091,15 @@
   {
    "headline": "SpaceX AI group lays off most of Grok video team",
    "ts": "2026-11-13T15:07:25.360059+00:00"
+  },
+  {
+   "headline": "Nvidia CEO Jensen Huang resigns after decades",
+   "ts": "2026-11-13T16:07:27.082293+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3560,9 +3571,149 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
    "published": "2026-11-13T14:05:22.744000+00:00",
    "excerpt": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…"
+  },
+  "https://openai.com/index/introducing-chatgpt-wallet": {
+   "title": "Introducing ChatGPT Wallet",
+   "desc": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-10T10:00:00+00:00"
   }
  },
  "pending": [
+  {
+   "id": "7d6f33056303e279",
+   "item": {
+    "id": "7d6f33056303e279",
+    "title": "Anthropic IPO: AI’s $1.4T Test",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Anthropic’s potential IPO is drawing extraordinary investor demand, with a reported target valuation of $1.4 trillion. Bloomberg’s Bailey Lipschultz joins Bloomberg Open Interest to explain why investors see the AI company as a must-own and why soaring compute costs, cash burn, uncertain profitability and unusual insider share sales could make the offering volatile. (Source: Bloomberg)",
+    "published": "2026-11-13T15:51:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "a1ffa3194999acb7",
+     "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+     "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+     "source": "The Decoder",
+     "image": "",
+     "snippet": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder .",
+     "published": "2026-11-13T15:15:08+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "4d6f012cbac12e6d",
+     "title": "Wall Street Braces for Anthropic’s Spending",
+     "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+     "source": "The New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-mediumSquareAt3X.jpg",
+     "snippet": "A screen displays news about Anthropic’s initial public offering on the floor of the New York Stock Exchange last month.",
+     "published": "2026-11-13T15:47:35+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 10,
+   "urgency": "timely",
+   "headline": "Anthropic IPO attracts massive investor demand at valuation target",
+   "post": "Anthropic's initial public offering is six times oversubscribed, with a reported target valuation of 1.4 trillion dollars and orders exceeding available shares.",
+   "editor_note": "Verify the final valuation and subscription multiple reported in official regulatory filings before publishing.",
+   "support": 0.82,
+   "published_at": "2026-11-13T15:15:08+00:00",
+   "first_seen_at": "2026-11-13T16:07:27.082293+00:00",
+   "expires_at": "2026-11-15T03:15:08+00:00",
+   "decision": 2.58,
+   "priority": 10.835779,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "5bf4951adbe9698d",
+   "item": {
+    "id": "5bf4951adbe9698d",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill",
+    "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "published": "2026-11-13T15:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [
+    {
+     "id": "88d77a52ad5e37e4",
+     "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+     "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
+     "published": "2026-11-13T15:31:58+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "4e379f6cb9d33e5a",
+     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+     "published": "2026-11-13T16:00:12+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 9,
+   "urgency": "timely",
+   "headline": "OpenAI introduces ChatGPT Wallet for AI agents",
+   "post": "OpenAI launched ChatGPT Wallet to allow AI agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and card protections.",
+   "editor_note": "Check which payment networks and user tiers are supported at launch.",
+   "support": 0.94,
+   "published_at": "2026-11-13T15:00:00+00:00",
+   "first_seen_at": "2026-11-13T16:07:27.082293+00:00",
+   "expires_at": "2026-11-15T15:00:00+00:00",
+   "decision": 2.37,
+   "priority": 9.766579,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "449fc35486b25600",
+   "item": {
+    "id": "449fc35486b25600",
+    "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+    "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The…",
+    "published": "2026-11-13T15:21:04+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 9,
+   "urgency": "timely",
+   "headline": "Researcher claims Nvidia Blackwell fingerprints in Chinese models",
+   "post": "A former OpenAI researcher reported finding technical evidence that six Chinese AI models used Nvidia Blackwell GPUs, estimating training hardware costs above half a billion dollars.",
+   "editor_note": "Confirm the technical methodology used to read chip signatures from model weights.",
+   "support": 0.72,
+   "published_at": "2026-11-13T15:21:04+00:00",
+   "first_seen_at": "2026-11-13T16:07:27.082293+00:00",
+   "expires_at": "2026-11-15T03:21:04+00:00",
+   "decision": 2.2,
+   "priority": 9.711859,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "218c8f96d3aa7ec9",
    "item": {
@@ -3590,8 +3741,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.329699,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.355738,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3618,8 +3769,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.24219,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.25955,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3647,8 +3798,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.174173,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.191533,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "2edbd065f0868506",
@@ -3675,8 +3826,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T01:30:31+00:00",
    "decision": 1.78,
-   "priority": 7.065849,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.083208,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3715,8 +3866,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.037828,
-   "selection_reason": "Editorial importance; waiting 22.5h",
+   "priority": 7.027413,
+   "selection_reason": "Editorial importance; waiting 23.0h",
    "decision": 1.84
   },
   {
@@ -3742,8 +3893,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.032807,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.018919,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3771,8 +3922,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 6.992876,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.010236,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3812,8 +3963,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.981162,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 6.970746,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3841,8 +3992,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.935872,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.953231,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "40e78db6601d46e6",
@@ -3869,8 +4020,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 6.922641,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.943473,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3897,8 +4048,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.837248,
-   "selection_reason": "Editorial importance; waiting 75.0h"
+   "priority": 6.83204,
+   "selection_reason": "Editorial importance; waiting 75.5h"
   }
  ],
  "details_queue": [],
@@ -3982,12 +4133,13 @@
   "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00",
   "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00",
   "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri": "2026-11-13T13:37:54.419334+00:00",
-  "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00"
+  "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00",
+  "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 3,
-  "takes": 23
+  "takes": 24
  },
  "triage": {
   "32933935200c2839": {
@@ -8069,6 +8221,76 @@
    "imp": 1.03,
    "ai": 0.12,
    "ts": "2026-11-13T15:37:27.258596+00:00"
+  },
+  "4e379f6cb9d33e5a": {
+   "imp": 2.19,
+   "ai": null,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "56623f1d9c94c2c4": {
+   "imp": 2.54,
+   "ai": null,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "948cab028170cbf2": {
+   "imp": 1.93,
+   "ai": null,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "bead99654d67d272": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "7d6f33056303e279": {
+   "imp": 2.57,
+   "ai": 0.95,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "2fe293e399e8f3f7": {
+   "imp": 1.1,
+   "ai": 0.9,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "889eb791f25c9ea9": {
+   "imp": 2.67,
+   "ai": 0.9,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "a329082777fc6eeb": {
+   "imp": 2.6,
+   "ai": 0.91,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "5bf4951adbe9698d": {
+   "imp": 2.37,
+   "ai": null,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "6343212a54f99ab7": {
+   "imp": 0.38,
+   "ai": 0.51,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "73351825b0781b3c": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "c80886225bddb597": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "900ed1b71c35ed2b": {
+   "imp": 0.2,
+   "ai": 0.07,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
+  },
+  "de134eacc232a8c7": {
+   "imp": 0.06,
+   "ai": 0.04,
+   "ts": "2026-11-13T16:07:27.082293+00:00"
   }
  }
 }
