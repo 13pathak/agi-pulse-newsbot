@@ -1775,13 +1775,10 @@
   "bc7f67e0bbed0e06": "2026-11-13T08:07:23.832592+00:00",
   "c7d14863ab6cf77a": "2026-11-13T08:07:23.832592+00:00",
   "7387f5f0d57fa092": "2026-11-13T08:07:23.832592+00:00",
-  "cac1e20ff384d73e": "2026-11-13T08:07:23.832592+00:00"
+  "cac1e20ff384d73e": "2026-11-13T08:07:23.832592+00:00",
+  "adc4551161f2fe73": "2026-11-13T08:37:20.813754+00:00"
  },
  "covered": [
-  {
-   "headline": "Madras High Court flags AI public library books",
-   "ts": "2026-11-11T08:37:20.546395+00:00"
-  },
   {
    "headline": "Nobel laureate validates OpenAI proof on Yang-Mills problem",
    "ts": "2026-11-11T09:07:24.243812+00:00"
@@ -2001,11 +1998,15 @@
   {
    "headline": "MeitY questions home platforms over physical AI video data",
    "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  {
+   "headline": "Frammer AI launches AI live sports highlights platform",
+   "ts": "2026-11-13T08:37:20.813754+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-13",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3454,8 +3455,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 7.241166,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.227301,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "6b5db77df3bfd94b",
@@ -3494,8 +3495,8 @@
    "published_at": "2026-11-12T00:00:00+00:00",
    "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.194098,
-   "selection_reason": "Editorial importance; waiting 15.0h",
+   "priority": 7.183699,
+   "selection_reason": "Editorial importance; waiting 15.5h",
    "decision": 1.84
   },
   {
@@ -3523,8 +3524,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T22:03:34+00:00",
    "decision": 1.29,
-   "priority": 7.157828,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.178626,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "294c246e7e16ea99",
@@ -3551,8 +3552,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-14T17:55:56+00:00",
    "decision": 1.83,
-   "priority": 7.142779,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.160111,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "85bacafff42444d7",
@@ -3579,8 +3580,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T17:59:59+00:00",
    "decision": 1.36,
-   "priority": 7.096584,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.117382,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "eedaaf26e82c4f65",
@@ -3608,8 +3609,8 @@
    "first_seen_at": "2026-11-13T03:37:32.343574+00:00",
    "expires_at": "2026-11-14T13:19:00+00:00",
    "decision": 1.39,
-   "priority": 7.055363,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.072695,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3638,8 +3639,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.939024,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.965022,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "13f9d9491c402dfb",
@@ -3666,8 +3667,8 @@
    "published_at": "2026-11-10T00:00:00+00:00",
    "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.915382,
-   "selection_reason": "Editorial importance; waiting 67.5h"
+   "priority": 6.910183,
+   "selection_reason": "Editorial importance; waiting 68.0h"
   },
   {
    "id": "21ab7432dba474e0",
@@ -3707,8 +3708,8 @@
    "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
    "expires_at": "2026-11-14T00:00:00+00:00",
    "decision": 1.67,
-   "priority": 6.824923,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.845721,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   }
  ],
  "details_queue": [],
@@ -3780,12 +3781,13 @@
   "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00",
   "https://36kr.com/newsflashes/4067761515730049?f=rss": "2026-11-13T06:37:56.829334+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video": "2026-11-13T07:38:01.980210+00:00",
-  "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms": "2026-11-13T08:08:03.735608+00:00"
+  "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms": "2026-11-13T08:08:03.735608+00:00",
+  "https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer": "2026-11-13T08:39:46.781857+00:00"
  },
  "details_daily": {
   "date": "2026-11-13",
   "count": 1,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
   "32933935200c2839": {
@@ -6377,6 +6379,56 @@
    "imp": 0.67,
    "ai": 0.13,
    "ts": "2026-11-13T08:07:23.832592+00:00"
+  },
+  "937a2fdc4dfa3966": {
+   "imp": 0.82,
+   "ai": 0.18,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "adc4551161f2fe73": {
+   "imp": 2.01,
+   "ai": 0.96,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "1aa485a4454511b4": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "33ec1689048a9ff3": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "f338c1cbb913aab4": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "fbfd9ab04e74caec": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "66f27a7196cefecb": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "501b108db144424c": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "fcc2b6031f0668f3": {
+   "imp": 0.42,
+   "ai": 0.07,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
+  },
+  "e1abc86d32ea41c9": {
+   "imp": 0.94,
+   "ai": 0.23,
+   "ts": "2026-11-13T08:37:20.813754+00:00"
   }
  }
 }
