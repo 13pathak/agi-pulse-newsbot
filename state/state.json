@@ -1,9 +1,5 @@
 {
  "seen": {
-  "b508ad447b2f725e": "2026-11-07T16:07:22.282656+00:00",
-  "fa06ff8fdc83e259": "2026-11-07T16:07:22.282656+00:00",
-  "73be1ddc7ff24f89": "2026-11-07T16:07:22.282656+00:00",
-  "575c2dec8f26ca76": "2026-11-07T16:07:22.282656+00:00",
   "ba30d0a56b147d1f": "2026-11-07T16:37:22.384460+00:00",
   "ccf16ddd4103ccd1": "2026-11-07T16:37:22.384460+00:00",
   "e54bace2c1ca1843": "2026-11-07T16:37:22.384460+00:00",
@@ -1879,7 +1875,12 @@
   "d46b516a4c8344dc": "2026-11-14T15:07:31.155102+00:00",
   "01ec9257e016a457": "2026-11-14T15:37:22.755172+00:00",
   "c942e3d15e3fa447": "2026-11-14T15:37:22.755172+00:00",
-  "1550629ee152246d": "2026-11-14T15:37:22.755172+00:00"
+  "1550629ee152246d": "2026-11-14T15:37:22.755172+00:00",
+  "5a77154cdc355bb6": "2026-11-14T16:07:21.949922+00:00",
+  "5218528ab465a6aa": "2026-11-14T16:07:21.949922+00:00",
+  "6f3f14d6fd802963": "2026-11-14T16:07:21.949922+00:00",
+  "8eed1b4fe3998a08": "2026-11-14T16:07:21.949922+00:00",
+  "1d98780783dcb85f": "2026-11-14T16:07:21.949922+00:00"
  },
  "covered": [
   {
@@ -2069,11 +2070,15 @@
   {
    "headline": "DeepSeek opens full API family",
    "ts": "2026-11-14T13:37:22.551708+00:00"
+  },
+  {
+   "headline": "US Treasury questions Nvidia over restricted AI chip sales",
+   "ts": "2026-11-14T16:07:21.949922+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3704,12 +3709,13 @@
   "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00",
   "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00",
   "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": "2026-11-14T12:09:46.538576+00:00",
-  "https://www.qbitai.com/2026/11/510003.html": "2026-11-14T13:39:20.495235+00:00"
+  "https://www.qbitai.com/2026/11/510003.html": "2026-11-14T13:39:20.495235+00:00",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
   "32933935200c2839": {
@@ -9361,6 +9367,36 @@
    "imp": 0.3,
    "ai": 0.13,
    "ts": "2026-11-14T15:37:22.755172+00:00"
+  },
+  "62125f379fbbc31d": {
+   "imp": 0.19,
+   "ai": 0.12,
+   "ts": "2026-11-14T16:07:21.949922+00:00"
+  },
+  "6f3f14d6fd802963": {
+   "imp": 0.71,
+   "ai": 0.47,
+   "ts": "2026-11-14T16:07:21.949922+00:00"
+  },
+  "5a77154cdc355bb6": {
+   "imp": 1.93,
+   "ai": 0.93,
+   "ts": "2026-11-14T16:07:21.949922+00:00"
+  },
+  "5218528ab465a6aa": {
+   "imp": 1.6,
+   "ai": 0.88,
+   "ts": "2026-11-14T16:07:21.949922+00:00"
+  },
+  "8eed1b4fe3998a08": {
+   "imp": 0.38,
+   "ai": 0.82,
+   "ts": "2026-11-14T16:07:21.949922+00:00"
+  },
+  "1d98780783dcb85f": {
+   "imp": 1.84,
+   "ai": 0.92,
+   "ts": "2026-11-14T16:07:21.949922+00:00"
   }
  }
 }
