@@ -1953,13 +1953,12 @@
   "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00",
   "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00",
   "1c29abfb1ab38174": "2026-11-14T05:07:22.357003+00:00",
-  "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00"
+  "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00",
+  "d92c984a09cf4648": "2026-11-14T05:37:20.368396+00:00",
+  "8b5e8839f70a7787": "2026-11-14T05:37:20.368396+00:00",
+  "b0617c4d1d1de1a1": "2026-11-14T05:37:20.368396+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent launches public web search engine Yuanbao Search",
-   "ts": "2026-11-12T05:37:23.867291+00:00"
-  },
   {
    "headline": "CoreWeave plans $4 billion investment-grade loan offering",
    "ts": "2026-11-12T06:07:22.967625+00:00"
@@ -2179,11 +2178,15 @@
   {
    "headline": "South Korean startup DeepX invests $100 million in Samsung",
    "ts": "2026-11-14T05:07:22.357003+00:00"
+  },
+  {
+   "headline": "Westlake University launches Awomo-0.5 physics model",
+   "ts": "2026-11-14T05:37:20.368396+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3691,35 +3694,6 @@
  },
  "pending": [
   {
-   "id": "b0617c4d1d1de1a1",
-   "item": {
-    "id": "b0617c4d1d1de1a1",
-    "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
-    "url": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "西湖世界模型研究中心成立，施一公亲自揭牌。 作者丨 张岂萍 编辑丨 幸丽娟 世界模型赛道已经不缺创业公司。 海外李飞飞、Yann LeCun 等学术大佬亲自下场，国内极佳视界、逆矩阵、流形空间等创业公司高密度入场。 但最近几个月，入场的力量开始发生变化，下场的不再只是公司，高校和地方政府也开始组织力量，参与这场技术竞争。 今年 7 月，北京大学与逆矩阵科技成立世界模型联合实验室。10 月，由极佳视界牵头的通用世界模型北京市重点实验室揭牌。一个是高校与创业公司联合研发，一个是北京市支持建设的重点科研平台。 如今，西湖大学再落一子，成立世界模型研究中心。西湖大学校长、中国科学院院士施一公亲自揭牌。 与研究中心同时亮相的，还有首版基础模型 Awomo-0.5。这款仅有 40 亿参数的模型，在6项国际公开评测的不同榜单中同时登顶，涉及物理推理、机器人操作和泛化等任务。 更值得关注的是，西湖大学 团队 已经开展了三年世界模型研究，建有自主智能实验室 AutoLab。 有实验室，还有阶段性技术成果， 为什么还要成立一个校级研究中心？先看它想把世界模型做到什么程度。 01 40亿参数“概念世界模型”， 瞄准通用物理智能 西湖大学 团队 发布的首版基础模型 Awomo-0.5，定位是 通用物理世界模型 。它希望让 AI 学习能够跨场景复用的物理规律，理解物体之间的关系，并预测真实世界接下来会发生什么。 这款模型只有 4B（40 亿）参数，采用的是 “概念世界模型”（Concept World Model） 技术路线。 目前，一部分世界模型研究主要通过生成未来视频，模拟环境和物体的变化。西湖大学…",
-    "published": "2026-11-13T07:43:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Westlake University launches Awomo-0.5 physics model",
-   "post": "Westlake University researchers introduced Awomo-0.5, a 4-billion-parameter concept world model designed for physical reasoning, robotics, and generalization tasks.",
-   "editor_note": "Verify the claim that the 4-billion-parameter model topped six public benchmarks across physical reasoning and robotics tasks.",
-   "support": 0.93,
-   "published_at": "2026-11-13T07:43:00+00:00",
-   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
-   "expires_at": "2026-11-14T19:43:00+00:00",
-   "decision": 1.65,
-   "priority": 7.205383,
-   "selection_reason": "Editorial importance; waiting 19.0h"
-  },
-  {
    "id": "6a6b6e0dbaec40e4",
    "item": {
     "id": "6a6b6e0dbaec40e4",
@@ -3745,8 +3719,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.117883,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.10401,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3774,8 +3748,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.030013,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.016139,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   }
  ],
  "details_queue": [],
@@ -3870,12 +3844,13 @@
   "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1": "2026-11-14T03:07:48.477575+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo": "2026-11-14T03:40:49.518699+00:00",
   "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T04:37:30.979766+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00",
+  "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
   "32933935200c2839": {
@@ -8897,6 +8872,21 @@
    "imp": 0.06,
    "ai": 0.03,
    "ts": "2026-11-14T05:07:22.357003+00:00"
+  },
+  "8b5e8839f70a7787": {
+   "imp": 0.85,
+   "ai": 0.31,
+   "ts": "2026-11-14T05:37:20.368396+00:00"
+  },
+  "d92c984a09cf4648": {
+   "imp": 2.1,
+   "ai": 0.96,
+   "ts": "2026-11-14T05:37:20.368396+00:00"
+  },
+  "06afb4b326bd3ee8": {
+   "imp": 1.31,
+   "ai": 0.45,
+   "ts": "2026-11-14T05:37:20.368396+00:00"
   }
  }
 }
