@@ -1,10 +1,5 @@
 {
  "seen": {
-  "016e849ea3abf5a8": "2026-11-07T03:07:21.719472+00:00",
-  "52e0623fab799a21": "2026-11-07T03:07:21.719472+00:00",
-  "fc8f30aee8f3f7ca": "2026-11-07T03:07:21.719472+00:00",
-  "ef57b5d475853af9": "2026-11-07T03:07:21.719472+00:00",
-  "22815b4f725ebdf4": "2026-11-07T03:07:21.719472+00:00",
   "4a6109d50595a193": "2026-11-07T03:37:21.770435+00:00",
   "35ab47bbc76cac8b": "2026-11-07T03:37:21.770435+00:00",
   "0feb63ba3600d466": "2026-11-07T05:07:22.516755+00:00",
@@ -1946,13 +1941,15 @@
   "d70110f8dad0aa80": "2026-11-14T02:37:31.704833+00:00",
   "8ea3510c376203b4": "2026-11-14T02:37:31.704833+00:00",
   "cf56dd8d2a579c04": "2026-11-14T02:37:31.704833+00:00",
-  "ac75d13803ce0d93": "2026-11-14T02:37:31.704833+00:00"
+  "ac75d13803ce0d93": "2026-11-14T02:37:31.704833+00:00",
+  "1e2c04e5b9e4b465": "2026-11-14T03:07:19.743183+00:00",
+  "e0f25d2994ae8ba5": "2026-11-14T03:07:19.743183+00:00",
+  "8575daa888e72a9f": "2026-11-14T03:07:19.743183+00:00",
+  "d25c4272428898ed": "2026-11-14T03:07:19.743183+00:00",
+  "70be99cd333fb782": "2026-11-14T03:07:19.743183+00:00",
+  "63dff3aa762e93c5": "2026-11-14T03:07:19.743183+00:00"
  },
  "covered": [
-  {
-   "headline": "US Commerce Department finalizing remote access rule for chips",
-   "ts": "2026-11-12T03:07:20.943877+00:00"
-  },
   {
    "headline": "Baidu launches Ciyuan Suo model trading platform",
    "ts": "2026-11-12T03:37:23.593271+00:00"
@@ -2172,11 +2169,15 @@
   {
    "headline": "Sarvam secures government backing to build native Indian AI models",
    "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  {
+   "headline": "Nvidia approaches Arm CEO Rene Haas for chief executive role",
+   "ts": "2026-11-14T03:07:19.743183+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3684,47 +3685,6 @@
  },
  "pending": [
   {
-   "id": "70be99cd333fb782",
-   "item": {
-    "id": "70be99cd333fb782",
-    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "image": "",
-    "snippet": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
-    "published": "2026-11-13T16:53:17+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "63dff3aa762e93c5",
-     "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-     "source": "Tom's Hardware",
-     "image": "https://cdn.mos.cms.futurecdn.net/qBiTnikCtK5QZ46zhHfiXm-1920-80.jpg",
-     "snippet": "<p>Anton Shilov has been in the PC industry since 1990s playing games, building PCs, and writing stories about pretty much everything that relates to PCs, Macs, smartphones, tablets, and even fab equipment. Over his career, he has worked at a variety of high-ranking websites, including AnandTech, EE Times, TechRadar, X-bit Labs, and now Tom's Hardware. He is also a regular features contributor to …",
-     "published": "2026-11-13T21:00:00+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia approaches Arm CEO Rene Haas for chief executive role",
-   "post": "Nvidia has approached Arm Chief Executive Officer Rene Haas as a candidate in its search for a new CEO following the resignation of Jensen Huang, according to the Financial Times.",
-   "editor_note": "Verify if Nvidia or Arm have issued official statements regarding executive recruiting.",
-   "support": 0.56,
-   "published_at": "2026-11-13T16:53:17+00:00",
-   "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
-   "expires_at": "2026-11-15T04:53:17+00:00",
-   "decision": 2.05,
-   "priority": 7.506741,
-   "selection_reason": "Editorial importance; waiting 9.5h"
-  },
-  {
    "id": "2edbd065f0868506",
    "item": {
     "id": "2edbd065f0868506",
@@ -3749,8 +3709,36 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T01:30:31+00:00",
    "decision": 1.78,
-   "priority": 7.447836,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.465082,
+   "selection_reason": "Editorial importance; waiting 12.0h"
+  },
+  {
+   "id": "40e78db6601d46e6",
+   "item": {
+    "id": "40e78db6601d46e6",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+    "snippet": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…",
+    "published": "2026-11-13T14:05:22+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "llama.cpp releases version 1.0.0 for local AI inference",
+   "post": "llama.cpp has released version 1.0.0, providing a portable C and C++ implementation for running multi-modal language models across local consumer hardware and enterprise servers.",
+   "editor_note": "Check exact GitHub release notes for breaking API changes in version 1.0.0.",
+   "support": 0.96,
+   "published_at": "2026-11-13T14:05:22+00:00",
+   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
+   "expires_at": "2026-11-15T14:05:22+00:00",
+   "decision": 1.27,
+   "priority": 7.401721,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3779,36 +3767,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.402651,
-   "selection_reason": "Editorial importance; waiting 20.0h"
-  },
-  {
-   "id": "40e78db6601d46e6",
-   "item": {
-    "id": "40e78db6601d46e6",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
-    "snippet": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…",
-    "published": "2026-11-13T14:05:22+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "llama.cpp releases version 1.0.0 for local AI inference",
-   "post": "llama.cpp has released version 1.0.0, providing a portable C and C++ implementation for running multi-modal language models across local consumer hardware and enterprise servers.",
-   "editor_note": "Check exact GitHub release notes for breaking API changes in version 1.0.0.",
-   "support": 0.96,
-   "published_at": "2026-11-13T14:05:22+00:00",
-   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
-   "expires_at": "2026-11-15T14:05:22+00:00",
-   "decision": 1.27,
-   "priority": 7.381026,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.397478,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3835,8 +3795,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.342772,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.328976,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3864,8 +3824,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.274755,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.260959,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3893,8 +3853,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.187255,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.173459,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3922,8 +3882,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.099385,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.085588,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   }
  ],
  "details_queue": [],
@@ -4014,12 +3974,13 @@
   "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure": "2026-11-14T01:38:49.183684+00:00",
   "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace": "2026-11-14T02:08:04.704177+00:00",
-  "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1": "2026-11-14T02:38:11.425607+00:00"
+  "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1": "2026-11-14T02:38:11.425607+00:00",
+  "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1": "2026-11-14T03:07:48.477575+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 0,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
   "32933935200c2839": {
@@ -8911,6 +8872,46 @@
    "imp": 0.7,
    "ai": 0.1,
    "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "1e2c04e5b9e4b465": {
+   "imp": 2.6,
+   "ai": 0.96,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "9bfcb627a6c2288f": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "e44d478a2637737e": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "08c7dd1c5eb92deb": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "779685ab37e0a503": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "d75f17bbe68ec553": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "ae3a3002bbcab10b": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
+  },
+  "ce12dda2f0d4f8d7": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-14T03:07:19.743183+00:00"
   }
  }
 }
