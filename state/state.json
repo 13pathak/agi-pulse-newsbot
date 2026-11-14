@@ -1914,14 +1914,6 @@
  },
  "covered": [
   {
-   "headline": "ElevenLabs and Nvidia expand global voice agent collaboration",
-   "ts": "2026-11-12T09:07:23.451619+00:00"
-  },
-  {
-   "headline": "UK AI chip startup Fractile reaches $7 billion valuation",
-   "ts": "2026-11-12T09:37:22.304670+00:00"
-  },
-  {
    "headline": "Chariot launches text-to-speech model supporting 11 Indian languages",
    "ts": "2026-11-12T10:07:27.209325+00:00"
   },
@@ -8933,6 +8925,16 @@
    "imp": 0.04,
    "ai": 0.01,
    "ts": "2026-11-14T09:07:21.427655+00:00"
+  },
+  "9ffa6beb5e221c99": {
+   "imp": 0.88,
+   "ai": 0.08,
+   "ts": "2026-11-14T09:37:24.469696+00:00"
+  },
+  "4d8443388c33f94f": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-14T09:37:24.469696+00:00"
   }
  }
 }
