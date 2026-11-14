@@ -1949,13 +1949,11 @@
   "eb62d1b6c62481e8": "2026-11-14T03:37:20.868896+00:00",
   "e6dc0dbe1919383e": "2026-11-14T03:37:20.868896+00:00",
   "792490ccf5f864ea": "2026-11-14T03:37:20.868896+00:00",
-  "2edbd065f0868506": "2026-11-14T03:37:20.868896+00:00"
+  "2edbd065f0868506": "2026-11-14T03:37:20.868896+00:00",
+  "043f7c7f1b1fa4f7": "2026-11-14T04:07:24.186318+00:00",
+  "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia board searches for CEO candidates amid review",
-   "ts": "2026-11-12T04:07:21.934969+00:00"
-  },
   {
    "headline": "Xixuan Chuangzhi raises 500 million yuan in angel round",
    "ts": "2026-11-12T04:37:22.390561+00:00"
@@ -2175,11 +2173,15 @@
   {
    "headline": "Data center developer Nscale reveals 5.5 billion dollar debt",
    "ts": "2026-11-14T03:37:20.868896+00:00"
+  },
+  {
+   "headline": "Nvidia researchers introduce BirdDreams driving world model",
+   "ts": "2026-11-14T04:07:24.186318+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3687,36 +3689,6 @@
  },
  "pending": [
   {
-   "id": "218c8f96d3aa7ec9",
-   "item": {
-    "id": "218c8f96d3aa7ec9",
-    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
-    "url": "https://arxiv.org/abs/2611.14815",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: NVIDIA. Upvotes: 30. Abstract: Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion transformers, one per stream, lets each stream inform the other during generation. The predicted BEV also provides a geometric interface for ego control: we translate and rotate its latest frame along an input ego trajectory and use the resulting frames as a soft condition that shows how the scene would appear to move if only the ego vehicle moved. At inference, BirdDreams generates both videos from a …",
-    "published": "2026-11-13T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.14815.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia researchers introduce BirdDreams driving world model",
-   "post": "Researchers at Nvidia introduced BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view video using joint attention between two video diffusion transformers.",
-   "editor_note": "Check that the abstract specifies joint attention between two video diffusion transformers for perspective and BEV video generation.",
-   "support": 0.96,
-   "published_at": "2026-11-13T00:00:00+00:00",
-   "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
-   "expires_at": "2026-11-17T00:00:00+00:00",
-   "decision": 1.29,
-   "priority": 7.392266,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
    "id": "40e78db6601d46e6",
    "item": {
     "id": "40e78db6601d46e6",
@@ -3741,8 +3713,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 7.391395,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.38096,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3769,8 +3741,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.315078,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.301164,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3798,8 +3770,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.247061,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.233147,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3827,8 +3799,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.159561,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.145647,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3856,8 +3828,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.071691,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.057776,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   }
  ],
  "details_queue": [],
@@ -8917,6 +8889,46 @@
    "imp": 0.18,
    "ai": 0.02,
    "ts": "2026-11-14T03:37:20.868896+00:00"
+  },
+  "a6a64e1a7c3b0653": {
+   "imp": 0.77,
+   "ai": 0.11,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "043f7c7f1b1fa4f7": {
+   "imp": 0.89,
+   "ai": 0.67,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "dc79488792f07457": {
+   "imp": 0.2,
+   "ai": 0.02,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "15c65c2fced2f2b2": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "512776c824ce83d9": {
+   "imp": 0.31,
+   "ai": 0.09,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "c3cc288604173712": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "3acfb5b7c54db135": {
+   "imp": 0.21,
+   "ai": 0.01,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "b16a0a26d8306fdc": {
+   "imp": 0.32,
+   "ai": 0.13,
+   "ts": "2026-11-14T04:07:24.186318+00:00"
   }
  }
 }
