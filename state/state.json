@@ -1,6 +1,5 @@
 {
  "seen": {
-  "52e86082237709a5": "2026-11-07T08:07:23.026316+00:00",
   "66bc3985cbef65e4": "2026-11-07T08:37:20.697583+00:00",
   "9dd4c5fa836a0e17": "2026-11-07T08:37:20.697583+00:00",
   "08a8d09d2f45131d": "2026-11-07T08:37:20.697583+00:00",
@@ -1909,13 +1908,11 @@
   "612bf752e94b80db": "2026-11-14T07:07:23.451693+00:00",
   "977464ef05aec17a": "2026-11-14T07:07:23.451693+00:00",
   "32127b7dbbe3fec4": "2026-11-14T07:07:23.451693+00:00",
-  "a0b44e6183dde18b": "2026-11-14T07:37:22.061439+00:00"
+  "a0b44e6183dde18b": "2026-11-14T07:37:22.061439+00:00",
+  "5853038b14588b71": "2026-11-14T08:07:22.564336+00:00",
+  "778fbf3e20e9334b": "2026-11-14T08:07:22.564336+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI launches API inference residency in India",
-   "ts": "2026-11-12T08:07:21.544996+00:00"
-  },
   {
    "headline": "Doubao Work integrates third-party models with discounts",
    "ts": "2026-11-12T08:37:21.049070+00:00"
@@ -2131,11 +2128,15 @@
   {
    "headline": "China International Capital Corporation and Ant Group partner on AI",
    "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  {
+   "headline": "Baidu launches token exchange platform for AI models",
+   "ts": "2026-11-14T08:07:22.564336+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3738,12 +3739,13 @@
   "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00",
   "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": "2026-11-14T06:07:29.964403+00:00",
   "https://36kr.com/newsflashes/4069071474480002?f=rss": "2026-11-14T06:37:49.383303+00:00",
-  "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": "2026-11-14T07:09:20.657244+00:00"
+  "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": "2026-11-14T07:09:20.657244+00:00",
+  "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
   "32933935200c2839": {
@@ -8875,6 +8877,26 @@
    "imp": 0.31,
    "ai": 0.03,
    "ts": "2026-11-14T07:37:22.061439+00:00"
+  },
+  "5853038b14588b71": {
+   "imp": 1.22,
+   "ai": 0.9,
+   "ts": "2026-11-14T08:07:22.564336+00:00"
+  },
+  "778fbf3e20e9334b": {
+   "imp": 1.53,
+   "ai": 0.97,
+   "ts": "2026-11-14T08:07:22.564336+00:00"
+  },
+  "9167f13889b833d5": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-14T08:07:22.564336+00:00"
+  },
+  "4db0b2ba79b34e3f": {
+   "imp": 0.22,
+   "ai": 0.03,
+   "ts": "2026-11-14T08:07:22.564336+00:00"
   }
  }
 }
