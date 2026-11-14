@@ -1,6 +1,5 @@
 {
  "seen": {
-  "0feb63ba3600d466": "2026-11-07T05:07:22.516755+00:00",
   "fec680450254c82a": "2026-11-07T06:37:20.117711+00:00",
   "5ec3b2099e9f68de": "2026-11-07T06:37:20.117711+00:00",
   "cd0f92ec70462440": "2026-11-07T06:37:20.117711+00:00",
@@ -1952,13 +1951,11 @@
   "2edbd065f0868506": "2026-11-14T03:37:20.868896+00:00",
   "043f7c7f1b1fa4f7": "2026-11-14T04:07:24.186318+00:00",
   "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00",
-  "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00"
+  "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00",
+  "1c29abfb1ab38174": "2026-11-14T05:07:22.357003+00:00",
+  "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00"
  },
  "covered": [
-  {
-   "headline": "Baidu CEO forecasts long-term inference chip demand",
-   "ts": "2026-11-12T05:07:23.365501+00:00"
-  },
   {
    "headline": "Tencent launches public web search engine Yuanbao Search",
    "ts": "2026-11-12T05:37:23.867291+00:00"
@@ -2178,11 +2175,15 @@
   {
    "headline": "llama.cpp releases version 1.0.0 for local AI inference",
    "ts": "2026-11-14T04:37:20.340345+00:00"
+  },
+  {
+   "headline": "South Korean startup DeepX invests $100 million in Samsung",
+   "ts": "2026-11-14T05:07:22.357003+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3690,34 +3691,6 @@
  },
  "pending": [
   {
-   "id": "d6d8c69f54f19a5e",
-   "item": {
-    "id": "d6d8c69f54f19a5e",
-    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
-    "published": "2026-11-13T09:33:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "South Korean startup DeepX invests $100 million in Samsung",
-   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
-   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
-   "support": 0.96,
-   "published_at": "2026-11-13T09:33:55+00:00",
-   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
-   "expires_at": "2026-11-14T21:33:55+00:00",
-   "decision": 1.7,
-   "priority": 7.287304,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
    "id": "b0617c4d1d1de1a1",
    "item": {
     "id": "b0617c4d1d1de1a1",
@@ -3743,8 +3716,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.219287,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.205383,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3772,8 +3745,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.131787,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.117883,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3801,8 +3774,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.043917,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.030013,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   }
  ],
  "details_queue": [],
@@ -3896,12 +3869,13 @@
   "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1": "2026-11-14T02:38:11.425607+00:00",
   "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1": "2026-11-14T03:07:48.477575+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo": "2026-11-14T03:40:49.518699+00:00",
-  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T04:37:30.979766+00:00"
+  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T04:37:30.979766+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
   "32933935200c2839": {
@@ -8913,6 +8887,16 @@
    "imp": 0.34,
    "ai": 0.06,
    "ts": "2026-11-14T04:37:20.340345+00:00"
+  },
+  "1c29abfb1ab38174": {
+   "imp": 1.71,
+   "ai": 0.95,
+   "ts": "2026-11-14T05:07:22.357003+00:00"
+  },
+  "30dedd8fa55411a5": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-14T05:07:22.357003+00:00"
   }
  }
 }
