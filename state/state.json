@@ -1892,13 +1892,58 @@
   "5bf4951adbe9698d": "2026-11-13T17:07:23.545296+00:00",
   "88d77a52ad5e37e4": "2026-11-13T17:07:23.545296+00:00",
   "4e379f6cb9d33e5a": "2026-11-13T17:07:23.545296+00:00",
-  "13e393cb09e0c2fe": "2026-11-13T17:07:23.545296+00:00"
+  "13e393cb09e0c2fe": "2026-11-13T17:07:23.545296+00:00",
+  "6b5db77df3bfd94b": "2026-11-14T01:07:22.254611+00:00",
+  "829ec27078fa35c2": "2026-11-14T01:07:22.254611+00:00",
+  "21ab7432dba474e0": "2026-11-14T01:07:22.254611+00:00",
+  "c88537f3a56d1457": "2026-11-14T01:07:22.254611+00:00",
+  "13f9d9491c402dfb": "2026-11-14T01:07:22.254611+00:00",
+  "41b9d660ec27f386": "2026-11-14T01:07:22.254611+00:00",
+  "d1318183fe172893": "2026-11-14T01:07:22.254611+00:00",
+  "2427bacb74a96b4b": "2026-11-14T01:07:22.254611+00:00",
+  "cb5a4d17dfb87a18": "2026-11-14T01:07:22.254611+00:00",
+  "984d08da3cf7995c": "2026-11-14T01:07:22.254611+00:00",
+  "94d8e8d36570e022": "2026-11-14T01:07:22.254611+00:00",
+  "98fa1e92ab085231": "2026-11-14T01:07:22.254611+00:00",
+  "610b94d6940123c6": "2026-11-14T01:07:22.254611+00:00",
+  "77075a692af2a108": "2026-11-14T01:07:22.254611+00:00",
+  "dbb2dbe2268b094a": "2026-11-14T01:07:22.254611+00:00",
+  "ad639fbc6552b9e9": "2026-11-14T01:07:22.254611+00:00",
+  "f1ced52c9e657080": "2026-11-14T01:07:22.254611+00:00",
+  "15cb2faaffcf0439": "2026-11-14T01:07:22.254611+00:00",
+  "7229ca734bc0761a": "2026-11-14T01:07:22.254611+00:00",
+  "7a37cc01c839cd57": "2026-11-14T01:07:22.254611+00:00",
+  "8d4419d1ea64b657": "2026-11-14T01:07:22.254611+00:00",
+  "ae3217570306e2c9": "2026-11-14T01:07:22.254611+00:00",
+  "951c84561943a913": "2026-11-14T01:07:22.254611+00:00",
+  "e3ea85825ec5fc14": "2026-11-14T01:07:22.254611+00:00",
+  "17f09dd8eddc0b9f": "2026-11-14T01:07:22.254611+00:00",
+  "51102f5176871319": "2026-11-14T01:07:22.254611+00:00",
+  "30d42da4b4e81437": "2026-11-14T01:07:22.254611+00:00",
+  "0d9fae548b15d920": "2026-11-14T01:07:22.254611+00:00",
+  "38741df50e34ad24": "2026-11-14T01:07:22.254611+00:00",
+  "df2c9591c930aa95": "2026-11-14T01:07:22.254611+00:00",
+  "5929db995edfd742": "2026-11-14T01:07:22.254611+00:00",
+  "a449d5f9748bf10f": "2026-11-14T01:07:22.254611+00:00",
+  "2ee16e063dccd3d7": "2026-11-14T01:07:22.254611+00:00",
+  "e276e77530e2ebe5": "2026-11-14T01:07:22.254611+00:00",
+  "04367a7d0b10c58a": "2026-11-14T01:07:22.254611+00:00",
+  "bf40a8e483ebbdeb": "2026-11-14T01:07:22.254611+00:00",
+  "c371d06a5231e17d": "2026-11-14T01:07:22.254611+00:00",
+  "9896210f0dd0968d": "2026-11-14T01:07:22.254611+00:00",
+  "e967fe0cd236e26a": "2026-11-14T01:07:22.254611+00:00",
+  "12e8a078f38517ab": "2026-11-14T01:07:22.254611+00:00",
+  "be0f439fc3d0da04": "2026-11-14T01:07:22.254611+00:00",
+  "b6de13ec3caeae82": "2026-11-14T01:07:22.254611+00:00",
+  "f807c61a14b39adc": "2026-11-14T01:07:22.254611+00:00",
+  "5e54ac9622fb99a8": "2026-11-14T01:07:22.254611+00:00",
+  "2324ffb80b41a1ad": "2026-11-14T01:07:22.254611+00:00",
+  "d286ac102d0220e7": "2026-11-14T01:07:22.254611+00:00",
+  "bdca3a6a8960c0b1": "2026-11-14T01:07:22.254611+00:00",
+  "449fc35486b25600": "2026-11-14T01:07:22.254611+00:00",
+  "f17748102e2c4282": "2026-11-14T01:07:22.254611+00:00"
  },
  "covered": [
-  {
-   "headline": "DeepL introduces Aure model for real-time speech translation",
-   "ts": "2026-11-12T01:07:22.215794+00:00"
-  },
   {
    "headline": "Radical Numerics develops offline pathogen identification model",
    "ts": "2026-11-12T01:37:22.582035+00:00"
@@ -2118,11 +2163,15 @@
   {
    "headline": "OpenAI introduces ChatGPT Wallet for AI agents",
    "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  {
+   "headline": "Researcher claims Nvidia Blackwell fingerprints in Chinese models",
+   "ts": "2026-11-14T01:07:22.254611+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-13",
-  "count": 28
+  "date": "2026-11-14",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3607,36 +3656,109 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
    "published": "2026-11-13T17:02:35.607000+00:00",
    "excerpt": "Truly useful AI assistants need to be able to help users who ask misguided questions—not just users who ask the right question with the right amount of detail. We’re releasing XYBench, a benchmark of 8K+ questions that tests how AI assistants respond to requests based on misconceptions, such as asking how to thicken frosting that keeps sliding off cupcakes when the real problem is that the cupcakes are still too warm to frost. XYBench won the Best Resource Paper Award at EMNLP 2026. A mismatch between the approach someone asks about and the goal they want to achieve is known as the XY problem: a person wants to accomplish X, assumes a particular approach Y will work, and asks for help with Y. In the cupcake example, the person is so committed to making the frosting stick that they fail to …"
+  },
+  "https://claude.com/resources/articles/building-always-on-agents": {
+   "title": "Building always-on agents",
+   "desc": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+   "image": "https://claude.com/resources/articles/building-always-on-agents/opengraph-image/og",
+   "published": "2026-11-13T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "desc": "A Blog post by NVIDIA on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
+   "published": "2026-11-13T18:00:39.078000+00:00",
+   "excerpt": "This walkthrough showcases a beverage can pick-and-place task that uses the UR17G arm, Robotiq 2F-140 gripper, and beverage can to compose a scene in Isaac Sim, check their behavior, and run a pick-and-place example with agent-generated controls. For robotics workflows, SimReady means an OpenUSD asset has been prepared with the properties needed for a defined simulation use case, such as collisions, mass, joints, and joint drives. SimReady Central, an open asset library on Hugging Face, lets you reuse robot and object assets with authored simulation properties and profile-validation evidence. For more about the library and its launch, read the announcement blog. SimReady Foundation defines what features the OpenUSD asset needs for a simulation use case. Its specifications connect three lev…"
+  },
+  "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website": {
+   "title": "AI agents attempted exploits on our website",
+   "desc": "Three October 2026 events involving Trajectory Labs, PBC, in which agents probed our site and impersonated staff. No private data was accessed.",
+   "image": "https://epoch.ai/assets/images/thumbnails/general.png",
+   "published": "2026-11-13T00:00:00+00:00"
   }
  },
  "pending": [
   {
-   "id": "449fc35486b25600",
+   "id": "4ecfb44c1aedd9ae",
    "item": {
-    "id": "449fc35486b25600",
-    "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-    "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The…",
-    "published": "2026-11-13T15:21:04+00:00",
+    "id": "4ecfb44c1aedd9ae",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+    "snippet": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA)…",
+    "published": "2026-11-13T21:20:47+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
-   "related": [],
-   "importance": 9,
+   "related": [
+    {
+     "id": "643f4f010bfe39aa",
+     "title": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault",
+     "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+     "source": "Business Insider",
+     "image": "https://i.insider.com/6af79f78b2c29afb4e56ae64?format=jpeg",
+     "snippet": "Authorities are investigating the cause of the major FAA outage. Air Space Intelligence, the company behind the FAA's new SMART system, said it wasn't their fault Microsoft wrote that its products weren't involved either. What caused the nationwide plane chaos? Microsoft and the company behind the FAA's new AI-powered SMART system have something to say: It wasn't us. On Friday afternoon, thousands…",
+     "published": "2026-11-13T23:49:27+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
    "urgency": "timely",
-   "headline": "Researcher claims Nvidia Blackwell fingerprints in Chinese models",
-   "post": "A former OpenAI researcher reported finding technical evidence that six Chinese AI models used Nvidia Blackwell GPUs, estimating training hardware costs above half a billion dollars.",
-   "editor_note": "Confirm the technical methodology used to read chip signatures from model weights.",
-   "support": 0.72,
-   "published_at": "2026-11-13T15:21:04+00:00",
-   "first_seen_at": "2026-11-13T16:07:27.082293+00:00",
-   "expires_at": "2026-11-15T03:21:04+00:00",
-   "decision": 2.2,
-   "priority": 9.746547,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "headline": "FAA expands AI traffic management tool across US airspace",
+   "post": "The FAA expanded an AI system nationwide to help controllers manage air traffic congestion across US airspace. Airline executives supported the rollout, while the air traffic controllers union said it was not involved in testing.",
+   "editor_note": "Verify the vendor name and union statement regarding controller involvement in system testing.",
+   "support": 0.87,
+   "published_at": "2026-11-13T21:20:47+00:00",
+   "first_seen_at": "2026-11-14T01:07:22.254611+00:00",
+   "expires_at": "2026-11-15T09:20:47+00:00",
+   "decision": 1.71,
+   "priority": 7.465098,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "70be99cd333fb782",
+   "item": {
+    "id": "70be99cd333fb782",
+    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "image": "",
+    "snippet": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+    "published": "2026-11-13T16:53:17+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "63dff3aa762e93c5",
+     "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+     "source": "Tom's Hardware",
+     "image": "https://cdn.mos.cms.futurecdn.net/qBiTnikCtK5QZ46zhHfiXm-1920-80.jpg",
+     "snippet": "<p>Anton Shilov has been in the PC industry since 1990s playing games, building PCs, and writing stories about pretty much everything that relates to PCs, Macs, smartphones, tablets, and even fab equipment. Over his career, he has worked at a variety of high-ranking websites, including AnandTech, EE Times, TechRadar, X-bit Labs, and now Tom's Hardware. He is also a regular features contributor to …",
+     "published": "2026-11-13T21:00:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nvidia approaches Arm CEO Rene Haas for chief executive role",
+   "post": "Nvidia has approached Arm Chief Executive Officer Rene Haas as a candidate in its search for a new CEO following the resignation of Jensen Huang, according to the Financial Times.",
+   "editor_note": "Verify if Nvidia or Arm have issued official statements regarding executive recruiting.",
+   "support": 0.56,
+   "published_at": "2026-11-13T16:53:17+00:00",
+   "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
+   "expires_at": "2026-11-15T04:53:17+00:00",
+   "decision": 2.05,
+   "priority": 7.454567,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3665,8 +3787,36 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.40777,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.418304,
+   "selection_reason": "Editorial importance; waiting 18.5h"
+  },
+  {
+   "id": "2edbd065f0868506",
+   "item": {
+    "id": "2edbd065f0868506",
+    "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
+    "published": "2026-11-13T13:30:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Data center developer Nscale reveals 5.5 billion dollar debt",
+   "post": "Data center developer Nscale reported 5.5 billion dollars in debt and increased reliance on Nvidia in a regulatory filing ahead of its planned initial public offering.",
+   "editor_note": "Confirm the exact debt-to-equity ratio and IPO timeline from the regulatory filing.",
+   "support": 0.88,
+   "published_at": "2026-11-13T13:30:31+00:00",
+   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
+   "expires_at": "2026-11-15T01:30:31+00:00",
+   "decision": 1.78,
+   "priority": 7.395662,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3693,8 +3843,36 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.294238,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.384512,
+   "selection_reason": "Editorial importance; waiting 15.0h"
+  },
+  {
+   "id": "40e78db6601d46e6",
+   "item": {
+    "id": "40e78db6601d46e6",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+    "snippet": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…",
+    "published": "2026-11-13T14:05:22+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "llama.cpp releases version 1.0.0 for local AI inference",
+   "post": "llama.cpp has released version 1.0.0, providing a portable C and C++ implementation for running multi-modal language models across local consumer hardware and enterprise servers.",
+   "editor_note": "Check exact GitHub release notes for breaking API changes in version 1.0.0.",
+   "support": 0.96,
+   "published_at": "2026-11-13T14:05:22+00:00",
+   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
+   "expires_at": "2026-11-15T14:05:22+00:00",
+   "decision": 1.27,
+   "priority": 7.318417,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3722,64 +3900,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.226221,
-   "selection_reason": "Editorial importance; waiting 7.0h"
-  },
-  {
-   "id": "70be99cd333fb782",
-   "item": {
-    "id": "70be99cd333fb782",
-    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "image": "",
-    "snippet": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
-    "published": "2026-11-13T16:53:17+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nvidia approaches Arm CEO Rene Haas for chief executive role",
-   "post": "Nvidia has approached Arm Chief Executive Officer Rene Haas as a candidate in its search for a new CEO following the resignation of Jensen Huang, according to the Financial Times.",
-   "editor_note": "Verify if Nvidia or Arm have issued official statements regarding executive recruiting.",
-   "support": 0.56,
-   "published_at": "2026-11-13T16:53:17+00:00",
-   "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
-   "expires_at": "2026-11-15T04:53:17+00:00",
-   "decision": 2.05,
-   "priority": 7.176801,
-   "selection_reason": "Editorial importance"
-  },
-  {
-   "id": "2edbd065f0868506",
-   "item": {
-    "id": "2edbd065f0868506",
-    "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
-    "published": "2026-11-13T13:30:31+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Data center developer Nscale reveals 5.5 billion dollar debt",
-   "post": "Data center developer Nscale reported 5.5 billion dollars in debt and increased reliance on Nvidia in a regulatory filing ahead of its planned initial public offering.",
-   "editor_note": "Confirm the exact debt-to-equity ratio and IPO timeline from the regulatory filing.",
-   "support": 0.88,
-   "published_at": "2026-11-13T13:30:31+00:00",
-   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
-   "expires_at": "2026-11-15T01:30:31+00:00",
-   "decision": 1.78,
-   "priority": 7.117896,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.316495,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3807,75 +3929,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.044924,
-   "selection_reason": "Editorial importance; waiting 5.5h"
-  },
-  {
-   "id": "6b5db77df3bfd94b",
-   "item": {
-    "id": "6b5db77df3bfd94b",
-    "title": "Claude for Manufacturing: AI plugin for plant teams",
-    "url": "https://claude.com/resources/articles/claude-for-manufacturing",
-    "source": "Claude Product Updates",
-    "image": "https://claude.com/resources/articles/claude-for-manufacturing/opengraph-image/og",
-    "snippet": "Claude for Manufacturing drafts quotes, quality reports, and supplier requests from your plant’s own records, for your team to review and approve.",
-    "published": "2026-11-12T00:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "829ec27078fa35c2",
-     "title": "Anthropic pitches a new Claude tool as a salve for manufacturers' labor shortages",
-     "url": "https://www.businessinsider.com/anthropic-launches-claude-for-manufacturers-ahead-of-ipo-2026-11",
-     "source": "Business Insider",
-     "image": "https://i.insider.com/6af52563cbe2120470734966?format=jpeg",
-     "snippet": "Anthropic is launching a Claude plugin for manufacturers. It's part of the company's sales playbook ahead of the large IPO planned for next week. Anthropic's business sales leader said she hopes the tool will help address labor shortages. Anthropic has a new target for Claude adoption : people who run the factory floor. The company launched a new Claude for Manufacturers plugin on Thursday. It's a…",
-     "published": "2026-11-12T17:00:01+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude plugin for manufacturing teams",
-   "post": "Anthropic launched a Claude for Manufacturing plugin designed for industrial plant teams. The tool integrates with plant records to draft quotes, quality reports, and supplier requests for human review and approval.",
-   "editor_note": "Verify availability details and whether the plugin requires specific Enterprise tier access.",
-   "support": 0.83,
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "first_seen_at": "2026-11-12T17:07:23.605760+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 7.0066,
-   "selection_reason": "Editorial importance; waiting 24.0h",
-   "decision": 1.84
-  },
-  {
-   "id": "06552fbaf1ca878c",
-   "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 6.991169,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.228995,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3903,105 +3958,34 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 6.987919,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.141125,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
-   "id": "40e78db6601d46e6",
+   "id": "06552fbaf1ca878c",
    "item": {
-    "id": "40e78db6601d46e6",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
-    "snippet": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…",
-    "published": "2026-11-13T14:05:22+00:00",
+    "id": "06552fbaf1ca878c",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
+    "published": "2026-11-12T13:48:19+00:00",
     "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "llama.cpp releases version 1.0.0 for local AI inference",
-   "post": "llama.cpp has released version 1.0.0, providing a portable C and C++ implementation for running multi-modal language models across local consumer hardware and enterprise servers.",
-   "editor_note": "Check exact GitHub release notes for breaking API changes in version 1.0.0.",
-   "support": 0.96,
-   "published_at": "2026-11-13T14:05:22+00:00",
-   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
-   "expires_at": "2026-11-15T14:05:22+00:00",
-   "decision": 1.27,
-   "priority": 6.985098,
-   "selection_reason": "Editorial importance; waiting 2.0h"
-  },
-  {
-   "id": "21ab7432dba474e0",
-   "item": {
-    "id": "21ab7432dba474e0",
-    "title": "Introducing Claude Meetings, now in beta",
-    "url": "https://claude.com/resources/articles/claude-meetings",
-    "source": "Claude Product Updates",
-    "image": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
-    "snippet": "Add Claude to your video calls to take notes, answer questions, and build docs and whiteboards while your team talks.",
-    "published": "2026-11-12T00:00:00+00:00",
-    "images": true,
-    "category": "primary",
+    "category": "news",
     "source_cap": 3
    },
-   "related": [
-    {
-     "id": "c88537f3a56d1457",
-     "title": "Claude Meetings lets Anthropic's AI join your video calls",
-     "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder .",
-     "published": "2026-11-12T20:26:50+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Anthropic launches Claude Meetings beta for video calls",
-   "post": "Anthropic has introduced Claude Meetings in beta, allowing users to add the AI assistant to Google Meet sessions to generate real-time notes, documents, and whiteboards.",
-   "editor_note": "Check which video call platforms beyond Google Meet are supported in the beta release.",
-   "support": 0.67,
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "first_seen_at": "2026-11-13T01:07:24.343628+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "decision": 1.67,
-   "priority": 6.949933,
-   "selection_reason": "Editorial importance; waiting 16.0h"
-  },
-  {
-   "id": "13f9d9491c402dfb",
-   "item": {
-    "id": "13f9d9491c402dfb",
-    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-    "url": "https://arxiv.org/abs/2611.12762",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 30. Abstract: We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
-    "published": "2026-11-10T00:00:00+00:00",
-    "upvotes": 30,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.12762.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Shanghai AI Lab researchers introduce Sage-Taiyi architecture",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Taiyi, a metacognitive architecture for scientific discovery that scored 54.0 on Taiyi-Bench and raised cobalt-catalyzed carbonylation yields to 84 percent.",
-   "editor_note": "Verify the exact benchmark task distribution on Taiyi-Bench compared to AI Scientist-v2.",
-   "published_at": "2026-11-10T00:00:00+00:00",
-   "first_seen_at": "2026-11-10T12:37:25.483982+00:00",
-   "expires_at": "2026-11-14T00:00:00+00:00",
-   "priority": 6.821633,
-   "selection_reason": "Editorial importance; waiting 76.5h"
+   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
+   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
+   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
+   "published_at": "2026-11-12T13:48:19+00:00",
+   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
+   "expires_at": "2026-11-14T01:48:19+00:00",
+   "priority": 6.768956,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   }
  ],
  "details_queue": [],
@@ -4088,12 +4072,13 @@
   "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00",
   "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
-  "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00"
+  "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00",
+  "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00"
  },
  "details_daily": {
-  "date": "2026-11-13",
-  "count": 4,
-  "takes": 25
+  "date": "2026-11-14",
+  "count": 0,
+  "takes": 1
  },
  "triage": {
   "32933935200c2839": {
@@ -8380,6 +8365,511 @@
    "imp": 0.16,
    "ai": 0.04,
    "ts": "2026-11-13T17:07:23.545296+00:00"
+  },
+  "f807c61a14b39adc": {
+   "imp": 0.38,
+   "ai": 0.91,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "04367a7d0b10c58a": {
+   "imp": 0.9,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "951c84561943a913": {
+   "imp": 2.15,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "ad639fbc6552b9e9": {
+   "imp": 2.47,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "38741df50e34ad24": {
+   "imp": 1.9,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "f17748102e2c4282": {
+   "imp": 2.07,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "4ecfb44c1aedd9ae": {
+   "imp": 1.71,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "c371d06a5231e17d": {
+   "imp": 1.56,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "5e54ac9622fb99a8": {
+   "imp": 0.16,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "e3ea85825ec5fc14": {
+   "imp": 2.05,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "b6de13ec3caeae82": {
+   "imp": 1.95,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "bf40a8e483ebbdeb": {
+   "imp": 2.05,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "2ee16e063dccd3d7": {
+   "imp": 0.82,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "2324ffb80b41a1ad": {
+   "imp": 0.09,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "7a37cc01c839cd57": {
+   "imp": 2.34,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "8d4419d1ea64b657": {
+   "imp": 2.34,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "d286ac102d0220e7": {
+   "imp": 0.08,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "bdca3a6a8960c0b1": {
+   "imp": 0.08,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "8f959b59e50e02b2": {
+   "imp": 1.93,
+   "ai": 0.97,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "69fbf418d3236c6b": {
+   "imp": 1.76,
+   "ai": 0.92,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "e0f25d2994ae8ba5": {
+   "imp": 1.39,
+   "ai": 0.93,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "d25c4272428898ed": {
+   "imp": 1.12,
+   "ai": 0.57,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "a0492b3344782fa1": {
+   "imp": 1.63,
+   "ai": 0.85,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "32e8bc8b29f95aef": {
+   "imp": 1.58,
+   "ai": 0.76,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "8575daa888e72a9f": {
+   "imp": 1.45,
+   "ai": 0.6,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "a449d5f9748bf10f": {
+   "imp": 2.08,
+   "ai": 0.86,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "12e8a078f38517ab": {
+   "imp": 2.0,
+   "ai": 0.95,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "7229ca734bc0761a": {
+   "imp": 2.26,
+   "ai": 0.98,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "5b04567ab3cf8a10": {
+   "imp": 2.0,
+   "ai": 0.98,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "d70110f8dad0aa80": {
+   "imp": 1.52,
+   "ai": 0.89,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "8ea3510c376203b4": {
+   "imp": 1.54,
+   "ai": 0.96,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "df99d5948bc5646e": {
+   "imp": 1.68,
+   "ai": 0.8,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "41f024204bf57ccb": {
+   "imp": 1.93,
+   "ai": 0.93,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "9896210f0dd0968d": {
+   "imp": 1.67,
+   "ai": 0.96,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "f1ced52c9e657080": {
+   "imp": 2.47,
+   "ai": 0.97,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "df2c9591c930aa95": {
+   "imp": 2.47,
+   "ai": 0.96,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "ae3217570306e2c9": {
+   "imp": 2.18,
+   "ai": 0.88,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "e276e77530e2ebe5": {
+   "imp": 2.03,
+   "ai": 0.9,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "be0f439fc3d0da04": {
+   "imp": 1.86,
+   "ai": 0.71,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "643f4f010bfe39aa": {
+   "imp": 1.14,
+   "ai": 0.67,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "30d42da4b4e81437": {
+   "imp": 1.22,
+   "ai": 0.9,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "15cb2faaffcf0439": {
+   "imp": 2.35,
+   "ai": 0.96,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "e967fe0cd236e26a": {
+   "imp": 2.1,
+   "ai": 0.96,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "63dff3aa762e93c5": {
+   "imp": 1.87,
+   "ai": 0.85,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "51102f5176871319": {
+   "imp": 1.51,
+   "ai": 0.86,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "dbb2dbe2268b094a": {
+   "imp": 2.57,
+   "ai": 0.93,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "d1318183fe172893": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "2427bacb74a96b4b": {
+   "imp": 1.25,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "984d08da3cf7995c": {
+   "imp": 1.16,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "98fa1e92ab085231": {
+   "imp": 0.71,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "cb5a4d17dfb87a18": {
+   "imp": 1.22,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "610b94d6940123c6": {
+   "imp": 0.54,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "db2e460523131f5f": {
+   "imp": 1.05,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "94d8e8d36570e022": {
+   "imp": 1.25,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "99d40623cf51112d": {
+   "imp": 1.16,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "41b9d660ec27f386": {
+   "imp": 1.6,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "a05d08fd0b1ba6de": {
+   "imp": 1.21,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "773ec8d2db34b976": {
+   "imp": 1.04,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "e504c61a39ac2d49": {
+   "imp": 1.09,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "77075a692af2a108": {
+   "imp": 1.53,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "0d9fae548b15d920": {
+   "imp": 0.9,
+   "ai": null,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "fcc2e319641a80c6": {
+   "imp": 0.3,
+   "ai": 0.05,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "d044618b4b3c59f6": {
+   "imp": 0.26,
+   "ai": 0.08,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "a9facf9542201d4b": {
+   "imp": 0.61,
+   "ai": 0.14,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "17f09dd8eddc0b9f": {
+   "imp": 1.85,
+   "ai": 0.71,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "2fa218c147bc80ee": {
+   "imp": 1.13,
+   "ai": 0.53,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "74b55e8c260c6d46": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "07955b37d58d2f0a": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "db9fc4de754445d2": {
+   "imp": 1.22,
+   "ai": 0.38,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "153326db41e0a79e": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "7355ece2f9d26b2f": {
+   "imp": 0.71,
+   "ai": 0.13,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "00fb60c4c4e153f8": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "c4ddd2d96f240956": {
+   "imp": 1.45,
+   "ai": 0.32,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "8f7013e9b0c2e2c8": {
+   "imp": 0.27,
+   "ai": 0.09,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "00a1f632da4373f8": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "068a9876248e9f33": {
+   "imp": 0.74,
+   "ai": 0.09,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "2e6a9be60f331317": {
+   "imp": 0.4,
+   "ai": 0.04,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "e9e74cfe21801b27": {
+   "imp": 0.47,
+   "ai": 0.07,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "b190e3df6ad966b5": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "37f2b83124b15c42": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "fbc477888ca6bef3": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "8979af500e30ffbe": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "5c9f9c191e3b13cf": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "734c7e5e5cae520f": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "5929db995edfd742": {
+   "imp": 2.08,
+   "ai": 0.93,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "c4780fab5c4c6b36": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "5cb50009a70a5833": {
+   "imp": 0.47,
+   "ai": 0.14,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "7619f9c0c3ceae36": {
+   "imp": 0.31,
+   "ai": 0.08,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "4a894b84882eb421": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "3a92930dfbaaf991": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "679c30a2aed0e3b7": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "730de12c0035e732": {
+   "imp": 0.38,
+   "ai": 0.05,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "9b30f2332ff9df23": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "b0b118bc8dfce083": {
+   "imp": 0.37,
+   "ai": 0.06,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "f5f72dfa6936c5d8": {
+   "imp": 1.27,
+   "ai": 0.23,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "eb2bb1856b0784db": {
+   "imp": 0.32,
+   "ai": 0.07,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "f846826544a51343": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "5d983a6fba1385f2": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "fde4e161df129b17": {
+   "imp": 0.16,
+   "ai": 0.01,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "673d8bd62405d369": {
+   "imp": 0.21,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "be81354d8a302a35": {
+   "imp": 1.37,
+   "ai": 0.51,
+   "ts": "2026-11-14T01:07:22.254611+00:00"
   }
  }
 }
