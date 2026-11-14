@@ -1,15 +1,5 @@
 {
  "seen": {
-  "19c8ee7bb3b05fa3": "2026-11-07T07:07:22.327332+00:00",
-  "b2bffbaf1b726020": "2026-11-07T07:07:22.327332+00:00",
-  "f468cfa6a1ea4f23": "2026-11-07T07:07:22.327332+00:00",
-  "9819550d7b1867da": "2026-11-07T07:07:22.327332+00:00",
-  "6800a6c7d09fe991": "2026-11-07T07:07:22.327332+00:00",
-  "39454d8bf497be73": "2026-11-07T07:07:22.327332+00:00",
-  "0d61f91f11f47234": "2026-11-07T07:07:22.327332+00:00",
-  "966b3bb1b652efcb": "2026-11-07T07:07:22.327332+00:00",
-  "9fae739bb805cc23": "2026-11-07T07:07:22.327332+00:00",
-  "73eb3d587d9b602a": "2026-11-07T07:07:22.327332+00:00",
   "1133b483357c5d0e": "2026-11-07T07:37:21.663898+00:00",
   "9ef6c5abbfaa19e4": "2026-11-07T07:37:21.663898+00:00",
   "52e86082237709a5": "2026-11-07T08:07:23.026316+00:00",
@@ -1917,13 +1907,12 @@
   "b0617c4d1d1de1a1": "2026-11-14T05:37:20.368396+00:00",
   "6a6b6e0dbaec40e4": "2026-11-14T06:07:22.110734+00:00",
   "b777df82a2fc519c": "2026-11-14T06:37:23.193506+00:00",
-  "474e62a1978c0ab4": "2026-11-14T06:37:23.193506+00:00"
+  "474e62a1978c0ab4": "2026-11-14T06:37:23.193506+00:00",
+  "612bf752e94b80db": "2026-11-14T07:07:23.451693+00:00",
+  "977464ef05aec17a": "2026-11-14T07:07:23.451693+00:00",
+  "32127b7dbbe3fec4": "2026-11-14T07:07:23.451693+00:00"
  },
  "covered": [
-  {
-   "headline": "Baidu launches Wenxin 5.5 Flash Preview model",
-   "ts": "2026-11-12T07:07:22.870938+00:00"
-  },
   {
    "headline": "India considers requiring domestic AI models in critical sectors",
    "ts": "2026-11-12T07:37:21.776611+00:00"
@@ -2143,11 +2132,15 @@
   {
    "headline": "Tesla opens Cybercab bookings to individual customers",
    "ts": "2026-11-14T06:37:23.193506+00:00"
+  },
+  {
+   "headline": "China International Capital Corporation and Ant Group partner on AI",
+   "ts": "2026-11-14T07:07:23.451693+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3653,37 +3646,7 @@
    "published": "2026-11-13T00:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "32127b7dbbe3fec4",
-   "item": {
-    "id": "32127b7dbbe3fec4",
-    "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
-    "url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。 双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。 中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席执行官、蚂蚁数科董事长韩歆毅（左二）出席并见证签约仪式。中金公司党委委员、中金财富党委书记、总裁王建力（右一），蚂蚁集团资深副总裁、蚂蚁数科CEO赵闻飙（左一）代表双方签署协议。 随着大模型和智能体技术发展，AI正逐步深入投研、客户服务和财富管理等金融环节。根据协议，双方将重点围绕三个方向开展合作。 一是探索AI赋能财富管理人机协同工作新模式。 双方计划探索打造服务与营销协同的智能体集群，将AI应用于客户需求洞察、资产配置、投资研究等环节，辅助财富管理顾问提升服务效率和专业能力，为客户提供更及时、个性化的服务，推动财富管理从“被动响应”向“主动服务”转变。 二是探索全域客户价值全周期经营体系建设。 双方拟共建覆盖客户全生命周期的精细化财富经营体系。通过智能客户陪伴、精准需求洞察与买方投顾专业服务，提升客户满意度和长期粘性；通过AI辅助客户需求分析与服务匹配，探索更便捷、个性化的财富管理服务，满足客户不同人生阶段需求。 三是深化智能技术和模型合作。 双方将围绕智能体评测基准建设，在投研研判、财务文本解析、估值建模等场景开展技术验证，推动AI技术安全、可靠地应用于实际业务。 双方还计划…",
-    "published": "2026-11-13T09:05:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "China International Capital Corporation and Ant Group partner on AI",
-   "post": "CICC and Ant Group signed a strategic agreement to collaborate on financial large models, wealth management agent clusters, and client lifecycle management systems.",
-   "editor_note": "Verify translation of CICC and Ant Group partnership details from LeiPhone.",
-   "support": 0.94,
-   "published_at": "2026-11-13T09:05:00+00:00",
-   "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
-   "expires_at": "2026-11-14T21:05:00+00:00",
-   "decision": 1.01,
-   "priority": 6.98834,
-   "selection_reason": "Editorial importance; waiting 19.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -3779,12 +3742,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00",
   "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00",
   "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": "2026-11-14T06:07:29.964403+00:00",
-  "https://36kr.com/newsflashes/4069071474480002?f=rss": "2026-11-14T06:37:49.383303+00:00"
+  "https://36kr.com/newsflashes/4069071474480002?f=rss": "2026-11-14T06:37:49.383303+00:00",
+  "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": "2026-11-14T07:09:20.657244+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -8841,6 +8805,56 @@
    "imp": 0.13,
    "ai": 0.04,
    "ts": "2026-11-14T06:37:23.193506+00:00"
+  },
+  "612bf752e94b80db": {
+   "imp": 0.81,
+   "ai": 0.77,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "977464ef05aec17a": {
+   "imp": 0.63,
+   "ai": 0.68,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "f85ef08953f54191": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "60a397dcecd71fed": {
+   "imp": 0.17,
+   "ai": 0.02,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "5f5fca16f8b1967c": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "0a2ede37578c03c2": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "6525522943c69c66": {
+   "imp": 0.4,
+   "ai": 0.07,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "835f790acb1934a3": {
+   "imp": 1.25,
+   "ai": 0.5,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "1e1b77d867586308": {
+   "imp": 0.37,
+   "ai": 0.08,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
+  },
+  "9149cbf528a33dd9": {
+   "imp": 0.83,
+   "ai": 0.09,
+   "ts": "2026-11-14T07:07:23.451693+00:00"
   }
  }
 }
