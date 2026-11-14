@@ -1,9 +1,5 @@
 {
  "seen": {
-  "c2107a5a7cf60537": "2026-11-07T02:37:23.665104+00:00",
-  "1bc7ba2a28c4372d": "2026-11-07T02:37:23.665104+00:00",
-  "6167fe88734ab044": "2026-11-07T02:37:23.665104+00:00",
-  "9d00431e265d2c8d": "2026-11-07T02:37:23.665104+00:00",
   "016e849ea3abf5a8": "2026-11-07T03:07:21.719472+00:00",
   "52e0623fab799a21": "2026-11-07T03:07:21.719472+00:00",
   "fc8f30aee8f3f7ca": "2026-11-07T03:07:21.719472+00:00",
@@ -1939,13 +1935,20 @@
   "df99d5948bc5646e": "2026-11-14T02:07:23.069055+00:00",
   "a0492b3344782fa1": "2026-11-14T02:07:23.069055+00:00",
   "4ecfb44c1aedd9ae": "2026-11-14T02:07:23.069055+00:00",
-  "643f4f010bfe39aa": "2026-11-14T02:07:23.069055+00:00"
+  "643f4f010bfe39aa": "2026-11-14T02:07:23.069055+00:00",
+  "773ec8d2db34b976": "2026-11-14T02:37:31.704833+00:00",
+  "bdc7bca3c70ffeb4": "2026-11-14T02:37:31.704833+00:00",
+  "6318c1a9c6359d11": "2026-11-14T02:37:31.704833+00:00",
+  "2190decebe335125": "2026-11-14T02:37:31.704833+00:00",
+  "6bd3af3efefc579c": "2026-11-14T02:37:31.704833+00:00",
+  "32e8bc8b29f95aef": "2026-11-14T02:37:31.704833+00:00",
+  "92a1dd1352ee16ef": "2026-11-14T02:37:31.704833+00:00",
+  "d70110f8dad0aa80": "2026-11-14T02:37:31.704833+00:00",
+  "8ea3510c376203b4": "2026-11-14T02:37:31.704833+00:00",
+  "cf56dd8d2a579c04": "2026-11-14T02:37:31.704833+00:00",
+  "ac75d13803ce0d93": "2026-11-14T02:37:31.704833+00:00"
  },
  "covered": [
-  {
-   "headline": "Tongxin Intelligence raises funding for AGI chips",
-   "ts": "2026-11-12T02:37:22.152349+00:00"
-  },
   {
    "headline": "US Commerce Department finalizing remote access rule for chips",
    "ts": "2026-11-12T03:07:20.943877+00:00"
@@ -2165,11 +2168,15 @@
   {
    "headline": "FAA expands AI traffic management tool across US airspace",
    "ts": "2026-11-14T02:07:23.069055+00:00"
+  },
+  {
+   "headline": "Sarvam secures government backing to build native Indian AI models",
+   "ts": "2026-11-14T02:37:31.704833+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3714,8 +3721,8 @@
    "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
    "expires_at": "2026-11-15T04:53:17+00:00",
    "decision": 2.05,
-   "priority": 7.489297,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.506741,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "2edbd065f0868506",
@@ -3742,8 +3749,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T01:30:31+00:00",
    "decision": 1.78,
-   "priority": 7.430392,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.447836,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3772,8 +3779,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.407885,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.402651,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "40e78db6601d46e6",
@@ -3800,8 +3807,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 7.360093,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.381026,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3828,8 +3835,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.356728,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.342772,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3857,8 +3864,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.288711,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.274755,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3886,8 +3893,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.201211,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.187255,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3915,8 +3922,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.113341,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.099385,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   }
  ],
  "details_queue": [],
@@ -4006,12 +4013,13 @@
   "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00",
   "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure": "2026-11-14T01:38:49.183684+00:00",
-  "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace": "2026-11-14T02:08:04.704177+00:00"
+  "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace": "2026-11-14T02:08:04.704177+00:00",
+  "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1": "2026-11-14T02:38:11.425607+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
   "32933935200c2839": {
@@ -8863,6 +8871,46 @@
    "imp": 0.15,
    "ai": 0.07,
    "ts": "2026-11-14T02:07:23.069055+00:00"
+  },
+  "92a1dd1352ee16ef": {
+   "imp": 1.25,
+   "ai": 0.4,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "ac75d13803ce0d93": {
+   "imp": 2.53,
+   "ai": 0.97,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "cf56dd8d2a579c04": {
+   "imp": 0.31,
+   "ai": 0.37,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "6bd3af3efefc579c": {
+   "imp": 1.83,
+   "ai": 0.89,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "bdc7bca3c70ffeb4": {
+   "imp": 1.41,
+   "ai": null,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "6318c1a9c6359d11": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "2190decebe335125": {
+   "imp": 1.2,
+   "ai": null,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
+  },
+  "432b85a4da8f7f3c": {
+   "imp": 0.7,
+   "ai": 0.1,
+   "ts": "2026-11-14T02:37:31.704833+00:00"
   }
  }
 }
