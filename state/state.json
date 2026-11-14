@@ -1910,13 +1910,12 @@
   "778fbf3e20e9334b": "2026-11-14T08:07:22.564336+00:00",
   "e29057798ed96e41": "2026-11-14T08:37:21.307858+00:00",
   "b4f335a2fc788309": "2026-11-14T09:07:21.427655+00:00",
-  "3a1f57bc8115405c": "2026-11-14T09:07:21.427655+00:00"
+  "3a1f57bc8115405c": "2026-11-14T09:07:21.427655+00:00",
+  "613de96a5982ea79": "2026-11-14T10:07:22.434618+00:00",
+  "ffbd1a64645c93e8": "2026-11-14T10:07:22.434618+00:00",
+  "7bfee235c168b3e9": "2026-11-14T10:07:22.434618+00:00"
  },
  "covered": [
-  {
-   "headline": "Chariot launches text-to-speech model supporting 11 Indian languages",
-   "ts": "2026-11-12T10:07:27.209325+00:00"
-  },
   {
    "headline": "United Airlines bans AI agents from booking flights",
    "ts": "2026-11-12T11:07:26.197438+00:00"
@@ -2120,11 +2119,15 @@
   {
    "headline": "Baidu launches token exchange platform for AI models",
    "ts": "2026-11-14T08:07:22.564336+00:00"
+  },
+  {
+   "headline": "Runway releases open-source Praxis-1 robotics model under Apache 2.0 license",
+   "ts": "2026-11-14T10:07:22.434618+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3728,12 +3731,13 @@
   "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": "2026-11-14T06:07:29.964403+00:00",
   "https://36kr.com/newsflashes/4069071474480002?f=rss": "2026-11-14T06:37:49.383303+00:00",
   "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": "2026-11-14T07:09:20.657244+00:00",
-  "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00"
+  "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00",
+  "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -8935,6 +8939,66 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-14T09:37:24.469696+00:00"
+  },
+  "7bfee235c168b3e9": {
+   "imp": 1.95,
+   "ai": null,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "ffbd1a64645c93e8": {
+   "imp": 0.13,
+   "ai": null,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "b107d38f4076339e": {
+   "imp": 0.84,
+   "ai": 0.18,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "613de96a5982ea79": {
+   "imp": 1.6,
+   "ai": 0.7,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "2306b617c8f125c2": {
+   "imp": 0.16,
+   "ai": 0.08,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "64b5eb8e642366cf": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "4da311f2b9f0b3e1": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "57ff2687da9701a9": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "b00189450fd42020": {
+   "imp": 1.34,
+   "ai": 0.66,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "a60c2feefaebc1fc": {
+   "imp": 0.25,
+   "ai": 0.07,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "e0cf4ba39969fef5": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  "9892cd695b9576cb": {
+   "imp": 1.08,
+   "ai": 0.48,
+   "ts": "2026-11-14T10:07:22.434618+00:00"
   }
  }
 }
