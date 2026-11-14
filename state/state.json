@@ -1956,13 +1956,10 @@
   "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00",
   "d92c984a09cf4648": "2026-11-14T05:37:20.368396+00:00",
   "8b5e8839f70a7787": "2026-11-14T05:37:20.368396+00:00",
-  "b0617c4d1d1de1a1": "2026-11-14T05:37:20.368396+00:00"
+  "b0617c4d1d1de1a1": "2026-11-14T05:37:20.368396+00:00",
+  "6a6b6e0dbaec40e4": "2026-11-14T06:07:22.110734+00:00"
  },
  "covered": [
-  {
-   "headline": "CoreWeave plans $4 billion investment-grade loan offering",
-   "ts": "2026-11-12T06:07:22.967625+00:00"
-  },
   {
    "headline": "SoftBank leads 500 million dollar round for Agile Robots",
    "ts": "2026-11-12T06:37:21.976127+00:00"
@@ -2182,11 +2179,15 @@
   {
    "headline": "Westlake University launches Awomo-0.5 physics model",
    "ts": "2026-11-14T05:37:20.368396+00:00"
+  },
+  {
+   "headline": "DiamNEX secures funding for diamond semiconductor materials",
+   "ts": "2026-11-14T06:07:22.110734+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3694,35 +3695,6 @@
  },
  "pending": [
   {
-   "id": "6a6b6e0dbaec40e4",
-   "item": {
-    "id": "6a6b6e0dbaec40e4",
-    "title": "独家丨港大孵化的半导体材料公司，融资数千万",
-    "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资。 钻耐科思（DiamNEX）成立于2025年，由 香港大学孵化 ，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力 。 金刚石被誉为“ 终极半导体材料” ，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量子科技与第四代超宽禁带半导体的关键材料。 传统半导体散热大多通过铜基风冷的方式进行，但伴随token消耗量剧增和对AI算力需求的不断提升，传统半导体材料散热愈发捉襟见肘。英伟达公开数据显示，下一代Rubin GPU功耗将突破2300W，风冷与铜基散热将逼近物理极限。 采用金刚石作为半导体材料能够有效缓解散热难题，但在传统制备路径下，金刚石材料面临着生长尺寸受限，制备周期长、切割损耗大、研磨抛光困难等产业化困境。 产业此前大致分为三条路线：金刚石基复合材料成本低但上限不高；多晶 CVD 金刚石居中；单晶 CVD 性能最高但实现难度最大。 DiamNEX选择在多晶路线上进行进一步拓展，其首创的\"边缘暴露剥离法\"按\"生长、切口、机械剥离\"三步，能够从衬底上直接剥出 晶圆级柔性金刚石薄膜 ，厚度低至200纳米、表面粗糙度优于0.5纳米、热导率超过1300 W/m·K。…",
-    "published": "2026-11-13T09:22:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "DiamNEX secures funding for diamond semiconductor materials",
-   "post": "Hong Kong University spin-off DiamNEX has raised tens of millions of yuan in a funding round led by Flashpoint Capital to develop diamond semiconductor materials for AI hardware cooling.",
-   "editor_note": "Confirm the exact funding currency and investor names from official release details.",
-   "support": 0.34,
-   "published_at": "2026-11-13T09:22:00+00:00",
-   "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
-   "expires_at": "2026-11-14T21:22:00+00:00",
-   "decision": 1.25,
-   "priority": 7.10401,
-   "selection_reason": "Editorial importance; waiting 18.0h"
-  },
-  {
    "id": "32127b7dbbe3fec4",
    "item": {
     "id": "32127b7dbbe3fec4",
@@ -3748,8 +3720,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.016139,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.002237,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   }
  ],
  "details_queue": [],
@@ -3845,12 +3817,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo": "2026-11-14T03:40:49.518699+00:00",
   "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T04:37:30.979766+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00",
-  "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00"
+  "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00",
+  "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": "2026-11-14T06:07:29.964403+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
   "32933935200c2839": {
@@ -8887,6 +8860,11 @@
    "imp": 1.31,
    "ai": 0.45,
    "ts": "2026-11-14T05:37:20.368396+00:00"
+  },
+  "e464955d0d929de3": {
+   "imp": 0.02,
+   "ai": 0.01,
+   "ts": "2026-11-14T06:07:22.110734+00:00"
   }
  }
 }
