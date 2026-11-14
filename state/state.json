@@ -1951,13 +1951,10 @@
   "792490ccf5f864ea": "2026-11-14T03:37:20.868896+00:00",
   "2edbd065f0868506": "2026-11-14T03:37:20.868896+00:00",
   "043f7c7f1b1fa4f7": "2026-11-14T04:07:24.186318+00:00",
-  "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00"
+  "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00",
+  "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00"
  },
  "covered": [
-  {
-   "headline": "Xixuan Chuangzhi raises 500 million yuan in angel round",
-   "ts": "2026-11-12T04:37:22.390561+00:00"
-  },
   {
    "headline": "Baidu CEO forecasts long-term inference chip demand",
    "ts": "2026-11-12T05:07:23.365501+00:00"
@@ -2177,11 +2174,15 @@
   {
    "headline": "Nvidia researchers introduce BirdDreams driving world model",
    "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  {
+   "headline": "llama.cpp releases version 1.0.0 for local AI inference",
+   "ts": "2026-11-14T04:37:20.340345+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3689,34 +3690,6 @@
  },
  "pending": [
   {
-   "id": "40e78db6601d46e6",
-   "item": {
-    "id": "40e78db6601d46e6",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
-    "snippet": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is p…",
-    "published": "2026-11-13T14:05:22+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "llama.cpp releases version 1.0.0 for local AI inference",
-   "post": "llama.cpp has released version 1.0.0, providing a portable C and C++ implementation for running multi-modal language models across local consumer hardware and enterprise servers.",
-   "editor_note": "Check exact GitHub release notes for breaking API changes in version 1.0.0.",
-   "support": 0.96,
-   "published_at": "2026-11-13T14:05:22+00:00",
-   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
-   "expires_at": "2026-11-15T14:05:22+00:00",
-   "decision": 1.27,
-   "priority": 7.38096,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
    "id": "d6d8c69f54f19a5e",
    "item": {
     "id": "d6d8c69f54f19a5e",
@@ -3741,8 +3714,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.301164,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.287304,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3770,8 +3743,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.233147,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.219287,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3799,8 +3772,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.145647,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.131787,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3828,8 +3801,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.057776,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.043917,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   }
  ],
  "details_queue": [],
@@ -3922,11 +3895,12 @@
   "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace": "2026-11-14T02:08:04.704177+00:00",
   "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1": "2026-11-14T02:38:11.425607+00:00",
   "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1": "2026-11-14T03:07:48.477575+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo": "2026-11-14T03:40:49.518699+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo": "2026-11-14T03:40:49.518699+00:00",
+  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T04:37:30.979766+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
-  "count": 0,
+  "count": 1,
   "takes": 6
  },
  "triage": {
@@ -8929,6 +8903,16 @@
    "imp": 0.32,
    "ai": 0.13,
    "ts": "2026-11-14T04:07:24.186318+00:00"
+  },
+  "1228f5336638bca2": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-14T04:37:20.340345+00:00"
+  },
+  "4f376ecebb3c9cdf": {
+   "imp": 0.34,
+   "ai": 0.06,
+   "ts": "2026-11-14T04:37:20.340345+00:00"
   }
  }
 }
