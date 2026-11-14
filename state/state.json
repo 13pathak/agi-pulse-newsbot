@@ -1,7 +1,5 @@
 {
  "seen": {
-  "9d4ac7819e67df67": "2026-11-07T12:07:23.193307+00:00",
-  "4392e68dfcfa99ba": "2026-11-07T12:07:23.193307+00:00",
   "1007c961b5d3e491": "2026-11-07T12:37:25.438106+00:00",
   "a84942e28c6d5257": "2026-11-07T12:37:25.438106+00:00",
   "12839cc6c88c85a2": "2026-11-07T12:37:25.438106+00:00",
@@ -1898,7 +1896,10 @@
   "b236925dc8a57c24": "2026-11-14T11:07:20.872435+00:00",
   "938a8fdebfb42929": "2026-11-14T11:37:33.154953+00:00",
   "33d548fd74e3ba1e": "2026-11-14T11:37:33.154953+00:00",
-  "88552ab6e5447fc4": "2026-11-14T11:37:33.154953+00:00"
+  "88552ab6e5447fc4": "2026-11-14T11:37:33.154953+00:00",
+  "567fa298898a17ca": "2026-11-14T12:07:29.222534+00:00",
+  "6416a5386c31fb34": "2026-11-14T12:07:29.222534+00:00",
+  "3fecc6a9d4a07de9": "2026-11-14T12:07:29.222534+00:00"
  },
  "covered": [
   {
@@ -2100,11 +2101,15 @@
   {
    "headline": "Runway releases open-source Praxis-1 robotics model under Apache 2.0 license",
    "ts": "2026-11-14T10:07:22.434618+00:00"
+  },
+  {
+   "headline": "OpenAI dissolves standalone robotics team to focus on general models",
+   "ts": "2026-11-14T12:07:29.222534+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3709,12 +3714,13 @@
   "https://36kr.com/newsflashes/4069071474480002?f=rss": "2026-11-14T06:37:49.383303+00:00",
   "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": "2026-11-14T07:09:20.657244+00:00",
   "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00",
-  "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00"
+  "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00",
+  "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": "2026-11-14T12:09:46.538576+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 1,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
   "32933935200c2839": {
@@ -9081,6 +9087,31 @@
    "imp": 0.08,
    "ai": 0.04,
    "ts": "2026-11-14T11:37:33.154953+00:00"
+  },
+  "567fa298898a17ca": {
+   "imp": 0.7,
+   "ai": null,
+   "ts": "2026-11-14T12:07:29.222534+00:00"
+  },
+  "3fecc6a9d4a07de9": {
+   "imp": 1.96,
+   "ai": null,
+   "ts": "2026-11-14T12:07:29.222534+00:00"
+  },
+  "6416a5386c31fb34": {
+   "imp": 0.59,
+   "ai": 0.68,
+   "ts": "2026-11-14T12:07:29.222534+00:00"
+  },
+  "d162648fd3cf97a0": {
+   "imp": 0.22,
+   "ai": 0.06,
+   "ts": "2026-11-14T12:07:29.222534+00:00"
+  },
+  "9b6e9e1e230b4c23": {
+   "imp": 0.4,
+   "ai": 0.5,
+   "ts": "2026-11-14T12:07:29.222534+00:00"
   }
  }
 }
