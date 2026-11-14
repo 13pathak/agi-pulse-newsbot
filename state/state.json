@@ -1931,13 +1931,17 @@
   "be9c980053554ca7": "2026-11-14T01:37:31.222397+00:00",
   "36a544ae73047067": "2026-11-14T01:37:31.222397+00:00",
   "41f024204bf57ccb": "2026-11-14T01:37:31.222397+00:00",
-  "8f959b59e50e02b2": "2026-11-14T01:37:31.222397+00:00"
+  "8f959b59e50e02b2": "2026-11-14T01:37:31.222397+00:00",
+  "06552fbaf1ca878c": "2026-11-14T02:07:23.069055+00:00",
+  "db2e460523131f5f": "2026-11-14T02:07:23.069055+00:00",
+  "e504c61a39ac2d49": "2026-11-14T02:07:23.069055+00:00",
+  "69fbf418d3236c6b": "2026-11-14T02:07:23.069055+00:00",
+  "df99d5948bc5646e": "2026-11-14T02:07:23.069055+00:00",
+  "a0492b3344782fa1": "2026-11-14T02:07:23.069055+00:00",
+  "4ecfb44c1aedd9ae": "2026-11-14T02:07:23.069055+00:00",
+  "643f4f010bfe39aa": "2026-11-14T02:07:23.069055+00:00"
  },
  "covered": [
-  {
-   "headline": "Google introduces Gemini Decisions API for multimodal evaluation",
-   "ts": "2026-11-12T02:07:22.039868+00:00"
-  },
   {
    "headline": "Tongxin Intelligence raises funding for AGI chips",
    "ts": "2026-11-12T02:37:22.152349+00:00"
@@ -2157,11 +2161,15 @@
   {
    "headline": "White House task force recommends easing cyber liability for AI reporting",
    "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  {
+   "headline": "FAA expands AI traffic management tool across US airspace",
+   "ts": "2026-11-14T02:07:23.069055+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3669,47 +3677,6 @@
  },
  "pending": [
   {
-   "id": "4ecfb44c1aedd9ae",
-   "item": {
-    "id": "4ecfb44c1aedd9ae",
-    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-    "snippet": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA)…",
-    "published": "2026-11-13T21:20:47+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "643f4f010bfe39aa",
-     "title": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault",
-     "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-     "source": "Business Insider",
-     "image": "https://i.insider.com/6af79f78b2c29afb4e56ae64?format=jpeg",
-     "snippet": "Authorities are investigating the cause of the major FAA outage. Air Space Intelligence, the company behind the FAA's new SMART system, said it wasn't their fault Microsoft wrote that its products weren't involved either. What caused the nationwide plane chaos? Microsoft and the company behind the FAA's new AI-powered SMART system have something to say: It wasn't us. On Friday afternoon, thousands…",
-     "published": "2026-11-13T23:49:27+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "FAA expands AI traffic management tool across US airspace",
-   "post": "The FAA expanded an AI system nationwide to help controllers manage air traffic congestion across US airspace. Airline executives supported the rollout, while the air traffic controllers union said it was not involved in testing.",
-   "editor_note": "Verify the vendor name and union statement regarding controller involvement in system testing.",
-   "support": 0.87,
-   "published_at": "2026-11-13T21:20:47+00:00",
-   "first_seen_at": "2026-11-14T01:07:22.254611+00:00",
-   "expires_at": "2026-11-15T09:20:47+00:00",
-   "decision": 1.71,
-   "priority": 7.482546,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "70be99cd333fb782",
    "item": {
     "id": "70be99cd333fb782",
@@ -3747,8 +3714,8 @@
    "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
    "expires_at": "2026-11-15T04:53:17+00:00",
    "decision": 2.05,
-   "priority": 7.472014,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.489297,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "2edbd065f0868506",
@@ -3775,8 +3742,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T01:30:31+00:00",
    "decision": 1.78,
-   "priority": 7.413109,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.430392,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3805,36 +3772,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.413069,
-   "selection_reason": "Editorial importance; waiting 19.0h"
-  },
-  {
-   "id": "d6d8c69f54f19a5e",
-   "item": {
-    "id": "d6d8c69f54f19a5e",
-    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
-    "published": "2026-11-13T09:33:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "South Korean startup DeepX invests $100 million in Samsung",
-   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
-   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
-   "support": 0.96,
-   "published_at": "2026-11-13T09:33:55+00:00",
-   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
-   "expires_at": "2026-11-14T21:33:55+00:00",
-   "decision": 1.7,
-   "priority": 7.370554,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.407885,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "40e78db6601d46e6",
@@ -3861,8 +3800,36 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 7.339354,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.360093,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "d6d8c69f54f19a5e",
+   "item": {
+    "id": "d6d8c69f54f19a5e",
+    "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korean startup DeepX Co. plans to spend more than $100 million developing a next-generation artificial intelligence chip using Samsung Electronics Co.’s advanced 2 nanometer manufacturing process.",
+    "published": "2026-11-13T09:33:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "South Korean startup DeepX invests $100 million in Samsung",
+   "post": "South Korean startup DeepX plans to spend over $100 million to develop next-generation artificial intelligence chips using Samsung Electronics' 2-nanometer manufacturing process.",
+   "editor_note": "Check if the $100 million figure is secured funding or a projected development budget for the 2nm AI chips.",
+   "support": 0.96,
+   "published_at": "2026-11-13T09:33:55+00:00",
+   "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
+   "expires_at": "2026-11-14T21:33:55+00:00",
+   "decision": 1.7,
+   "priority": 7.356728,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3890,8 +3857,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.302537,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.288711,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3919,8 +3886,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.215037,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.201211,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3948,34 +3915,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.127166,
-   "selection_reason": "Editorial importance; waiting 14.5h"
-  },
-  {
-   "id": "06552fbaf1ca878c",
-   "item": {
-    "id": "06552fbaf1ca878c",
-    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r…",
-    "published": "2026-11-12T13:48:19+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ElevenLabs introduces Scribe v3 and Scribe v3 Live",
-   "post": "ElevenLabs has released Scribe v3 and Scribe v3 Live speech recognition models. Artificial Analysis benchmarks indicate high transcription accuracy, though competitors run faster and at lower costs.",
-   "editor_note": "Check Artificial Analysis benchmark details regarding accuracy versus speed and cost tradeoffs.",
-   "published_at": "2026-11-12T13:48:19+00:00",
-   "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
-   "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 6.754998,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "priority": 7.113341,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   }
  ],
  "details_queue": [],
@@ -4064,12 +4005,13 @@
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
   "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00",
   "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure": "2026-11-14T01:38:49.183684+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure": "2026-11-14T01:38:49.183684+00:00",
+  "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace": "2026-11-14T02:08:04.704177+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
   "32933935200c2839": {
@@ -8901,6 +8843,26 @@
    "imp": 0.84,
    "ai": 0.19,
    "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "79e6b5371a36f347": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-14T02:07:23.069055+00:00"
+  },
+  "f369500bb789c7f4": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-14T02:07:23.069055+00:00"
+  },
+  "8a040e8aab256c45": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-14T02:07:23.069055+00:00"
+  },
+  "e45c8bd0e8867938": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-14T02:07:23.069055+00:00"
   }
  }
 }
