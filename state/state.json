@@ -1,22 +1,5 @@
 {
  "seen": {
-  "6813d62fd92533cd": "2026-11-07T01:38:44.401340+00:00",
-  "118369de89f061c4": "2026-11-07T01:38:44.401340+00:00",
-  "2483c783f783e801": "2026-11-07T01:38:44.401340+00:00",
-  "c0641eb0de56205a": "2026-11-07T01:38:44.401340+00:00",
-  "29c568495a81ef6e": "2026-11-07T01:38:44.401340+00:00",
-  "91f8d419f4fcff35": "2026-11-07T01:38:44.401340+00:00",
-  "c821c11af1c22210": "2026-11-07T01:38:44.401340+00:00",
-  "1b9119e805ea04ae": "2026-11-07T01:38:44.401340+00:00",
-  "67e3c6ace421b869": "2026-11-07T01:38:44.401340+00:00",
-  "7c70b636a2cf1bbd": "2026-11-07T01:38:44.401340+00:00",
-  "9b351beb14043c3d": "2026-11-07T01:38:44.401340+00:00",
-  "be1ba71e55b7f125": "2026-11-07T01:38:44.401340+00:00",
-  "a394d9aad7a2ef16": "2026-11-07T01:38:44.401340+00:00",
-  "1f3694f5e3c91711": "2026-11-07T01:38:44.401340+00:00",
-  "44766e97c42926fe": "2026-11-07T01:38:44.401340+00:00",
-  "cbcad92cd5e04624": "2026-11-07T01:38:44.401340+00:00",
-  "bc8f9eac19663ff6": "2026-11-07T01:38:44.401340+00:00",
   "c2107a5a7cf60537": "2026-11-07T02:37:23.665104+00:00",
   "1bc7ba2a28c4372d": "2026-11-07T02:37:23.665104+00:00",
   "6167fe88734ab044": "2026-11-07T02:37:23.665104+00:00",
@@ -1941,13 +1924,16 @@
   "d286ac102d0220e7": "2026-11-14T01:07:22.254611+00:00",
   "bdca3a6a8960c0b1": "2026-11-14T01:07:22.254611+00:00",
   "449fc35486b25600": "2026-11-14T01:07:22.254611+00:00",
-  "f17748102e2c4282": "2026-11-14T01:07:22.254611+00:00"
+  "f17748102e2c4282": "2026-11-14T01:07:22.254611+00:00",
+  "99d40623cf51112d": "2026-11-14T01:37:31.222397+00:00",
+  "a05d08fd0b1ba6de": "2026-11-14T01:37:31.222397+00:00",
+  "5b04567ab3cf8a10": "2026-11-14T01:37:31.222397+00:00",
+  "be9c980053554ca7": "2026-11-14T01:37:31.222397+00:00",
+  "36a544ae73047067": "2026-11-14T01:37:31.222397+00:00",
+  "41f024204bf57ccb": "2026-11-14T01:37:31.222397+00:00",
+  "8f959b59e50e02b2": "2026-11-14T01:37:31.222397+00:00"
  },
  "covered": [
-  {
-   "headline": "Radical Numerics develops offline pathogen identification model",
-   "ts": "2026-11-12T01:37:22.582035+00:00"
-  },
   {
    "headline": "Google introduces Gemini Decisions API for multimodal evaluation",
    "ts": "2026-11-12T02:07:22.039868+00:00"
@@ -2167,11 +2153,15 @@
   {
    "headline": "Researcher claims Nvidia Blackwell fingerprints in Chinese models",
    "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  {
+   "headline": "White House task force recommends easing cyber liability for AI reporting",
+   "ts": "2026-11-14T01:37:31.222397+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-14",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3716,8 +3706,8 @@
    "first_seen_at": "2026-11-14T01:07:22.254611+00:00",
    "expires_at": "2026-11-15T09:20:47+00:00",
    "decision": 1.71,
-   "priority": 7.465098,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.482546,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "70be99cd333fb782",
@@ -3757,8 +3747,36 @@
    "first_seen_at": "2026-11-13T17:07:23.545296+00:00",
    "expires_at": "2026-11-15T04:53:17+00:00",
    "decision": 2.05,
-   "priority": 7.454567,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.472014,
+   "selection_reason": "Editorial importance; waiting 8.5h"
+  },
+  {
+   "id": "2edbd065f0868506",
+   "item": {
+    "id": "2edbd065f0868506",
+    "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
+    "published": "2026-11-13T13:30:31+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Data center developer Nscale reveals 5.5 billion dollar debt",
+   "post": "Data center developer Nscale reported 5.5 billion dollars in debt and increased reliance on Nvidia in a regulatory filing ahead of its planned initial public offering.",
+   "editor_note": "Confirm the exact debt-to-equity ratio and IPO timeline from the regulatory filing.",
+   "support": 0.88,
+   "published_at": "2026-11-13T13:30:31+00:00",
+   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
+   "expires_at": "2026-11-15T01:30:31+00:00",
+   "decision": 1.78,
+   "priority": 7.413109,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "218c8f96d3aa7ec9",
@@ -3787,36 +3805,8 @@
    "first_seen_at": "2026-11-13T06:37:30.057071+00:00",
    "expires_at": "2026-11-17T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.418304,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
-   "id": "2edbd065f0868506",
-   "item": {
-    "id": "2edbd065f0868506",
-    "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
-    "published": "2026-11-13T13:30:31+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Data center developer Nscale reveals 5.5 billion dollar debt",
-   "post": "Data center developer Nscale reported 5.5 billion dollars in debt and increased reliance on Nvidia in a regulatory filing ahead of its planned initial public offering.",
-   "editor_note": "Confirm the exact debt-to-equity ratio and IPO timeline from the regulatory filing.",
-   "support": 0.88,
-   "published_at": "2026-11-13T13:30:31+00:00",
-   "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
-   "expires_at": "2026-11-15T01:30:31+00:00",
-   "decision": 1.78,
-   "priority": 7.395662,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.413069,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "d6d8c69f54f19a5e",
@@ -3843,8 +3833,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T21:33:55+00:00",
    "decision": 1.7,
-   "priority": 7.384512,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.370554,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "40e78db6601d46e6",
@@ -3871,8 +3861,8 @@
    "first_seen_at": "2026-11-13T15:07:25.360059+00:00",
    "expires_at": "2026-11-15T14:05:22+00:00",
    "decision": 1.27,
-   "priority": 7.318417,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.339354,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "b0617c4d1d1de1a1",
@@ -3900,8 +3890,8 @@
    "first_seen_at": "2026-11-13T10:07:22.750068+00:00",
    "expires_at": "2026-11-14T19:43:00+00:00",
    "decision": 1.65,
-   "priority": 7.316495,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.302537,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "6a6b6e0dbaec40e4",
@@ -3929,8 +3919,8 @@
    "first_seen_at": "2026-11-13T11:37:25.465062+00:00",
    "expires_at": "2026-11-14T21:22:00+00:00",
    "decision": 1.25,
-   "priority": 7.228995,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.215037,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "32127b7dbbe3fec4",
@@ -3958,8 +3948,8 @@
    "first_seen_at": "2026-11-13T11:07:47.605962+00:00",
    "expires_at": "2026-11-14T21:05:00+00:00",
    "decision": 1.01,
-   "priority": 7.141125,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.127166,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "06552fbaf1ca878c",
@@ -3984,8 +3974,8 @@
    "published_at": "2026-11-12T13:48:19+00:00",
    "first_seen_at": "2026-11-12T14:07:23.819597+00:00",
    "expires_at": "2026-11-14T01:48:19+00:00",
-   "priority": 6.768956,
-   "selection_reason": "Editorial importance; waiting 35.0h"
+   "priority": 6.754998,
+   "selection_reason": "Editorial importance; waiting 35.5h"
   }
  ],
  "details_queue": [],
@@ -4073,12 +4063,13 @@
   "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
   "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00",
-  "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00"
+  "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure": "2026-11-14T01:38:49.183684+00:00"
  },
  "details_daily": {
   "date": "2026-11-14",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -8870,6 +8861,46 @@
    "imp": 1.37,
    "ai": 0.51,
    "ts": "2026-11-14T01:07:22.254611+00:00"
+  },
+  "be9c980053554ca7": {
+   "imp": 1.28,
+   "ai": 0.6,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "36a544ae73047067": {
+   "imp": 1.05,
+   "ai": 0.39,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "49068aca9c7003bc": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "76dabdac3e478c44": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "fb9ffe7b4777c419": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "a6d018d26fc061d3": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "96c76a0dceebccc1": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
+  },
+  "2870d4f19a492c58": {
+   "imp": 0.84,
+   "ai": 0.19,
+   "ts": "2026-11-14T01:37:31.222397+00:00"
   }
  }
 }
