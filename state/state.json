@@ -1896,14 +1896,6 @@
  },
  "covered": [
   {
-   "headline": "Cerebras reports quarterly revenue and Microsoft deal",
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  {
-   "headline": "Physical AI startup Qingkui Zhizao raises Series A",
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  {
    "headline": "Chinese AI chipmaker SigmaStar plans Hong Kong listing",
    "ts": "2026-11-13T03:37:32.343574+00:00"
   },
@@ -9609,6 +9601,26 @@
    "imp": 0.02,
    "ai": 0.02,
    "ts": "2026-11-15T02:37:25.427187+00:00"
+  },
+  "3199d00e17e3663f": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-15T03:07:23.504803+00:00"
+  },
+  "da8f38f9e96b4e89": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-15T03:07:23.504803+00:00"
+  },
+  "d57412a705deb453": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-15T03:07:23.504803+00:00"
+  },
+  "821e65aa8e2c070c": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-15T03:07:23.504803+00:00"
   }
  }
 }
