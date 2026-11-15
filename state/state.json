@@ -1,6 +1,5 @@
 {
  "seen": {
-  "233409616a1b4211": "2026-11-08T16:37:21.165098+00:00",
   "3e62264ffb8eefe5": "2026-11-09T01:07:26.217560+00:00",
   "3c09c8f27ba13a23": "2026-11-09T01:07:26.217560+00:00",
   "dc1011821910b7de": "2026-11-09T01:07:26.217560+00:00",
@@ -1902,13 +1901,11 @@
   "cd15efc45e405783": "2026-11-15T15:07:26.992150+00:00",
   "2cf2d53f69be205a": "2026-11-15T15:37:20.943043+00:00",
   "b24410c214a7c4e1": "2026-11-15T16:07:22.071844+00:00",
-  "65ecef2327a06bf0": "2026-11-15T16:07:22.071844+00:00"
+  "65ecef2327a06bf0": "2026-11-15T16:07:22.071844+00:00",
+  "f7a0a0957afeedca": "2026-11-15T16:37:21.486115+00:00",
+  "ba20c536dd1cace3": "2026-11-15T16:37:21.486115+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic IPO attracts massive investor demand at valuation target",
-   "ts": "2026-11-13T16:37:22.214977+00:00"
-  },
   {
    "headline": "OpenAI introduces ChatGPT Wallet for AI agents",
    "ts": "2026-11-13T17:07:23.545296+00:00"
@@ -2020,11 +2017,15 @@
   {
    "headline": "Anthropic's Claude Fable 5.2 generates images using code-based brushstrokes",
    "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  {
+   "headline": "Envision Energy deploys 800V DC system for AI workloads",
+   "ts": "2026-11-15T16:37:21.486115+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3665,12 +3666,13 @@
   "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1": "2026-11-15T13:08:06.434948+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case": "2026-11-15T15:09:34.321757+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster": "2026-11-15T15:39:24.528142+00:00",
-  "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": "2026-11-15T16:07:58.973408+00:00"
+  "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": "2026-11-15T16:07:58.973408+00:00",
+  "https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology": "2026-11-15T16:38:12.904066+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
   "32933935200c2839": {
@@ -10257,6 +10259,31 @@
    "imp": 0.38,
    "ai": 0.08,
    "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  "f7a0a0957afeedca": {
+   "imp": 0.51,
+   "ai": 0.55,
+   "ts": "2026-11-15T16:37:21.486115+00:00"
+  },
+  "ba20c536dd1cace3": {
+   "imp": 1.48,
+   "ai": 0.91,
+   "ts": "2026-11-15T16:37:21.486115+00:00"
+  },
+  "fe72db618595756d": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-15T16:37:21.486115+00:00"
+  },
+  "386015a4e5ed706e": {
+   "imp": 0.63,
+   "ai": 0.09,
+   "ts": "2026-11-15T16:37:21.486115+00:00"
+  },
+  "0e780bd5fba97899": {
+   "imp": 0.24,
+   "ai": 0.08,
+   "ts": "2026-11-15T16:37:21.486115+00:00"
   }
  }
 }
