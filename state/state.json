@@ -1,8 +1,5 @@
 {
  "seen": {
-  "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00",
-  "6e70fe048dede744": "2026-11-08T10:07:20.936512+00:00",
-  "f3600c82b54ebf75": "2026-11-08T10:07:20.936512+00:00",
   "d1a3b8db5f5d7dc0": "2026-11-08T10:37:24.168660+00:00",
   "6a60f5d195d498ed": "2026-11-08T10:37:24.168660+00:00",
   "45d8b2a139478ad4": "2026-11-08T10:37:24.168660+00:00",
@@ -1901,17 +1898,14 @@
   "4fb7efd0fc5b0d59": "2026-11-15T09:07:21.546730+00:00",
   "9a8a0a7e51482beb": "2026-11-15T09:07:21.546730+00:00",
   "7a7e2a63f1fadb0b": "2026-11-15T09:37:21.112644+00:00",
-  "203b1bd3db553cc9": "2026-11-15T09:37:21.112644+00:00"
+  "203b1bd3db553cc9": "2026-11-15T09:37:21.112644+00:00",
+  "60e9d4afbc9b7a0b": "2026-11-15T10:07:31.315249+00:00",
+  "253ac2175762b30c": "2026-11-15T10:07:31.315249+00:00",
+  "94d26e0cdb11b6f9": "2026-11-15T10:07:31.315249+00:00",
+  "4a6462c3a5f83b21": "2026-11-15T10:07:31.315249+00:00",
+  "6373036a727f403a": "2026-11-15T10:07:31.315249+00:00"
  },
  "covered": [
-  {
-   "headline": "AWS releases SGLang-Neuron for Trainium instances",
-   "ts": "2026-11-13T09:37:21.260876+00:00"
-  },
-  {
-   "headline": "SMIC forecasts AI computing crunch to continue until 2028",
-   "ts": "2026-11-13T10:07:22.750068+00:00"
-  },
   {
    "headline": "AWS releases next-generation AgentCore runtime",
    "ts": "2026-11-13T10:37:22.508699+00:00"
@@ -2035,11 +2029,15 @@
   {
    "headline": "Data center construction stocks lose $4.2 trillion in market value",
    "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  {
+   "headline": "SEBI to issue AI usage guidelines for Indian capital markets",
+   "ts": "2026-11-15T10:07:31.315249+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3673,12 +3671,13 @@
   "https://www.qbitai.com/2026/11/510003.html": "2026-11-14T13:39:20.495235+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00",
   "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang": "2026-11-15T01:38:04.078335+00:00",
-  "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1": "2026-11-15T06:37:53.036384+00:00"
+  "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1": "2026-11-15T06:37:53.036384+00:00",
+  "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection": "2026-11-15T10:11:59.963854+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
   "32933935200c2839": {
@@ -9835,6 +9834,61 @@
    "imp": 0.09,
    "ai": 0.02,
    "ts": "2026-11-15T09:37:21.112644+00:00"
+  },
+  "253ac2175762b30c": {
+   "imp": 1.3,
+   "ai": 0.92,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "4a6462c3a5f83b21": {
+   "imp": 0.44,
+   "ai": 0.5,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "94d26e0cdb11b6f9": {
+   "imp": 1.2,
+   "ai": 0.91,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "827f0021c7ddf592": {
+   "imp": 0.19,
+   "ai": 0.09,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "ae4351b30317a5c0": {
+   "imp": 0.21,
+   "ai": 0.19,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "60e9d4afbc9b7a0b": {
+   "imp": 1.4,
+   "ai": 0.94,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "6373036a727f403a": {
+   "imp": 2.27,
+   "ai": 0.93,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "e0f0724b6a21b369": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "50294c32421f8131": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "304a871a6a47d238": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "279300755788442e": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-15T10:07:31.315249+00:00"
   }
  }
 }
