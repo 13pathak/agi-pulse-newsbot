@@ -1,7 +1,5 @@
 {
  "seen": {
-  "c4aa836acd2d86ee": "2026-11-08T13:07:24.582182+00:00",
-  "670335a07c630b2b": "2026-11-08T13:07:24.582182+00:00",
   "0cfabca5ccd7075c": "2026-11-08T13:37:20.418685+00:00",
   "8c0798cef7304430": "2026-11-08T14:07:22.986575+00:00",
   "df8052273099b604": "2026-11-08T14:07:22.986575+00:00",
@@ -1901,17 +1899,13 @@
   "25ef49503ab1c2e7": "2026-11-15T12:07:20.871047+00:00",
   "437c9a05119d7ea7": "2026-11-15T12:07:20.871047+00:00",
   "fa1b9f395520374a": "2026-11-15T12:07:20.871047+00:00",
-  "3effc3d40526c5c7": "2026-11-15T12:37:19.978740+00:00"
+  "3effc3d40526c5c7": "2026-11-15T12:37:19.978740+00:00",
+  "556f095177f2a410": "2026-11-15T13:07:20.972232+00:00",
+  "4c525e5e54fa3645": "2026-11-15T13:07:20.972232+00:00",
+  "93743783bb08eddc": "2026-11-15T13:07:20.972232+00:00",
+  "db28f361ce6dc77e": "2026-11-15T13:07:20.972232+00:00"
  },
  "covered": [
-  {
-   "headline": "ReNew pledges ₹80,000 crore for green data center in India",
-   "ts": "2026-11-13T12:37:34.922491+00:00"
-  },
-  {
-   "headline": "Baidu Smart Cloud and Pudu Robotics partner on embodied AI",
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
   {
    "headline": "Naukri reports 60 crore rupees in Q2 AI revenue",
    "ts": "2026-11-13T13:37:22.130371+00:00"
@@ -2023,11 +2017,15 @@
   {
    "headline": "Megaspeed reportedly brokered $12 billion in Nvidia chip orders for China",
    "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  {
+   "headline": "US Congress moves toward stricter AI chip export controls",
+   "ts": "2026-11-15T13:07:20.972232+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3664,12 +3662,13 @@
   "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1": "2026-11-15T06:37:53.036384+00:00",
   "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection": "2026-11-15T10:11:59.963854+00:00",
   "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu": "2026-11-15T10:40:51.927368+00:00",
-  "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china": "2026-11-15T12:08:20.966947+00:00"
+  "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china": "2026-11-15T12:08:20.966947+00:00",
+  "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1": "2026-11-15T13:08:06.434948+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
   "32933935200c2839": {
@@ -10086,6 +10085,41 @@
    "imp": 0.22,
    "ai": 0.04,
    "ts": "2026-11-15T12:37:19.978740+00:00"
+  },
+  "4c525e5e54fa3645": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  "93743783bb08eddc": {
+   "imp": 2.11,
+   "ai": 0.97,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  "db28f361ce6dc77e": {
+   "imp": 2.52,
+   "ai": 0.95,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  "556f095177f2a410": {
+   "imp": 2.6,
+   "ai": 0.92,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  "cb4a2764863dc1a6": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  "561d6b28b269d691": {
+   "imp": 0.34,
+   "ai": 0.03,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  "e7d4b77c56e0124e": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-15T13:07:20.972232+00:00"
   }
  }
 }
