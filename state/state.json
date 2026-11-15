@@ -1,12 +1,5 @@
 {
  "seen": {
-  "ea522c95309640e9": "2026-11-08T12:07:23.980101+00:00",
-  "14abc97d62196b22": "2026-11-08T12:07:23.980101+00:00",
-  "bcb4a336b5185105": "2026-11-08T12:07:23.980101+00:00",
-  "27f79737e573d501": "2026-11-08T12:07:23.980101+00:00",
-  "a4c533ab2b702725": "2026-11-08T12:07:23.980101+00:00",
-  "a55c9fb77d6653f8": "2026-11-08T12:07:23.980101+00:00",
-  "b911ef86f5c7b684": "2026-11-08T12:07:23.980101+00:00",
   "e8e4da18523710e0": "2026-11-08T12:37:19.747839+00:00",
   "bd1439750cf5014e": "2026-11-08T12:37:19.747839+00:00",
   "c4aa836acd2d86ee": "2026-11-08T13:07:24.582182+00:00",
@@ -1904,17 +1897,14 @@
   "7611c876b17c9451": "2026-11-15T11:07:25.893732+00:00",
   "5b202e7c79319e5b": "2026-11-15T11:07:25.893732+00:00",
   "c8e767206274ece1": "2026-11-15T11:07:25.893732+00:00",
-  "961f724f1d3df68b": "2026-11-15T11:37:22.817239+00:00"
+  "961f724f1d3df68b": "2026-11-15T11:37:22.817239+00:00",
+  "55019cac39e4be56": "2026-11-15T12:07:20.871047+00:00",
+  "675f079919d732de": "2026-11-15T12:07:20.871047+00:00",
+  "25ef49503ab1c2e7": "2026-11-15T12:07:20.871047+00:00",
+  "437c9a05119d7ea7": "2026-11-15T12:07:20.871047+00:00",
+  "fa1b9f395520374a": "2026-11-15T12:07:20.871047+00:00"
  },
  "covered": [
-  {
-   "headline": "Jensen Huang resigns as Nvidia CEO amid federal investigations",
-   "ts": "2026-11-13T11:37:25.465062+00:00"
-  },
-  {
-   "headline": "Adobe and Google expand artificial intelligence partnership",
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
   {
    "headline": "ReNew pledges ₹80,000 crore for green data center in India",
    "ts": "2026-11-13T12:37:34.922491+00:00"
@@ -2030,11 +2020,15 @@
   {
    "headline": "Meituan releases 1.6-trillion-parameter LongCat-2.5 model weights",
    "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  {
+   "headline": "Megaspeed reportedly brokered $12 billion in Nvidia chip orders for China",
+   "ts": "2026-11-15T12:07:20.871047+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3670,12 +3664,13 @@
   "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang": "2026-11-15T01:38:04.078335+00:00",
   "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1": "2026-11-15T06:37:53.036384+00:00",
   "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection": "2026-11-15T10:11:59.963854+00:00",
-  "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu": "2026-11-15T10:40:51.927368+00:00"
+  "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu": "2026-11-15T10:40:51.927368+00:00",
+  "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china": "2026-11-15T12:08:20.966947+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
   "32933935200c2839": {
@@ -10022,6 +10017,46 @@
    "imp": 0.15,
    "ai": 0.02,
    "ts": "2026-11-15T11:37:22.817239+00:00"
+  },
+  "14f09cefc5c5cf77": {
+   "imp": 0.19,
+   "ai": 0.11,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "437c9a05119d7ea7": {
+   "imp": 0.44,
+   "ai": null,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "fa1b9f395520374a": {
+   "imp": 1.62,
+   "ai": null,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "675f079919d732de": {
+   "imp": 1.42,
+   "ai": 0.91,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "55019cac39e4be56": {
+   "imp": 1.44,
+   "ai": 0.91,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "25ef49503ab1c2e7": {
+   "imp": 1.11,
+   "ai": 0.81,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "554096dad17c63fc": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
+  },
+  "1b5be6036c2f7a44": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-15T12:07:20.871047+00:00"
   }
  }
 }
