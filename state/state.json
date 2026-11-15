@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d1a3b8db5f5d7dc0": "2026-11-08T10:37:24.168660+00:00",
-  "6a60f5d195d498ed": "2026-11-08T10:37:24.168660+00:00",
-  "45d8b2a139478ad4": "2026-11-08T10:37:24.168660+00:00",
   "03a651f6d5efd229": "2026-11-08T11:07:24.011536+00:00",
   "70492996a453820f": "2026-11-08T11:07:24.011536+00:00",
   "7939095de81a38d2": "2026-11-08T11:37:22.414138+00:00",
@@ -1903,13 +1900,12 @@
   "253ac2175762b30c": "2026-11-15T10:07:31.315249+00:00",
   "94d26e0cdb11b6f9": "2026-11-15T10:07:31.315249+00:00",
   "4a6462c3a5f83b21": "2026-11-15T10:07:31.315249+00:00",
-  "6373036a727f403a": "2026-11-15T10:07:31.315249+00:00"
+  "6373036a727f403a": "2026-11-15T10:07:31.315249+00:00",
+  "817c559f3d4b3414": "2026-11-15T10:37:21.124750+00:00",
+  "cea8e5b026f672fa": "2026-11-15T10:37:21.124750+00:00",
+  "6fc6bc2d3ff2654d": "2026-11-15T10:37:21.124750+00:00"
  },
  "covered": [
-  {
-   "headline": "AWS releases next-generation AgentCore runtime",
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
   {
    "headline": "Shield AI opens Bengaluru engineering office for defense software",
    "ts": "2026-11-13T11:07:47.605962+00:00"
@@ -2033,11 +2029,15 @@
   {
    "headline": "SEBI to issue AI usage guidelines for Indian capital markets",
    "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  {
+   "headline": "Meituan releases 1.6-trillion-parameter LongCat-2.5 model weights",
+   "ts": "2026-11-15T10:37:21.124750+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3672,12 +3672,13 @@
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00",
   "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang": "2026-11-15T01:38:04.078335+00:00",
   "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1": "2026-11-15T06:37:53.036384+00:00",
-  "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection": "2026-11-15T10:11:59.963854+00:00"
+  "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection": "2026-11-15T10:11:59.963854+00:00",
+  "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu": "2026-11-15T10:40:51.927368+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
   "32933935200c2839": {
@@ -9889,6 +9890,61 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-15T10:07:31.315249+00:00"
+  },
+  "6fc6bc2d3ff2654d": {
+   "imp": 2.59,
+   "ai": null,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "817c559f3d4b3414": {
+   "imp": 1.85,
+   "ai": 0.78,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "7ed7921c8ed94b8c": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "cea8e5b026f672fa": {
+   "imp": 1.21,
+   "ai": 0.48,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "899a85ed9e9921a1": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "1ca51d5118f18070": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "9fdfe2a387c5ee72": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "d571879829d4a6ca": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "4ec60c19ebcced9b": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "43a052a7c7f6c205": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
+  },
+  "27cc6aad026c8b4c": {
+   "imp": 0.12,
+   "ai": 0.06,
+   "ts": "2026-11-15T10:37:21.124750+00:00"
   }
  }
 }
