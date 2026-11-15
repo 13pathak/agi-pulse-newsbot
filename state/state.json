@@ -1903,13 +1903,11 @@
   "b24410c214a7c4e1": "2026-11-15T16:07:22.071844+00:00",
   "65ecef2327a06bf0": "2026-11-15T16:07:22.071844+00:00",
   "f7a0a0957afeedca": "2026-11-15T16:37:21.486115+00:00",
-  "ba20c536dd1cace3": "2026-11-15T16:37:21.486115+00:00"
+  "ba20c536dd1cace3": "2026-11-15T16:37:21.486115+00:00",
+  "14abd41674e89d8c": "2026-11-15T17:07:23.404767+00:00",
+  "70478f62462e65ed": "2026-11-15T17:07:23.404767+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI introduces ChatGPT Wallet for AI agents",
-   "ts": "2026-11-13T17:07:23.545296+00:00"
-  },
   {
    "headline": "Researcher claims Nvidia Blackwell fingerprints in Chinese models",
    "ts": "2026-11-14T01:07:22.254611+00:00"
@@ -2021,11 +2019,15 @@
   {
    "headline": "Envision Energy deploys 800V DC system for AI workloads",
    "ts": "2026-11-15T16:37:21.486115+00:00"
+  },
+  {
+   "headline": "Jensen Huang agrees to testify before US lawmakers behind closed doors",
+   "ts": "2026-11-15T17:07:23.404767+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3667,12 +3669,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case": "2026-11-15T15:09:34.321757+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster": "2026-11-15T15:39:24.528142+00:00",
   "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": "2026-11-15T16:07:58.973408+00:00",
-  "https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology": "2026-11-15T16:38:12.904066+00:00"
+  "https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology": "2026-11-15T16:38:12.904066+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet": "2026-11-15T17:09:26.283774+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -10284,6 +10287,36 @@
    "imp": 0.24,
    "ai": 0.08,
    "ts": "2026-11-15T16:37:21.486115+00:00"
+  },
+  "70478f62462e65ed": {
+   "imp": 1.18,
+   "ai": 0.51,
+   "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  "14abd41674e89d8c": {
+   "imp": 0.52,
+   "ai": 0.52,
+   "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  "14d2aa69231d4887": {
+   "imp": 0.82,
+   "ai": 0.6,
+   "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  "6ec69c7706ee11d7": {
+   "imp": 0.23,
+   "ai": 0.14,
+   "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  "ad6ea6ad10855f96": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  "fff5c669c4d1f218": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-15T17:07:23.404767+00:00"
   }
  }
 }
