@@ -1,7 +1,5 @@
 {
  "seen": {
-  "2772fb68567cc290": "2026-11-08T16:07:23.270473+00:00",
-  "def5de44e1fb563b": "2026-11-08T16:07:23.270473+00:00",
   "233409616a1b4211": "2026-11-08T16:37:21.165098+00:00",
   "3e62264ffb8eefe5": "2026-11-09T01:07:26.217560+00:00",
   "3c09c8f27ba13a23": "2026-11-09T01:07:26.217560+00:00",
@@ -1902,13 +1900,11 @@
   "a5ca565338eb35df": "2026-11-15T15:07:26.992150+00:00",
   "a247a40b45bd1ad3": "2026-11-15T15:07:26.992150+00:00",
   "cd15efc45e405783": "2026-11-15T15:07:26.992150+00:00",
-  "2cf2d53f69be205a": "2026-11-15T15:37:20.943043+00:00"
+  "2cf2d53f69be205a": "2026-11-15T15:37:20.943043+00:00",
+  "b24410c214a7c4e1": "2026-11-15T16:07:22.071844+00:00",
+  "65ecef2327a06bf0": "2026-11-15T16:07:22.071844+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia CEO Jensen Huang resigns after decades",
-   "ts": "2026-11-13T16:07:27.082293+00:00"
-  },
   {
    "headline": "Anthropic IPO attracts massive investor demand at valuation target",
    "ts": "2026-11-13T16:37:22.214977+00:00"
@@ -2020,11 +2016,15 @@
   {
    "headline": "US Treasury Secretary Calls for Nvidia Leadership Shakeup",
    "ts": "2026-11-15T15:37:20.943043+00:00"
+  },
+  {
+   "headline": "Anthropic's Claude Fable 5.2 generates images using code-based brushstrokes",
+   "ts": "2026-11-15T16:07:22.071844+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3664,12 +3664,13 @@
   "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china": "2026-11-15T12:08:20.966947+00:00",
   "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1": "2026-11-15T13:08:06.434948+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case": "2026-11-15T15:09:34.321757+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster": "2026-11-15T15:39:24.528142+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster": "2026-11-15T15:39:24.528142+00:00",
+  "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": "2026-11-15T16:07:58.973408+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
   "32933935200c2839": {
@@ -10226,6 +10227,36 @@
    "imp": 0.64,
    "ai": 0.16,
    "ts": "2026-11-15T15:37:20.943043+00:00"
+  },
+  "7366d1903cffa879": {
+   "imp": 0.35,
+   "ai": 0.16,
+   "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  "65ecef2327a06bf0": {
+   "imp": 1.71,
+   "ai": null,
+   "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  "b24410c214a7c4e1": {
+   "imp": 1.81,
+   "ai": 0.91,
+   "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  "4733428fbbd9539e": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  "ab8909b5ae852db1": {
+   "imp": 0.22,
+   "ai": 0.08,
+   "ts": "2026-11-15T16:07:22.071844+00:00"
+  },
+  "e08296fe8bccbd0d": {
+   "imp": 0.38,
+   "ai": 0.08,
+   "ts": "2026-11-15T16:07:22.071844+00:00"
   }
  }
 }
