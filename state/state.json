@@ -1,7 +1,5 @@
 {
  "seen": {
-  "fcc759566aac18fb": "2026-11-08T15:07:23.532832+00:00",
-  "34520e7f743e70e4": "2026-11-08T15:07:23.532832+00:00",
   "2772fb68567cc290": "2026-11-08T16:07:23.270473+00:00",
   "def5de44e1fb563b": "2026-11-08T16:07:23.270473+00:00",
   "233409616a1b4211": "2026-11-08T16:37:21.165098+00:00",
@@ -1899,13 +1897,13 @@
   "72120cb31e6597d5": "2026-11-15T14:07:24.765095+00:00",
   "7c347ddc214057a5": "2026-11-15T14:07:24.765095+00:00",
   "a39fa7636e6a9150": "2026-11-15T14:07:24.765095+00:00",
-  "1ca5d35acdf294fd": "2026-11-15T14:37:21.449225+00:00"
+  "1ca5d35acdf294fd": "2026-11-15T14:37:21.449225+00:00",
+  "642bd6145e28021c": "2026-11-15T15:07:26.992150+00:00",
+  "a5ca565338eb35df": "2026-11-15T15:07:26.992150+00:00",
+  "a247a40b45bd1ad3": "2026-11-15T15:07:26.992150+00:00",
+  "cd15efc45e405783": "2026-11-15T15:07:26.992150+00:00"
  },
  "covered": [
-  {
-   "headline": "SpaceX AI group lays off most of Grok video team",
-   "ts": "2026-11-13T15:07:25.360059+00:00"
-  },
   {
    "headline": "Nvidia CEO Jensen Huang resigns after decades",
    "ts": "2026-11-13T16:07:27.082293+00:00"
@@ -2013,11 +2011,15 @@
   {
    "headline": "US Congress moves toward stricter AI chip export controls",
    "ts": "2026-11-15T13:07:20.972232+00:00"
+  },
+  {
+   "headline": "Nvidia appeals to Taiwan over employee AI chip smuggling case",
+   "ts": "2026-11-15T15:07:26.992150+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3655,12 +3657,13 @@
   "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection": "2026-11-15T10:11:59.963854+00:00",
   "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu": "2026-11-15T10:40:51.927368+00:00",
   "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china": "2026-11-15T12:08:20.966947+00:00",
-  "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1": "2026-11-15T13:08:06.434948+00:00"
+  "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1": "2026-11-15T13:08:06.434948+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case": "2026-11-15T15:09:34.321757+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
   "32933935200c2839": {
@@ -10177,6 +10180,36 @@
    "imp": 0.43,
    "ai": 0.08,
    "ts": "2026-11-15T14:37:21.449225+00:00"
+  },
+  "a5ca565338eb35df": {
+   "imp": 1.08,
+   "ai": 0.54,
+   "ts": "2026-11-15T15:07:26.992150+00:00"
+  },
+  "cd15efc45e405783": {
+   "imp": 1.66,
+   "ai": 0.97,
+   "ts": "2026-11-15T15:07:26.992150+00:00"
+  },
+  "642bd6145e28021c": {
+   "imp": 1.52,
+   "ai": 0.94,
+   "ts": "2026-11-15T15:07:26.992150+00:00"
+  },
+  "a247a40b45bd1ad3": {
+   "imp": 0.73,
+   "ai": 0.47,
+   "ts": "2026-11-15T15:07:26.992150+00:00"
+  },
+  "06e31d163728f938": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-15T15:07:26.992150+00:00"
+  },
+  "2339994ec543634c": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-15T15:07:26.992150+00:00"
   }
  }
 }
