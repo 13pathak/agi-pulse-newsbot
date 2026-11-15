@@ -1890,13 +1890,10 @@
   "10ab3d931d5ff5e4": "2026-11-15T01:07:24.669068+00:00",
   "351d8bb9fbf016cf": "2026-11-15T01:07:24.669068+00:00",
   "0a8af58ec26a43a5": "2026-11-15T01:07:24.669068+00:00",
-  "b08cefd9996dfc5a": "2026-11-15T01:07:24.669068+00:00"
+  "b08cefd9996dfc5a": "2026-11-15T01:07:24.669068+00:00",
+  "d325b9b786ea2db7": "2026-11-15T01:37:22.765028+00:00"
  },
  "covered": [
-  {
-   "headline": "Google releases Gemini 4 Hydrogen model globally",
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
   {
    "headline": "Google opens preorders for $395 Gemini smartglasses",
    "ts": "2026-11-13T02:07:20.260034+00:00"
@@ -2072,11 +2069,15 @@
   {
    "headline": "US Treasury questions Nvidia over restricted AI chip sales",
    "ts": "2026-11-14T16:07:21.949922+00:00"
+  },
+  {
+   "headline": "Over 100,000 Sign Petition Urging Nvidia to Reinstate Huang",
+   "ts": "2026-11-15T01:37:22.765028+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 0
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3708,12 +3709,13 @@
   "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00",
   "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": "2026-11-14T12:09:46.538576+00:00",
   "https://www.qbitai.com/2026/11/510003.html": "2026-11-14T13:39:20.495235+00:00",
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00"
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00",
+  "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang": "2026-11-15T01:38:04.078335+00:00"
  },
  "details_daily": {
-  "date": "2026-11-14",
-  "count": 1,
-  "takes": 16
+  "date": "2026-11-15",
+  "count": 0,
+  "takes": 1
  },
  "triage": {
   "32933935200c2839": {
@@ -9565,6 +9567,26 @@
    "imp": 0.33,
    "ai": 0.05,
    "ts": "2026-11-15T01:07:24.669068+00:00"
+  },
+  "d325b9b786ea2db7": {
+   "imp": 1.86,
+   "ai": 0.94,
+   "ts": "2026-11-15T01:37:22.765028+00:00"
+  },
+  "2f75bf826b0e1604": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-15T01:37:22.765028+00:00"
+  },
+  "d1e79a87baf89645": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-15T01:37:22.765028+00:00"
+  },
+  "2841b98edc8c0947": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-15T01:37:22.765028+00:00"
   }
  }
 }
