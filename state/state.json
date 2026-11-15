@@ -1,6 +1,5 @@
 {
  "seen": {
-  "f22d837c2d1d7f6e": "2026-11-08T08:07:23.494915+00:00",
   "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00",
   "6e70fe048dede744": "2026-11-08T10:07:20.936512+00:00",
   "f3600c82b54ebf75": "2026-11-08T10:07:20.936512+00:00",
@@ -1898,14 +1897,6 @@
   "8a391d921d21bef5": "2026-11-15T07:07:31.513574+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic IPO is six times oversubscribed in filings",
-   "ts": "2026-11-13T07:37:35.670710+00:00"
-  },
-  {
-   "headline": "MeitY questions home platforms over physical AI video data",
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
   {
    "headline": "Frammer AI launches AI live sports highlights platform",
    "ts": "2026-11-13T08:37:20.813754+00:00"
@@ -9755,6 +9746,11 @@
    "imp": 0.06,
    "ai": 0.03,
    "ts": "2026-11-15T07:37:29.261738+00:00"
+  },
+  "907f66e509abfa1c": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-15T08:07:29.248676+00:00"
   }
  }
 }
