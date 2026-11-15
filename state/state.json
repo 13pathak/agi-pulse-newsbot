@@ -1,11 +1,5 @@
 {
  "seen": {
-  "0714bf335a4c2bcb": "2026-11-08T06:37:22.221942+00:00",
-  "f2a884ceac53c445": "2026-11-08T06:37:22.221942+00:00",
-  "8947930e777832c4": "2026-11-08T06:37:22.221942+00:00",
-  "164e4a333ab9053c": "2026-11-08T06:37:22.221942+00:00",
-  "364fcb61dbb04900": "2026-11-08T06:37:22.221942+00:00",
-  "3728d23d67539cf1": "2026-11-08T06:37:22.221942+00:00",
   "f22d837c2d1d7f6e": "2026-11-08T08:07:23.494915+00:00",
   "7909cce22a7c200a": "2026-11-08T09:37:23.384508+00:00",
   "6e70fe048dede744": "2026-11-08T10:07:20.936512+00:00",
@@ -1896,13 +1890,13 @@
   "9eaf5401368cfec2": "2026-11-15T05:07:23.594196+00:00",
   "abf5f25c75e0d2e5": "2026-11-15T05:37:24.509493+00:00",
   "2460d1d60ca9d447": "2026-11-15T06:07:21.939629+00:00",
-  "75722611fa03afae": "2026-11-15T06:07:21.939629+00:00"
+  "75722611fa03afae": "2026-11-15T06:07:21.939629+00:00",
+  "28d47831ebc191b6": "2026-11-15T06:37:20.895942+00:00",
+  "0bbb539a464fd748": "2026-11-15T06:37:20.895942+00:00",
+  "521dda979f4545ad": "2026-11-15T06:37:20.895942+00:00",
+  "e82cc9c0a41a4108": "2026-11-15T06:37:20.895942+00:00"
  },
  "covered": [
-  {
-   "headline": "ByteDance offers share buyback at $400 billion valuation",
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
   {
    "headline": "Anthropic IPO is six times oversubscribed in filings",
    "ts": "2026-11-13T07:37:35.670710+00:00"
@@ -2046,11 +2040,15 @@
   {
    "headline": "Over 100,000 Sign Petition Urging Nvidia to Reinstate Huang",
    "ts": "2026-11-15T01:37:22.765028+00:00"
+  },
+  {
+   "headline": "Data center construction stocks lose $4.2 trillion in market value",
+   "ts": "2026-11-15T06:37:20.895942+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-15",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3683,12 +3681,13 @@
   "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": "2026-11-14T12:09:46.538576+00:00",
   "https://www.qbitai.com/2026/11/510003.html": "2026-11-14T13:39:20.495235+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00",
-  "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang": "2026-11-15T01:38:04.078335+00:00"
+  "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang": "2026-11-15T01:38:04.078335+00:00",
+  "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1": "2026-11-15T06:37:53.036384+00:00"
  },
  "details_daily": {
   "date": "2026-11-15",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -9685,6 +9684,46 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-15T06:07:21.939629+00:00"
+  },
+  "0bbb539a464fd748": {
+   "imp": 1.48,
+   "ai": 0.92,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "8a391d921d21bef5": {
+   "imp": 0.9,
+   "ai": 0.83,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "521dda979f4545ad": {
+   "imp": 1.5,
+   "ai": 0.83,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "e82cc9c0a41a4108": {
+   "imp": 1.82,
+   "ai": 0.92,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "28d47831ebc191b6": {
+   "imp": 1.04,
+   "ai": 0.31,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "edb98d865e5b8521": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "3b140b85a275dd81": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
+  },
+  "23ea7291cca26a35": {
+   "imp": 0.82,
+   "ai": 0.08,
+   "ts": "2026-11-15T06:37:20.895942+00:00"
   }
  }
 }
