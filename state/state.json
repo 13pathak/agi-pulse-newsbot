@@ -1,7 +1,5 @@
 {
  "seen": {
-  "c5e0a4cad3da1aa4": "2026-11-09T01:37:20.079145+00:00",
-  "934985cf01b72207": "2026-11-09T01:37:20.079145+00:00",
   "ae06ecf7187204d4": "2026-11-09T02:07:24.550324+00:00",
   "0d6cf31315a0130f": "2026-11-09T02:37:21.419191+00:00",
   "56b63e3fd22f6ea8": "2026-11-09T02:37:21.419191+00:00",
@@ -1901,13 +1899,15 @@
   "1a811a22b701406e": "2026-11-16T01:07:20.785806+00:00",
   "0502dc334f328f9f": "2026-11-16T01:07:20.785806+00:00",
   "8984780883918c9f": "2026-11-16T01:07:20.785806+00:00",
-  "3d72e471b39bd3b1": "2026-11-16T01:07:20.785806+00:00"
+  "3d72e471b39bd3b1": "2026-11-16T01:07:20.785806+00:00",
+  "c743d52c9bed5c22": "2026-11-16T01:37:29.169421+00:00",
+  "8cf21bf02643f344": "2026-11-16T01:37:29.169421+00:00",
+  "f7214e14d1e100a3": "2026-11-16T01:37:29.169421+00:00",
+  "fe0dd67480278eae": "2026-11-16T01:37:29.169421+00:00",
+  "3be93aee370a9eef": "2026-11-16T01:37:29.169421+00:00",
+  "fc91828979fbf24c": "2026-11-16T01:37:29.169421+00:00"
  },
  "covered": [
-  {
-   "headline": "White House task force recommends easing cyber liability for AI reporting",
-   "ts": "2026-11-14T01:37:31.222397+00:00"
-  },
   {
    "headline": "FAA expands AI traffic management tool across US airspace",
    "ts": "2026-11-14T02:07:23.069055+00:00"
@@ -2019,11 +2019,15 @@
   {
    "headline": "US and allies agree to protect AI supply chains",
    "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  {
+   "headline": "Bharat Semi raises $24M for AI-enabled sensors",
+   "ts": "2026-11-16T01:37:29.169421+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3567,34 +3571,6 @@
  },
  "pending": [
   {
-   "id": "fc91828979fbf24c",
-   "item": {
-    "id": "fc91828979fbf24c",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "published": "2026-11-15T23:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Bharat Semi raises $24M for AI-enabled sensors",
-   "post": "Indian chip startup Bharat Semi raised $24 million in seed funding to expand its AI-enabled sensor technology. The company said it has secured design wins with customers including General Atomics.",
-   "editor_note": "Confirm lead investors in the $24M seed round and the specific commercial deployment schedule for the sensors.",
-   "support": 0.92,
-   "published_at": "2026-11-15T23:30:00+00:00",
-   "first_seen_at": "2026-11-16T01:07:20.785806+00:00",
-   "expires_at": "2026-11-17T11:30:00+00:00",
-   "decision": 2.62,
-   "priority": 7.828266,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "b6ddda222aae1891",
    "item": {
     "id": "b6ddda222aae1891",
@@ -3657,6 +3633,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "0fb0b58294f1af0e",
+     "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "image": "",
+     "snippet": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
+     "published": "2026-11-15T21:53:53+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -3669,8 +3657,8 @@
    "first_seen_at": "2026-11-16T01:07:20.785806+00:00",
    "expires_at": "2026-11-17T07:03:41+00:00",
    "decision": 2.7,
-   "priority": 7.731637,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.749079,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   }
  ],
  "details_queue": [],
@@ -3786,12 +3774,13 @@
   "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": "2026-11-15T16:07:58.973408+00:00",
   "https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology": "2026-11-15T16:38:12.904066+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet": "2026-11-15T17:09:26.283774+00:00",
-  "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1": "2026-11-16T01:08:56.894280+00:00"
+  "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1": "2026-11-16T01:08:56.894280+00:00",
+  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": "2026-11-16T01:39:36.912338+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -10753,6 +10742,71 @@
    "imp": 0.19,
    "ai": 0.07,
    "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "f7214e14d1e100a3": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "fe0dd67480278eae": {
+   "imp": 1.52,
+   "ai": 0.85,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "3be93aee370a9eef": {
+   "imp": 0.94,
+   "ai": 0.94,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "4b4d48f19f03e283": {
+   "imp": 0.66,
+   "ai": 0.05,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "5d59ad4c97f9a751": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "41486b6f4e8b95f8": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "dfaa7bef0fb7be3b": {
+   "imp": 0.42,
+   "ai": 0.18,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "9ddbaebbcc2dd448": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "ddd6bbeb6d7ac3ad": {
+   "imp": 0.28,
+   "ai": 0.09,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "ec3a26bfc8b814c1": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "c45f0a26b01ddda1": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "b43d931d085d1e88": {
+   "imp": 1.03,
+   "ai": 0.42,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "11816da7c213457a": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:37:29.169421+00:00"
   }
  }
 }
