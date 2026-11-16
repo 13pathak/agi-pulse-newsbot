@@ -1901,7 +1901,21 @@
   "34ae96101d7fdd26": "2026-11-16T12:07:26.735425+00:00",
   "256f3a36ee6b018b": "2026-11-16T12:07:26.735425+00:00",
   "b08d41343216c22d": "2026-11-16T12:07:26.735425+00:00",
-  "6c2b03eced2acfda": "2026-11-16T12:07:26.735425+00:00"
+  "6c2b03eced2acfda": "2026-11-16T12:07:26.735425+00:00",
+  "2bd9a2245c499efa": "2026-11-16T12:37:38.212110+00:00",
+  "5dab3f0243ea1b86": "2026-11-16T12:37:38.212110+00:00",
+  "93489cde676affd2": "2026-11-16T12:37:38.212110+00:00",
+  "abaebec437a6adce": "2026-11-16T12:37:38.212110+00:00",
+  "6c2d7917337c85e2": "2026-11-16T12:37:38.212110+00:00",
+  "bc89b15653cb6baa": "2026-11-16T12:37:38.212110+00:00",
+  "4813a62e100842a5": "2026-11-16T12:37:38.212110+00:00",
+  "30b213abdc19f02b": "2026-11-16T12:37:38.212110+00:00",
+  "eb56a7b719db02bc": "2026-11-16T12:37:38.212110+00:00",
+  "4dd55cd70bed3104": "2026-11-16T12:37:38.212110+00:00",
+  "efccb445b06c4eed": "2026-11-16T12:37:38.212110+00:00",
+  "b5b5d83575dc5946": "2026-11-16T12:37:38.212110+00:00",
+  "5a19d633e6903d8c": "2026-11-16T12:37:38.212110+00:00",
+  "fcbaf2152a3da36d": "2026-11-16T12:37:38.212110+00:00"
  },
  "covered": [
   {
@@ -2011,11 +2025,15 @@
   {
    "headline": "Fed Governor Warns Autonomous AI Agents Could Accelerate Bank Runs",
    "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  {
+   "headline": "Dreamteam raises $53M for AI-native CRM",
+   "ts": "2026-11-16T12:37:38.212110+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3561,6 +3579,36 @@
    "desc": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/56F7tT9829W28yYUsIwxk0/fa52b7a1f91fc5b65a70ac92be2150c9/the-king-s-trust-and-openai-launch-1m-partnership-seo.png?w=1600&h=900&fit=fill",
    "published": "2026-11-12T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/510486.html": {
+   "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+   "desc": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510416.html": {
+   "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+   "desc": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510369.html": {
+   "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+   "desc": "是石科技最新发布多模态模型服务",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510526.html": {
+   "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+   "desc": "12月1日，细数AI的未竟之问。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510382.html": {
+   "title": "今天截止！2026年度AI表彰，错过再等一年！",
+   "desc": "量子位在寻找“能干”的答案",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -3589,8 +3637,8 @@
    "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
    "expires_at": "2026-11-17T23:10:39+00:00",
    "decision": 1.9,
-   "priority": 7.138385,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.155856,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -3719,12 +3767,13 @@
   "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html": "2026-11-16T09:38:06.296384+00:00",
   "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains": "2026-11-16T11:07:58.542594+00:00",
   "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom": "2026-11-16T11:41:11.561654+00:00",
-  "https://36kr.com/newsflashes/4072337885041800?f=rss": "2026-11-16T12:09:40.881610+00:00"
+  "https://36kr.com/newsflashes/4072337885041800?f=rss": "2026-11-16T12:09:40.881610+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap": "2026-11-16T12:38:17.868352+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
   "32933935200c2839": {
@@ -12356,6 +12405,141 @@
    "imp": 0.3,
    "ai": 0.05,
    "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "fcbaf2152a3da36d": {
+   "imp": 2.08,
+   "ai": null,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "75887e5a8de44428": {
+   "imp": 0.15,
+   "ai": 0.12,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "5a19d633e6903d8c": {
+   "imp": 2.4,
+   "ai": 0.95,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "abaebec437a6adce": {
+   "imp": 2.38,
+   "ai": 0.91,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "30b213abdc19f02b": {
+   "imp": 2.1,
+   "ai": 0.81,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "6452274540d8ef29": {
+   "imp": 1.04,
+   "ai": 0.74,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "efccb445b06c4eed": {
+   "imp": 0.18,
+   "ai": 0.69,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "93489cde676affd2": {
+   "imp": 2.74,
+   "ai": 0.98,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "4813a62e100842a5": {
+   "imp": 1.77,
+   "ai": 0.97,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "b5b5d83575dc5946": {
+   "imp": 0.15,
+   "ai": 0.31,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "eb56a7b719db02bc": {
+   "imp": 1.2,
+   "ai": 0.97,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "4dd55cd70bed3104": {
+   "imp": 0.74,
+   "ai": 0.53,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "6c2d7917337c85e2": {
+   "imp": 1.46,
+   "ai": 0.53,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "5dab3f0243ea1b86": {
+   "imp": 2.75,
+   "ai": 0.98,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "bc89b15653cb6baa": {
+   "imp": 2.31,
+   "ai": 0.94,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "2bd9a2245c499efa": {
+   "imp": 0.86,
+   "ai": null,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "96204c172247cb48": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "12744f0883fb1152": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "13493b7c994f35bf": {
+   "imp": 0.17,
+   "ai": 0.1,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "797f110171469be0": {
+   "imp": 0.63,
+   "ai": 0.21,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "d23e0c9b4288bf4f": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "eadd1224c866c6cb": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "57020ba8b66c2bc3": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "4f1407650dbc7fbc": {
+   "imp": 0.06,
+   "ai": 0.04,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "eb3f3489727afbe1": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "11739eb66e940091": {
+   "imp": 0.13,
+   "ai": 0.05,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "9d3da67fff51c69a": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-16T12:37:38.212110+00:00"
   }
  }
 }
