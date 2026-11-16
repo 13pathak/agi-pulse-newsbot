@@ -1,11 +1,5 @@
 {
  "seen": {
-  "d7a71bb4508c49d1": "2026-11-09T13:37:21.585544+00:00",
-  "7c063d58ffbe74ea": "2026-11-09T13:37:21.585544+00:00",
-  "6b5db68561fec746": "2026-11-09T13:37:21.585544+00:00",
-  "42e7d6fc3426371c": "2026-11-09T13:37:21.585544+00:00",
-  "a73ef60477b0abc9": "2026-11-09T13:37:21.585544+00:00",
-  "fed57ee9ef7aa7c4": "2026-11-09T13:37:21.585544+00:00",
   "2302147a6d2f3749": "2026-11-09T14:07:23.032705+00:00",
   "2b34e593454073e9": "2026-11-09T14:07:23.032705+00:00",
   "ee912a9c8369f438": "2026-11-09T14:07:23.032705+00:00",
@@ -1910,13 +1904,11 @@
   "ae8026eb7a7d871d": "2026-11-16T13:07:26.407580+00:00",
   "cec39e8a1fd8f406": "2026-11-16T13:07:26.407580+00:00",
   "cd92b346f1d29713": "2026-11-16T13:07:26.407580+00:00",
-  "91cc62e34cf9d162": "2026-11-16T13:07:26.407580+00:00"
+  "91cc62e34cf9d162": "2026-11-16T13:07:26.407580+00:00",
+  "6452274540d8ef29": "2026-11-16T13:37:38.736503+00:00",
+  "12d325c1a2f4fda5": "2026-11-16T13:37:38.736503+00:00"
  },
  "covered": [
-  {
-   "headline": "DeepSeek opens full API family",
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
   {
    "headline": "US Treasury questions Nvidia over restricted AI chip sales",
    "ts": "2026-11-14T16:07:21.949922+00:00"
@@ -2028,11 +2020,15 @@
   {
    "headline": "Uber adds Amazon Zoox robotaxis to platform in Las Vegas",
    "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  {
+   "headline": "Fractal Analytics in Talks to Acquire Up to 25 Startups",
+   "ts": "2026-11-16T13:37:38.736503+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3614,38 +3610,15 @@
    "desc": "How Sarvam Token Factory serves frontier open-weight models from India, and what we built on top of open source to do it.",
    "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/66b481301bdb3bd13976c135f05786655f3959be-2400x1260.png",
    "published": "2026-11-07T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/510542.html": {
+   "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+   "desc": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
- "pending": [
-  {
-   "id": "12d325c1a2f4fda5",
-   "item": {
-    "id": "12d325c1a2f4fda5",
-    "title": "Fractal in talks with up to 25 AI startups for acquisitions, CEO says",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-135886057,imgsize-1179193.cms",
-    "snippet": "Enterprise AI firm Fractal Analytics is actively talking to 20 to 25 startups to potentially acquire them, its CEO told Reuters, as it seeks to deepen its vertical-specific capabilities and gain early access to frontier AI models.",
-    "published": "2026-11-16T11:10:39+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Fractal Analytics in Talks to Acquire Up to 25 Startups",
-   "post": "Enterprise AI firm Fractal Analytics is in talks to acquire between 20 and 25 startups to expand its sector-specific capabilities and access frontier AI models, its CEO told Reuters.",
-   "editor_note": "Check whether any specific acquisition targets or financial terms were disclosed by the CEO.",
-   "support": 0.94,
-   "published_at": "2026-11-16T11:10:39+00:00",
-   "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
-   "expires_at": "2026-11-17T23:10:39+00:00",
-   "decision": 1.9,
-   "priority": 7.173104,
-   "selection_reason": "Editorial importance; waiting 1.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -3774,12 +3747,13 @@
   "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom": "2026-11-16T11:41:11.561654+00:00",
   "https://36kr.com/newsflashes/4072337885041800?f=rss": "2026-11-16T12:09:40.881610+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap": "2026-11-16T12:38:17.868352+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas": "2026-11-16T13:10:59.678179+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas": "2026-11-16T13:10:59.678179+00:00",
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms": "2026-11-16T13:38:08.777746+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
   "32933935200c2839": {
@@ -12621,6 +12595,31 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "c0c6df2323eb0c08": {
+   "imp": 0.65,
+   "ai": 0.17,
+   "ts": "2026-11-16T13:37:38.736503+00:00"
+  },
+  "4a2af116b8de5e70": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-16T13:37:38.736503+00:00"
+  },
+  "95c76e4250914591": {
+   "imp": 0.37,
+   "ai": 0.23,
+   "ts": "2026-11-16T13:37:38.736503+00:00"
+  },
+  "44cdf1d92efd091f": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-16T13:37:38.736503+00:00"
+  },
+  "3ef0767e3e05be85": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-16T13:37:38.736503+00:00"
   }
  }
 }
