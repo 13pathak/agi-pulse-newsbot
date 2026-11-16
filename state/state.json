@@ -1,17 +1,5 @@
 {
  "seen": {
-  "7b1451fc786c34f9": "2026-11-09T13:07:21.640338+00:00",
-  "9808e68de2626401": "2026-11-09T13:07:21.640338+00:00",
-  "6f778c8690b8d84c": "2026-11-09T13:07:21.640338+00:00",
-  "e9d724db375806b6": "2026-11-09T13:07:21.640338+00:00",
-  "dddc94b1b5db8100": "2026-11-09T13:07:21.640338+00:00",
-  "5956c5aef77ca565": "2026-11-09T13:07:21.640338+00:00",
-  "40e39b69361b711c": "2026-11-09T13:07:21.640338+00:00",
-  "e3299526e41a71f1": "2026-11-09T13:07:21.640338+00:00",
-  "c1d81afd4aae2d50": "2026-11-09T13:07:21.640338+00:00",
-  "ff55535ca88b9a53": "2026-11-09T13:07:21.640338+00:00",
-  "1363cdb142dc5b30": "2026-11-09T13:07:21.640338+00:00",
-  "242f10dd4415f489": "2026-11-09T13:07:21.640338+00:00",
   "d7a71bb4508c49d1": "2026-11-09T13:37:21.585544+00:00",
   "7c063d58ffbe74ea": "2026-11-09T13:37:21.585544+00:00",
   "6b5db68561fec746": "2026-11-09T13:37:21.585544+00:00",
@@ -1915,7 +1903,14 @@
   "efccb445b06c4eed": "2026-11-16T12:37:38.212110+00:00",
   "b5b5d83575dc5946": "2026-11-16T12:37:38.212110+00:00",
   "5a19d633e6903d8c": "2026-11-16T12:37:38.212110+00:00",
-  "fcbaf2152a3da36d": "2026-11-16T12:37:38.212110+00:00"
+  "fcbaf2152a3da36d": "2026-11-16T12:37:38.212110+00:00",
+  "b353a5fa6121ebc9": "2026-11-16T13:07:26.407580+00:00",
+  "3f0451f8ded9cca3": "2026-11-16T13:07:26.407580+00:00",
+  "2b2bb87b4857660b": "2026-11-16T13:07:26.407580+00:00",
+  "ae8026eb7a7d871d": "2026-11-16T13:07:26.407580+00:00",
+  "cec39e8a1fd8f406": "2026-11-16T13:07:26.407580+00:00",
+  "cd92b346f1d29713": "2026-11-16T13:07:26.407580+00:00",
+  "91cc62e34cf9d162": "2026-11-16T13:07:26.407580+00:00"
  },
  "covered": [
   {
@@ -2029,11 +2024,15 @@
   {
    "headline": "Dreamteam raises $53M for AI-native CRM",
    "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  {
+   "headline": "Uber adds Amazon Zoox robotaxis to platform in Las Vegas",
+   "ts": "2026-11-16T13:07:26.407580+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3609,6 +3608,12 @@
    "desc": "量子位在寻找“能干”的答案",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.sarvam.ai/blogs/sarvam-token-factory": {
+   "title": "Introducing Sarvam Token Factory | Sarvam AI",
+   "desc": "How Sarvam Token Factory serves frontier open-weight models from India, and what we built on top of open source to do it.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/66b481301bdb3bd13976c135f05786655f3959be-2400x1260.png",
+   "published": "2026-11-07T00:00:00+00:00"
   }
  },
  "pending": [
@@ -3637,8 +3642,8 @@
    "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
    "expires_at": "2026-11-17T23:10:39+00:00",
    "decision": 1.9,
-   "priority": 7.155856,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.173104,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -3768,12 +3773,13 @@
   "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains": "2026-11-16T11:07:58.542594+00:00",
   "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom": "2026-11-16T11:41:11.561654+00:00",
   "https://36kr.com/newsflashes/4072337885041800?f=rss": "2026-11-16T12:09:40.881610+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap": "2026-11-16T12:38:17.868352+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap": "2026-11-16T12:38:17.868352+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas": "2026-11-16T13:10:59.678179+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
   "32933935200c2839": {
@@ -12540,6 +12546,81 @@
    "imp": 0.13,
    "ai": 0.04,
    "ts": "2026-11-16T12:37:38.212110+00:00"
+  },
+  "2b2bb87b4857660b": {
+   "imp": 2.0,
+   "ai": null,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "cec39e8a1fd8f406": {
+   "imp": 1.21,
+   "ai": 0.84,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "3f0451f8ded9cca3": {
+   "imp": 2.11,
+   "ai": 0.9,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "33d5a68782af8d56": {
+   "imp": 0.5,
+   "ai": 0.18,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "cd92b346f1d29713": {
+   "imp": 1.31,
+   "ai": 0.89,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "b353a5fa6121ebc9": {
+   "imp": 1.23,
+   "ai": null,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "91cc62e34cf9d162": {
+   "imp": 1.78,
+   "ai": 0.88,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "a17072a65e8a3308": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "e98eac5295b72021": {
+   "imp": 0.5,
+   "ai": 0.11,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "a0e3c6a9de736fd4": {
+   "imp": 0.37,
+   "ai": 0.07,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "30502cde36393f79": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "6327a9202a75c225": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "ae8026eb7a7d871d": {
+   "imp": 1.46,
+   "ai": 0.78,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "ec167febd7cd520d": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
+  },
+  "d779cc79414aa3a5": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-16T13:07:26.407580+00:00"
   }
  }
 }
