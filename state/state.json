@@ -1,11 +1,5 @@
 {
  "seen": {
-  "e3b4359dbef21f5a": "2026-11-09T12:07:22.714827+00:00",
-  "ea8638e2bc854d0e": "2026-11-09T12:07:22.714827+00:00",
-  "0daaf3c22966ba21": "2026-11-09T12:07:22.714827+00:00",
-  "360ae8900798b930": "2026-11-09T12:07:22.714827+00:00",
-  "20a8545aaf6249cc": "2026-11-09T12:07:22.714827+00:00",
-  "f48aeb69ae59bf66": "2026-11-09T12:07:22.714827+00:00",
   "7b1451fc786c34f9": "2026-11-09T13:07:21.640338+00:00",
   "9808e68de2626401": "2026-11-09T13:07:21.640338+00:00",
   "6f778c8690b8d84c": "2026-11-09T13:07:21.640338+00:00",
@@ -1895,13 +1889,21 @@
   "993af7da125461d1": "2026-11-16T11:37:21.233983+00:00",
   "0c42798b56f50024": "2026-11-16T11:37:21.233983+00:00",
   "8b89f021fd5877f2": "2026-11-16T11:37:21.233983+00:00",
-  "6041acbe9a03f175": "2026-11-16T11:37:21.233983+00:00"
+  "6041acbe9a03f175": "2026-11-16T11:37:21.233983+00:00",
+  "e3915f7e4cf071c4": "2026-11-16T12:07:26.735425+00:00",
+  "fbecbfc2ab77434e": "2026-11-16T12:07:26.735425+00:00",
+  "af820f9ec68dd0f3": "2026-11-16T12:07:26.735425+00:00",
+  "b79b9dcea8829427": "2026-11-16T12:07:26.735425+00:00",
+  "c0adf6f16c58d022": "2026-11-16T12:07:26.735425+00:00",
+  "d41b976617e6c158": "2026-11-16T12:07:26.735425+00:00",
+  "014367e3742faae3": "2026-11-16T12:07:26.735425+00:00",
+  "f6095ec9588d0423": "2026-11-16T12:07:26.735425+00:00",
+  "34ae96101d7fdd26": "2026-11-16T12:07:26.735425+00:00",
+  "256f3a36ee6b018b": "2026-11-16T12:07:26.735425+00:00",
+  "b08d41343216c22d": "2026-11-16T12:07:26.735425+00:00",
+  "6c2b03eced2acfda": "2026-11-16T12:07:26.735425+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI dissolves standalone robotics team to focus on general models",
-   "ts": "2026-11-14T12:07:29.222534+00:00"
-  },
   {
    "headline": "DeepSeek opens full API family",
    "ts": "2026-11-14T13:37:22.551708+00:00"
@@ -2005,11 +2007,15 @@
   {
    "headline": "CtrlS Datacentres Plans 4.4 GW Capacity and Bihar AI Factory",
    "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  {
+   "headline": "Fed Governor Warns Autonomous AI Agents Could Accelerate Bank Runs",
+   "ts": "2026-11-16T12:07:26.735425+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3549,38 +3555,15 @@
    "desc": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/ZyKta7ePADbiaWqX3EARs/81a2a593e66096fb001987910330e24e/our-new-blog-for-science-social.png?w=1600&h=900&fit=fill",
    "published": "2026-10-26T14:30:00+00:00"
+  },
+  "https://openai.com/index/the-kings-trust-and-openai": {
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "desc": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/56F7tT9829W28yYUsIwxk0/fa52b7a1f91fc5b65a70ac92be2150c9/the-king-s-trust-and-openai-launch-1m-partnership-seo.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-12T00:00:00+00:00"
   }
  },
  "pending": [
-  {
-   "id": "256f3a36ee6b018b",
-   "item": {
-    "id": "256f3a36ee6b018b",
-    "title": "美联储理事巴尔：AI智能体或加大未来银行挤兑风险",
-    "url": "https://36kr.com/newsflashes/4072337885041800?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "11月16日，美联储理事迈克尔·巴尔警告称，自主人工智能代理可能通过根据市场信号或利率变化自动转移客户存款，加速银行挤兑。他表示，大型银行已发现有AI代理试图在零售账户中执行未经授权的操作。巴尔指出，AI代理可能在数分钟内大规模转移资金，超出银行传统流动性管理和监管干预的应对速度。他还警告，AI基础设施投资热潮存在风险，涉及超过3万亿美元的表外负债及科技巨头之间的“循环融资”交易。（界面）",
-    "published": "2026-11-16T11:16:19+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Fed Governor Warns Autonomous AI Agents Could Accelerate Bank Runs",
-   "post": "Federal Reserve Governor Michael Barr warned that autonomous AI agents could accelerate bank runs by automatically transferring customer deposits at scale based on market signals or interest rate shifts.",
-   "editor_note": "Check if Barr specified which large banks reported unauthorized AI agent activity on retail accounts.",
-   "support": 0.97,
-   "published_at": "2026-11-16T11:16:19+00:00",
-   "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
-   "expires_at": "2026-11-17T23:16:19+00:00",
-   "decision": 1.77,
-   "priority": 7.580261,
-   "selection_reason": "Time-sensitive story"
-  },
   {
    "id": "12d325c1a2f4fda5",
    "item": {
@@ -3606,8 +3589,8 @@
    "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
    "expires_at": "2026-11-17T23:10:39+00:00",
    "decision": 1.9,
-   "priority": 7.12097,
-   "selection_reason": "Editorial importance"
+   "priority": 7.138385,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   }
  ],
  "details_queue": [],
@@ -3735,12 +3718,13 @@
   "https://36kr.com/newsflashes/4072100588950659?f=rss": "2026-11-16T07:39:53.847679+00:00",
   "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html": "2026-11-16T09:38:06.296384+00:00",
   "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains": "2026-11-16T11:07:58.542594+00:00",
-  "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom": "2026-11-16T11:41:11.561654+00:00"
+  "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom": "2026-11-16T11:41:11.561654+00:00",
+  "https://36kr.com/newsflashes/4072337885041800?f=rss": "2026-11-16T12:09:40.881610+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
   "32933935200c2839": {
@@ -12257,6 +12241,121 @@
    "imp": 0.08,
    "ai": 0.01,
    "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "f6095ec9588d0423": {
+   "imp": 0.99,
+   "ai": 0.6,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "b08d41343216c22d": {
+   "imp": 1.71,
+   "ai": 0.94,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "6c2b03eced2acfda": {
+   "imp": 1.62,
+   "ai": 0.86,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "d41b976617e6c158": {
+   "imp": 1.31,
+   "ai": 0.91,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "014367e3742faae3": {
+   "imp": 0.91,
+   "ai": 0.59,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "af820f9ec68dd0f3": {
+   "imp": 1.92,
+   "ai": 0.97,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "c0adf6f16c58d022": {
+   "imp": 1.27,
+   "ai": 0.8,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "b79b9dcea8829427": {
+   "imp": 1.58,
+   "ai": 0.95,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "fbecbfc2ab77434e": {
+   "imp": 2.07,
+   "ai": 0.97,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "34ae96101d7fdd26": {
+   "imp": 0.71,
+   "ai": 0.48,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "e3915f7e4cf071c4": {
+   "imp": 1.33,
+   "ai": null,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "45cfbf7c778a9703": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "37e0f1153b0e55cc": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "ed48f39783469721": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "cb3ae19ffae7cff6": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "2375a5cf3e3d989d": {
+   "imp": 1.16,
+   "ai": 0.2,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "a9e99c7193147c54": {
+   "imp": 0.38,
+   "ai": 0.1,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "6ee042668ccf4378": {
+   "imp": 0.3,
+   "ai": 0.07,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "3a0851e1953dfbc3": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "cbf7c302cb751bba": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "084924e8474bb225": {
+   "imp": 0.52,
+   "ai": 0.08,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "18dfa70930055692": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
+  },
+  "6af4a142defcfe00": {
+   "imp": 0.3,
+   "ai": 0.05,
+   "ts": "2026-11-16T12:07:26.735425+00:00"
   }
  }
 }
