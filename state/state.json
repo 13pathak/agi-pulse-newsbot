@@ -1,12 +1,5 @@
 {
  "seen": {
-  "2302147a6d2f3749": "2026-11-09T14:07:23.032705+00:00",
-  "2b34e593454073e9": "2026-11-09T14:07:23.032705+00:00",
-  "ee912a9c8369f438": "2026-11-09T14:07:23.032705+00:00",
-  "258a7ce2f3d95137": "2026-11-09T14:07:23.032705+00:00",
-  "aae48f59771c3847": "2026-11-09T14:07:23.032705+00:00",
-  "f1d34edf42f32adc": "2026-11-09T14:07:23.032705+00:00",
-  "5fcd7a76450667ba": "2026-11-09T14:07:23.032705+00:00",
   "06e960cd1e4ac6d9": "2026-11-09T14:37:24.342987+00:00",
   "393001759c25000c": "2026-11-09T14:37:24.342987+00:00",
   "980fa35f0d52b3d9": "2026-11-09T14:37:24.342987+00:00",
@@ -1906,7 +1899,13 @@
   "cd92b346f1d29713": "2026-11-16T13:07:26.407580+00:00",
   "91cc62e34cf9d162": "2026-11-16T13:07:26.407580+00:00",
   "6452274540d8ef29": "2026-11-16T13:37:38.736503+00:00",
-  "12d325c1a2f4fda5": "2026-11-16T13:37:38.736503+00:00"
+  "12d325c1a2f4fda5": "2026-11-16T13:37:38.736503+00:00",
+  "0bc322583e6f0775": "2026-11-16T14:07:22.847927+00:00",
+  "068cdd590fa526ab": "2026-11-16T14:07:22.847927+00:00",
+  "dd02c35afc864bbe": "2026-11-16T14:07:22.847927+00:00",
+  "29a19e1aacc64ded": "2026-11-16T14:07:22.847927+00:00",
+  "0a1a9bbf6f1b470a": "2026-11-16T14:07:22.847927+00:00",
+  "3310a493ca30e1bf": "2026-11-16T14:07:22.847927+00:00"
  },
  "covered": [
   {
@@ -2024,11 +2023,15 @@
   {
    "headline": "Fractal Analytics in Talks to Acquire Up to 25 Startups",
    "ts": "2026-11-16T13:37:38.736503+00:00"
+  },
+  {
+   "headline": "US Commerce limits remote access to advanced AI chips",
+   "ts": "2026-11-16T14:07:22.847927+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3618,7 +3621,36 @@
    "published": ""
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "1c2c9f1fcc320aff",
+   "item": {
+    "id": "1c2c9f1fcc320aff",
+    "title": "OpenAI Explored $5 Billion–Plus Acquisition of Startup That Decodes How AI ‘Thinks’",
+    "url": "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks",
+    "source": "The Information",
+    "image": "",
+    "snippet": "As OpenAI staff this summer scrambled to understand how its AI caused security breaches inside and outside the company, leaders including CEO Sam Altman spoke multiple times with Goodfire, an Anthropic-backed startup whose technology aims to figure out why AI models behave the way they do and how to prevent them from going rogue. At one point, a senior OpenAI executive floated the idea of buying t…",
+    "published": "2026-11-16T14:00:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "OpenAI explored $5 billion acquisition of startup Goodfire",
+   "post": "OpenAI leaders discussed acquiring Anthropic-backed interpretability startup Goodfire for over $5 billion following internal security breaches linked to its AI models, according to The Information.",
+   "editor_note": "Verify whether acquisition talks between OpenAI and Goodfire progressed beyond executive discussions or remain ongoing.",
+   "support": 0.55,
+   "published_at": "2026-11-16T14:00:58+00:00",
+   "first_seen_at": "2026-11-16T14:07:22.847927+00:00",
+   "expires_at": "2026-11-18T02:00:58+00:00",
+   "decision": 2.48,
+   "priority": 7.823697,
+   "selection_reason": "Time-sensitive story"
+  }
+ ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -3748,12 +3780,13 @@
   "https://36kr.com/newsflashes/4072337885041800?f=rss": "2026-11-16T12:09:40.881610+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap": "2026-11-16T12:38:17.868352+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas": "2026-11-16T13:10:59.678179+00:00",
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms": "2026-11-16T13:38:08.777746+00:00"
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms": "2026-11-16T13:38:08.777746+00:00",
+  "https://www.businessinsider.com/us-limit-workarounds-to-access-advanced-ai-chips-nvidia-singapore-2026-11": "2026-11-16T14:07:54.111324+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
   "32933935200c2839": {
@@ -12620,6 +12653,81 @@
    "imp": 0.1,
    "ai": 0.01,
    "ts": "2026-11-16T13:37:38.736503+00:00"
+  },
+  "29a19e1aacc64ded": {
+   "imp": 0.51,
+   "ai": null,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "dd02c35afc864bbe": {
+   "imp": 1.35,
+   "ai": null,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "0a1a9bbf6f1b470a": {
+   "imp": 2.28,
+   "ai": 0.98,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "1c2c9f1fcc320aff": {
+   "imp": 2.48,
+   "ai": 0.98,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "0bc322583e6f0775": {
+   "imp": 1.09,
+   "ai": null,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "068cdd590fa526ab": {
+   "imp": 2.0,
+   "ai": 0.95,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "3310a493ca30e1bf": {
+   "imp": 2.26,
+   "ai": 0.92,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "bbb3b0a369d26add": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "012c257504c88b14": {
+   "imp": 0.52,
+   "ai": 0.15,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "a968274ed2e40f9e": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "7b954a1481c125bb": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "64df064e17bc07f7": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "6ae28f28d147edf6": {
+   "imp": 0.22,
+   "ai": 0.09,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "678133a22d884c3a": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "585d5a44e772a103": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-16T14:07:22.847927+00:00"
   }
  }
 }
