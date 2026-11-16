@@ -1,14 +1,5 @@
 {
  "seen": {
-  "d1df7096c504e2fa": "2026-11-09T11:37:20.224380+00:00",
-  "af08e1f33b668617": "2026-11-09T11:37:20.224380+00:00",
-  "66785f04b7e116e2": "2026-11-09T11:37:20.224380+00:00",
-  "f6e2533dd3b1560f": "2026-11-09T11:37:20.224380+00:00",
-  "3f9ab8d4f19f0be4": "2026-11-09T11:37:20.224380+00:00",
-  "fd2bdf0a7e83ede1": "2026-11-09T11:37:20.224380+00:00",
-  "99d6b0ebd7e19458": "2026-11-09T11:37:20.224380+00:00",
-  "6d06250a5f09bc78": "2026-11-09T11:37:20.224380+00:00",
-  "7ebef9afeb8222aa": "2026-11-09T11:37:20.224380+00:00",
   "e3b4359dbef21f5a": "2026-11-09T12:07:22.714827+00:00",
   "ea8638e2bc854d0e": "2026-11-09T12:07:22.714827+00:00",
   "0daaf3c22966ba21": "2026-11-09T12:07:22.714827+00:00",
@@ -1897,7 +1888,14 @@
   "60684b1def093ff6": "2026-11-16T11:07:24.483187+00:00",
   "57546c4df8e7441f": "2026-11-16T11:07:24.483187+00:00",
   "87ae7de26888c577": "2026-11-16T11:07:24.483187+00:00",
-  "3f3f5e08244a8e3c": "2026-11-16T11:07:24.483187+00:00"
+  "3f3f5e08244a8e3c": "2026-11-16T11:07:24.483187+00:00",
+  "823e860ffedf5e1a": "2026-11-16T11:37:21.233983+00:00",
+  "dcf50a49c0dff196": "2026-11-16T11:37:21.233983+00:00",
+  "dca70450b7915a01": "2026-11-16T11:37:21.233983+00:00",
+  "993af7da125461d1": "2026-11-16T11:37:21.233983+00:00",
+  "0c42798b56f50024": "2026-11-16T11:37:21.233983+00:00",
+  "8b89f021fd5877f2": "2026-11-16T11:37:21.233983+00:00",
+  "6041acbe9a03f175": "2026-11-16T11:37:21.233983+00:00"
  },
  "covered": [
   {
@@ -2003,11 +2001,15 @@
   {
    "headline": "India joins US-led pact to secure AI supply chains",
    "ts": "2026-11-16T11:07:24.483187+00:00"
+  },
+  {
+   "headline": "CtrlS Datacentres Plans 4.4 GW Capacity and Bihar AI Factory",
+   "ts": "2026-11-16T11:37:21.233983+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3549,7 +3551,65 @@
    "published": "2026-10-26T14:30:00+00:00"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "256f3a36ee6b018b",
+   "item": {
+    "id": "256f3a36ee6b018b",
+    "title": "美联储理事巴尔：AI智能体或加大未来银行挤兑风险",
+    "url": "https://36kr.com/newsflashes/4072337885041800?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "11月16日，美联储理事迈克尔·巴尔警告称，自主人工智能代理可能通过根据市场信号或利率变化自动转移客户存款，加速银行挤兑。他表示，大型银行已发现有AI代理试图在零售账户中执行未经授权的操作。巴尔指出，AI代理可能在数分钟内大规模转移资金，超出银行传统流动性管理和监管干预的应对速度。他还警告，AI基础设施投资热潮存在风险，涉及超过3万亿美元的表外负债及科技巨头之间的“循环融资”交易。（界面）",
+    "published": "2026-11-16T11:16:19+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Fed Governor Warns Autonomous AI Agents Could Accelerate Bank Runs",
+   "post": "Federal Reserve Governor Michael Barr warned that autonomous AI agents could accelerate bank runs by automatically transferring customer deposits at scale based on market signals or interest rate shifts.",
+   "editor_note": "Check if Barr specified which large banks reported unauthorized AI agent activity on retail accounts.",
+   "support": 0.97,
+   "published_at": "2026-11-16T11:16:19+00:00",
+   "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
+   "expires_at": "2026-11-17T23:16:19+00:00",
+   "decision": 1.77,
+   "priority": 7.580261,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "12d325c1a2f4fda5",
+   "item": {
+    "id": "12d325c1a2f4fda5",
+    "title": "Fractal in talks with up to 25 AI startups for acquisitions, CEO says",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135886057,imgsize-1179193.cms",
+    "snippet": "Enterprise AI firm Fractal Analytics is actively talking to 20 to 25 startups to potentially acquire them, its CEO told Reuters, as it seeks to deepen its vertical-specific capabilities and gain early access to frontier AI models.",
+    "published": "2026-11-16T11:10:39+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Fractal Analytics in Talks to Acquire Up to 25 Startups",
+   "post": "Enterprise AI firm Fractal Analytics is in talks to acquire between 20 and 25 startups to expand its sector-specific capabilities and access frontier AI models, its CEO told Reuters.",
+   "editor_note": "Check whether any specific acquisition targets or financial terms were disclosed by the CEO.",
+   "support": 0.94,
+   "published_at": "2026-11-16T11:10:39+00:00",
+   "first_seen_at": "2026-11-16T11:37:21.233983+00:00",
+   "expires_at": "2026-11-17T23:10:39+00:00",
+   "decision": 1.9,
+   "priority": 7.12097,
+   "selection_reason": "Editorial importance"
+  }
+ ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -3674,12 +3734,13 @@
   "https://36kr.com/newsflashes/4072049518924935?f=rss": "2026-11-16T06:37:57.350966+00:00",
   "https://36kr.com/newsflashes/4072100588950659?f=rss": "2026-11-16T07:39:53.847679+00:00",
   "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html": "2026-11-16T09:38:06.296384+00:00",
-  "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains": "2026-11-16T11:07:58.542594+00:00"
+  "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains": "2026-11-16T11:07:58.542594+00:00",
+  "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom": "2026-11-16T11:41:11.561654+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -12086,6 +12147,116 @@
    "imp": 0.08,
    "ai": 0.05,
    "ts": "2026-11-16T11:07:24.483187+00:00"
+  },
+  "c5b9a0813eb76466": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "0c42798b56f50024": {
+   "imp": 1.82,
+   "ai": 0.92,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "823e860ffedf5e1a": {
+   "imp": 1.98,
+   "ai": 0.85,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "993af7da125461d1": {
+   "imp": 0.81,
+   "ai": 0.8,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "256f3a36ee6b018b": {
+   "imp": 1.77,
+   "ai": 0.89,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "6041acbe9a03f175": {
+   "imp": 1.71,
+   "ai": 0.92,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "dcf50a49c0dff196": {
+   "imp": 1.77,
+   "ai": 0.93,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "12d325c1a2f4fda5": {
+   "imp": 1.9,
+   "ai": 0.99,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "dca70450b7915a01": {
+   "imp": 1.35,
+   "ai": 0.87,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "7f741cf47c7d0251": {
+   "imp": 0.54,
+   "ai": 0.08,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "19ee656bafd8b637": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "4b25c29524b34655": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "f6970c9412601ea7": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "14321a0b890ed9b1": {
+   "imp": 0.46,
+   "ai": 0.14,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "e058b6a0d8a712e0": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "62e7184c07e92bd0": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "8b89f021fd5877f2": {
+   "imp": 1.31,
+   "ai": 0.88,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "b37c3be89f15268e": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "41fdda098d6717a3": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "d21221e3d2f0784b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "bcfb8622c2da0e8b": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
+  },
+  "f1783908cf3f7de6": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-16T11:37:21.233983+00:00"
   }
  }
 }
