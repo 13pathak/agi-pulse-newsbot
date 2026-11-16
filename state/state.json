@@ -1,34 +1,5 @@
 {
  "seen": {
-  "3e62264ffb8eefe5": "2026-11-09T01:07:26.217560+00:00",
-  "3c09c8f27ba13a23": "2026-11-09T01:07:26.217560+00:00",
-  "dc1011821910b7de": "2026-11-09T01:07:26.217560+00:00",
-  "5f59b4b02e7300bc": "2026-11-09T01:07:26.217560+00:00",
-  "6d5898c96ffa9ea2": "2026-11-09T01:07:26.217560+00:00",
-  "15dfac679dc43b91": "2026-11-09T01:07:26.217560+00:00",
-  "2b527a5d8a869d76": "2026-11-09T01:07:26.217560+00:00",
-  "99e93c8376868845": "2026-11-09T01:07:26.217560+00:00",
-  "ba5fef4757ffe590": "2026-11-09T01:07:26.217560+00:00",
-  "f4f07b2423119379": "2026-11-09T01:07:26.217560+00:00",
-  "67abd93f196f854c": "2026-11-09T01:07:26.217560+00:00",
-  "26a78b8c98a3d9d9": "2026-11-09T01:07:26.217560+00:00",
-  "890ffbee8dbd74b2": "2026-11-09T01:07:26.217560+00:00",
-  "db92d38fc027895d": "2026-11-09T01:07:26.217560+00:00",
-  "45da7994669e5304": "2026-11-09T01:07:26.217560+00:00",
-  "ea515c03aae7d3e8": "2026-11-09T01:07:26.217560+00:00",
-  "08991feda3cc9f17": "2026-11-09T01:07:26.217560+00:00",
-  "84ab0fe30f78624b": "2026-11-09T01:07:26.217560+00:00",
-  "7b3c7e424c5d55d7": "2026-11-09T01:07:26.217560+00:00",
-  "bc0367fcd14ecd28": "2026-11-09T01:07:26.217560+00:00",
-  "3a86abab644ffeb3": "2026-11-09T01:07:26.217560+00:00",
-  "c51439857f1af664": "2026-11-09T01:07:26.217560+00:00",
-  "ecd65815b585666d": "2026-11-09T01:07:26.217560+00:00",
-  "7ee970694488e9dd": "2026-11-09T01:07:26.217560+00:00",
-  "b82ff8fc96570370": "2026-11-09T01:07:26.217560+00:00",
-  "f3a5be64387442b9": "2026-11-09T01:07:26.217560+00:00",
-  "cc0cfefe932f0570": "2026-11-09T01:07:26.217560+00:00",
-  "53044e44b3aab431": "2026-11-09T01:07:26.217560+00:00",
-  "0d90061414db883b": "2026-11-09T01:07:26.217560+00:00",
   "c5e0a4cad3da1aa4": "2026-11-09T01:37:20.079145+00:00",
   "934985cf01b72207": "2026-11-09T01:37:20.079145+00:00",
   "ae06ecf7187204d4": "2026-11-09T02:07:24.550324+00:00",
@@ -1905,13 +1876,34 @@
   "f7a0a0957afeedca": "2026-11-15T16:37:21.486115+00:00",
   "ba20c536dd1cace3": "2026-11-15T16:37:21.486115+00:00",
   "14abd41674e89d8c": "2026-11-15T17:07:23.404767+00:00",
-  "70478f62462e65ed": "2026-11-15T17:07:23.404767+00:00"
+  "70478f62462e65ed": "2026-11-15T17:07:23.404767+00:00",
+  "87d7014c15ee68a3": "2026-11-16T01:07:20.785806+00:00",
+  "46b48e728e810800": "2026-11-16T01:07:20.785806+00:00",
+  "4b0fc5b701ffd77d": "2026-11-16T01:07:20.785806+00:00",
+  "16b4b3a7aa40d059": "2026-11-16T01:07:20.785806+00:00",
+  "9ae934d441da1a71": "2026-11-16T01:07:20.785806+00:00",
+  "3bc6cdb34c17f840": "2026-11-16T01:07:20.785806+00:00",
+  "818dc1b648e3444b": "2026-11-16T01:07:20.785806+00:00",
+  "f7632412ff0584a1": "2026-11-16T01:07:20.785806+00:00",
+  "21ea8a494cc239fa": "2026-11-16T01:07:20.785806+00:00",
+  "2f404cbfd468f7e9": "2026-11-16T01:07:20.785806+00:00",
+  "75a891499c3b2577": "2026-11-16T01:07:20.785806+00:00",
+  "76fdf876b0903e65": "2026-11-16T01:07:20.785806+00:00",
+  "f52e27e51c0711ba": "2026-11-16T01:07:20.785806+00:00",
+  "946d02a42e1a7af8": "2026-11-16T01:07:20.785806+00:00",
+  "2cb612de9116082a": "2026-11-16T01:07:20.785806+00:00",
+  "ef3647673096dc86": "2026-11-16T01:07:20.785806+00:00",
+  "e77189cbbe1897bd": "2026-11-16T01:07:20.785806+00:00",
+  "ff1cdcb80e7047ec": "2026-11-16T01:07:20.785806+00:00",
+  "1207b5c1c70bbc64": "2026-11-16T01:07:20.785806+00:00",
+  "9195d16f89fb40de": "2026-11-16T01:07:20.785806+00:00",
+  "6eefb835a9508e34": "2026-11-16T01:07:20.785806+00:00",
+  "1a811a22b701406e": "2026-11-16T01:07:20.785806+00:00",
+  "0502dc334f328f9f": "2026-11-16T01:07:20.785806+00:00",
+  "8984780883918c9f": "2026-11-16T01:07:20.785806+00:00",
+  "3d72e471b39bd3b1": "2026-11-16T01:07:20.785806+00:00"
  },
  "covered": [
-  {
-   "headline": "Researcher claims Nvidia Blackwell fingerprints in Chinese models",
-   "ts": "2026-11-14T01:07:22.254611+00:00"
-  },
   {
    "headline": "White House task force recommends easing cyber liability for AI reporting",
    "ts": "2026-11-14T01:37:31.222397+00:00"
@@ -2023,11 +2015,15 @@
   {
    "headline": "Jensen Huang agrees to testify before US lawmakers behind closed doors",
    "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  {
+   "headline": "US and allies agree to protect AI supply chains",
+   "ts": "2026-11-16T01:07:20.785806+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-15",
-  "count": 11
+  "date": "2026-11-16",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3555,9 +3551,128 @@
    "desc": "年产2000万亿Token，成本狂降70%",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+   "title": "A step toward defining the Standard Model on a lattice",
+   "desc": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-15T14:00:00-08:00"
+  },
+  "https://openai.com/index/our-new-blog-for-science": {
+   "title": "Our new blog for science",
+   "desc": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/ZyKta7ePADbiaWqX3EARs/81a2a593e66096fb001987910330e24e/our-new-blog-for-science-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-10-26T14:30:00+00:00"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "fc91828979fbf24c",
+   "item": {
+    "id": "fc91828979fbf24c",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "published": "2026-11-15T23:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Bharat Semi raises $24M for AI-enabled sensors",
+   "post": "Indian chip startup Bharat Semi raised $24 million in seed funding to expand its AI-enabled sensor technology. The company said it has secured design wins with customers including General Atomics.",
+   "editor_note": "Confirm lead investors in the $24M seed round and the specific commercial deployment schedule for the sensors.",
+   "support": 0.92,
+   "published_at": "2026-11-15T23:30:00+00:00",
+   "first_seen_at": "2026-11-16T01:07:20.785806+00:00",
+   "expires_at": "2026-11-17T11:30:00+00:00",
+   "decision": 2.62,
+   "priority": 7.828266,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "b6ddda222aae1891",
+   "item": {
+    "id": "b6ddda222aae1891",
+    "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+    "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "image": "",
+    "snippet": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+    "published": "2026-11-15T19:03:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "6fbf7c8c72afe382",
+     "title": "Nvidia’s Jensen Huang in Talks With Allies Over CEO Comeback, Report Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Ousted Nvidia Corp. chief executive officer Jensen Huang is discussing a possible comeback to the company just days after the board of directors pushed him out, the Financial Times reported.",
+     "published": "2026-11-15T19:14:41+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "553277a985997d23",
+     "title": "Huang Allies Encourage Nvidia Comeback as Bessent Pushes Board to Look Outside",
+     "url": "https://www.theinformation.com/briefings/huang-weighs-nvidia-comeback-bessent-pushes-board-look-outside",
+     "source": "The Information",
+     "image": "",
+     "snippet": "Confidantes of Jensen Huang are informally seeking to reinstate Jensen Huang as Nvidia CEO and encouraging Huang to fight to reclaim his old job, according to a person familiar with the matter. Others close to Huang cautioned that there is no official effort to push for Huang’s return, ...",
+     "published": "2026-11-15T20:19:24+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "5022ae7eaf0b1e10",
+     "title": "8点1氪丨黄仁勋考虑回归担任英伟达CEO；129万/支的“天价抗癌药”进医保了；美国罕见全国停飞超4小时",
+     "url": "https://36kr.com/p/4071682515817605?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "今日热点导览 OpenAI解散机器人团队 SpaceX首次实现“筷子夹飞船” 2026年版国家基本医保药品目录发布，新增107种药品 微软就全球服务中断道歉 加密货币全线大跳水，超31万人爆仓 TOP3大新闻 黄仁勋讨论重掌英伟达，硅谷盟友游说支持回归 据报道，在被董事会驱逐数天之后，英伟达公司前首席执行官黄仁勋正在讨论重返公司的可能性。随着几位硅谷盟友开始游说支持他回归，黄仁勋已经在讨论重返公司的想法。一名黄仁勋的盟友透露，他们正在组建一个由硅谷企业高管组成的“作战室”，游说推动黄仁勋复职，并计划争取白宫方面的支持。这名人士表示：“在科技行业，除了那些前沿研究实验室之外，所有有影响力的人都喜欢黄仁勋。”他还补充说，黄仁勋本人支持这项行动。 Altimeter Capital Management和Atreides Management上周晚些时候在社交媒体发文称，鉴于“黄仁勋长期领导下取得的非凡成功”，以及他的离职所带来的不确定性，英伟达董事会在决定未来领导层时应采取“缓慢、审慎且深思熟虑的”方式。（新浪财经、鞭牛士） 原价129万一针的CAR-T抗癌药首次纳入基本医保 11月14日，国家医保局宣布，药明巨诺（02126.HK）的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129万元/支。哈尔滨血液病肿瘤研究所马军所长告诉记者，纳入医保后，瑞基奥仑赛的定价已降到30万元/支以下。据悉，CAR-T是一种免疫细胞疗法，凭借在血液肿瘤领域取得的惊艳“战绩”，成为近年抗癌治疗的“新秀”。CAR-T药物以“天价”闻名，每针的价格在100万元左右，即便叠加各种…",
+     "published": "2026-11-16T00:09:56+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    },
+    {
+     "id": "2f1f5cbf7ce833ab",
+     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+     "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+     "published": "2026-11-15T20:43:49+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Jensen Huang discusses possible comeback as Nvidia CEO",
+   "post": "Former Nvidia CEO Jensen Huang is discussing a potential return to the company with allies following his resignation, the Financial Times reported. Tech allies are reportedly lobbying the board to reinstate him.",
+   "editor_note": "Check whether Nvidia's board has acknowledged the lobbying efforts or if an official reinstatement process exists.",
+   "support": 0.85,
+   "published_at": "2026-11-15T19:03:41+00:00",
+   "first_seen_at": "2026-11-16T01:07:20.785806+00:00",
+   "expires_at": "2026-11-17T07:03:41+00:00",
+   "decision": 2.7,
+   "priority": 7.731637,
+   "selection_reason": "Time-sensitive story"
+  }
+ ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -3670,12 +3785,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster": "2026-11-15T15:39:24.528142+00:00",
   "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them": "2026-11-15T16:07:58.973408+00:00",
   "https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology": "2026-11-15T16:38:12.904066+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet": "2026-11-15T17:09:26.283774+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet": "2026-11-15T17:09:26.283774+00:00",
+  "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1": "2026-11-16T01:08:56.894280+00:00"
  },
  "details_daily": {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "count": 0,
-  "takes": 11
+  "takes": 1
  },
  "triage": {
   "32933935200c2839": {
@@ -10317,6 +10433,326 @@
    "imp": 0.08,
    "ai": 0.02,
    "ts": "2026-11-15T17:07:23.404767+00:00"
+  },
+  "f7632412ff0584a1": {
+   "imp": 2.43,
+   "ai": 0.9,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "6eefb835a9508e34": {
+   "imp": 0.68,
+   "ai": 0.79,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "2f1f5cbf7ce833ab": {
+   "imp": 2.4,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "1207b5c1c70bbc64": {
+   "imp": 2.44,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "fc91828979fbf24c": {
+   "imp": 2.62,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "2cb612de9116082a": {
+   "imp": 1.82,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "1a811a22b701406e": {
+   "imp": 0.31,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "2f404cbfd468f7e9": {
+   "imp": 1.67,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "0502dc334f328f9f": {
+   "imp": 0.27,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "76fdf876b0903e65": {
+   "imp": 2.57,
+   "ai": 0.96,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "f52e27e51c0711ba": {
+   "imp": 2.56,
+   "ai": 0.95,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "c743d52c9bed5c22": {
+   "imp": 1.65,
+   "ai": 0.84,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "3d72e471b39bd3b1": {
+   "imp": 2.48,
+   "ai": 0.95,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "6fbf7c8c72afe382": {
+   "imp": 2.67,
+   "ai": 0.96,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "0fb0b58294f1af0e": {
+   "imp": 2.29,
+   "ai": 0.82,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "b6ddda222aae1891": {
+   "imp": 2.7,
+   "ai": 0.95,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "946d02a42e1a7af8": {
+   "imp": 2.47,
+   "ai": 0.96,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "8984780883918c9f": {
+   "imp": 2.51,
+   "ai": 0.95,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "818dc1b648e3444b": {
+   "imp": 2.49,
+   "ai": 0.91,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "9195d16f89fb40de": {
+   "imp": 2.25,
+   "ai": 0.83,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "21ea8a494cc239fa": {
+   "imp": 2.36,
+   "ai": 0.82,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "ef3647673096dc86": {
+   "imp": 1.96,
+   "ai": 0.92,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "553277a985997d23": {
+   "imp": 2.6,
+   "ai": 0.96,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "75a891499c3b2577": {
+   "imp": 1.73,
+   "ai": 0.72,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "ff1cdcb80e7047ec": {
+   "imp": 1.88,
+   "ai": 0.9,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "5022ae7eaf0b1e10": {
+   "imp": 2.38,
+   "ai": 0.67,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "8cf21bf02643f344": {
+   "imp": 1.51,
+   "ai": 0.8,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "452678c2d9821fb7": {
+   "imp": 0.33,
+   "ai": 0.15,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "e77189cbbe1897bd": {
+   "imp": 2.26,
+   "ai": 0.84,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "6a28918b4d716932": {
+   "imp": 1.75,
+   "ai": 0.81,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "87d7014c15ee68a3": {
+   "imp": 2.19,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "4b0fc5b701ffd77d": {
+   "imp": 1.79,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "46b48e728e810800": {
+   "imp": 1.34,
+   "ai": null,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "3bc6cdb34c17f840": {
+   "imp": 0.43,
+   "ai": 0.24,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "9ae934d441da1a71": {
+   "imp": 0.76,
+   "ai": 0.43,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "16b4b3a7aa40d059": {
+   "imp": 0.93,
+   "ai": 0.9,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "d71440395bf26907": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "c4bfad6b1e73cb0e": {
+   "imp": 1.38,
+   "ai": 0.62,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "3c2160eed1e218f2": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "11391e2724eb7452": {
+   "imp": 1.61,
+   "ai": 0.51,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "68a40a87a5f50e94": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "b6186ce77b9d9c2e": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "facf9cc146a1a7f2": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "a2ace2ce4c79b714": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "4758172d1500c2d2": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "1c0ff759fad37782": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "eb96719a3b21bde4": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "83b9fda685c187ba": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "9fedc46e797d5e0c": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "583cce840c49c223": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "585a46981e8308c0": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "7a6185589a9bd9f2": {
+   "imp": 0.85,
+   "ai": 0.18,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "0ed1217571a14c42": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "20aa6c41b15d45a4": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "21ea8303281bdba4": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "252b12a9ccddd5d8": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "9c3165d3cff06c6a": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "c52e3de31465babc": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "7989c300835d9714": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "f6320bf42c217cea": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "118e923f90228a6e": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "dfd9a785dbff9f11": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "2749c4c012c1e372": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
+  },
+  "7c04761a4076fc82": {
+   "imp": 0.19,
+   "ai": 0.07,
+   "ts": "2026-11-16T01:07:20.785806+00:00"
   }
  }
 }
