@@ -1,18 +1,5 @@
 {
  "seen": {
-  "06e960cd1e4ac6d9": "2026-11-09T14:37:24.342987+00:00",
-  "393001759c25000c": "2026-11-09T14:37:24.342987+00:00",
-  "980fa35f0d52b3d9": "2026-11-09T14:37:24.342987+00:00",
-  "6b56f7f474a20e66": "2026-11-09T14:37:24.342987+00:00",
-  "624b1fdcbf9acee3": "2026-11-09T14:37:24.342987+00:00",
-  "5124dffb00c76dc0": "2026-11-09T14:37:24.342987+00:00",
-  "02544590f0015416": "2026-11-09T14:37:24.342987+00:00",
-  "057e22ab69c04fb1": "2026-11-09T15:07:23.862819+00:00",
-  "03b911997f8accec": "2026-11-09T15:07:23.862819+00:00",
-  "985b3239bc01c090": "2026-11-09T15:07:23.862819+00:00",
-  "c2568f76501c94d6": "2026-11-09T15:07:23.862819+00:00",
-  "9360f514ef7a9d6d": "2026-11-09T15:07:23.862819+00:00",
-  "310163d711d98a5f": "2026-11-09T15:07:23.862819+00:00",
   "278448d5d206044c": "2026-11-09T15:37:27.777087+00:00",
   "e9582a530b678f2c": "2026-11-09T15:37:27.777087+00:00",
   "bce465cdb584c186": "2026-11-09T15:37:27.777087+00:00",
@@ -1905,7 +1892,24 @@
   "dd02c35afc864bbe": "2026-11-16T14:07:22.847927+00:00",
   "29a19e1aacc64ded": "2026-11-16T14:07:22.847927+00:00",
   "0a1a9bbf6f1b470a": "2026-11-16T14:07:22.847927+00:00",
-  "3310a493ca30e1bf": "2026-11-16T14:07:22.847927+00:00"
+  "3310a493ca30e1bf": "2026-11-16T14:07:22.847927+00:00",
+  "cfcc7acb02e9ca79": "2026-11-16T15:07:24.865392+00:00",
+  "b0ded74e06b06613": "2026-11-16T15:07:24.865392+00:00",
+  "d1737df71af82fe9": "2026-11-16T15:07:24.865392+00:00",
+  "4ad82c3981d88813": "2026-11-16T15:07:24.865392+00:00",
+  "a6be9f34716ee355": "2026-11-16T15:07:24.865392+00:00",
+  "ca1899ca16809729": "2026-11-16T15:07:24.865392+00:00",
+  "772ccdf8e8c79868": "2026-11-16T15:07:24.865392+00:00",
+  "b66ff0c9eab30ed7": "2026-11-16T15:07:24.865392+00:00",
+  "9f91ec73cb844b9e": "2026-11-16T15:07:24.865392+00:00",
+  "2e6aa891cb438356": "2026-11-16T15:07:24.865392+00:00",
+  "ef28afd6608b538d": "2026-11-16T15:07:24.865392+00:00",
+  "89386e25aced84e4": "2026-11-16T15:07:24.865392+00:00",
+  "8c45093a8654f696": "2026-11-16T15:07:24.865392+00:00",
+  "fd739b63a2740a91": "2026-11-16T15:07:24.865392+00:00",
+  "ebdc79e2fc55422f": "2026-11-16T15:07:24.865392+00:00",
+  "5c136724c0dea211": "2026-11-16T15:07:24.865392+00:00",
+  "1c2c9f1fcc320aff": "2026-11-16T15:07:24.865392+00:00"
  },
  "covered": [
   {
@@ -2027,11 +2031,15 @@
   {
    "headline": "US Commerce limits remote access to advanced AI chips",
    "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  {
+   "headline": "OpenAI explored $5 billion acquisition of startup Goodfire",
+   "ts": "2026-11-16T15:07:24.865392+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3619,19 +3627,31 @@
    "desc": "具身智能的真正价值是“把人的经验、技能复刻出来”",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "desc": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5vgplp4RJGXJ0luyMzW884/de0639288804ff265a54a4222cbac569/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-16T06:00:00+00:00"
+  },
+  "https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
+   "title": "Advancing computer-use agents for healthcare teams",
+   "desc": "",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/JEPsGb10RBI3TRoCF2MGd/07abdbf116e0a370e7e20edddca5e96b/advancing-computer-use-for-healthcare-teams-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-13T07:00:00-08:00"
   }
  },
  "pending": [
   {
-   "id": "1c2c9f1fcc320aff",
+   "id": "851a72a5bbe14594",
    "item": {
-    "id": "1c2c9f1fcc320aff",
-    "title": "OpenAI Explored $5 Billion–Plus Acquisition of Startup That Decodes How AI ‘Thinks’",
-    "url": "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks",
-    "source": "The Information",
-    "image": "",
-    "snippet": "As OpenAI staff this summer scrambled to understand how its AI caused security breaches inside and outside the company, leaders including CEO Sam Altman spoke multiple times with Goodfire, an Anthropic-backed startup whose technology aims to figure out why AI models behave the way they do and how to prevent them from going rogue. At one point, a senior OpenAI executive floated the idea of buying t…",
-    "published": "2026-11-16T14:00:58+00:00",
+    "id": "851a72a5bbe14594",
+    "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/jcG9LwCNh8XUGiSJ9Pxw7Z-1920-80.jpg",
+    "snippet": "<p>Shane has a background in computer engineering and has worked as a freelance consultant in multiple industries. He has a strong affection for history and loves to game. He worked his way up from a Commodore 64 and has always been interested in technology and writing. He particularly enjoys breaking down complex concepts into understandable ideas. He is a lifelong East Coaster and animal lover.<…",
+    "published": "2026-11-16T15:00:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -3639,16 +3659,46 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "OpenAI explored $5 billion acquisition of startup Goodfire",
-   "post": "OpenAI leaders discussed acquiring Anthropic-backed interpretability startup Goodfire for over $5 billion following internal security breaches linked to its AI models, according to The Information.",
-   "editor_note": "Verify whether acquisition talks between OpenAI and Goodfire progressed beyond executive discussions or remain ongoing.",
-   "support": 0.55,
-   "published_at": "2026-11-16T14:00:58+00:00",
-   "first_seen_at": "2026-11-16T14:07:22.847927+00:00",
-   "expires_at": "2026-11-18T02:00:58+00:00",
-   "decision": 2.48,
-   "priority": 7.823697,
+   "headline": "Anthropic Claude Mythos Preview accelerates AMD MI355X setup",
+   "post": "Anthropic states that its Claude Mythos Preview reduced AMD MI355X hardware onboarding duration from a range of up to 12 months down to approximately three days.",
+   "editor_note": "Verify the exact scope of the onboarding process described in Tom's Hardware report.",
+   "support": 0.89,
+   "published_at": "2026-11-16T15:00:00+00:00",
+   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
+   "expires_at": "2026-11-18T03:00:00+00:00",
+   "decision": 1.72,
+   "priority": 7.569901,
    "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "c2855811f136cf3a",
+   "item": {
+    "id": "c2855811f136cf3a",
+    "title": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
+    "url": "https://arxiv.org/abs/2611.17831",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Upvotes: 21. Abstract: World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve those attributes rather than to read the clip, and the dynamics the encoder carries go unused: on the same items, a linear probe reads speed from frozen V-JEPA features at 87% while the VLM answers at chance. We show where dynamics lives in a frozen encoder: in a subspace shared across videos for predictive encoders such as V-JEPA, but not as a shared component of frame-wise, text-aligned encoders such as SigLIP. We then build counterfactual supervision that makes the language model read it: pixel transformations turn public videos into answer-balanced variants whose answers are set by the transformation and differ only in the change. Trained in a single stage on 4.53M public samples with 32 visual tokens per frame, where open video LLMs use several stages, 9M to 172M samples and 64 to 256 tokens per frame on average, the resulting V-JEPA-LM models (1B to 8B, Qwen3 and Llama) lead every size class in average score across eleven video benchmarks; our 4B model scores 72.1, against 61.1 for the best open 4B and 64.8 for the best open 8B model. A controlled encoder x supervision study shows that the encoder decides what can be read and the supervision what is read:…",
+    "published": "2026-11-16T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17831.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "New V-JEPA-LM video language models released by researchers",
+   "post": "New paper: Researchers developed V-JEPA-LM video-language models ranging from 1B to 8B parameters using counterfactual supervision, with a 4B model scoring 72.1 across eleven video benchmarks.",
+   "editor_note": "Verify benchmark names and performance comparisons listed in the Hugging Face paper abstract.",
+   "support": 0.92,
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
+   "expires_at": "2026-11-20T00:00:00+00:00",
+   "decision": 1.46,
+   "priority": 6.829129,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -3781,12 +3831,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap": "2026-11-16T12:38:17.868352+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas": "2026-11-16T13:10:59.678179+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms": "2026-11-16T13:38:08.777746+00:00",
-  "https://www.businessinsider.com/us-limit-workarounds-to-access-advanced-ai-chips-nvidia-singapore-2026-11": "2026-11-16T14:07:54.111324+00:00"
+  "https://www.businessinsider.com/us-limit-workarounds-to-access-advanced-ai-chips-nvidia-singapore-2026-11": "2026-11-16T14:07:54.111324+00:00",
+  "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks": "2026-11-16T15:08:11.432105+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
   "32933935200c2839": {
@@ -12728,6 +12779,141 @@
    "imp": 0.16,
    "ai": 0.05,
    "ts": "2026-11-16T14:07:22.847927+00:00"
+  },
+  "b66ff0c9eab30ed7": {
+   "imp": 2.36,
+   "ai": 0.88,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "8c45093a8654f696": {
+   "imp": 1.48,
+   "ai": 0.92,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "772ccdf8e8c79868": {
+   "imp": 2.44,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "5c136724c0dea211": {
+   "imp": 0.32,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "ef28afd6608b538d": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "ca1899ca16809729": {
+   "imp": 2.5,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "89386e25aced84e4": {
+   "imp": 2.3,
+   "ai": 0.92,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "a6be9f34716ee355": {
+   "imp": 2.48,
+   "ai": 0.98,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "ebdc79e2fc55422f": {
+   "imp": 2.24,
+   "ai": 0.82,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "9f91ec73cb844b9e": {
+   "imp": 2.22,
+   "ai": 0.88,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "4ad82c3981d88813": {
+   "imp": 2.5,
+   "ai": 0.91,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "e6e61d970f7040b2": {
+   "imp": 0.71,
+   "ai": 0.14,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "2e6aa891cb438356": {
+   "imp": 1.56,
+   "ai": 0.97,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "851a72a5bbe14594": {
+   "imp": 1.72,
+   "ai": 0.88,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "fd739b63a2740a91": {
+   "imp": 0.75,
+   "ai": 0.3,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "b0ded74e06b06613": {
+   "imp": 1.93,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "cfcc7acb02e9ca79": {
+   "imp": 2.02,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "c2855811f136cf3a": {
+   "imp": 1.46,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "d1737df71af82fe9": {
+   "imp": 0.65,
+   "ai": null,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "4537559f47446541": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "b0c20f5a96b402dd": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "3b1728aade272332": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "319d5500c9825121": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "eda8144f12dca20c": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "47f4792b245b68c5": {
+   "imp": 0.23,
+   "ai": 0.05,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "168a5c8c545afea8": {
+   "imp": 1.83,
+   "ai": 0.42,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "24c39ce649ca10ed": {
+   "imp": 0.26,
+   "ai": 0.04,
+   "ts": "2026-11-16T15:07:24.865392+00:00"
   }
  }
 }
