@@ -1,16 +1,5 @@
 {
  "seen": {
-  "278448d5d206044c": "2026-11-09T15:37:27.777087+00:00",
-  "e9582a530b678f2c": "2026-11-09T15:37:27.777087+00:00",
-  "bce465cdb584c186": "2026-11-09T15:37:27.777087+00:00",
-  "55280474a321f5a6": "2026-11-09T15:37:27.777087+00:00",
-  "bc54bbcea984f1d1": "2026-11-09T15:37:27.777087+00:00",
-  "aacbe1f6d3d712b0": "2026-11-09T15:37:27.777087+00:00",
-  "dcd55abb2306d80f": "2026-11-09T15:37:27.777087+00:00",
-  "cc49c1ae6860a64f": "2026-11-09T15:37:27.777087+00:00",
-  "ad2042a36e0afe0b": "2026-11-09T15:37:27.777087+00:00",
-  "558e331e52660483": "2026-11-09T15:37:27.777087+00:00",
-  "9d8e98a0c0ce0555": "2026-11-09T15:37:27.777087+00:00",
   "d69a3a896f5c18fc": "2026-11-09T16:07:28.073613+00:00",
   "303caac7e48e3324": "2026-11-09T16:07:28.073613+00:00",
   "d2957b855954219d": "2026-11-09T16:07:28.073613+00:00",
@@ -1909,7 +1898,9 @@
   "fd739b63a2740a91": "2026-11-16T15:07:24.865392+00:00",
   "ebdc79e2fc55422f": "2026-11-16T15:07:24.865392+00:00",
   "5c136724c0dea211": "2026-11-16T15:07:24.865392+00:00",
-  "1c2c9f1fcc320aff": "2026-11-16T15:07:24.865392+00:00"
+  "1c2c9f1fcc320aff": "2026-11-16T15:07:24.865392+00:00",
+  "e93fe3acc0cb4b93": "2026-11-16T15:37:23.168630+00:00",
+  "851a72a5bbe14594": "2026-11-16T15:37:23.168630+00:00"
  },
  "covered": [
   {
@@ -2035,11 +2026,15 @@
   {
    "headline": "OpenAI explored $5 billion acquisition of startup Goodfire",
    "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  {
+   "headline": "Anthropic Claude Mythos Preview accelerates AMD MI355X setup",
+   "ts": "2026-11-16T15:37:23.168630+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3643,15 +3638,15 @@
  },
  "pending": [
   {
-   "id": "851a72a5bbe14594",
+   "id": "ab086a66f465eda3",
    "item": {
-    "id": "851a72a5bbe14594",
-    "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/jcG9LwCNh8XUGiSJ9Pxw7Z-1920-80.jpg",
-    "snippet": "<p>Shane has a background in computer engineering and has worked as a freelance consultant in multiple industries. He has a strong affection for history and loves to game. He worked his way up from a Commodore 64 and has always been interested in technology and writing. He particularly enjoys breaking down complex concepts into understandable ideas. He is a lifelong East Coaster and animal lover.<…",
-    "published": "2026-11-16T15:00:00+00:00",
+    "id": "ab086a66f465eda3",
+    "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+    "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories. The article Anthropic says the key to agent memory i…",
+    "published": "2026-11-16T15:25:48+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -3659,15 +3654,15 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Anthropic Claude Mythos Preview accelerates AMD MI355X setup",
-   "post": "Anthropic states that its Claude Mythos Preview reduced AMD MI355X hardware onboarding duration from a range of up to 12 months down to approximately three days.",
-   "editor_note": "Verify the exact scope of the onboarding process described in Tom's Hardware report.",
-   "support": 0.89,
-   "published_at": "2026-11-16T15:00:00+00:00",
-   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
-   "expires_at": "2026-11-18T03:00:00+00:00",
-   "decision": 1.72,
-   "priority": 7.569901,
+   "headline": "Anthropic details selective memory approach for AI agents",
+   "post": "Anthropic reports that selective memory notes improve AI agent performance over exhaustive archives. In testing, Claude Fable 5 used a small set of strategy files rather than hundreds, and a retrospective process corrected faulty memories.",
+   "editor_note": "Verify Claude Fable 5 and Pokémon Red test metrics against official Anthropic documentation before publishing.",
+   "support": 0.87,
+   "published_at": "2026-11-16T15:25:48+00:00",
+   "first_seen_at": "2026-11-16T15:37:23.168630+00:00",
+   "expires_at": "2026-11-18T03:25:48+00:00",
+   "decision": 1.74,
+   "priority": 7.574636,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3697,7 +3692,7 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.829129,
+   "priority": 6.855147,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -3832,12 +3827,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas": "2026-11-16T13:10:59.678179+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms": "2026-11-16T13:38:08.777746+00:00",
   "https://www.businessinsider.com/us-limit-workarounds-to-access-advanced-ai-chips-nvidia-singapore-2026-11": "2026-11-16T14:07:54.111324+00:00",
-  "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks": "2026-11-16T15:08:11.432105+00:00"
+  "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks": "2026-11-16T15:08:11.432105+00:00",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat": "2026-11-16T15:37:52.771844+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
   "32933935200c2839": {
@@ -12914,6 +12910,46 @@
    "imp": 0.26,
    "ai": 0.04,
    "ts": "2026-11-16T15:07:24.865392+00:00"
+  },
+  "ab086a66f465eda3": {
+   "imp": 1.74,
+   "ai": null,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "e93fe3acc0cb4b93": {
+   "imp": 1.09,
+   "ai": null,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "0f44deb529614c71": {
+   "imp": 0.19,
+   "ai": 0.07,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "54c4e5515bdee18f": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "c75b0d04248a9724": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "052ff0b76406b9c9": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "050b5a4c1a0d13c4": {
+   "imp": 0.32,
+   "ai": 0.05,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
+  },
+  "7fae69096ab3b68f": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-16T15:37:23.168630+00:00"
   }
  }
 }
