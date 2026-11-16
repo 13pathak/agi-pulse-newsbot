@@ -1,6 +1,5 @@
 {
  "seen": {
-  "ae06ecf7187204d4": "2026-11-09T02:07:24.550324+00:00",
   "0d6cf31315a0130f": "2026-11-09T02:37:21.419191+00:00",
   "56b63e3fd22f6ea8": "2026-11-09T02:37:21.419191+00:00",
   "98bd9aacd953adee": "2026-11-09T03:07:20.166188+00:00",
@@ -1905,13 +1904,18 @@
   "f7214e14d1e100a3": "2026-11-16T01:37:29.169421+00:00",
   "fe0dd67480278eae": "2026-11-16T01:37:29.169421+00:00",
   "3be93aee370a9eef": "2026-11-16T01:37:29.169421+00:00",
-  "fc91828979fbf24c": "2026-11-16T01:37:29.169421+00:00"
+  "fc91828979fbf24c": "2026-11-16T01:37:29.169421+00:00",
+  "97a84867dfb0ddf1": "2026-11-16T02:07:33.662463+00:00",
+  "52e2a7f0ed64237e": "2026-11-16T02:07:33.662463+00:00",
+  "09862cd7036c6133": "2026-11-16T02:07:33.662463+00:00",
+  "b6ddda222aae1891": "2026-11-16T02:07:33.662463+00:00",
+  "6fbf7c8c72afe382": "2026-11-16T02:07:33.662463+00:00",
+  "553277a985997d23": "2026-11-16T02:07:33.662463+00:00",
+  "5022ae7eaf0b1e10": "2026-11-16T02:07:33.662463+00:00",
+  "2f1f5cbf7ce833ab": "2026-11-16T02:07:33.662463+00:00",
+  "0fb0b58294f1af0e": "2026-11-16T02:07:33.662463+00:00"
  },
  "covered": [
-  {
-   "headline": "FAA expands AI traffic management tool across US airspace",
-   "ts": "2026-11-14T02:07:23.069055+00:00"
-  },
   {
    "headline": "Sarvam secures government backing to build native Indian AI models",
    "ts": "2026-11-14T02:37:31.704833+00:00"
@@ -2023,11 +2027,15 @@
   {
    "headline": "Bharat Semi raises $24M for AI-enabled sensors",
    "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  {
+   "headline": "Jensen Huang discusses possible comeback as Nvidia CEO",
+   "ts": "2026-11-16T02:07:33.662463+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-16",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3569,98 +3577,7 @@
    "published": "2026-10-26T14:30:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "b6ddda222aae1891",
-   "item": {
-    "id": "b6ddda222aae1891",
-    "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-    "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "image": "",
-    "snippet": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
-    "published": "2026-11-15T19:03:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "6fbf7c8c72afe382",
-     "title": "Nvidia’s Jensen Huang in Talks With Allies Over CEO Comeback, Report Says",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "Ousted Nvidia Corp. chief executive officer Jensen Huang is discussing a possible comeback to the company just days after the board of directors pushed him out, the Financial Times reported.",
-     "published": "2026-11-15T19:14:41+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "553277a985997d23",
-     "title": "Huang Allies Encourage Nvidia Comeback as Bessent Pushes Board to Look Outside",
-     "url": "https://www.theinformation.com/briefings/huang-weighs-nvidia-comeback-bessent-pushes-board-look-outside",
-     "source": "The Information",
-     "image": "",
-     "snippet": "Confidantes of Jensen Huang are informally seeking to reinstate Jensen Huang as Nvidia CEO and encouraging Huang to fight to reclaim his old job, according to a person familiar with the matter. Others close to Huang cautioned that there is no official effort to push for Huang’s return, ...",
-     "published": "2026-11-15T20:19:24+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "5022ae7eaf0b1e10",
-     "title": "8点1氪丨黄仁勋考虑回归担任英伟达CEO；129万/支的“天价抗癌药”进医保了；美国罕见全国停飞超4小时",
-     "url": "https://36kr.com/p/4071682515817605?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "今日热点导览 OpenAI解散机器人团队 SpaceX首次实现“筷子夹飞船” 2026年版国家基本医保药品目录发布，新增107种药品 微软就全球服务中断道歉 加密货币全线大跳水，超31万人爆仓 TOP3大新闻 黄仁勋讨论重掌英伟达，硅谷盟友游说支持回归 据报道，在被董事会驱逐数天之后，英伟达公司前首席执行官黄仁勋正在讨论重返公司的可能性。随着几位硅谷盟友开始游说支持他回归，黄仁勋已经在讨论重返公司的想法。一名黄仁勋的盟友透露，他们正在组建一个由硅谷企业高管组成的“作战室”，游说推动黄仁勋复职，并计划争取白宫方面的支持。这名人士表示：“在科技行业，除了那些前沿研究实验室之外，所有有影响力的人都喜欢黄仁勋。”他还补充说，黄仁勋本人支持这项行动。 Altimeter Capital Management和Atreides Management上周晚些时候在社交媒体发文称，鉴于“黄仁勋长期领导下取得的非凡成功”，以及他的离职所带来的不确定性，英伟达董事会在决定未来领导层时应采取“缓慢、审慎且深思熟虑的”方式。（新浪财经、鞭牛士） 原价129万一针的CAR-T抗癌药首次纳入基本医保 11月14日，国家医保局宣布，药明巨诺（02126.HK）的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129万元/支。哈尔滨血液病肿瘤研究所马军所长告诉记者，纳入医保后，瑞基奥仑赛的定价已降到30万元/支以下。据悉，CAR-T是一种免疫细胞疗法，凭借在血液肿瘤领域取得的惊艳“战绩”，成为近年抗癌治疗的“新秀”。CAR-T药物以“天价”闻名，每针的价格在100万元左右，即便叠加各种…",
-     "published": "2026-11-16T00:09:56+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    },
-    {
-     "id": "2f1f5cbf7ce833ab",
-     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-     "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-     "source": "The Verge",
-     "image": "",
-     "snippet": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
-     "published": "2026-11-15T20:43:49+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "0fb0b58294f1af0e",
-     "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
-     "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "image": "",
-     "snippet": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
-     "published": "2026-11-15T21:53:53+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Jensen Huang discusses possible comeback as Nvidia CEO",
-   "post": "Former Nvidia CEO Jensen Huang is discussing a potential return to the company with allies following his resignation, the Financial Times reported. Tech allies are reportedly lobbying the board to reinstate him.",
-   "editor_note": "Check whether Nvidia's board has acknowledged the lobbying efforts or if an official reinstatement process exists.",
-   "support": 0.85,
-   "published_at": "2026-11-15T19:03:41+00:00",
-   "first_seen_at": "2026-11-16T01:07:20.785806+00:00",
-   "expires_at": "2026-11-17T07:03:41+00:00",
-   "decision": 2.7,
-   "priority": 7.749079,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -3775,12 +3692,13 @@
   "https://www.theinformation.com/articles/chinese-energy-company-outpacing-u-s-ai-power-technology": "2026-11-15T16:38:12.904066+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet": "2026-11-15T17:09:26.283774+00:00",
   "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1": "2026-11-16T01:08:56.894280+00:00",
-  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": "2026-11-16T01:39:36.912338+00:00"
+  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": "2026-11-16T01:39:36.912338+00:00",
+  "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1": "2026-11-16T02:11:16.508414+00:00"
  },
  "details_daily": {
   "date": "2026-11-16",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
   "32933935200c2839": {
@@ -10807,6 +10725,61 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-16T01:37:29.169421+00:00"
+  },
+  "09862cd7036c6133": {
+   "imp": 1.31,
+   "ai": null,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "97a84867dfb0ddf1": {
+   "imp": 2.01,
+   "ai": null,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "52e2a7f0ed64237e": {
+   "imp": 1.26,
+   "ai": 0.64,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "96ed5651ca4ee43d": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "c99df8afb7e0f831": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "a1edb5e7f7efcdfd": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "49d9945e5adc534b": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "797dd06990341bc4": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "df0e7f606c12a358": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "7159f73f26580c61": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
+  },
+  "63a23b4f9cc19b39": {
+   "imp": 0.23,
+   "ai": 0.03,
+   "ts": "2026-11-16T02:07:33.662463+00:00"
   }
  }
 }
