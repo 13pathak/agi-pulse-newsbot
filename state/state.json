@@ -1,12 +1,5 @@
 {
  "seen": {
-  "b10f39c9df57d8ed": "2026-11-10T08:07:23.259704+00:00",
-  "98d612ea405ae954": "2026-11-10T08:07:23.259704+00:00",
-  "e8740fc1333d6690": "2026-11-10T08:07:23.259704+00:00",
-  "c4ef8b3c987593f1": "2026-11-10T08:07:23.259704+00:00",
-  "1a34df45cdea98e8": "2026-11-10T08:07:23.259704+00:00",
-  "d260e603807999f8": "2026-11-10T08:07:23.259704+00:00",
-  "09d6344e94331f73": "2026-11-10T08:07:23.259704+00:00",
   "01a8528fa117926a": "2026-11-10T08:37:24.312523+00:00",
   "14c07dfd73ab5f51": "2026-11-10T08:37:24.312523+00:00",
   "93986fa4c49fef56": "2026-11-10T08:37:24.312523+00:00",
@@ -1920,7 +1913,15 @@
   "9e17b930531659cf": "2026-11-17T07:37:24.209227+00:00",
   "e0912a6cf8de6bbd": "2026-11-17T07:37:24.209227+00:00",
   "131b9cc885974e5c": "2026-11-17T07:37:24.209227+00:00",
-  "069f0c8fc41d6ebd": "2026-11-17T07:37:24.209227+00:00"
+  "069f0c8fc41d6ebd": "2026-11-17T07:37:24.209227+00:00",
+  "36754e618e209ea1": "2026-11-17T08:07:21.757559+00:00",
+  "62a03bbfd34866cf": "2026-11-17T08:07:21.757559+00:00",
+  "154f1e300781b09b": "2026-11-17T08:07:21.757559+00:00",
+  "f45fb4080bd1b1a1": "2026-11-17T08:07:21.757559+00:00",
+  "3bba813f2b605aed": "2026-11-17T08:07:21.757559+00:00",
+  "8884e1d9470f6d1c": "2026-11-17T08:07:21.757559+00:00",
+  "6b0aba9f3480e5c4": "2026-11-17T08:07:21.757559+00:00",
+  "c19a3ced4c197eac": "2026-11-17T08:07:21.757559+00:00"
  },
  "covered": [
   {
@@ -2086,11 +2087,15 @@
   {
    "headline": "CountAI raises Rs 10 crore in seed funding",
    "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  {
+   "headline": "Instagram updates AI recommendation systems in India",
+   "ts": "2026-11-17T08:07:21.757559+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3725,34 +3730,6 @@
  },
  "pending": [
   {
-   "id": "c19a3ced4c197eac",
-   "item": {
-    "id": "c19a3ced4c197eac",
-    "title": "Instagram fine-tunes recommendation systems in India to curb sexually suggestive, violent content",
-    "url": "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content",
-    "source": "YourStory",
-    "image": "",
-    "snippet": "Meta Platforms said on Tuesday that it has fine-tuned Instagram's content recommendation systems in India to curb the visibility of sexually suggestive material and violent content, deploying more advanced artificial intelligence models to identify and filter unwanted posts before they reach users.",
-    "published": "2026-11-17T07:11:12+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Instagram updates AI recommendation systems in India",
-   "post": "Meta Platforms stated it updated Instagram recommendation systems in India using advanced AI models to filter out sexually suggestive and violent content before reaching users.",
-   "editor_note": "Confirm the specific deployment scope and model details mentioned by Meta.",
-   "support": 0.96,
-   "published_at": "2026-11-17T07:11:12+00:00",
-   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
-   "expires_at": "2026-11-18T19:11:12+00:00",
-   "decision": 1.85,
-   "priority": 8.604535,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "c2855811f136cf3a",
    "item": {
     "id": "c2855811f136cf3a",
@@ -3779,8 +3756,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.407256,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.402055,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3832,8 +3809,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.142165,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.159502,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3862,8 +3839,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.091853,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.117859,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3890,8 +3867,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.063183,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.080521,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3918,8 +3895,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.935372,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.95271,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -3948,7 +3925,7 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.847256,
+   "priority": 6.873263,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -4096,12 +4073,13 @@
   "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic": "2026-11-17T06:08:07.269728+00:00",
   "https://www.indiatoday.in/technology/news/story/sarvam-opens-ai-token-factory-indias-answer-to-openrouter-and-hugging-face-3040507-2026-11-17": "2026-11-17T06:38:37.623761+00:00",
   "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17": "2026-11-17T07:07:53.694245+00:00",
-  "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386": "2026-11-17T07:37:57.161249+00:00"
+  "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386": "2026-11-17T07:37:57.161249+00:00",
+  "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content": "2026-11-17T08:07:47.370868+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -15183,6 +15161,86 @@
    "imp": 0.13,
    "ai": 0.03,
    "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "3bba813f2b605aed": {
+   "imp": 1.86,
+   "ai": 0.94,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "36754e618e209ea1": {
+   "imp": 2.21,
+   "ai": 0.94,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "8884e1d9470f6d1c": {
+   "imp": 1.1,
+   "ai": 0.62,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "6b0aba9f3480e5c4": {
+   "imp": 0.45,
+   "ai": 0.24,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "154f1e300781b09b": {
+   "imp": 1.35,
+   "ai": 0.91,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "f45fb4080bd1b1a1": {
+   "imp": 1.11,
+   "ai": 0.31,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "62a03bbfd34866cf": {
+   "imp": 1.81,
+   "ai": 0.9,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "5e111780e5ba7929": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "80a8cfde29eba8b6": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "2093f186f012f14c": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "c935aed246bcbd6c": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "f8ad246e5c4dbe35": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "607d195c96519e3b": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "4bb66063b38a6a71": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "b5deecef22572057": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "d0bfdc898228a7cd": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-17T08:07:21.757559+00:00"
   }
  }
 }
