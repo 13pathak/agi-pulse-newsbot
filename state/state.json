@@ -1,12 +1,5 @@
 {
  "seen": {
-  "e49c5dcb9afd7f3a": "2026-11-10T07:07:23.927899+00:00",
-  "9386f2626ce1976b": "2026-11-10T07:07:23.927899+00:00",
-  "6c4ccb5c935924c1": "2026-11-10T07:07:23.927899+00:00",
-  "6b48448e2c0a9b05": "2026-11-10T07:07:23.927899+00:00",
-  "f9a613e7e8d4b24d": "2026-11-10T07:07:23.927899+00:00",
-  "1ea0d7e1209fccc2": "2026-11-10T07:07:23.927899+00:00",
-  "b3625594e57429fa": "2026-11-10T07:07:23.927899+00:00",
   "960a127182742bbe": "2026-11-10T07:37:22.183022+00:00",
   "40881cc5fab2fef0": "2026-11-10T07:37:22.183022+00:00",
   "b10f39c9df57d8ed": "2026-11-10T08:07:23.259704+00:00",
@@ -1915,7 +1908,16 @@
   "92289fd3f63893d6": "2026-11-17T06:37:26.459931+00:00",
   "ae45ea232af21655": "2026-11-17T06:37:26.459931+00:00",
   "7f1c7dcee7942956": "2026-11-17T06:37:26.459931+00:00",
-  "b5112d852d82b2c7": "2026-11-17T06:37:26.459931+00:00"
+  "b5112d852d82b2c7": "2026-11-17T06:37:26.459931+00:00",
+  "b4d1c62800753a5c": "2026-11-17T07:07:23.467199+00:00",
+  "155fd66b09a759d1": "2026-11-17T07:07:23.467199+00:00",
+  "b405d81ec4089b05": "2026-11-17T07:07:23.467199+00:00",
+  "e3f7b39889937ce3": "2026-11-17T07:07:23.467199+00:00",
+  "9127532bc290ea65": "2026-11-17T07:07:23.467199+00:00",
+  "71566e5ba7c129a7": "2026-11-17T07:07:23.467199+00:00",
+  "696d7b2a8726dfd8": "2026-11-17T07:07:23.467199+00:00",
+  "3b9f0611fcfd9e56": "2026-11-17T07:07:23.467199+00:00",
+  "1655597f39280d1a": "2026-11-17T07:07:23.467199+00:00"
  },
  "covered": [
   {
@@ -2073,11 +2075,15 @@
   {
    "headline": "Sarvam AI launches token factory platform in India",
    "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  {
+   "headline": "Google reports AI agents weaponizing software security patches",
+   "ts": "2026-11-17T07:07:23.467199+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3712,62 +3718,6 @@
  },
  "pending": [
   {
-   "id": "1655597f39280d1a",
-   "item": {
-    "id": "1655597f39280d1a",
-    "title": "Google says hackers are using AI agents to weaponise security patches without human intervention",
-    "url": "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Google says hackers are using AI agents to weaponise security patches without human intervention",
-    "published": "2026-11-17T06:34:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google reports AI agents weaponizing software security patches",
-   "post": "Google reported that attackers are using autonomous AI agents to analyze security patches and generate functional exploits without human intervention.",
-   "editor_note": "Confirm specific vulnerability instances or report details from Google Threat Analysis Group when published.",
-   "support": 0.78,
-   "published_at": "2026-11-17T06:34:30+00:00",
-   "first_seen_at": "2026-11-17T06:37:26.459931+00:00",
-   "expires_at": "2026-11-18T18:34:30+00:00",
-   "decision": 1.96,
-   "priority": 7.651972,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "ebff97034b293e5f",
-   "item": {
-    "id": "ebff97034b293e5f",
-    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
-    "published": "2026-11-16T18:52:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Moonshot AI pivots Kimi models from coding to science research",
-   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
-   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
-   "support": 0.63,
-   "published_at": "2026-11-16T18:52:55+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T06:52:55+00:00",
-   "decision": 1.72,
-   "priority": 7.528483,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
-  },
-  {
    "id": "c2855811f136cf3a",
    "item": {
     "id": "c2855811f136cf3a",
@@ -3794,8 +3744,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.417666,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.412467,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3847,8 +3797,66 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.107464,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.124797,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "753f1faf81d05f31",
+   "item": {
+    "id": "753f1faf81d05f31",
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "url": "https://arxiv.org/abs/2611.21003",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Institute of Foundation Models releases K2-Horizon open models",
+   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
+   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.92,
+   "priority": 7.0658,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "ebff97034b293e5f",
+   "item": {
+    "id": "ebff97034b293e5f",
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
+    "published": "2026-11-16T18:52:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Moonshot AI pivots Kimi models from coding to science research",
+   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
+   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
+   "support": 0.63,
+   "published_at": "2026-11-16T18:52:55+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T06:52:55+00:00",
+   "decision": 1.72,
+   "priority": 7.045815,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3875,8 +3883,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.900672,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.918004,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ],
  "details_queue": [],
@@ -4021,12 +4029,13 @@
   "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms": "2026-11-17T05:11:02.650099+00:00",
   "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": "2026-11-17T05:38:06.314222+00:00",
   "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic": "2026-11-17T06:08:07.269728+00:00",
-  "https://www.indiatoday.in/technology/news/story/sarvam-opens-ai-token-factory-indias-answer-to-openrouter-and-hugging-face-3040507-2026-11-17": "2026-11-17T06:38:37.623761+00:00"
+  "https://www.indiatoday.in/technology/news/story/sarvam-opens-ai-token-factory-indias-answer-to-openrouter-and-hugging-face-3040507-2026-11-17": "2026-11-17T06:38:37.623761+00:00",
+  "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17": "2026-11-17T07:07:53.694245+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -14928,6 +14937,96 @@
    "imp": 0.09,
    "ai": 0.02,
    "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "71566e5ba7c129a7": {
+   "imp": 1.04,
+   "ai": null,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "b405d81ec4089b05": {
+   "imp": 1.38,
+   "ai": null,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "b4d1c62800753a5c": {
+   "imp": 2.07,
+   "ai": 0.95,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "155fd66b09a759d1": {
+   "imp": 1.71,
+   "ai": 0.83,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "e3f7b39889937ce3": {
+   "imp": 1.21,
+   "ai": 0.83,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "47d0da3099471a44": {
+   "imp": 0.34,
+   "ai": 0.09,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "3b9f0611fcfd9e56": {
+   "imp": 0.72,
+   "ai": 0.68,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "696d7b2a8726dfd8": {
+   "imp": 0.72,
+   "ai": 0.86,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "9127532bc290ea65": {
+   "imp": 1.25,
+   "ai": 0.49,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "753f1faf81d05f31": {
+   "imp": 1.92,
+   "ai": null,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "30b200663224b04c": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "c05d6846d06d651c": {
+   "imp": 0.57,
+   "ai": 0.12,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "eb7c86f6411a043a": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "2ffa16cad4229655": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "760442025c603beb": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "f506248485ca59da": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "3256e911ed4711bf": {
+   "imp": 0.66,
+   "ai": 0.14,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "2018be9dd649d834": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T07:07:23.467199+00:00"
   }
  }
 }
