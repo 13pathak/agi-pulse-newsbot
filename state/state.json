@@ -1,14 +1,5 @@
 {
  "seen": {
-  "aa9d06fdcfe1a35b": "2026-11-10T06:37:20.139290+00:00",
-  "ea267fa8ce7a9281": "2026-11-10T06:37:20.139290+00:00",
-  "e5c9495af66a39f2": "2026-11-10T06:37:20.139290+00:00",
-  "9787756519799368": "2026-11-10T06:37:20.139290+00:00",
-  "144260eecce9a821": "2026-11-10T06:37:20.139290+00:00",
-  "4fcf7bac0a386adb": "2026-11-10T06:37:20.139290+00:00",
-  "94b90fb6954be4fa": "2026-11-10T06:37:20.139290+00:00",
-  "969a5dd1353fb8ff": "2026-11-10T06:37:20.139290+00:00",
-  "51fd6bae6a94af5c": "2026-11-10T06:37:20.139290+00:00",
   "e49c5dcb9afd7f3a": "2026-11-10T07:07:23.927899+00:00",
   "9386f2626ce1976b": "2026-11-10T07:07:23.927899+00:00",
   "6c4ccb5c935924c1": "2026-11-10T07:07:23.927899+00:00",
@@ -1918,13 +1909,15 @@
   "4e77b606edcdf203": "2026-11-17T06:07:22.380455+00:00",
   "fe451fc663d439f7": "2026-11-17T06:07:22.380455+00:00",
   "5f9e5f6a7327c593": "2026-11-17T06:07:22.380455+00:00",
-  "f0fe9bca996d0e9c": "2026-11-17T06:07:22.380455+00:00"
+  "f0fe9bca996d0e9c": "2026-11-17T06:07:22.380455+00:00",
+  "f054a54f8228cfac": "2026-11-17T06:37:26.459931+00:00",
+  "d0423e1a0b411f6f": "2026-11-17T06:37:26.459931+00:00",
+  "92289fd3f63893d6": "2026-11-17T06:37:26.459931+00:00",
+  "ae45ea232af21655": "2026-11-17T06:37:26.459931+00:00",
+  "7f1c7dcee7942956": "2026-11-17T06:37:26.459931+00:00",
+  "b5112d852d82b2c7": "2026-11-17T06:37:26.459931+00:00"
  },
  "covered": [
-  {
-   "headline": "Data center construction stocks lose $4.2 trillion in market value",
-   "ts": "2026-11-15T06:37:20.895942+00:00"
-  },
   {
    "headline": "SEBI to issue AI usage guidelines for Indian capital markets",
    "ts": "2026-11-15T10:07:31.315249+00:00"
@@ -2076,11 +2069,15 @@
   {
    "headline": "DeepMind strategy chief Jasjeet Sekhon joins Anthropic",
    "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  {
+   "headline": "Sarvam AI launches token factory platform in India",
+   "ts": "2026-11-17T06:37:26.459931+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3715,6 +3712,34 @@
  },
  "pending": [
   {
+   "id": "1655597f39280d1a",
+   "item": {
+    "id": "1655597f39280d1a",
+    "title": "Google says hackers are using AI agents to weaponise security patches without human intervention",
+    "url": "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Google says hackers are using AI agents to weaponise security patches without human intervention",
+    "published": "2026-11-17T06:34:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google reports AI agents weaponizing software security patches",
+   "post": "Google reported that attackers are using autonomous AI agents to analyze security patches and generate functional exploits without human intervention.",
+   "editor_note": "Confirm specific vulnerability instances or report details from Google Threat Analysis Group when published.",
+   "support": 0.78,
+   "published_at": "2026-11-17T06:34:30+00:00",
+   "first_seen_at": "2026-11-17T06:37:26.459931+00:00",
+   "expires_at": "2026-11-18T18:34:30+00:00",
+   "decision": 1.96,
+   "priority": 7.651972,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "ebff97034b293e5f",
    "item": {
     "id": "ebff97034b293e5f",
@@ -3739,8 +3764,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.511082,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.528483,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3769,8 +3794,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.422887,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.417666,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3822,8 +3847,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.090064,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.107464,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3850,8 +3875,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.883271,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.900672,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
  "details_queue": [],
@@ -3995,12 +4020,13 @@
   "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778": "2026-11-17T04:38:07.123847+00:00",
   "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms": "2026-11-17T05:11:02.650099+00:00",
   "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": "2026-11-17T05:38:06.314222+00:00",
-  "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic": "2026-11-17T06:08:07.269728+00:00"
+  "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic": "2026-11-17T06:08:07.269728+00:00",
+  "https://www.indiatoday.in/technology/news/story/sarvam-opens-ai-token-factory-indias-answer-to-openrouter-and-hugging-face-3040507-2026-11-17": "2026-11-17T06:38:37.623761+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
   "32933935200c2839": {
@@ -14812,6 +14838,96 @@
    "imp": 0.2,
    "ai": 0.12,
    "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "ae45ea232af21655": {
+   "imp": 0.94,
+   "ai": 0.92,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "92289fd3f63893d6": {
+   "imp": 1.32,
+   "ai": 0.97,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "d0423e1a0b411f6f": {
+   "imp": 1.98,
+   "ai": 0.91,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "7f1c7dcee7942956": {
+   "imp": 1.56,
+   "ai": 0.66,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "1655597f39280d1a": {
+   "imp": 1.96,
+   "ai": 0.94,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "b5112d852d82b2c7": {
+   "imp": 2.57,
+   "ai": 0.98,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "f054a54f8228cfac": {
+   "imp": 1.35,
+   "ai": null,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "a87973f03c7f97d1": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "cdd0ec21a49bff38": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "c5761328c14aeaa2": {
+   "imp": 0.08,
+   "ai": 0.05,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "fb6bdf33e1db1e20": {
+   "imp": 0.22,
+   "ai": 0.06,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "e7cbf49b010218df": {
+   "imp": 0.55,
+   "ai": 0.15,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "663887b0a8e7dc1b": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "6e4e6c5aa61ca140": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "b49699e86d39e015": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "b3472f457dc934a8": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "ae3ee0f483ed9177": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
+  },
+  "11dd9c909d4e4b00": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T06:37:26.459931+00:00"
   }
  }
 }
