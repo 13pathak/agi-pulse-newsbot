@@ -1926,10 +1926,6 @@
  },
  "covered": [
   {
-   "headline": "Meituan releases 1.6-trillion-parameter LongCat-2.5 model weights",
-   "ts": "2026-11-15T10:37:21.124750+00:00"
-  },
-  {
    "headline": "Megaspeed reportedly brokered $12 billion in Nvidia chip orders for China",
    "ts": "2026-11-15T12:07:20.871047+00:00"
   },
@@ -3763,8 +3759,8 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:39:35+00:00",
    "decision": 1.83,
-   "priority": 8.63144,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.648818,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -3792,8 +3788,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.489901,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.507279,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3822,8 +3818,38 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.381218,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.376005,
+   "selection_reason": "Editorial importance; waiting 19.5h"
+  },
+  {
+   "id": "753f1faf81d05f31",
+   "item": {
+    "id": "753f1faf81d05f31",
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "url": "https://arxiv.org/abs/2611.21003",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Institute of Foundation Models releases K2-Horizon open models",
+   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
+   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.92,
+   "priority": 7.248109,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3875,38 +3901,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.228958,
-   "selection_reason": "Editorial importance; waiting 8.0h"
-  },
-  {
-   "id": "753f1faf81d05f31",
-   "item": {
-    "id": "753f1faf81d05f31",
-    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-    "url": "https://arxiv.org/abs/2611.21003",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Institute of Foundation Models releases K2-Horizon open models",
-   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
-   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.92,
-   "priority": 7.222042,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.246336,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3933,8 +3929,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.149976,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.167355,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3961,8 +3957,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.022165,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.039544,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -3991,8 +3987,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.977446,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.003513,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [],
@@ -15665,6 +15661,126 @@
    "imp": 0.23,
    "ai": 0.05,
    "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "3d74fd1c6c0aab44": {
+   "imp": 1.93,
+   "ai": 0.89,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "94343c90bc3eea2f": {
+   "imp": 0.15,
+   "ai": 0.33,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "844f2945dfec04b3": {
+   "imp": 0.97,
+   "ai": 0.46,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "ee288c8acb3fd8a7": {
+   "imp": 1.32,
+   "ai": 0.96,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "6ccd6024d7a69413": {
+   "imp": 1.54,
+   "ai": 0.97,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "6cc0f68d4b78bff1": {
+   "imp": 1.04,
+   "ai": 0.95,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "65a290afdbae3413": {
+   "imp": 1.27,
+   "ai": 0.93,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "417e52afc41bf5a2": {
+   "imp": 0.93,
+   "ai": 0.55,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "518c47915c16d025": {
+   "imp": 2.41,
+   "ai": 0.98,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "a234b7889c5bff1c": {
+   "imp": 1.3,
+   "ai": 0.85,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "5985af2e2b959446": {
+   "imp": 0.3,
+   "ai": 0.32,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "b6953bc8cc8804ad": {
+   "imp": 1.87,
+   "ai": 0.93,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "0145fb90b8379117": {
+   "imp": 1.88,
+   "ai": null,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "67db62de0cb733ab": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "038a4da11e365c78": {
+   "imp": 1.36,
+   "ai": 0.58,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "c948ba5fb8f105d2": {
+   "imp": 0.22,
+   "ai": 0.09,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "e121c419ba56ce9e": {
+   "imp": 0.5,
+   "ai": 0.13,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "099efb6263477886": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "390e8dfb3a35feda": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "37dd668923df7b15": {
+   "imp": 0.77,
+   "ai": 0.21,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "c7b067bfc5a02f33": {
+   "imp": 0.28,
+   "ai": 0.12,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "f75bfe22661566ab": {
+   "imp": 0.1,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "3478d1e9a484053f": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "96ce6f1857dc00c9": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-17T10:37:24.673003+00:00"
   }
  }
 }
