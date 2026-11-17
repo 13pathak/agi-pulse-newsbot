@@ -1,7 +1,5 @@
 {
  "seen": {
-  "38c8ca804432e4c8": "2026-11-10T04:37:21.282550+00:00",
-  "ddb002f6eb705565": "2026-11-10T04:37:21.282550+00:00",
   "ee3c6c5f80a22293": "2026-11-10T05:07:25.911204+00:00",
   "f3352a9861f16f1a": "2026-11-10T05:07:25.911204+00:00",
   "ea51f7bea31aafbe": "2026-11-10T05:07:25.911204+00:00",
@@ -1913,7 +1911,19 @@
   "3778506668803933": "2026-11-17T03:37:22.449919+00:00",
   "290fa5044e0f8699": "2026-11-17T03:37:22.449919+00:00",
   "5e0e4079539992eb": "2026-11-17T03:37:22.449919+00:00",
-  "d61228b9bc67e0e1": "2026-11-17T03:37:22.449919+00:00"
+  "d61228b9bc67e0e1": "2026-11-17T03:37:22.449919+00:00",
+  "d6a44469adf06c1f": "2026-11-17T04:37:23.333248+00:00",
+  "ac2502a3ac75b8fc": "2026-11-17T04:37:23.333248+00:00",
+  "9692d7cd9d7c3ef7": "2026-11-17T04:37:23.333248+00:00",
+  "b5f399c32c81ac83": "2026-11-17T04:37:23.333248+00:00",
+  "881e8225f9e486ac": "2026-11-17T04:37:23.333248+00:00",
+  "5d0027306d41109a": "2026-11-17T04:37:23.333248+00:00",
+  "1fb395b886399ee9": "2026-11-17T04:37:23.333248+00:00",
+  "63888bf92e20fb0e": "2026-11-17T04:37:23.333248+00:00",
+  "245e194e7c1f246e": "2026-11-17T04:37:23.333248+00:00",
+  "267d8b342ecc48bc": "2026-11-17T04:37:23.333248+00:00",
+  "bd831cf23ee2ff38": "2026-11-17T04:37:23.333248+00:00",
+  "8d78b8dffd93785d": "2026-11-17T04:37:23.333248+00:00"
  },
  "covered": [
   {
@@ -2055,11 +2065,15 @@
   {
    "headline": "Chinese AI developers restrict offensive cyber capabilities",
    "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  {
+   "headline": "JohnAIC raises $1.9 million in pre-seed funding",
+   "ts": "2026-11-17T04:37:23.333248+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3731,8 +3745,8 @@
    "first_seen_at": "2026-11-17T03:37:22.449919+00:00",
    "expires_at": "2026-11-18T14:59:06+00:00",
    "decision": 1.95,
-   "priority": 7.649635,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.667011,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "bdc8e7eacc0c5b79",
@@ -3759,8 +3773,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T07:05:24+00:00",
    "decision": 2.01,
-   "priority": 7.544078,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.561454,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3812,8 +3826,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.520613,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.53799,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "f0fe9bca996d0e9c",
@@ -3840,8 +3854,36 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T11:34:04+00:00",
    "decision": 1.6,
-   "priority": 7.500241,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.517617,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "ebff97034b293e5f",
+   "item": {
+    "id": "ebff97034b293e5f",
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
+    "published": "2026-11-16T18:52:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Moonshot AI pivots Kimi models from coding to science research",
+   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
+   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
+   "support": 0.63,
+   "published_at": "2026-11-16T18:52:55+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T06:52:55+00:00",
+   "decision": 1.72,
+   "priority": 7.459008,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3870,36 +3912,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.443722,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
-   "id": "ebff97034b293e5f",
-   "item": {
-    "id": "ebff97034b293e5f",
-    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
-    "published": "2026-11-16T18:52:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Moonshot AI pivots Kimi models from coding to science research",
-   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
-   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
-   "support": 0.63,
-   "published_at": "2026-11-16T18:52:55+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T06:52:55+00:00",
-   "decision": 1.72,
-   "priority": 7.441632,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.438509,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3926,8 +3940,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.813821,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.831197,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -4067,12 +4081,13 @@
   "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": "2026-11-17T02:08:14.487627+00:00",
   "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": "2026-11-17T02:38:31.625700+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms": "2026-11-17T03:09:44.394597+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models": "2026-11-17T03:38:43.849316+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models": "2026-11-17T03:38:43.849316+00:00",
+  "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778": "2026-11-17T04:38:07.123847+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
   "32933935200c2839": {
@@ -14584,6 +14599,96 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "63888bf92e20fb0e": {
+   "imp": 1.74,
+   "ai": 0.93,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "5d0027306d41109a": {
+   "imp": 1.92,
+   "ai": 0.91,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "735033e2c2beaf91": {
+   "imp": 0.33,
+   "ai": 0.14,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "267d8b342ecc48bc": {
+   "imp": 0.66,
+   "ai": 0.4,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "bd831cf23ee2ff38": {
+   "imp": 0.62,
+   "ai": 0.27,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "9692d7cd9d7c3ef7": {
+   "imp": 1.57,
+   "ai": 0.95,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "1fb395b886399ee9": {
+   "imp": 1.69,
+   "ai": 0.83,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "881e8225f9e486ac": {
+   "imp": 1.3,
+   "ai": 0.83,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "7e5ca9ad50325eda": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "8d78b8dffd93785d": {
+   "imp": 2.03,
+   "ai": 0.96,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "a5a38c9b87e79938": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "948e794be7a54387": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "9ad771e80b032dc3": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "4d1db486ad4137db": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "fdd918674b478e39": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "cd0fb904d3ed45bc": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "4e2c77969c967eab": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
+  },
+  "6c3bdef8e07ee230": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-17T04:37:23.333248+00:00"
   }
  }
 }
