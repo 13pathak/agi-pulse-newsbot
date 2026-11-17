@@ -1,16 +1,5 @@
 {
  "seen": {
-  "4248c69c552eb567": "2026-11-10T05:37:22.133193+00:00",
-  "133de684dfb63cd5": "2026-11-10T05:37:22.133193+00:00",
-  "0ac8506cb2845b7d": "2026-11-10T05:37:22.133193+00:00",
-  "2b0842aac6c8712c": "2026-11-10T05:37:22.133193+00:00",
-  "f2b60d76fa29e35e": "2026-11-10T05:37:22.133193+00:00",
-  "ea095153263c960b": "2026-11-10T05:37:22.133193+00:00",
-  "a8fd56d182686744": "2026-11-10T05:37:22.133193+00:00",
-  "406460b90a5a01ea": "2026-11-10T05:37:22.133193+00:00",
-  "3e364772d0ff95ad": "2026-11-10T05:37:22.133193+00:00",
-  "d82a14e33749fcd4": "2026-11-10T05:37:22.133193+00:00",
-  "8b937df2ca88bb3e": "2026-11-10T05:37:22.133193+00:00",
   "6f6fff482120edaf": "2026-11-10T06:07:22.591193+00:00",
   "d66ec553c6f121f9": "2026-11-10T06:07:22.591193+00:00",
   "e3ad3d13360cfdb5": "2026-11-10T06:07:22.591193+00:00",
@@ -1922,7 +1911,17 @@
   "3702b15a70948456": "2026-11-17T05:07:22.328481+00:00",
   "f170a17209ad03de": "2026-11-17T05:07:22.328481+00:00",
   "609f4b5b9b9f0b22": "2026-11-17T05:07:22.328481+00:00",
-  "a72d5c1527664561": "2026-11-17T05:07:22.328481+00:00"
+  "a72d5c1527664561": "2026-11-17T05:07:22.328481+00:00",
+  "d50dc7a2335f6b81": "2026-11-17T05:37:34.818659+00:00",
+  "b8355fd359fa37da": "2026-11-17T05:37:34.818659+00:00",
+  "7ba41246814e3786": "2026-11-17T05:37:34.818659+00:00",
+  "4d6edea879f644a2": "2026-11-17T05:37:34.818659+00:00",
+  "583ed7dae3092711": "2026-11-17T05:37:34.818659+00:00",
+  "db20b62de2b2af3a": "2026-11-17T05:37:34.818659+00:00",
+  "4b3b678dd2d69e9a": "2026-11-17T05:37:34.818659+00:00",
+  "c01ec4e76f05b872": "2026-11-17T05:37:34.818659+00:00",
+  "7fae55d39fd6e14e": "2026-11-17T05:37:34.818659+00:00",
+  "bdc8e7eacc0c5b79": "2026-11-17T05:37:34.818659+00:00"
  },
  "covered": [
   {
@@ -2072,11 +2071,15 @@
   {
    "headline": "Singapore seeks trusted access to US AI chips following curbs",
    "ts": "2026-11-17T05:07:22.328481+00:00"
+  },
+  {
+   "headline": "Nvidia announces Rubin HPC GPU with over 50,000 CUDA cores",
+   "ts": "2026-11-17T05:37:34.818659+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3711,34 +3714,6 @@
  },
  "pending": [
   {
-   "id": "bdc8e7eacc0c5b79",
-   "item": {
-    "id": "bdc8e7eacc0c5b79",
-    "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png",
-    "snippet": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.",
-    "published": "2026-11-16T19:05:24+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Nvidia announces Rubin HPC GPU with over 50,000 CUDA cores",
-   "post": "Nvidia announced its Rubin HPC GPU at Supercomputing 2026, featuring over 50,000 CUDA cores. Designed for agentic high-performance computing workloads, the GPU is scheduled for release in 2028.",
-   "editor_note": "Source states availability is scheduled for 2028.",
-   "support": 0.94,
-   "published_at": "2026-11-16T19:05:24+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T07:05:24+00:00",
-   "decision": 2.01,
-   "priority": 7.578806,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "f0fe9bca996d0e9c",
    "item": {
     "id": "f0fe9bca996d0e9c",
@@ -3763,8 +3738,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T11:34:04+00:00",
    "decision": 1.6,
-   "priority": 7.534968,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.55245,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3791,8 +3766,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.47636,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.493841,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3821,8 +3796,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.433303,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.428059,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3874,8 +3849,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.055341,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.072823,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3902,8 +3877,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.848549,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.86603,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [],
@@ -4045,12 +4020,13 @@
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms": "2026-11-17T03:09:44.394597+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models": "2026-11-17T03:38:43.849316+00:00",
   "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778": "2026-11-17T04:38:07.123847+00:00",
-  "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms": "2026-11-17T05:11:02.650099+00:00"
+  "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms": "2026-11-17T05:11:02.650099+00:00",
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": "2026-11-17T05:38:06.314222+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
   "32933935200c2839": {
@@ -14742,6 +14718,66 @@
    "imp": 0.1,
    "ai": 0.01,
    "ts": "2026-11-17T05:07:22.328481+00:00"
+  },
+  "4b3b678dd2d69e9a": {
+   "imp": 0.93,
+   "ai": 0.85,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "d50dc7a2335f6b81": {
+   "imp": 2.35,
+   "ai": 0.97,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "db20b62de2b2af3a": {
+   "imp": 1.84,
+   "ai": 0.61,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "b8355fd359fa37da": {
+   "imp": 2.0,
+   "ai": 0.96,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "583ed7dae3092711": {
+   "imp": 1.34,
+   "ai": 0.72,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "f1295f5480827f60": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "01364f65eb9e74dd": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "c72da67367eb2456": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "7ba41246814e3786": {
+   "imp": 1.9,
+   "ai": 0.9,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "6e822afb2994aacb": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "cfc447f527c2b07e": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "b8669b3e1d9481b6": {
+   "imp": 0.34,
+   "ai": 0.09,
+   "ts": "2026-11-17T05:37:34.818659+00:00"
   }
  }
 }
