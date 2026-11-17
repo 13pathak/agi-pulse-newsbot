@@ -1,21 +1,5 @@
 {
  "seen": {
-  "3994fe7b1c267225": "2026-11-10T03:07:20.705440+00:00",
-  "42b950465726857e": "2026-11-10T03:07:20.705440+00:00",
-  "5ac9bbe20be64535": "2026-11-10T03:07:20.705440+00:00",
-  "85c252175e2ff7a3": "2026-11-10T03:07:20.705440+00:00",
-  "15c28179b2dc3ec9": "2026-11-10T03:07:20.705440+00:00",
-  "8bba87f9b8c08fbd": "2026-11-10T03:07:20.705440+00:00",
-  "d496d4579fa48cb3": "2026-11-10T03:07:20.705440+00:00",
-  "8f7d319fb9227286": "2026-11-10T03:07:20.705440+00:00",
-  "3541a994b8f0a12c": "2026-11-10T03:07:20.705440+00:00",
-  "911c46eab622809e": "2026-11-10T03:07:20.705440+00:00",
-  "b6d369b5abe69ce5": "2026-11-10T03:07:20.705440+00:00",
-  "80f28abedec4296f": "2026-11-10T03:07:20.705440+00:00",
-  "66ba41ac6643ed1d": "2026-11-10T03:07:20.705440+00:00",
-  "dbb2861bdf036f71": "2026-11-10T03:07:20.705440+00:00",
-  "6ad5cdfac9ea7814": "2026-11-10T03:07:20.705440+00:00",
-  "d632a535d7566ecb": "2026-11-10T03:07:20.705440+00:00",
   "727d5469c2bf70f2": "2026-11-10T03:37:43.415221+00:00",
   "110a0ea12a11fb9f": "2026-11-10T03:37:43.415221+00:00",
   "370542d59f4e6f0b": "2026-11-10T03:37:43.415221+00:00",
@@ -1925,7 +1909,19 @@
   "d3a67d4f7f1ae331": "2026-11-17T02:37:39.999182+00:00",
   "ebc31ceccb74c4be": "2026-11-17T02:37:39.999182+00:00",
   "f397e4d30df8d19f": "2026-11-17T02:37:39.999182+00:00",
-  "ab086a66f465eda3": "2026-11-17T02:37:39.999182+00:00"
+  "ab086a66f465eda3": "2026-11-17T02:37:39.999182+00:00",
+  "cc69239e629b14a0": "2026-11-17T03:07:34.188728+00:00",
+  "aa9feb2f036b19f6": "2026-11-17T03:07:34.188728+00:00",
+  "3a32eda9d7ce6c86": "2026-11-17T03:07:34.188728+00:00",
+  "2db00d3c22d7cd3a": "2026-11-17T03:07:34.188728+00:00",
+  "8c824024c9147b94": "2026-11-17T03:07:34.188728+00:00",
+  "e8be3a5399e01c2c": "2026-11-17T03:07:34.188728+00:00",
+  "2b1fdc36f787a31a": "2026-11-17T03:07:34.188728+00:00",
+  "2404565dea18720e": "2026-11-17T03:07:34.188728+00:00",
+  "ff4a8524ce31a335": "2026-11-17T03:07:34.188728+00:00",
+  "718d68e733720195": "2026-11-17T03:07:34.188728+00:00",
+  "e7d67d163eea8f8e": "2026-11-17T03:07:34.188728+00:00",
+  "c5cb67a9a739abfa": "2026-11-17T03:07:34.188728+00:00"
  },
  "covered": [
   {
@@ -2059,11 +2055,15 @@
   {
    "headline": "Anthropic details selective memory approach for AI agents",
    "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  {
+   "headline": "Sam Altman acknowledges voter opposition to AI data center expansion",
+   "ts": "2026-11-17T03:07:34.188728+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3722,7 +3722,7 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T11:00:00+00:00",
    "decision": 2.14,
-   "priority": 7.612562,
+   "priority": 7.629867,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3750,8 +3750,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T07:05:24+00:00",
    "decision": 2.01,
-   "priority": 7.492171,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.509476,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3803,8 +3803,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.468706,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.486011,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "f0fe9bca996d0e9c",
@@ -3831,7 +3831,7 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T11:34:04+00:00",
    "decision": 1.6,
-   "priority": 7.448333,
+   "priority": 7.465638,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3861,8 +3861,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.428307,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.454102,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3889,8 +3889,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.389725,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.40703,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3917,7 +3917,7 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.261914,
+   "priority": 7.279219,
    "selection_reason": "Time-sensitive story"
   }
  ],
@@ -4056,12 +4056,13 @@
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat": "2026-11-16T15:37:52.771844+00:00",
   "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents": "2026-11-17T01:08:55.956472+00:00",
   "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": "2026-11-17T02:08:14.487627+00:00",
-  "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": "2026-11-17T02:38:31.625700+00:00"
+  "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": "2026-11-17T02:38:31.625700+00:00",
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms": "2026-11-17T03:09:44.394597+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
   "32933935200c2839": {
@@ -14348,6 +14349,86 @@
    "imp": 0.16,
    "ai": 0.04,
    "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "2b1fdc36f787a31a": {
+   "imp": 1.4,
+   "ai": 0.93,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "b6439abf8438a9f8": {
+   "imp": 0.2,
+   "ai": 0.09,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "aa9feb2f036b19f6": {
+   "imp": 2.52,
+   "ai": 0.94,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "718d68e733720195": {
+   "imp": 0.92,
+   "ai": 0.61,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "609f4b5b9b9f0b22": {
+   "imp": 1.95,
+   "ai": 0.97,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "3a32eda9d7ce6c86": {
+   "imp": 2.49,
+   "ai": 0.98,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "c5cb67a9a739abfa": {
+   "imp": 2.12,
+   "ai": 0.95,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "2404565dea18720e": {
+   "imp": 2.46,
+   "ai": 0.97,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "e50a68596d1694bf": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "7b102246c4a39291": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "bcd9f69720f435c7": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "cc03460ceff38d79": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "40afaff5312a2240": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "9276448d61ddf64c": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "73135b6d0eb5837e": {
+   "imp": 0.35,
+   "ai": 0.04,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "e5a0e2c2402b558a": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-17T03:07:34.188728+00:00"
   }
  }
 }
