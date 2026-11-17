@@ -1894,10 +1894,6 @@
  },
  "covered": [
   {
-   "headline": "Jensen Huang agrees to testify before US lawmakers behind closed doors",
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
-  {
    "headline": "US and allies agree to protect AI supply chains",
    "ts": "2026-11-16T01:07:20.785806+00:00"
   },
@@ -3783,8 +3779,8 @@
    "first_seen_at": "2026-11-17T15:37:39.393037+00:00",
    "expires_at": "2026-11-19T02:00:08+00:00",
    "decision": 2.5,
-   "priority": 8.822773,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.840121,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3811,8 +3807,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.816694,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.834041,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3864,8 +3860,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.802572,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 8.819919,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3894,8 +3890,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.297293,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 8.323315,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -3922,8 +3918,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.750251,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.767598,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -3951,8 +3947,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.715621,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.732969,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3981,8 +3977,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.560623,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.586644,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4009,8 +4005,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.372795,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.390142,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4039,8 +4035,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.316027,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.342048,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4069,8 +4065,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.313502,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.308298,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4122,8 +4118,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.298375,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.284497,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4150,8 +4146,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.219393,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.205515,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4178,8 +4174,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.123136,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.109258,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   }
  ],
  "details_queue": [],
@@ -17044,6 +17040,101 @@
    "imp": 0.07,
    "ai": 0.03,
    "ts": "2026-11-17T16:37:25.616866+00:00"
+  },
+  "ce29990362094ed7": {
+   "imp": 1.68,
+   "ai": 0.85,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "757a469161fbcb6a": {
+   "imp": 2.0,
+   "ai": 0.9,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "950a39f90ba9c1a9": {
+   "imp": 2.35,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "bfe144881fd661a3": {
+   "imp": 1.37,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "c45e75136865f95a": {
+   "imp": 1.87,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "5a76136e8f2d5ccb": {
+   "imp": 2.06,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "9775fff4b2849085": {
+   "imp": 2.27,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "33e07114af2c0e90": {
+   "imp": 1.2,
+   "ai": 0.85,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "6434233740b567b7": {
+   "imp": 2.24,
+   "ai": 0.89,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "b07761c01d391bd0": {
+   "imp": 1.72,
+   "ai": 0.93,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "cb1d8f8bc84f7e6a": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "fa2d79e8a491ed5a": {
+   "imp": 0.67,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "692230a9d797ddbd": {
+   "imp": 0.76,
+   "ai": null,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "6ecfc769821732b6": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "da1a0c3e18d614f0": {
+   "imp": 1.31,
+   "ai": 0.53,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "13d5a1a2a9d92faa": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "c5dcce2ec04e3ca4": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "7c5c97d5524dce50": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
+  },
+  "5b158888670aa71b": {
+   "imp": 0.39,
+   "ai": 0.03,
+   "ts": "2026-11-17T17:07:24.222245+00:00"
   }
  }
 }
