@@ -1,10 +1,5 @@
 {
  "seen": {
-  "4a69b85f66d71ac7": "2026-11-10T04:07:20.803621+00:00",
-  "f65bd15b4fae8d1f": "2026-11-10T04:07:20.803621+00:00",
-  "a9c08f3809a1467e": "2026-11-10T04:07:20.803621+00:00",
-  "c665674c5bb48e65": "2026-11-10T04:07:20.803621+00:00",
-  "0efe3a3dc1058fc5": "2026-11-10T04:07:20.803621+00:00",
   "38c8ca804432e4c8": "2026-11-10T04:37:21.282550+00:00",
   "ddb002f6eb705565": "2026-11-10T04:37:21.282550+00:00",
   "ee3c6c5f80a22293": "2026-11-10T05:07:25.911204+00:00",
@@ -3736,7 +3731,7 @@
    "first_seen_at": "2026-11-17T03:37:22.449919+00:00",
    "expires_at": "2026-11-18T14:59:06+00:00",
    "decision": 1.95,
-   "priority": 7.63228,
+   "priority": 7.649635,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3764,8 +3759,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T07:05:24+00:00",
    "decision": 2.01,
-   "priority": 7.526724,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.544078,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3817,8 +3812,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.503259,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.520613,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "f0fe9bca996d0e9c",
@@ -3845,8 +3840,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T11:34:04+00:00",
    "decision": 1.6,
-   "priority": 7.482886,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.500241,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3875,8 +3870,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.448928,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.443722,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3903,8 +3898,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.424278,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.441632,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3931,8 +3926,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.296467,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 6.813821,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -14519,6 +14514,76 @@
    "imp": 0.18,
    "ai": 0.05,
    "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "d6a44469adf06c1f": {
+   "imp": 2.02,
+   "ai": 0.97,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "3702b15a70948456": {
+   "imp": 1.38,
+   "ai": 0.87,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "b5f399c32c81ac83": {
+   "imp": 1.61,
+   "ai": 0.95,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "245e194e7c1f246e": {
+   "imp": 1.48,
+   "ai": 0.88,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "ac2502a3ac75b8fc": {
+   "imp": 1.81,
+   "ai": 0.96,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "79b9f7b1b39151ff": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "1cdfe84243c19664": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "2456faa4578db9b1": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "45f841f4bcea37d0": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "ba6056963dd0841f": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "d3b2c0502373283a": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "ca983216ff9c970d": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "febdac0795483a45": {
+   "imp": 0.63,
+   "ai": 0.2,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
+  },
+  "3eecacf2e10ef6a9": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T04:07:21.744246+00:00"
   }
  }
 }
