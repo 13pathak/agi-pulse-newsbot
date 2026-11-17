@@ -3756,8 +3756,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.402055,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.396844,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3809,8 +3809,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.159502,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.176873,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3839,8 +3839,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.117859,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.143915,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3867,8 +3867,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.080521,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.097891,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3895,8 +3895,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.95271,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.97008,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -3925,8 +3925,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.873263,
-   "selection_reason": "Editorial importance"
+   "priority": 6.899318,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -15241,6 +15241,111 @@
    "imp": 0.12,
    "ai": 0.03,
    "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  "5dae0f7dddd9b9be": {
+   "imp": 2.37,
+   "ai": 0.96,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "7add97706cb7bb56": {
+   "imp": 1.81,
+   "ai": 0.98,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "d5a4d45c40c1c25e": {
+   "imp": 1.03,
+   "ai": 0.56,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "0e130217634b8621": {
+   "imp": 2.37,
+   "ai": 0.95,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "f3c942e06b7da750": {
+   "imp": 2.12,
+   "ai": 0.87,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "a923fd9b70a1aed5": {
+   "imp": 2.21,
+   "ai": 0.94,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "fdf7cbb6cbccd1c5": {
+   "imp": 1.21,
+   "ai": null,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "04dbd24f71495b14": {
+   "imp": 0.12,
+   "ai": 0.08,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "8528712fea3cb1ba": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "809a5cf60a6d43b9": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "cd71f17d32503b0a": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "96f1bba9c4901ec2": {
+   "imp": 1.75,
+   "ai": 0.96,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "27ed239e873757e6": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "b3a6c2f844812696": {
+   "imp": 0.59,
+   "ai": 0.1,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "bdd37cad1a036098": {
+   "imp": 0.4,
+   "ai": 0.08,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "8d6a2afd51d831d8": {
+   "imp": 0.34,
+   "ai": 0.1,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "498e0da318b99598": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "a889d01af019d658": {
+   "imp": 0.17,
+   "ai": 0.09,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "dc234a73a7b9bc03": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "bebb381688ec667a": {
+   "imp": 1.09,
+   "ai": 0.12,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "420152505c712e60": {
+   "imp": 0.22,
+   "ai": 0.1,
+   "ts": "2026-11-17T08:37:22.731778+00:00"
   }
  }
 }
