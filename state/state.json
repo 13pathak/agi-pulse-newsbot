@@ -1,15 +1,5 @@
 {
  "seen": {
-  "9015c3069685351f": "2026-11-10T02:37:20.673340+00:00",
-  "b0cfae5b87dd699c": "2026-11-10T02:37:20.673340+00:00",
-  "1884bc701bf8453e": "2026-11-10T02:37:20.673340+00:00",
-  "0277175a35a15eb3": "2026-11-10T02:37:20.673340+00:00",
-  "82039d5ed76324b9": "2026-11-10T02:37:20.673340+00:00",
-  "1b26b34384c08573": "2026-11-10T02:37:20.673340+00:00",
-  "a3605b2ccfdd5f8b": "2026-11-10T02:37:20.673340+00:00",
-  "bcf304f688e3ce08": "2026-11-10T02:37:20.673340+00:00",
-  "4fba83b0940efd52": "2026-11-10T02:37:20.673340+00:00",
-  "dadec28deff975a7": "2026-11-10T02:37:20.673340+00:00",
   "3994fe7b1c267225": "2026-11-10T03:07:20.705440+00:00",
   "42b950465726857e": "2026-11-10T03:07:20.705440+00:00",
   "5ac9bbe20be64535": "2026-11-10T03:07:20.705440+00:00",
@@ -1915,7 +1905,27 @@
   "6516c66961953bb6": "2026-11-17T02:07:22.529075+00:00",
   "ced955685de0a83c": "2026-11-17T02:07:22.529075+00:00",
   "a2ec8c3c33703823": "2026-11-17T02:07:22.529075+00:00",
-  "75df91af27d861e0": "2026-11-17T02:07:22.529075+00:00"
+  "75df91af27d861e0": "2026-11-17T02:07:22.529075+00:00",
+  "d218f9a95b85493a": "2026-11-17T02:37:39.999182+00:00",
+  "7157ce3b54a8a376": "2026-11-17T02:37:39.999182+00:00",
+  "f978b1cf70930b8f": "2026-11-17T02:37:39.999182+00:00",
+  "ea6d8f837639032f": "2026-11-17T02:37:39.999182+00:00",
+  "cebb296c29e795e3": "2026-11-17T02:37:39.999182+00:00",
+  "40efae4b99bfdc5d": "2026-11-17T02:37:39.999182+00:00",
+  "3c223369d9d85574": "2026-11-17T02:37:39.999182+00:00",
+  "754dc2b7990a183f": "2026-11-17T02:37:39.999182+00:00",
+  "a127dfece4a2b361": "2026-11-17T02:37:39.999182+00:00",
+  "0873131c018e5da5": "2026-11-17T02:37:39.999182+00:00",
+  "87fab3b1b22bbc18": "2026-11-17T02:37:39.999182+00:00",
+  "adc690e60e2014e6": "2026-11-17T02:37:39.999182+00:00",
+  "2fe84d6e3352eeb4": "2026-11-17T02:37:39.999182+00:00",
+  "7801ae3ea920b54d": "2026-11-17T02:37:39.999182+00:00",
+  "e0005e9b0d34fce5": "2026-11-17T02:37:39.999182+00:00",
+  "8608cb9bd3afb255": "2026-11-17T02:37:39.999182+00:00",
+  "d3a67d4f7f1ae331": "2026-11-17T02:37:39.999182+00:00",
+  "ebc31ceccb74c4be": "2026-11-17T02:37:39.999182+00:00",
+  "f397e4d30df8d19f": "2026-11-17T02:37:39.999182+00:00",
+  "ab086a66f465eda3": "2026-11-17T02:37:39.999182+00:00"
  },
  "covered": [
   {
@@ -2045,11 +2055,15 @@
   {
    "headline": "OpenAI's GPT-6 Astra used to formulate particle physics proof",
    "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  {
+   "headline": "Anthropic details selective memory approach for AI agents",
+   "ts": "2026-11-17T02:37:39.999182+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3684,15 +3698,15 @@
  },
  "pending": [
   {
-   "id": "ab086a66f465eda3",
+   "id": "d61228b9bc67e0e1",
    "item": {
-    "id": "ab086a66f465eda3",
-    "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
-    "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
-    "source": "The Decoder",
+    "id": "d61228b9bc67e0e1",
+    "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+    "source": "Bloomberg",
     "image": "",
-    "snippet": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories. The article Anthropic says the key to agent memory i…",
-    "published": "2026-11-16T15:25:48+00:00",
+    "snippet": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+    "published": "2026-11-16T23:00:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -3700,56 +3714,15 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Anthropic details selective memory approach for AI agents",
-   "post": "Anthropic reports that selective memory notes improve AI agent performance over exhaustive archives. In testing, Claude Fable 5 used a small set of strategy files rather than hundreds, and a retrospective process corrected faulty memories.",
-   "editor_note": "Verify Claude Fable 5 and Pokémon Red test metrics against official Anthropic documentation before publishing.",
-   "support": 0.87,
-   "published_at": "2026-11-16T15:25:48+00:00",
-   "first_seen_at": "2026-11-16T15:37:23.168630+00:00",
-   "expires_at": "2026-11-18T03:25:48+00:00",
-   "decision": 1.74,
-   "priority": 7.939213,
-   "selection_reason": "Time-sensitive story; waiting 10.5h"
-  },
-  {
-   "id": "882a7d2052a2d770",
-   "item": {
-    "id": "882a7d2052a2d770",
-    "title": "OpenAI Signs Agreements to Embed AI Evaluators",
-    "url": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
-    "source": "The Information",
-    "image": "",
-    "snippet": "OpenAI said Monday it had signed agreements with Apollo Research, METR, Transluce and Goodfire to give the organizations access to some of OpenAI’s internal information to assess risks in its technology and practices. The announcement follows OpenAI’s commitment to embed evaluators within ...",
-    "published": "2026-11-16T22:13:24+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "81e420a7570ae0a0",
-     "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-     "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-     "source": "CNBC",
-     "image": "",
-     "snippet": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
-     "published": "2026-11-16T21:54:18+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI partners with four independent evaluators to assess risks",
-   "post": "OpenAI signed agreements with Apollo Research, METR, Transluce, and Goodfire to grant the four independent organizations access to internal information to evaluate safety risks in its technology and practices.",
-   "editor_note": "The agreements grant external access to internal information for safety evaluation.",
-   "support": 0.92,
-   "published_at": "2026-11-16T21:54:18+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T09:54:18+00:00",
-   "decision": 2.11,
-   "priority": 7.586169,
+   "headline": "Chinese AI developers restrict offensive cyber capabilities",
+   "post": "Major Chinese AI firms are limiting offensive cybersecurity capabilities in their newest models following a proposed government ban on exporting AI tools that could aid cyberattacks.",
+   "editor_note": "Verify which specific AI models and developers Bloomberg identified as restricting cyber capabilities.",
+   "support": 0.95,
+   "published_at": "2026-11-16T23:00:00+00:00",
+   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
+   "expires_at": "2026-11-18T11:00:00+00:00",
+   "decision": 2.14,
+   "priority": 7.612562,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3777,7 +3750,88 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T07:05:24+00:00",
    "decision": 2.01,
-   "priority": 7.474641,
+   "priority": 7.492171,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "882a7d2052a2d770",
+   "item": {
+    "id": "882a7d2052a2d770",
+    "title": "OpenAI Signs Agreements to Embed AI Evaluators",
+    "url": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
+    "source": "The Information",
+    "image": "",
+    "snippet": "OpenAI said Monday it had signed agreements with Apollo Research, METR, Transluce and Goodfire to give the organizations access to some of OpenAI’s internal information to assess risks in its technology and practices. The announcement follows OpenAI’s commitment to embed evaluators within ...",
+    "published": "2026-11-16T22:13:24+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "81e420a7570ae0a0",
+     "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+     "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
+     "published": "2026-11-16T21:54:18+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "99f66f454c3bc11f",
+     "title": "OpenAI will embed safety researchers to investigate AI subversion",
+     "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+     "published": "2026-11-16T17:02:43+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "OpenAI partners with four independent evaluators to assess risks",
+   "post": "OpenAI signed agreements with Apollo Research, METR, Transluce, and Goodfire to grant the four independent organizations access to internal information to evaluate safety risks in its technology and practices.",
+   "editor_note": "The agreements grant external access to internal information for safety evaluation.",
+   "support": 0.92,
+   "published_at": "2026-11-16T17:02:43+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T05:02:43+00:00",
+   "decision": 2.11,
+   "priority": 7.468706,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "f0fe9bca996d0e9c",
+   "item": {
+    "id": "f0fe9bca996d0e9c",
+    "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
+    "url": "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Google DeepMind’s chief strategy officer Jasjeet Sekhon has left for a role at Anthropic, he said Monday. “I am working to ensure that Claude practices and values epistemic rigor,” he posted on X. An Anthropic spokesperson confirmed the hire. Before joining Google, Sekhon worked as chief ...",
+    "published": "2026-11-16T23:34:04+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "DeepMind strategy chief Jasjeet Sekhon joins Anthropic",
+   "post": "Google DeepMind Chief Strategy Officer Jasjeet Sekhon has left the AI lab to join Anthropic, where he will focus on epistemic rigor and safety practices.",
+   "editor_note": "Confirm Sekhon's official title and role details at Anthropic beyond his X post announcement.",
+   "support": 0.8,
+   "published_at": "2026-11-16T23:34:04+00:00",
+   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
+   "expires_at": "2026-11-18T11:34:04+00:00",
+   "decision": 1.6,
+   "priority": 7.448333,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3807,8 +3861,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.402012,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.428307,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3835,7 +3889,35 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.372195,
+   "priority": 7.389725,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "f9c7f44758ed7ca9",
+   "item": {
+    "id": "f9c7f44758ed7ca9",
+    "title": "Microsoft Data Shows Claude Is Stalling Against Copilot in Office",
+    "url": "https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Anthropic’s latest push into enterprise apps rattled Microsoft investors last week. Microsoft’s own internal data paints a less threatening picture, at least so far. Usage of Anthropic features that allow people to do work inside Microsoft’s Office apps with Claude , such as sorting email or generating slide decks, has been falling further behind usage of Microsoft’s Copilot in recent months, acco…",
+    "published": "2026-11-16T16:01:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Claude usage lags behind Copilot in Microsoft Office",
+   "post": "Internal Microsoft data shows usage of Anthropic's Claude integration inside Office applications has fallen further behind Microsoft Copilot in recent months.",
+   "editor_note": "Check whether the Microsoft internal metrics cite specific user counts or percentage growth rates.",
+   "support": 0.96,
+   "published_at": "2026-11-16T16:01:00+00:00",
+   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
+   "expires_at": "2026-11-18T04:01:00+00:00",
+   "decision": 1.67,
+   "priority": 7.261914,
    "selection_reason": "Time-sensitive story"
   }
  ],
@@ -3973,12 +4055,13 @@
   "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks": "2026-11-16T15:08:11.432105+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat": "2026-11-16T15:37:52.771844+00:00",
   "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents": "2026-11-17T01:08:55.956472+00:00",
-  "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": "2026-11-17T02:08:14.487627+00:00"
+  "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": "2026-11-17T02:08:14.487627+00:00",
+  "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": "2026-11-17T02:38:31.625700+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
   "32933935200c2839": {
@@ -14190,6 +14273,81 @@
    "imp": 0.76,
    "ai": 0.07,
    "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "a127dfece4a2b361": {
+   "imp": 1.4,
+   "ai": 0.66,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "e0005e9b0d34fce5": {
+   "imp": 1.34,
+   "ai": 0.8,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "e7d67d163eea8f8e": {
+   "imp": 1.67,
+   "ai": 0.93,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "754dc2b7990a183f": {
+   "imp": 1.55,
+   "ai": 0.41,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "99e47c9091111334": {
+   "imp": 0.5,
+   "ai": 0.09,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "7801ae3ea920b54d": {
+   "imp": 1.1,
+   "ai": 0.6,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "cebb296c29e795e3": {
+   "imp": 1.15,
+   "ai": null,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "2687255e6cc03853": {
+   "imp": 0.51,
+   "ai": 0.08,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "cea08ebb87ea36e3": {
+   "imp": 0.2,
+   "ai": 0.02,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "ea240ae7a344080c": {
+   "imp": 0.43,
+   "ai": 0.08,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "538dd78740c61b2b": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "00d8a641361818dc": {
+   "imp": 0.38,
+   "ai": 0.05,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "942dd13a702e2ea5": {
+   "imp": 0.87,
+   "ai": 0.2,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "1a8cb8bc51abd6a6": {
+   "imp": 1.31,
+   "ai": 0.23,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
+  },
+  "0fe47f9f873e1f43": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-17T02:37:39.999182+00:00"
   }
  }
 }
