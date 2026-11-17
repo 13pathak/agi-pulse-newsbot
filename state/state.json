@@ -3726,6 +3726,24 @@
   },
   "https://huggingface.co/facebook/meta-encoder-v1": {
    "card": "MetaEncoder v1 Usage Requires transformers =5.15 (the first release with muse glimmer ); see requirements.txt . One 80 GB GPU holds the model in bf16. python from modeling metaencoder import MetaEncoder model = MetaEncoder.from pretrained(\"facebook/meta-encoder-v1\") MetaEncoder has three calls. Callers pass content and task descriptions; the wrapper writes every prompt itself, in the layout the encoder was trained on (see Prompt formatting). Inputs encode and retrieve take items . An item is a string, a PIL image, or a dict with any of text , image , images , video (a list of frames) and instruction . The instruction says what the embedding is for, e.g. \"Represent the given image.\" or \"Find a document image that matches the given query.\"; the same input embeds differently under different instructions, and queries and documents usually take different ones. 1. Encode python from PIL import Image docs = model.encode([{\"image\": Image.open(\"chart.png\")}, {\"image\": Image.open(\"slide.png\")}], instruction=\"Understand the content of the provided document image.\") MetaEncoder.similarity(docs, docs) cosine similarity matrix inputs is one item or a list of them; instruction applies to the item…"
+  },
+  "https://www.qbitai.com/2026/11/510688.html": {
+   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+   "desc": "瞄准「产业级世界模型」",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510592.html": {
+   "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+   "desc": "奥特曼首谈黄仁勋离职",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510652.html": {
+   "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+   "desc": "筛材料、找配方、开发新模型…拿下多项科研任务",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -3754,8 +3772,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.747236,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.764599,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3807,8 +3825,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.733114,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.750477,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3837,8 +3855,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.193106,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 8.219151,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -3865,8 +3883,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.680793,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.698156,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -3894,8 +3912,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.646163,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.663526,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3924,8 +3942,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.456436,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.48248,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3977,8 +3995,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.353941,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.340051,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4007,8 +4025,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.33434,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.329131,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4035,8 +4053,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.303337,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.3207,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4063,8 +4081,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.27496,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.261069,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4093,8 +4111,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.21184,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.237884,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4121,8 +4139,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.178428,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.164812,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   }
  ],
  "details_queue": [],
@@ -16656,6 +16674,136 @@
    "imp": 0.13,
    "ai": 0.02,
    "ts": "2026-11-17T14:37:24.218299+00:00"
+  },
+  "0b7ed92d40f784c3": {
+   "imp": 0.61,
+   "ai": 0.26,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "df92921082e9f46d": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "ed47f6db4915840c": {
+   "imp": 2.54,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "e1a87f9f921d4b9e": {
+   "imp": 1.97,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "de54dba0191d0c13": {
+   "imp": 1.68,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "f7e4a9ce098ef38c": {
+   "imp": 2.6,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "64497aa5406ed410": {
+   "imp": 2.15,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "13af9aa1fa9c8072": {
+   "imp": 2.18,
+   "ai": null,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "99fcc2b4ac813511": {
+   "imp": 1.47,
+   "ai": 0.93,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "84851a1265eccd2f": {
+   "imp": 2.42,
+   "ai": 0.96,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "68ae97c99f956ee8": {
+   "imp": 1.34,
+   "ai": 0.92,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "72b4f422235b15cb": {
+   "imp": 2.45,
+   "ai": 0.94,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "aa54811d50b5ee90": {
+   "imp": 1.45,
+   "ai": 0.96,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "cb1fb660e04a3bde": {
+   "imp": 0.64,
+   "ai": 0.13,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "e8a32e5f6965cfa2": {
+   "imp": 2.15,
+   "ai": 0.94,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "763eb7aac7c6ab33": {
+   "imp": 1.76,
+   "ai": 0.67,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "2991c89a77602ab9": {
+   "imp": 1.54,
+   "ai": 0.97,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "b032a95fdfdac97b": {
+   "imp": 1.43,
+   "ai": 0.95,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "b7c799c412c595b3": {
+   "imp": 1.51,
+   "ai": 0.86,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "deee7f6a93c88371": {
+   "imp": 1.3,
+   "ai": 0.95,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "2e889f09445b1051": {
+   "imp": 0.23,
+   "ai": 0.05,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "32f78cfd173ce60b": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "d8c1ed1f10beae85": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "db448f14cdadc432": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "565e81b83ed077e8": {
+   "imp": 1.02,
+   "ai": 0.87,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
+  },
+  "223dc7633712fc50": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-17T15:07:24.405597+00:00"
   }
  }
 }
