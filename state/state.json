@@ -1,15 +1,5 @@
 {
  "seen": {
-  "727d5469c2bf70f2": "2026-11-10T03:37:43.415221+00:00",
-  "110a0ea12a11fb9f": "2026-11-10T03:37:43.415221+00:00",
-  "370542d59f4e6f0b": "2026-11-10T03:37:43.415221+00:00",
-  "b11bf7d6e0b9fe78": "2026-11-10T03:37:43.415221+00:00",
-  "889e0797cdf0b561": "2026-11-10T03:37:43.415221+00:00",
-  "1ca7b722a40224fb": "2026-11-10T03:37:43.415221+00:00",
-  "a6485c0c371b99b1": "2026-11-10T03:37:43.415221+00:00",
-  "7dde1cb64548820a": "2026-11-10T03:37:43.415221+00:00",
-  "436189e323ff9a3b": "2026-11-10T03:37:43.415221+00:00",
-  "f3135f0075a53548": "2026-11-10T03:37:43.415221+00:00",
   "4a69b85f66d71ac7": "2026-11-10T04:07:20.803621+00:00",
   "f65bd15b4fae8d1f": "2026-11-10T04:07:20.803621+00:00",
   "a9c08f3809a1467e": "2026-11-10T04:07:20.803621+00:00",
@@ -1921,7 +1911,14 @@
   "ff4a8524ce31a335": "2026-11-17T03:07:34.188728+00:00",
   "718d68e733720195": "2026-11-17T03:07:34.188728+00:00",
   "e7d67d163eea8f8e": "2026-11-17T03:07:34.188728+00:00",
-  "c5cb67a9a739abfa": "2026-11-17T03:07:34.188728+00:00"
+  "c5cb67a9a739abfa": "2026-11-17T03:07:34.188728+00:00",
+  "42ea8ea09b0e04f5": "2026-11-17T03:37:22.449919+00:00",
+  "db7c7f240fcd6520": "2026-11-17T03:37:22.449919+00:00",
+  "cffcdea203316e35": "2026-11-17T03:37:22.449919+00:00",
+  "3778506668803933": "2026-11-17T03:37:22.449919+00:00",
+  "290fa5044e0f8699": "2026-11-17T03:37:22.449919+00:00",
+  "5e0e4079539992eb": "2026-11-17T03:37:22.449919+00:00",
+  "d61228b9bc67e0e1": "2026-11-17T03:37:22.449919+00:00"
  },
  "covered": [
   {
@@ -2059,11 +2056,15 @@
   {
    "headline": "Sam Altman acknowledges voter opposition to AI data center expansion",
    "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  {
+   "headline": "Chinese AI developers restrict offensive cyber capabilities",
+   "ts": "2026-11-17T03:37:22.449919+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3698,31 +3699,44 @@
  },
  "pending": [
   {
-   "id": "d61228b9bc67e0e1",
+   "id": "609f4b5b9b9f0b22",
    "item": {
-    "id": "d61228b9bc67e0e1",
-    "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
-    "published": "2026-11-16T23:00:00+00:00",
+    "id": "609f4b5b9b9f0b22",
+    "title": "Singapore seeks 'trusted access' to AI chips after new US curbs",
+    "url": "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-135908229,imgsize-75070.cms",
+    "snippet": "Singapore said Tuesday it was seeking \"trusted access\" to advanced AI chips after the United States imposed new curbs aimed at stopping Chinese firms from accessing the technology through overseas data centres. The curbs came days after a spy scandal forced Jensen Huang to quit as Nvidia chief, as questions emerged over whether Singapore-based Megaspeed aided Chinese firms in accessing advanced ar…",
+    "published": "2026-11-17T02:59:06+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "a72d5c1527664561",
+     "title": "Singapore seeks ‘trusted access’ to AI chips after new US curbs",
+     "url": "https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece",
+     "source": "The Hindu",
+     "image": "https://th-i.thgim.com/public/incoming/sawgox/article70560172.ece/alternates/LANDSCAPE_1200/2026-01-24T054406Z_1699215627_RC29VIA2DT7G_RTRMADP_3_NVIDIA-CHINA-JENSEN-HUANG.JPG",
+     "snippet": "Singapore is finding itself at the centre of the controversy as cloud computing firm Megaspeed, suspected of helping Chinese firms get around US export controls, is based there",
+     "published": "2026-11-17T03:10:26+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Chinese AI developers restrict offensive cyber capabilities",
-   "post": "Major Chinese AI firms are limiting offensive cybersecurity capabilities in their newest models following a proposed government ban on exporting AI tools that could aid cyberattacks.",
-   "editor_note": "Verify which specific AI models and developers Bloomberg identified as restricting cyber capabilities.",
-   "support": 0.95,
-   "published_at": "2026-11-16T23:00:00+00:00",
-   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
-   "expires_at": "2026-11-18T11:00:00+00:00",
-   "decision": 2.14,
-   "priority": 7.629867,
+   "headline": "Singapore seeks trusted access to US AI chips following curbs",
+   "post": "Singapore is seeking a trusted access framework with the US for advanced AI chips after Washington introduced new controls targeting foreign data centers.",
+   "editor_note": "Verify whether the US has formally responded to Singapore's request or specified criteria for trusted access.",
+   "support": 0.81,
+   "published_at": "2026-11-17T02:59:06+00:00",
+   "first_seen_at": "2026-11-17T03:37:22.449919+00:00",
+   "expires_at": "2026-11-18T14:59:06+00:00",
+   "decision": 1.95,
+   "priority": 7.63228,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3750,8 +3764,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T07:05:24+00:00",
    "decision": 2.01,
-   "priority": 7.509476,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.526724,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3803,8 +3817,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.486011,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.503259,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "f0fe9bca996d0e9c",
@@ -3831,8 +3845,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T11:34:04+00:00",
    "decision": 1.6,
-   "priority": 7.465638,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.482886,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3861,8 +3875,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.454102,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.448928,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3889,8 +3903,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.40703,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.424278,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3917,8 +3931,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.279219,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.296467,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4057,12 +4071,13 @@
   "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents": "2026-11-17T01:08:55.956472+00:00",
   "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": "2026-11-17T02:08:14.487627+00:00",
   "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store": "2026-11-17T02:38:31.625700+00:00",
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms": "2026-11-17T03:09:44.394597+00:00"
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms": "2026-11-17T03:09:44.394597+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models": "2026-11-17T03:38:43.849316+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
   "32933935200c2839": {
@@ -14429,6 +14444,81 @@
    "imp": 0.07,
    "ai": 0.02,
    "ts": "2026-11-17T03:07:34.188728+00:00"
+  },
+  "3778506668803933": {
+   "imp": 1.06,
+   "ai": 0.87,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "11cf327b1d2a1cfb": {
+   "imp": 0.67,
+   "ai": 0.09,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "273ee47899bb0da1": {
+   "imp": 0.68,
+   "ai": 0.13,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "a72d5c1527664561": {
+   "imp": 1.64,
+   "ai": 0.95,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "42ea8ea09b0e04f5": {
+   "imp": 2.19,
+   "ai": 0.94,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "8d0b3ca37049a074": {
+   "imp": 0.3,
+   "ai": 0.08,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "890e83d04967dcfb": {
+   "imp": 0.41,
+   "ai": 0.12,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "cffcdea203316e35": {
+   "imp": 1.36,
+   "ai": 0.93,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "ffaaf28968fdb6f8": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "52b70379ab94dd80": {
+   "imp": 1.29,
+   "ai": 0.59,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "5b8e0f03a1ab61c3": {
+   "imp": 0.33,
+   "ai": 0.09,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "6154dfc624193e36": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "a5955af31746c159": {
+   "imp": 0.71,
+   "ai": 0.06,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "23f3e2756aa8a88c": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
+  },
+  "d2d8844ff4056d3f": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-17T03:37:22.449919+00:00"
   }
  }
 }
