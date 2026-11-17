@@ -1,13 +1,5 @@
 {
  "seen": {
-  "6f6fff482120edaf": "2026-11-10T06:07:22.591193+00:00",
-  "d66ec553c6f121f9": "2026-11-10T06:07:22.591193+00:00",
-  "e3ad3d13360cfdb5": "2026-11-10T06:07:22.591193+00:00",
-  "7a3909db4649e1e1": "2026-11-10T06:07:22.591193+00:00",
-  "60076ff23d6c4415": "2026-11-10T06:07:22.591193+00:00",
-  "518485f63290c0f7": "2026-11-10T06:07:22.591193+00:00",
-  "29dc3ada50a44e0a": "2026-11-10T06:07:22.591193+00:00",
-  "d37a9c8f177ae303": "2026-11-10T06:07:22.591193+00:00",
   "aa9d06fdcfe1a35b": "2026-11-10T06:37:20.139290+00:00",
   "ea267fa8ce7a9281": "2026-11-10T06:37:20.139290+00:00",
   "e5c9495af66a39f2": "2026-11-10T06:37:20.139290+00:00",
@@ -1921,7 +1913,12 @@
   "4b3b678dd2d69e9a": "2026-11-17T05:37:34.818659+00:00",
   "c01ec4e76f05b872": "2026-11-17T05:37:34.818659+00:00",
   "7fae55d39fd6e14e": "2026-11-17T05:37:34.818659+00:00",
-  "bdc8e7eacc0c5b79": "2026-11-17T05:37:34.818659+00:00"
+  "bdc8e7eacc0c5b79": "2026-11-17T05:37:34.818659+00:00",
+  "c94b644d8baa0f4d": "2026-11-17T06:07:22.380455+00:00",
+  "4e77b606edcdf203": "2026-11-17T06:07:22.380455+00:00",
+  "fe451fc663d439f7": "2026-11-17T06:07:22.380455+00:00",
+  "5f9e5f6a7327c593": "2026-11-17T06:07:22.380455+00:00",
+  "f0fe9bca996d0e9c": "2026-11-17T06:07:22.380455+00:00"
  },
  "covered": [
   {
@@ -2075,11 +2072,15 @@
   {
    "headline": "Nvidia announces Rubin HPC GPU with over 50,000 CUDA cores",
    "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  {
+   "headline": "DeepMind strategy chief Jasjeet Sekhon joins Anthropic",
+   "ts": "2026-11-17T06:07:22.380455+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3714,34 +3715,6 @@
  },
  "pending": [
   {
-   "id": "f0fe9bca996d0e9c",
-   "item": {
-    "id": "f0fe9bca996d0e9c",
-    "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
-    "url": "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Google DeepMind’s chief strategy officer Jasjeet Sekhon has left for a role at Anthropic, he said Monday. “I am working to ensure that Claude practices and values epistemic rigor,” he posted on X. An Anthropic spokesperson confirmed the hire. Before joining Google, Sekhon worked as chief ...",
-    "published": "2026-11-16T23:34:04+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "DeepMind strategy chief Jasjeet Sekhon joins Anthropic",
-   "post": "Google DeepMind Chief Strategy Officer Jasjeet Sekhon has left the AI lab to join Anthropic, where he will focus on epistemic rigor and safety practices.",
-   "editor_note": "Confirm Sekhon's official title and role details at Anthropic beyond his X post announcement.",
-   "support": 0.8,
-   "published_at": "2026-11-16T23:34:04+00:00",
-   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
-   "expires_at": "2026-11-18T11:34:04+00:00",
-   "decision": 1.6,
-   "priority": 7.55245,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "ebff97034b293e5f",
    "item": {
     "id": "ebff97034b293e5f",
@@ -3766,8 +3739,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.493841,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.511082,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3796,8 +3769,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.428059,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.422887,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3849,8 +3822,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.072823,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.090064,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3877,8 +3850,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.86603,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.883271,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
@@ -4021,12 +3994,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models": "2026-11-17T03:38:43.849316+00:00",
   "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778": "2026-11-17T04:38:07.123847+00:00",
   "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms": "2026-11-17T05:11:02.650099+00:00",
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": "2026-11-17T05:38:06.314222+00:00"
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": "2026-11-17T05:38:06.314222+00:00",
+  "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic": "2026-11-17T06:08:07.269728+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
   "32933935200c2839": {
@@ -14778,6 +14752,66 @@
    "imp": 0.34,
    "ai": 0.09,
    "ts": "2026-11-17T05:37:34.818659+00:00"
+  },
+  "49a752c63bbc9f3d": {
+   "imp": 0.57,
+   "ai": 0.09,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "c94b644d8baa0f4d": {
+   "imp": 2.16,
+   "ai": 0.98,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "4e77b606edcdf203": {
+   "imp": 1.51,
+   "ai": 0.94,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "b75ab9083fa22b59": {
+   "imp": 0.28,
+   "ai": 0.08,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "c0932edc108fb180": {
+   "imp": 0.17,
+   "ai": 0.01,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "80c967847e166e60": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "9ddaaf90af1b2b7c": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "97f1a7335480adb6": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "42bc629e96d42468": {
+   "imp": 1.33,
+   "ai": 0.67,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "f7d2f9cd7ecfd453": {
+   "imp": 0.29,
+   "ai": 0.04,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "0a246253408a133e": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
+  },
+  "0c3ee80378fc626a": {
+   "imp": 0.2,
+   "ai": 0.12,
+   "ts": "2026-11-17T06:07:22.380455+00:00"
   }
  }
 }
