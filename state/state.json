@@ -1,8 +1,5 @@
 {
  "seen": {
-  "1c08c141aa01274e": "2026-11-10T12:07:21.641045+00:00",
-  "6f038b9fd72d69e8": "2026-11-10T12:07:21.641045+00:00",
-  "1afd9e573768b3f1": "2026-11-10T12:07:21.641045+00:00",
   "7639d6d71e8a2958": "2026-11-10T12:37:25.483982+00:00",
   "46ecb159c1535b09": "2026-11-10T12:37:25.483982+00:00",
   "320f21650d877f1a": "2026-11-10T12:37:25.483982+00:00",
@@ -1931,13 +1928,16 @@
   "40bf3f947e78c5c1": "2026-11-17T11:37:25.215311+00:00",
   "fc341a48cfdd15e3": "2026-11-17T11:37:25.215311+00:00",
   "70d643106690dbe0": "2026-11-17T11:37:25.215311+00:00",
-  "adbc5af1f29ee55a": "2026-11-17T11:37:25.215311+00:00"
+  "adbc5af1f29ee55a": "2026-11-17T11:37:25.215311+00:00",
+  "193d743a0575fc50": "2026-11-17T12:07:30.221051+00:00",
+  "470e621e806da0a5": "2026-11-17T12:07:30.221051+00:00",
+  "f8ffe1c373335642": "2026-11-17T12:07:30.221051+00:00",
+  "a2bbbe5d8a449775": "2026-11-17T12:07:30.221051+00:00",
+  "c90119e6ab0d70b9": "2026-11-17T12:07:30.221051+00:00",
+  "8da944b86576ac64": "2026-11-17T12:07:30.221051+00:00",
+  "5362371a3dfac3a7": "2026-11-17T12:07:30.221051+00:00"
  },
  "covered": [
-  {
-   "headline": "Megaspeed reportedly brokered $12 billion in Nvidia chip orders for China",
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
   {
    "headline": "US Congress moves toward stricter AI chip export controls",
    "ts": "2026-11-15T13:07:20.972232+00:00"
@@ -2113,11 +2113,15 @@
   {
    "headline": "OpenAI partners with NATO on cyber defenses",
    "ts": "2026-11-17T11:37:25.215311+00:00"
+  },
+  {
+   "headline": "Alphabet Isomorphic Labs raises $5 billion funding round",
+   "ts": "2026-11-17T12:07:30.221051+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3779,8 +3783,8 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:39:35+00:00",
    "decision": 1.83,
-   "priority": 8.683545,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.700955,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3832,8 +3836,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.628957,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.646366,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3862,8 +3866,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.036871,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 8.062985,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -3891,8 +3895,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.542006,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.559416,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3921,8 +3925,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.365587,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.360364,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3951,8 +3955,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.3002,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.326315,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4004,8 +4008,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.281063,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.298473,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4032,8 +4036,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.202082,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.219491,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4060,8 +4064,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.074271,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.09168,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4090,8 +4094,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.055604,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.081718,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ],
  "details_queue": [],
@@ -4244,12 +4248,13 @@
   "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem": "2026-11-17T09:37:59.583503+00:00",
   "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions": "2026-11-17T10:09:23.119345+00:00",
   "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers": "2026-11-17T11:08:32.553095+00:00",
-  "https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?mod=rss_Technology": "2026-11-17T11:40:35.943422+00:00"
+  "https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?mod=rss_Technology": "2026-11-17T11:40:35.943422+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round": "2026-11-17T12:08:44.842855+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
   "32933935200c2839": {
@@ -16176,6 +16181,101 @@
    "imp": 0.59,
    "ai": 0.18,
    "ts": "2026-11-17T11:37:25.215311+00:00"
+  },
+  "5362371a3dfac3a7": {
+   "imp": 2.67,
+   "ai": 0.98,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "a2bbbe5d8a449775": {
+   "imp": 2.27,
+   "ai": 0.96,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "470e621e806da0a5": {
+   "imp": 2.49,
+   "ai": 0.96,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "c90119e6ab0d70b9": {
+   "imp": 1.3,
+   "ai": 0.6,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "f8ffe1c373335642": {
+   "imp": 0.94,
+   "ai": 0.67,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "193d743a0575fc50": {
+   "imp": 1.49,
+   "ai": null,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "225cd39ffb464f0a": {
+   "imp": 0.39,
+   "ai": 0.39,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "d5407ce8fa260693": {
+   "imp": 0.21,
+   "ai": 0.12,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "c4344ff7ba9a27de": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "684263f3ef3efc54": {
+   "imp": 0.83,
+   "ai": 0.12,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "ef50b40f65205ba3": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "289b98f66f4e9002": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "dc0ea38dbe20c881": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "423f77cd4edb5e41": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "7a082735f13e41df": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "cb1657537516a4dc": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "b82e7120f193bc1e": {
+   "imp": 0.13,
+   "ai": 0.05,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "5488ce336def2214": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "c1d610d5bf6207b6": {
+   "imp": 0.35,
+   "ai": 0.07,
+   "ts": "2026-11-17T12:07:30.221051+00:00"
   }
  }
 }
