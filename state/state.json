@@ -1,16 +1,5 @@
 {
  "seen": {
-  "aba98658cee95348": "2026-11-10T11:07:22.430225+00:00",
-  "a29c3c00a5b94c82": "2026-11-10T11:07:22.430225+00:00",
-  "06438ee7f5b07377": "2026-11-10T11:07:22.430225+00:00",
-  "825d64d4b53b24e5": "2026-11-10T11:07:22.430225+00:00",
-  "acfe26483d4cfe50": "2026-11-10T11:07:22.430225+00:00",
-  "12cebaf2c2f39a7d": "2026-11-10T11:07:22.430225+00:00",
-  "b2740ce6d5b8ecbb": "2026-11-10T11:07:22.430225+00:00",
-  "3278af6544109bbf": "2026-11-10T11:07:22.430225+00:00",
-  "d2982ec409cadf03": "2026-11-10T11:07:22.430225+00:00",
-  "15ea90e2526f23de": "2026-11-10T11:07:22.430225+00:00",
-  "03e4c5bada74bc31": "2026-11-10T11:07:22.430225+00:00",
   "85a32fe1244f6425": "2026-11-10T11:37:22.099252+00:00",
   "43cbb23cd0cbc8d6": "2026-11-10T11:37:22.099252+00:00",
   "5ce9cbe56c17f5ad": "2026-11-10T11:37:22.099252+00:00",
@@ -1922,7 +1911,33 @@
   "f3c942e06b7da750": "2026-11-17T09:37:24.524929+00:00",
   "3fd3c56f351702f6": "2026-11-17T10:07:22.889082+00:00",
   "6d0c63fb754b9fe7": "2026-11-17T10:07:22.889082+00:00",
-  "a5920ea194e047ff": "2026-11-17T10:07:22.889082+00:00"
+  "a5920ea194e047ff": "2026-11-17T10:07:22.889082+00:00",
+  "b95791744e5c9319": "2026-11-17T11:07:23.266719+00:00",
+  "35e0894e52f89ef0": "2026-11-17T11:07:23.266719+00:00",
+  "0c786859dcb8b253": "2026-11-17T11:07:23.266719+00:00",
+  "836da8d1dcb93bcc": "2026-11-17T11:07:23.266719+00:00",
+  "b6953bc8cc8804ad": "2026-11-17T11:07:23.266719+00:00",
+  "1b45c62cb4f9b4d4": "2026-11-17T11:07:23.266719+00:00",
+  "6c7ede5aa0a30c78": "2026-11-17T11:07:23.266719+00:00",
+  "a7b4a5c38fe56596": "2026-11-17T11:07:23.266719+00:00",
+  "c7fadd9bc3372b3a": "2026-11-17T11:07:23.266719+00:00",
+  "6ccd6024d7a69413": "2026-11-17T11:07:23.266719+00:00",
+  "a234b7889c5bff1c": "2026-11-17T11:07:23.266719+00:00",
+  "417e52afc41bf5a2": "2026-11-17T11:07:23.266719+00:00",
+  "556dc0f29464f771": "2026-11-17T11:07:23.266719+00:00",
+  "3d74fd1c6c0aab44": "2026-11-17T11:07:23.266719+00:00",
+  "844f2945dfec04b3": "2026-11-17T11:07:23.266719+00:00",
+  "b2a6a9322dd3027e": "2026-11-17T11:07:23.266719+00:00",
+  "a347a6ea8eee308f": "2026-11-17T11:07:23.266719+00:00",
+  "e4e59f960ee245cb": "2026-11-17T11:07:23.266719+00:00",
+  "ee288c8acb3fd8a7": "2026-11-17T11:07:23.266719+00:00",
+  "d9741dd16d40c910": "2026-11-17T11:07:23.266719+00:00",
+  "65a290afdbae3413": "2026-11-17T11:07:23.266719+00:00",
+  "70c29550f3d8b705": "2026-11-17T11:07:23.266719+00:00",
+  "0db154ae9b6e664e": "2026-11-17T11:07:23.266719+00:00",
+  "5985af2e2b959446": "2026-11-17T11:07:23.266719+00:00",
+  "94343c90bc3eea2f": "2026-11-17T11:07:23.266719+00:00",
+  "518c47915c16d025": "2026-11-17T11:07:23.266719+00:00"
  },
  "covered": [
   {
@@ -2096,11 +2111,15 @@
   {
    "headline": "Accenture and Google Cloud expand AI education across Indian institutions",
    "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  {
+   "headline": "Sarvam AI launches Token Factory on Indian servers",
+   "ts": "2026-11-17T11:07:23.266719+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3731,6 +3750,9 @@
    "desc": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/2Vrrt2eTu8OfGbuliOLQ99/cddb51f7a917c176c63b4d2318a20f15/holiday-extras-dots-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-12T09:30:00+00:00"
+  },
+  "https://huggingface.co/facebook/meta-encoder-v1": {
+   "card": "MetaEncoder v1 Usage Requires transformers =5.15 (the first release with muse glimmer ); see requirements.txt . One 80 GB GPU holds the model in bf16. python from modeling metaencoder import MetaEncoder model = MetaEncoder.from pretrained(\"facebook/meta-encoder-v1\") MetaEncoder has three calls. Callers pass content and task descriptions; the wrapper writes every prompt itself, in the layout the encoder was trained on (see Prompt formatting). Inputs encode and retrieve take items . An item is a string, a PIL image, or a dict with any of text , image , images , video (a list of frames) and instruction . The instruction says what the embedding is for, e.g. \"Represent the given image.\" or \"Find a document image that matches the given query.\"; the same input embeds differently under different instructions, and queries and documents usually take different ones. 1. Encode python from PIL import Image docs = model.encode([{\"image\": Image.open(\"chart.png\")}, {\"image\": Image.open(\"slide.png\")}], instruction=\"Understand the content of the provided document image.\") MetaEncoder.similarity(docs, docs) cosine similarity matrix inputs is one item or a list of them; instruction applies to the item…"
   }
  },
  "pending": [
@@ -3759,8 +3781,38 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:39:35+00:00",
    "decision": 1.83,
-   "priority": 8.648818,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.666165,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "0145fb90b8379117",
+   "item": {
+    "id": "0145fb90b8379117",
+    "title": "Sage S2.1 Flash Technical Report",
+    "url": "https://arxiv.org/abs/2611.21072",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Intern Large Models. Upvotes: 36. Abstract: We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as specialized workflows involving machine learning experiments and scientific software. Task completion is checked against execution results, changes in environment state, or submitted artifacts. We evaluate Sage S1.5 Flash on 33 benchmarks across seven domains. In the primary comparison against five baselines, it ranks first on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench~2, and second on OSWorld-Verified (85.2), WebArena-Verified (67.6), and DeepResearch Bench~II (54.2). These results show particular strengths in using documentary evidence, producing verifiable workbooks, and carrying out machine learning tasks, alongside competitive performance in desktop and browser workflows that require the model to act on visual feedback.",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 36,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21072.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "routine",
+   "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
+   "post": "Researchers at Intern Large Models released Sage S1.5 Flash, a 320-billion-parameter mixture-of-experts model built for scientific reasoning and agent workflows.",
+   "editor_note": "Check benchmark domain scope and whether specific tool-use execution results are independently verified.",
+   "support": 0.77,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.88,
+   "priority": 8.010801,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "1336358d761ba076",
@@ -3788,8 +3840,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.507279,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.524626,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3818,8 +3870,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.376005,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.370801,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3848,8 +3900,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.248109,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.274131,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3901,8 +3953,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.246336,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.263684,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3929,8 +3981,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.167355,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.184702,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3957,8 +4009,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.039544,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.056891,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -3987,8 +4039,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.003513,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.029534,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
@@ -4139,12 +4191,13 @@
   "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content": "2026-11-17T08:07:47.370868+00:00",
   "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion": "2026-11-17T09:10:56.448099+00:00",
   "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem": "2026-11-17T09:37:59.583503+00:00",
-  "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions": "2026-11-17T10:09:23.119345+00:00"
+  "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions": "2026-11-17T10:09:23.119345+00:00",
+  "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers": "2026-11-17T11:08:32.553095+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
   "32933935200c2839": {
@@ -15781,6 +15834,171 @@
    "imp": 0.15,
    "ai": 0.04,
    "ts": "2026-11-17T10:37:24.673003+00:00"
+  },
+  "d9741dd16d40c910": {
+   "imp": 0.96,
+   "ai": null,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "a7b4a5c38fe56596": {
+   "imp": 1.6,
+   "ai": null,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "e4e59f960ee245cb": {
+   "imp": 1.38,
+   "ai": null,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "0c786859dcb8b253": {
+   "imp": 1.91,
+   "ai": 0.95,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "70c29550f3d8b705": {
+   "imp": 0.69,
+   "ai": 0.94,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "a347a6ea8eee308f": {
+   "imp": 0.76,
+   "ai": 0.94,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "6c7ede5aa0a30c78": {
+   "imp": 1.82,
+   "ai": 0.92,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "556dc0f29464f771": {
+   "imp": 0.83,
+   "ai": 0.93,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "1b45c62cb4f9b4d4": {
+   "imp": 1.75,
+   "ai": 0.93,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "836da8d1dcb93bcc": {
+   "imp": 1.88,
+   "ai": 0.97,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "35e0894e52f89ef0": {
+   "imp": 2.31,
+   "ai": 0.96,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "c7fadd9bc3372b3a": {
+   "imp": 1.52,
+   "ai": 0.5,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "b2a6a9322dd3027e": {
+   "imp": 0.9,
+   "ai": 0.68,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "b95791744e5c9319": {
+   "imp": 0.93,
+   "ai": null,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "0db154ae9b6e664e": {
+   "imp": 0.32,
+   "ai": null,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "20ab90ff962500b8": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "772f71efce727e2f": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "f4ca3a19032b7286": {
+   "imp": 1.07,
+   "ai": 0.42,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "c1b4ad0fbe6e4395": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "5cd2b1f410f61c7a": {
+   "imp": 0.14,
+   "ai": 0.07,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "a1d89e6795b68e48": {
+   "imp": 0.16,
+   "ai": 0.08,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "eb854cc4d30597ff": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "fac4623dbce081e9": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "1d1a1f99e3c974a7": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "bd59eac228b90340": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "91dd3b83d36b649b": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "be929f8e770dd279": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "eff8dc87869e7ced": {
+   "imp": 0.7,
+   "ai": 0.23,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "c2fc9632d02ffa9b": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "53dfd886e8beb8af": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "e0fa18ec6b12fed3": {
+   "imp": 0.69,
+   "ai": 0.19,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "735087470d6835cf": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
+  },
+  "02c6b09e7e85c86a": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-17T11:07:23.266719+00:00"
   }
  }
 }
