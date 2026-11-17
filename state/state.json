@@ -1,14 +1,5 @@
 {
  "seen": {
-  "7011c57b5c7cbee2": "2026-11-10T09:37:21.848454+00:00",
-  "fd733d41128dbbe6": "2026-11-10T09:37:21.848454+00:00",
-  "4d67c691104dde21": "2026-11-10T09:37:21.848454+00:00",
-  "0ef5ef1aaa9ee888": "2026-11-10T09:37:21.848454+00:00",
-  "532df5f40579c674": "2026-11-10T09:37:21.848454+00:00",
-  "81b9d4a267b740f0": "2026-11-10T09:37:21.848454+00:00",
-  "59c12dcc0a4b9705": "2026-11-10T09:37:21.848454+00:00",
-  "20afccfb79b5a9df": "2026-11-10T09:37:21.848454+00:00",
-  "24d961941c1d2ae1": "2026-11-10T09:37:21.848454+00:00",
   "773ccc33bf760d65": "2026-11-10T10:07:23.436183+00:00",
   "19d841f976c08f92": "2026-11-10T10:07:23.436183+00:00",
   "cf81ab0a7a0f0215": "2026-11-10T10:07:23.436183+00:00",
@@ -1929,7 +1920,12 @@
   "ce45ccb38910dfc5": "2026-11-17T09:07:46.687086+00:00",
   "75e2990630589902": "2026-11-17T09:07:46.687086+00:00",
   "0e130217634b8621": "2026-11-17T09:07:46.687086+00:00",
-  "272333516a9dc780": "2026-11-17T09:07:46.687086+00:00"
+  "272333516a9dc780": "2026-11-17T09:07:46.687086+00:00",
+  "b85340a45a89181b": "2026-11-17T09:37:24.524929+00:00",
+  "5f9ed380641fdbcd": "2026-11-17T09:37:24.524929+00:00",
+  "c2d983b8bde133e8": "2026-11-17T09:37:24.524929+00:00",
+  "df40b77d3d237010": "2026-11-17T09:37:24.524929+00:00",
+  "f3c942e06b7da750": "2026-11-17T09:37:24.524929+00:00"
  },
  "covered": [
   {
@@ -2103,11 +2099,15 @@
   {
    "headline": "OpenAI appoints Pragya Misra to lead India and South Asia business",
    "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  {
+   "headline": "Karnataka launches six initiatives for AI and semiconductor development",
+   "ts": "2026-11-17T09:37:24.524929+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3742,34 +3742,6 @@
  },
  "pending": [
   {
-   "id": "f3c942e06b7da750",
-   "item": {
-    "id": "f3c942e06b7da750",
-    "title": "Karnataka Unveils 6 Initiatives to Strengthen AI and Semiconductor Ecosystem",
-    "url": "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1794903686957-weyads.webp",
-    "snippet": "The Karnataka government has launched six initiatives to lead the next phase of technological development through its research institutions, startup ecosystem, and skilled workforce. At the Bengaluru Tech Summit 2026, Karnataka Chief Minister D K Shivakumar officially launched the Karnataka AI Hub. Established at IIIT-Bengaluru, it will focus on AI research, skilling, innovation, and entrepreneurs…",
-    "published": "2026-11-17T08:21:33+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Karnataka launches six initiatives for AI and semiconductor development",
-   "post": "The Karnataka government has launched six initiatives, including the Karnataka AI Hub established at IIIT-Bengaluru, to advance local AI research, skilling, and the startup ecosystem.",
-   "editor_note": "Check specific implementation milestones or funding allocations for the six launched initiatives.",
-   "support": 0.85,
-   "published_at": "2026-11-17T08:21:33+00:00",
-   "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
-   "expires_at": "2026-11-18T20:21:33+00:00",
-   "decision": 2.12,
-   "priority": 8.685265,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "a5920ea194e047ff",
    "item": {
     "id": "a5920ea194e047ff",
@@ -3794,7 +3766,7 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:46:30+00:00",
    "decision": 1.88,
-   "priority": 8.616816,
+   "priority": 8.633963,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3822,7 +3794,7 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:39:35+00:00",
    "decision": 1.83,
-   "priority": 8.596947,
+   "priority": 8.614094,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3852,8 +3824,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.391566,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.386422,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3905,8 +3877,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.194465,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.211612,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3935,8 +3907,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.170303,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.196024,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3963,8 +3935,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.115484,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.132631,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3991,8 +3963,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.987673,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.00482,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4021,8 +3993,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.925707,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.951428,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -4171,12 +4143,13 @@
   "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17": "2026-11-17T07:07:53.694245+00:00",
   "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386": "2026-11-17T07:37:57.161249+00:00",
   "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content": "2026-11-17T08:07:47.370868+00:00",
-  "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion": "2026-11-17T09:10:56.448099+00:00"
+  "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion": "2026-11-17T09:10:56.448099+00:00",
+  "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem": "2026-11-17T09:37:59.583503+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
   "32933935200c2839": {
@@ -15558,6 +15531,71 @@
    "imp": 0.08,
    "ai": 0.02,
    "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "b85340a45a89181b": {
+   "imp": 1.89,
+   "ai": 0.9,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "df40b77d3d237010": {
+   "imp": 1.0,
+   "ai": 0.61,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "5f9ed380641fdbcd": {
+   "imp": 1.22,
+   "ai": 0.91,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "ef202e7f01fc1e8a": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "38c923a1638a1d79": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "dc101725366f789c": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "ed2b587ce7c7ae69": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "3d3614ef9eacca0d": {
+   "imp": 0.82,
+   "ai": 0.15,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "234c7bbe45483331": {
+   "imp": 1.13,
+   "ai": 0.6,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "1e0d6d0d026083dd": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "69fbdf77d933d5e1": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "dc2b2d7bf3614a47": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "5218f3ab0f7a5e1c": {
+   "imp": 0.36,
+   "ai": 0.06,
+   "ts": "2026-11-17T09:37:24.524929+00:00"
   }
  }
 }
