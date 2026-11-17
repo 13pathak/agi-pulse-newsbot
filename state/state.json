@@ -1,26 +1,5 @@
 {
  "seen": {
-  "7639d6d71e8a2958": "2026-11-10T12:37:25.483982+00:00",
-  "46ecb159c1535b09": "2026-11-10T12:37:25.483982+00:00",
-  "320f21650d877f1a": "2026-11-10T12:37:25.483982+00:00",
-  "0cfe6d0face922da": "2026-11-10T12:37:25.483982+00:00",
-  "9202f7bd2594eea9": "2026-11-10T12:37:25.483982+00:00",
-  "82fda640970b5538": "2026-11-10T12:37:25.483982+00:00",
-  "00391c6af4e0cd8f": "2026-11-10T12:37:25.483982+00:00",
-  "fc17e32685e90d5e": "2026-11-10T12:37:25.483982+00:00",
-  "56bf0301b656b618": "2026-11-10T12:37:25.483982+00:00",
-  "97defec9b921b88b": "2026-11-10T12:37:25.483982+00:00",
-  "4d0571f085d4db84": "2026-11-10T12:37:25.483982+00:00",
-  "18691c8b2233dd12": "2026-11-10T12:37:25.483982+00:00",
-  "8ef7190c4507d2f2": "2026-11-10T12:37:25.483982+00:00",
-  "75272258a8aaf9db": "2026-11-10T12:37:25.483982+00:00",
-  "1be315a64e872a3e": "2026-11-10T12:37:25.483982+00:00",
-  "228d0208bc891b62": "2026-11-10T12:37:25.483982+00:00",
-  "029bed06dbefb1c9": "2026-11-10T12:37:25.483982+00:00",
-  "30e79c4547309e92": "2026-11-10T12:37:25.483982+00:00",
-  "e176f6978d8c469f": "2026-11-10T12:37:25.483982+00:00",
-  "54890285b98f04cf": "2026-11-10T12:37:25.483982+00:00",
-  "3f139cc385d98e43": "2026-11-10T12:37:25.483982+00:00",
   "bd74b7cf0c1bc812": "2026-11-10T13:07:23.002969+00:00",
   "16147b47fe778181": "2026-11-10T13:07:23.002969+00:00",
   "df3675d7a4445269": "2026-11-10T13:07:23.002969+00:00",
@@ -1935,7 +1914,11 @@
   "a2bbbe5d8a449775": "2026-11-17T12:07:30.221051+00:00",
   "c90119e6ab0d70b9": "2026-11-17T12:07:30.221051+00:00",
   "8da944b86576ac64": "2026-11-17T12:07:30.221051+00:00",
-  "5362371a3dfac3a7": "2026-11-17T12:07:30.221051+00:00"
+  "5362371a3dfac3a7": "2026-11-17T12:07:30.221051+00:00",
+  "357aa42f9e6729e7": "2026-11-17T12:37:24.808192+00:00",
+  "0ee0cfa58eb2e86d": "2026-11-17T12:37:24.808192+00:00",
+  "ffde1170e2dba5c6": "2026-11-17T12:37:24.808192+00:00",
+  "0184ae79e03b2eb7": "2026-11-17T12:37:24.808192+00:00"
  },
  "covered": [
   {
@@ -2117,11 +2100,15 @@
   {
    "headline": "Alphabet Isomorphic Labs raises $5 billion funding round",
    "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  {
+   "headline": "Anthropic prepares for public listing with Coatue holding $10 billion stake",
+   "ts": "2026-11-17T12:37:24.808192+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3783,8 +3770,8 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:39:35+00:00",
    "decision": 1.83,
-   "priority": 8.700955,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.718264,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3836,8 +3823,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.646366,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.663675,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3866,8 +3853,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.062985,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 8.088948,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -3895,8 +3882,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.559416,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.576725,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3925,8 +3912,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.360364,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.355171,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3955,8 +3942,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.326315,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.352278,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4008,8 +3995,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.298473,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.315782,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4036,8 +4023,36 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.219491,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.2368,
+   "selection_reason": "Editorial importance; waiting 10.5h"
+  },
+  {
+   "id": "3decd8b5d05673e4",
+   "item": {
+    "id": "3decd8b5d05673e4",
+    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
+    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
+    "published": "2026-11-17T12:17:02+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
+   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
+   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
+   "support": 0.85,
+   "published_at": "2026-11-17T12:17:02+00:00",
+   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
+   "expires_at": "2026-11-19T00:17:02+00:00",
+   "decision": 2.23,
+   "priority": 7.233898,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4064,8 +4079,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.09168,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.108989,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4094,8 +4109,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.081718,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.107682,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ],
  "details_queue": [],
@@ -4249,12 +4264,13 @@
   "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions": "2026-11-17T10:09:23.119345+00:00",
   "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers": "2026-11-17T11:08:32.553095+00:00",
   "https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?mod=rss_Technology": "2026-11-17T11:40:35.943422+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round": "2026-11-17T12:08:44.842855+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round": "2026-11-17T12:08:44.842855+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker": "2026-11-17T12:39:01.598861+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
   "32933935200c2839": {
@@ -16276,6 +16292,76 @@
    "imp": 0.35,
    "ai": 0.07,
    "ts": "2026-11-17T12:07:30.221051+00:00"
+  },
+  "ffde1170e2dba5c6": {
+   "imp": 1.33,
+   "ai": 0.46,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "0184ae79e03b2eb7": {
+   "imp": 2.51,
+   "ai": 0.94,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "357aa42f9e6729e7": {
+   "imp": 1.83,
+   "ai": 0.9,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "0ee0cfa58eb2e86d": {
+   "imp": 1.32,
+   "ai": 0.84,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "3decd8b5d05673e4": {
+   "imp": 2.23,
+   "ai": 0.97,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "11364f549a51dac9": {
+   "imp": 0.18,
+   "ai": 0.01,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "eb5b411f7e90fdeb": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "8bb42fe1bcdf5cc2": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "9d96d568386a7289": {
+   "imp": 1.53,
+   "ai": 0.47,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "21e5f6d7ce3ffe91": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "d0f880c4f9d2b065": {
+   "imp": 0.87,
+   "ai": 0.2,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "53f08a956184db1c": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "ec3170fa02d4e70e": {
+   "imp": 0.58,
+   "ai": 0.09,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "18663335af9ea668": {
+   "imp": 1.45,
+   "ai": 0.18,
+   "ts": "2026-11-17T12:37:24.808192+00:00"
   }
  }
 }
