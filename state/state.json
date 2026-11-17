@@ -1,17 +1,5 @@
 {
  "seen": {
-  "bd74b7cf0c1bc812": "2026-11-10T13:07:23.002969+00:00",
-  "16147b47fe778181": "2026-11-10T13:07:23.002969+00:00",
-  "df3675d7a4445269": "2026-11-10T13:07:23.002969+00:00",
-  "abd2c47a1388b3da": "2026-11-10T13:07:23.002969+00:00",
-  "288844aa1b89ae14": "2026-11-10T13:07:23.002969+00:00",
-  "6999615490c266f2": "2026-11-10T13:07:23.002969+00:00",
-  "d8a967756fad10d6": "2026-11-10T13:07:23.002969+00:00",
-  "028fe8b39e84624d": "2026-11-10T13:07:23.002969+00:00",
-  "2acddc05cbf9a5c9": "2026-11-10T13:07:23.002969+00:00",
-  "67a53b758af66ffe": "2026-11-10T13:07:23.002969+00:00",
-  "b6a3bc9fd02be1ea": "2026-11-10T13:07:23.002969+00:00",
-  "f0977b2d7bfa051c": "2026-11-10T13:07:23.002969+00:00",
   "f885ef769180b46f": "2026-11-10T13:37:22.908739+00:00",
   "444f3b4a7928a3a6": "2026-11-10T13:37:22.908739+00:00",
   "0379a61418ab7af0": "2026-11-10T13:37:22.908739+00:00",
@@ -1918,13 +1906,20 @@
   "357aa42f9e6729e7": "2026-11-17T12:37:24.808192+00:00",
   "0ee0cfa58eb2e86d": "2026-11-17T12:37:24.808192+00:00",
   "ffde1170e2dba5c6": "2026-11-17T12:37:24.808192+00:00",
-  "0184ae79e03b2eb7": "2026-11-17T12:37:24.808192+00:00"
+  "0184ae79e03b2eb7": "2026-11-17T12:37:24.808192+00:00",
+  "ff3a14412f9f1a02": "2026-11-17T13:07:27.117770+00:00",
+  "6344945c04695554": "2026-11-17T13:07:27.117770+00:00",
+  "bb8ed4a32dc98406": "2026-11-17T13:07:27.117770+00:00",
+  "0e99676a63ec5372": "2026-11-17T13:07:27.117770+00:00",
+  "68702b9d51dbca99": "2026-11-17T13:07:27.117770+00:00",
+  "8e3b07fd9f47da16": "2026-11-17T13:07:27.117770+00:00",
+  "d0237e60f42717d8": "2026-11-17T13:07:27.117770+00:00",
+  "2e92777af3f5b283": "2026-11-17T13:07:27.117770+00:00",
+  "81b0d3860e77689d": "2026-11-17T13:07:27.117770+00:00",
+  "31e0b12526468f2b": "2026-11-17T13:07:27.117770+00:00",
+  "8d86fa1cf0212392": "2026-11-17T13:07:27.117770+00:00"
  },
  "covered": [
-  {
-   "headline": "US Congress moves toward stricter AI chip export controls",
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
   {
    "headline": "Nvidia appeals to Taiwan over employee AI chip smuggling case",
    "ts": "2026-11-15T15:07:26.992150+00:00"
@@ -2104,11 +2099,15 @@
   {
    "headline": "Anthropic prepares for public listing with Coatue holding $10 billion stake",
    "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  {
+   "headline": "Lemonpeel raises $1 million in pre-seed funding for AI video tools",
+   "ts": "2026-11-17T13:07:27.117770+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3746,34 +3745,6 @@
  },
  "pending": [
   {
-   "id": "8d86fa1cf0212392",
-   "item": {
-    "id": "8d86fa1cf0212392",
-    "title": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC",
-    "url": "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/17/lemonpeel-2026-11-17-13-55-46.png",
-    "snippet": "AI video production startup Lemonpeel has raised $1 million in a pre-seed funding round led by Shastra VC, with participation from Rukam Sitara and angel investors. The startup is part of the NVIDIA Inception, AWS Startups, Microsoft for Startups and Claude Startup programmes. The proceeds will be utilized to develop multi-agent platforms for video creation, editing, quality checks and delivery, m…",
-    "published": "2026-11-17T08:39:35+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Lemonpeel raises $1 million in pre-seed funding for AI video tools",
-   "post": "AI video production startup Lemonpeel has raised $1 million in a pre-seed funding round led by Shastra VC to develop multi-agent platforms for video creation, editing, and quality checks.",
-   "editor_note": "Verify participating investors alongside Shastra VC and the timeline for multi-agent platform rollout.",
-   "support": 0.96,
-   "published_at": "2026-11-17T08:39:35+00:00",
-   "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
-   "expires_at": "2026-11-18T20:39:35+00:00",
-   "decision": 1.83,
-   "priority": 8.718264,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
-  },
-  {
    "id": "5deb3005f6ba4730",
    "item": {
     "id": "5deb3005f6ba4730",
@@ -3823,8 +3794,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.663675,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.681058,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3853,8 +3824,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.088948,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 8.115023,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -3882,38 +3853,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.576725,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
-   "id": "c2855811f136cf3a",
-   "item": {
-    "id": "c2855811f136cf3a",
-    "title": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
-    "url": "https://arxiv.org/abs/2611.17831",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Upvotes: 21. Abstract: World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve those attributes rather than to read the clip, and the dynamics the encoder carries go unused: on the same items, a linear probe reads speed from frozen V-JEPA features at 87% while the VLM answers at chance. We show where dynamics lives in a frozen encoder: in a subspace shared across videos for predictive encoders such as V-JEPA, but not as a shared component of frame-wise, text-aligned encoders such as SigLIP. We then build counterfactual supervision that makes the language model read it: pixel transformations turn public videos into answer-balanced variants whose answers are set by the transformation and differ only in the change. Trained in a single stage on 4.53M public samples with 32 visual tokens per frame, where open video LLMs use several stages, 9M to 172M samples and 64 to 256 tokens per frame on average, the resulting V-JEPA-LM models (1B to 8B, Qwen3 and Llama) lead every size class in average score across eleven video benchmarks; our 4B model scores 72.1, against 61.1 for the best open 4B and 64.8 for the best open 8B model. A controlled encoder x supervision study shows that the encoder decides what can be read and the supervision what is read:…",
-    "published": "2026-11-16T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17831.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "New V-JEPA-LM video language models released by researchers",
-   "post": "New paper: Researchers developed V-JEPA-LM video-language models ranging from 1B to 8B parameters using counterfactual supervision, with a 4B model scoring 72.1 across eleven video benchmarks.",
-   "editor_note": "Verify benchmark names and performance comparisons listed in the Hugging Face paper abstract.",
-   "support": 0.92,
-   "published_at": "2026-11-16T00:00:00+00:00",
-   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
-   "expires_at": "2026-11-20T00:00:00+00:00",
-   "decision": 1.46,
-   "priority": 7.355171,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.594108,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3942,8 +3883,38 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.352278,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.378353,
+   "selection_reason": "Editorial importance; waiting 6.0h"
+  },
+  {
+   "id": "c2855811f136cf3a",
+   "item": {
+    "id": "c2855811f136cf3a",
+    "title": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
+    "url": "https://arxiv.org/abs/2611.17831",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Upvotes: 21. Abstract: World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve those attributes rather than to read the clip, and the dynamics the encoder carries go unused: on the same items, a linear probe reads speed from frozen V-JEPA features at 87% while the VLM answers at chance. We show where dynamics lives in a frozen encoder: in a subspace shared across videos for predictive encoders such as V-JEPA, but not as a shared component of frame-wise, text-aligned encoders such as SigLIP. We then build counterfactual supervision that makes the language model read it: pixel transformations turn public videos into answer-balanced variants whose answers are set by the transformation and differ only in the change. Trained in a single stage on 4.53M public samples with 32 visual tokens per frame, where open video LLMs use several stages, 9M to 172M samples and 64 to 256 tokens per frame on average, the resulting V-JEPA-LM models (1B to 8B, Qwen3 and Llama) lead every size class in average score across eleven video benchmarks; our 4B model scores 72.1, against 61.1 for the best open 4B and 64.8 for the best open 8B model. A controlled encoder x supervision study shows that the encoder decides what can be read and the supervision what is read:…",
+    "published": "2026-11-16T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17831.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "New V-JEPA-LM video language models released by researchers",
+   "post": "New paper: Researchers developed V-JEPA-LM video-language models ranging from 1B to 8B parameters using counterfactual supervision, with a 4B model scoring 72.1 across eleven video benchmarks.",
+   "editor_note": "Verify benchmark names and performance comparisons listed in the Hugging Face paper abstract.",
+   "support": 0.92,
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
+   "expires_at": "2026-11-20T00:00:00+00:00",
+   "decision": 1.46,
+   "priority": 7.349956,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3995,8 +3966,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.315782,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.333165,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4023,8 +3994,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.2368,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.254184,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4051,36 +4022,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.233898,
-   "selection_reason": "Editorial importance"
-  },
-  {
-   "id": "f9c7f44758ed7ca9",
-   "item": {
-    "id": "f9c7f44758ed7ca9",
-    "title": "Microsoft Data Shows Claude Is Stalling Against Copilot in Office",
-    "url": "https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Anthropic’s latest push into enterprise apps rattled Microsoft investors last week. Microsoft’s own internal data paints a less threatening picture, at least so far. Usage of Anthropic features that allow people to do work inside Microsoft’s Office apps with Claude , such as sorting email or generating slide decks, has been falling further behind usage of Microsoft’s Copilot in recent months, acco…",
-    "published": "2026-11-16T16:01:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Claude usage lags behind Copilot in Microsoft Office",
-   "post": "Internal Microsoft data shows usage of Anthropic's Claude integration inside Office applications has fallen further behind Microsoft Copilot in recent months.",
-   "editor_note": "Check whether the Microsoft internal metrics cite specific user counts or percentage growth rates.",
-   "support": 0.96,
-   "published_at": "2026-11-16T16:01:00+00:00",
-   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
-   "expires_at": "2026-11-18T04:01:00+00:00",
-   "decision": 1.67,
-   "priority": 7.108989,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.251281,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4109,8 +4052,36 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.107682,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.133757,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "f9c7f44758ed7ca9",
+   "item": {
+    "id": "f9c7f44758ed7ca9",
+    "title": "Microsoft Data Shows Claude Is Stalling Against Copilot in Office",
+    "url": "https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Anthropic’s latest push into enterprise apps rattled Microsoft investors last week. Microsoft’s own internal data paints a less threatening picture, at least so far. Usage of Anthropic features that allow people to do work inside Microsoft’s Office apps with Claude , such as sorting email or generating slide decks, has been falling further behind usage of Microsoft’s Copilot in recent months, acco…",
+    "published": "2026-11-16T16:01:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Claude usage lags behind Copilot in Microsoft Office",
+   "post": "Internal Microsoft data shows usage of Anthropic's Claude integration inside Office applications has fallen further behind Microsoft Copilot in recent months.",
+   "editor_note": "Check whether the Microsoft internal metrics cite specific user counts or percentage growth rates.",
+   "support": 0.96,
+   "published_at": "2026-11-16T16:01:00+00:00",
+   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
+   "expires_at": "2026-11-18T04:01:00+00:00",
+   "decision": 1.67,
+   "priority": 7.126373,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   }
  ],
  "details_queue": [],
@@ -4265,12 +4236,13 @@
   "https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers": "2026-11-17T11:08:32.553095+00:00",
   "https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?mod=rss_Technology": "2026-11-17T11:40:35.943422+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round": "2026-11-17T12:08:44.842855+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker": "2026-11-17T12:39:01.598861+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-ipo-hedge-fund-coatue-has-10-billion-stake-in-claude-maker": "2026-11-17T12:39:01.598861+00:00",
+  "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726": "2026-11-17T13:09:03.047393+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
   "32933935200c2839": {
@@ -16362,6 +16334,101 @@
    "imp": 1.45,
    "ai": 0.18,
    "ts": "2026-11-17T12:37:24.808192+00:00"
+  },
+  "bb8ed4a32dc98406": {
+   "imp": 2.15,
+   "ai": 0.92,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "6344945c04695554": {
+   "imp": 2.17,
+   "ai": null,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "81b0d3860e77689d": {
+   "imp": 1.38,
+   "ai": 0.94,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "d0237e60f42717d8": {
+   "imp": 1.54,
+   "ai": 0.84,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "68702b9d51dbca99": {
+   "imp": 1.16,
+   "ai": 0.71,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "8e3b07fd9f47da16": {
+   "imp": 1.12,
+   "ai": 0.59,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "31e0b12526468f2b": {
+   "imp": 0.5,
+   "ai": 0.22,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "2e92777af3f5b283": {
+   "imp": 0.96,
+   "ai": 0.34,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "ff3a14412f9f1a02": {
+   "imp": 2.36,
+   "ai": 0.97,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "d2aa597aa1829567": {
+   "imp": 0.24,
+   "ai": 0.03,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "0e99676a63ec5372": {
+   "imp": 1.5,
+   "ai": 0.95,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "030e8eb331897334": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "30da8882a8d09b35": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "4cfe4c042de20495": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "9f036d016f3427c8": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "bc6d7e902f5a1570": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "3a503a65d9a180f6": {
+   "imp": 0.98,
+   "ai": 0.08,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "51fd76a54eee02bb": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
+  },
+  "a165b06b8a7238fe": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-17T13:07:27.117770+00:00"
   }
  }
 }
