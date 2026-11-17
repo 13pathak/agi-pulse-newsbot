@@ -1,11 +1,5 @@
 {
  "seen": {
-  "773ccc33bf760d65": "2026-11-10T10:07:23.436183+00:00",
-  "19d841f976c08f92": "2026-11-10T10:07:23.436183+00:00",
-  "cf81ab0a7a0f0215": "2026-11-10T10:07:23.436183+00:00",
-  "1a803f206dddbc21": "2026-11-10T10:07:23.436183+00:00",
-  "8b4f351e30ebfced": "2026-11-10T10:07:23.436183+00:00",
-  "5d72d36b6c1fd27b": "2026-11-10T10:07:23.436183+00:00",
   "aba98658cee95348": "2026-11-10T11:07:22.430225+00:00",
   "a29c3c00a5b94c82": "2026-11-10T11:07:22.430225+00:00",
   "06438ee7f5b07377": "2026-11-10T11:07:22.430225+00:00",
@@ -1925,13 +1919,12 @@
   "5f9ed380641fdbcd": "2026-11-17T09:37:24.524929+00:00",
   "c2d983b8bde133e8": "2026-11-17T09:37:24.524929+00:00",
   "df40b77d3d237010": "2026-11-17T09:37:24.524929+00:00",
-  "f3c942e06b7da750": "2026-11-17T09:37:24.524929+00:00"
+  "f3c942e06b7da750": "2026-11-17T09:37:24.524929+00:00",
+  "3fd3c56f351702f6": "2026-11-17T10:07:22.889082+00:00",
+  "6d0c63fb754b9fe7": "2026-11-17T10:07:22.889082+00:00",
+  "a5920ea194e047ff": "2026-11-17T10:07:22.889082+00:00"
  },
  "covered": [
-  {
-   "headline": "SEBI to issue AI usage guidelines for Indian capital markets",
-   "ts": "2026-11-15T10:07:31.315249+00:00"
-  },
   {
    "headline": "Meituan releases 1.6-trillion-parameter LongCat-2.5 model weights",
    "ts": "2026-11-15T10:37:21.124750+00:00"
@@ -2103,11 +2096,15 @@
   {
    "headline": "Karnataka launches six initiatives for AI and semiconductor development",
    "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  {
+   "headline": "Accenture and Google Cloud expand AI education across Indian institutions",
+   "ts": "2026-11-17T10:07:22.889082+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3742,34 +3739,6 @@
  },
  "pending": [
   {
-   "id": "a5920ea194e047ff",
-   "item": {
-    "id": "a5920ea194e047ff",
-    "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-    "url": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769135117574-c700aef3-7dc2-4db4-8ca4-4eb5aeb03774-z4al8h.webp",
-    "snippet": "Accenture LearnVantage and Google Cloud have partnered to expand AI education across India, targeting more than 1,000 public and private schools and colleges with hands-on learning programmes and industry-aligned certifications. The initiative will combine Accenture LearnVantage's learning programmes with Google Cloud's unified AI stack to establish AI Labs in schools and Centres of Excellence in …",
-    "published": "2026-11-17T08:46:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Accenture and Google Cloud expand AI education across Indian institutions",
-   "post": "Accenture LearnVantage and Google Cloud have partnered to bring AI education to over 1,000 schools and colleges in India through hands-on learning programs, AI labs, and centres of excellence.",
-   "editor_note": "Confirm the timeline for setting up the AI labs and centres of excellence across the targeted institutions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T08:46:30+00:00",
-   "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
-   "expires_at": "2026-11-18T20:46:30+00:00",
-   "decision": 1.88,
-   "priority": 8.633963,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "8d86fa1cf0212392",
    "item": {
     "id": "8d86fa1cf0212392",
@@ -3794,7 +3763,36 @@
    "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
    "expires_at": "2026-11-18T20:39:35+00:00",
    "decision": 1.83,
-   "priority": 8.614094,
+   "priority": 8.63144,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "1336358d761ba076",
+   "item": {
+    "id": "1336358d761ba076",
+    "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
+    "url": "https://36kr.com/p/4072516740797318?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络搭建。 博理科技成立于2017年，专注于高分子弹性体材料与超高速3D打印批量制造，业务覆盖材料研发、装备制造、软件系统开发与量产生产服务。谈及品牌名称的由来，创始人王文斌表示，PollyPolymer中的“Polymer”代表高分子聚合物，“Polly”则取自自己的英文名。材料是博理科技业务发展的起点，装备、自研软件与量产生产服务均在此基础上延伸。依托自研HALS超高速3D打印技术平台，博理科技面向不同行业开发专用高性能材料，并通过一体化解决方案为客户提供批量制造能力。 自2020年A轮融资以来， 博理科技已先后完成四轮融资 ，持续围绕材料研发、装备迭代与产能建设投入。 随着3D打印技术在消费品、工业零部件等领域的应用逐步深入，行业竞争正从单一技术指标向规模化制造能力延伸。如何兼顾生产效率、成本与交付稳定性，成为增材制造企业商业化过程中需要解决的问题。 机器人零部件 从材料研发到智能云工厂，推动3D打印规模化制造 3D打印无需提前开模，具有设计自由度高、复杂结构一体成型等特点，长期以来主要应用于产品设计、原型验证及批量定制生产。但要进入工业主产线…",
+    "published": "2026-11-17T10:07:10+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Polly Polymer secures over 500 million yuan in funding",
+   "post": "Chinese 3D printing and material manufacturer Polly Polymer has raised over 500 million yuan across its B2 and B+ funding rounds. The capital will fund polymer material research, manufacturing capacity expansion, and embodied AI applications.",
+   "editor_note": "Verify the exact funding totals and lead investors listed for the B2 and B+ rounds.",
+   "support": 0.96,
+   "published_at": "2026-11-17T10:07:10+00:00",
+   "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
+   "expires_at": "2026-11-18T22:07:10+00:00",
+   "decision": 1.47,
+   "priority": 7.489901,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3824,8 +3822,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.386422,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.381218,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3877,8 +3875,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.211612,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.228958,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3907,8 +3905,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.196024,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.222042,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3935,8 +3933,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.132631,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.149976,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3963,8 +3961,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 7.00482,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.022165,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -3993,8 +3991,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.951428,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.977446,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -4144,12 +4142,13 @@
   "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386": "2026-11-17T07:37:57.161249+00:00",
   "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content": "2026-11-17T08:07:47.370868+00:00",
   "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion": "2026-11-17T09:10:56.448099+00:00",
-  "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem": "2026-11-17T09:37:59.583503+00:00"
+  "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem": "2026-11-17T09:37:59.583503+00:00",
+  "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions": "2026-11-17T10:09:23.119345+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
   "32933935200c2839": {
@@ -15596,6 +15595,76 @@
    "imp": 0.36,
    "ai": 0.06,
    "ts": "2026-11-17T09:37:24.524929+00:00"
+  },
+  "6d0c63fb754b9fe7": {
+   "imp": 1.6,
+   "ai": 0.76,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "3fd3c56f351702f6": {
+   "imp": 2.27,
+   "ai": 0.93,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "1b5a248f762ce5dd": {
+   "imp": 0.15,
+   "ai": 0.09,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "1336358d761ba076": {
+   "imp": 1.47,
+   "ai": 0.48,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "9849850b4bf0b8ab": {
+   "imp": 0.78,
+   "ai": 0.1,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "c9bdf47c075f1bfd": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "2f1212e7aad2ceba": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "0d73075bb66832cb": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "63c5a7294cf50429": {
+   "imp": 0.3,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "713e47f04ad424d9": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "df2345bfe1b09bc5": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "b7a304f97f65002a": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "c711eaf4c02663b5": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
+  },
+  "65332c2cf5b9fa8c": {
+   "imp": 0.23,
+   "ai": 0.05,
+   "ts": "2026-11-17T10:07:22.889082+00:00"
   }
  }
 }
