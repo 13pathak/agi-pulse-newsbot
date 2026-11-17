@@ -1,7 +1,5 @@
 {
  "seen": {
-  "960a127182742bbe": "2026-11-10T07:37:22.183022+00:00",
-  "40881cc5fab2fef0": "2026-11-10T07:37:22.183022+00:00",
   "b10f39c9df57d8ed": "2026-11-10T08:07:23.259704+00:00",
   "98d612ea405ae954": "2026-11-10T08:07:23.259704+00:00",
   "e8740fc1333d6690": "2026-11-10T08:07:23.259704+00:00",
@@ -1917,7 +1915,12 @@
   "71566e5ba7c129a7": "2026-11-17T07:07:23.467199+00:00",
   "696d7b2a8726dfd8": "2026-11-17T07:07:23.467199+00:00",
   "3b9f0611fcfd9e56": "2026-11-17T07:07:23.467199+00:00",
-  "1655597f39280d1a": "2026-11-17T07:07:23.467199+00:00"
+  "1655597f39280d1a": "2026-11-17T07:07:23.467199+00:00",
+  "590cb0b9c5dd23f2": "2026-11-17T07:37:24.209227+00:00",
+  "9e17b930531659cf": "2026-11-17T07:37:24.209227+00:00",
+  "e0912a6cf8de6bbd": "2026-11-17T07:37:24.209227+00:00",
+  "131b9cc885974e5c": "2026-11-17T07:37:24.209227+00:00",
+  "069f0c8fc41d6ebd": "2026-11-17T07:37:24.209227+00:00"
  },
  "covered": [
   {
@@ -2079,11 +2082,15 @@
   {
    "headline": "Google reports AI agents weaponizing software security patches",
    "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  {
+   "headline": "CountAI raises Rs 10 crore in seed funding",
+   "ts": "2026-11-17T07:37:24.209227+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3718,6 +3725,34 @@
  },
  "pending": [
   {
+   "id": "c19a3ced4c197eac",
+   "item": {
+    "id": "c19a3ced4c197eac",
+    "title": "Instagram fine-tunes recommendation systems in India to curb sexually suggestive, violent content",
+    "url": "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content",
+    "source": "YourStory",
+    "image": "",
+    "snippet": "Meta Platforms said on Tuesday that it has fine-tuned Instagram's content recommendation systems in India to curb the visibility of sexually suggestive material and violent content, deploying more advanced artificial intelligence models to identify and filter unwanted posts before they reach users.",
+    "published": "2026-11-17T07:11:12+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Instagram updates AI recommendation systems in India",
+   "post": "Meta Platforms stated it updated Instagram recommendation systems in India using advanced AI models to filter out sexually suggestive and violent content before reaching users.",
+   "editor_note": "Confirm the specific deployment scope and model details mentioned by Meta.",
+   "support": 0.96,
+   "published_at": "2026-11-17T07:11:12+00:00",
+   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
+   "expires_at": "2026-11-18T19:11:12+00:00",
+   "decision": 1.85,
+   "priority": 8.604535,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "c2855811f136cf3a",
    "item": {
     "id": "c2855811f136cf3a",
@@ -3744,8 +3779,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.412467,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.407256,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3797,8 +3832,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.124797,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.142165,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3827,8 +3862,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.0658,
-   "selection_reason": "Editorial importance"
+   "priority": 7.091853,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3855,8 +3890,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.045815,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.063183,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3883,8 +3918,38 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.918004,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.935372,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "b023f8d7a176acb5",
+   "item": {
+    "id": "b023f8d7a176acb5",
+    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+    "url": "https://arxiv.org/abs/2611.19937",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 26,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nanyang Technological University researchers introduce AllocFlow",
+   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
+   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
+   "support": 0.97,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.28,
+   "priority": 6.847256,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4030,12 +4095,13 @@
   "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028": "2026-11-17T05:38:06.314222+00:00",
   "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic": "2026-11-17T06:08:07.269728+00:00",
   "https://www.indiatoday.in/technology/news/story/sarvam-opens-ai-token-factory-indias-answer-to-openrouter-and-hugging-face-3040507-2026-11-17": "2026-11-17T06:38:37.623761+00:00",
-  "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17": "2026-11-17T07:07:53.694245+00:00"
+  "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17": "2026-11-17T07:07:53.694245+00:00",
+  "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386": "2026-11-17T07:37:57.161249+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
   "32933935200c2839": {
@@ -15027,6 +15093,96 @@
    "imp": 0.09,
    "ai": 0.02,
    "ts": "2026-11-17T07:07:23.467199+00:00"
+  },
+  "e0912a6cf8de6bbd": {
+   "imp": 2.11,
+   "ai": 0.95,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "131b9cc885974e5c": {
+   "imp": 1.62,
+   "ai": 0.82,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "9e17b930531659cf": {
+   "imp": 2.69,
+   "ai": 0.96,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "c19a3ced4c197eac": {
+   "imp": 1.85,
+   "ai": 0.86,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "590cb0b9c5dd23f2": {
+   "imp": 1.94,
+   "ai": null,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "b023f8d7a176acb5": {
+   "imp": 1.28,
+   "ai": null,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "6c882f72d1845f02": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "069f0c8fc41d6ebd": {
+   "imp": 2.36,
+   "ai": 0.92,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "31d139a756c19088": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "8dd6b6bf20bca2dc": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "72fc84bbf978cd58": {
+   "imp": 0.76,
+   "ai": 0.26,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "8676520a9a8914be": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "8b36738f3103988a": {
+   "imp": 0.82,
+   "ai": 0.34,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "f2ff9b6abf525f20": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "6bae383328e2d311": {
+   "imp": 0.35,
+   "ai": 0.09,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "b6b68dc643c8cf6f": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "0b4769c3e6729bf9": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
+  },
+  "607c89eb2224c457": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-17T07:37:24.209227+00:00"
   }
  }
 }
