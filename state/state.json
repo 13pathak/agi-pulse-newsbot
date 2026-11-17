@@ -1,18 +1,5 @@
 {
  "seen": {
-  "cafe7e1bd3dbba6b": "2026-11-10T02:07:26.100452+00:00",
-  "033426cd1fa4eb50": "2026-11-10T02:07:26.100452+00:00",
-  "931e3313f33e3a8e": "2026-11-10T02:07:26.100452+00:00",
-  "43c3ff49c2f8b20e": "2026-11-10T02:07:26.100452+00:00",
-  "faa2c8a3a8207575": "2026-11-10T02:07:26.100452+00:00",
-  "9d5aee5d27ee2692": "2026-11-10T02:07:26.100452+00:00",
-  "e317eb370a58d7be": "2026-11-10T02:07:26.100452+00:00",
-  "99d632aaa4166752": "2026-11-10T02:07:26.100452+00:00",
-  "a06869aa80e569ca": "2026-11-10T02:07:26.100452+00:00",
-  "8cf8cebb61e16fd0": "2026-11-10T02:07:26.100452+00:00",
-  "1ec957729909d248": "2026-11-10T02:07:26.100452+00:00",
-  "98b4d1ed6866f0bf": "2026-11-10T02:07:26.100452+00:00",
-  "6e66d0729cb45efd": "2026-11-10T02:07:26.100452+00:00",
   "9015c3069685351f": "2026-11-10T02:37:20.673340+00:00",
   "b0cfae5b87dd699c": "2026-11-10T02:37:20.673340+00:00",
   "1884bc701bf8453e": "2026-11-10T02:37:20.673340+00:00",
@@ -1882,7 +1869,53 @@
   "f04796f3cee4e0c5": "2026-11-17T01:07:22.654220+00:00",
   "2f955c41e396e3ab": "2026-11-17T01:07:22.654220+00:00",
   "8e9eaa53a3e6c482": "2026-11-17T01:07:22.654220+00:00",
-  "773cc78ee17a9631": "2026-11-17T01:07:22.654220+00:00"
+  "773cc78ee17a9631": "2026-11-17T01:07:22.654220+00:00",
+  "a0e9bc14630e23f0": "2026-11-17T02:07:22.529075+00:00",
+  "0761da68e54fd0db": "2026-11-17T02:07:22.529075+00:00",
+  "2453547dcede7e6e": "2026-11-17T02:07:22.529075+00:00",
+  "3899b6e8ee3cc1f1": "2026-11-17T02:07:22.529075+00:00",
+  "b4d0f21c2c604500": "2026-11-17T02:07:22.529075+00:00",
+  "aafc20d9f2a085c9": "2026-11-17T02:07:22.529075+00:00",
+  "f96db6736bc3d96a": "2026-11-17T02:07:22.529075+00:00",
+  "0be2ab6226e78541": "2026-11-17T02:07:22.529075+00:00",
+  "7381db88317ca659": "2026-11-17T02:07:22.529075+00:00",
+  "587e227a3e266ef7": "2026-11-17T02:07:22.529075+00:00",
+  "c636885b9662b9ce": "2026-11-17T02:07:22.529075+00:00",
+  "764198fc49a3e15f": "2026-11-17T02:07:22.529075+00:00",
+  "141451256ff369bc": "2026-11-17T02:07:22.529075+00:00",
+  "9af9bc1716249a8e": "2026-11-17T02:07:22.529075+00:00",
+  "668b96b1a1259e1f": "2026-11-17T02:07:22.529075+00:00",
+  "ea6ee25fa2b6781e": "2026-11-17T02:07:22.529075+00:00",
+  "771a013aca12bb1a": "2026-11-17T02:07:22.529075+00:00",
+  "b91240203599ff93": "2026-11-17T02:07:22.529075+00:00",
+  "94e979efd7382a51": "2026-11-17T02:07:22.529075+00:00",
+  "cf8497c0eb711955": "2026-11-17T02:07:22.529075+00:00",
+  "fd623fcfc853deab": "2026-11-17T02:07:22.529075+00:00",
+  "c09018ed04604d09": "2026-11-17T02:07:22.529075+00:00",
+  "3d1b5cc9783263d3": "2026-11-17T02:07:22.529075+00:00",
+  "dec3fe143d6e5436": "2026-11-17T02:07:22.529075+00:00",
+  "aad4d15470f6503b": "2026-11-17T02:07:22.529075+00:00",
+  "c7d9eea960937dc2": "2026-11-17T02:07:22.529075+00:00",
+  "6f9bf31605cf1a02": "2026-11-17T02:07:22.529075+00:00",
+  "bec78e9702b1517e": "2026-11-17T02:07:22.529075+00:00",
+  "8806a70ae484f167": "2026-11-17T02:07:22.529075+00:00",
+  "edeaa98d177d968d": "2026-11-17T02:07:22.529075+00:00",
+  "dbc77ae1b602890d": "2026-11-17T02:07:22.529075+00:00",
+  "92b7bf851232f184": "2026-11-17T02:07:22.529075+00:00",
+  "381617a3df1a6a7d": "2026-11-17T02:07:22.529075+00:00",
+  "cd9a297fa8a4dcbf": "2026-11-17T02:07:22.529075+00:00",
+  "f1a234d16adb0c24": "2026-11-17T02:07:22.529075+00:00",
+  "030a040e02b27922": "2026-11-17T02:07:22.529075+00:00",
+  "ca41c6ce4b124891": "2026-11-17T02:07:22.529075+00:00",
+  "3de86e35d66ae668": "2026-11-17T02:07:22.529075+00:00",
+  "e8d9285ba3da1ccd": "2026-11-17T02:07:22.529075+00:00",
+  "d01e711e7ea6916f": "2026-11-17T02:07:22.529075+00:00",
+  "5f72fbdc79b9385d": "2026-11-17T02:07:22.529075+00:00",
+  "6dc341b82897f439": "2026-11-17T02:07:22.529075+00:00",
+  "6516c66961953bb6": "2026-11-17T02:07:22.529075+00:00",
+  "ced955685de0a83c": "2026-11-17T02:07:22.529075+00:00",
+  "a2ec8c3c33703823": "2026-11-17T02:07:22.529075+00:00",
+  "75df91af27d861e0": "2026-11-17T02:07:22.529075+00:00"
  },
  "covered": [
   {
@@ -2008,11 +2041,15 @@
   {
    "headline": "California sues OpenAI over security and rogue agent incidents",
    "ts": "2026-11-17T01:07:22.654220+00:00"
+  },
+  {
+   "headline": "OpenAI's GPT-6 Astra used to formulate particle physics proof",
+   "ts": "2026-11-17T02:07:22.529075+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3637,6 +3674,12 @@
    "desc": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/r0NQL0JSQTS1Kzvpq9Fqm/6b10f87bd44e394bb04737e1ca00b017/science-at-the-frontier-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-16T17:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/holiday-extras-dots": {
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "desc": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2Vrrt2eTu8OfGbuliOLQ99/cddb51f7a917c176c63b4d2318a20f15/holiday-extras-dots-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-12T09:30:00+00:00"
   }
  },
  "pending": [
@@ -3665,8 +3708,77 @@
    "first_seen_at": "2026-11-16T15:37:23.168630+00:00",
    "expires_at": "2026-11-18T03:25:48+00:00",
    "decision": 1.74,
-   "priority": 7.921973,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "priority": 7.939213,
+   "selection_reason": "Time-sensitive story; waiting 10.5h"
+  },
+  {
+   "id": "882a7d2052a2d770",
+   "item": {
+    "id": "882a7d2052a2d770",
+    "title": "OpenAI Signs Agreements to Embed AI Evaluators",
+    "url": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
+    "source": "The Information",
+    "image": "",
+    "snippet": "OpenAI said Monday it had signed agreements with Apollo Research, METR, Transluce and Goodfire to give the organizations access to some of OpenAI’s internal information to assess risks in its technology and practices. The announcement follows OpenAI’s commitment to embed evaluators within ...",
+    "published": "2026-11-16T22:13:24+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "81e420a7570ae0a0",
+     "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+     "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
+     "published": "2026-11-16T21:54:18+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "OpenAI partners with four independent evaluators to assess risks",
+   "post": "OpenAI signed agreements with Apollo Research, METR, Transluce, and Goodfire to grant the four independent organizations access to internal information to evaluate safety risks in its technology and practices.",
+   "editor_note": "The agreements grant external access to internal information for safety evaluation.",
+   "support": 0.92,
+   "published_at": "2026-11-16T21:54:18+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T09:54:18+00:00",
+   "decision": 2.11,
+   "priority": 7.586169,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "bdc8e7eacc0c5b79",
+   "item": {
+    "id": "bdc8e7eacc0c5b79",
+    "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png",
+    "snippet": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.",
+    "published": "2026-11-16T19:05:24+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Nvidia announces Rubin HPC GPU with over 50,000 CUDA cores",
+   "post": "Nvidia announced its Rubin HPC GPU at Supercomputing 2026, featuring over 50,000 CUDA cores. Designed for agentic high-performance computing workloads, the GPU is scheduled for release in 2028.",
+   "editor_note": "Source states availability is scheduled for 2028.",
+   "support": 0.94,
+   "published_at": "2026-11-16T19:05:24+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T07:05:24+00:00",
+   "decision": 2.01,
+   "priority": 7.474641,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "c2855811f136cf3a",
@@ -3695,8 +3807,36 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.376152,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.402012,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "ebff97034b293e5f",
+   "item": {
+    "id": "ebff97034b293e5f",
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
+    "published": "2026-11-16T18:52:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Moonshot AI pivots Kimi models from coding to science research",
+   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
+   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
+   "support": 0.63,
+   "published_at": "2026-11-16T18:52:55+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T06:52:55+00:00",
+   "decision": 1.72,
+   "priority": 7.372195,
+   "selection_reason": "Time-sensitive story"
   }
  ],
  "details_queue": [],
@@ -3832,12 +3972,13 @@
   "https://www.businessinsider.com/us-limit-workarounds-to-access-advanced-ai-chips-nvidia-singapore-2026-11": "2026-11-16T14:07:54.111324+00:00",
   "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks": "2026-11-16T15:08:11.432105+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat": "2026-11-16T15:37:52.771844+00:00",
-  "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents": "2026-11-17T01:08:55.956472+00:00"
+  "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents": "2026-11-17T01:08:55.956472+00:00",
+  "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice": "2026-11-17T02:08:14.487627+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -13994,6 +14135,61 @@
    "imp": 1.35,
    "ai": 0.79,
    "ts": "2026-11-17T01:37:35.079022+00:00"
+  },
+  "d01e711e7ea6916f": {
+   "imp": 1.12,
+   "ai": 0.73,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "f397e4d30df8d19f": {
+   "imp": 1.12,
+   "ai": 0.58,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "53406ee48fb80e55": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "b900f02f02223033": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "0d1917298fdd70b3": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "ae26eb33cd4b3038": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "3e14d34b05a30212": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "217cc800bdf9a50a": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "3abff648a63f8d45": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "61333c543ee63a78": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
+  },
+  "85de94e31dbb44b1": {
+   "imp": 0.76,
+   "ai": 0.07,
+   "ts": "2026-11-17T02:07:22.529075+00:00"
   }
  }
 }
