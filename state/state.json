@@ -1,12 +1,5 @@
 {
  "seen": {
-  "01a8528fa117926a": "2026-11-10T08:37:24.312523+00:00",
-  "14c07dfd73ab5f51": "2026-11-10T08:37:24.312523+00:00",
-  "93986fa4c49fef56": "2026-11-10T08:37:24.312523+00:00",
-  "f8f0bcc57d5343b9": "2026-11-10T08:37:24.312523+00:00",
-  "6ac194ca864b766a": "2026-11-10T09:07:24.038923+00:00",
-  "558ea01966709557": "2026-11-10T09:07:24.038923+00:00",
-  "3ede24c1c66372bb": "2026-11-10T09:07:24.038923+00:00",
   "7011c57b5c7cbee2": "2026-11-10T09:37:21.848454+00:00",
   "fd733d41128dbbe6": "2026-11-10T09:37:21.848454+00:00",
   "4d67c691104dde21": "2026-11-10T09:37:21.848454+00:00",
@@ -1921,7 +1914,22 @@
   "3bba813f2b605aed": "2026-11-17T08:07:21.757559+00:00",
   "8884e1d9470f6d1c": "2026-11-17T08:07:21.757559+00:00",
   "6b0aba9f3480e5c4": "2026-11-17T08:07:21.757559+00:00",
-  "c19a3ced4c197eac": "2026-11-17T08:07:21.757559+00:00"
+  "c19a3ced4c197eac": "2026-11-17T08:07:21.757559+00:00",
+  "fdf7cbb6cbccd1c5": "2026-11-17T09:07:46.687086+00:00",
+  "5dae0f7dddd9b9be": "2026-11-17T09:07:46.687086+00:00",
+  "a923fd9b70a1aed5": "2026-11-17T09:07:46.687086+00:00",
+  "96f1bba9c4901ec2": "2026-11-17T09:07:46.687086+00:00",
+  "1b9ac1232d2bdd51": "2026-11-17T09:07:46.687086+00:00",
+  "696a1e498fca797f": "2026-11-17T09:07:46.687086+00:00",
+  "e741b33a39e2018e": "2026-11-17T09:07:46.687086+00:00",
+  "93a1437260c6b16c": "2026-11-17T09:07:46.687086+00:00",
+  "7add97706cb7bb56": "2026-11-17T09:07:46.687086+00:00",
+  "34397ec1aa953dea": "2026-11-17T09:07:46.687086+00:00",
+  "a5e8b85fcb7f53dd": "2026-11-17T09:07:46.687086+00:00",
+  "ce45ccb38910dfc5": "2026-11-17T09:07:46.687086+00:00",
+  "75e2990630589902": "2026-11-17T09:07:46.687086+00:00",
+  "0e130217634b8621": "2026-11-17T09:07:46.687086+00:00",
+  "272333516a9dc780": "2026-11-17T09:07:46.687086+00:00"
  },
  "covered": [
   {
@@ -2091,11 +2099,15 @@
   {
    "headline": "Instagram updates AI recommendation systems in India",
    "ts": "2026-11-17T08:07:21.757559+00:00"
+  },
+  {
+   "headline": "OpenAI appoints Pragya Misra to lead India and South Asia business",
+   "ts": "2026-11-17T09:07:46.687086+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-17",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3730,6 +3742,90 @@
  },
  "pending": [
   {
+   "id": "f3c942e06b7da750",
+   "item": {
+    "id": "f3c942e06b7da750",
+    "title": "Karnataka Unveils 6 Initiatives to Strengthen AI and Semiconductor Ecosystem",
+    "url": "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1794903686957-weyads.webp",
+    "snippet": "The Karnataka government has launched six initiatives to lead the next phase of technological development through its research institutions, startup ecosystem, and skilled workforce. At the Bengaluru Tech Summit 2026, Karnataka Chief Minister D K Shivakumar officially launched the Karnataka AI Hub. Established at IIIT-Bengaluru, it will focus on AI research, skilling, innovation, and entrepreneurs…",
+    "published": "2026-11-17T08:21:33+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Karnataka launches six initiatives for AI and semiconductor development",
+   "post": "The Karnataka government has launched six initiatives, including the Karnataka AI Hub established at IIIT-Bengaluru, to advance local AI research, skilling, and the startup ecosystem.",
+   "editor_note": "Check specific implementation milestones or funding allocations for the six launched initiatives.",
+   "support": 0.85,
+   "published_at": "2026-11-17T08:21:33+00:00",
+   "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
+   "expires_at": "2026-11-18T20:21:33+00:00",
+   "decision": 2.12,
+   "priority": 8.685265,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "a5920ea194e047ff",
+   "item": {
+    "id": "a5920ea194e047ff",
+    "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
+    "url": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769135117574-c700aef3-7dc2-4db4-8ca4-4eb5aeb03774-z4al8h.webp",
+    "snippet": "Accenture LearnVantage and Google Cloud have partnered to expand AI education across India, targeting more than 1,000 public and private schools and colleges with hands-on learning programmes and industry-aligned certifications. The initiative will combine Accenture LearnVantage's learning programmes with Google Cloud's unified AI stack to establish AI Labs in schools and Centres of Excellence in …",
+    "published": "2026-11-17T08:46:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Accenture and Google Cloud expand AI education across Indian institutions",
+   "post": "Accenture LearnVantage and Google Cloud have partnered to bring AI education to over 1,000 schools and colleges in India through hands-on learning programs, AI labs, and centres of excellence.",
+   "editor_note": "Confirm the timeline for setting up the AI labs and centres of excellence across the targeted institutions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T08:46:30+00:00",
+   "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
+   "expires_at": "2026-11-18T20:46:30+00:00",
+   "decision": 1.88,
+   "priority": 8.616816,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "8d86fa1cf0212392",
+   "item": {
+    "id": "8d86fa1cf0212392",
+    "title": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC",
+    "url": "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/17/lemonpeel-2026-11-17-13-55-46.png",
+    "snippet": "AI video production startup Lemonpeel has raised $1 million in a pre-seed funding round led by Shastra VC, with participation from Rukam Sitara and angel investors. The startup is part of the NVIDIA Inception, AWS Startups, Microsoft for Startups and Claude Startup programmes. The proceeds will be utilized to develop multi-agent platforms for video creation, editing, quality checks and delivery, m…",
+    "published": "2026-11-17T08:39:35+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Lemonpeel raises $1 million in pre-seed funding for AI video tools",
+   "post": "AI video production startup Lemonpeel has raised $1 million in a pre-seed funding round led by Shastra VC to develop multi-agent platforms for video creation, editing, and quality checks.",
+   "editor_note": "Verify participating investors alongside Shastra VC and the timeline for multi-agent platform rollout.",
+   "support": 0.96,
+   "published_at": "2026-11-17T08:39:35+00:00",
+   "first_seen_at": "2026-11-17T09:07:46.687086+00:00",
+   "expires_at": "2026-11-18T20:39:35+00:00",
+   "decision": 1.83,
+   "priority": 8.596947,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "c2855811f136cf3a",
    "item": {
     "id": "c2855811f136cf3a",
@@ -3756,8 +3852,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.396844,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.391566,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -3809,8 +3905,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.176873,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.194465,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -3839,8 +3935,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.143915,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.170303,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -3867,8 +3963,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 7.097891,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.115484,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -3895,8 +3991,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.97008,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.987673,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -3925,8 +4021,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.899318,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.925707,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4074,12 +4170,13 @@
   "https://www.indiatoday.in/technology/news/story/sarvam-opens-ai-token-factory-indias-answer-to-openrouter-and-hugging-face-3040507-2026-11-17": "2026-11-17T06:38:37.623761+00:00",
   "https://www.indiatoday.in/technology/news/story/google-says-hackers-are-using-ai-agents-to-weaponise-security-patches-without-human-intervention-3040534-2026-11-17": "2026-11-17T07:07:53.694245+00:00",
   "https://entrackr.com/snippets/equirus-innovatex-fund-leads-rs-10-cr-seed-round-in-deep-tech-startup-countai-12816386": "2026-11-17T07:37:57.161249+00:00",
-  "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content": "2026-11-17T08:07:47.370868+00:00"
+  "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content": "2026-11-17T08:07:47.370868+00:00",
+  "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion": "2026-11-17T09:10:56.448099+00:00"
  },
  "details_daily": {
   "date": "2026-11-17",
   "count": 0,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
   "32933935200c2839": {
@@ -15346,6 +15443,121 @@
    "imp": 0.22,
    "ai": 0.1,
    "ts": "2026-11-17T08:37:22.731778+00:00"
+  },
+  "696a1e498fca797f": {
+   "imp": 1.46,
+   "ai": null,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "34397ec1aa953dea": {
+   "imp": 0.95,
+   "ai": null,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "93a1437260c6b16c": {
+   "imp": 1.8,
+   "ai": 0.95,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "a5e8b85fcb7f53dd": {
+   "imp": 1.66,
+   "ai": 0.88,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "1b9ac1232d2bdd51": {
+   "imp": 1.64,
+   "ai": 0.9,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "c2d983b8bde133e8": {
+   "imp": 1.16,
+   "ai": 0.92,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "75e2990630589902": {
+   "imp": 0.58,
+   "ai": 0.38,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "a5920ea194e047ff": {
+   "imp": 1.88,
+   "ai": 0.96,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "272333516a9dc780": {
+   "imp": 2.16,
+   "ai": 0.96,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "e741b33a39e2018e": {
+   "imp": 0.79,
+   "ai": 0.32,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "8d86fa1cf0212392": {
+   "imp": 1.83,
+   "ai": 0.95,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "d0d1ec6a367c3217": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "4039cde6d9d2c49a": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "21515a139569c57f": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "16faa0aacf31a759": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "961a88e45bf187cf": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "ce45ccb38910dfc5": {
+   "imp": 1.39,
+   "ai": 0.92,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "c085d4a9715c6daa": {
+   "imp": 0.88,
+   "ai": 0.23,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "5a4f05395d1228e2": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "6f651f0185e72cf5": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "aaf7abae68de4a6c": {
+   "imp": 0.6,
+   "ai": 0.08,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "e04dde06298577a2": {
+   "imp": 0.25,
+   "ai": 0.15,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
+  },
+  "8804726d7365b88f": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-17T09:07:46.687086+00:00"
   }
  }
 }
