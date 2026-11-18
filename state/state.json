@@ -1,28 +1,5 @@
 {
  "seen": {
-  "14f6b8b420073dc3": "2026-11-11T01:37:20.323883+00:00",
-  "cd0c3adea5a38d8b": "2026-11-11T01:37:20.323883+00:00",
-  "3bbd319f62a658ac": "2026-11-11T01:37:20.323883+00:00",
-  "970cdfbccaba1942": "2026-11-11T01:37:20.323883+00:00",
-  "0d29205225fd706b": "2026-11-11T01:37:20.323883+00:00",
-  "7739f93bab443e21": "2026-11-11T01:37:20.323883+00:00",
-  "ec8711a9b2909bb7": "2026-11-11T01:37:20.323883+00:00",
-  "87cf98e8f8b7ef89": "2026-11-11T01:37:20.323883+00:00",
-  "7ac1a3b2939bf58c": "2026-11-11T01:37:20.323883+00:00",
-  "cfd647cb340b1c80": "2026-11-11T01:37:20.323883+00:00",
-  "0300aafe4db21dff": "2026-11-11T01:37:20.323883+00:00",
-  "a8c7b35d67eac301": "2026-11-11T01:37:20.323883+00:00",
-  "5fb33f5f2e66b016": "2026-11-11T01:37:20.323883+00:00",
-  "6fcd75d626ddcf98": "2026-11-11T01:37:20.323883+00:00",
-  "413ad23659f84bb1": "2026-11-11T01:37:20.323883+00:00",
-  "378aaa0a4b16ddb3": "2026-11-11T01:37:20.323883+00:00",
-  "b8295f7edcde5fc0": "2026-11-11T01:37:20.323883+00:00",
-  "fb5e3d8fa411484c": "2026-11-11T01:37:20.323883+00:00",
-  "f9ce6b037a3d95c6": "2026-11-11T01:37:20.323883+00:00",
-  "ca33366af0ebf860": "2026-11-11T01:37:20.323883+00:00",
-  "053da60fa0cfa4af": "2026-11-11T01:37:20.323883+00:00",
-  "3e50515c6d1fc8cc": "2026-11-11T01:37:20.323883+00:00",
-  "8792b1f1c1557e49": "2026-11-11T01:37:20.323883+00:00",
   "58426d8e2b3863d2": "2026-11-11T02:07:25.142064+00:00",
   "8062e45538e5b106": "2026-11-11T02:07:25.142064+00:00",
   "8c96262074122254": "2026-11-11T02:07:25.142064+00:00",
@@ -1873,13 +1850,55 @@
   "bf3fe9a79ef25d8b": "2026-11-18T01:07:23.150510+00:00",
   "55a1c91e65e8cc6f": "2026-11-18T01:07:23.150510+00:00",
   "7465bbc4c963251d": "2026-11-18T01:07:23.150510+00:00",
-  "6ce0ad9e69fca148": "2026-11-18T01:07:23.150510+00:00"
+  "6ce0ad9e69fca148": "2026-11-18T01:07:23.150510+00:00",
+  "60f45a639eb24098": "2026-11-18T01:37:23.406600+00:00",
+  "8e21326b778b59c3": "2026-11-18T01:37:23.406600+00:00",
+  "2052af3031ae30d9": "2026-11-18T01:37:23.406600+00:00",
+  "1e308b5aafc025fe": "2026-11-18T01:37:23.406600+00:00",
+  "9729e350f38fe129": "2026-11-18T01:37:23.406600+00:00",
+  "b1402410d1be6681": "2026-11-18T01:37:23.406600+00:00",
+  "fa2d79e8a491ed5a": "2026-11-18T01:37:23.406600+00:00",
+  "b9fccc282f81f674": "2026-11-18T01:37:23.406600+00:00",
+  "83b8de21dbff089b": "2026-11-18T01:37:23.406600+00:00",
+  "ce29990362094ed7": "2026-11-18T01:37:23.406600+00:00",
+  "de54dba0191d0c13": "2026-11-18T01:37:23.406600+00:00",
+  "f1a2864397f21492": "2026-11-18T01:37:23.406600+00:00",
+  "2605c01e6d5214df": "2026-11-18T01:37:23.406600+00:00",
+  "cf0e815fce595f3a": "2026-11-18T01:37:23.406600+00:00",
+  "56e4daaf37dfc891": "2026-11-18T01:37:23.406600+00:00",
+  "2991c89a77602ab9": "2026-11-18T01:37:23.406600+00:00",
+  "c4e6e05bec3e1936": "2026-11-18T01:37:23.406600+00:00",
+  "19bce111d0ee6096": "2026-11-18T01:37:23.406600+00:00",
+  "bfe144881fd661a3": "2026-11-18T01:37:23.406600+00:00",
+  "cd8fd6636979b64b": "2026-11-18T01:37:23.406600+00:00",
+  "4064a6f4957505cb": "2026-11-18T01:37:23.406600+00:00",
+  "5f6c721d2709f281": "2026-11-18T01:37:23.406600+00:00",
+  "07681441b7ec337d": "2026-11-18T01:37:23.406600+00:00",
+  "b7c799c412c595b3": "2026-11-18T01:37:23.406600+00:00",
+  "110925d375f65296": "2026-11-18T01:37:23.406600+00:00",
+  "b0dff6dc5c2ead9b": "2026-11-18T01:37:23.406600+00:00",
+  "859fe7425ca0830b": "2026-11-18T01:37:23.406600+00:00",
+  "c2f9a8f3c86c9980": "2026-11-18T01:37:23.406600+00:00",
+  "ab0676cf6917bd60": "2026-11-18T01:37:23.406600+00:00",
+  "25772a56bd8fbb34": "2026-11-18T01:37:23.406600+00:00",
+  "1dcfbfb739d11e6f": "2026-11-18T01:37:23.406600+00:00",
+  "41930dc761537485": "2026-11-18T01:37:23.406600+00:00",
+  "f378d4ace0f37459": "2026-11-18T01:37:23.406600+00:00",
+  "e9edb7a3067e9f28": "2026-11-18T01:37:23.406600+00:00",
+  "d08f8789e3269284": "2026-11-18T01:37:23.406600+00:00",
+  "8239fbdc6243950a": "2026-11-18T01:37:23.406600+00:00",
+  "407420f377abe1ed": "2026-11-18T01:37:23.406600+00:00",
+  "f8e9566cc8a8c293": "2026-11-18T01:37:23.406600+00:00",
+  "66a7e2dd2648ec03": "2026-11-18T01:37:23.406600+00:00",
+  "3048c8347b1ec221": "2026-11-18T01:37:23.406600+00:00",
+  "e4eea805dcaebf4f": "2026-11-18T01:37:23.406600+00:00",
+  "950a39f90ba9c1a9": "2026-11-18T01:37:23.406600+00:00",
+  "9f7286d0bf416b1a": "2026-11-18T01:37:23.406600+00:00",
+  "8b7f77b800e70d3d": "2026-11-18T01:37:23.406600+00:00",
+  "197aaf879be58354": "2026-11-18T01:37:23.406600+00:00",
+  "95fdf62b26a03d8c": "2026-11-18T01:37:23.406600+00:00"
  },
  "covered": [
-  {
-   "headline": "Bharat Semi raises $24M for AI-enabled sensors",
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
   {
    "headline": "Jensen Huang discusses possible comeback as Nvidia CEO",
    "ts": "2026-11-16T02:07:33.662463+00:00"
@@ -2047,11 +2066,15 @@
   {
    "headline": "Nvidia doubles quarterly revenue to over $115 billion",
    "ts": "2026-11-18T01:07:23.150510+00:00"
+  },
+  {
+   "headline": "Nvidia board rejects Jensen Huang return as revenue forecasts rise",
+   "ts": "2026-11-18T01:37:23.406600+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3826,8 +3849,8 @@
    "first_seen_at": "2026-11-17T15:37:39.393037+00:00",
    "expires_at": "2026-11-19T02:00:08+00:00",
    "decision": 2.59,
-   "priority": 10.147888,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 10.165252,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3854,8 +3877,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 9.111809,
-   "selection_reason": "Time-sensitive story; waiting 11.0h"
+   "priority": 9.129172,
+   "selection_reason": "Time-sensitive story; waiting 11.5h"
   },
   {
    "id": "549a77347d5e1e5f",
@@ -3931,8 +3954,65 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T00:00:00+00:00",
    "decision": 2.76,
-   "priority": 8.896602,
-   "selection_reason": "Editorial importance"
+   "priority": 8.917438,
+   "selection_reason": "Editorial importance; waiting 0.5h"
+  },
+  {
+   "id": "d1cd519b758ab31f",
+   "item": {
+    "id": "d1cd519b758ab31f",
+    "title": "爱尔兰叫停X：禁止用AI智能体抓取第三方数据训练Grok",
+    "url": "https://36kr.com/newsflashes/4074539437888390?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "爱尔兰数据保护委员会（DPC）证实，已勒令X停止将AI智能体采集的数据用于AI模型训练。这家马斯克旗下社交巨头已经暂停使用其Grok Bot AI智能体采集的第三方数据来训练AI系统。该智能体自10月末开始抓取这类数据。爱尔兰数据保护委员会专员戴尔·桑德兰在采访中表示，监管机构近几周对该类数据处理行为提出了“重大关切”。“我们要求他们暂停这项数据处理，他们已于周一向我们确认执行。”（新浪财经）",
+    "published": "2026-11-18T00:42:48+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Ireland orders X to pause Grok AI agent data collection",
+   "post": "Ireland's Data Protection Commission ordered X to suspend using its Grok Bot AI agent to harvest third-party data for model training following regulatory concerns over data processing practices.",
+   "editor_note": "Check if the suspension applies solely in Ireland or globally on the platform.",
+   "support": 0.94,
+   "published_at": "2026-11-18T00:42:48+00:00",
+   "first_seen_at": "2026-11-18T01:37:23.406600+00:00",
+   "expires_at": "2026-11-19T12:42:48+00:00",
+   "decision": 2.08,
+   "priority": 8.66806,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "1cc49772113a983f",
+   "item": {
+    "id": "1cc49772113a983f",
+    "title": "China’s ‘token export’ ambitions take shape with new Huawei-powered data centre",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/7fd52946-ceb9-413d-9fd6-57063bc71a16_807bf22e.jpg?itok=6H7_w-dn&v=1794926179",
+    "snippet": "China has set its sights on becoming an export hub for artificial intelligence computing power, as the country launches its first AI computing cluster powered by Huawei Technologies’ latest Ascend 950DT chips that specifically targets overseas customers. The facility, which is based in the southern coastal city of Shantou, runs on the home-grown Ascend 950DT chip and is designed for a “token expor…",
+    "published": "2026-11-18T00:30:09+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "China launches first Huawei-powered token export data center",
+   "post": "A new AI computing cluster in Shantou powered by Huawei's Ascend 950DT chips has been launched to target overseas customers for token export services.",
+   "editor_note": "Verify technical specifications of the Ascend 950DT chip and intended export markets.",
+   "support": 0.96,
+   "published_at": "2026-11-18T00:30:09+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T12:30:09+00:00",
+   "decision": 1.89,
+   "priority": 8.630125,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3961,36 +4041,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.614968,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "1cc49772113a983f",
-   "item": {
-    "id": "1cc49772113a983f",
-    "title": "China’s ‘token export’ ambitions take shape with new Huawei-powered data centre",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/7fd52946-ceb9-413d-9fd6-57063bc71a16_807bf22e.jpg?itok=6H7_w-dn&v=1794926179",
-    "snippet": "China has set its sights on becoming an export hub for artificial intelligence computing power, as the country launches its first AI computing cluster powered by Huawei Technologies’ latest Ascend 950DT chips that specifically targets overseas customers. The facility, which is based in the southern coastal city of Shantou, runs on the home-grown Ascend 950DT chip and is designed for a “token expor…",
-    "published": "2026-11-18T00:30:09+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "China launches first Huawei-powered token export data center",
-   "post": "A new AI computing cluster in Shantou powered by Huawei's Ascend 950DT chips has been launched to target overseas customers for token export services.",
-   "editor_note": "Verify technical specifications of the Ascend 950DT chip and intended export markets.",
-   "support": 0.96,
-   "published_at": "2026-11-18T00:30:09+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T12:30:09+00:00",
-   "decision": 1.89,
-   "priority": 8.612761,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.609759,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4042,7 +4094,48 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.569011,
+   "priority": 8.586375,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "a64bf86d357e960f",
+   "item": {
+    "id": "a64bf86d357e960f",
+    "title": "Google Begins Rolling Out Personal AI Assistant, Tasks, In India",
+    "url": "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Big tech giant Google has begun rolling out its new agentic AI assistant Tasks, formerly Gemini Sparks, to users in India. In a blogpost , Josh Woodward, the vice-president of Google Labs and the Gemini app, said that the new feature will enable users to assign tasks to the AI assistant, including making calls, booking appointments, comparing products and completing purchases. The service comes bu…",
+    "published": "2026-11-17T23:31:37+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "72284a47c9d975a2",
+     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+     "published": "2026-11-17T18:58:01+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Google rolls out Tasks AI assistant in India",
+   "post": "Google has begun rolling out its agentic AI assistant Tasks in India. Formerly known as Spark, the free tool allows users to make calls, book appointments, and complete purchases through the Gemini app.",
+   "editor_note": "Confirm availability scope and whether Tasks is free across all user tiers in India.",
+   "support": 0.7,
+   "published_at": "2026-11-17T18:58:01+00:00",
+   "first_seen_at": "2026-11-18T01:37:23.406600+00:00",
+   "expires_at": "2026-11-19T06:58:01+00:00",
+   "decision": 2.24,
+   "priority": 8.561772,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4070,8 +4163,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.512221,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.529585,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4123,8 +4216,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.503973,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.490082,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4151,8 +4244,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 8.045366,
-   "selection_reason": "Time-sensitive story; waiting 11.0h"
+   "priority": 8.062729,
+   "selection_reason": "Time-sensitive story; waiting 11.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4181,36 +4274,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 7.774214,
-   "selection_reason": "Editorial importance"
-  },
-  {
-   "id": "3decd8b5d05673e4",
-   "item": {
-    "id": "3decd8b5d05673e4",
-    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
-    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
-    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
-    "published": "2026-11-17T12:17:02+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
-   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
-   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
-   "support": 0.85,
-   "published_at": "2026-11-17T12:17:02+00:00",
-   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
-   "expires_at": "2026-11-19T00:17:02+00:00",
-   "decision": 2.23,
-   "priority": 7.636689,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.802492,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4239,8 +4304,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.628301,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.623092,
+   "selection_reason": "Editorial importance; waiting 18.5h"
+  },
+  {
+   "id": "3decd8b5d05673e4",
+   "item": {
+    "id": "3decd8b5d05673e4",
+    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
+    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
+    "published": "2026-11-17T12:17:02+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
+   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
+   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
+   "support": 0.85,
+   "published_at": "2026-11-17T12:17:02+00:00",
+   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
+   "expires_at": "2026-11-19T00:17:02+00:00",
+   "decision": 2.23,
+   "priority": 7.622798,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4269,8 +4362,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.414968,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.409759,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4298,8 +4391,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.323232,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.309341,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4328,8 +4421,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.224968,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 7.219759,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4381,8 +4474,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.062283,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.048392,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4409,8 +4502,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 6.983301,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.96941,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4437,8 +4530,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.887044,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 6.873153,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4465,8 +4558,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.529935,
-   "selection_reason": "Editorial importance"
+   "priority": 6.550772,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   }
  ],
  "details_queue": [],
@@ -4625,12 +4718,13 @@
   "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726": "2026-11-17T13:09:03.047393+00:00",
   "https://inc42.com/buzz/claude-outpaces-chatgpt-gemini-in-india-adoption": "2026-11-17T14:08:40.334029+00:00",
   "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months": "2026-11-17T16:08:23.111947+00:00",
-  "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back": "2026-11-18T01:13:09.083177+00:00"
+  "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back": "2026-11-18T01:13:09.083177+00:00",
+  "https://www.theinformation.com/articles/nvidias-board-rebuffs-jensen": "2026-11-18T01:37:49.102859+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -18027,6 +18121,246 @@
    "imp": 0.16,
    "ai": 0.08,
    "ts": "2026-11-18T01:07:23.150510+00:00"
+  },
+  "95fdf62b26a03d8c": {
+   "imp": 0.58,
+   "ai": 0.9,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "d51ad7ebf5481626": {
+   "imp": 1.76,
+   "ai": 0.8,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "c4e6e05bec3e1936": {
+   "imp": 1.93,
+   "ai": 0.96,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "f16d6bfb64213709": {
+   "imp": 0.95,
+   "ai": 0.43,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "8bbe6d91e7e4ddc8": {
+   "imp": 0.3,
+   "ai": 0.05,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "1dcfbfb739d11e6f": {
+   "imp": 0.54,
+   "ai": 0.86,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "a12e13fe5b6b017b": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "effd10d01f751c1a": {
+   "imp": 0.36,
+   "ai": 0.08,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "d0fda962cb020cdb": {
+   "imp": 0.24,
+   "ai": 0.09,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "c55b938f5a8a861c": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "300dacdb14bce449": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "260faed474123804": {
+   "imp": 1.33,
+   "ai": 0.62,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "09375d6867492337": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "47b59d73a7a97334": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "ca141c17b77fff5a": {
+   "imp": 1.55,
+   "ai": 0.93,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "e830143b58362021": {
+   "imp": 1.72,
+   "ai": 0.58,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "890adb841a9bb057": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "9e25fa10fd229664": {
+   "imp": 0.59,
+   "ai": 0.27,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "541c8dfb47350d57": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "afcde4ac22dcdd9b": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "ab0d628883fd265a": {
+   "imp": 0.33,
+   "ai": 0.27,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "b05ae270eb4738f3": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "4635f9ac75727ff2": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "87806b91e6e2452a": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "49e6dc99f88f163c": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "5b8f6add8c63fcc7": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "f301bea81c9a3d11": {
+   "imp": 0.17,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "6a0da2a65c65bb2b": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "374e8c48f1336165": {
+   "imp": 1.0,
+   "ai": 0.49,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "54b8906e912cb3ba": {
+   "imp": 0.25,
+   "ai": 0.06,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "94eb06aad2a7fcd5": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "29747e0b82c4b08a": {
+   "imp": 0.17,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "863440ff5a39c23d": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "8eff498034a58563": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "863c5e986afd6617": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "98808199062867da": {
+   "imp": 0.21,
+   "ai": 0.06,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "cb43bb3602e8450b": {
+   "imp": 0.19,
+   "ai": 0.09,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "e04b92798ae8e8a1": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "8fa97e0850112e20": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "db04cd5d06572692": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "f5dc76978e3fd3ab": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "3e567e8e8a05418e": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "98f083439a957397": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "c1c6328d0f153873": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "2d3c7f5da40376ad": {
+   "imp": 0.2,
+   "ai": 0.06,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "60f45a639eb24098": {
+   "imp": 1.8,
+   "ai": 0.89,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "8b223d5737ffbb19": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
+  },
+  "c1ddccec9bba4c7d": {
+   "imp": 0.9,
+   "ai": 0.58,
+   "ts": "2026-11-18T01:37:23.406600+00:00"
   }
  }
 }
