@@ -1910,13 +1910,36 @@
   "8a2685ec9405afa8": "2026-11-18T13:37:25.451880+00:00",
   "014bf46a0b343c36": "2026-11-18T13:37:25.451880+00:00",
   "b0ca23f3753a09a6": "2026-11-18T13:37:25.451880+00:00",
-  "a2c57daa21667a6b": "2026-11-18T13:37:25.451880+00:00"
+  "a2c57daa21667a6b": "2026-11-18T13:37:25.451880+00:00",
+  "679cee5ea1466f1f": "2026-11-18T15:07:22.879384+00:00",
+  "1c3eaf246b725d75": "2026-11-18T15:07:22.879384+00:00",
+  "05a651b8e79432f4": "2026-11-18T15:07:22.879384+00:00",
+  "46ed1b706b9946ac": "2026-11-18T15:07:22.879384+00:00",
+  "bf1424b145e4fc73": "2026-11-18T15:07:22.879384+00:00",
+  "f602a860cb9d7416": "2026-11-18T15:07:22.879384+00:00",
+  "ca2dbd6a1065d15d": "2026-11-18T15:07:22.879384+00:00",
+  "ac31746ebecb99a6": "2026-11-18T15:07:22.879384+00:00",
+  "41693b326eabc69e": "2026-11-18T15:07:22.879384+00:00",
+  "e388753f59c900e8": "2026-11-18T15:07:22.879384+00:00",
+  "594a0c18d95177f6": "2026-11-18T15:07:22.879384+00:00",
+  "5ccde64d7d7e0145": "2026-11-18T15:07:22.879384+00:00",
+  "4dbd12c7c88e43c3": "2026-11-18T15:07:22.879384+00:00",
+  "5ee7ba7dbe4a93ec": "2026-11-18T15:07:22.879384+00:00",
+  "da76427797554cad": "2026-11-18T15:07:22.879384+00:00",
+  "84d2fa603ef696ee": "2026-11-18T15:07:22.879384+00:00",
+  "a7b9cb96af98a125": "2026-11-18T15:07:22.879384+00:00",
+  "4831f7787636e069": "2026-11-18T15:07:22.879384+00:00",
+  "2ce2699463b49ae8": "2026-11-18T15:07:22.879384+00:00",
+  "4c594b71509016d9": "2026-11-18T15:07:22.879384+00:00",
+  "a272017086888669": "2026-11-18T15:07:22.879384+00:00",
+  "8b49451598e12f2a": "2026-11-18T15:07:22.879384+00:00",
+  "e048bddcfd41ab36": "2026-11-18T15:07:22.879384+00:00",
+  "0e4d9a1dd248dc47": "2026-11-18T15:07:22.879384+00:00",
+  "996cedf31573e6ea": "2026-11-18T15:07:22.879384+00:00",
+  "5bc1e71da05ad4f5": "2026-11-18T15:07:22.879384+00:00",
+  "e89cb5a1f1366e8c": "2026-11-18T15:07:22.879384+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI explored $5 billion acquisition of startup Goodfire",
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
   {
    "headline": "Anthropic Claude Mythos Preview accelerates AMD MI355X setup",
    "ts": "2026-11-16T15:37:23.168630+00:00"
@@ -2112,11 +2135,15 @@
   {
    "headline": "Nvidia reports $115.8 billion quarterly revenue",
    "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  {
+   "headline": "Bengaluru leads India in AI startup funding",
+   "ts": "2026-11-18T15:07:22.879384+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3861,37 +3888,23 @@
   },
   "https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft": {
    "card": "Model Overview Description: The NVIDIA Qwen3.5-4B-Qwen3.8-27B-Draft model is an external draft model for Qwen’s Qwen3.8-27B – a complete language model rather than a draft head, sharing the target's tokenizer and vocabulary. It proposes blocks of candidate tokens which Qwen3.8-27B verifies by rejection sampling, reducing decode latency without changing the target's output distribution. Trained with NVIDIA Model Optimizer in external speculative decoding mode. This model is ready for commercial or non-commercial use. License/Terms of Use: GOVERNING DOWNLOAD TERMS: Use of this model is governed by the NVIDIA Open Model Agreement. ADDITIONAL INFORMATION : The Qwen3.5-4B draft base is governed by the Apache 2.0 License. Qwen3.5-4B . The Qwen3.8-27B target model is governed by the Apache 2.0 License. Qwen3.8-27B . Deployment Geography: Global Use Case: Developers and inference providers serving Qwen3.8-27B who want lower decode latency through speculative decoding. Recommended for this target. Release Date: Huggingface 11/17/2026 via https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft References NVIDIA Model Optimizer: https://github.com/NVIDIA/Model-Optimizer Model Architecture:…"
+  },
+  "https://huggingface.co/blog/rumble-2-flash": {
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
+   "published": "2026-11-18T00:00:00.772000+00:00",
+   "excerpt": "Today we're open sourcing Rumble-2-Flash under the Apache 2.0 license. It's a 0.5B-parameter speech recognition model for 40+ languages that competes with models 3-60x its size. audio accepts a local path, a URL, a NumPy array, or a list of these. Rumble-2-Flash uses the Qwen3-ASR architecture for day-0 support. If your stack runs Transformers or vLLM, it runs Rumble-2-Flash, with no forked runtime or trust_remote_code. To find out how small a model could get before accuracy dropped off, we distilled Rumble-2, our larger production model, into it with on-policy distillation. The student doesn't train on transcripts the teacher wrote. It transcribes the audio itself, and the teacher grades that transcript token by token: at every position, it gives its own probability for what should come n…"
+  },
+  "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": {
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "desc": "A Blog post by IBM Research on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
+   "published": "2026-11-18T15:00:23.479000+00:00",
+   "excerpt": "Real-time forecasting, anomaly detection, and optimization, powered by IBM time-series models with more than 50 million downloads. Now available natively on Confluent, in the cloud and on premises, running on CPUs. Every business generates a continuous record of change: a machine reading, a payment, a sale, an order, or a change in inventory. These observations form time series, and they carry signals that can help teams anticipate what happens next. The challenge is turning those signals into decisions while they still matter. A forecast delivered after a production run, a stockout, or a payment authorization may be accurate, but too late to influence the outcome. IBM and Confluent are bringing time-series foundation models closer to the data as it flows. With Apache Flink, teams can appl…"
   }
  },
  "pending": [
-  {
-   "id": "e89cb5a1f1366e8c",
-   "item": {
-    "id": "e89cb5a1f1366e8c",
-    "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
-    "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
-    "source": "YourStory",
-    "image": "",
-    "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
-    "published": "2026-11-18T12:24:12+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Bengaluru leads India in AI startup funding",
-   "post": "Bengaluru leads India in AI startup funding according to the Innovation Report 2026, which maps 85 billion dollars raised and a growing deep-tech pipeline across Karnataka.",
-   "editor_note": "Check currency and funding figures in the Bengaluru Innovation Report 2026.",
-   "support": 0.91,
-   "published_at": "2026-11-18T12:24:12+00:00",
-   "first_seen_at": "2026-11-18T12:37:24.202073+00:00",
-   "expires_at": "2026-11-20T00:24:12+00:00",
-   "decision": 2.37,
-   "priority": 8.853336,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
   {
    "id": "7ceec50630a597f6",
    "item": {
@@ -3930,8 +3943,36 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-19T23:30:00+00:00",
    "decision": 2.57,
-   "priority": 8.832389,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.849733,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "ce416493dbd77e39",
+   "item": {
+    "id": "ce416493dbd77e39",
+    "title": "Nvidia isn’t selling any more AI chips to China",
+    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, […]",
+    "published": "2026-11-18T13:01:05+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Nvidia stops advanced AI chip sales to China",
+   "post": "Nvidia has stopped sending its advanced artificial intelligence chips to China, despite receiving approval from the White House to do so in December last year.",
+   "editor_note": "Verify interim CEO Colette Kress's statements regarding the suspension of advanced chip shipments during the earnings call.",
+   "support": 0.95,
+   "published_at": "2026-11-18T13:01:05+00:00",
+   "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
+   "expires_at": "2026-11-20T01:01:05+00:00",
+   "decision": 2.49,
+   "priority": 8.771529,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "cd11067986e4eaf0",
@@ -3958,8 +3999,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T01:02:26+00:00",
    "decision": 1.99,
-   "priority": 8.681849,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.699192,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -3988,8 +4029,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.443855,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.440881,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4016,8 +4057,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.387209,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.373334,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4044,8 +4085,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.246276,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 8.232594,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4097,8 +4138,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.128961,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 8.115086,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4125,8 +4166,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.801076,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.81842,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4153,8 +4194,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.696368,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.713712,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4182,8 +4223,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.617566,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.63491,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4212,8 +4253,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.487672,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 7.482469,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4240,8 +4281,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.452348,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.438666,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4270,66 +4311,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.385504,
-   "selection_reason": "Editorial importance; waiting 8.5h"
-  },
-  {
-   "id": "b023f8d7a176acb5",
-   "item": {
-    "id": "b023f8d7a176acb5",
-    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-    "url": "https://arxiv.org/abs/2611.19937",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 26,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nanyang Technological University researchers introduce AllocFlow",
-   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
-   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
-   "support": 0.97,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.28,
-   "priority": 7.274338,
-   "selection_reason": "Editorial importance; waiting 31.0h"
-  },
-  {
-   "id": "3decd8b5d05673e4",
-   "item": {
-    "id": "3decd8b5d05673e4",
-    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
-    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
-    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
-    "published": "2026-11-17T12:17:02+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
-   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
-   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
-   "support": 0.85,
-   "published_at": "2026-11-17T12:17:02+00:00",
-   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
-   "expires_at": "2026-11-19T00:17:02+00:00",
-   "decision": 2.23,
-   "priority": 7.261677,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.41152,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4358,8 +4341,66 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.251605,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.27985,
+   "selection_reason": "Editorial importance; waiting 9.5h"
+  },
+  {
+   "id": "b023f8d7a176acb5",
+   "item": {
+    "id": "b023f8d7a176acb5",
+    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+    "url": "https://arxiv.org/abs/2611.19937",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 26,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nanyang Technological University researchers introduce AllocFlow",
+   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
+   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
+   "support": 0.97,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.28,
+   "priority": 7.269135,
+   "selection_reason": "Editorial importance; waiting 31.5h"
+  },
+  {
+   "id": "3decd8b5d05673e4",
+   "item": {
+    "id": "3decd8b5d05673e4",
+    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
+    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
+    "published": "2026-11-17T12:17:02+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
+   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
+   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
+   "support": 0.85,
+   "published_at": "2026-11-17T12:17:02+00:00",
+   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
+   "expires_at": "2026-11-19T00:17:02+00:00",
+   "decision": 2.23,
+   "priority": 7.247802,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4386,8 +4427,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.232904,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.219029,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4415,36 +4456,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.196983,
-   "selection_reason": "Editorial importance; waiting 5.5h"
-  },
-  {
-   "id": "b20533735bac1c5f",
-   "item": {
-    "id": "b20533735bac1c5f",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "published": "2026-11-17T17:20:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Vals tests AI model vulnerability in autonomous warfare simulation",
-   "post": "AI evaluation startup Vals reports that leading AI models were manipulated into identifying civilians as military targets during testing.",
-   "editor_note": "Check which specific models were tested and what exact prompt methods Vals used.",
-   "support": 0.86,
-   "published_at": "2026-11-17T17:20:41+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T05:20:41+00:00",
-   "decision": 1.6,
-   "priority": 7.192063,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.214327,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4472,8 +4485,64 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.179979,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.197322,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "b20533735bac1c5f",
+   "item": {
+    "id": "b20533735bac1c5f",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "published": "2026-11-17T17:20:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Vals tests AI model vulnerability in autonomous warfare simulation",
+   "post": "AI evaluation startup Vals reports that leading AI models were manipulated into identifying civilians as military targets during testing.",
+   "editor_note": "Check which specific models were tested and what exact prompt methods Vals used.",
+   "support": 0.86,
+   "published_at": "2026-11-17T17:20:41+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T05:20:41+00:00",
+   "decision": 1.6,
+   "priority": 7.178381,
+   "selection_reason": "Editorial importance; waiting 12.5h"
+  },
+  {
+   "id": "5875bfe14d0e6f3d",
+   "item": {
+    "id": "5875bfe14d0e6f3d",
+    "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+    "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question. The article OpenAI o…",
+    "published": "2026-11-18T14:36:42+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI provides independent auditors access to unreleased systems",
+   "post": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data.",
+   "editor_note": "Check terms of the audit agreement, particularly OpenAI's right to redact or delay reports.",
+   "support": 0.96,
+   "published_at": "2026-11-18T14:36:42+00:00",
+   "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
+   "expires_at": "2026-11-20T02:36:42+00:00",
+   "decision": 2.04,
+   "priority": 7.165796,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "2ca4066c8014e29d",
@@ -4502,8 +4571,8 @@
    "first_seen_at": "2026-11-18T12:37:24.202073+00:00",
    "expires_at": "2026-11-18T20:23:07+00:00",
    "decision": 1.42,
-   "priority": 7.132638,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.160883,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4530,8 +4599,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 7.121924,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.108049,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4559,8 +4628,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.087963,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.105307,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4589,36 +4658,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.084338,
-   "selection_reason": "Editorial importance; waiting 47.5h"
-  },
-  {
-   "id": "b22006398e4d6532",
-   "item": {
-    "id": "b22006398e4d6532",
-    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
-    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
-    "source": "ElevenLabs",
-    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/r79y1odp3ia-Scribe-v3-Live-Medical-Cover.webp",
-    "snippet": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
-    "published": "2026-11-17T12:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "ElevenLabs introduces Scribe v3 Live Medical model",
-   "post": "ElevenLabs released Scribe v3 Live Medical, a speech recognition model designed to process clinical terms and drug names on live calls for conversational agents.",
-   "editor_note": "Verify independent word error rate (WER) benchmarks compared to prior transcription models.",
-   "support": 0.72,
-   "published_at": "2026-11-17T12:00:00+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T12:00:00+00:00",
-   "decision": 0.91,
-   "priority": 6.998677,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.079135,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4646,8 +4687,36 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.983426,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.00077,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "b22006398e4d6532",
+   "item": {
+    "id": "b22006398e4d6532",
+    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
+    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
+    "source": "ElevenLabs",
+    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/r79y1odp3ia-Scribe-v3-Live-Medical-Cover.webp",
+    "snippet": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
+    "published": "2026-11-17T12:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 2
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "ElevenLabs introduces Scribe v3 Live Medical model",
+   "post": "ElevenLabs released Scribe v3 Live Medical, a speech recognition model designed to process clinical terms and drug names on live calls for conversational agents.",
+   "editor_note": "Verify independent word error rate (WER) benchmarks compared to prior transcription models.",
+   "support": 0.72,
+   "published_at": "2026-11-17T12:00:00+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T12:00:00+00:00",
+   "decision": 0.91,
+   "priority": 6.98827,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4675,11 +4744,21 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 6.94822,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.934345,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
+   "source": "YourStory",
+   "kind": "takes",
+   "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+   "summary": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
+   "queued_at": "2026-11-18T15:07:22.879384+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -20625,6 +20704,96 @@
    "imp": 0.14,
    "ai": 0.05,
    "ts": "2026-11-18T14:37:24.673193+00:00"
+  },
+  "5bc1e71da05ad4f5": {
+   "imp": 0.43,
+   "ai": null,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "5ee7ba7dbe4a93ec": {
+   "imp": 0.96,
+   "ai": null,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "1f88370877cf26c4": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "da76427797554cad": {
+   "imp": 2.38,
+   "ai": 0.93,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "d9ae007ae36c42e8": {
+   "imp": 1.02,
+   "ai": 0.82,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "a272017086888669": {
+   "imp": 1.69,
+   "ai": 0.89,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "4831f7787636e069": {
+   "imp": 1.96,
+   "ai": 0.96,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "8b49451598e12f2a": {
+   "imp": 1.32,
+   "ai": 0.95,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "594a0c18d95177f6": {
+   "imp": 2.13,
+   "ai": 0.96,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "5ccde64d7d7e0145": {
+   "imp": 1.85,
+   "ai": 0.79,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "bf1424b145e4fc73": {
+   "imp": 1.16,
+   "ai": null,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "679cee5ea1466f1f": {
+   "imp": 1.47,
+   "ai": null,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "05a651b8e79432f4": {
+   "imp": 1.21,
+   "ai": null,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "ef78b562d0831bd3": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "7282305b42bef382": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "be113688fd9a0b3a": {
+   "imp": 0.23,
+   "ai": 0.09,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "b03e09cba59ede17": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
+  },
+  "358ebcd58de33063": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-18T15:07:22.879384+00:00"
   }
  }
 }
