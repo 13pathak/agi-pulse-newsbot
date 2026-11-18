@@ -1,16 +1,5 @@
 {
  "seen": {
-  "5b59c75a11e5ce1d": "2026-11-11T11:37:20.537551+00:00",
-  "cf2f1f69ec6d3904": "2026-11-11T11:37:20.537551+00:00",
-  "da207fd44a9065d8": "2026-11-11T11:37:20.537551+00:00",
-  "f0e7e306d4f7c44e": "2026-11-11T11:37:20.537551+00:00",
-  "84934b4fdd2aba87": "2026-11-11T11:37:20.537551+00:00",
-  "6953975a69f50ab5": "2026-11-11T11:37:20.537551+00:00",
-  "2d9a8c10411fdce9": "2026-11-11T11:37:20.537551+00:00",
-  "3e62097d304884d1": "2026-11-11T11:37:20.537551+00:00",
-  "e6ae36654855307a": "2026-11-11T11:37:20.537551+00:00",
-  "7e5aceb460d6dca8": "2026-11-11T11:37:20.537551+00:00",
-  "558a87a3fc410224": "2026-11-11T11:37:20.537551+00:00",
   "7e747f00e201a8c8": "2026-11-11T12:07:25.150326+00:00",
   "6acb111c18e6ee27": "2026-11-11T12:07:25.150326+00:00",
   "3059651df1a92528": "2026-11-11T12:07:25.150326+00:00",
@@ -1931,13 +1920,18 @@
   "c38beb9bd9c36a36": "2026-11-18T11:07:31.469280+00:00",
   "f6d49a427f5a7571": "2026-11-18T11:07:31.469280+00:00",
   "c10c085de4eb152c": "2026-11-18T11:07:31.469280+00:00",
-  "b0a917fd54f3dec3": "2026-11-18T11:07:31.469280+00:00"
+  "b0a917fd54f3dec3": "2026-11-18T11:07:31.469280+00:00",
+  "efa75184cae29886": "2026-11-18T11:37:23.301342+00:00",
+  "52a552a79ca15465": "2026-11-18T11:37:23.301342+00:00",
+  "ccd68f4483c4364e": "2026-11-18T11:37:23.301342+00:00",
+  "42162d1676a956fa": "2026-11-18T11:37:23.301342+00:00",
+  "7ba817349e1597d3": "2026-11-18T11:37:23.301342+00:00",
+  "d1699bb1c7a2d19e": "2026-11-18T11:37:23.301342+00:00",
+  "f838ce9f4561d336": "2026-11-18T11:37:23.301342+00:00",
+  "231a189cb27a66f1": "2026-11-18T11:37:23.301342+00:00",
+  "55dde3921be9b1d7": "2026-11-18T11:37:23.301342+00:00"
  },
  "covered": [
-  {
-   "headline": "CtrlS Datacentres Plans 4.4 GW Capacity and Bihar AI Factory",
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
   {
    "headline": "Fed Governor Warns Autonomous AI Agents Could Accelerate Bank Runs",
    "ts": "2026-11-16T12:07:26.735425+00:00"
@@ -2141,11 +2135,15 @@
   {
    "headline": "Sarvam hosting Chinese AI models sparks sovereignty debate in India",
    "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  {
+   "headline": "Humyn Labs raises $47 million for robotics training data",
+   "ts": "2026-11-18T11:37:23.301342+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3915,8 +3913,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.359524,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 8.376806,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -3945,8 +3943,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.339821,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 8.367967,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3998,8 +3996,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.226131,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 8.212305,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4026,8 +4024,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.124813,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 8.142096,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4054,8 +4052,36 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.830886,
-   "selection_reason": "Time-sensitive story; waiting 8.5h"
+   "priority": 7.848168,
+   "selection_reason": "Time-sensitive story; waiting 9.0h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.696896,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4082,8 +4108,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.574906,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.592188,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4112,8 +4138,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.52411,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.518926,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4140,8 +4166,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.358847,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.345021,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4168,8 +4194,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.330074,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.316248,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4198,8 +4224,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.310777,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.305592,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4228,8 +4254,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.20331,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.229234,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4258,8 +4284,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.120777,
-   "selection_reason": "Editorial importance; waiting 44.0h"
+   "priority": 7.115592,
+   "selection_reason": "Editorial importance; waiting 44.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4287,8 +4313,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.075521,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.092803,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4315,37 +4341,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.070601,
-   "selection_reason": "Editorial importance; waiting 8.5h"
-  },
-  {
-   "id": "9727643803e6dbd2",
-   "item": {
-    "id": "9727643803e6dbd2",
-    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
-    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
-    "published": "2026-11-18T06:44:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
-   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
-   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
-   "support": 0.29,
-   "published_at": "2026-11-18T06:44:46+00:00",
-   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
-   "expires_at": "2026-11-19T18:44:46+00:00",
-   "decision": 1.29,
-   "priority": 7.058516,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.087883,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4374,8 +4371,65 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.053795,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.08194,
+   "selection_reason": "Editorial importance; waiting 6.0h"
+  },
+  {
+   "id": "9727643803e6dbd2",
+   "item": {
+    "id": "9727643803e6dbd2",
+    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
+    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
+    "published": "2026-11-18T06:44:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
+   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
+   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
+   "support": 0.29,
+   "published_at": "2026-11-18T06:44:46+00:00",
+   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
+   "expires_at": "2026-11-19T18:44:46+00:00",
+   "decision": 1.29,
+   "priority": 7.075799,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "d6a200a2e77b006b",
+   "item": {
+    "id": "d6a200a2e77b006b",
+    "title": "Salesforce sets AI budgets after employees spent 'thousands of dollars per month on tokens,' memo says",
+    "url": "https://www.businessinsider.com/salesforce-sets-monthly-ai-token-budgets-up-to-1-000-2026-11",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6afc88fa68dc6b6660b83ba5?format=jpeg",
+    "snippet": "Salesforce is setting AI budgets for employees. Some spent thousands per month on tokens last quarter, according to an internal memo. Other companies have introduced similar spending limits to rein in climbing AI costs. Salesforce is setting AI budgets for employees after some spent thousands per month on tokens last quarter, according to an internal memo viewed by Business Insider. \"Starting this…",
+    "published": "2026-11-17T19:07:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Salesforce sets token spending budgets for employees",
+   "post": "Salesforce has introduced internal AI spending budgets for employees following high token usage costs recorded during the previous quarter, according to an internal memo.",
+   "editor_note": "Confirm whether specific budget caps or employee spending limits were publicly detailed.",
+   "support": 0.93,
+   "published_at": "2026-11-17T19:07:58+00:00",
+   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
+   "expires_at": "2026-11-19T07:07:58+00:00",
+   "decision": 1.24,
+   "priority": 7.048917,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4403,36 +4457,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.04539,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "d6a200a2e77b006b",
-   "item": {
-    "id": "d6a200a2e77b006b",
-    "title": "Salesforce sets AI budgets after employees spent 'thousands of dollars per month on tokens,' memo says",
-    "url": "https://www.businessinsider.com/salesforce-sets-monthly-ai-token-budgets-up-to-1-000-2026-11",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6afc88fa68dc6b6660b83ba5?format=jpeg",
-    "snippet": "Salesforce is setting AI budgets for employees. Some spent thousands per month on tokens last quarter, according to an internal memo. Other companies have introduced similar spending limits to rein in climbing AI costs. Salesforce is setting AI budgets for employees after some spent thousands per month on tokens last quarter, according to an internal memo viewed by Business Insider. \"Starting this…",
-    "published": "2026-11-17T19:07:58+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Salesforce sets token spending budgets for employees",
-   "post": "Salesforce has introduced internal AI spending budgets for employees following high token usage costs recorded during the previous quarter, according to an internal memo.",
-   "editor_note": "Confirm whether specific budget caps or employee spending limits were publicly detailed.",
-   "support": 0.93,
-   "published_at": "2026-11-17T19:07:58+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T07:07:58+00:00",
-   "decision": 1.24,
-   "priority": 7.031634,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.031564,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4460,7 +4486,7 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.966501,
+   "priority": 6.983783,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4488,8 +4514,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.946698,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 6.967437,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4517,7 +4543,7 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.861964,
+   "priority": 6.879246,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -4696,12 +4722,13 @@
   "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear": "2026-11-18T09:39:27.202685+00:00",
   "https://www.livemint.com/technology/majority-of-indian-firms-hit-by-ai-agent-incident-in-past-12-months-only-36-pc-contained-it-in-24-hrs-survey-11794995034484.html": "2026-11-18T10:09:26.229602+00:00",
   "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187": "2026-11-18T10:41:59.143635+00:00",
-  "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate": "2026-11-18T11:11:11.539124+00:00"
+  "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate": "2026-11-18T11:11:11.539124+00:00",
+  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": "2026-11-18T11:39:44.682349+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
   "32933935200c2839": {
@@ -19783,6 +19810,141 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "42162d1676a956fa": {
+   "imp": 1.51,
+   "ai": 0.76,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "55dde3921be9b1d7": {
+   "imp": 2.29,
+   "ai": null,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "231a189cb27a66f1": {
+   "imp": 0.57,
+   "ai": null,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "efa75184cae29886": {
+   "imp": 2.07,
+   "ai": 0.91,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "97729a1864dffb88": {
+   "imp": 0.24,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "d1699bb1c7a2d19e": {
+   "imp": 1.68,
+   "ai": 0.73,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "52a552a79ca15465": {
+   "imp": 1.9,
+   "ai": 0.93,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "f838ce9f4561d336": {
+   "imp": 1.92,
+   "ai": 0.92,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "ccd68f4483c4364e": {
+   "imp": 1.79,
+   "ai": 0.86,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "3bb219d5733618b3": {
+   "imp": 2.2,
+   "ai": 0.97,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "b9d863f026e84a16": {
+   "imp": 0.36,
+   "ai": 0.07,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "094f2e019aaed61a": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "f46cfa11937d0aca": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "5e0513be269c1f7f": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "3e56c3b4006dd5f3": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "6fbd1bb07b7a4537": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "5eb31bdd06e1a567": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "99e14a6062fa8a0a": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "f3cb7195195ee047": {
+   "imp": 0.25,
+   "ai": 0.07,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "e040417dab96f8e4": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "c1a1f115fa91d06e": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "9c97d24609b0bbc7": {
+   "imp": 0.24,
+   "ai": 0.09,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "cad19e1fc465bf1c": {
+   "imp": 0.35,
+   "ai": 0.09,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "6e668a0992d1758c": {
+   "imp": 0.97,
+   "ai": 0.16,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "54837f6f8e834609": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "6de452f276e33c02": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "3a5ba3e80496a07a": {
+   "imp": 0.24,
+   "ai": 0.05,
+   "ts": "2026-11-18T11:37:23.301342+00:00"
   }
  }
 }
