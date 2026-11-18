@@ -1,9 +1,5 @@
 {
  "seen": {
-  "13fc76caec96a247": "2026-11-11T03:37:22.995445+00:00",
-  "21002a8e1dc5cd7d": "2026-11-11T03:37:22.995445+00:00",
-  "de567c4fcab87022": "2026-11-11T03:37:22.995445+00:00",
-  "82110824f2abb129": "2026-11-11T03:37:22.995445+00:00",
   "0e37bd4bf11cb308": "2026-11-11T04:07:21.533896+00:00",
   "9af3f2a52cb51605": "2026-11-11T04:07:21.533896+00:00",
   "3554707bed300e9b": "2026-11-11T04:07:21.533896+00:00",
@@ -1920,7 +1916,19 @@
   "7737f0bdbbad9d9b": "2026-11-18T03:07:23.998117+00:00",
   "1c1649dd2529293f": "2026-11-18T03:07:23.998117+00:00",
   "3a4b135687e309c5": "2026-11-18T03:07:23.998117+00:00",
-  "d1cd519b758ab31f": "2026-11-18T03:07:23.998117+00:00"
+  "d1cd519b758ab31f": "2026-11-18T03:07:23.998117+00:00",
+  "692230a9d797ddbd": "2026-11-18T03:37:22.679504+00:00",
+  "5b0b199a3f155cec": "2026-11-18T03:37:22.679504+00:00",
+  "f67da9654c4ba219": "2026-11-18T03:37:22.679504+00:00",
+  "648cc0788f68503f": "2026-11-18T03:37:22.679504+00:00",
+  "3fd98c85d36222b8": "2026-11-18T03:37:22.679504+00:00",
+  "63ec1046010f7806": "2026-11-18T03:37:22.679504+00:00",
+  "9073920a14eae64d": "2026-11-18T03:37:22.679504+00:00",
+  "1d563f2e18321b00": "2026-11-18T03:37:22.679504+00:00",
+  "6c56b08ac5d2fdf0": "2026-11-18T03:37:22.679504+00:00",
+  "027b06d66aa2428c": "2026-11-18T03:37:22.679504+00:00",
+  "6317374ad3ae5201": "2026-11-18T03:37:22.679504+00:00",
+  "1cc49772113a983f": "2026-11-18T03:37:22.679504+00:00"
  },
  "covered": [
   {
@@ -2094,11 +2102,15 @@
   {
    "headline": "Ireland orders X to pause Grok AI agent data collection",
    "ts": "2026-11-18T03:07:23.998117+00:00"
+  },
+  {
+   "headline": "China launches first Huawei-powered token export data center",
+   "ts": "2026-11-18T03:37:22.679504+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3805,34 +3817,6 @@
  },
  "pending": [
   {
-   "id": "1cc49772113a983f",
-   "item": {
-    "id": "1cc49772113a983f",
-    "title": "China’s ‘token export’ ambitions take shape with new Huawei-powered data centre",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/7fd52946-ceb9-413d-9fd6-57063bc71a16_807bf22e.jpg?itok=6H7_w-dn&v=1794926179",
-    "snippet": "China has set its sights on becoming an export hub for artificial intelligence computing power, as the country launches its first AI computing cluster powered by Huawei Technologies’ latest Ascend 950DT chips that specifically targets overseas customers. The facility, which is based in the southern coastal city of Shantou, runs on the home-grown Ascend 950DT chip and is designed for a “token expor…",
-    "published": "2026-11-18T00:30:09+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "China launches first Huawei-powered token export data center",
-   "post": "A new AI computing cluster in Shantou powered by Huawei's Ascend 950DT chips has been launched to target overseas customers for token export services.",
-   "editor_note": "Verify technical specifications of the Ascend 950DT chip and intended export markets.",
-   "support": 0.96,
-   "published_at": "2026-11-18T00:30:09+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T12:30:09+00:00",
-   "decision": 1.89,
-   "priority": 8.682214,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "9f1ef97889b505da",
    "item": {
     "id": "9f1ef97889b505da",
@@ -3882,36 +3866,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.638464,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
-   "id": "0b27db5afea169d0",
-   "item": {
-    "id": "0b27db5afea169d0",
-    "title": "Genesis AI, a Robotics Startup, Raises $500 Million",
-    "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology",
-    "source": "The Wall Street Journal",
-    "image": "https://images.wsj.net/im-50118049",
-    "snippet": "‘We’re working to build the world’s best general-purpose robot,’ says CEO Zhou Xian.",
-    "published": "2026-11-17T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Robotics startup Genesis AI raises $500 million",
-   "post": "Robotics startup Genesis AI has raised $500 million in funding to develop general-purpose robots, according to CEO Zhou Xian.",
-   "editor_note": "Confirm the funding round details and lead investors if available from the source.",
-   "support": 0.85,
-   "published_at": "2026-11-17T14:00:00+00:00",
-   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
-   "expires_at": "2026-11-19T02:00:00+00:00",
-   "decision": 2.2,
-   "priority": 8.618796,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 8.655812,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "a64bf86d357e960f",
@@ -3951,8 +3907,64 @@
    "first_seen_at": "2026-11-18T01:37:23.406600+00:00",
    "expires_at": "2026-11-19T06:58:01+00:00",
    "decision": 2.24,
-   "priority": 8.613861,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.631209,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "0b27db5afea169d0",
+   "item": {
+    "id": "0b27db5afea169d0",
+    "title": "Genesis AI, a Robotics Startup, Raises $500 Million",
+    "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology",
+    "source": "The Wall Street Journal",
+    "image": "https://images.wsj.net/im-50118049",
+    "snippet": "‘We’re working to build the world’s best general-purpose robot,’ says CEO Zhou Xian.",
+    "published": "2026-11-17T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Robotics startup Genesis AI raises $500 million",
+   "post": "Robotics startup Genesis AI has raised $500 million in funding to develop general-purpose robots, according to CEO Zhou Xian.",
+   "editor_note": "Confirm the funding round details and lead investors if available from the source.",
+   "support": 0.85,
+   "published_at": "2026-11-17T14:00:00+00:00",
+   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
+   "expires_at": "2026-11-19T02:00:00+00:00",
+   "decision": 2.2,
+   "priority": 8.604918,
+   "selection_reason": "Editorial importance; waiting 13.5h"
+  },
+  {
+   "id": "bf9c3e0a3483d49f",
+   "item": {
+    "id": "bf9c3e0a3483d49f",
+    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
+    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
+    "published": "2026-11-17T15:43:23+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Perplexity fast-tracks IPO plans for early 2027",
+   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
+   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
+   "support": 0.92,
+   "published_at": "2026-11-17T15:43:23+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T03:43:23+00:00",
+   "decision": 2.32,
+   "priority": 8.599022,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3981,36 +3993,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.594132,
-   "selection_reason": "Editorial importance; waiting 16.0h"
-  },
-  {
-   "id": "bf9c3e0a3483d49f",
-   "item": {
-    "id": "bf9c3e0a3483d49f",
-    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
-    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
-    "published": "2026-11-17T15:43:23+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Perplexity fast-tracks IPO plans for early 2027",
-   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
-   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
-   "support": 0.92,
-   "published_at": "2026-11-17T15:43:23+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T03:43:23+00:00",
-   "decision": 2.32,
-   "priority": 8.581674,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.588927,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "7fcfb79e30de0a30",
@@ -4037,8 +4021,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T14:00:00+00:00",
    "decision": 1.62,
-   "priority": 8.571207,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.588556,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "d51ad7ebf5481626",
@@ -4065,8 +4049,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:15:20+00:00",
    "decision": 1.76,
-   "priority": 8.565829,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.583178,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "a00d072e1ee989a0",
@@ -4094,8 +4078,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T14:18:48+00:00",
    "decision": 1.55,
-   "priority": 8.525212,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.542561,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "862b4c03c86841db",
@@ -4122,8 +4106,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:40:35+00:00",
    "decision": 1.85,
-   "priority": 8.472218,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.489567,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4175,8 +4159,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.448411,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 8.434532,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4203,8 +4187,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.346964,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.364312,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4233,8 +4217,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 7.887323,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.915576,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4263,36 +4247,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.607465,
-   "selection_reason": "Editorial importance; waiting 20.0h"
-  },
-  {
-   "id": "3decd8b5d05673e4",
-   "item": {
-    "id": "3decd8b5d05673e4",
-    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
-    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
-    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
-    "published": "2026-11-17T12:17:02+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
-   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
-   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
-   "support": 0.85,
-   "published_at": "2026-11-17T12:17:02+00:00",
-   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
-   "expires_at": "2026-11-19T00:17:02+00:00",
-   "decision": 2.23,
-   "priority": 7.581127,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.602261,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4319,8 +4275,36 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.553036,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.570385,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "3decd8b5d05673e4",
+   "item": {
+    "id": "3decd8b5d05673e4",
+    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
+    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
+    "published": "2026-11-17T12:17:02+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
+   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
+   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
+   "support": 0.85,
+   "published_at": "2026-11-17T12:17:02+00:00",
+   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
+   "expires_at": "2026-11-19T00:17:02+00:00",
+   "decision": 2.23,
+   "priority": 7.567248,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4347,8 +4331,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.552353,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.538475,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4377,8 +4361,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.394132,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.388927,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4405,8 +4389,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.292751,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.310099,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4434,8 +4418,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.26767,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.253791,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4464,8 +4448,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.204132,
-   "selection_reason": "Editorial importance; waiting 36.0h"
+   "priority": 7.198927,
+   "selection_reason": "Editorial importance; waiting 36.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4517,8 +4501,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.006721,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.992842,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4545,8 +4529,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 6.927739,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.91386,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4573,8 +4557,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.831481,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.817603,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4601,8 +4585,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.753784,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.771133,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4629,8 +4613,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.613279,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.634097,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -4793,12 +4777,13 @@
   "https://www.theinformation.com/articles/nvidias-board-rebuffs-jensen": "2026-11-18T01:37:49.102859+00:00",
   "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html": "2026-11-18T02:08:09.274430+00:00",
   "https://openai.com/index/introducing-gpt-6-2-astra-sol": "2026-11-18T02:39:36.975439+00:00",
-  "https://36kr.com/newsflashes/4074539437888390?f=rss": "2026-11-18T03:09:18.292557+00:00"
+  "https://36kr.com/newsflashes/4074539437888390?f=rss": "2026-11-18T03:09:18.292557+00:00",
+  "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre": "2026-11-18T03:39:32.049881+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
   "32933935200c2839": {
@@ -18645,6 +18630,31 @@
    "imp": 0.08,
    "ai": 0.02,
    "ts": "2026-11-18T03:07:23.998117+00:00"
+  },
+  "f67da9654c4ba219": {
+   "imp": 2.32,
+   "ai": 0.98,
+   "ts": "2026-11-18T03:37:22.679504+00:00"
+  },
+  "3fd98c85d36222b8": {
+   "imp": 1.32,
+   "ai": 0.8,
+   "ts": "2026-11-18T03:37:22.679504+00:00"
+  },
+  "a64d8f6f24e9bacc": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-18T03:37:22.679504+00:00"
+  },
+  "6317374ad3ae5201": {
+   "imp": 1.47,
+   "ai": 0.83,
+   "ts": "2026-11-18T03:37:22.679504+00:00"
+  },
+  "cc24505c45086c43": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-18T03:37:22.679504+00:00"
   }
  }
 }
