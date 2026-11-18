@@ -1,16 +1,5 @@
 {
  "seen": {
-  "1383804c9ccf0f82": "2026-11-11T11:07:23.012607+00:00",
-  "6b75d515d367494e": "2026-11-11T11:07:23.012607+00:00",
-  "f6ce9f0cc130556c": "2026-11-11T11:07:23.012607+00:00",
-  "7e5611257fe7a8d1": "2026-11-11T11:07:23.012607+00:00",
-  "d42d8c080c074a7a": "2026-11-11T11:07:23.012607+00:00",
-  "96a5abd22c043c37": "2026-11-11T11:07:23.012607+00:00",
-  "9521d64bda668317": "2026-11-11T11:07:23.012607+00:00",
-  "07b188e4bbdbc026": "2026-11-11T11:07:23.012607+00:00",
-  "50f38afba5bf106a": "2026-11-11T11:07:23.012607+00:00",
-  "ff1aad5f53885825": "2026-11-11T11:07:23.012607+00:00",
-  "8720d209ccf54646": "2026-11-11T11:07:23.012607+00:00",
   "5b59c75a11e5ce1d": "2026-11-11T11:37:20.537551+00:00",
   "cf2f1f69ec6d3904": "2026-11-11T11:37:20.537551+00:00",
   "da207fd44a9065d8": "2026-11-11T11:37:20.537551+00:00",
@@ -1936,13 +1925,15 @@
   "55e8cba7ef81c14e": "2026-11-18T10:37:26.075554+00:00",
   "4f6a7d489b8ac936": "2026-11-18T10:37:26.075554+00:00",
   "52140d40d012eee4": "2026-11-18T10:37:26.075554+00:00",
-  "edd55e44ca983db9": "2026-11-18T10:37:26.075554+00:00"
+  "edd55e44ca983db9": "2026-11-18T10:37:26.075554+00:00",
+  "a57d55122b0b573b": "2026-11-18T11:07:31.469280+00:00",
+  "4ac852a1e8faad59": "2026-11-18T11:07:31.469280+00:00",
+  "c38beb9bd9c36a36": "2026-11-18T11:07:31.469280+00:00",
+  "f6d49a427f5a7571": "2026-11-18T11:07:31.469280+00:00",
+  "c10c085de4eb152c": "2026-11-18T11:07:31.469280+00:00",
+  "b0a917fd54f3dec3": "2026-11-18T11:07:31.469280+00:00"
  },
  "covered": [
-  {
-   "headline": "India joins US-led pact to secure AI supply chains",
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
   {
    "headline": "CtrlS Datacentres Plans 4.4 GW Capacity and Bihar AI Factory",
    "ts": "2026-11-16T11:37:21.233983+00:00"
@@ -2146,11 +2137,15 @@
   {
    "headline": "Serri AI crosses $2 million ARR milestone",
    "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  {
+   "headline": "Sarvam hosting Chinese AI models sparks sovereignty debate in India",
+   "ts": "2026-11-18T11:07:31.469280+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3920,8 +3915,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.34211,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 8.359524,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -3950,8 +3945,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.311463,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 8.339821,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4003,8 +3998,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.240061,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 8.226131,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4031,8 +4026,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.1074,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 8.124813,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4059,8 +4054,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.813473,
-   "selection_reason": "Time-sensitive story; waiting 8.0h"
+   "priority": 7.830886,
+   "selection_reason": "Time-sensitive story; waiting 8.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4087,8 +4082,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.557492,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.574906,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4117,8 +4112,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.529334,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.52411,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4145,8 +4140,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.372777,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.358847,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4173,8 +4168,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.344004,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.330074,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4203,8 +4198,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.316001,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.310777,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4233,8 +4228,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.177191,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.20331,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4263,37 +4258,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.126001,
-   "selection_reason": "Editorial importance; waiting 43.5h"
-  },
-  {
-   "id": "1336358d761ba076",
-   "item": {
-    "id": "1336358d761ba076",
-    "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
-    "url": "https://36kr.com/p/4072516740797318?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络搭建。 博理科技成立于2017年，专注于高分子弹性体材料与超高速3D打印批量制造，业务覆盖材料研发、装备制造、软件系统开发与量产生产服务。谈及品牌名称的由来，创始人王文斌表示，PollyPolymer中的“Polymer”代表高分子聚合物，“Polly”则取自自己的英文名。材料是博理科技业务发展的起点，装备、自研软件与量产生产服务均在此基础上延伸。依托自研HALS超高速3D打印技术平台，博理科技面向不同行业开发专用高性能材料，并通过一体化解决方案为客户提供批量制造能力。 自2020年A轮融资以来， 博理科技已先后完成四轮融资 ，持续围绕材料研发、装备迭代与产能建设投入。 随着3D打印技术在消费品、工业零部件等领域的应用逐步深入，行业竞争正从单一技术指标向规模化制造能力延伸。如何兼顾生产效率、成本与交付稳定性，成为增材制造企业商业化过程中需要解决的问题。 机器人零部件 从材料研发到智能云工厂，推动3D打印规模化制造 3D打印无需提前开模，具有设计自由度高、复杂结构一体成型等特点，长期以来主要应用于产品设计、原型验证及批量定制生产。但要进入工业主产线…",
-    "published": "2026-11-17T10:07:10+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Polly Polymer secures over 500 million yuan in funding",
-   "post": "Chinese 3D printing and material manufacturer Polly Polymer has raised over 500 million yuan across its B2 and B+ funding rounds. The capital will fund polymer material research, manufacturing capacity expansion, and embodied AI applications.",
-   "editor_note": "Verify the exact funding totals and lead investors listed for the B2 and B+ rounds.",
-   "support": 0.96,
-   "published_at": "2026-11-17T10:07:10+00:00",
-   "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
-   "expires_at": "2026-11-18T22:07:10+00:00",
-   "decision": 1.47,
-   "priority": 7.05932,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.120777,
+   "selection_reason": "Editorial importance; waiting 44.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4321,8 +4287,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.058108,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.075521,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4349,8 +4315,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.053187,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.070601,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4378,8 +4344,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.041103,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.058516,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4408,8 +4374,37 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.025436,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.053795,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "1336358d761ba076",
+   "item": {
+    "id": "1336358d761ba076",
+    "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
+    "url": "https://36kr.com/p/4072516740797318?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络搭建。 博理科技成立于2017年，专注于高分子弹性体材料与超高速3D打印批量制造，业务覆盖材料研发、装备制造、软件系统开发与量产生产服务。谈及品牌名称的由来，创始人王文斌表示，PollyPolymer中的“Polymer”代表高分子聚合物，“Polly”则取自自己的英文名。材料是博理科技业务发展的起点，装备、自研软件与量产生产服务均在此基础上延伸。依托自研HALS超高速3D打印技术平台，博理科技面向不同行业开发专用高性能材料，并通过一体化解决方案为客户提供批量制造能力。 自2020年A轮融资以来， 博理科技已先后完成四轮融资 ，持续围绕材料研发、装备迭代与产能建设投入。 随着3D打印技术在消费品、工业零部件等领域的应用逐步深入，行业竞争正从单一技术指标向规模化制造能力延伸。如何兼顾生产效率、成本与交付稳定性，成为增材制造企业商业化过程中需要解决的问题。 机器人零部件 从材料研发到智能云工厂，推动3D打印规模化制造 3D打印无需提前开模，具有设计自由度高、复杂结构一体成型等特点，长期以来主要应用于产品设计、原型验证及批量定制生产。但要进入工业主产线…",
+    "published": "2026-11-17T10:07:10+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Polly Polymer secures over 500 million yuan in funding",
+   "post": "Chinese 3D printing and material manufacturer Polly Polymer has raised over 500 million yuan across its B2 and B+ funding rounds. The capital will fund polymer material research, manufacturing capacity expansion, and embodied AI applications.",
+   "editor_note": "Verify the exact funding totals and lead investors listed for the B2 and B+ rounds.",
+   "support": 0.96,
+   "published_at": "2026-11-17T10:07:10+00:00",
+   "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
+   "expires_at": "2026-11-18T22:07:10+00:00",
+   "decision": 1.47,
+   "priority": 7.04539,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4436,8 +4431,37 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 7.014221,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.031634,
+   "selection_reason": "Editorial importance; waiting 9.0h"
+  },
+  {
+   "id": "9162001826d50396",
+   "item": {
+    "id": "9162001826d50396",
+    "title": "商汤：2026前三季度营收同比增长30.4%至37.9亿，毛利率提升至43.4%",
+    "url": "https://36kr.com/newsflashes/4075103427335043?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "11月18日，商汤集团发布截至2026年9月30日止九个月业务进展。集团收入同比增长30.4%至人民币37.9亿元，增速较2026年上半年进一步加快；毛利率提升4.3个百分点至43.4%，毛利增加45.0%至人民币16.5亿元，毛利增速快于收入增速，收入质量持续改善。业务结构方面，生成式AI持续成为增长核心，增速持续高于集团整体收入增速，其中第三季度同比增长超过一倍。集团前期战略投入回报正逐步显现，AI业务商业化进程进一步提速。",
+    "published": "2026-11-18T10:09:34+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SenseTime reports 30.4 percent revenue growth in first nine months",
+   "post": "SenseTime reported revenue of 3.79 billion yuan for the first nine months, marking a 30.4 percent year-on-year increase, alongside a gross margin of 43.4 percent.",
+   "editor_note": "Confirm whether generative AI growth figures apply strictly to the third quarter as stated.",
+   "support": 0.96,
+   "published_at": "2026-11-18T10:09:34+00:00",
+   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
+   "expires_at": "2026-11-19T22:09:34+00:00",
+   "decision": 1.48,
+   "priority": 6.966501,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b22006398e4d6532",
@@ -4464,8 +4488,37 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.925803,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 6.946698,
+   "selection_reason": "Editorial importance; waiting 10.0h"
+  },
+  {
+   "id": "59f6c6e58008fe2a",
+   "item": {
+    "id": "59f6c6e58008fe2a",
+    "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
+    "url": "https://36kr.com/newsflashes/4075107954398343?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
+    "published": "2026-11-18T10:14:10+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Xingyun Technology signs AI token cross-border sales contract",
+   "post": "Xingyun Technology signed an AI token cross-border sales contract with New Silk Road Holding Group featuring a 2 billion yuan settlement cap and an initial 200 million yuan order.",
+   "editor_note": "Check contract duration and specific business application domains mentioned.",
+   "support": 0.97,
+   "published_at": "2026-11-18T10:14:10+00:00",
+   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
+   "expires_at": "2026-11-19T22:14:10+00:00",
+   "decision": 1.16,
+   "priority": 6.861964,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4642,12 +4695,13 @@
   "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998": "2026-11-18T09:08:16.597956+00:00",
   "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear": "2026-11-18T09:39:27.202685+00:00",
   "https://www.livemint.com/technology/majority-of-indian-firms-hit-by-ai-agent-incident-in-past-12-months-only-36-pc-contained-it-in-24-hrs-survey-11794995034484.html": "2026-11-18T10:09:26.229602+00:00",
-  "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187": "2026-11-18T10:41:59.143635+00:00"
+  "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187": "2026-11-18T10:41:59.143635+00:00",
+  "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate": "2026-11-18T11:11:11.539124+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
   "32933935200c2839": {
@@ -19644,6 +19698,91 @@
    "imp": 0.14,
    "ai": 0.03,
    "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "c38beb9bd9c36a36": {
+   "imp": 1.4,
+   "ai": null,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "c10c085de4eb152c": {
+   "imp": 0.66,
+   "ai": 0.44,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "a57d55122b0b573b": {
+   "imp": 2.3,
+   "ai": 0.93,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "7ba817349e1597d3": {
+   "imp": 1.0,
+   "ai": 0.93,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "b0a917fd54f3dec3": {
+   "imp": 2.37,
+   "ai": 0.98,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "4ac852a1e8faad59": {
+   "imp": 1.6,
+   "ai": 0.52,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "b2f2054ae2616e3d": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "b669c234b6af3cbf": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "d808cfae5c579b8c": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "7dea756eae0dd8ea": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "0c916abfbf8f42e5": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "374c3b18dc4b4699": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "5affb7b38df7a24c": {
+   "imp": 0.51,
+   "ai": 0.2,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "22cfe040cd8cd25b": {
+   "imp": 0.36,
+   "ai": 0.11,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "900e0bf9efd965fd": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "2c9fe8d09c059677": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
+  },
+  "1a65d57189b7120a": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-18T11:07:31.469280+00:00"
   }
  }
 }
