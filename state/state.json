@@ -1,8 +1,5 @@
 {
  "seen": {
-  "14eef01dc0f429cb": "2026-11-11T09:07:24.243812+00:00",
-  "8d8426e9da9afab0": "2026-11-11T09:07:24.243812+00:00",
-  "786b78d6c6e60a44": "2026-11-11T09:07:24.243812+00:00",
   "16dadfebd33571f8": "2026-11-11T09:37:22.199163+00:00",
   "339b18803e37a2cf": "2026-11-11T09:37:22.199163+00:00",
   "c602d0f1c1a1da95": "2026-11-11T09:37:22.199163+00:00",
@@ -1917,7 +1914,13 @@
   "1c7bbc65b034423d": "2026-11-18T08:37:32.820431+00:00",
   "6d360bef5d6fcf70": "2026-11-18T08:37:32.820431+00:00",
   "813e302ccb617cc1": "2026-11-18T08:37:32.820431+00:00",
-  "0b27db5afea169d0": "2026-11-18T08:37:32.820431+00:00"
+  "0b27db5afea169d0": "2026-11-18T08:37:32.820431+00:00",
+  "d6f42481b3d3db4c": "2026-11-18T09:07:23.938680+00:00",
+  "728d5761c63a84e6": "2026-11-18T09:07:23.938680+00:00",
+  "502688bdb5c3a95e": "2026-11-18T09:07:23.938680+00:00",
+  "74baad58c9e1658c": "2026-11-18T09:07:23.938680+00:00",
+  "e2de448ca04451c4": "2026-11-18T09:07:23.938680+00:00",
+  "df2ac5661a9d402d": "2026-11-18T09:07:23.938680+00:00"
  },
  "covered": [
   {
@@ -2115,11 +2118,15 @@
   {
    "headline": "Robotics startup Genesis AI raises $500 million",
    "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  {
+   "headline": "Robotics company Botsync raises $11 million Series B",
+   "ts": "2026-11-18T09:07:23.938680+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3896,8 +3903,36 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.329521,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 8.346797,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "bf9c3e0a3483d49f",
+   "item": {
+    "id": "bf9c3e0a3483d49f",
+    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
+    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
+    "published": "2026-11-17T15:43:23+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Perplexity fast-tracks IPO plans for early 2027",
+   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
+   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
+   "support": 0.92,
+   "published_at": "2026-11-17T15:43:23+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T03:43:23+00:00",
+   "decision": 2.32,
+   "priority": 8.290006,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3949,36 +3984,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.295565,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
-   "id": "bf9c3e0a3483d49f",
-   "item": {
-    "id": "bf9c3e0a3483d49f",
-    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
-    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
-    "published": "2026-11-17T15:43:23+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Perplexity fast-tracks IPO plans for early 2027",
-   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
-   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
-   "support": 0.92,
-   "published_at": "2026-11-17T15:43:23+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T03:43:23+00:00",
-   "decision": 2.32,
-   "priority": 8.272731,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 8.281744,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4007,8 +4014,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.198473,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 8.226608,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4035,8 +4042,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.038021,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 8.055296,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4063,8 +4070,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.744094,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.761369,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4093,8 +4100,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.550148,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.544965,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4121,8 +4128,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.428281,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.41446,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4149,8 +4156,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.399508,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.385687,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4179,8 +4186,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.336815,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.331632,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4209,8 +4216,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.146815,
-   "selection_reason": "Editorial importance; waiting 41.5h"
+   "priority": 7.141632,
+   "selection_reason": "Editorial importance; waiting 42.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4238,8 +4245,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.114824,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.101004,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4268,8 +4275,37 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.073122,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.099035,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "adadf9d1614c8d19",
+   "item": {
+    "id": "adadf9d1614c8d19",
+    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
+    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
+    "published": "2026-11-18T08:58:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Pony AI reports third quarter revenue growth",
+   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
+   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
+   "support": 0.89,
+   "published_at": "2026-11-18T08:58:46+00:00",
+   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
+   "expires_at": "2026-11-19T20:58:46+00:00",
+   "decision": 1.53,
+   "priority": 7.006004,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4296,8 +4332,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 6.983808,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.001083,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4325,8 +4361,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.971724,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.988999,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4353,8 +4389,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.944842,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.962117,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4383,8 +4419,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.912447,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.940581,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4411,8 +4447,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.842547,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 6.863278,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   }
  ],
  "details_queue": [],
@@ -4585,12 +4621,13 @@
   "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights": "2026-11-18T07:08:05.542528+00:00",
   "https://www.indiatoday.in/technology/news/story/microsoft-launches-7-ai-models-focused-on-coding-takes-on-openai-and-anthropic-challenge-3041325-2026-11-18": "2026-11-18T07:39:22.536883+00:00",
   "https://arxiv.org/abs/2611.21072": "2026-11-18T08:08:22.192439+00:00",
-  "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology": "2026-11-18T08:39:32.402992+00:00"
+  "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology": "2026-11-18T08:39:32.402992+00:00",
+  "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998": "2026-11-18T09:08:16.597956+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
   "32933935200c2839": {
@@ -19147,6 +19184,101 @@
    "imp": 0.07,
    "ai": 0.03,
    "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "74baad58c9e1658c": {
+   "imp": 1.01,
+   "ai": 0.7,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "502688bdb5c3a95e": {
+   "imp": 1.48,
+   "ai": 0.74,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "728d5761c63a84e6": {
+   "imp": 1.48,
+   "ai": 0.92,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "d6f42481b3d3db4c": {
+   "imp": 1.83,
+   "ai": 0.93,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "adb20ae36e8eb8c3": {
+   "imp": 0.83,
+   "ai": 0.09,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "df2ac5661a9d402d": {
+   "imp": 1.83,
+   "ai": 0.84,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "0d6b309196ae5d03": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "0fe0b417cb20828d": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "6b19a47847f5f1c8": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "1255ca216bc65073": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "be4bd11bbb886459": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "adadf9d1614c8d19": {
+   "imp": 1.53,
+   "ai": 0.71,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "03263f9225e0326c": {
+   "imp": 0.27,
+   "ai": 0.09,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "50395d5b68dee75e": {
+   "imp": 0.74,
+   "ai": 0.25,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "1050de327b97abe7": {
+   "imp": 0.27,
+   "ai": 0.07,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "4c238c052ff07116": {
+   "imp": 0.18,
+   "ai": 0.06,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "6b029c27a5930953": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "50a6ed5b75602b15": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
+  },
+  "e2de448ca04451c4": {
+   "imp": 1.76,
+   "ai": 0.75,
+   "ts": "2026-11-18T09:07:23.938680+00:00"
   }
  }
 }
