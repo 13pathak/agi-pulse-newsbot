@@ -1,13 +1,5 @@
 {
  "seen": {
-  "7e747f00e201a8c8": "2026-11-11T12:07:25.150326+00:00",
-  "6acb111c18e6ee27": "2026-11-11T12:07:25.150326+00:00",
-  "3059651df1a92528": "2026-11-11T12:07:25.150326+00:00",
-  "4333c505c238a859": "2026-11-11T12:07:25.150326+00:00",
-  "f61c80cf7d04dbb2": "2026-11-11T12:07:25.150326+00:00",
-  "f83304c2bef3bca1": "2026-11-11T12:07:25.150326+00:00",
-  "18197229b3115bd4": "2026-11-11T12:07:25.150326+00:00",
-  "1ce88ac3e6754bb1": "2026-11-11T12:07:25.150326+00:00",
   "63443a2372b348cc": "2026-11-11T12:37:23.503234+00:00",
   "e4e6c2d5784e8f90": "2026-11-11T12:37:23.503234+00:00",
   "49ddec349ce56dcd": "2026-11-11T12:37:23.503234+00:00",
@@ -1929,13 +1921,17 @@
   "d1699bb1c7a2d19e": "2026-11-18T11:37:23.301342+00:00",
   "f838ce9f4561d336": "2026-11-18T11:37:23.301342+00:00",
   "231a189cb27a66f1": "2026-11-18T11:37:23.301342+00:00",
-  "55dde3921be9b1d7": "2026-11-18T11:37:23.301342+00:00"
+  "55dde3921be9b1d7": "2026-11-18T11:37:23.301342+00:00",
+  "45f86b19440576fc": "2026-11-18T12:07:25.036261+00:00",
+  "7bbaa8f8edafb298": "2026-11-18T12:07:25.036261+00:00",
+  "74b926ce1c843400": "2026-11-18T12:07:25.036261+00:00",
+  "da6c827addce47a1": "2026-11-18T12:07:25.036261+00:00",
+  "14b67dddb8073b5b": "2026-11-18T12:07:25.036261+00:00",
+  "a9c49e3c7bc61fcf": "2026-11-18T12:07:25.036261+00:00",
+  "98cab08b1670a3e9": "2026-11-18T12:07:25.036261+00:00",
+  "f4f94579258154b8": "2026-11-18T12:07:25.036261+00:00"
  },
  "covered": [
-  {
-   "headline": "Fed Governor Warns Autonomous AI Agents Could Accelerate Bank Runs",
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
   {
    "headline": "Dreamteam raises $53M for AI-native CRM",
    "ts": "2026-11-16T12:37:38.212110+00:00"
@@ -2139,11 +2135,15 @@
   {
    "headline": "Humyn Labs raises $47 million for robotics training data",
    "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  {
+   "headline": "Nvidia expands chip supply chain with multi-billion dollar packaging support",
+   "ts": "2026-11-18T12:07:25.036261+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3889,34 +3889,6 @@
  },
  "pending": [
   {
-   "id": "bf9c3e0a3483d49f",
-   "item": {
-    "id": "bf9c3e0a3483d49f",
-    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
-    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
-    "published": "2026-11-17T15:43:23+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Perplexity fast-tracks IPO plans for early 2027",
-   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
-   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
-   "support": 0.92,
-   "published_at": "2026-11-17T15:43:23+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T03:43:23+00:00",
-   "decision": 2.32,
-   "priority": 8.376806,
-   "selection_reason": "Editorial importance; waiting 10.5h"
-  },
-  {
    "id": "6f06a2856d598e84",
    "item": {
     "id": "6f06a2856d598e84",
@@ -3943,8 +3915,36 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.367967,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 8.396268,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "bf9c3e0a3483d49f",
+   "item": {
+    "id": "bf9c3e0a3483d49f",
+    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
+    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
+    "published": "2026-11-17T15:43:23+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Perplexity fast-tracks IPO plans for early 2027",
+   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
+   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
+   "support": 0.92,
+   "published_at": "2026-11-17T15:43:23+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T03:43:23+00:00",
+   "decision": 2.32,
+   "priority": 8.394184,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3996,8 +3996,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.212305,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 8.198402,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4024,8 +4024,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.142096,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 8.159474,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4052,8 +4052,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.848168,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
+   "priority": 7.865546,
+   "selection_reason": "Time-sensitive story; waiting 9.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4080,8 +4080,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.696896,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.714274,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4108,8 +4108,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.592188,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.609566,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4138,8 +4138,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.518926,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.513712,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4166,8 +4166,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.345021,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.331119,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4194,8 +4194,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.316248,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.302345,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4224,8 +4224,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.305592,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.300379,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4254,8 +4254,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.229234,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.255301,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4284,65 +4284,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.115592,
-   "selection_reason": "Editorial importance; waiting 44.5h"
-  },
-  {
-   "id": "adadf9d1614c8d19",
-   "item": {
-    "id": "adadf9d1614c8d19",
-    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
-    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
-    "published": "2026-11-18T08:58:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Pony AI reports third quarter revenue growth",
-   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
-   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
-   "support": 0.89,
-   "published_at": "2026-11-18T08:58:46+00:00",
-   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
-   "expires_at": "2026-11-19T20:58:46+00:00",
-   "decision": 1.53,
-   "priority": 7.092803,
-   "selection_reason": "Editorial importance; waiting 2.5h"
-  },
-  {
-   "id": "b20533735bac1c5f",
-   "item": {
-    "id": "b20533735bac1c5f",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "published": "2026-11-17T17:20:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Vals tests AI model vulnerability in autonomous warfare simulation",
-   "post": "AI evaluation startup Vals reports that leading AI models were manipulated into identifying civilians as military targets during testing.",
-   "editor_note": "Check which specific models were tested and what exact prompt methods Vals used.",
-   "support": 0.86,
-   "published_at": "2026-11-17T17:20:41+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T05:20:41+00:00",
-   "decision": 1.6,
-   "priority": 7.087883,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.110379,
+   "selection_reason": "Editorial importance; waiting 45.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4371,8 +4314,65 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.08194,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.110241,
+   "selection_reason": "Editorial importance; waiting 6.5h"
+  },
+  {
+   "id": "adadf9d1614c8d19",
+   "item": {
+    "id": "adadf9d1614c8d19",
+    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
+    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
+    "published": "2026-11-18T08:58:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Pony AI reports third quarter revenue growth",
+   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
+   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
+   "support": 0.89,
+   "published_at": "2026-11-18T08:58:46+00:00",
+   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
+   "expires_at": "2026-11-19T20:58:46+00:00",
+   "decision": 1.53,
+   "priority": 7.110181,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "b20533735bac1c5f",
+   "item": {
+    "id": "b20533735bac1c5f",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "published": "2026-11-17T17:20:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Vals tests AI model vulnerability in autonomous warfare simulation",
+   "post": "AI evaluation startup Vals reports that leading AI models were manipulated into identifying civilians as military targets during testing.",
+   "editor_note": "Check which specific models were tested and what exact prompt methods Vals used.",
+   "support": 0.86,
+   "published_at": "2026-11-17T17:20:41+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T05:20:41+00:00",
+   "decision": 1.6,
+   "priority": 7.105261,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4400,8 +4400,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.075799,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.093176,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4428,8 +4428,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 7.048917,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.066294,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4457,8 +4457,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.031564,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.017662,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4486,8 +4486,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.983783,
-   "selection_reason": "Editorial importance"
+   "priority": 7.001161,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4514,8 +4514,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.967437,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 6.988291,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4543,8 +4543,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.879246,
-   "selection_reason": "Editorial importance"
+   "priority": 6.896624,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4723,12 +4723,13 @@
   "https://www.livemint.com/technology/majority-of-indian-firms-hit-by-ai-agent-incident-in-past-12-months-only-36-pc-contained-it-in-24-hrs-survey-11794995034484.html": "2026-11-18T10:09:26.229602+00:00",
   "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187": "2026-11-18T10:41:59.143635+00:00",
   "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate": "2026-11-18T11:11:11.539124+00:00",
-  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": "2026-11-18T11:39:44.682349+00:00"
+  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": "2026-11-18T11:39:44.682349+00:00",
+  "https://36kr.com/newsflashes/4075208479495047?f=rss": "2026-11-18T12:07:56.259961+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
   "32933935200c2839": {
@@ -19945,6 +19946,131 @@
    "imp": 0.24,
    "ai": 0.05,
    "ts": "2026-11-18T11:37:23.301342+00:00"
+  },
+  "a9c49e3c7bc61fcf": {
+   "imp": 1.24,
+   "ai": 0.68,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "da6c827addce47a1": {
+   "imp": 1.54,
+   "ai": null,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "45f86b19440576fc": {
+   "imp": 2.04,
+   "ai": 0.96,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "98cab08b1670a3e9": {
+   "imp": 1.48,
+   "ai": 0.95,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "74b926ce1c843400": {
+   "imp": 1.72,
+   "ai": 0.86,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "f4f94579258154b8": {
+   "imp": 1.85,
+   "ai": 0.94,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "7bbaa8f8edafb298": {
+   "imp": 1.78,
+   "ai": 0.93,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "14b67dddb8073b5b": {
+   "imp": 1.41,
+   "ai": null,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "fd15aae6c679792f": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "be5746a939de82fd": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "b16175a6efe4a960": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "b287e80c0dd61620": {
+   "imp": 0.32,
+   "ai": 0.11,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "5bca8be2bbf24d80": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "3c33c7066645adb5": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "ab1cf3a40c1876dc": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "429f21b3d4a01375": {
+   "imp": 0.22,
+   "ai": 0.03,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "f69020f9c1bfdd72": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "ad1f76620fbdd8c2": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "3c2c83bc4cde686c": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "3de6dd19a12bcd9d": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "b868cd3688014f11": {
+   "imp": 0.58,
+   "ai": 0.11,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "e2597f111ac3d77e": {
+   "imp": 1.29,
+   "ai": 0.14,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "092a1123ec394eba": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "8f851b8c244c5176": {
+   "imp": 0.52,
+   "ai": 0.13,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
+  },
+  "2dffe05ec4e9199a": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-18T12:07:25.036261+00:00"
   }
  }
 }
