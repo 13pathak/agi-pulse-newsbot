@@ -1,10 +1,5 @@
 {
  "seen": {
-  "0e37bd4bf11cb308": "2026-11-11T04:07:21.533896+00:00",
-  "9af3f2a52cb51605": "2026-11-11T04:07:21.533896+00:00",
-  "3554707bed300e9b": "2026-11-11T04:07:21.533896+00:00",
-  "aeb8dd326aa4da02": "2026-11-11T04:07:21.533896+00:00",
-  "2a540ad394ed02ce": "2026-11-11T04:07:21.533896+00:00",
   "536b29973ed94c9a": "2026-11-11T04:37:22.558678+00:00",
   "2bb2496f12b8d14c": "2026-11-11T04:37:22.558678+00:00",
   "cd94d5a2b6a2b91b": "2026-11-11T04:37:22.558678+00:00",
@@ -1928,13 +1923,21 @@
   "6c56b08ac5d2fdf0": "2026-11-18T03:37:22.679504+00:00",
   "027b06d66aa2428c": "2026-11-18T03:37:22.679504+00:00",
   "6317374ad3ae5201": "2026-11-18T03:37:22.679504+00:00",
-  "1cc49772113a983f": "2026-11-18T03:37:22.679504+00:00"
+  "1cc49772113a983f": "2026-11-18T03:37:22.679504+00:00",
+  "f9c7f44758ed7ca9": "2026-11-18T04:07:23.199644+00:00",
+  "091c8d58a82d7414": "2026-11-18T04:07:23.199644+00:00",
+  "12bfa638a2c94ce3": "2026-11-18T04:07:23.199644+00:00",
+  "5442c44eeb4b92aa": "2026-11-18T04:07:23.199644+00:00",
+  "9ea30026d38a4dbd": "2026-11-18T04:07:23.199644+00:00",
+  "75499b8e4188fbfd": "2026-11-18T04:07:23.199644+00:00",
+  "fbe54dc5882c1f22": "2026-11-18T04:07:23.199644+00:00",
+  "1072bde0c935d7dd": "2026-11-18T04:07:23.199644+00:00",
+  "edef605ba981d41d": "2026-11-18T04:07:23.199644+00:00",
+  "8a34bad4fe6b3632": "2026-11-18T04:07:23.199644+00:00",
+  "a64bf86d357e960f": "2026-11-18T04:07:23.199644+00:00",
+  "72284a47c9d975a2": "2026-11-18T04:07:23.199644+00:00"
  },
  "covered": [
-  {
-   "headline": "US to name Nvidia an AI national champion",
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
   {
    "headline": "Pony.ai and Toyota launch seventh-generation Robotaxi in Guangzhou",
    "ts": "2026-11-16T05:07:19.850970+00:00"
@@ -2106,11 +2109,15 @@
   {
    "headline": "China launches first Huawei-powered token export data center",
    "ts": "2026-11-18T03:37:22.679504+00:00"
+  },
+  {
+   "headline": "Google rolls out Tasks AI assistant in India",
+   "ts": "2026-11-18T04:07:23.199644+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3813,85 +3820,66 @@
    "desc": "斩获80000元奖金",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510737.html": {
+   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+   "desc": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
   {
-   "id": "9f1ef97889b505da",
+   "id": "7fcfb79e30de0a30",
    "item": {
-    "id": "9f1ef97889b505da",
-    "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/kFmgkKKC9bnWnRVaUKyZzJ-1920-80.jpg",
-    "snippet": "Former Nvidia CEO Jensen Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him on December 2. The appearances follow Huang's admission of an affair with a woman who worked for an Nvidia customer who is also believed to be a Chinese spy.",
-    "published": "2026-11-17T15:50:51+00:00",
+    "id": "7fcfb79e30de0a30",
+    "title": "Karnataka aims to become a global hub for frontier tech; Fadnavis’ vision for a new Maharashtra",
+    "url": "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra",
+    "source": "YourStory",
+    "image": "",
+    "snippet": "Karnataka aims to become a global hub for frontier technologies such as AI, deeptech, and biotech, said CM DK Shivakumar at Bengaluru Tech Summit. Meanwhile, Maharashtra CM Fadnavis has shared his roadmap for a trillion-dollar, drought-free, deeptech Maharashtra by 2035.",
+    "published": "2026-11-18T02:00:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
-   "related": [
-    {
-     "id": "574f499b55a7cf42",
-     "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-     "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9",
-     "snippet": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear fo…",
-     "published": "2026-11-17T17:58:05+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "5f83aea8a1584693",
-     "title": "Jensen Huang to appear before US House committees on December 1",
-     "url": "https://economictimes.indiatimes.com/tech/technology/jensen-huang-to-appear-before-us-house-committees-on-december-1/articleshow/135932177.cms",
-     "source": "The Economic Times",
-     "image": "https://img.etimg.com/photo/msid-135932177,imgsize-139972.cms",
-     "snippet": "The House committees will grill Jensen Huang and Nvidia general counsel Tim Teter who will appear before Congress on the next day. The scandal surrounding Huang's affair with Alice Huang the alleged Chinese Spy.",
-     "published": "2026-11-17T15:54:22+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
+   "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "JensenHuang to testify before US House committees",
-   "post": "Former Nvidia CEO Jensen Huang is scheduled to appear before House Foreign Affairs, Intelligence, and China Select Committees on December 1 regarding national security and export control concerns.",
-   "editor_note": "Verify whether the hearing appearance is confirmed as public or closed session.",
-   "support": 0.68,
-   "published_at": "2026-11-17T15:50:51+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T03:50:51+00:00",
-   "decision": 2.48,
-   "priority": 8.655812,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "headline": "Karnataka and Maharashtra outline new technology and AI roadmaps",
+   "post": "Karnataka aims to establish itself as a global hub for frontier technologies including artificial intelligence and deeptech, according to state officials at the Bengaluru Tech Summit. Meanwhile, Maharashtra announced a roadmap for a deeptech economy by 2035.",
+   "editor_note": "Verify specific policy metrics or timelines announced at the Bengaluru Tech Summit.",
+   "support": 0.85,
+   "published_at": "2026-11-18T02:00:00+00:00",
+   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
+   "expires_at": "2026-11-19T14:00:00+00:00",
+   "decision": 1.62,
+   "priority": 8.605922,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
-   "id": "a64bf86d357e960f",
+   "id": "d51ad7ebf5481626",
    "item": {
-    "id": "a64bf86d357e960f",
-    "title": "Google Begins Rolling Out Personal AI Assistant, Tasks, In India",
-    "url": "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/",
-    "source": "Inc42",
+    "id": "d51ad7ebf5481626",
+    "title": "OpenAI Model Helps Find Security Bug in Widely Used Code Language",
+    "url": "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language",
+    "source": "The Information",
     "image": "",
-    "snippet": "Big tech giant Google has begun rolling out its new agentic AI assistant Tasks, formerly Gemini Sparks, to users in India. In a blogpost , Josh Woodward, the vice-president of Google Labs and the Gemini app, said that the new feature will enable users to assign tasks to the AI assistant, including making calls, booking appointments, comparing products and completing purchases. The service comes bu…",
-    "published": "2026-11-17T23:31:37+00:00",
+    "snippet": "Researchers at cybersecurity startup Calif said Tuesday they found a critical vulnerability in Java, a popular programming language used by government agencies, banks, hospitals, and other companies. The bug would allow for an attacker to steal sensitive information from computer memory or to ...",
+    "published": "2026-11-18T01:15:20+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
    "related": [
     {
-     "id": "72284a47c9d975a2",
-     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-     "source": "The Verge",
+     "id": "4e48c8af018584c3",
+     "title": "After PHP, researchers use AI to find flaws in Java, say 90% Fortune 500 companies may be at risk",
+     "url": "https://www.indiatoday.in/technology/news/story/after-php-researchers-use-ai-to-find-flaws-in-java-say-90-fortune-500-companies-may-be-at-risk-3041234-2026-11-18?utm_source=rss",
+     "source": "India Today",
      "image": "",
-     "snippet": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
-     "published": "2026-11-17T18:58:01+00:00",
+     "snippet": "After PHP, researchers use AI to find flaws in Java, say 90% Fortune 500 companies may be at risk",
+     "published": "2026-11-18T04:04:26+00:00",
      "images": true,
      "category": "news",
      "source_cap": 3
@@ -3899,16 +3887,16 @@
    ],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Google rolls out Tasks AI assistant in India",
-   "post": "Google has begun rolling out its agentic AI assistant Tasks in India. Formerly known as Spark, the free tool allows users to make calls, book appointments, and complete purchases through the Gemini app.",
-   "editor_note": "Confirm availability scope and whether Tasks is free across all user tiers in India.",
-   "support": 0.7,
-   "published_at": "2026-11-17T18:58:01+00:00",
-   "first_seen_at": "2026-11-18T01:37:23.406600+00:00",
-   "expires_at": "2026-11-19T06:58:01+00:00",
-   "decision": 2.24,
-   "priority": 8.631209,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "headline": "OpenAI model helps find critical Java security bug",
+   "post": "Cybersecurity startup Calif reports that an OpenAI model helped discover a critical vulnerability in Java allowing memory data theft.",
+   "editor_note": "Check if Calif has published specific technical details or identifiers for the Java vulnerability.",
+   "support": 0.91,
+   "published_at": "2026-11-18T01:15:20+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:15:20+00:00",
+   "decision": 1.76,
+   "priority": 8.600544,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3935,36 +3923,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.604918,
-   "selection_reason": "Editorial importance; waiting 13.5h"
-  },
-  {
-   "id": "bf9c3e0a3483d49f",
-   "item": {
-    "id": "bf9c3e0a3483d49f",
-    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
-    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
-    "published": "2026-11-17T15:43:23+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Perplexity fast-tracks IPO plans for early 2027",
-   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
-   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
-   "support": 0.92,
-   "published_at": "2026-11-17T15:43:23+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T03:43:23+00:00",
-   "decision": 2.32,
-   "priority": 8.599022,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.591025,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3993,64 +3953,37 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.588927,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 8.583718,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
-   "id": "7fcfb79e30de0a30",
+   "id": "89d3f37d71cb1e38",
    "item": {
-    "id": "7fcfb79e30de0a30",
-    "title": "Karnataka aims to become a global hub for frontier tech; Fadnavis’ vision for a new Maharashtra",
-    "url": "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra",
-    "source": "YourStory",
+    "id": "89d3f37d71cb1e38",
+    "title": "可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度",
+    "url": "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html",
+    "source": "LeiPhone",
     "image": "",
-    "snippet": "Karnataka aims to become a global hub for frontier technologies such as AI, deeptech, and biotech, said CM DK Shivakumar at Bengaluru Tech Summit. Meanwhile, Maharashtra CM Fadnavis has shared his roadmap for a trillion-dollar, drought-free, deeptech Maharashtra by 2035.",
-    "published": "2026-11-18T02:00:00+00:00",
-    "images": true,
+    "snippet": "11月17日晚，可灵AI全新一代图像创作模型Kling Image 4.0正式上线。 真实、文字表现、指令理解和一致性，是这一代模型升级的核心方向。Kling Image 4.0聚焦影视创作、广告营销等专业图像创作场景，在三个方向实现集中突破：画面真实感全面升级，光影、肤质与材质纹理呈现接近相机直出的自然观感，并首次支持原生8K图像生成，超高清画质带来更丰富的细节表现；文字生成与设计表现全面升级，支持单张图片内生成2000字，提供70余款预设字体；连贯组图和长图生成方面，支持一次描述生成最多10张系列图片、电商详情页与网页设计长图生成，可以一次性呈现完整页面视觉，高效完成成套创作。 本次发布的新模型采用「理解生成统一」架构，探索将视觉理解与图像生成融入统一的模型体系，进一步打通从理解创作意图到生成视觉内容的链路。根据全新发布的AA（Artificial Analysis）榜单，Kling Image 4.0在AI图像工具排行榜上位居第六，领先Nano Banana等行业头部产品，位居全球AI图像模型第一梯队。据测评结果，可灵AI全新的图片模型在UIUX和电商设计场景表现尤为亮眼，在UIUX Design板块位居全球第三。 画质逼近相机直出，业内率先支持原生8K生成 Kling Image 4.0让生成画面呈现接近手机或相机直出的自然观感：光影过渡柔和，肤质与纹理细腻，人物状态鲜活。从日常抓拍到情绪写真，表情、姿态与环境氛围自然相融，让画面既有丰富细节，也有真实的生活气息。 同时，针对人物群像创作中存在的“千人一面”难题，Kling Image 4.0模型强化了不同人物在脸型、五…",
+    "published": "2026-11-18T01:48:00+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Karnataka and Maharashtra outline new technology and AI roadmaps",
-   "post": "Karnataka aims to establish itself as a global hub for frontier technologies including artificial intelligence and deeptech, according to state officials at the Bengaluru Tech Summit. Meanwhile, Maharashtra announced a roadmap for a deeptech economy by 2035.",
-   "editor_note": "Verify specific policy metrics or timelines announced at the Bengaluru Tech Summit.",
-   "support": 0.85,
-   "published_at": "2026-11-18T02:00:00+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T14:00:00+00:00",
-   "decision": 1.62,
-   "priority": 8.588556,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
-  {
-   "id": "d51ad7ebf5481626",
-   "item": {
-    "id": "d51ad7ebf5481626",
-    "title": "OpenAI Model Helps Find Security Bug in Widely Used Code Language",
-    "url": "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Researchers at cybersecurity startup Calif said Tuesday they found a critical vulnerability in Java, a popular programming language used by government agencies, banks, hospitals, and other companies. The bug would allow for an attacker to steal sensitive information from computer memory or to ...",
-    "published": "2026-11-18T01:15:20+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "OpenAI model helps find critical Java security bug",
-   "post": "Cybersecurity startup Calif reports that an OpenAI model helped discover a critical vulnerability in Java allowing memory data theft.",
-   "editor_note": "Check if Calif has published specific technical details or identifiers for the Java vulnerability.",
-   "support": 0.91,
-   "published_at": "2026-11-18T01:15:20+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:15:20+00:00",
-   "decision": 1.76,
-   "priority": 8.583178,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "headline": "Kling AI releases Kling Image 4.0 with native 8K support",
+   "post": "Kling AI released Kling Image 4.0, featuring native 8K resolution generation, single-image creation of up to 2,000 words of text, and series generation of up to 10 images.",
+   "editor_note": "Check if the 8K generation claim is restricted to specific hardware or pricing tiers.",
+   "support": 0.95,
+   "published_at": "2026-11-18T01:48:00+00:00",
+   "first_seen_at": "2026-11-18T04:07:23.199644+00:00",
+   "expires_at": "2026-11-19T13:48:00+00:00",
+   "decision": 1.92,
+   "priority": 8.575469,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "a00d072e1ee989a0",
@@ -4078,8 +4011,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T14:18:48+00:00",
    "decision": 1.55,
-   "priority": 8.542561,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.559927,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "862b4c03c86841db",
@@ -4106,8 +4039,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:40:35+00:00",
    "decision": 1.85,
-   "priority": 8.489567,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.506933,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4159,8 +4092,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.434532,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 8.420639,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4187,8 +4120,89 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.364312,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.381678,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "9f1ef97889b505da",
+   "item": {
+    "id": "9f1ef97889b505da",
+    "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/kFmgkKKC9bnWnRVaUKyZzJ-1920-80.jpg",
+    "snippet": "Former Nvidia CEO Jensen Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him on December 2. The appearances follow Huang's admission of an affair with a woman who worked for an Nvidia customer who is also believed to be a Chinese spy.",
+    "published": "2026-11-17T15:50:51+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "574f499b55a7cf42",
+     "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9",
+     "snippet": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear fo…",
+     "published": "2026-11-17T17:58:05+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "5f83aea8a1584693",
+     "title": "Jensen Huang to appear before US House committees on December 1",
+     "url": "https://economictimes.indiatimes.com/tech/technology/jensen-huang-to-appear-before-us-house-committees-on-december-1/articleshow/135932177.cms",
+     "source": "The Economic Times",
+     "image": "https://img.etimg.com/photo/msid-135932177,imgsize-139972.cms",
+     "snippet": "The House committees will grill Jensen Huang and Nvidia general counsel Tim Teter who will appear before Congress on the next day. The scandal surrounding Huang's affair with Alice Huang the alleged Chinese Spy.",
+     "published": "2026-11-17T15:54:22+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "JensenHuang to testify before US House committees",
+   "post": "Former Nvidia CEO Jensen Huang is scheduled to appear before House Foreign Affairs, Intelligence, and China Select Committees on December 1 regarding national security and export control concerns.",
+   "editor_note": "Verify whether the hearing appearance is confirmed as public or closed session.",
+   "support": 0.68,
+   "published_at": "2026-11-17T15:50:51+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T03:50:51+00:00",
+   "decision": 2.48,
+   "priority": 8.173178,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "bf9c3e0a3483d49f",
+   "item": {
+    "id": "bf9c3e0a3483d49f",
+    "title": "Perplexity May Launch IPO As Early As Q1 CY27: CEO Aravind Srinivas",
+    "url": "https://inc42.com/buzz/perplexity-may-launch-ipo-as-early-as-q1-cy27-ceo-aravind-srinivas/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI major Perplexity has preponed its proposed IPO timeline and could file its draft IPO papers for a listing in the US as early as Q1 2027. Speaking with CNBC, founder and CEO Aravind Srinivas revealed that Perplexity has managed to grow faster than expected which pushed the decision to fast-track the listing. “The rate at which our business is growing, I wouldn’t rule out filing something in the …",
+    "published": "2026-11-17T15:43:23+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Perplexity fast-tracks IPO plans for early 2027",
+   "post": "Perplexity CEO Aravind Srinivas stated the company could file draft papers for a US stock exchange listing as early as the first quarter of 2027 due to accelerated business growth.",
+   "editor_note": "Confirm if a definitive filing date or lead underwriter has been publicly announced.",
+   "support": 0.92,
+   "published_at": "2026-11-17T15:43:23+00:00",
+   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
+   "expires_at": "2026-11-19T03:43:23+00:00",
+   "decision": 2.32,
+   "priority": 8.116388,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4217,8 +4231,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 7.915576,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.943858,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4247,8 +4261,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.602261,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.597051,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4275,8 +4289,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.570385,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.587751,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4303,8 +4317,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.567248,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.553355,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4331,8 +4345,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.538475,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.524582,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4361,8 +4375,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.388927,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.383718,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4389,8 +4403,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.310099,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.327465,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4418,8 +4432,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.253791,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.239898,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4448,8 +4462,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.198927,
-   "selection_reason": "Editorial importance; waiting 36.5h"
+   "priority": 7.193718,
+   "selection_reason": "Editorial importance; waiting 37.0h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4501,8 +4515,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 6.992842,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.978949,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4529,36 +4543,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 6.91386,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "f9c7f44758ed7ca9",
-   "item": {
-    "id": "f9c7f44758ed7ca9",
-    "title": "Microsoft Data Shows Claude Is Stalling Against Copilot in Office",
-    "url": "https://www.theinformation.com/articles/microsoft-data-shows-claude-stalling-copilot-office",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Anthropic’s latest push into enterprise apps rattled Microsoft investors last week. Microsoft’s own internal data paints a less threatening picture, at least so far. Usage of Anthropic features that allow people to do work inside Microsoft’s Office apps with Claude , such as sorting email or generating slide decks, has been falling further behind usage of Microsoft’s Copilot in recent months, acco…",
-    "published": "2026-11-16T16:01:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Claude usage lags behind Copilot in Microsoft Office",
-   "post": "Internal Microsoft data shows usage of Anthropic's Claude integration inside Office applications has fallen further behind Microsoft Copilot in recent months.",
-   "editor_note": "Check whether the Microsoft internal metrics cite specific user counts or percentage growth rates.",
-   "support": 0.96,
-   "published_at": "2026-11-16T16:01:00+00:00",
-   "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
-   "expires_at": "2026-11-18T04:01:00+00:00",
-   "decision": 1.67,
-   "priority": 6.817603,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.899968,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4585,8 +4571,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.771133,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.788499,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4613,8 +4599,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.634097,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.654936,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [],
@@ -4778,12 +4764,13 @@
   "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html": "2026-11-18T02:08:09.274430+00:00",
   "https://openai.com/index/introducing-gpt-6-2-astra-sol": "2026-11-18T02:39:36.975439+00:00",
   "https://36kr.com/newsflashes/4074539437888390?f=rss": "2026-11-18T03:09:18.292557+00:00",
-  "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre": "2026-11-18T03:39:32.049881+00:00"
+  "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre": "2026-11-18T03:39:32.049881+00:00",
+  "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india": "2026-11-18T04:07:54.902425+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
   "32933935200c2839": {
@@ -18655,6 +18642,111 @@
    "imp": 0.06,
    "ai": 0.03,
    "ts": "2026-11-18T03:37:22.679504+00:00"
+  },
+  "75499b8e4188fbfd": {
+   "imp": 1.61,
+   "ai": 0.92,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "5442c44eeb4b92aa": {
+   "imp": 1.78,
+   "ai": 0.96,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "9ea30026d38a4dbd": {
+   "imp": 1.73,
+   "ai": 0.91,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "8a34bad4fe6b3632": {
+   "imp": 0.41,
+   "ai": 0.54,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "04149c81ff6595c3": {
+   "imp": 0.19,
+   "ai": 0.07,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "1072bde0c935d7dd": {
+   "imp": 1.18,
+   "ai": 0.71,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "89d3f37d71cb1e38": {
+   "imp": 1.92,
+   "ai": 0.98,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "091c8d58a82d7414": {
+   "imp": 2.65,
+   "ai": 0.98,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "4e48c8af018584c3": {
+   "imp": 1.68,
+   "ai": 0.87,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "12bfa638a2c94ce3": {
+   "imp": 1.78,
+   "ai": 0.97,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "f999637b6484b8c1": {
+   "imp": 1.16,
+   "ai": 0.12,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "b0124eb69ec670d5": {
+   "imp": 0.52,
+   "ai": 0.14,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "806d9576fe0dc6cc": {
+   "imp": 0.18,
+   "ai": 0.03,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "a596398c514fdc54": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "e6fcf7e7b6a7c88b": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "03aaabc5bd99bc69": {
+   "imp": 0.31,
+   "ai": 0.1,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "fbe54dc5882c1f22": {
+   "imp": 1.26,
+   "ai": 0.82,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "3599c649b0a500fb": {
+   "imp": 0.56,
+   "ai": 0.36,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "edef605ba981d41d": {
+   "imp": 1.21,
+   "ai": 0.9,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "94615f61060fbee4": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "b2cc8594d60122e5": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-18T04:07:23.199644+00:00"
   }
  }
 }
