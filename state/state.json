@@ -1,13 +1,5 @@
 {
  "seen": {
-  "41a737bfc06de850": "2026-11-11T13:37:24.039730+00:00",
-  "8ebb5e68e1f8e648": "2026-11-11T13:37:24.039730+00:00",
-  "55dfbf8a5cdcc15c": "2026-11-11T13:37:24.039730+00:00",
-  "420c0366b6a80abe": "2026-11-11T13:37:24.039730+00:00",
-  "2d7fd7b17ad86260": "2026-11-11T13:37:24.039730+00:00",
-  "019e97548a8a01ad": "2026-11-11T13:37:24.039730+00:00",
-  "68c9773c5a8582ac": "2026-11-11T13:37:24.039730+00:00",
-  "0da82ea2c7a2bc75": "2026-11-11T13:37:24.039730+00:00",
   "f5528be0fb9923ce": "2026-11-11T14:07:22.686423+00:00",
   "b5726593797433df": "2026-11-11T14:07:22.686423+00:00",
   "f95e4a530b1c9c51": "2026-11-11T14:07:22.686423+00:00",
@@ -1910,17 +1902,23 @@
   "0d1b11d2d19921a7": "2026-11-18T12:37:24.202073+00:00",
   "82df8b1098237927": "2026-11-18T12:37:24.202073+00:00",
   "32bff37675d6f2cf": "2026-11-18T12:37:24.202073+00:00",
-  "07e36cf36e9d0810": "2026-11-18T12:37:24.202073+00:00"
+  "07e36cf36e9d0810": "2026-11-18T12:37:24.202073+00:00",
+  "9c0a1db7310df6bb": "2026-11-18T13:37:25.451880+00:00",
+  "af5921fb19f009a4": "2026-11-18T13:37:25.451880+00:00",
+  "bd9ac483b6a32d30": "2026-11-18T13:37:25.451880+00:00",
+  "083251a67bf4adea": "2026-11-18T13:37:25.451880+00:00",
+  "5e888bac8f86cebe": "2026-11-18T13:37:25.451880+00:00",
+  "4bb745bf3ff56fb7": "2026-11-18T13:37:25.451880+00:00",
+  "c33ace0d92791701": "2026-11-18T13:37:25.451880+00:00",
+  "21b6886a42be8e1f": "2026-11-18T13:37:25.451880+00:00",
+  "4e7369e1579face7": "2026-11-18T13:37:25.451880+00:00",
+  "a7dcb3eddfeef2ef": "2026-11-18T13:37:25.451880+00:00",
+  "8a2685ec9405afa8": "2026-11-18T13:37:25.451880+00:00",
+  "014bf46a0b343c36": "2026-11-18T13:37:25.451880+00:00",
+  "b0ca23f3753a09a6": "2026-11-18T13:37:25.451880+00:00",
+  "a2c57daa21667a6b": "2026-11-18T13:37:25.451880+00:00"
  },
  "covered": [
-  {
-   "headline": "Uber adds Amazon Zoox robotaxis to platform in Las Vegas",
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  {
-   "headline": "Fractal Analytics in Talks to Acquire Up to 25 Startups",
-   "ts": "2026-11-16T13:37:38.736503+00:00"
-  },
   {
    "headline": "US Commerce limits remote access to advanced AI chips",
    "ts": "2026-11-16T14:07:22.847927+00:00"
@@ -2120,11 +2118,15 @@
   {
    "headline": "Anthropic IPO sees nearly sevenfold oversubscription demand",
    "ts": "2026-11-18T12:37:24.202073+00:00"
+  },
+  {
+   "headline": "Nvidia reports $115.8 billion quarterly revenue",
+   "ts": "2026-11-18T13:37:25.451880+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3897,8 +3899,77 @@
    "first_seen_at": "2026-11-18T12:37:24.202073+00:00",
    "expires_at": "2026-11-20T00:24:12+00:00",
    "decision": 2.37,
-   "priority": 8.801253,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.818622,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "7ceec50630a597f6",
+   "item": {
+    "id": "7ceec50630a597f6",
+    "title": "Physical AI startup Humyn Labs raises $47 Mn in equity and debt",
+    "url": "https://entrackr.com/news/physical-ai-startup-humyn-labs-raises-47-mn-in-equity-and-debt-12820886",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/18/humyn-labs-2026-11-18-18-09-02.png",
+    "snippet": "Bengaluru-based Humyn Labs has raised $47 million in a Series A round comprising equity and debt. The round includes $26 million in equity and $21 million in venture debt. According to the press release, Accel led the equity round, which also saw participation from Prosus Ventures, BeeGlobal, Finserv Intelligence through Bajaj Finance, Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Ligh…",
+    "published": "2026-11-18T12:40:59+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "55727f6d1c808246",
+     "title": "Physical AI Startup Humyn Raises $47 Million From Accel, Prosus",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/physical-ai-startup-humyn-raises-47-million-from-accel-prosus",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Physical AI startup Humyn Labs has raised $47 million in a financing round led by Accel, boosting its efforts to train robots to interact with physical objects and navigate unpredictable environments.",
+     "published": "2026-11-18T11:30:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Humyn Labs raises $47 million in Series A",
+   "post": "Bengaluru-based physical AI startup Humyn Labs raised $47 million in a Series A round comprising $26 million in equity led by Accel and $21 million in venture debt.",
+   "editor_note": "Confirm the equity versus debt split and list of participating investors including Prosus Ventures and Bajaj.",
+   "support": 0.95,
+   "published_at": "2026-11-18T11:30:00+00:00",
+   "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
+   "expires_at": "2026-11-19T23:30:00+00:00",
+   "decision": 2.57,
+   "priority": 8.797674,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "cd11067986e4eaf0",
+   "item": {
+    "id": "cd11067986e4eaf0",
+    "title": "Apollo, Microsoft turn to AI to help hospitals learn from medical errors",
+    "url": "https://yourstory.com/2026/11/apollo-microsoft-turn-to-ai-to-help-hospitals-learn-from-medical-errors",
+    "source": "YourStory",
+    "image": "",
+    "snippet": "An artificial intelligence system developed by Apollo Hospitals with Microsoft is being used to speed up reviews of patient falls, medication errors and readmissions. Apollo said the system has coincided with fewer recorded incidents, although the evidence published so far does not establish that AI itself has reduced patient harm. Apollo and Microsoft developed a Daily Tiered Huddle agent to supp…",
+    "published": "2026-11-18T13:02:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Apollo Hospitals and Microsoft deploy medical error AI",
+   "post": "Apollo Hospitals and Microsoft deployed an artificial intelligence agent to review patient falls, medication errors, and readmissions, coinciding with fewer recorded incidents.",
+   "editor_note": "Check source attribution: Apollo notes fewer incidents but source clarifies evidence does not prove AI directly reduced harm.",
+   "support": 0.95,
+   "published_at": "2026-11-18T13:02:26+00:00",
+   "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
+   "expires_at": "2026-11-20T01:02:26+00:00",
+   "decision": 1.99,
+   "priority": 8.647134,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "6f06a2856d598e84",
@@ -3927,8 +3998,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.452783,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 8.449806,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -3955,8 +4026,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.428876,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 8.414981,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -3983,8 +4054,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.194193,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 8.211561,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4036,36 +4107,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.170627,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "3f6098aabd8eb664",
-   "item": {
-    "id": "3f6098aabd8eb664",
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
-    "published": "2026-11-18T01:09:18+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Malaysia seeks details from Anthropic over influence campaign",
-   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
-   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
-   "support": 0.97,
-   "published_at": "2026-11-18T01:09:18+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:09:18+00:00",
-   "decision": 1.73,
-   "priority": 7.900265,
-   "selection_reason": "Time-sensitive story; waiting 10.5h"
+   "priority": 8.156733,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4092,8 +4135,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.748993,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.766361,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4120,8 +4163,37 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.644285,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.661653,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
+  },
+  {
+   "id": "aff1ec2a43dfe4ce",
+   "item": {
+    "id": "aff1ec2a43dfe4ce",
+    "title": "豆包工作日活突破800万，企业客户ARR突破20亿元",
+    "url": "https://36kr.com/newsflashes/4075264271176576?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，豆包官方宣布，豆包工作日活跃用户数（DAU）突破800万，企业客户年度经常性收入（ARR）突破20亿元。据了解豆包工作是豆包面向生产力场景推出的AI产品及品牌，8月25日正式发布。11月16日，豆包工作上线 “工作台” 功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，预先配置相应技能和工具，用户也可创建、保存和分享自定义工作台。此外，豆包工作也在近期接入了Kimi、GLM、DeepSeek等第三方模型，并标注不同模型的额度消耗倍率，方便用户结合任务需求和使用成本自主选择。",
+    "published": "2026-11-18T12:53:11+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Doubao Work DAU exceeds eight million",
+   "post": "ByteDance announced that Doubao Work surpassed 8 million weekday active users, while enterprise customer annual recurring revenue exceeded 2 billion yuan.",
+   "editor_note": "Translate 8 million DAU and 2 billion yuan enterprise ARR figures accurately from 36Kr report.",
+   "support": 0.59,
+   "published_at": "2026-11-18T12:53:11+00:00",
+   "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
+   "expires_at": "2026-11-20T00:53:11+00:00",
+   "decision": 1.81,
+   "priority": 7.582851,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4150,8 +4222,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.503297,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 7.498086,
+   "selection_reason": "Editorial importance; waiting 30.5h"
+  },
+  {
+   "id": "3f6098aabd8eb664",
+   "item": {
+    "id": "3f6098aabd8eb664",
+    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
+    "published": "2026-11-18T01:09:18+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Malaysia seeks details from Anthropic over influence campaign",
+   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
+   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
+   "support": 0.97,
+   "published_at": "2026-11-18T01:09:18+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:09:18+00:00",
+   "decision": 1.73,
+   "priority": 7.417634,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4180,8 +4280,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.307379,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.333432,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4208,8 +4308,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.303343,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.289449,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4238,8 +4338,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.289963,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.284753,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4266,8 +4366,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.27457,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.260676,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4296,8 +4396,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.166784,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.195069,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4325,8 +4425,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.1449,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.162268,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4353,8 +4453,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.13998,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.157348,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4382,8 +4482,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.127896,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.145264,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4410,8 +4510,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 7.101014,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.118382,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4440,8 +4540,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.099963,
-   "selection_reason": "Editorial importance; waiting 46.0h"
+   "priority": 7.094753,
+   "selection_reason": "Editorial importance; waiting 46.5h"
   },
   {
    "id": "2ca4066c8014e29d",
@@ -4470,8 +4570,8 @@
    "first_seen_at": "2026-11-18T12:37:24.202073+00:00",
    "expires_at": "2026-11-18T20:23:07+00:00",
    "decision": 1.42,
-   "priority": 7.047817,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.076102,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4499,8 +4599,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.03588,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.053249,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4527,8 +4627,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 7.029926,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.019505,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4556,8 +4656,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 6.989886,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.975992,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4585,8 +4685,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.931343,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.948711,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -4767,12 +4867,13 @@
   "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate": "2026-11-18T11:11:11.539124+00:00",
   "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": "2026-11-18T11:39:44.682349+00:00",
   "https://36kr.com/newsflashes/4075208479495047?f=rss": "2026-11-18T12:07:56.259961+00:00",
-  "https://36kr.com/newsflashes/4075240073106311?f=rss": "2026-11-18T12:39:14.023783+00:00"
+  "https://36kr.com/newsflashes/4075240073106311?f=rss": "2026-11-18T12:39:14.023783+00:00",
+  "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": "2026-11-18T13:38:02.201059+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 22
+  "takes": 23
  },
  "triage": {
   "32933935200c2839": {
@@ -20319,6 +20420,91 @@
    "imp": 0.07,
    "ai": 0.03,
    "ts": "2026-11-18T13:07:24.716251+00:00"
+  },
+  "9c0a1db7310df6bb": {
+   "imp": 2.06,
+   "ai": null,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "bd9ac483b6a32d30": {
+   "imp": 1.86,
+   "ai": 0.93,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "8a2685ec9405afa8": {
+   "imp": 1.73,
+   "ai": 0.95,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "e2ef47ddfa40b674": {
+   "imp": 0.8,
+   "ai": 0.8,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "4c594b71509016d9": {
+   "imp": 1.49,
+   "ai": 0.89,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "587857579371a214": {
+   "imp": 0.96,
+   "ai": 0.83,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "55727f6d1c808246": {
+   "imp": 1.89,
+   "ai": 0.97,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "4bb745bf3ff56fb7": {
+   "imp": 1.56,
+   "ai": 0.8,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "21b6886a42be8e1f": {
+   "imp": 1.01,
+   "ai": 0.71,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "014bf46a0b343c36": {
+   "imp": 0.68,
+   "ai": 0.32,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "c33ace0d92791701": {
+   "imp": 1.12,
+   "ai": 0.71,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "af5921fb19f009a4": {
+   "imp": 2.05,
+   "ai": 0.88,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "4e7369e1579face7": {
+   "imp": 2.03,
+   "ai": 0.94,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "5ec0464744e33a2a": {
+   "imp": 0.75,
+   "ai": 0.11,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "81a754985947b0d2": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "9600a08f203c70a6": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
+  },
+  "cd74bbdd494f5d2a": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-18T13:37:25.451880+00:00"
   }
  }
 }
