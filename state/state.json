@@ -1,11 +1,5 @@
 {
  "seen": {
-  "857fa47fd2aec46f": "2026-11-11T08:07:21.992795+00:00",
-  "2d013ee6fa63187f": "2026-11-11T08:07:21.992795+00:00",
-  "3e9c43baf885a332": "2026-11-11T08:07:21.992795+00:00",
-  "819c7c68d2029b76": "2026-11-11T08:07:21.992795+00:00",
-  "bc334f28ad5c1ed3": "2026-11-11T08:07:21.992795+00:00",
-  "8b0cae713c3cde2e": "2026-11-11T08:07:21.992795+00:00",
   "7a4feca4106608d3": "2026-11-11T08:37:20.546395+00:00",
   "3b1e7c7289ab7395": "2026-11-11T08:37:20.546395+00:00",
   "7ddc4739acd4e8ed": "2026-11-11T08:37:20.546395+00:00",
@@ -1918,7 +1912,11 @@
   "d930ebd0b69d2f07": "2026-11-18T07:37:23.152335+00:00",
   "eea45d967dc1ee28": "2026-11-18T07:37:23.152335+00:00",
   "7f95e6ca6c164f2d": "2026-11-18T07:37:23.152335+00:00",
-  "2688400db71d94f9": "2026-11-18T07:37:23.152335+00:00"
+  "2688400db71d94f9": "2026-11-18T07:37:23.152335+00:00",
+  "7cd204ece6218b90": "2026-11-18T08:07:23.551626+00:00",
+  "95c4ec37c9a4eb2b": "2026-11-18T08:07:23.551626+00:00",
+  "b24d4488acc7fefb": "2026-11-18T08:07:23.551626+00:00",
+  "0145fb90b8379117": "2026-11-18T08:07:23.551626+00:00"
  },
  "covered": [
   {
@@ -2108,11 +2106,15 @@
   {
    "headline": "Microsoft launches seven coding AI models",
    "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  {
+   "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
+   "ts": "2026-11-18T08:07:23.551626+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3840,36 +3842,6 @@
  },
  "pending": [
   {
-   "id": "0145fb90b8379117",
-   "item": {
-    "id": "0145fb90b8379117",
-    "title": "Sage S2.1 Flash Technical Report",
-    "url": "https://arxiv.org/abs/2611.21072",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Intern Large Models. Upvotes: 36. Abstract: We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as specialized workflows involving machine learning experiments and scientific software. Task completion is checked against execution results, changes in environment state, or submitted artifacts. We evaluate Sage S1.5 Flash on 33 benchmarks across seven domains. In the primary comparison against five baselines, it ranks first on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench~2, and second on OSWorld-Verified (85.2), WebArena-Verified (67.6), and DeepResearch Bench~II (54.2). These results show particular strengths in using documentary evidence, producing verifiable workbooks, and carrying out machine learning tasks, alongside competitive performance in desktop and browser workflows that require the model to act on visual feedback.",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 36,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21072.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "routine",
-   "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
-   "post": "Researchers at Intern Large Models released Sage S1.5 Flash, a 320-billion-parameter mixture-of-experts model built for scientific reasoning and agent workflows.",
-   "editor_note": "Check benchmark domain scope and whether specific tool-use execution results are independently verified.",
-   "support": 0.77,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.88,
-   "priority": 8.547259,
-   "selection_reason": "Editorial importance; waiting 20.5h"
-  },
-  {
    "id": "0b27db5afea169d0",
    "item": {
     "id": "0b27db5afea169d0",
@@ -3894,61 +3866,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.493803,
-   "selection_reason": "Editorial importance; waiting 17.5h"
-  },
-  {
-   "id": "5deb3005f6ba4730",
-   "item": {
-    "id": "5deb3005f6ba4730",
-    "title": "Nvidia Sets Up National Security and Export Control Oversight Committee",
-    "url": "https://www.theinformation.com/briefings/nvidia-sets-national-security-export-control-oversight-committee",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Nvidia said Tuesday that its board of directors has established a new committee that will oversee the company’s national security policies and compliance with export controls. The new committee, chaired by Nvidia director Suzanne Nora Johnson, will retain independent, outside experts to provide ...",
-    "published": "2026-11-17T11:13:34+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "4086d13a78d22826",
-     "title": "Nvidia Forms Export Control Committee After US Chip Curbs",
-     "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-sets-export-control-committee-after-us-chip-curbs-video",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "Nvidia has formed a new committee to oversee national security policy and export control following a move by the US to cut off China’s access to the company’s powerful artificial intelligence chips. Mandeep Singh of Bloomberg Intelligence has more. (Source: Bloomberg)",
-     "published": "2026-11-17T11:28:09+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "5b2442ff172e2cc3",
-     "title": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal",
-     "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts",
-     "source": "Tom's Hardware",
-     "image": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
-     "snippet": "<p>Jowi Morales is a writer and journalist covering the tech beat since 2021. However, he’s been interested in technology far earlier than that. He started discovering desktop computers when his father brought home a Windows 95 PC, but his first real experience working under the hood of the PC was when the old computer’s hard drive was filled to the brim in the year 2000. He deleted the Windows fo…",
-     "published": "2026-11-17T11:21:39+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Nvidia establishes national security and export control committee",
-   "post": "Nvidia's board of directors has established a National Security and Export Control Oversight Committee, chaired by director Suzanne Nora Johnson, to oversee export compliance and national security policies.",
-   "editor_note": "Check whether independent outside experts retained by the committee are already named.",
-   "support": 0.91,
-   "published_at": "2026-11-17T11:13:34+00:00",
-   "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
-   "expires_at": "2026-11-18T23:13:34+00:00",
-   "decision": 1.92,
-   "priority": 8.323417,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 8.479911,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4000,8 +3919,61 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.294706,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 8.312071,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "5deb3005f6ba4730",
+   "item": {
+    "id": "5deb3005f6ba4730",
+    "title": "Nvidia Sets Up National Security and Export Control Oversight Committee",
+    "url": "https://www.theinformation.com/briefings/nvidia-sets-national-security-export-control-oversight-committee",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Nvidia said Tuesday that its board of directors has established a new committee that will oversee the company’s national security policies and compliance with export controls. The new committee, chaired by Nvidia director Suzanne Nora Johnson, will retain independent, outside experts to provide ...",
+    "published": "2026-11-17T11:13:34+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "4086d13a78d22826",
+     "title": "Nvidia Forms Export Control Committee After US Chip Curbs",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-sets-export-control-committee-after-us-chip-curbs-video",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Nvidia has formed a new committee to oversee national security policy and export control following a move by the US to cut off China’s access to the company’s powerful artificial intelligence chips. Mandeep Singh of Bloomberg Intelligence has more. (Source: Bloomberg)",
+     "published": "2026-11-17T11:28:09+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "5b2442ff172e2cc3",
+     "title": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal",
+     "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts",
+     "source": "Tom's Hardware",
+     "image": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
+     "snippet": "<p>Jowi Morales is a writer and journalist covering the tech beat since 2021. However, he’s been interested in technology far earlier than that. He started discovering desktop computers when his father brought home a Windows 95 PC, but his first real experience working under the hood of the PC was when the old computer’s hard drive was filled to the brim in the year 2000. He deleted the Windows fo…",
+     "published": "2026-11-17T11:21:39+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Nvidia establishes national security and export control committee",
+   "post": "Nvidia's board of directors has established a National Security and Export Control Oversight Committee, chaired by director Suzanne Nora Johnson, to oversee export compliance and national security policies.",
+   "editor_note": "Check whether independent outside experts retained by the committee are already named.",
+   "support": 0.91,
+   "published_at": "2026-11-17T11:13:34+00:00",
+   "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
+   "expires_at": "2026-11-18T23:13:34+00:00",
+   "decision": 1.92,
+   "priority": 8.309525,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4028,8 +4000,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.237916,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 8.25528,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4058,8 +4030,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.141774,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 8.170054,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4086,8 +4058,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.003206,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 8.02057,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4114,8 +4086,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.709278,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.726643,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4144,8 +4116,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.560593,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.555383,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4172,8 +4144,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.456133,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.442241,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4200,8 +4172,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.42736,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.413468,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4230,8 +4202,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.347259,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.34205,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4260,8 +4232,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.157259,
-   "selection_reason": "Editorial importance; waiting 40.5h"
+   "priority": 7.15205,
+   "selection_reason": "Editorial importance; waiting 41.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4289,8 +4261,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.142676,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.128784,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4319,8 +4291,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.020898,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.046946,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4347,8 +4319,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 6.948993,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.966358,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4376,8 +4348,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.936908,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.954273,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4404,8 +4376,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.910026,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.927391,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4434,8 +4406,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.855748,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.884028,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4462,8 +4434,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.800769,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.821607,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   }
  ],
  "details_queue": [],
@@ -4634,12 +4606,13 @@
   "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html": "2026-11-18T05:40:18.733394+00:00",
   "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference": "2026-11-18T06:38:04.896206+00:00",
   "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights": "2026-11-18T07:08:05.542528+00:00",
-  "https://www.indiatoday.in/technology/news/story/microsoft-launches-7-ai-models-focused-on-coding-takes-on-openai-and-anthropic-challenge-3041325-2026-11-18": "2026-11-18T07:39:22.536883+00:00"
+  "https://www.indiatoday.in/technology/news/story/microsoft-launches-7-ai-models-focused-on-coding-takes-on-openai-and-anthropic-challenge-3041325-2026-11-18": "2026-11-18T07:39:22.536883+00:00",
+  "https://arxiv.org/abs/2611.21072": "2026-11-18T08:08:22.192439+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -19081,6 +19054,41 @@
    "imp": 0.22,
    "ai": 0.05,
    "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "95c4ec37c9a4eb2b": {
+   "imp": 0.99,
+   "ai": 0.92,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "b24d4488acc7fefb": {
+   "imp": 0.71,
+   "ai": 0.93,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "7cd204ece6218b90": {
+   "imp": 1.22,
+   "ai": 0.83,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "4abdf96f08b0fa67": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "e49fddbc2059e8ae": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "e744a645f6f102c2": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "e023766c56f85e3d": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:07:23.551626+00:00"
   }
  }
 }
