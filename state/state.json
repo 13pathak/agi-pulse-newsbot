@@ -1,16 +1,5 @@
 {
  "seen": {
-  "b22522d14a17f95f": "2026-11-11T05:07:24.742377+00:00",
-  "be778195d83e2688": "2026-11-11T05:07:24.742377+00:00",
-  "3159835e3e2f5940": "2026-11-11T05:07:24.742377+00:00",
-  "8c2c1131fcdc528f": "2026-11-11T05:07:24.742377+00:00",
-  "3b0036c117ed5e92": "2026-11-11T05:07:24.742377+00:00",
-  "8aac1a99f983ac78": "2026-11-11T05:07:24.742377+00:00",
-  "307bb581ca5922a6": "2026-11-11T05:07:24.742377+00:00",
-  "0e98438a8fc7b31b": "2026-11-11T05:07:24.742377+00:00",
-  "4de69104b7845815": "2026-11-11T05:07:24.742377+00:00",
-  "9083fc7c8698191e": "2026-11-11T05:07:24.742377+00:00",
-  "c06c1375a8dda558": "2026-11-11T05:07:24.742377+00:00",
   "1f917ef42e116f1b": "2026-11-11T05:37:21.063136+00:00",
   "6e6afca348abc77d": "2026-11-11T05:37:21.063136+00:00",
   "8181e961dff07bdc": "2026-11-11T05:37:21.063136+00:00",
@@ -1935,13 +1924,19 @@
   "b092fe705570e275": "2026-11-18T04:37:22.731449+00:00",
   "a218fc4beb8eda80": "2026-11-18T04:37:22.731449+00:00",
   "2a857f1ef8466905": "2026-11-18T04:37:22.731449+00:00",
-  "7fcfb79e30de0a30": "2026-11-18T04:37:22.731449+00:00"
+  "7fcfb79e30de0a30": "2026-11-18T04:37:22.731449+00:00",
+  "882a7d2052a2d770": "2026-11-18T05:07:23.469745+00:00",
+  "81e420a7570ae0a0": "2026-11-18T05:07:23.469745+00:00",
+  "99f66f454c3bc11f": "2026-11-18T05:07:23.469745+00:00",
+  "4896209e96132ed4": "2026-11-18T05:07:23.469745+00:00",
+  "40b0d40abbdb4217": "2026-11-18T05:07:23.469745+00:00",
+  "1b92ba0d54123c9c": "2026-11-18T05:07:23.469745+00:00",
+  "774ea55e845772e5": "2026-11-18T05:07:23.469745+00:00",
+  "71288f95fb59ec2f": "2026-11-18T05:07:23.469745+00:00",
+  "d51ad7ebf5481626": "2026-11-18T05:07:23.469745+00:00",
+  "4e48c8af018584c3": "2026-11-18T05:07:23.469745+00:00"
  },
  "covered": [
-  {
-   "headline": "Pony.ai and Toyota launch seventh-generation Robotaxi in Guangzhou",
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
   {
    "headline": "Tencent launches Hunyuan Hy4 Flash model with 1M context",
    "ts": "2026-11-16T05:37:29.305094+00:00"
@@ -2117,11 +2112,15 @@
   {
    "headline": "Karnataka and Maharashtra outline new technology and AI roadmaps",
    "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  {
+   "headline": "OpenAI model helps find critical Java security bug",
+   "ts": "2026-11-18T05:07:23.469745+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3834,47 +3833,6 @@
  },
  "pending": [
   {
-   "id": "d51ad7ebf5481626",
-   "item": {
-    "id": "d51ad7ebf5481626",
-    "title": "OpenAI Model Helps Find Security Bug in Widely Used Code Language",
-    "url": "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Researchers at cybersecurity startup Calif said Tuesday they found a critical vulnerability in Java, a popular programming language used by government agencies, banks, hospitals, and other companies. The bug would allow for an attacker to steal sensitive information from computer memory or to ...",
-    "published": "2026-11-18T01:15:20+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "4e48c8af018584c3",
-     "title": "After PHP, researchers use AI to find flaws in Java, say 90% Fortune 500 companies may be at risk",
-     "url": "https://www.indiatoday.in/technology/news/story/after-php-researchers-use-ai-to-find-flaws-in-java-say-90-fortune-500-companies-may-be-at-risk-3041234-2026-11-18?utm_source=rss",
-     "source": "India Today",
-     "image": "",
-     "snippet": "After PHP, researchers use AI to find flaws in Java, say 90% Fortune 500 companies may be at risk",
-     "published": "2026-11-18T04:04:26+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "OpenAI model helps find critical Java security bug",
-   "post": "Cybersecurity startup Calif reports that an OpenAI model helped discover a critical vulnerability in Java allowing memory data theft.",
-   "editor_note": "Check if Calif has published specific technical details or identifiers for the Java vulnerability.",
-   "support": 0.91,
-   "published_at": "2026-11-18T01:15:20+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:15:20+00:00",
-   "decision": 1.76,
-   "priority": 8.617901,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "89d3f37d71cb1e38",
    "item": {
     "id": "89d3f37d71cb1e38",
@@ -3900,8 +3858,37 @@
    "first_seen_at": "2026-11-18T04:07:23.199644+00:00",
    "expires_at": "2026-11-19T13:48:00+00:00",
    "decision": 1.92,
-   "priority": 8.592826,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.610194,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "a00d072e1ee989a0",
+   "item": {
+    "id": "a00d072e1ee989a0",
+    "title": "物理AI数据基座服务商“柏川数据”",
+    "url": "https://36kr.com/newsflashes/4074640638628998?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，物理AI数据基座服务商“柏川数据”（ByteTree）宣布完成 5000 万元 Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。",
+    "published": "2026-11-18T02:18:48+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Physical AI database startup ByteTree raises 50 million yuan",
+   "post": "ByteTree has secured 50 million yuan in a Pre-A funding round to build physical AI data pipelines and embodied intelligence algorithms.",
+   "editor_note": "Confirm the list of participating investors and specific allocation of the 50 million yuan.",
+   "support": 0.94,
+   "published_at": "2026-11-18T02:18:48+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T14:18:48+00:00",
+   "decision": 1.55,
+   "priority": 8.594651,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3930,37 +3917,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.578511,
-   "selection_reason": "Editorial importance; waiting 17.5h"
-  },
-  {
-   "id": "a00d072e1ee989a0",
-   "item": {
-    "id": "a00d072e1ee989a0",
-    "title": "物理AI数据基座服务商“柏川数据”",
-    "url": "https://36kr.com/newsflashes/4074640638628998?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，物理AI数据基座服务商“柏川数据”（ByteTree）宣布完成 5000 万元 Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。",
-    "published": "2026-11-18T02:18:48+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Physical AI database startup ByteTree raises 50 million yuan",
-   "post": "ByteTree has secured 50 million yuan in a Pre-A funding round to build physical AI data pipelines and embodied intelligence algorithms.",
-   "editor_note": "Confirm the list of participating investors and specific allocation of the 50 million yuan.",
-   "support": 0.94,
-   "published_at": "2026-11-18T02:18:48+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T14:18:48+00:00",
-   "decision": 1.55,
-   "priority": 8.577283,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.5733,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3987,8 +3945,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.577139,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 8.563245,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "862b4c03c86841db",
@@ -4015,7 +3973,35 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:40:35+00:00",
    "decision": 1.85,
-   "priority": 8.524289,
+   "priority": 8.541657,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
+  },
+  {
+   "id": "776157cf22e3ea27",
+   "item": {
+    "id": "776157cf22e3ea27",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "published": "2026-11-17T19:32:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Model ML raises $250M to automate investment banking",
+   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
+   "editor_note": "Verify the round details and investors if disclosed in the full release.",
+   "support": 0.95,
+   "published_at": "2026-11-17T19:32:11+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T07:32:11+00:00",
+   "decision": 1.58,
+   "priority": 8.416403,
    "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
@@ -4068,36 +4054,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.406754,
-   "selection_reason": "Editorial importance; waiting 17.0h"
-  },
-  {
-   "id": "776157cf22e3ea27",
-   "item": {
-    "id": "776157cf22e3ea27",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "published": "2026-11-17T19:32:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Model ML raises $250M to automate investment banking",
-   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
-   "editor_note": "Verify the round details and investors if disclosed in the full release.",
-   "support": 0.95,
-   "published_at": "2026-11-17T19:32:11+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T07:32:11+00:00",
-   "decision": 1.58,
-   "priority": 8.399035,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.392859,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4149,8 +4107,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.190535,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 8.207903,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4177,8 +4135,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.133745,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 8.151113,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4207,8 +4165,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 7.972124,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 8.00041,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4235,8 +4193,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.605107,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.622476,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4265,8 +4223,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.591844,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.586633,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4293,8 +4251,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.53947,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.525575,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4321,8 +4279,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.510697,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.496802,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4351,8 +4309,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.378511,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.3733,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4379,8 +4337,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.344822,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.36219,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4408,8 +4366,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.226013,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.212118,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4438,61 +4396,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.188511,
-   "selection_reason": "Editorial importance; waiting 37.5h"
-  },
-  {
-   "id": "882a7d2052a2d770",
-   "item": {
-    "id": "882a7d2052a2d770",
-    "title": "OpenAI Signs Agreements to Embed AI Evaluators",
-    "url": "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators",
-    "source": "The Information",
-    "image": "",
-    "snippet": "OpenAI said Monday it had signed agreements with Apollo Research, METR, Transluce and Goodfire to give the organizations access to some of OpenAI’s internal information to assess risks in its technology and practices. The announcement follows OpenAI’s commitment to embed evaluators within ...",
-    "published": "2026-11-16T22:13:24+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "81e420a7570ae0a0",
-     "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-     "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-     "source": "CNBC",
-     "image": "",
-     "snippet": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
-     "published": "2026-11-16T21:54:18+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "99f66f454c3bc11f",
-     "title": "OpenAI will embed safety researchers to investigate AI subversion",
-     "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-     "published": "2026-11-16T17:02:43+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI partners with four independent evaluators to assess risks",
-   "post": "OpenAI signed agreements with Apollo Research, METR, Transluce, and Goodfire to grant the four independent organizations access to internal information to evaluate safety risks in its technology and practices.",
-   "editor_note": "The agreements grant external access to internal information for safety evaluation.",
-   "support": 0.92,
-   "published_at": "2026-11-16T17:02:43+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T05:02:43+00:00",
-   "decision": 2.11,
-   "priority": 6.965064,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.1833,
+   "selection_reason": "Editorial importance; waiting 38.0h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4519,8 +4424,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 6.886082,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.872188,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4547,8 +4452,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.805856,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.823224,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4575,8 +4480,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.675764,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.696606,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
  "details_queue": [],
@@ -4742,12 +4647,13 @@
   "https://36kr.com/newsflashes/4074539437888390?f=rss": "2026-11-18T03:09:18.292557+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre": "2026-11-18T03:39:32.049881+00:00",
   "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india": "2026-11-18T04:07:54.902425+00:00",
-  "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra": "2026-11-18T04:39:38.475758+00:00"
+  "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra": "2026-11-18T04:39:38.475758+00:00",
+  "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language": "2026-11-18T05:08:38.893831+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
   "32933935200c2839": {
@@ -18789,6 +18695,51 @@
    "imp": 0.15,
    "ai": 0.03,
    "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "40b0d40abbdb4217": {
+   "imp": 1.21,
+   "ai": null,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "71288f95fb59ec2f": {
+   "imp": 0.43,
+   "ai": null,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "fa3a061e94aa5744": {
+   "imp": 0.28,
+   "ai": 0.05,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "4896209e96132ed4": {
+   "imp": 1.57,
+   "ai": 0.88,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "1b92ba0d54123c9c": {
+   "imp": 1.11,
+   "ai": null,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "322936bce2f11d5c": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "774ea55e845772e5": {
+   "imp": 1.2,
+   "ai": 0.81,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "8273141c47c78e8e": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
+  },
+  "c9b5d3c996860f56": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-18T05:07:23.469745+00:00"
   }
  }
 }
