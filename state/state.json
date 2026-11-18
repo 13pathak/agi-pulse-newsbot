@@ -1,11 +1,5 @@
 {
  "seen": {
-  "536b29973ed94c9a": "2026-11-11T04:37:22.558678+00:00",
-  "2bb2496f12b8d14c": "2026-11-11T04:37:22.558678+00:00",
-  "cd94d5a2b6a2b91b": "2026-11-11T04:37:22.558678+00:00",
-  "30813aa5a082e1a5": "2026-11-11T04:37:22.558678+00:00",
-  "b4712cce82ac038d": "2026-11-11T04:37:22.558678+00:00",
-  "d711ebe1a1aa86cf": "2026-11-11T04:37:22.558678+00:00",
   "b22522d14a17f95f": "2026-11-11T05:07:24.742377+00:00",
   "be778195d83e2688": "2026-11-11T05:07:24.742377+00:00",
   "3159835e3e2f5940": "2026-11-11T05:07:24.742377+00:00",
@@ -1935,7 +1929,13 @@
   "edef605ba981d41d": "2026-11-18T04:07:23.199644+00:00",
   "8a34bad4fe6b3632": "2026-11-18T04:07:23.199644+00:00",
   "a64bf86d357e960f": "2026-11-18T04:07:23.199644+00:00",
-  "72284a47c9d975a2": "2026-11-18T04:07:23.199644+00:00"
+  "72284a47c9d975a2": "2026-11-18T04:07:23.199644+00:00",
+  "3d174cfa1a2e220e": "2026-11-18T04:37:22.731449+00:00",
+  "d63b9cff00dcba5a": "2026-11-18T04:37:22.731449+00:00",
+  "b092fe705570e275": "2026-11-18T04:37:22.731449+00:00",
+  "a218fc4beb8eda80": "2026-11-18T04:37:22.731449+00:00",
+  "2a857f1ef8466905": "2026-11-18T04:37:22.731449+00:00",
+  "7fcfb79e30de0a30": "2026-11-18T04:37:22.731449+00:00"
  },
  "covered": [
   {
@@ -2113,11 +2113,15 @@
   {
    "headline": "Google rolls out Tasks AI assistant in India",
    "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  {
+   "headline": "Karnataka and Maharashtra outline new technology and AI roadmaps",
+   "ts": "2026-11-18T04:37:22.731449+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3830,34 +3834,6 @@
  },
  "pending": [
   {
-   "id": "7fcfb79e30de0a30",
-   "item": {
-    "id": "7fcfb79e30de0a30",
-    "title": "Karnataka aims to become a global hub for frontier tech; Fadnavis’ vision for a new Maharashtra",
-    "url": "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra",
-    "source": "YourStory",
-    "image": "",
-    "snippet": "Karnataka aims to become a global hub for frontier technologies such as AI, deeptech, and biotech, said CM DK Shivakumar at Bengaluru Tech Summit. Meanwhile, Maharashtra CM Fadnavis has shared his roadmap for a trillion-dollar, drought-free, deeptech Maharashtra by 2035.",
-    "published": "2026-11-18T02:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Karnataka and Maharashtra outline new technology and AI roadmaps",
-   "post": "Karnataka aims to establish itself as a global hub for frontier technologies including artificial intelligence and deeptech, according to state officials at the Bengaluru Tech Summit. Meanwhile, Maharashtra announced a roadmap for a deeptech economy by 2035.",
-   "editor_note": "Verify specific policy metrics or timelines announced at the Bengaluru Tech Summit.",
-   "support": 0.85,
-   "published_at": "2026-11-18T02:00:00+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T14:00:00+00:00",
-   "decision": 1.62,
-   "priority": 8.605922,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "d51ad7ebf5481626",
    "item": {
     "id": "d51ad7ebf5481626",
@@ -3895,36 +3871,37 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:15:20+00:00",
    "decision": 1.76,
-   "priority": 8.600544,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.617901,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
-   "id": "0b27db5afea169d0",
+   "id": "89d3f37d71cb1e38",
    "item": {
-    "id": "0b27db5afea169d0",
-    "title": "Genesis AI, a Robotics Startup, Raises $500 Million",
-    "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology",
-    "source": "The Wall Street Journal",
-    "image": "https://images.wsj.net/im-50118049",
-    "snippet": "‘We’re working to build the world’s best general-purpose robot,’ says CEO Zhou Xian.",
-    "published": "2026-11-17T14:00:00+00:00",
-    "images": true,
+    "id": "89d3f37d71cb1e38",
+    "title": "可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度",
+    "url": "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月17日晚，可灵AI全新一代图像创作模型Kling Image 4.0正式上线。 真实、文字表现、指令理解和一致性，是这一代模型升级的核心方向。Kling Image 4.0聚焦影视创作、广告营销等专业图像创作场景，在三个方向实现集中突破：画面真实感全面升级，光影、肤质与材质纹理呈现接近相机直出的自然观感，并首次支持原生8K图像生成，超高清画质带来更丰富的细节表现；文字生成与设计表现全面升级，支持单张图片内生成2000字，提供70余款预设字体；连贯组图和长图生成方面，支持一次描述生成最多10张系列图片、电商详情页与网页设计长图生成，可以一次性呈现完整页面视觉，高效完成成套创作。 本次发布的新模型采用「理解生成统一」架构，探索将视觉理解与图像生成融入统一的模型体系，进一步打通从理解创作意图到生成视觉内容的链路。根据全新发布的AA（Artificial Analysis）榜单，Kling Image 4.0在AI图像工具排行榜上位居第六，领先Nano Banana等行业头部产品，位居全球AI图像模型第一梯队。据测评结果，可灵AI全新的图片模型在UIUX和电商设计场景表现尤为亮眼，在UIUX Design板块位居全球第三。 画质逼近相机直出，业内率先支持原生8K生成 Kling Image 4.0让生成画面呈现接近手机或相机直出的自然观感：光影过渡柔和，肤质与纹理细腻，人物状态鲜活。从日常抓拍到情绪写真，表情、姿态与环境氛围自然相融，让画面既有丰富细节，也有真实的生活气息。 同时，针对人物群像创作中存在的“千人一面”难题，Kling Image 4.0模型强化了不同人物在脸型、五…",
+    "published": "2026-11-18T01:48:00+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Robotics startup Genesis AI raises $500 million",
-   "post": "Robotics startup Genesis AI has raised $500 million in funding to develop general-purpose robots, according to CEO Zhou Xian.",
-   "editor_note": "Confirm the funding round details and lead investors if available from the source.",
-   "support": 0.85,
-   "published_at": "2026-11-17T14:00:00+00:00",
-   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
-   "expires_at": "2026-11-19T02:00:00+00:00",
-   "decision": 2.2,
-   "priority": 8.591025,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "headline": "Kling AI releases Kling Image 4.0 with native 8K support",
+   "post": "Kling AI released Kling Image 4.0, featuring native 8K resolution generation, single-image creation of up to 2,000 words of text, and series generation of up to 10 images.",
+   "editor_note": "Check if the 8K generation claim is restricted to specific hardware or pricing tiers.",
+   "support": 0.95,
+   "published_at": "2026-11-18T01:48:00+00:00",
+   "first_seen_at": "2026-11-18T04:07:23.199644+00:00",
+   "expires_at": "2026-11-19T13:48:00+00:00",
+   "decision": 1.92,
+   "priority": 8.592826,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "0145fb90b8379117",
@@ -3953,37 +3930,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.583718,
-   "selection_reason": "Editorial importance; waiting 17.0h"
-  },
-  {
-   "id": "89d3f37d71cb1e38",
-   "item": {
-    "id": "89d3f37d71cb1e38",
-    "title": "可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度",
-    "url": "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月17日晚，可灵AI全新一代图像创作模型Kling Image 4.0正式上线。 真实、文字表现、指令理解和一致性，是这一代模型升级的核心方向。Kling Image 4.0聚焦影视创作、广告营销等专业图像创作场景，在三个方向实现集中突破：画面真实感全面升级，光影、肤质与材质纹理呈现接近相机直出的自然观感，并首次支持原生8K图像生成，超高清画质带来更丰富的细节表现；文字生成与设计表现全面升级，支持单张图片内生成2000字，提供70余款预设字体；连贯组图和长图生成方面，支持一次描述生成最多10张系列图片、电商详情页与网页设计长图生成，可以一次性呈现完整页面视觉，高效完成成套创作。 本次发布的新模型采用「理解生成统一」架构，探索将视觉理解与图像生成融入统一的模型体系，进一步打通从理解创作意图到生成视觉内容的链路。根据全新发布的AA（Artificial Analysis）榜单，Kling Image 4.0在AI图像工具排行榜上位居第六，领先Nano Banana等行业头部产品，位居全球AI图像模型第一梯队。据测评结果，可灵AI全新的图片模型在UIUX和电商设计场景表现尤为亮眼，在UIUX Design板块位居全球第三。 画质逼近相机直出，业内率先支持原生8K生成 Kling Image 4.0让生成画面呈现接近手机或相机直出的自然观感：光影过渡柔和，肤质与纹理细腻，人物状态鲜活。从日常抓拍到情绪写真，表情、姿态与环境氛围自然相融，让画面既有丰富细节，也有真实的生活气息。 同时，针对人物群像创作中存在的“千人一面”难题，Kling Image 4.0模型强化了不同人物在脸型、五…",
-    "published": "2026-11-18T01:48:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Kling AI releases Kling Image 4.0 with native 8K support",
-   "post": "Kling AI released Kling Image 4.0, featuring native 8K resolution generation, single-image creation of up to 2,000 words of text, and series generation of up to 10 images.",
-   "editor_note": "Check if the 8K generation claim is restricted to specific hardware or pricing tiers.",
-   "support": 0.95,
-   "published_at": "2026-11-18T01:48:00+00:00",
-   "first_seen_at": "2026-11-18T04:07:23.199644+00:00",
-   "expires_at": "2026-11-19T13:48:00+00:00",
-   "decision": 1.92,
-   "priority": 8.575469,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.578511,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "a00d072e1ee989a0",
@@ -4011,8 +3959,36 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T14:18:48+00:00",
    "decision": 1.55,
-   "priority": 8.559927,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.577283,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "0b27db5afea169d0",
+   "item": {
+    "id": "0b27db5afea169d0",
+    "title": "Genesis AI, a Robotics Startup, Raises $500 Million",
+    "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology",
+    "source": "The Wall Street Journal",
+    "image": "https://images.wsj.net/im-50118049",
+    "snippet": "‘We’re working to build the world’s best general-purpose robot,’ says CEO Zhou Xian.",
+    "published": "2026-11-17T14:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Robotics startup Genesis AI raises $500 million",
+   "post": "Robotics startup Genesis AI has raised $500 million in funding to develop general-purpose robots, according to CEO Zhou Xian.",
+   "editor_note": "Confirm the funding round details and lead investors if available from the source.",
+   "support": 0.85,
+   "published_at": "2026-11-17T14:00:00+00:00",
+   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
+   "expires_at": "2026-11-19T02:00:00+00:00",
+   "decision": 2.2,
+   "priority": 8.577139,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "862b4c03c86841db",
@@ -4039,8 +4015,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:40:35+00:00",
    "decision": 1.85,
-   "priority": 8.506933,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.524289,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4092,8 +4068,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.420639,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 8.406754,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4120,8 +4096,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.381678,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.399035,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4173,8 +4149,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.173178,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 8.190535,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4201,8 +4177,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.116388,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 8.133745,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4231,8 +4207,36 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 7.943858,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.972124,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "3f6098aabd8eb664",
+   "item": {
+    "id": "3f6098aabd8eb664",
+    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
+    "published": "2026-11-18T01:09:18+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Malaysia seeks details from Anthropic over influence campaign",
+   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
+   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
+   "support": 0.97,
+   "published_at": "2026-11-18T01:09:18+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:09:18+00:00",
+   "decision": 1.73,
+   "priority": 7.605107,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4261,36 +4265,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.597051,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
-   "id": "3f6098aabd8eb664",
-   "item": {
-    "id": "3f6098aabd8eb664",
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
-    "published": "2026-11-18T01:09:18+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Malaysia seeks details from Anthropic over influence campaign",
-   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
-   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
-   "support": 0.97,
-   "published_at": "2026-11-18T01:09:18+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:09:18+00:00",
-   "decision": 1.73,
-   "priority": 7.587751,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.591844,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4317,8 +4293,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.553355,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.53947,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4345,8 +4321,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.524582,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.510697,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4375,8 +4351,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.383718,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.378511,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4403,8 +4379,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.327465,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.344822,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4432,8 +4408,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.239898,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.226013,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4462,8 +4438,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.193718,
-   "selection_reason": "Editorial importance; waiting 37.0h"
+   "priority": 7.188511,
+   "selection_reason": "Editorial importance; waiting 37.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4515,8 +4491,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 6.978949,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.965064,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4543,8 +4519,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 6.899968,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.886082,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4571,8 +4547,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.788499,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.805856,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4599,8 +4575,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.654936,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.675764,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
@@ -4765,12 +4741,13 @@
   "https://openai.com/index/introducing-gpt-6-2-astra-sol": "2026-11-18T02:39:36.975439+00:00",
   "https://36kr.com/newsflashes/4074539437888390?f=rss": "2026-11-18T03:09:18.292557+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre": "2026-11-18T03:39:32.049881+00:00",
-  "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india": "2026-11-18T04:07:54.902425+00:00"
+  "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india": "2026-11-18T04:07:54.902425+00:00",
+  "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra": "2026-11-18T04:39:38.475758+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
   "32933935200c2839": {
@@ -18747,6 +18724,71 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-18T04:07:23.199644+00:00"
+  },
+  "d63b9cff00dcba5a": {
+   "imp": 1.63,
+   "ai": 0.93,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "b092fe705570e275": {
+   "imp": 0.86,
+   "ai": 0.32,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "2a857f1ef8466905": {
+   "imp": 0.75,
+   "ai": 0.49,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "a218fc4beb8eda80": {
+   "imp": 0.95,
+   "ai": 0.65,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "3d174cfa1a2e220e": {
+   "imp": 1.84,
+   "ai": 0.89,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "f2128814d1067c65": {
+   "imp": 0.24,
+   "ai": 0.08,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "bc0f230a85b89c3e": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "94fdd673a185e4f9": {
+   "imp": 0.72,
+   "ai": 0.61,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "999e8131c345798c": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "2614a3c7ac0bdae4": {
+   "imp": 0.37,
+   "ai": 0.1,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "727fb41b1252c475": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "9929e33bd29ed487": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
+  },
+  "f2b6b934d5b06702": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-18T04:37:22.731449+00:00"
   }
  }
 }
