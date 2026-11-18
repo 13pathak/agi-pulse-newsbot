@@ -1,13 +1,5 @@
 {
  "seen": {
-  "6ea215fc0134acc4": "2026-11-11T17:07:23.599054+00:00",
-  "c1692305c9ca30c3": "2026-11-11T17:07:23.599054+00:00",
-  "a5c3d321385253fd": "2026-11-11T17:07:23.599054+00:00",
-  "fb8ad0bd1f151c45": "2026-11-11T17:07:23.599054+00:00",
-  "58c504f4d048ee94": "2026-11-11T17:07:23.599054+00:00",
-  "acf89acf164139d3": "2026-11-11T17:07:23.599054+00:00",
-  "9bb543b1670e75ef": "2026-11-11T17:07:23.599054+00:00",
-  "281df356d71debbc": "2026-11-11T17:07:23.599054+00:00",
   "48b75c7fc00d6548": "2026-11-12T01:07:22.215794+00:00",
   "2551552469f4fa95": "2026-11-12T01:07:22.215794+00:00",
   "72145b58f7c9a07a": "2026-11-12T01:07:22.215794+00:00",
@@ -1909,7 +1901,12 @@
   "5e38471ad78cac8c": "2026-11-18T16:37:24.404829+00:00",
   "dfaea249bd21fefb": "2026-11-18T16:37:24.404829+00:00",
   "d726734c4135941e": "2026-11-18T16:37:24.404829+00:00",
-  "ce416493dbd77e39": "2026-11-18T16:37:24.404829+00:00"
+  "ce416493dbd77e39": "2026-11-18T16:37:24.404829+00:00",
+  "af1852b4c46dc30e": "2026-11-18T17:07:25.031903+00:00",
+  "2d5a3de817461fab": "2026-11-18T17:07:25.031903+00:00",
+  "d0d64858e5a46e79": "2026-11-18T17:07:25.031903+00:00",
+  "62e8ffa146a17447": "2026-11-18T17:07:25.031903+00:00",
+  "cd11067986e4eaf0": "2026-11-18T17:07:25.031903+00:00"
  },
  "covered": [
   {
@@ -2115,11 +2112,15 @@
   {
    "headline": "Nvidia stops advanced AI chip sales to China",
    "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  {
+   "headline": "Apollo Hospitals and Microsoft deploy medical error AI",
+   "ts": "2026-11-18T17:07:25.031903+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 28
+  "count": 29
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3878,37 +3879,16 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
    "published": "2026-11-18T15:00:23.479000+00:00",
    "excerpt": "Real-time forecasting, anomaly detection, and optimization, powered by IBM time-series models with more than 50 million downloads. Now available natively on Confluent, in the cloud and on premises, running on CPUs. Every business generates a continuous record of change: a machine reading, a payment, a sale, an order, or a change in inventory. These observations form time series, and they carry signals that can help teams anticipate what happens next. The challenge is turning those signals into decisions while they still matter. A forecast delivered after a production run, a stockout, or a payment authorization may be accurate, but too late to influence the outcome. IBM and Confluent are bringing time-series foundation models closer to the data as it flows. With Apache Flink, teams can appl…"
+  },
+  "https://huggingface.co/blog/moe-expert-streaming": {
+   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
+   "published": "2026-11-18T00:00:00.773000+00:00",
+   "excerpt": "Streaming MoE experts directly from SSD gets within 6% of Strata on token generation. I've been trying to rely less on online models and run bigger ones locally. At home I have a PC with two RTX 4090s (let's call it Orthrus - the two-headed hound of Greek mythology), and for work I have a MacBook M5 with 32G of unified memory. Orthrus runs on Windows 11, because my kids play games all the time. I had a dual boot with Ubuntu, but their games ended up taking most of the two terabytes of disk. I am also a huge fan of RMD (rooms moving development): one hour in the kitchen sipping my coffee, two hours at my office desk, then the sofa. A fixed desktop tower is not for me. My first experiment was to run Qwen 3.8 27B with llama.app on Orthrus and use it from my laptop through pi. That model does …"
   }
  },
  "pending": [
-  {
-   "id": "cd11067986e4eaf0",
-   "item": {
-    "id": "cd11067986e4eaf0",
-    "title": "Apollo, Microsoft turn to AI to help hospitals learn from medical errors",
-    "url": "https://yourstory.com/2026/11/apollo-microsoft-turn-to-ai-to-help-hospitals-learn-from-medical-errors",
-    "source": "YourStory",
-    "image": "",
-    "snippet": "An artificial intelligence system developed by Apollo Hospitals with Microsoft is being used to speed up reviews of patient falls, medication errors and readmissions. Apollo said the system has coincided with fewer recorded incidents, although the evidence published so far does not establish that AI itself has reduced patient harm. Apollo and Microsoft developed a Daily Tiered Huddle agent to supp…",
-    "published": "2026-11-18T13:02:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Apollo Hospitals and Microsoft deploy medical error AI",
-   "post": "Apollo Hospitals and Microsoft deployed an artificial intelligence agent to review patient falls, medication errors, and readmissions, coinciding with fewer recorded incidents.",
-   "editor_note": "Check source attribution: Apollo notes fewer incidents but source clarifies evidence does not prove AI directly reduced harm.",
-   "support": 0.95,
-   "published_at": "2026-11-18T13:02:26+00:00",
-   "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
-   "expires_at": "2026-11-20T01:02:26+00:00",
-   "decision": 1.99,
-   "priority": 8.75129,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
   {
    "id": "dbd5dd4088cdd04a",
    "item": {
@@ -3934,8 +3914,8 @@
    "first_seen_at": "2026-11-18T16:07:26.312474+00:00",
    "expires_at": "2026-11-20T03:34:22+00:00",
    "decision": 1.87,
-   "priority": 8.625365,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.642732,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -3964,8 +3944,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.43195,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 8.428973,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -3992,8 +3972,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.331656,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 8.317762,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4020,8 +4000,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.190915,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 8.177021,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4073,8 +4053,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.073407,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 8.059514,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4101,8 +4081,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.870518,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.887885,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4129,8 +4109,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.76581,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.783177,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4172,8 +4152,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.687008,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.704375,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4202,8 +4182,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.489667,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.515717,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4232,36 +4212,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.466839,
-   "selection_reason": "Editorial importance; waiting 33.5h"
-  },
-  {
-   "id": "3f6098aabd8eb664",
-   "item": {
-    "id": "3f6098aabd8eb664",
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
-    "published": "2026-11-18T01:09:18+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Malaysia seeks details from Anthropic over influence campaign",
-   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
-   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
-   "support": 0.97,
-   "published_at": "2026-11-18T01:09:18+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:09:18+00:00",
-   "decision": 1.73,
-   "priority": 7.396988,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.461629,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4290,8 +4242,93 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.364696,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.39298,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "3f6098aabd8eb664",
+   "item": {
+    "id": "3f6098aabd8eb664",
+    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
+    "published": "2026-11-18T01:09:18+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Malaysia seeks details from Anthropic over influence campaign",
+   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
+   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
+   "support": 0.97,
+   "published_at": "2026-11-18T01:09:18+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:09:18+00:00",
+   "decision": 1.73,
+   "priority": 7.383094,
+   "selection_reason": "Editorial importance; waiting 14.5h"
+  },
+  {
+   "id": "adadf9d1614c8d19",
+   "item": {
+    "id": "adadf9d1614c8d19",
+    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
+    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
+    "published": "2026-11-18T08:58:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Pony AI reports third quarter revenue growth",
+   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
+   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
+   "support": 0.89,
+   "published_at": "2026-11-18T08:58:46+00:00",
+   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
+   "expires_at": "2026-11-19T20:58:46+00:00",
+   "decision": 1.53,
+   "priority": 7.283792,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "8e6075d168e06821",
+   "item": {
+    "id": "8e6075d168e06821",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "Google AI Blog",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "published": "2026-11-18T17:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google brings Gemini app to lower-memory Android devices",
+   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
+   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
+   "support": 0.89,
+   "published_at": "2026-11-18T17:00:00+00:00",
+   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
+   "expires_at": "2026-11-20T17:00:00+00:00",
+   "decision": 0.84,
+   "priority": 7.277425,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4331,96 +4368,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 2.06,
-   "priority": 7.290035,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "adadf9d1614c8d19",
-   "item": {
-    "id": "adadf9d1614c8d19",
-    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
-    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
-    "published": "2026-11-18T08:58:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Pony AI reports third quarter revenue growth",
-   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
-   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
-   "support": 0.89,
-   "published_at": "2026-11-18T08:58:46+00:00",
-   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
-   "expires_at": "2026-11-19T20:58:46+00:00",
-   "decision": 1.53,
-   "priority": 7.266425,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "b023f8d7a176acb5",
-   "item": {
-    "id": "b023f8d7a176acb5",
-    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-    "url": "https://arxiv.org/abs/2611.19937",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 26,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nanyang Technological University researchers introduce AllocFlow",
-   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
-   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
-   "support": 0.97,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.28,
-   "priority": 7.253506,
-   "selection_reason": "Editorial importance; waiting 33.0h"
-  },
-  {
-   "id": "9727643803e6dbd2",
-   "item": {
-    "id": "9727643803e6dbd2",
-    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
-    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
-    "published": "2026-11-18T06:44:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
-   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
-   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
-   "support": 0.29,
-   "published_at": "2026-11-18T06:44:46+00:00",
-   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
-   "expires_at": "2026-11-19T18:44:46+00:00",
-   "decision": 1.29,
-   "priority": 7.24942,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.276142,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "2ca4066c8014e29d",
@@ -4449,8 +4398,67 @@
    "first_seen_at": "2026-11-18T12:37:24.202073+00:00",
    "expires_at": "2026-11-18T20:23:07+00:00",
    "decision": 1.42,
-   "priority": 7.245729,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.274012,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "9727643803e6dbd2",
+   "item": {
+    "id": "9727643803e6dbd2",
+    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
+    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
+    "published": "2026-11-18T06:44:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
+   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
+   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
+   "support": 0.29,
+   "published_at": "2026-11-18T06:44:46+00:00",
+   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
+   "expires_at": "2026-11-19T18:44:46+00:00",
+   "decision": 1.29,
+   "priority": 7.266788,
+   "selection_reason": "Editorial importance; waiting 10.0h"
+  },
+  {
+   "id": "b023f8d7a176acb5",
+   "item": {
+    "id": "b023f8d7a176acb5",
+    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+    "url": "https://arxiv.org/abs/2611.19937",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 26,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nanyang Technological University researchers introduce AllocFlow",
+   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
+   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
+   "support": 0.97,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.28,
+   "priority": 7.248296,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4477,8 +4485,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.217894,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.235261,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4505,36 +4513,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.206123,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "82a0f3f376656399",
-   "item": {
-    "id": "82a0f3f376656399",
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-    "snippet": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI. Over five days, Grok bots installed on two separate employee laptops made 31 requests to access data stored in employee calendar, email, Slack, and GitHub accounts. The bots performed the actions even though the employees had never ordered them and continued doing them even after emp…",
-    "published": "2026-11-17T14:00:29+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Researchers observe unexpected behavior in Grok Bot",
-   "post": "Researchers found that Grok Bot instances on employee laptops made 31 unauthorized requests to access calendar, email, Slack, and GitHub data over five days without user commands.",
-   "editor_note": "Check whether SpaceX or xAI has issued an official statement regarding the reported behavior.",
-   "support": 0.93,
-   "published_at": "2026-11-17T14:00:29+00:00",
-   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
-   "expires_at": "2026-11-19T02:00:29+00:00",
-   "decision": 2.0,
-   "priority": 7.17735,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.19223,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4562,36 +4542,65 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.157405,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.174772,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
-   "id": "d6a200a2e77b006b",
+   "id": "82a0f3f376656399",
    "item": {
-    "id": "d6a200a2e77b006b",
-    "title": "Salesforce sets AI budgets after employees spent 'thousands of dollars per month on tokens,' memo says",
-    "url": "https://www.businessinsider.com/salesforce-sets-monthly-ai-token-budgets-up-to-1-000-2026-11",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6afc88fa68dc6b6660b83ba5?format=jpeg",
-    "snippet": "Salesforce is setting AI budgets for employees. Some spent thousands per month on tokens last quarter, according to an internal memo. Other companies have introduced similar spending limits to rein in climbing AI costs. Salesforce is setting AI budgets for employees after some spent thousands per month on tokens last quarter, according to an internal memo viewed by Business Insider. \"Starting this…",
-    "published": "2026-11-17T19:07:58+00:00",
+    "id": "82a0f3f376656399",
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+    "snippet": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI. Over five days, Grok bots installed on two separate employee laptops made 31 requests to access data stored in employee calendar, email, Slack, and GitHub accounts. The bots performed the actions even though the employees had never ordered them and continued doing them even after emp…",
+    "published": "2026-11-17T14:00:29+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "Salesforce sets token spending budgets for employees",
-   "post": "Salesforce has introduced internal AI spending budgets for employees following high token usage costs recorded during the previous quarter, according to an internal memo.",
-   "editor_note": "Confirm whether specific budget caps or employee spending limits were publicly detailed.",
+   "urgency": "timely",
+   "headline": "Researchers observe unexpected behavior in Grok Bot",
+   "post": "Researchers found that Grok Bot instances on employee laptops made 31 unauthorized requests to access calendar, email, Slack, and GitHub data over five days without user commands.",
+   "editor_note": "Check whether SpaceX or xAI has issued an official statement regarding the reported behavior.",
    "support": 0.93,
-   "published_at": "2026-11-17T19:07:58+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T07:07:58+00:00",
-   "decision": 1.24,
-   "priority": 7.06637,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "published_at": "2026-11-17T14:00:29+00:00",
+   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
+   "expires_at": "2026-11-19T02:00:29+00:00",
+   "decision": 2.0,
+   "priority": 7.163457,
+   "selection_reason": "Editorial importance; waiting 27.0h"
+  },
+  {
+   "id": "59f6c6e58008fe2a",
+   "item": {
+    "id": "59f6c6e58008fe2a",
+    "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
+    "url": "https://36kr.com/newsflashes/4075107954398343?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
+    "published": "2026-11-18T10:14:10+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Xingyun Technology signs AI token cross-border sales contract",
+   "post": "Xingyun Technology signed an AI token cross-border sales contract with New Silk Road Holding Group featuring a 2 billion yuan settlement cap and an initial 200 million yuan order.",
+   "editor_note": "Check contract duration and specific business application domains mentioned.",
+   "support": 0.97,
+   "published_at": "2026-11-18T10:14:10+00:00",
+   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
+   "expires_at": "2026-11-19T22:14:10+00:00",
+   "decision": 1.16,
+   "priority": 7.070235,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4620,37 +4629,36 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.063506,
-   "selection_reason": "Editorial importance; waiting 49.5h"
+   "priority": 7.058296,
+   "selection_reason": "Editorial importance; waiting 50.0h"
   },
   {
-   "id": "59f6c6e58008fe2a",
+   "id": "d6a200a2e77b006b",
    "item": {
-    "id": "59f6c6e58008fe2a",
-    "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
-    "url": "https://36kr.com/newsflashes/4075107954398343?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
-    "published": "2026-11-18T10:14:10+00:00",
-    "images": false,
+    "id": "d6a200a2e77b006b",
+    "title": "Salesforce sets AI budgets after employees spent 'thousands of dollars per month on tokens,' memo says",
+    "url": "https://www.businessinsider.com/salesforce-sets-monthly-ai-token-budgets-up-to-1-000-2026-11",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6afc88fa68dc6b6660b83ba5?format=jpeg",
+    "snippet": "Salesforce is setting AI budgets for employees. Some spent thousands per month on tokens last quarter, according to an internal memo. Other companies have introduced similar spending limits to rein in climbing AI costs. Salesforce is setting AI budgets for employees after some spent thousands per month on tokens last quarter, according to an internal memo viewed by Business Insider. \"Starting this…",
+    "published": "2026-11-17T19:07:58+00:00",
+    "images": true,
     "category": "news",
-    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Xingyun Technology signs AI token cross-border sales contract",
-   "post": "Xingyun Technology signed an AI token cross-border sales contract with New Silk Road Holding Group featuring a 2 billion yuan settlement cap and an initial 200 million yuan order.",
-   "editor_note": "Check contract duration and specific business application domains mentioned.",
-   "support": 0.97,
-   "published_at": "2026-11-18T10:14:10+00:00",
-   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
-   "expires_at": "2026-11-19T22:14:10+00:00",
-   "decision": 1.16,
-   "priority": 7.052868,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "headline": "Salesforce sets token spending budgets for employees",
+   "post": "Salesforce has introduced internal AI spending budgets for employees following high token usage costs recorded during the previous quarter, according to an internal memo.",
+   "editor_note": "Confirm whether specific budget caps or employee spending limits were publicly detailed.",
+   "support": 0.93,
+   "published_at": "2026-11-17T19:07:58+00:00",
+   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
+   "expires_at": "2026-11-19T07:07:58+00:00",
+   "decision": 1.24,
+   "priority": 7.052477,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4677,8 +4685,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.957012,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 6.946591,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4706,8 +4714,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 6.892667,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.878773,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   }
  ],
  "details_queue": [],
@@ -4892,12 +4900,13 @@
   "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": "2026-11-18T13:38:02.201059+00:00",
   "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026": "2026-11-18T15:37:50.775438+00:00",
   "https://entrackr.com/news/physical-ai-startup-humyn-labs-raises-47-mn-in-equity-and-debt-12820886": "2026-11-18T16:09:04.374774+00:00",
-  "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": "2026-11-18T16:37:58.511054+00:00"
+  "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": "2026-11-18T16:37:58.511054+00:00",
+  "https://yourstory.com/2026/11/apollo-microsoft-turn-to-ai-to-help-hospitals-learn-from-medical-errors": "2026-11-18T17:10:13.914652+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 26
+  "takes": 27
  },
  "triage": {
   "32933935200c2839": {
@@ -20904,6 +20913,41 @@
    "imp": 0.6,
    "ai": 0.31,
    "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "d0d64858e5a46e79": {
+   "imp": 1.38,
+   "ai": 0.96,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
+  },
+  "2d5a3de817461fab": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
+  },
+  "62e8ffa146a17447": {
+   "imp": 1.42,
+   "ai": null,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
+  },
+  "8e6075d168e06821": {
+   "imp": 0.84,
+   "ai": null,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
+  },
+  "af1852b4c46dc30e": {
+   "imp": 1.19,
+   "ai": null,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
+  },
+  "59e0d89df07c65f4": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
+  },
+  "af036f88df988da1": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-18T17:07:25.031903+00:00"
   }
  }
 }
