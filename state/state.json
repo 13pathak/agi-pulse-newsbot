@@ -1,11 +1,5 @@
 {
  "seen": {
-  "05e06857ebb572cc": "2026-11-11T10:37:20.945947+00:00",
-  "1b204e2114989d7f": "2026-11-11T10:37:20.945947+00:00",
-  "471729b5f9a179d9": "2026-11-11T10:37:20.945947+00:00",
-  "7eb11c8f95b6375d": "2026-11-11T10:37:20.945947+00:00",
-  "7befb3377f156a98": "2026-11-11T10:37:20.945947+00:00",
-  "5c695888c432dff1": "2026-11-11T10:37:20.945947+00:00",
   "1383804c9ccf0f82": "2026-11-11T11:07:23.012607+00:00",
   "6b75d515d367494e": "2026-11-11T11:07:23.012607+00:00",
   "f6ce9f0cc130556c": "2026-11-11T11:07:23.012607+00:00",
@@ -1927,7 +1921,22 @@
   "4c6a388046f44d33": "2026-11-18T10:07:25.145656+00:00",
   "c97a8d700527227b": "2026-11-18T10:07:25.145656+00:00",
   "0f10fb6142bbabe8": "2026-11-18T10:07:25.145656+00:00",
-  "97057ad8db748848": "2026-11-18T10:07:25.145656+00:00"
+  "97057ad8db748848": "2026-11-18T10:07:25.145656+00:00",
+  "082a0b3ce7d30b20": "2026-11-18T10:37:26.075554+00:00",
+  "e6c45f97bb5cf66f": "2026-11-18T10:37:26.075554+00:00",
+  "a6378e500f75f84d": "2026-11-18T10:37:26.075554+00:00",
+  "760773db88c051de": "2026-11-18T10:37:26.075554+00:00",
+  "20c4aa4e38b8ecbf": "2026-11-18T10:37:26.075554+00:00",
+  "2bacfaffee5a24fa": "2026-11-18T10:37:26.075554+00:00",
+  "bf3d5c701c2eba57": "2026-11-18T10:37:26.075554+00:00",
+  "bf00fa1753251851": "2026-11-18T10:37:26.075554+00:00",
+  "1365fe0218babfff": "2026-11-18T10:37:26.075554+00:00",
+  "38f88b1583445c18": "2026-11-18T10:37:26.075554+00:00",
+  "b3ba9f8841152db7": "2026-11-18T10:37:26.075554+00:00",
+  "55e8cba7ef81c14e": "2026-11-18T10:37:26.075554+00:00",
+  "4f6a7d489b8ac936": "2026-11-18T10:37:26.075554+00:00",
+  "52140d40d012eee4": "2026-11-18T10:37:26.075554+00:00",
+  "edd55e44ca983db9": "2026-11-18T10:37:26.075554+00:00"
  },
  "covered": [
   {
@@ -2133,11 +2142,15 @@
   {
    "headline": "Majority of Indian firms report AI agent security incidents",
    "ts": "2026-11-18T10:07:25.145656+00:00"
+  },
+  {
+   "headline": "Serri AI crosses $2 million ARR milestone",
+   "ts": "2026-11-18T10:37:26.075554+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3873,37 +3886,15 @@
    "desc": "OpenAI也终于活成了2022年谷歌的样子",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510922.html": {
+   "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+   "desc": "氖人寻味！",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "edd55e44ca983db9",
-   "item": {
-    "id": "edd55e44ca983db9",
-    "title": "Serri AI crosses $2 Mn ARR, doubles revenue run rate in three months",
-    "url": "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/18/serri-2026-11-18-12-44-10.png",
-    "snippet": "AI-powered messaging and calling infrastructure startup Serri AI has crossed $2 million in annual recurring revenue (ARR), doubling its revenue run rate within three months of reaching the $1 million milestone. The company achieved this with around $200,000 in external funding and remained profitable. Serri AI reported revenue of Rs 2.25 crore in October 2026, its highest monthly figure to date. I…",
-    "published": "2026-11-18T04:52:33+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Serri AI crosses $2 million ARR milestone",
-   "post": "Indian AI messaging and calling infrastructure startup Serri AI has crossed $2 million in annual recurring revenue, doubling its run rate in three months.",
-   "editor_note": "Confirm external funding figure of $200,000 and October 2026 revenue of Rs 2.25 crore.",
-   "support": 0.89,
-   "published_at": "2026-11-18T04:52:33+00:00",
-   "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
-   "expires_at": "2026-11-19T16:52:33+00:00",
-   "decision": 1.84,
-   "priority": 8.467561,
-   "selection_reason": "Time-sensitive story"
-  },
   {
    "id": "bf9c3e0a3483d49f",
    "item": {
@@ -3929,8 +3920,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.32474,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 8.34211,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -3959,8 +3950,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.283174,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 8.311463,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4012,8 +4003,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.253957,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 8.240061,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4040,8 +4031,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.09003,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 8.1074,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4068,8 +4059,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.796103,
-   "selection_reason": "Time-sensitive story; waiting 7.5h"
+   "priority": 7.813473,
+   "selection_reason": "Time-sensitive story; waiting 8.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4096,8 +4087,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.540122,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.557492,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4126,8 +4117,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.534545,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.529334,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4154,8 +4145,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.386673,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.372777,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4182,8 +4173,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.3579,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.344004,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4212,8 +4203,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.321212,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.316001,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4242,8 +4233,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.151136,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.177191,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4272,8 +4263,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.131212,
-   "selection_reason": "Editorial importance; waiting 43.0h"
+   "priority": 7.126001,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4301,8 +4292,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.073216,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.05932,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4330,8 +4321,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.040737,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.058108,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4358,8 +4349,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 7.035817,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.053187,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4387,8 +4378,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.023733,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.041103,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4417,8 +4408,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.997148,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.025436,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4445,8 +4436,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.996851,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.014221,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4473,8 +4464,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.904959,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.925803,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   }
  ],
  "details_queue": [],
@@ -4650,12 +4641,13 @@
   "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology": "2026-11-18T08:39:32.402992+00:00",
   "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998": "2026-11-18T09:08:16.597956+00:00",
   "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear": "2026-11-18T09:39:27.202685+00:00",
-  "https://www.livemint.com/technology/majority-of-indian-firms-hit-by-ai-agent-incident-in-past-12-months-only-36-pc-contained-it-in-24-hrs-survey-11794995034484.html": "2026-11-18T10:09:26.229602+00:00"
+  "https://www.livemint.com/technology/majority-of-indian-firms-hit-by-ai-agent-incident-in-past-12-months-only-36-pc-contained-it-in-24-hrs-survey-11794995034484.html": "2026-11-18T10:09:26.229602+00:00",
+  "https://entrackr.com/snippets/serri-ai-crosses-2-mn-arr-doubles-revenue-run-rate-in-three-months-12820187": "2026-11-18T10:41:59.143635+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
   "32933935200c2839": {
@@ -19502,6 +19494,156 @@
    "imp": 0.22,
    "ai": 0.08,
    "ts": "2026-11-18T10:07:25.145656+00:00"
+  },
+  "a6378e500f75f84d": {
+   "imp": 1.9,
+   "ai": 0.87,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "b3ba9f8841152db7": {
+   "imp": 1.44,
+   "ai": 0.84,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "2bacfaffee5a24fa": {
+   "imp": 1.46,
+   "ai": null,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "1365fe0218babfff": {
+   "imp": 1.11,
+   "ai": null,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "bf3d5c701c2eba57": {
+   "imp": 1.38,
+   "ai": 0.73,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "e6c45f97bb5cf66f": {
+   "imp": 2.14,
+   "ai": 0.95,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "082a0b3ce7d30b20": {
+   "imp": 2.1,
+   "ai": 0.93,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "20c4aa4e38b8ecbf": {
+   "imp": 1.65,
+   "ai": 0.98,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "52140d40d012eee4": {
+   "imp": 0.61,
+   "ai": 0.37,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "4f6a7d489b8ac936": {
+   "imp": 1.63,
+   "ai": 0.89,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "59f6c6e58008fe2a": {
+   "imp": 1.16,
+   "ai": 0.81,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "9162001826d50396": {
+   "imp": 1.48,
+   "ai": 0.96,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "bf00fa1753251851": {
+   "imp": 1.29,
+   "ai": 0.96,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "38f88b1583445c18": {
+   "imp": 1.07,
+   "ai": 0.45,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "370eeb4b58da4d12": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "7193ffaabbb439a5": {
+   "imp": 0.45,
+   "ai": 0.04,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "760773db88c051de": {
+   "imp": 1.81,
+   "ai": 0.76,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "406b0575618ba662": {
+   "imp": 0.51,
+   "ai": 0.21,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "55e8cba7ef81c14e": {
+   "imp": 1.56,
+   "ai": 0.92,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "e271c3c4c6271eb5": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "a8705c200858d441": {
+   "imp": 0.37,
+   "ai": 0.07,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "9a14d4a549822232": {
+   "imp": 1.27,
+   "ai": 0.64,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "21d67778cb1093db": {
+   "imp": 0.37,
+   "ai": 0.05,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "f6d49a427f5a7571": {
+   "imp": 1.45,
+   "ai": 0.74,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "addc529812caac97": {
+   "imp": 0.22,
+   "ai": 0.04,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "ff1f4eed32e775e3": {
+   "imp": 0.98,
+   "ai": 0.24,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "2bc9d8eb10d35eeb": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "0d914cc202e8f074": {
+   "imp": 1.33,
+   "ai": 0.23,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "f293b336da85bf61": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
+  },
+  "301e0a59c13211c9": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-18T10:37:26.075554+00:00"
   }
  }
 }
