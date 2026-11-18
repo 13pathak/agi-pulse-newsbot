@@ -1,10 +1,5 @@
 {
  "seen": {
-  "7a4feca4106608d3": "2026-11-11T08:37:20.546395+00:00",
-  "3b1e7c7289ab7395": "2026-11-11T08:37:20.546395+00:00",
-  "7ddc4739acd4e8ed": "2026-11-11T08:37:20.546395+00:00",
-  "f24c427e17ad49ed": "2026-11-11T08:37:20.546395+00:00",
-  "0ae6b047c3e55654": "2026-11-11T08:37:20.546395+00:00",
   "14eef01dc0f429cb": "2026-11-11T09:07:24.243812+00:00",
   "8d8426e9da9afab0": "2026-11-11T09:07:24.243812+00:00",
   "786b78d6c6e60a44": "2026-11-11T09:07:24.243812+00:00",
@@ -1916,7 +1911,13 @@
   "7cd204ece6218b90": "2026-11-18T08:07:23.551626+00:00",
   "95c4ec37c9a4eb2b": "2026-11-18T08:07:23.551626+00:00",
   "b24d4488acc7fefb": "2026-11-18T08:07:23.551626+00:00",
-  "0145fb90b8379117": "2026-11-18T08:07:23.551626+00:00"
+  "0145fb90b8379117": "2026-11-18T08:07:23.551626+00:00",
+  "dc8e46ad8c796395": "2026-11-18T08:37:32.820431+00:00",
+  "d189655d18895b1e": "2026-11-18T08:37:32.820431+00:00",
+  "1c7bbc65b034423d": "2026-11-18T08:37:32.820431+00:00",
+  "6d360bef5d6fcf70": "2026-11-18T08:37:32.820431+00:00",
+  "813e302ccb617cc1": "2026-11-18T08:37:32.820431+00:00",
+  "0b27db5afea169d0": "2026-11-18T08:37:32.820431+00:00"
  },
  "covered": [
   {
@@ -2110,11 +2111,15 @@
   {
    "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
    "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  {
+   "headline": "Robotics startup Genesis AI raises $500 million",
+   "ts": "2026-11-18T08:37:32.820431+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3842,34 +3847,6 @@
  },
  "pending": [
   {
-   "id": "0b27db5afea169d0",
-   "item": {
-    "id": "0b27db5afea169d0",
-    "title": "Genesis AI, a Robotics Startup, Raises $500 Million",
-    "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology",
-    "source": "The Wall Street Journal",
-    "image": "https://images.wsj.net/im-50118049",
-    "snippet": "‘We’re working to build the world’s best general-purpose robot,’ says CEO Zhou Xian.",
-    "published": "2026-11-17T14:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Robotics startup Genesis AI raises $500 million",
-   "post": "Robotics startup Genesis AI has raised $500 million in funding to develop general-purpose robots, according to CEO Zhou Xian.",
-   "editor_note": "Confirm the funding round details and lead investors if available from the source.",
-   "support": 0.85,
-   "published_at": "2026-11-17T14:00:00+00:00",
-   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
-   "expires_at": "2026-11-19T02:00:00+00:00",
-   "decision": 2.2,
-   "priority": 8.479911,
-   "selection_reason": "Editorial importance; waiting 18.0h"
-  },
-  {
    "id": "9f1ef97889b505da",
    "item": {
     "id": "9f1ef97889b505da",
@@ -3919,8 +3896,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.312071,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 8.329521,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3972,8 +3949,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.309525,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 8.295565,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4000,8 +3977,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.25528,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 8.272731,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4030,8 +4007,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.170054,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 8.198473,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4058,8 +4035,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.02057,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 8.038021,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4086,8 +4063,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.726643,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
+   "priority": 7.744094,
+   "selection_reason": "Time-sensitive story; waiting 6.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4116,8 +4093,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.555383,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.550148,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4144,8 +4121,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.442241,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.428281,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4172,8 +4149,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.413468,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.399508,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4202,8 +4179,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.34205,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.336815,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4232,8 +4209,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.15205,
-   "selection_reason": "Editorial importance; waiting 41.0h"
+   "priority": 7.146815,
+   "selection_reason": "Editorial importance; waiting 41.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4261,8 +4238,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.128784,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.114824,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4291,8 +4268,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.046946,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.073122,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4319,8 +4296,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 6.966358,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.983808,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4348,8 +4325,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.954273,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.971724,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4376,8 +4353,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.927391,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.944842,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4406,8 +4383,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.884028,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.912447,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4434,8 +4411,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.821607,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.842547,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   }
  ],
  "details_queue": [],
@@ -4607,12 +4584,13 @@
   "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference": "2026-11-18T06:38:04.896206+00:00",
   "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights": "2026-11-18T07:08:05.542528+00:00",
   "https://www.indiatoday.in/technology/news/story/microsoft-launches-7-ai-models-focused-on-coding-takes-on-openai-and-anthropic-challenge-3041325-2026-11-18": "2026-11-18T07:39:22.536883+00:00",
-  "https://arxiv.org/abs/2611.21072": "2026-11-18T08:08:22.192439+00:00"
+  "https://arxiv.org/abs/2611.21072": "2026-11-18T08:08:22.192439+00:00",
+  "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?mod=rss_Technology": "2026-11-18T08:39:32.402992+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
   "32933935200c2839": {
@@ -19089,6 +19067,86 @@
    "imp": 0.1,
    "ai": 0.02,
    "ts": "2026-11-18T08:07:23.551626+00:00"
+  },
+  "813e302ccb617cc1": {
+   "imp": 1.16,
+   "ai": null,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "d189655d18895b1e": {
+   "imp": 1.73,
+   "ai": 0.95,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "dc8e46ad8c796395": {
+   "imp": 1.92,
+   "ai": 0.96,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "6d360bef5d6fcf70": {
+   "imp": 1.49,
+   "ai": 0.88,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "1c7bbc65b034423d": {
+   "imp": 1.52,
+   "ai": 0.95,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "e8da409b4252eca1": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "6c39d2c4135fe5b1": {
+   "imp": 1.31,
+   "ai": 0.24,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "ef4899b917273c11": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "eec2baf82a2fcd9f": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "5efc26da386ffae3": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "15f847a9ae3c4f50": {
+   "imp": 0.2,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "b8db1dc5825751ad": {
+   "imp": 0.77,
+   "ai": 0.14,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "a48b9b6ae396677a": {
+   "imp": 0.34,
+   "ai": 0.06,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "7934a43db4d623c3": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "b8679593b1fae41e": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
+  },
+  "99804b38a5d017ef": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-18T08:37:32.820431+00:00"
   }
  }
 }
