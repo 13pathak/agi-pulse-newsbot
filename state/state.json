@@ -1,17 +1,5 @@
 {
  "seen": {
-  "4e3e5904c85ae763": "2026-11-11T07:37:22.274032+00:00",
-  "4aaf49b1556fab6d": "2026-11-11T07:37:22.274032+00:00",
-  "e28ff692f1183bac": "2026-11-11T07:37:22.274032+00:00",
-  "e3a13040714b1d87": "2026-11-11T07:37:22.274032+00:00",
-  "950bd6c61f5f06f2": "2026-11-11T07:37:22.274032+00:00",
-  "1713021ae378009e": "2026-11-11T07:37:22.274032+00:00",
-  "d03bc3f1122697de": "2026-11-11T07:37:22.274032+00:00",
-  "7ef4dd4a5b6926c2": "2026-11-11T07:37:22.274032+00:00",
-  "ef46a0f45928e7db": "2026-11-11T07:37:22.274032+00:00",
-  "2402db50358dd631": "2026-11-11T07:37:22.274032+00:00",
-  "bdf2c45c8fe40954": "2026-11-11T07:37:22.274032+00:00",
-  "650eadc38ca64367": "2026-11-11T07:37:22.274032+00:00",
   "857fa47fd2aec46f": "2026-11-11T08:07:21.992795+00:00",
   "2d013ee6fa63187f": "2026-11-11T08:07:21.992795+00:00",
   "3e9c43baf885a332": "2026-11-11T08:07:21.992795+00:00",
@@ -1926,13 +1914,13 @@
   "ebff97034b293e5f": "2026-11-18T07:07:22.056639+00:00",
   "b0caaac8b4105660": "2026-11-18T07:07:22.056639+00:00",
   "00d9c1f9b3e48bae": "2026-11-18T07:07:22.056639+00:00",
-  "862b4c03c86841db": "2026-11-18T07:07:22.056639+00:00"
+  "862b4c03c86841db": "2026-11-18T07:07:22.056639+00:00",
+  "d930ebd0b69d2f07": "2026-11-18T07:37:23.152335+00:00",
+  "eea45d967dc1ee28": "2026-11-18T07:37:23.152335+00:00",
+  "7f95e6ca6c164f2d": "2026-11-18T07:37:23.152335+00:00",
+  "2688400db71d94f9": "2026-11-18T07:37:23.152335+00:00"
  },
  "covered": [
-  {
-   "headline": "Five companies form alliance to build Nordic-Baltic AI infrastructure",
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
   {
    "headline": "World Labs presents Atlas world model at CoRL 2026",
    "ts": "2026-11-16T09:37:25.165684+00:00"
@@ -2116,11 +2104,15 @@
   {
    "headline": "Microsoft to license model weights for enterprise customization",
    "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  {
+   "headline": "Microsoft launches seven coding AI models",
+   "ts": "2026-11-18T07:37:23.152335+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3874,8 +3866,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.552471,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 8.547259,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3902,36 +3894,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.5077,
-   "selection_reason": "Editorial importance; waiting 17.0h"
-  },
-  {
-   "id": "776157cf22e3ea27",
-   "item": {
-    "id": "776157cf22e3ea27",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "published": "2026-11-17T19:32:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Model ML raises $250M to automate investment banking",
-   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
-   "editor_note": "Verify the round details and investors if disclosed in the full release.",
-   "support": 0.95,
-   "published_at": "2026-11-17T19:32:11+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T07:32:11+00:00",
-   "decision": 1.58,
-   "priority": 8.485834,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 8.493803,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -3983,8 +3947,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.337314,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 8.323417,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4036,8 +4000,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.277334,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 8.294706,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4064,8 +4028,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.220544,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 8.237916,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4094,8 +4058,36 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.113483,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 8.141774,
+   "selection_reason": "Editorial importance; waiting 6.5h"
+  },
+  {
+   "id": "776157cf22e3ea27",
+   "item": {
+    "id": "776157cf22e3ea27",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "published": "2026-11-17T19:32:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Model ML raises $250M to automate investment banking",
+   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
+   "editor_note": "Verify the round details and investors if disclosed in the full release.",
+   "support": 0.95,
+   "published_at": "2026-11-17T19:32:11+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T07:32:11+00:00",
+   "decision": 1.58,
+   "priority": 8.003206,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4122,8 +4114,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.691906,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.709278,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4152,8 +4144,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.565804,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.560593,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4180,8 +4172,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.47003,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.456133,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4208,8 +4200,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.441257,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.42736,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4238,8 +4230,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.352471,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.347259,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4268,8 +4260,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.162471,
-   "selection_reason": "Editorial importance; waiting 40.0h"
+   "priority": 7.157259,
+   "selection_reason": "Editorial importance; waiting 40.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4297,8 +4289,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.156574,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.142676,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4327,8 +4319,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.994841,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.020898,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4355,8 +4347,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 6.931621,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.948993,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4384,8 +4376,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.919537,
-   "selection_reason": "Editorial importance"
+   "priority": 6.936908,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4412,8 +4404,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.892655,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.910026,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4442,8 +4434,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.827457,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.855748,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4470,8 +4462,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.779923,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.800769,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   }
  ],
  "details_queue": [],
@@ -4641,12 +4633,13 @@
   "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language": "2026-11-18T05:08:38.893831+00:00",
   "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html": "2026-11-18T05:40:18.733394+00:00",
   "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference": "2026-11-18T06:38:04.896206+00:00",
-  "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights": "2026-11-18T07:08:05.542528+00:00"
+  "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights": "2026-11-18T07:08:05.542528+00:00",
+  "https://www.indiatoday.in/technology/news/story/microsoft-launches-7-ai-models-focused-on-coding-takes-on-openai-and-anthropic-challenge-3041325-2026-11-18": "2026-11-18T07:39:22.536883+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
   "32933935200c2839": {
@@ -18973,6 +18966,121 @@
    "imp": 0.54,
    "ai": 0.06,
    "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "eea45d967dc1ee28": {
+   "imp": 1.68,
+   "ai": 0.87,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "7f95e6ca6c164f2d": {
+   "imp": 1.6,
+   "ai": 0.95,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "d930ebd0b69d2f07": {
+   "imp": 2.09,
+   "ai": 0.96,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "2688400db71d94f9": {
+   "imp": 2.3,
+   "ai": 0.97,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "943c94605ec0510a": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "50a767b28b44f485": {
+   "imp": 0.83,
+   "ai": 0.13,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "2bf4e9af71bb2fa6": {
+   "imp": 0.34,
+   "ai": 0.08,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "74c3b78141d36eb8": {
+   "imp": 0.36,
+   "ai": 0.17,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "07f1ffee0dc8a212": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "5bb64efca007cedb": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "bba960efc84acbfb": {
+   "imp": 0.37,
+   "ai": 0.09,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "c4b3c4b6cc9e9ecb": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "31500449cf997ad2": {
+   "imp": 0.18,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "8cb9e09cdbeb4808": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "65d8105804a7940f": {
+   "imp": 0.79,
+   "ai": 0.21,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "c829389f21cc110e": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "93d51cd28c9f1069": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "70f230639df77a45": {
+   "imp": 0.39,
+   "ai": 0.05,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "145bc000f6671f52": {
+   "imp": 0.17,
+   "ai": 0.01,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "dcd610274d204600": {
+   "imp": 0.26,
+   "ai": 0.07,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "b42d149dac0bad1e": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "5f1bb1157ea646fa": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
+  },
+  "8ed5094d4756a2b8": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-18T07:37:23.152335+00:00"
   }
  }
 }
