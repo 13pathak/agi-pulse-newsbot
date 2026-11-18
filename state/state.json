@@ -1,13 +1,5 @@
 {
  "seen": {
-  "097068809c8c60d2": "2026-11-11T02:37:21.023674+00:00",
-  "987227f420d046c2": "2026-11-11T02:37:21.023674+00:00",
-  "85a2b2a3df6ac8c7": "2026-11-11T02:37:21.023674+00:00",
-  "b4aa88813ddce9cb": "2026-11-11T02:37:21.023674+00:00",
-  "5d7b0d5dcd71f703": "2026-11-11T02:37:21.023674+00:00",
-  "9f049fd286ba871e": "2026-11-11T02:37:21.023674+00:00",
-  "eb2075cc76b3cdb8": "2026-11-11T02:37:21.023674+00:00",
-  "c3f7c1329fa47180": "2026-11-11T02:37:21.023674+00:00",
   "a3f9078912ac05de": "2026-11-11T03:07:21.766925+00:00",
   "1b82eb477b4d8a77": "2026-11-11T03:07:21.766925+00:00",
   "c7f8121f6c3e074f": "2026-11-11T03:07:21.766925+00:00",
@@ -1907,13 +1899,26 @@
   "757a469161fbcb6a": "2026-11-18T02:07:29.124189+00:00",
   "ea13cb5ac695e237": "2026-11-18T02:07:29.124189+00:00",
   "b397f013e77fa481": "2026-11-18T02:07:29.124189+00:00",
-  "a82f29b7236a00bc": "2026-11-18T02:07:29.124189+00:00"
+  "a82f29b7236a00bc": "2026-11-18T02:07:29.124189+00:00",
+  "6dbfd2c16f1d581a": "2026-11-18T02:37:35.781113+00:00",
+  "3a6ddd65cb94a929": "2026-11-18T02:37:35.781113+00:00",
+  "d514caaccab314c2": "2026-11-18T02:37:35.781113+00:00",
+  "129d2c32c10ee749": "2026-11-18T02:37:35.781113+00:00",
+  "0df5cce8cc5bffe0": "2026-11-18T02:37:35.781113+00:00",
+  "3aa0c6065ac07d71": "2026-11-18T02:37:35.781113+00:00",
+  "565e81b83ed077e8": "2026-11-18T02:37:35.781113+00:00",
+  "b07761c01d391bd0": "2026-11-18T02:37:35.781113+00:00",
+  "b64d6d7944567a41": "2026-11-18T02:37:35.781113+00:00",
+  "1dbad22c9dbd282d": "2026-11-18T02:37:35.781113+00:00",
+  "ca141c17b77fff5a": "2026-11-18T02:37:35.781113+00:00",
+  "0235dde57b409f00": "2026-11-18T02:37:35.781113+00:00",
+  "549a77347d5e1e5f": "2026-11-18T02:37:35.781113+00:00",
+  "5cbc55e1b429d883": "2026-11-18T02:37:35.781113+00:00",
+  "e9eb84ae1298a7fa": "2026-11-18T02:37:35.781113+00:00",
+  "09ff886529bbad01": "2026-11-18T02:37:35.781113+00:00",
+  "eea4039d51a0b325": "2026-11-18T02:37:35.781113+00:00"
  },
  "covered": [
-  {
-   "headline": "Alibaba launches new flagship AI model",
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
   {
    "headline": "Alibaba releases Qwen4-Max base model",
    "ts": "2026-11-16T03:07:21.874616+00:00"
@@ -2081,11 +2086,15 @@
   {
    "headline": "Anthropic guides IPO price to top of range",
    "ts": "2026-11-18T02:07:29.124189+00:00"
+  },
+  {
+   "headline": "OpenAI releases GPT-6.2 Astra and Sol models",
+   "ts": "2026-11-18T02:37:35.781113+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3782,86 +3791,15 @@
    "desc": "英伟达公布了老黄离职后的首份财报",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/510610.html": {
+   "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+   "desc": "斩获80000元奖金",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "549a77347d5e1e5f",
-   "item": {
-    "id": "549a77347d5e1e5f",
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "source": "OpenAI",
-    "image": "",
-    "snippet": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "published": "2026-11-17T17:45:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "5cbc55e1b429d883",
-     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-     "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-     "source": "Simon Willison",
-     "image": "",
-     "snippet": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as …",
-     "published": "2026-11-17T22:38:52+00:00",
-     "images": false,
-     "category": "research",
-     "source_cap": 3
-    },
-    {
-     "id": "e9eb84ae1298a7fa",
-     "title": "OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 Sol",
-     "url": "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
-     "source": "Artificial Analysis",
-     "image": "https://cdn.sanity.io/images/6vfeftx9/articles/a972a1fe0ca8149e1d20ca0e3d1d311965e37359-1024x1024.webp?w=1200&auto=format",
-     "snippet": "OpenAI’s release of GPT-6.2 Astra and GPT-6.2 Sol delivers the #2 model in the Artificial Analysis Intelligence Index and most of the Cost per Task Pareto frontier",
-     "published": "2026-11-17T00:00:00+00:00",
-     "images": true,
-     "category": "research",
-     "source_cap": 3
-    },
-    {
-     "id": "09ff886529bbad01",
-     "title": "How good are Fable 5.2 and GPT-6.2 Astra at real work?",
-     "url": "https://epoch.ai/publications/how-good-are-fable-5-2-and-gpt-6-2-astra-at-real-work",
-     "source": "Epoch AI",
-     "image": "https://epoch.ai/assets/images/posts/2026/how-good-are-fable-5-2-and-gpt-6-2-astra-at-real-work/t-how-good-are-fable-5-2-and-gpt-6-2-astra-at-real-work.png",
-     "snippet": "We tested Fable 5.2, GPT-6.2 Astra, and four other models on real Epoch work tasks. None met our employee standard, including the two that top our ECI.",
-     "published": "2026-11-17T00:00:00+00:00",
-     "images": true,
-     "category": "research",
-     "source_cap": 3
-    },
-    {
-     "id": "eea4039d51a0b325",
-     "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-     "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk. The article OpenAI launches GPT-6…",
-     "published": "2026-11-17T20:30:50+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 9,
-   "urgency": "breaking",
-   "headline": "OpenAI releases GPT-6.2 Astra and Sol models",
-   "post": "OpenAI launched GPT-6.2 Astra and GPT-6.2 Sol, featuring improved professional outputs, coding, and computer-use capabilities at lower API pricing across ChatGPT Work, Codex, and the API.",
-   "editor_note": "Confirm specific API price points for gpt-6.2-astra ($8/MTok input) as noted by independent sources.",
-   "support": 0.82,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T00:00:00+00:00",
-   "decision": 2.76,
-   "priority": 8.938338,
-   "selection_reason": "Editorial importance; waiting 1.0h"
-  },
   {
    "id": "d1cd519b758ab31f",
    "item": {
@@ -3888,8 +3826,8 @@
    "first_seen_at": "2026-11-18T01:37:23.406600+00:00",
    "expires_at": "2026-11-19T12:42:48+00:00",
    "decision": 2.08,
-   "priority": 8.685476,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.702902,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "1cc49772113a983f",
@@ -3916,8 +3854,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:30:09+00:00",
    "decision": 1.89,
-   "priority": 8.647541,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.664966,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3944,38 +3882,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.646535,
-   "selection_reason": "Editorial importance; waiting 12.0h"
-  },
-  {
-   "id": "0145fb90b8379117",
-   "item": {
-    "id": "0145fb90b8379117",
-    "title": "Sage S2.1 Flash Technical Report",
-    "url": "https://arxiv.org/abs/2611.21072",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Intern Large Models. Upvotes: 36. Abstract: We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as specialized workflows involving machine learning experiments and scientific software. Task completion is checked against execution results, changes in environment state, or submitted artifacts. We evaluate Sage S1.5 Flash on 33 benchmarks across seven domains. In the primary comparison against five baselines, it ranks first on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench~2, and second on OSWorld-Verified (85.2), WebArena-Verified (67.6), and DeepResearch Bench~II (54.2). These results show particular strengths in using documentary evidence, producing verifiable workbooks, and carrying out machine learning tasks, alongside competitive performance in desktop and browser workflows that require the model to act on visual feedback.",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 36,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21072.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "routine",
-   "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
-   "post": "Researchers at Intern Large Models released Sage S1.5 Flash, a 320-billion-parameter mixture-of-experts model built for scientific reasoning and agent workflows.",
-   "editor_note": "Check benchmark domain scope and whether specific tool-use execution results are independently verified.",
-   "support": 0.77,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.88,
-   "priority": 8.604534,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 8.632594,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4027,8 +3935,38 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.603791,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.621216,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "0145fb90b8379117",
+   "item": {
+    "id": "0145fb90b8379117",
+    "title": "Sage S2.1 Flash Technical Report",
+    "url": "https://arxiv.org/abs/2611.21072",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Intern Large Models. Upvotes: 36. Abstract: We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as specialized workflows involving machine learning experiments and scientific software. Task completion is checked against execution results, changes in environment state, or submitted artifacts. We evaluate Sage S1.5 Flash on 33 benchmarks across seven domains. In the primary comparison against five baselines, it ranks first on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench~2, and second on OSWorld-Verified (85.2), WebArena-Verified (67.6), and DeepResearch Bench~II (54.2). These results show particular strengths in using documentary evidence, producing verifiable workbooks, and carrying out machine learning tasks, alongside competitive performance in desktop and browser workflows that require the model to act on visual feedback.",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 36,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21072.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "routine",
+   "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
+   "post": "Researchers at Intern Large Models released Sage S1.5 Flash, a 320-billion-parameter mixture-of-experts model built for scientific reasoning and agent workflows.",
+   "editor_note": "Check benchmark domain scope and whether specific tool-use execution results are independently verified.",
+   "support": 0.77,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.88,
+   "priority": 8.599306,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "a64bf86d357e960f",
@@ -4068,8 +4006,8 @@
    "first_seen_at": "2026-11-18T01:37:23.406600+00:00",
    "expires_at": "2026-11-19T06:58:01+00:00",
    "decision": 2.24,
-   "priority": 8.579188,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.596613,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4096,8 +4034,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.547001,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.564426,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "7fcfb79e30de0a30",
@@ -4124,7 +4062,64 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T14:00:00+00:00",
    "decision": 1.62,
-   "priority": 8.536535,
+   "priority": 8.55396,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "d51ad7ebf5481626",
+   "item": {
+    "id": "d51ad7ebf5481626",
+    "title": "OpenAI Model Helps Find Security Bug in Widely Used Code Language",
+    "url": "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Researchers at cybersecurity startup Calif said Tuesday they found a critical vulnerability in Java, a popular programming language used by government agencies, banks, hospitals, and other companies. The bug would allow for an attacker to steal sensitive information from computer memory or to ...",
+    "published": "2026-11-18T01:15:20+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "OpenAI model helps find critical Java security bug",
+   "post": "Cybersecurity startup Calif reports that an OpenAI model helped discover a critical vulnerability in Java allowing memory data theft.",
+   "editor_note": "Check if Calif has published specific technical details or identifiers for the Java vulnerability.",
+   "support": 0.91,
+   "published_at": "2026-11-18T01:15:20+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:15:20+00:00",
+   "decision": 1.76,
+   "priority": 8.548582,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "a00d072e1ee989a0",
+   "item": {
+    "id": "a00d072e1ee989a0",
+    "title": "物理AI数据基座服务商“柏川数据”",
+    "url": "https://36kr.com/newsflashes/4074640638628998?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，物理AI数据基座服务商“柏川数据”（ByteTree）宣布完成 5000 万元 Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。",
+    "published": "2026-11-18T02:18:48+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Physical AI database startup ByteTree raises 50 million yuan",
+   "post": "ByteTree has secured 50 million yuan in a Pre-A funding round to build physical AI data pipelines and embodied intelligence algorithms.",
+   "editor_note": "Confirm the list of participating investors and specific allocation of the 50 million yuan.",
+   "support": 0.94,
+   "published_at": "2026-11-18T02:18:48+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T14:18:48+00:00",
+   "decision": 1.55,
+   "priority": 8.507965,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4177,8 +4172,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.476149,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 8.462208,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "862b4c03c86841db",
@@ -4205,7 +4200,35 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:40:35+00:00",
    "decision": 1.85,
-   "priority": 8.437545,
+   "priority": 8.454971,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "776157cf22e3ea27",
+   "item": {
+    "id": "776157cf22e3ea27",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "published": "2026-11-17T19:32:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Model ML raises $250M to automate investment banking",
+   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
+   "editor_note": "Verify the round details and investors if disclosed in the full release.",
+   "support": 0.95,
+   "published_at": "2026-11-17T19:32:11+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T07:32:11+00:00",
+   "decision": 1.58,
+   "priority": 8.329716,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4235,8 +4258,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 7.830856,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.859234,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4265,8 +4288,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.617867,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.61264,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4293,8 +4316,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.608865,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.594925,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4321,8 +4344,36 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.580092,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.566151,
+   "selection_reason": "Editorial importance; waiting 12.5h"
+  },
+  {
+   "id": "3f6098aabd8eb664",
+   "item": {
+    "id": "3f6098aabd8eb664",
+    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
+    "published": "2026-11-18T01:09:18+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Malaysia seeks details from Anthropic over influence campaign",
+   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
+   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
+   "support": 0.97,
+   "published_at": "2026-11-18T01:09:18+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:09:18+00:00",
+   "decision": 1.73,
+   "priority": 7.535789,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4351,8 +4402,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.404534,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.399306,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "1336358d761ba076",
@@ -4380,8 +4431,36 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.295408,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.281468,
+   "selection_reason": "Editorial importance; waiting 16.5h"
+  },
+  {
+   "id": "b20533735bac1c5f",
+   "item": {
+    "id": "b20533735bac1c5f",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "published": "2026-11-17T17:20:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Vals tests AI model vulnerability in autonomous warfare simulation",
+   "post": "AI evaluation startup Vals reports that leading AI models were manipulated into identifying civilians as military targets during testing.",
+   "editor_note": "Check which specific models were tested and what exact prompt methods Vals used.",
+   "support": 0.86,
+   "published_at": "2026-11-17T17:20:41+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T05:20:41+00:00",
+   "decision": 1.6,
+   "priority": 7.275503,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4410,8 +4489,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.214534,
-   "selection_reason": "Editorial importance; waiting 35.0h"
+   "priority": 7.209306,
+   "selection_reason": "Editorial importance; waiting 35.5h"
   },
   {
    "id": "882a7d2052a2d770",
@@ -4463,8 +4542,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T05:02:43+00:00",
    "decision": 2.11,
-   "priority": 7.034459,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.020519,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "ebff97034b293e5f",
@@ -4491,8 +4570,8 @@
    "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
    "expires_at": "2026-11-18T06:52:55+00:00",
    "decision": 1.72,
-   "priority": 6.955477,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.941537,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "f9c7f44758ed7ca9",
@@ -4519,8 +4598,8 @@
    "first_seen_at": "2026-11-17T02:37:39.999182+00:00",
    "expires_at": "2026-11-18T04:01:00+00:00",
    "decision": 1.67,
-   "priority": 6.85922,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.845279,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4547,8 +4626,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.719112,
-   "selection_reason": "Editorial importance"
+   "priority": 6.736537,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4575,8 +4654,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.571671,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.592582,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4737,11 +4816,12 @@
   "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months": "2026-11-17T16:08:23.111947+00:00",
   "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back": "2026-11-18T01:13:09.083177+00:00",
   "https://www.theinformation.com/articles/nvidias-board-rebuffs-jensen": "2026-11-18T01:37:49.102859+00:00",
-  "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html": "2026-11-18T02:08:09.274430+00:00"
+  "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html": "2026-11-18T02:08:09.274430+00:00",
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol": "2026-11-18T02:39:36.975439+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
-  "count": 0,
+  "count": 1,
   "takes": 3
  },
  "triage": {
@@ -18459,6 +18539,76 @@
    "imp": 0.4,
    "ai": 0.07,
    "ts": "2026-11-18T02:07:29.124189+00:00"
+  },
+  "0df5cce8cc5bffe0": {
+   "imp": 1.91,
+   "ai": 0.95,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "d514caaccab314c2": {
+   "imp": 2.03,
+   "ai": 0.95,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "a00d072e1ee989a0": {
+   "imp": 1.55,
+   "ai": 0.96,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "129d2c32c10ee749": {
+   "imp": 1.9,
+   "ai": 0.95,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "cc5436246813d04e": {
+   "imp": 0.82,
+   "ai": 0.44,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "40079eff223cafaa": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "0cf2472f99ad6556": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "500d7cc6c9e1d0c9": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "d3aa3cb49e4c9b73": {
+   "imp": 0.27,
+   "ai": 0.03,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "7859b6bb429facad": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "1dbad22c9dbd282d": {
+   "imp": 1.0,
+   "ai": 0.86,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "9be10c601016c579": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "46e93f24be9ce82e": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
+  },
+  "f89a448c18f63eee": {
+   "imp": 1.1,
+   "ai": 0.54,
+   "ts": "2026-11-18T02:37:35.781113+00:00"
   }
  }
 }
