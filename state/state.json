@@ -1,22 +1,5 @@
 {
  "seen": {
-  "4ee7db6e89d552be": "2026-11-11T16:37:23.465555+00:00",
-  "3bb3af59874accc9": "2026-11-11T16:37:23.465555+00:00",
-  "8b73b7b93013c2c4": "2026-11-11T16:37:23.465555+00:00",
-  "98f6e90499a388f4": "2026-11-11T16:37:23.465555+00:00",
-  "67e73bb8e0d08179": "2026-11-11T16:37:23.465555+00:00",
-  "66396a150553f7d8": "2026-11-11T16:37:23.465555+00:00",
-  "7a8ca7de71bda47a": "2026-11-11T16:37:23.465555+00:00",
-  "ab1076c840c684f9": "2026-11-11T16:37:23.465555+00:00",
-  "7a7e39baf12fadfc": "2026-11-11T16:37:23.465555+00:00",
-  "a4fd39a324d183bf": "2026-11-11T16:37:23.465555+00:00",
-  "2d8f602ac5a8eead": "2026-11-11T16:37:23.465555+00:00",
-  "43b0fff791a6c914": "2026-11-11T16:37:23.465555+00:00",
-  "e34ff0dedf49f371": "2026-11-11T16:37:23.465555+00:00",
-  "2ed3a890d3d8bbd2": "2026-11-11T16:37:23.465555+00:00",
-  "c6ce416e52096bf7": "2026-11-11T16:37:23.465555+00:00",
-  "ed60c4d7f092c7a8": "2026-11-11T16:37:23.465555+00:00",
-  "e8611a93afeb04e2": "2026-11-11T16:37:23.465555+00:00",
   "6ea215fc0134acc4": "2026-11-11T17:07:23.599054+00:00",
   "c1692305c9ca30c3": "2026-11-11T17:07:23.599054+00:00",
   "a5c3d321385253fd": "2026-11-11T17:07:23.599054+00:00",
@@ -1920,7 +1903,13 @@
   "c03e81705a98074a": "2026-11-18T16:07:26.312474+00:00",
   "e2ef47ddfa40b674": "2026-11-18T16:07:26.312474+00:00",
   "7ceec50630a597f6": "2026-11-18T16:07:26.312474+00:00",
-  "55727f6d1c808246": "2026-11-18T16:07:26.312474+00:00"
+  "55727f6d1c808246": "2026-11-18T16:07:26.312474+00:00",
+  "43ef4d889aa2f332": "2026-11-18T16:37:24.404829+00:00",
+  "319e08473b4aa091": "2026-11-18T16:37:24.404829+00:00",
+  "5e38471ad78cac8c": "2026-11-18T16:37:24.404829+00:00",
+  "dfaea249bd21fefb": "2026-11-18T16:37:24.404829+00:00",
+  "d726734c4135941e": "2026-11-18T16:37:24.404829+00:00",
+  "ce416493dbd77e39": "2026-11-18T16:37:24.404829+00:00"
  },
  "covered": [
   {
@@ -2122,11 +2111,15 @@
   {
    "headline": "Humyn Labs raises $47 million in Series A",
    "ts": "2026-11-18T16:07:26.312474+00:00"
+  },
+  {
+   "headline": "Nvidia stops advanced AI chip sales to China",
+   "ts": "2026-11-18T16:37:24.404829+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3889,34 +3882,6 @@
  },
  "pending": [
   {
-   "id": "ce416493dbd77e39",
-   "item": {
-    "id": "ce416493dbd77e39",
-    "title": "Nvidia isn’t selling any more AI chips to China",
-    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, […]",
-    "published": "2026-11-18T13:01:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Nvidia stops advanced AI chip sales to China",
-   "post": "Nvidia has stopped sending its advanced artificial intelligence chips to China, despite receiving approval from the White House to do so in December last year.",
-   "editor_note": "Verify interim CEO Colette Kress's statements regarding the suspension of advanced chip shipments during the earnings call.",
-   "support": 0.95,
-   "published_at": "2026-11-18T13:01:05+00:00",
-   "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
-   "expires_at": "2026-11-20T01:01:05+00:00",
-   "decision": 2.49,
-   "priority": 8.806284,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "cd11067986e4eaf0",
    "item": {
     "id": "cd11067986e4eaf0",
@@ -3941,8 +3906,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T01:02:26+00:00",
    "decision": 1.99,
-   "priority": 8.733948,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.75129,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "dbd5dd4088cdd04a",
@@ -3969,7 +3934,7 @@
    "first_seen_at": "2026-11-18T16:07:26.312474+00:00",
    "expires_at": "2026-11-20T03:34:22+00:00",
    "decision": 1.87,
-   "priority": 8.608022,
+   "priority": 8.625365,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3999,8 +3964,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.434923,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 8.43195,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4027,8 +3992,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.34553,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 8.331656,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4055,8 +4020,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.204789,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.190915,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4108,8 +4073,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.087282,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 8.073407,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4136,8 +4101,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.853175,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.870518,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4164,8 +4129,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.748467,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.76581,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4207,38 +4172,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.669665,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
-   "id": "753f1faf81d05f31",
-   "item": {
-    "id": "753f1faf81d05f31",
-    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-    "url": "https://arxiv.org/abs/2611.21003",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Institute of Foundation Models releases K2-Horizon open models",
-   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
-   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.92,
-   "priority": 7.472042,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 7.687008,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4267,8 +4202,38 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.463653,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.489667,
+   "selection_reason": "Editorial importance; waiting 10.5h"
+  },
+  {
+   "id": "753f1faf81d05f31",
+   "item": {
+    "id": "753f1faf81d05f31",
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "url": "https://arxiv.org/abs/2611.21003",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Institute of Foundation Models releases K2-Horizon open models",
+   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
+   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.92,
+   "priority": 7.466839,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4295,8 +4260,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.410862,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.396988,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4325,8 +4290,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.336452,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.364696,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4366,8 +4331,37 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 2.06,
-   "priority": 7.30391,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.290035,
+   "selection_reason": "Editorial importance; waiting 14.0h"
+  },
+  {
+   "id": "adadf9d1614c8d19",
+   "item": {
+    "id": "adadf9d1614c8d19",
+    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
+    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
+    "published": "2026-11-18T08:58:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Pony AI reports third quarter revenue growth",
+   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
+   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
+   "support": 0.89,
+   "published_at": "2026-11-18T08:58:46+00:00",
+   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
+   "expires_at": "2026-11-19T20:58:46+00:00",
+   "decision": 1.53,
+   "priority": 7.266425,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4396,37 +4390,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.258709,
-   "selection_reason": "Editorial importance; waiting 32.5h"
-  },
-  {
-   "id": "adadf9d1614c8d19",
-   "item": {
-    "id": "adadf9d1614c8d19",
-    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
-    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
-    "published": "2026-11-18T08:58:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Pony AI reports third quarter revenue growth",
-   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
-   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
-   "support": 0.89,
-   "published_at": "2026-11-18T08:58:46+00:00",
-   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
-   "expires_at": "2026-11-19T20:58:46+00:00",
-   "decision": 1.53,
-   "priority": 7.249082,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.253506,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4454,36 +4419,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.232078,
-   "selection_reason": "Editorial importance; waiting 9.0h"
-  },
-  {
-   "id": "3decd8b5d05673e4",
-   "item": {
-    "id": "3decd8b5d05673e4",
-    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
-    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
-    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
-    "published": "2026-11-17T12:17:02+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
-   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
-   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
-   "support": 0.85,
-   "published_at": "2026-11-17T12:17:02+00:00",
-   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
-   "expires_at": "2026-11-19T00:17:02+00:00",
-   "decision": 2.23,
-   "priority": 7.219998,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.24942,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "2ca4066c8014e29d",
@@ -4512,8 +4449,8 @@
    "first_seen_at": "2026-11-18T12:37:24.202073+00:00",
    "expires_at": "2026-11-18T20:23:07+00:00",
    "decision": 1.42,
-   "priority": 7.217485,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.245729,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4540,8 +4477,36 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.200551,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.217894,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "3decd8b5d05673e4",
+   "item": {
+    "id": "3decd8b5d05673e4",
+    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243454556-db464d97-27e1-4056-ad3e-0652c8108fc0-6xl1r4.webp",
+    "snippet": "HCLTech and Cohere have partnered to build and deliver sovereign artificial intelligence (AI) solutions for enterprises and governments. Under the agreement, HCLTech will become one of Cohere's preferred global systems integrator partners in Canada and Germany. The companies plan to combine Cohere's sovereign AI platform and models with HCLTech's professional services and AI implementation capabil…",
+    "published": "2026-11-17T12:17:02+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "HCLTech partners with Cohere to deliver sovereign AI in Canada and Germany",
+   "post": "India's HCLTech has partnered with Cohere to build and deploy sovereign AI solutions for enterprises and governments, becoming a preferred global integration partner in Canada and Germany.",
+   "editor_note": "Confirm details of Cohere models deployed and whether HCLTech plans to extend the partnership to the Indian market.",
+   "support": 0.85,
+   "published_at": "2026-11-17T12:17:02+00:00",
+   "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
+   "expires_at": "2026-11-19T00:17:02+00:00",
+   "decision": 2.23,
+   "priority": 7.206123,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4568,8 +4533,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.191224,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.17735,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4597,8 +4562,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.140062,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.157405,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4625,8 +4590,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 7.080245,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.06637,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4655,8 +4620,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.068709,
-   "selection_reason": "Editorial importance; waiting 49.0h"
+   "priority": 7.063506,
+   "selection_reason": "Editorial importance; waiting 49.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4684,8 +4649,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.035525,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.052868,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4712,8 +4677,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.967417,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 6.957012,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4741,8 +4706,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 6.906541,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.892667,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   }
  ],
  "details_queue": [],
@@ -4926,12 +4891,13 @@
   "https://36kr.com/newsflashes/4075240073106311?f=rss": "2026-11-18T12:39:14.023783+00:00",
   "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised": "2026-11-18T13:38:02.201059+00:00",
   "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026": "2026-11-18T15:37:50.775438+00:00",
-  "https://entrackr.com/news/physical-ai-startup-humyn-labs-raises-47-mn-in-equity-and-debt-12820886": "2026-11-18T16:09:04.374774+00:00"
+  "https://entrackr.com/news/physical-ai-startup-humyn-labs-raises-47-mn-in-equity-and-debt-12820886": "2026-11-18T16:09:04.374774+00:00",
+  "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": "2026-11-18T16:37:58.511054+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 25
+  "takes": 26
  },
  "triage": {
   "32933935200c2839": {
@@ -20888,6 +20854,56 @@
    "imp": 0.24,
    "ai": 0.05,
    "ts": "2026-11-18T16:07:26.312474+00:00"
+  },
+  "319e08473b4aa091": {
+   "imp": 2.04,
+   "ai": null,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "dfaea249bd21fefb": {
+   "imp": 1.09,
+   "ai": null,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "5e38471ad78cac8c": {
+   "imp": 1.83,
+   "ai": 0.91,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "d726734c4135941e": {
+   "imp": 1.09,
+   "ai": 0.9,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "43ef4d889aa2f332": {
+   "imp": 1.1,
+   "ai": 0.67,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "3412cf72787bf802": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "327a8ca69d35d74a": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "011ceccc2e19c63a": {
+   "imp": 1.55,
+   "ai": 0.31,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "2b9af6fe82bf8e84": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
+  },
+  "810009c2dd8d8ae2": {
+   "imp": 0.6,
+   "ai": 0.31,
+   "ts": "2026-11-18T16:37:24.404829+00:00"
   }
  }
 }
