@@ -1922,7 +1922,11 @@
   "37fe55018d531733": "2026-11-18T06:37:21.744958+00:00",
   "3a97091b35f5ccd9": "2026-11-18T06:37:21.744958+00:00",
   "a7c45978609d523f": "2026-11-18T06:37:21.744958+00:00",
-  "92122528d189b74f": "2026-11-18T06:37:21.744958+00:00"
+  "92122528d189b74f": "2026-11-18T06:37:21.744958+00:00",
+  "ebff97034b293e5f": "2026-11-18T07:07:22.056639+00:00",
+  "b0caaac8b4105660": "2026-11-18T07:07:22.056639+00:00",
+  "00d9c1f9b3e48bae": "2026-11-18T07:07:22.056639+00:00",
+  "862b4c03c86841db": "2026-11-18T07:07:22.056639+00:00"
  },
  "covered": [
   {
@@ -2108,11 +2112,15 @@
   {
    "headline": "Neysa deploys AMD Instinct MI350X cluster in Mumbai",
    "ts": "2026-11-18T06:37:21.744958+00:00"
+  },
+  {
+   "headline": "Microsoft to license model weights for enterprise customization",
+   "ts": "2026-11-18T07:07:22.056639+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3840,34 +3848,6 @@
  },
  "pending": [
   {
-   "id": "862b4c03c86841db",
-   "item": {
-    "id": "862b4c03c86841db",
-    "title": "Microsoft to Let Customers Customize Its AI Models’ ‘Weights’",
-    "url": "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Microsoft debuted a suite of new AI models at its annual Ignite conference in San Francisco on Tuesday and said it will license the models’ weights—the settings that determine how the models answer questions—so customers can create highly customized versions for their businesses. The move ...",
-    "published": "2026-11-17T19:40:35+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Microsoft to license model weights for enterprise customization",
-   "post": "Microsoft announced plans to license the weights of its AI models unveiled at the Ignite conference, allowing enterprise customers to build customized versions for business applications.",
-   "editor_note": "Check which specific model families are included in the weight-licensing program.",
-   "support": 0.95,
-   "published_at": "2026-11-17T19:40:35+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T07:40:35+00:00",
-   "decision": 1.85,
-   "priority": 8.593724,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
-  },
-  {
    "id": "0145fb90b8379117",
    "item": {
     "id": "0145fb90b8379117",
@@ -3894,8 +3874,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.55768,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 8.552471,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3922,8 +3902,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.521591,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 8.5077,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -3950,8 +3930,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.46847,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 8.485834,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4003,8 +3983,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.351206,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 8.337314,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4056,8 +4036,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.25997,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 8.277334,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4084,8 +4064,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.20318,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 8.220544,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4114,8 +4094,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.085204,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 8.113483,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4142,8 +4122,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.674542,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.691906,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4172,8 +4152,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.571013,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.565804,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4200,8 +4180,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.483922,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.47003,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4228,8 +4208,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.455149,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.441257,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4258,37 +4238,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.35768,
-   "selection_reason": "Editorial importance; waiting 23.0h"
-  },
-  {
-   "id": "1336358d761ba076",
-   "item": {
-    "id": "1336358d761ba076",
-    "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
-    "url": "https://36kr.com/p/4072516740797318?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络搭建。 博理科技成立于2017年，专注于高分子弹性体材料与超高速3D打印批量制造，业务覆盖材料研发、装备制造、软件系统开发与量产生产服务。谈及品牌名称的由来，创始人王文斌表示，PollyPolymer中的“Polymer”代表高分子聚合物，“Polly”则取自自己的英文名。材料是博理科技业务发展的起点，装备、自研软件与量产生产服务均在此基础上延伸。依托自研HALS超高速3D打印技术平台，博理科技面向不同行业开发专用高性能材料，并通过一体化解决方案为客户提供批量制造能力。 自2020年A轮融资以来， 博理科技已先后完成四轮融资 ，持续围绕材料研发、装备迭代与产能建设投入。 随着3D打印技术在消费品、工业零部件等领域的应用逐步深入，行业竞争正从单一技术指标向规模化制造能力延伸。如何兼顾生产效率、成本与交付稳定性，成为增材制造企业商业化过程中需要解决的问题。 机器人零部件 从材料研发到智能云工厂，推动3D打印规模化制造 3D打印无需提前开模，具有设计自由度高、复杂结构一体成型等特点，长期以来主要应用于产品设计、原型验证及批量定制生产。但要进入工业主产线…",
-    "published": "2026-11-17T10:07:10+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Polly Polymer secures over 500 million yuan in funding",
-   "post": "Chinese 3D printing and material manufacturer Polly Polymer has raised over 500 million yuan across its B2 and B+ funding rounds. The capital will fund polymer material research, manufacturing capacity expansion, and embodied AI applications.",
-   "editor_note": "Verify the exact funding totals and lead investors listed for the B2 and B+ rounds.",
-   "support": 0.96,
-   "published_at": "2026-11-17T10:07:10+00:00",
-   "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
-   "expires_at": "2026-11-18T22:07:10+00:00",
-   "decision": 1.47,
-   "priority": 7.170465,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.352471,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4317,8 +4268,37 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.16768,
-   "selection_reason": "Editorial importance; waiting 39.5h"
+   "priority": 7.162471,
+   "selection_reason": "Editorial importance; waiting 40.0h"
+  },
+  {
+   "id": "1336358d761ba076",
+   "item": {
+    "id": "1336358d761ba076",
+    "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
+    "url": "https://36kr.com/p/4072516740797318?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络搭建。 博理科技成立于2017年，专注于高分子弹性体材料与超高速3D打印批量制造，业务覆盖材料研发、装备制造、软件系统开发与量产生产服务。谈及品牌名称的由来，创始人王文斌表示，PollyPolymer中的“Polymer”代表高分子聚合物，“Polly”则取自自己的英文名。材料是博理科技业务发展的起点，装备、自研软件与量产生产服务均在此基础上延伸。依托自研HALS超高速3D打印技术平台，博理科技面向不同行业开发专用高性能材料，并通过一体化解决方案为客户提供批量制造能力。 自2020年A轮融资以来， 博理科技已先后完成四轮融资 ，持续围绕材料研发、装备迭代与产能建设投入。 随着3D打印技术在消费品、工业零部件等领域的应用逐步深入，行业竞争正从单一技术指标向规模化制造能力延伸。如何兼顾生产效率、成本与交付稳定性，成为增材制造企业商业化过程中需要解决的问题。 机器人零部件 从材料研发到智能云工厂，推动3D打印规模化制造 3D打印无需提前开模，具有设计自由度高、复杂结构一体成型等特点，长期以来主要应用于产品设计、原型验证及批量定制生产。但要进入工业主产线…",
+    "published": "2026-11-17T10:07:10+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Polly Polymer secures over 500 million yuan in funding",
+   "post": "Chinese 3D printing and material manufacturer Polly Polymer has raised over 500 million yuan across its B2 and B+ funding rounds. The capital will fund polymer material research, manufacturing capacity expansion, and embodied AI applications.",
+   "editor_note": "Verify the exact funding totals and lead investors listed for the B2 and B+ rounds.",
+   "support": 0.96,
+   "published_at": "2026-11-17T10:07:10+00:00",
+   "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
+   "expires_at": "2026-11-18T22:07:10+00:00",
+   "decision": 1.47,
+   "priority": 7.156574,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4347,8 +4327,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.968795,
-   "selection_reason": "Editorial importance"
+   "priority": 6.994841,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4375,8 +4355,37 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 6.914257,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.931621,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "9727643803e6dbd2",
+   "item": {
+    "id": "9727643803e6dbd2",
+    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
+    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
+    "published": "2026-11-18T06:44:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
+   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
+   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
+   "support": 0.29,
+   "published_at": "2026-11-18T06:44:46+00:00",
+   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
+   "expires_at": "2026-11-19T18:44:46+00:00",
+   "decision": 1.29,
+   "priority": 6.919537,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4403,36 +4412,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.875291,
-   "selection_reason": "Editorial importance; waiting 4.5h"
-  },
-  {
-   "id": "ebff97034b293e5f",
-   "item": {
-    "id": "ebff97034b293e5f",
-    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
-    "published": "2026-11-16T18:52:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Moonshot AI pivots Kimi models from coding to science research",
-   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
-   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
-   "support": 0.63,
-   "published_at": "2026-11-16T18:52:55+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T06:52:55+00:00",
-   "decision": 1.72,
-   "priority": 6.830534,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.892655,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4461,8 +4442,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.799178,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.827457,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4489,8 +4470,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.759086,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.779923,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   }
  ],
  "details_queue": [],
@@ -4659,12 +4640,13 @@
   "https://yourstory.com/2026/11/karnataka-aim-global-hub-frontier-tech-fadnavi-vision-new-maharashtra": "2026-11-18T04:39:38.475758+00:00",
   "https://www.theinformation.com/briefings/openai-model-helps-find-security-bug-widely-used-code-language": "2026-11-18T05:08:38.893831+00:00",
   "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html": "2026-11-18T05:40:18.733394+00:00",
-  "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference": "2026-11-18T06:38:04.896206+00:00"
+  "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference": "2026-11-18T06:38:04.896206+00:00",
+  "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights": "2026-11-18T07:08:05.542528+00:00"
  },
  "details_daily": {
   "date": "2026-11-18",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -18936,6 +18918,61 @@
    "imp": 0.12,
    "ai": 0.03,
    "ts": "2026-11-18T06:37:21.744958+00:00"
+  },
+  "00d9c1f9b3e48bae": {
+   "imp": 1.31,
+   "ai": 0.82,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "4544e1a0a66d3e56": {
+   "imp": 0.39,
+   "ai": 0.06,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "9727643803e6dbd2": {
+   "imp": 1.29,
+   "ai": 0.96,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "1d9b9d9f1a2f5df6": {
+   "imp": 0.31,
+   "ai": 0.04,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "b0caaac8b4105660": {
+   "imp": 1.45,
+   "ai": 0.74,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "9c147e603400f18f": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "7a4d124930ea4ce9": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "ed5cd0f4ea129f41": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "34e6c257057c1901": {
+   "imp": 0.26,
+   "ai": 0.06,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "82c992b9b81a0c0e": {
+   "imp": 1.13,
+   "ai": 0.53,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
+  },
+  "793abd73d80c5d71": {
+   "imp": 0.54,
+   "ai": 0.06,
+   "ts": "2026-11-18T07:07:22.056639+00:00"
   }
  }
 }
