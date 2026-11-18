@@ -1,13 +1,5 @@
 {
  "seen": {
-  "cb7863665107d049": "2026-11-11T06:07:21.490074+00:00",
-  "80b38ea7da372c49": "2026-11-11T06:07:21.490074+00:00",
-  "1ff74ee2cb106637": "2026-11-11T06:07:21.490074+00:00",
-  "77a91153249f6d50": "2026-11-11T06:07:21.490074+00:00",
-  "23b382fa4a774bc6": "2026-11-11T06:07:21.490074+00:00",
-  "18780a9d23393f24": "2026-11-11T06:07:21.490074+00:00",
-  "a2d48051cb748221": "2026-11-11T06:07:21.490074+00:00",
-  "35f00681774962fa": "2026-11-11T06:07:21.490074+00:00",
   "cfc79cd5142774a4": "2026-11-11T06:37:26.026765+00:00",
   "337c6b69abbad99f": "2026-11-11T06:37:26.026765+00:00",
   "b06a66690c3ffda7": "2026-11-11T06:37:26.026765+00:00",
@@ -1930,7 +1922,11 @@
   "c36c6bd43214f09b": "2026-11-18T05:37:22.266436+00:00",
   "c0e3184bca4822b0": "2026-11-18T05:37:22.266436+00:00",
   "c25d76f51e2c0126": "2026-11-18T05:37:22.266436+00:00",
-  "89d3f37d71cb1e38": "2026-11-18T05:37:22.266436+00:00"
+  "89d3f37d71cb1e38": "2026-11-18T05:37:22.266436+00:00",
+  "c82788cf566f6174": "2026-11-18T06:07:29.542809+00:00",
+  "74d4f687270513b1": "2026-11-18T06:07:29.542809+00:00",
+  "d601bb5a7283cd23": "2026-11-18T06:07:29.542809+00:00",
+  "a00d072e1ee989a0": "2026-11-18T06:07:29.542809+00:00"
  },
  "covered": [
   {
@@ -2112,11 +2108,15 @@
   {
    "headline": "Kling AI releases Kling Image 4.0 with native 8K support",
    "ts": "2026-11-18T05:37:22.266436+00:00"
+  },
+  {
+   "headline": "Physical AI database startup ByteTree raises 50 million yuan",
+   "ts": "2026-11-18T06:07:29.542809+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-18",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3832,33 +3832,32 @@
  },
  "pending": [
   {
-   "id": "a00d072e1ee989a0",
+   "id": "862b4c03c86841db",
    "item": {
-    "id": "a00d072e1ee989a0",
-    "title": "物理AI数据基座服务商“柏川数据”",
-    "url": "https://36kr.com/newsflashes/4074640638628998?f=rss",
-    "source": "36Kr",
+    "id": "862b4c03c86841db",
+    "title": "Microsoft to Let Customers Customize Its AI Models’ ‘Weights’",
+    "url": "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights",
+    "source": "The Information",
     "image": "",
-    "snippet": "36氪获悉，物理AI数据基座服务商“柏川数据”（ByteTree）宣布完成 5000 万元 Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。",
-    "published": "2026-11-18T02:18:48+00:00",
-    "images": false,
+    "snippet": "Microsoft debuted a suite of new AI models at its annual Ignite conference in San Francisco on Tuesday and said it will license the models’ weights—the settings that determine how the models answer questions—so customers can create highly customized versions for their businesses. The move ...",
+    "published": "2026-11-17T19:40:35+00:00",
+    "images": true,
     "category": "news",
-    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Physical AI database startup ByteTree raises 50 million yuan",
-   "post": "ByteTree has secured 50 million yuan in a Pre-A funding round to build physical AI data pipelines and embodied intelligence algorithms.",
-   "editor_note": "Confirm the list of participating investors and specific allocation of the 50 million yuan.",
-   "support": 0.94,
-   "published_at": "2026-11-18T02:18:48+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T14:18:48+00:00",
-   "decision": 1.55,
-   "priority": 8.612001,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "headline": "Microsoft to license model weights for enterprise customization",
+   "post": "Microsoft announced plans to license the weights of its AI models unveiled at the Ignite conference, allowing enterprise customers to build customized versions for business applications.",
+   "editor_note": "Check which specific model families are included in the weight-licensing program.",
+   "support": 0.95,
+   "published_at": "2026-11-17T19:40:35+00:00",
+   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
+   "expires_at": "2026-11-19T07:40:35+00:00",
+   "decision": 1.85,
+   "priority": 8.576438,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "0145fb90b8379117",
@@ -3887,36 +3886,8 @@
    "first_seen_at": "2026-11-17T11:07:23.266719+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.568095,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
-   "id": "862b4c03c86841db",
-   "item": {
-    "id": "862b4c03c86841db",
-    "title": "Microsoft to Let Customers Customize Its AI Models’ ‘Weights’",
-    "url": "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Microsoft debuted a suite of new AI models at its annual Ignite conference in San Francisco on Tuesday and said it will license the models’ weights—the settings that determine how the models answer questions—so customers can create highly customized versions for their businesses. The move ...",
-    "published": "2026-11-17T19:40:35+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Microsoft to license model weights for enterprise customization",
-   "post": "Microsoft announced plans to license the weights of its AI models unveiled at the Ignite conference, allowing enterprise customers to build customized versions for business applications.",
-   "editor_note": "Check which specific model families are included in the weight-licensing program.",
-   "support": 0.95,
-   "published_at": "2026-11-17T19:40:35+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T07:40:35+00:00",
-   "decision": 1.85,
-   "priority": 8.559007,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.562866,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "0b27db5afea169d0",
@@ -3943,8 +3914,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:00+00:00",
    "decision": 2.2,
-   "priority": 8.549365,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 8.53542,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -3971,8 +3942,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 8.433753,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.451184,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "5deb3005f6ba4730",
@@ -4024,8 +3995,8 @@
    "first_seen_at": "2026-11-17T11:37:25.215311+00:00",
    "expires_at": "2026-11-18T23:13:34+00:00",
    "decision": 1.92,
-   "priority": 8.378979,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 8.365034,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "9f1ef97889b505da",
@@ -4077,8 +4048,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:50:51+00:00",
    "decision": 2.48,
-   "priority": 8.225253,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 8.242684,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4105,8 +4076,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.168463,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 8.185894,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4135,8 +4106,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.028665,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 8.057053,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4163,8 +4134,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.639825,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.657256,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4193,8 +4164,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.581429,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.576199,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "3decd8b5d05673e4",
@@ -4221,8 +4192,8 @@
    "first_seen_at": "2026-11-17T12:37:24.808192+00:00",
    "expires_at": "2026-11-19T00:17:02+00:00",
    "decision": 2.23,
-   "priority": 7.511695,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.49775,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "82a0f3f376656399",
@@ -4249,8 +4220,8 @@
    "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
    "expires_at": "2026-11-19T02:00:29+00:00",
    "decision": 2.0,
-   "priority": 7.482922,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.468977,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4279,8 +4250,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.368095,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.362866,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "1336358d761ba076",
@@ -4308,8 +4279,8 @@
    "first_seen_at": "2026-11-17T10:07:22.889082+00:00",
    "expires_at": "2026-11-18T22:07:10+00:00",
    "decision": 1.47,
-   "priority": 7.198239,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.184294,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4338,8 +4309,38 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 7.178095,
-   "selection_reason": "Editorial importance; waiting 38.5h"
+   "priority": 7.172866,
+   "selection_reason": "Editorial importance; waiting 39.0h"
+  },
+  {
+   "id": "4920d00e28ac4511",
+   "item": {
+    "id": "4920d00e28ac4511",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "url": "https://arxiv.org/abs/2611.22115",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
+    "published": "2026-11-18T00:00:00+00:00",
+    "upvotes": 84,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
+   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
+   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
+   "support": 0.97,
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
+   "expires_at": "2026-11-22T00:00:00+00:00",
+   "decision": 1.52,
+   "priority": 6.942866,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4366,36 +4367,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 1.6,
-   "priority": 6.87954,
-   "selection_reason": "Editorial importance; waiting 3.0h"
-  },
-  {
-   "id": "ebff97034b293e5f",
-   "item": {
-    "id": "ebff97034b293e5f",
-    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
-    "published": "2026-11-16T18:52:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Moonshot AI pivots Kimi models from coding to science research",
-   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
-   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
-   "support": 0.63,
-   "published_at": "2026-11-16T18:52:55+00:00",
-   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
-   "expires_at": "2026-11-18T06:52:55+00:00",
-   "decision": 1.72,
-   "priority": 6.858308,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.896971,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4422,8 +4395,36 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.840573,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.858005,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "ebff97034b293e5f",
+   "item": {
+    "id": "ebff97034b293e5f",
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
+    "published": "2026-11-16T18:52:55+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Moonshot AI pivots Kimi models from coding to science research",
+   "post": "Beijing startup Moonshot AI is shifting its Kimi language models away from coding benchmarks toward research in biology, chemistry, and pharmaceuticals, citing diminishing gains on standard benchmarks.",
+   "editor_note": "The startup cited flattening gains on standard coding benchmarks for the pivot.",
+   "support": 0.63,
+   "published_at": "2026-11-16T18:52:55+00:00",
+   "first_seen_at": "2026-11-17T02:07:22.529075+00:00",
+   "expires_at": "2026-11-18T06:52:55+00:00",
+   "decision": 1.72,
+   "priority": 6.844363,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4452,8 +4453,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 6.742638,
-   "selection_reason": "Editorial importance"
+   "priority": 6.771027,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4480,8 +4481,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.717425,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.738343,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ],
  "details_queue": [],
@@ -18821,6 +18822,56 @@
    "imp": 0.17,
    "ai": 0.03,
    "ts": "2026-11-18T05:37:22.266436+00:00"
+  },
+  "101074e9d29448f1": {
+   "imp": 0.45,
+   "ai": 0.03,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "4920d00e28ac4511": {
+   "imp": 1.52,
+   "ai": null,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "c82788cf566f6174": {
+   "imp": 1.07,
+   "ai": null,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "df43ff2e85ac97f4": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "96fdeabc83032dbc": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "53d452bfcc9ce670": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "d601bb5a7283cd23": {
+   "imp": 1.05,
+   "ai": 0.95,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "98ed3d24034e0815": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "7cc08f64ea44be9b": {
+   "imp": 0.2,
+   "ai": 0.01,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
+  },
+  "74d4f687270513b1": {
+   "imp": 1.6,
+   "ai": 0.78,
+   "ts": "2026-11-18T06:07:29.542809+00:00"
   }
  }
 }
