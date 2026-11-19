@@ -1,18 +1,5 @@
 {
  "seen": {
-  "2f5ac4847b023025": "2026-11-12T03:07:20.943877+00:00",
-  "0afd1907df33baa7": "2026-11-12T03:07:20.943877+00:00",
-  "ff155bd9a720209b": "2026-11-12T03:07:20.943877+00:00",
-  "a8e33ebc10a51611": "2026-11-12T03:07:20.943877+00:00",
-  "e151c4445867df56": "2026-11-12T03:07:20.943877+00:00",
-  "3f67f7d15115ea21": "2026-11-12T03:07:20.943877+00:00",
-  "6633337cf56a2f23": "2026-11-12T03:07:20.943877+00:00",
-  "1deffd8f09a3dfd7": "2026-11-12T03:07:20.943877+00:00",
-  "ca834abd1b3c9412": "2026-11-12T03:07:20.943877+00:00",
-  "7241c09e0d48bfb6": "2026-11-12T03:07:20.943877+00:00",
-  "e782a3450920d3e4": "2026-11-12T03:07:20.943877+00:00",
-  "5c2c373e9f6ad841": "2026-11-12T03:07:20.943877+00:00",
-  "b6cab54de45545ca": "2026-11-12T03:07:20.943877+00:00",
   "a92c103556a09803": "2026-11-12T03:37:23.593271+00:00",
   "6743d8143271ac1f": "2026-11-12T03:37:23.593271+00:00",
   "89c9dbd4f8dab2d7": "2026-11-12T03:37:23.593271+00:00",
@@ -1918,13 +1905,20 @@
   "54bca3b9a46d02f4": "2026-11-19T02:37:31.986009+00:00",
   "22c3131e87fdf83a": "2026-11-19T02:37:31.986009+00:00",
   "d2bc73b5e958a5ab": "2026-11-19T02:37:31.986009+00:00",
-  "42159eae923c9536": "2026-11-19T02:37:31.986009+00:00"
+  "42159eae923c9536": "2026-11-19T02:37:31.986009+00:00",
+  "eacbd26a911f6855": "2026-11-19T03:07:24.283530+00:00",
+  "44013fe75393f221": "2026-11-19T03:07:24.283530+00:00",
+  "2a1f0dfea65b6e1f": "2026-11-19T03:07:24.283530+00:00",
+  "1636eb7285b469c2": "2026-11-19T03:07:24.283530+00:00",
+  "2597f0770d1d3abc": "2026-11-19T03:07:24.283530+00:00",
+  "53520e5f841a2239": "2026-11-19T03:07:24.283530+00:00",
+  "1feb5e787ef08752": "2026-11-19T03:07:24.283530+00:00",
+  "61a25aea71886a4b": "2026-11-19T03:07:24.283530+00:00",
+  "bef803c735fed0d0": "2026-11-19T03:07:24.283530+00:00",
+  "2f277485244a55e7": "2026-11-19T03:07:24.283530+00:00",
+  "dbd5dd4088cdd04a": "2026-11-19T03:07:24.283530+00:00"
  },
  "covered": [
-  {
-   "headline": "Sam Altman acknowledges voter opposition to AI data center expansion",
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
   {
    "headline": "Chinese AI developers restrict offensive cyber capabilities",
    "ts": "2026-11-17T03:37:22.449919+00:00"
@@ -2128,11 +2122,15 @@
   {
    "headline": "OpenAI models accelerate chip design for AMD and in-house hardware",
    "ts": "2026-11-19T02:37:31.986009+00:00"
+  },
+  {
+   "headline": "Meta AI agent accessed bank balances and private chats without consent",
+   "ts": "2026-11-19T03:07:24.283530+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3955,34 +3953,6 @@
  },
  "pending": [
   {
-   "id": "dbd5dd4088cdd04a",
-   "item": {
-    "id": "dbd5dd4088cdd04a",
-    "title": "Meta's AI agent accessed bank balances, read private chats without users' consent",
-    "url": "https://www.indiatoday.in/technology/story/meta-ai-agent-muse-accessed-bank-balances-read-private-chats-without-users-consent-3041816-2026-11-18?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Meta's AI agent accessed bank balances, read private chats without users' consent",
-    "published": "2026-11-18T15:34:22+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Meta AI agent accessed bank balances and private chats without consent",
-   "post": "Meta's AI agent accessed bank balances and read private chats without user consent, India Today reported.",
-   "editor_note": "Verify the technical mechanism of unauthorized access, affected user scope, and official Meta response.",
-   "support": 0.97,
-   "published_at": "2026-11-18T15:34:22+00:00",
-   "first_seen_at": "2026-11-18T16:07:26.312474+00:00",
-   "expires_at": "2026-11-20T03:34:22+00:00",
-   "decision": 1.87,
-   "priority": 8.97266,
-   "selection_reason": "Time-sensitive story; waiting 10.5h"
-  },
-  {
    "id": "b898a1b2127c5756",
    "item": {
     "id": "b898a1b2127c5756",
@@ -4032,8 +4002,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 2.57,
-   "priority": 8.895586,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 8.91633,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "48e619c8f030455c",
@@ -4060,7 +4030,7 @@
    "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
    "expires_at": "2026-11-20T14:13:49+00:00",
    "decision": 2.42,
-   "priority": 8.795687,
+   "priority": 8.812974,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4102,8 +4072,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:10:13+00:00",
    "decision": 1.99,
-   "priority": 8.657736,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.675023,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "c9a3cb565c069e79",
@@ -4131,8 +4101,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T12:31:44+00:00",
    "decision": 1.78,
-   "priority": 8.628711,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.645998,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "daf003fd90447b3d",
@@ -4160,7 +4130,7 @@
    "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
    "expires_at": "2026-11-20T14:16:23+00:00",
    "decision": 1.78,
-   "priority": 8.583542,
+   "priority": 8.600829,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4188,8 +4158,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.555043,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.57233,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "eced480806a155a5",
@@ -4206,19 +4176,32 @@
     "language": "zh",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "1b00c6c971d2a745",
+     "title": "China AI Biotech Firm Raises $200 Million in Oman-Backed Round",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Chinese biotech upstart MegaRobo Technologies has raised nearly $200 million from investors including Oman’s sovereign wealth fund, as investors pile into companies using artificial intelligence and robotics to accelerate drug research.",
+     "published": "2026-11-19T00:20:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
    "importance": 8,
    "urgency": "timely",
    "headline": "Megha Technology raises nearly $200 million in new funding",
    "post": "Chinese AI automation firm Megha Technology completed a new funding round of nearly $200 million, backed by the Oman Investment Authority and existing investors, bringing its total historical funding to nearly $600 million.",
    "editor_note": "Check participating investor names and confirm total historical funding amount in the source text.",
    "support": 0.88,
-   "published_at": "2026-11-19T00:30:00+00:00",
+   "published_at": "2026-11-19T00:20:00+00:00",
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
-   "expires_at": "2026-11-20T12:30:00+00:00",
-   "decision": 1.56,
-   "priority": 8.523562,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "expires_at": "2026-11-20T12:20:00+00:00",
+   "decision": 1.59,
+   "priority": 8.546219,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4247,8 +4230,49 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.372414,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 8.369451,
+   "selection_reason": "Editorial importance; waiting 26.0h"
+  },
+  {
+   "id": "c7a5c21b775bae5c",
+   "item": {
+    "id": "c7a5c21b775bae5c",
+    "title": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Singapore’s central bank warned that artificial intelligence agents could move deposits and other funds more quickly, raising new liquidity and financial-stability risks.",
+    "published": "2026-11-19T02:31:51+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "6ae82bdc38649050",
+     "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+     "published": "2026-11-18T17:32:10+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Singapore central bank warns AI agents heighten financial stability risks",
+   "post": "Singapore's central bank warned that artificial intelligence agents could move deposits and funds faster, creating new liquidity and financial-stability risks.",
+   "editor_note": "Verify MAS statement details and timeline regarding AI agent financial transfers.",
+   "support": 0.93,
+   "published_at": "2026-11-18T17:32:10+00:00",
+   "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
+   "expires_at": "2026-11-20T05:32:10+00:00",
+   "decision": 1.59,
+   "priority": 8.263686,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "50e3ea47cbae988d",
@@ -4288,8 +4312,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.175343,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 8.196087,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4316,36 +4340,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.05382,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "776157cf22e3ea27",
-   "item": {
-    "id": "776157cf22e3ea27",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "published": "2026-11-17T19:32:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Model ML raises $250M to automate investment banking",
-   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
-   "editor_note": "Verify the round details and investors if disclosed in the full release.",
-   "support": 0.95,
-   "published_at": "2026-11-17T19:32:11+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T07:32:11+00:00",
-   "decision": 1.58,
-   "priority": 7.913079,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 8.03999,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4372,8 +4368,36 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 7.890493,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.911237,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "776157cf22e3ea27",
+   "item": {
+    "id": "776157cf22e3ea27",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "published": "2026-11-17T19:32:11+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Model ML raises $250M to automate investment banking",
+   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
+   "editor_note": "Verify the round details and investors if disclosed in the full release.",
+   "support": 0.95,
+   "published_at": "2026-11-17T19:32:11+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T07:32:11+00:00",
+   "decision": 1.58,
+   "priority": 7.899249,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4400,8 +4424,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.673338,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 7.694083,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4428,8 +4452,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.565189,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.582452,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4456,8 +4480,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.530162,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.516333,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4486,8 +4510,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.479317,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.474131,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4529,8 +4553,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.47169,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.45786,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4559,8 +4583,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.367622,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.364659,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4589,8 +4613,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.362651,
-   "selection_reason": "Editorial importance; waiting 43.5h"
+   "priority": 7.357464,
+   "selection_reason": "Editorial importance; waiting 44.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4617,8 +4641,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.331736,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.317907,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4646,8 +4670,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.285941,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.272112,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4675,8 +4699,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.26983,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.256001,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4704,8 +4728,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.181404,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.167575,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4734,8 +4758,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.149317,
-   "selection_reason": "Editorial importance; waiting 43.0h"
+   "priority": 7.144131,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4763,8 +4787,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.127793,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.113964,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4791,8 +4815,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.119151,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.105322,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4832,8 +4856,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 2.06,
-   "priority": 7.012199,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.99837,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4862,8 +4886,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.959317,
-   "selection_reason": "Editorial importance; waiting 59.5h"
+   "priority": 6.954131,
+   "selection_reason": "Editorial importance; waiting 60.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4890,8 +4914,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.788534,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.774705,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4918,8 +4942,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.748634,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.738262,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   }
  ],
  "details_queue": [],
@@ -5108,12 +5132,13 @@
   "https://yourstory.com/2026/11/apollo-microsoft-turn-to-ai-to-help-hospitals-learn-from-medical-errors": "2026-11-18T17:10:13.914652+00:00",
   "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html": "2026-11-19T01:08:37.831990+00:00",
   "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=rss_Technology": "2026-11-19T01:41:46.246843+00:00",
-  "https://www.theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno": "2026-11-19T02:39:29.846461+00:00"
+  "https://www.theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno": "2026-11-19T02:39:29.846461+00:00",
+  "https://www.indiatoday.in/technology/story/meta-ai-agent-muse-accessed-bank-balances-read-private-chats-without-users-consent-3041816-2026-11-18": "2026-11-19T03:10:38.300010+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
   "32933935200c2839": {
@@ -22205,6 +22230,91 @@
    "imp": 1.64,
    "ai": 0.84,
    "ts": "2026-11-19T02:37:31.986009+00:00"
+  },
+  "1636eb7285b469c2": {
+   "imp": 1.8,
+   "ai": 0.84,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "c7a5c21b775bae5c": {
+   "imp": 1.59,
+   "ai": 0.92,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "cafac2d2e69e562f": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "63760219e6455119": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "2597f0770d1d3abc": {
+   "imp": 1.79,
+   "ai": 0.45,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "2a1f0dfea65b6e1f": {
+   "imp": 1.91,
+   "ai": 0.8,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "53520e5f841a2239": {
+   "imp": 1.13,
+   "ai": 0.91,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "d4344b2d009ac823": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "ebe7bb88faa39f68": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "bb88d1937decf2fd": {
+   "imp": 1.43,
+   "ai": 0.57,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "3745141f21ac2c75": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "79fa2021fcc9b174": {
+   "imp": 0.24,
+   "ai": 0.05,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "f2eb6e3a12f5bf5a": {
+   "imp": 0.47,
+   "ai": 0.06,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "ce5fa112d26b2122": {
+   "imp": 0.54,
+   "ai": 0.06,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "5fe4881602372acf": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "115119904a529ca7": {
+   "imp": 0.23,
+   "ai": 0.05,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "e38c412e68716f37": {
+   "imp": 0.31,
+   "ai": 0.08,
+   "ts": "2026-11-19T03:07:24.283530+00:00"
   }
  }
 }
