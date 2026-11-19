@@ -1,28 +1,5 @@
 {
  "seen": {
-  "2aac58e4c1e4800f": "2026-11-12T12:37:25.726588+00:00",
-  "4c3a4da346ee84b3": "2026-11-12T12:37:25.726588+00:00",
-  "98aef0ae35053436": "2026-11-12T12:37:25.726588+00:00",
-  "e254ac178fa16d84": "2026-11-12T12:37:25.726588+00:00",
-  "213543903c903b3e": "2026-11-12T12:37:25.726588+00:00",
-  "65a8859c7cf348d6": "2026-11-12T12:37:25.726588+00:00",
-  "d2c68a76cef05150": "2026-11-12T12:37:25.726588+00:00",
-  "ce1135186e3ec620": "2026-11-12T12:37:25.726588+00:00",
-  "5ee27369f360d913": "2026-11-12T12:37:25.726588+00:00",
-  "b7bad316a3d95757": "2026-11-12T12:37:25.726588+00:00",
-  "b919e80e99089a11": "2026-11-12T12:37:25.726588+00:00",
-  "51f5443e5e7145b7": "2026-11-12T12:37:25.726588+00:00",
-  "69f3ed20cc8b4ccf": "2026-11-12T12:37:25.726588+00:00",
-  "a7388d0f99bfe1bd": "2026-11-12T12:37:25.726588+00:00",
-  "b3620f18b45612ad": "2026-11-12T12:37:25.726588+00:00",
-  "f10e5be3e1721bd6": "2026-11-12T12:37:25.726588+00:00",
-  "0cbf809577a1b800": "2026-11-12T12:37:25.726588+00:00",
-  "0082abfd53b1fe2d": "2026-11-12T12:37:25.726588+00:00",
-  "cb3895eef8c5838b": "2026-11-12T12:37:25.726588+00:00",
-  "70349d4a23362682": "2026-11-12T12:37:25.726588+00:00",
-  "e189580829f8fafd": "2026-11-12T12:37:25.726588+00:00",
-  "c650f56f5cb1eb2f": "2026-11-12T12:37:25.726588+00:00",
-  "befc7fabc6dfa9e0": "2026-11-12T12:37:25.726588+00:00",
   "a685f82f317483a5": "2026-11-12T13:07:23.294863+00:00",
   "e75df702b3eaf377": "2026-11-12T13:07:23.294863+00:00",
   "cfcc21a60b8fddbe": "2026-11-12T13:07:23.294863+00:00",
@@ -1894,13 +1871,18 @@
   "94c87cf8fbeb5f1b": "2026-11-19T12:07:23.170783+00:00",
   "ed125c570e4f6ebf": "2026-11-19T12:07:23.170783+00:00",
   "57d6e0f9adf7ae63": "2026-11-19T12:07:23.170783+00:00",
-  "0191361613981656": "2026-11-19T12:07:23.170783+00:00"
+  "0191361613981656": "2026-11-19T12:07:23.170783+00:00",
+  "fab0875185d3cf10": "2026-11-19T12:37:24.282971+00:00",
+  "3683917047df98fc": "2026-11-19T12:37:24.282971+00:00",
+  "dd42bb79c10d48ce": "2026-11-19T12:37:24.282971+00:00",
+  "fdfefb89d61360e3": "2026-11-19T12:37:24.282971+00:00",
+  "fff5db86de3b8775": "2026-11-19T12:37:24.282971+00:00",
+  "bd1fc6d49a286a92": "2026-11-19T12:37:24.282971+00:00",
+  "ac350395ded242de": "2026-11-19T12:37:24.282971+00:00",
+  "dd0fceef45fef495": "2026-11-19T12:37:24.282971+00:00",
+  "0250765af6030c2e": "2026-11-19T12:37:24.282971+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic prepares for public listing with Coatue holding $10 billion stake",
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
   {
    "headline": "Lemonpeel raises $1 million in pre-seed funding for AI video tools",
    "ts": "2026-11-17T13:07:27.117770+00:00"
@@ -2112,11 +2094,15 @@
   {
    "headline": "Zurich Insurance expands Hyderabad GCC with 1000 employees",
    "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  {
+   "headline": "Microsoft unveils seven new in-house AI models at Ignite",
+   "ts": "2026-11-19T12:37:24.282971+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3972,34 +3958,6 @@
  },
  "pending": [
   {
-   "id": "0250765af6030c2e",
-   "item": {
-    "id": "0250765af6030c2e",
-    "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
-    "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises. The article Microsoft is replacing outside AI models in its own products with cheaper in-house alte…",
-    "published": "2026-11-18T18:47:36+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Microsoft unveils seven new in-house AI models at Ignite",
-   "post": "Microsoft unveiled seven new models for code, security, images, language, and routing. According to Microsoft, MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost.",
-   "editor_note": "Confirm the specific benchmark claims and cost comparison relative to GPT-6.1 Sol.",
-   "support": 0.93,
-   "published_at": "2026-11-18T18:47:36+00:00",
-   "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
-   "expires_at": "2026-11-20T06:47:36+00:00",
-   "decision": 2.13,
-   "priority": 8.384819,
-   "selection_reason": "Editorial importance; waiting 10.5h"
-  },
-  {
    "id": "f689168723dc030d",
    "item": {
     "id": "f689168723dc030d",
@@ -4024,8 +3982,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.286225,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 8.307071,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4065,8 +4023,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.076175,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 8.093547,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4107,8 +4065,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.85533,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 7.841433,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4136,8 +4094,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.752401,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.769773,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4164,8 +4122,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.744338,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.761709,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4193,8 +4151,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.705693,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.723065,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4221,8 +4179,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.669819,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.687191,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4250,6 +4208,32 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "a9ee9723453f9960",
+     "title": "吴泳铭：阿里巴巴2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变",
+     "url": "https://36kr.com/newsflashes/4076644027290761?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，综合各因素影响，阿里巴巴2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变。本季度，阿里云外部经常性收入同比增长67%，经调整EBITA同比增长121%，EBITA利润率提升至14.5%。AI相关产品季度收入179.18亿元人民币，在阿里云外部经常性收入中的占比达到49%，AI相关产品年化收入超100亿美元。收入的强劲增长反映了各行业领域客户的强劲需求，包括大型国央企、智能制造、汽车行业、具身智能和生物科技等行业的企业。",
+     "published": "2026-11-19T12:16:45+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    },
+    {
+     "id": "ee3cf1a9435226b0",
+     "title": "阿里云外部收入增长64%，增速创近六年新高",
+     "url": "https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html",
+     "source": "LeiPhone",
+     "image": "",
+     "snippet": "11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。",
+     "published": "2026-11-19T10:15:00+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -4258,12 +4242,41 @@
    "post": "Alibaba Group reported a 67 percent surge in external recurring revenue tied to AI cloud and computing during the quarter ended September 30, lifting total revenue 10 percent.",
    "editor_note": "Check exact phrasing of the AI cloud revenue growth figure against the official earnings release.",
    "support": 0.96,
-   "published_at": "2026-11-19T10:38:00+00:00",
+   "published_at": "2026-11-19T10:15:00+00:00",
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T22:38:00+00:00",
+   "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.597797,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.604521,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "c13d075741cf194b",
+   "item": {
+    "id": "c13d075741cf194b",
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
+    "published": "2026-11-19T12:15:45+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
+   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
+   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
+   "support": 0.92,
+   "published_at": "2026-11-19T12:15:45+00:00",
+   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
+   "expires_at": "2026-11-21T00:15:45+00:00",
+   "decision": 1.77,
+   "priority": 7.579975,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4292,8 +4305,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.380384,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 7.375173,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4320,8 +4333,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.33246,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.318563,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4350,36 +4363,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.311089,
-   "selection_reason": "Editorial importance; waiting 30.5h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.266341,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.308111,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4408,8 +4393,65 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.263718,
-   "selection_reason": "Editorial importance; waiting 53.0h"
+   "priority": 7.258506,
+   "selection_reason": "Editorial importance; waiting 53.5h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.252444,
+   "selection_reason": "Editorial importance; waiting 25.0h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.204984,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4451,37 +4493,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.207869,
-   "selection_reason": "Editorial importance; waiting 22.5h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.187612,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.193972,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4510,8 +4523,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.16297,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.191261,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4538,8 +4551,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.131602,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.121179,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4566,8 +4579,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.100053,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.117425,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4594,8 +4607,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.067915,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.054018,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4624,8 +4637,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.050384,
-   "selection_reason": "Editorial importance; waiting 52.5h"
+   "priority": 7.045173,
+   "selection_reason": "Editorial importance; waiting 53.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4653,8 +4666,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.022121,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.008223,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4682,8 +4695,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.006009,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.992112,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4711,37 +4724,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.917584,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "9727643803e6dbd2",
-   "item": {
-    "id": "9727643803e6dbd2",
-    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
-    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
-    "published": "2026-11-18T06:44:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
-   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
-   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
-   "support": 0.29,
-   "published_at": "2026-11-18T06:44:46+00:00",
-   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
-   "expires_at": "2026-11-19T18:44:46+00:00",
-   "decision": 1.29,
-   "priority": 6.863972,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.903686,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4770,8 +4754,37 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.860384,
-   "selection_reason": "Editorial importance; waiting 69.0h"
+   "priority": 6.855173,
+   "selection_reason": "Editorial importance; waiting 69.5h"
+  },
+  {
+   "id": "9727643803e6dbd2",
+   "item": {
+    "id": "9727643803e6dbd2",
+    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
+    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
+    "published": "2026-11-18T06:44:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
+   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
+   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
+   "support": 0.29,
+   "published_at": "2026-11-18T06:44:46+00:00",
+   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
+   "expires_at": "2026-11-19T18:44:46+00:00",
+   "decision": 1.29,
+   "priority": 6.850075,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   }
  ],
  "details_queue": [],
@@ -4976,12 +4989,13 @@
   "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards": "2026-11-19T10:42:28.387761+00:00",
   "https://www.wsj.com/business/deutsche-telekoms-tech-fund-invests-110-million-in-mistral-ai-13597573?mod=rss_Technology": "2026-11-19T11:12:33.522686+00:00",
   "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs": "2026-11-19T11:41:08.375413+00:00",
-  "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028": "2026-11-19T12:07:49.910576+00:00"
+  "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028": "2026-11-19T12:07:49.910576+00:00",
+  "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives": "2026-11-19T12:38:16.871737+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
   "32933935200c2839": {
@@ -23763,6 +23777,121 @@
    "imp": 0.33,
    "ai": 0.08,
    "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "fdfefb89d61360e3": {
+   "imp": 0.79,
+   "ai": null,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "a9ee9723453f9960": {
+   "imp": 1.62,
+   "ai": 0.8,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "c13d075741cf194b": {
+   "imp": 1.77,
+   "ai": 0.97,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "2ae305dbea6ba60c": {
+   "imp": 1.27,
+   "ai": 0.72,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "dd0fceef45fef495": {
+   "imp": 1.64,
+   "ai": 0.97,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "ee3cf1a9435226b0": {
+   "imp": 1.71,
+   "ai": 0.81,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "bd1fc6d49a286a92": {
+   "imp": 1.47,
+   "ai": 0.97,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "ac350395ded242de": {
+   "imp": 1.82,
+   "ai": 0.94,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "fab0875185d3cf10": {
+   "imp": 2.63,
+   "ai": 0.98,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "fff5db86de3b8775": {
+   "imp": 2.09,
+   "ai": 0.95,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "76a3d0a2887be92e": {
+   "imp": 0.26,
+   "ai": 0.04,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "dd42bb79c10d48ce": {
+   "imp": 1.71,
+   "ai": 0.78,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "3683917047df98fc": {
+   "imp": 1.99,
+   "ai": 0.97,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "f8d22a17da90473c": {
+   "imp": 1.21,
+   "ai": 0.36,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "bd4ef4bf379e7031": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "3993e3fc3dc37afe": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "6c30773a5cae258a": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "5581340221ecff38": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "4477ea650784769e": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "81bf3ba59e63fe4b": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "5b5e7ced6cffcb6d": {
+   "imp": 0.24,
+   "ai": 0.07,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "345fa3dce4b65842": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
+  },
+  "d963ed53cffbb8be": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-19T12:37:24.282971+00:00"
   }
  }
 }
