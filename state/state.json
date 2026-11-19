@@ -1,16 +1,5 @@
 {
  "seen": {
-  "c012fc7ecd62b33e": "2026-11-12T09:07:23.451619+00:00",
-  "d13477ab212c3584": "2026-11-12T09:07:23.451619+00:00",
-  "e65b55186532f0c1": "2026-11-12T09:07:23.451619+00:00",
-  "f2eedb9640809931": "2026-11-12T09:07:23.451619+00:00",
-  "40ea709ea5eb9c6a": "2026-11-12T09:07:23.451619+00:00",
-  "0c23bb7b08e86679": "2026-11-12T09:07:23.451619+00:00",
-  "66f02c4912ffcc94": "2026-11-12T09:07:23.451619+00:00",
-  "8b2c0eaa180cd40d": "2026-11-12T09:07:23.451619+00:00",
-  "7489d310693409ae": "2026-11-12T09:07:23.451619+00:00",
-  "fcf89759274b7a0d": "2026-11-12T09:07:23.451619+00:00",
-  "cfb2bce945d5aca3": "2026-11-12T09:07:23.451619+00:00",
   "8a99c6899cab4276": "2026-11-12T09:37:22.304670+00:00",
   "25b3b93c9a97d705": "2026-11-12T09:37:22.304670+00:00",
   "72afcd8c10e8af04": "2026-11-12T09:37:22.304670+00:00",
@@ -1908,13 +1897,15 @@
   "5ce2be25f920ad27": "2026-11-19T08:37:26.861287+00:00",
   "d335a3c2600d085e": "2026-11-19T08:37:26.861287+00:00",
   "eb2431c8565ed21a": "2026-11-19T08:37:26.861287+00:00",
-  "56de1218e3455f64": "2026-11-19T08:37:26.861287+00:00"
+  "56de1218e3455f64": "2026-11-19T08:37:26.861287+00:00",
+  "f8f19df2493f100c": "2026-11-19T09:07:24.974402+00:00",
+  "cffa83add41d5d2f": "2026-11-19T09:07:24.974402+00:00",
+  "13485ae4006664fe": "2026-11-19T09:07:24.974402+00:00",
+  "ad8a9f6346609ba9": "2026-11-19T09:07:24.974402+00:00",
+  "b0e862b3b87c0a67": "2026-11-19T09:07:24.974402+00:00",
+  "6f06a2856d598e84": "2026-11-19T09:07:24.974402+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI appoints Pragya Misra to lead India and South Asia business",
-   "ts": "2026-11-17T09:07:46.687086+00:00"
-  },
   {
    "headline": "Karnataka launches six initiatives for AI and semiconductor development",
    "ts": "2026-11-17T09:37:24.524929+00:00"
@@ -2126,11 +2117,15 @@
   {
    "headline": "August AI raises 12 million dollars for healthcare assistant",
    "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  {
+   "headline": "Apple releases FastFrames-S and FastFrames-L video models",
+   "ts": "2026-11-19T09:07:24.974402+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3976,39 +3971,15 @@
    "desc": "Kling Image 4.0",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511179.html": {
+   "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+   "desc": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "6f06a2856d598e84",
-   "item": {
-    "id": "6f06a2856d598e84",
-    "title": "apple releases FastFrames-L on Hugging Face",
-    "url": "https://huggingface.co/apple/FastFrames-L",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model apple/FastFrames-L by apple. Task: text-to-video. Likes: 40. Model card: FastFrames: Video Generation at Interactive Latency This repository contains the official implementation of FastFrames: Video Generation at Interactive Latency . We release FastFrames-S (1.3B) and FastFrames-L (14B). Both are autoregressive, two-step video diffusion models that generate 480p video at interactive latency. We also release an optimized version of LingBot 1.3B that is 16x faster than the official model and allows fluid camera-conditioned control. - Latency profiling - Interactive demo with LingBot - T2V generation - VBench evaluation - Training - Citation Installation Linux x86-64 with an NVIDIA GPU and a CUDA 12.8-compatible driver. From the repository root: bash uv sync Download FastFrames and third-party weights using the checkpoint guide. Latency Profiling bash uv run python evaluation/latency/benchmark.py ff-s uv run python evaluation/latency/benchmark.py ff-l --gpus 8 Example component timings for FastFrames-S, 1 GPU, 480p , with a full KV cache. See the profiling guide for details and baselines. Interactive Demo with LingBot Complete the demo setup, then launch one of: bash CUDA VISIBLE DEVICES=0 uv run --extra lingbot --extra demo python apps/lingbot/demo.py --…",
-    "published": "2026-11-16T17:21:04+00:00",
-    "trend": 40,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/apple/FastFrames-L.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "routine",
-   "headline": "Apple releases FastFrames-S and FastFrames-L video models",
-   "post": "Apple released FastFrames-S and FastFrames-L, two autoregressive, two-step video diffusion models generating 480p video at interactive latency.",
-   "editor_note": "Check model parameter counts (1.3B for FastFrames-S and 14B for FastFrames-L) and hardware requirements.",
-   "support": 0.92,
-   "published_at": "2026-11-16T17:21:04+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-23T17:21:04+00:00",
-   "decision": 1.39,
-   "priority": 8.336708,
-   "selection_reason": "Editorial importance; waiting 31.5h"
-  },
   {
    "id": "0250765af6030c2e",
    "item": {
@@ -4034,8 +4005,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.263327,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 8.28067,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4062,8 +4033,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.140434,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 8.161245,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4103,8 +4074,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.954683,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.972026,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4132,8 +4103,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.630909,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.648252,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4160,8 +4131,37 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.622845,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.640188,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
+  },
+  {
+   "id": "db250979562e999a",
+   "item": {
+    "id": "db250979562e999a",
+    "title": "31位合伙人等间接入股DeepSeek",
+    "url": "https://36kr.com/newsflashes/4076432878474113?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，天眼查App显示，近日，DeepSeek关联公司杭州深度求索人工智能基础技术研究有限公司发生工商变更，新增杭州程砚企业管理咨询合伙企业（有限合伙）为股东，同时，注册资本由约1645万元人民币增至约1992万元人民币，增幅约21%。值得一提的是，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增吉利旗下浙江吉利产投控股有限公司、网易旗下杭州雷火万相科技有限责任公司、美的投资有限公司等31位合伙人。",
+    "published": "2026-11-19T08:41:57+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "31 corporate partners take indirect stake in DeepSeek",
+   "post": "DeepSeek's main operating entity increased its registered capital by 21% to 19.92 million yuan as a holding partnership added 31 partners, including affiliates of Geely, NetEase, and Midea.",
+   "editor_note": "Verify the exact equity percentage held by Hangzhou ChengYan in DeepSeek following the corporate filing update.",
+   "support": 0.84,
+   "published_at": "2026-11-19T08:41:57+00:00",
+   "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
+   "expires_at": "2026-11-20T20:41:57+00:00",
+   "decision": 1.84,
+   "priority": 7.601543,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4188,7 +4188,7 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.548327,
+   "priority": 7.56567,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4216,8 +4216,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.478561,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.495904,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4244,8 +4244,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.429654,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.41578,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4274,8 +4274,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.416832,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.411629,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4302,8 +4302,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.363535,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.349661,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4332,8 +4332,38 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.331917,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.328943,
+   "selection_reason": "Editorial importance; waiting 27.5h"
+  },
+  {
+   "id": "753f1faf81d05f31",
+   "item": {
+    "id": "753f1faf81d05f31",
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "url": "https://arxiv.org/abs/2611.21003",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Institute of Foundation Models releases K2-Horizon open models",
+   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
+   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.92,
+   "priority": 7.294962,
+   "selection_reason": "Editorial importance; waiting 50.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4375,38 +4405,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.305063,
-   "selection_reason": "Editorial importance; waiting 19.0h"
-  },
-  {
-   "id": "753f1faf81d05f31",
-   "item": {
-    "id": "753f1faf81d05f31",
-    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-    "url": "https://arxiv.org/abs/2611.21003",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Institute of Foundation Models releases K2-Horizon open models",
-   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
-   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.92,
-   "priority": 7.300165,
-   "selection_reason": "Editorial importance; waiting 49.5h"
+   "priority": 7.291188,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4433,8 +4433,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.204497,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.194092,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4461,8 +4461,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.165109,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.151235,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4490,8 +4490,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.119314,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.10544,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4519,8 +4519,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.103203,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.089329,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4549,8 +4549,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.086832,
-   "selection_reason": "Editorial importance; waiting 49.0h"
+   "priority": 7.081629,
+   "selection_reason": "Editorial importance; waiting 49.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4578,8 +4578,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.014777,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.000903,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4608,8 +4608,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 6.965111,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.993355,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4637,8 +4637,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.961166,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.947292,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4665,8 +4665,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 6.952524,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.93865,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4695,8 +4695,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.896832,
-   "selection_reason": "Editorial importance; waiting 65.5h"
+   "priority": 6.891629,
+   "selection_reason": "Editorial importance; waiting 66.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4723,8 +4723,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.623664,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.613258,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   }
  ],
  "details_queue": [],
@@ -4923,12 +4923,13 @@
   "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19": "2026-11-19T06:40:52.594902+00:00",
   "https://www.qbitai.com/2026/11/511071.html": "2026-11-19T07:37:49.136975+00:00",
   "https://deepmind.google/blog/genie-4-is-now-available": "2026-11-19T08:11:27.656449+00:00",
-  "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us": "2026-11-19T08:38:13.475769+00:00"
+  "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us": "2026-11-19T08:38:13.475769+00:00",
+  "https://huggingface.co/apple/FastFrames-L": "2026-11-19T09:09:54.364781+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
   "32933935200c2839": {
@@ -22965,6 +22966,71 @@
    "imp": 0.09,
    "ai": 0.02,
    "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "cffa83add41d5d2f": {
+   "imp": 1.29,
+   "ai": null,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "c5dada3180d6f9a2": {
+   "imp": 0.49,
+   "ai": 0.1,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "f8f19df2493f100c": {
+   "imp": 2.23,
+   "ai": 0.9,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "0b26d6c31cc5bb9f": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "ad8a9f6346609ba9": {
+   "imp": 1.34,
+   "ai": 0.96,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "92d434f9d3482e6d": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "b0e862b3b87c0a67": {
+   "imp": 1.59,
+   "ai": 0.93,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "09d1c221f98cb092": {
+   "imp": 0.45,
+   "ai": 0.11,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "db250979562e999a": {
+   "imp": 1.84,
+   "ai": 0.95,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "13485ae4006664fe": {
+   "imp": 1.34,
+   "ai": 0.82,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "840f8a376243392e": {
+   "imp": 0.69,
+   "ai": 0.37,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "b0fc4fdfa1e3e251": {
+   "imp": 0.69,
+   "ai": 0.3,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  "a6fc293878cbf881": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-19T09:07:24.974402+00:00"
   }
  }
 }
