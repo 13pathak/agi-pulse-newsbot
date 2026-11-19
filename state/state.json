@@ -1,19 +1,5 @@
 {
  "seen": {
-  "5ca4dc7b6d88cb31": "2026-11-12T10:07:27.209325+00:00",
-  "9198dc1328a39d8d": "2026-11-12T10:07:27.209325+00:00",
-  "c4aec7fa660f3f85": "2026-11-12T10:07:27.209325+00:00",
-  "7396b577c72532a7": "2026-11-12T10:07:27.209325+00:00",
-  "445fc6287a33b8c1": "2026-11-12T10:07:27.209325+00:00",
-  "b1cad9669f49012e": "2026-11-12T10:07:27.209325+00:00",
-  "227c554b75c881a1": "2026-11-12T10:07:27.209325+00:00",
-  "a180c04ab4e82784": "2026-11-12T10:07:27.209325+00:00",
-  "04a3bf12dd36deca": "2026-11-12T10:07:27.209325+00:00",
-  "d3eed08b58fd28f7": "2026-11-12T10:07:27.209325+00:00",
-  "3713080338819159": "2026-11-12T10:07:27.209325+00:00",
-  "ff62c4b9f599337f": "2026-11-12T10:07:27.209325+00:00",
-  "bff82217dc5b16a9": "2026-11-12T10:07:27.209325+00:00",
-  "f42c66e7d0fc9eca": "2026-11-12T10:07:27.209325+00:00",
   "0990939c7d6ea9f7": "2026-11-12T11:07:26.197438+00:00",
   "b06379671ede1f62": "2026-11-12T11:07:26.197438+00:00",
   "5020948fbbf836a6": "2026-11-12T11:07:26.197438+00:00",
@@ -1895,13 +1881,22 @@
   "13485ae4006664fe": "2026-11-19T09:07:24.974402+00:00",
   "ad8a9f6346609ba9": "2026-11-19T09:07:24.974402+00:00",
   "b0e862b3b87c0a67": "2026-11-19T09:07:24.974402+00:00",
-  "6f06a2856d598e84": "2026-11-19T09:07:24.974402+00:00"
+  "6f06a2856d598e84": "2026-11-19T09:07:24.974402+00:00",
+  "e5fa51b75c6dacaf": "2026-11-19T10:07:23.477122+00:00",
+  "7377e6f77e06d5d3": "2026-11-19T10:07:23.477122+00:00",
+  "7e1c15465762e1fd": "2026-11-19T10:07:23.477122+00:00",
+  "ab196dc93b9e80d3": "2026-11-19T10:07:23.477122+00:00",
+  "3f8a3cf0e05149eb": "2026-11-19T10:07:23.477122+00:00",
+  "f31f39c0e9078859": "2026-11-19T10:07:23.477122+00:00",
+  "a5203edeaa746295": "2026-11-19T10:07:23.477122+00:00",
+  "d21398f0a33fa2b7": "2026-11-19T10:07:23.477122+00:00",
+  "9c12441c042bf1a6": "2026-11-19T10:07:23.477122+00:00",
+  "9f990a9453793075": "2026-11-19T10:07:23.477122+00:00",
+  "858cedd0664ca22c": "2026-11-19T10:07:23.477122+00:00",
+  "30f6e1ce772cfb77": "2026-11-19T10:07:23.477122+00:00",
+  "0c778e96251b796f": "2026-11-19T10:07:23.477122+00:00"
  },
  "covered": [
-  {
-   "headline": "Accenture and Google Cloud expand AI education across Indian institutions",
-   "ts": "2026-11-17T10:07:22.889082+00:00"
-  },
   {
    "headline": "Sarvam AI launches Token Factory on Indian servers",
    "ts": "2026-11-17T11:07:23.266719+00:00"
@@ -2109,11 +2104,15 @@
   {
    "headline": "Apple releases FastFrames-S and FastFrames-L video models",
    "ts": "2026-11-19T09:07:24.974402+00:00"
+  },
+  {
+   "headline": "Moonshot AI cancels 150 million dollar Indonesia Nvidia chip deal",
+   "ts": "2026-11-19T10:07:23.477122+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3969,6 +3968,62 @@
  },
  "pending": [
   {
+   "id": "922cc9edad19e56f",
+   "item": {
+    "id": "922cc9edad19e56f",
+    "title": "Deutsche Telekom’s Tech Fund Invests $110 Million in Mistral AI",
+    "url": "https://www.wsj.com/business/deutsche-telekoms-tech-fund-invests-110-million-in-mistral-ai-13597573?mod=rss_Technology",
+    "source": "The Wall Street Journal",
+    "image": "https://images.wsj.net/im-89373662",
+    "snippet": "The company said the investment in the startup’s Series D funding round paved the way for a partnership to bring European AI to German enterprises and public institutions.",
+    "published": "2026-11-19T09:21:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Deutsche Telekom fund invests 110 million in Mistral AI",
+   "post": "Deutsche Telekom’s tech fund invested 110 million dollars in Mistral AI's Series D funding round to support enterprise and public institution deployments in Europe.",
+   "editor_note": "Check if any specific European public sector contracts were announced alongside the investment.",
+   "support": 0.78,
+   "published_at": "2026-11-19T09:21:00+00:00",
+   "first_seen_at": "2026-11-19T10:07:23.477122+00:00",
+   "expires_at": "2026-11-20T21:21:00+00:00",
+   "decision": 2.13,
+   "priority": 8.688523,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "0191361613981656",
+   "item": {
+    "id": "0191361613981656",
+    "title": "Zurich Insurance to Expand Hyderabad GCC With 1,000 Employees By 2028",
+    "url": "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795080742281-h1ucdb.webp",
+    "snippet": "Zurich Insurance Group plans to expand its India Capability Centre in Hyderabad to around 1,000 employees by mid-2028, as the insurer looks to strengthen its global technology and AI capabilities from India. The expansion will involve hiring across cloud engineering, data and AI, application development, and cybersecurity. Zurich also plans to give its Hyderabad teams greater end-to-end ownership …",
+    "published": "2026-11-19T09:56:22+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Zurich Insurance expands Hyderabad GCC with 1000 employees",
+   "post": "Zurich Insurance Group plans to expand its India Capability Centre in Hyderabad to about 1,000 employees by mid-2028, hiring across data, AI, cloud engineering, and cybersecurity.",
+   "editor_note": "Verify the targeted hiring timeline and role distribution mentioned by Zurich Insurance.",
+   "support": 0.97,
+   "published_at": "2026-11-19T09:56:22+00:00",
+   "first_seen_at": "2026-11-19T10:07:23.477122+00:00",
+   "expires_at": "2026-11-20T21:56:22+00:00",
+   "decision": 1.65,
+   "priority": 8.544896,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "0250765af6030c2e",
    "item": {
     "id": "0250765af6030c2e",
@@ -3993,8 +4048,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.298056,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 8.315378,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4021,8 +4076,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.182108,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 8.202895,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4062,8 +4117,50 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.989412,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 8.006734,
+   "selection_reason": "Editorial importance; waiting 7.0h"
+  },
+  {
+   "id": "3f6098aabd8eb664",
+   "item": {
+    "id": "3f6098aabd8eb664",
+    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
+    "published": "2026-11-18T01:09:18+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "e9b6576af8849a79",
+     "title": "三个月四轮，估值近百亿，浙大、阿里系具身大脑公司再获新融资｜硬氪首发",
+     "url": "https://36kr.com/p/4075109837149321?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身大脑企业「原力无限INFIFORCE」近日完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。 这是公司在三个月内完成的第四轮融资，此前，原力无限已接连完成近10亿元A轮、A+轮融资，10月获浙江省级国资平台浙创投近亿元投资。目前估值近百亿元。 本轮融资也是千亿国资对具身大脑方向的持续加码。独家投资方杭州资本拥有超1100亿元资产及超2400亿元基金合作规模，宇树科技、强脑科技、云深处科技等杭州明星硬科技企业背后，均有杭州资本的投资身影。 原力无限成立于2023年，公司聚焦通用具身智能大脑的研发。公司以隐式世界模型（Latent World Model）为核心技术路线，融合具身基础模型、持续学习、场景化后训练与脑身协同能力，构建了具身大脑AtomBrain、全栈具身数据运营及多形态机器人本体为核心的完整技术与产品体系。 原力无限具身本体矩阵（图源/企业） 原力无限创始团队由顶级科学家企业家组成。创始人兼CEO白惠源横跨浙大系、阿里系，是浙江省青年科学企业家十大，带领世界500强精英及70%以上硕博研发团队，专注于具身智能前沿技术的研发及商业化。 首席科学家陈佳玉现任香港大学助理教授、博士生导师。他本科就读于北京大学，先后在普渡大学取得博士学位、卡内基梅隆大学完成博士后研究，师从强化学习领域学者Vaneet Aggarwal与机器学习领域学者Jeff Schneider。长期聚焦强化学习、多模态大模型与具…",
+     "published": "2026-11-19T09:34:27+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Malaysia seeks details from Anthropic over influence campaign",
+   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
+   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
+   "support": 0.97,
+   "published_at": "2026-11-18T01:09:18+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:09:18+00:00",
+   "decision": 1.73,
+   "priority": 7.910884,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4091,8 +4188,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.665638,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.68296,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4119,8 +4216,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.657574,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.674896,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4148,8 +4245,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.618929,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.636251,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4176,8 +4273,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.583055,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.600377,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4204,8 +4301,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.51329,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.530612,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4234,8 +4331,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.406413,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.401217,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4262,36 +4359,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.401871,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.335752,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.388013,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4320,8 +4389,36 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.325963,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.322994,
+   "selection_reason": "Editorial importance; waiting 28.5h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.321894,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4350,8 +4447,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.289747,
-   "selection_reason": "Editorial importance; waiting 50.5h"
+   "priority": 7.28455,
+   "selection_reason": "Editorial importance; waiting 51.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4393,8 +4490,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.27728,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.263422,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4421,8 +4518,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.18366,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.173267,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4449,8 +4546,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.137326,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.123469,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4478,8 +4575,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.091531,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.077674,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4508,8 +4605,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.076413,
-   "selection_reason": "Editorial importance; waiting 50.0h"
+   "priority": 7.071217,
+   "selection_reason": "Editorial importance; waiting 50.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4537,8 +4634,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.07542,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.061563,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4567,8 +4664,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.021669,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.049879,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4596,8 +4693,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.986994,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 6.973137,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4625,36 +4722,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.933383,
-   "selection_reason": "Editorial importance; waiting 26.5h"
-  },
-  {
-   "id": "3f6098aabd8eb664",
-   "item": {
-    "id": "3f6098aabd8eb664",
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
-    "published": "2026-11-18T01:09:18+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Malaysia seeks details from Anthropic over influence campaign",
-   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
-   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
-   "support": 0.97,
-   "published_at": "2026-11-18T01:09:18+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:09:18+00:00",
-   "decision": 1.73,
-   "priority": 6.924741,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.919526,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4683,8 +4752,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.886413,
-   "selection_reason": "Editorial importance; waiting 66.5h"
+   "priority": 6.881217,
+   "selection_reason": "Editorial importance; waiting 67.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4711,8 +4780,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.602827,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.592434,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   }
  ],
  "details_queue": [],
@@ -4912,12 +4981,13 @@
   "https://www.qbitai.com/2026/11/511071.html": "2026-11-19T07:37:49.136975+00:00",
   "https://deepmind.google/blog/genie-4-is-now-available": "2026-11-19T08:11:27.656449+00:00",
   "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us": "2026-11-19T08:38:13.475769+00:00",
-  "https://huggingface.co/apple/FastFrames-L": "2026-11-19T09:09:54.364781+00:00"
+  "https://huggingface.co/apple/FastFrames-L": "2026-11-19T09:09:54.364781+00:00",
+  "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia": "2026-11-19T10:11:14.139180+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -23119,6 +23189,106 @@
    "imp": 0.2,
    "ai": 0.03,
    "ts": "2026-11-19T09:37:27.533315+00:00"
+  },
+  "7377e6f77e06d5d3": {
+   "imp": 2.34,
+   "ai": 0.95,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "e5fa51b75c6dacaf": {
+   "imp": 2.48,
+   "ai": 0.92,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "7e1c15465762e1fd": {
+   "imp": 1.46,
+   "ai": 0.93,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "9f990a9453793075": {
+   "imp": 0.9,
+   "ai": 0.93,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "d21398f0a33fa2b7": {
+   "imp": 1.02,
+   "ai": 0.94,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "0c778e96251b796f": {
+   "imp": 2.3,
+   "ai": 0.98,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "f31f39c0e9078859": {
+   "imp": 1.48,
+   "ai": 0.42,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "9c12441c042bf1a6": {
+   "imp": 1.44,
+   "ai": 0.91,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "5b9ed1d420ef2ece": {
+   "imp": 1.05,
+   "ai": 0.92,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "0191361613981656": {
+   "imp": 1.65,
+   "ai": 0.49,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "a5203edeaa746295": {
+   "imp": 1.46,
+   "ai": 0.94,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "3f8a3cf0e05149eb": {
+   "imp": 1.84,
+   "ai": 0.91,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "06679ca6f4088936": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "0f2d140aad96d7d0": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "acefe840f6dc75b9": {
+   "imp": 0.82,
+   "ai": 0.08,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "fa7c7039ffc6864c": {
+   "imp": 0.66,
+   "ai": 0.12,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "a4d8c47ec9e90123": {
+   "imp": 0.45,
+   "ai": 0.08,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "64f74b417f766b9f": {
+   "imp": 0.3,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "b2e9713a69a5fbfc": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "001502c4ddb68fdf": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-19T10:07:23.477122+00:00"
   }
  }
 }
