@@ -1886,7 +1886,9 @@
   "2fb16e90da33e6f3": "2026-11-19T13:07:37.274771+00:00",
   "8214829797b20206": "2026-11-19T13:07:37.274771+00:00",
   "7c83913719c6fafb": "2026-11-19T13:07:37.274771+00:00",
-  "9f55741bb31cb1de": "2026-11-19T13:07:37.274771+00:00"
+  "9f55741bb31cb1de": "2026-11-19T13:07:37.274771+00:00",
+  "3f6098aabd8eb664": "2026-11-19T13:37:25.966801+00:00",
+  "e9b6576af8849a79": "2026-11-19T13:37:25.966801+00:00"
  },
  "covered": [
   {
@@ -3988,7 +3990,7 @@
    "first_seen_at": "2026-11-19T13:07:37.274771+00:00",
    "expires_at": "2026-11-21T00:37:42+00:00",
    "decision": 2.14,
-   "priority": 8.699481,
+   "priority": 8.716733,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4016,8 +4018,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.328054,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 8.317743,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4057,50 +4059,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.111034,
-   "selection_reason": "Editorial importance; waiting 10.0h"
-  },
-  {
-   "id": "3f6098aabd8eb664",
-   "item": {
-    "id": "3f6098aabd8eb664",
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
-    "published": "2026-11-18T01:09:18+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "e9b6576af8849a79",
-     "title": "三个月四轮，估值近百亿，浙大、阿里系具身大脑公司再获新融资｜硬氪首发",
-     "url": "https://36kr.com/p/4075109837149321?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身大脑企业「原力无限INFIFORCE」近日完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。 这是公司在三个月内完成的第四轮融资，此前，原力无限已接连完成近10亿元A轮、A+轮融资，10月获浙江省级国资平台浙创投近亿元投资。目前估值近百亿元。 本轮融资也是千亿国资对具身大脑方向的持续加码。独家投资方杭州资本拥有超1100亿元资产及超2400亿元基金合作规模，宇树科技、强脑科技、云深处科技等杭州明星硬科技企业背后，均有杭州资本的投资身影。 原力无限成立于2023年，公司聚焦通用具身智能大脑的研发。公司以隐式世界模型（Latent World Model）为核心技术路线，融合具身基础模型、持续学习、场景化后训练与脑身协同能力，构建了具身大脑AtomBrain、全栈具身数据运营及多形态机器人本体为核心的完整技术与产品体系。 原力无限具身本体矩阵（图源/企业） 原力无限创始团队由顶级科学家企业家组成。创始人兼CEO白惠源横跨浙大系、阿里系，是浙江省青年科学企业家十大，带领世界500强精英及70%以上硕博研发团队，专注于具身智能前沿技术的研发及商业化。 首席科学家陈佳玉现任香港大学助理教授、博士生导师。他本科就读于北京大学，先后在普渡大学取得博士学位、卡内基梅隆大学完成博士后研究，师从强化学习领域学者Vaneet Aggarwal与机器学习领域学者Jeff Schneider。长期聚焦强化学习、多模态大模型与具…",
-     "published": "2026-11-19T09:34:27+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Malaysia seeks details from Anthropic over influence campaign",
-   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
-   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
-   "support": 0.97,
-   "published_at": "2026-11-18T01:09:18+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:09:18+00:00",
-   "decision": 1.73,
-   "priority": 7.827444,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 8.128286,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4128,8 +4088,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.787259,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.804511,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4156,8 +4116,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.779196,
-   "selection_reason": "Time-sensitive story; waiting 7.0h"
+   "priority": 7.796448,
+   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4185,8 +4145,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.740551,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.757803,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4213,8 +4173,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.704677,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.721929,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4280,8 +4240,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.622007,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.639259,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4309,8 +4269,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.597461,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.614713,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4339,8 +4299,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.369927,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 7.364751,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4369,8 +4329,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.305114,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 7.302156,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4397,8 +4357,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.304573,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.290772,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4427,65 +4387,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.25326,
-   "selection_reason": "Editorial importance; waiting 54.0h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.238455,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.22247,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.248085,
+   "selection_reason": "Editorial importance; waiting 54.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4514,8 +4417,65 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.219739,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.247835,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.239722,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.224653,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4557,8 +4517,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.179982,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.166181,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4585,8 +4545,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.134911,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.152163,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4613,36 +4573,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.110687,
-   "selection_reason": "Editorial importance; waiting 20.0h"
-  },
-  {
-   "id": "81a0f8f36b1d58e9",
-   "item": {
-    "id": "81a0f8f36b1d58e9",
-    "title": "AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans",
-    "url": "https://www.medianama.com/2026/11/223-ai-hackers-approved-loans-nbfc/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Delhi Police has revealed that they have \"detected traces of AI being used in these frauds\" and the incidents leading to Rs 65 cr loss in approved loans \"are largely attributable to weaknesses in the public-facing cyber systems of NBFCs\". The post AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans appeared first on MEDIANAMA .",
-    "published": "2026-11-18T09:31:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "AI-assisted hackers divert Rs 65 crore from NBFCs",
-   "post": "Delhi Police reports that AI-assisted cyberattacks on NBFC public-facing systems in Delhi-NCR diverted Rs 65 crore in approved loans.",
-   "editor_note": "Check exact police attribution and affected NBFC categories.",
-   "support": 0.92,
-   "published_at": "2026-11-18T09:31:41+00:00",
-   "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
-   "expires_at": "2026-11-19T21:31:41+00:00",
-   "decision": 1.67,
-   "priority": 7.040029,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.100336,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4671,8 +4603,36 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.039927,
-   "selection_reason": "Editorial importance; waiting 53.5h"
+   "priority": 7.034751,
+   "selection_reason": "Editorial importance; waiting 54.0h"
+  },
+  {
+   "id": "81a0f8f36b1d58e9",
+   "item": {
+    "id": "81a0f8f36b1d58e9",
+    "title": "AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans",
+    "url": "https://www.medianama.com/2026/11/223-ai-hackers-approved-loans-nbfc/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "Delhi Police has revealed that they have \"detected traces of AI being used in these frauds\" and the incidents leading to Rs 65 cr loss in approved loans \"are largely attributable to weaknesses in the public-facing cyber systems of NBFCs\". The post AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans appeared first on MEDIANAMA .",
+    "published": "2026-11-18T09:31:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "AI-assisted hackers divert Rs 65 crore from NBFCs",
+   "post": "Delhi Police reports that AI-assisted cyberattacks on NBFC public-facing systems in Delhi-NCR diverted Rs 65 crore in approved loans.",
+   "editor_note": "Check exact police attribution and affected NBFC categories.",
+   "support": 0.92,
+   "published_at": "2026-11-18T09:31:41+00:00",
+   "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
+   "expires_at": "2026-11-19T21:31:41+00:00",
+   "decision": 1.67,
+   "priority": 7.026227,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4700,8 +4660,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.994234,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.980432,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4729,8 +4689,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 6.978123,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.964321,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4758,8 +4718,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.889697,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.875895,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4788,8 +4748,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.849927,
-   "selection_reason": "Editorial importance; waiting 70.0h"
+   "priority": 6.844751,
+   "selection_reason": "Editorial importance; waiting 70.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4817,8 +4777,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.836086,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.822284,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   }
  ],
  "details_queue": [],
@@ -24047,6 +24007,61 @@
    "imp": 0.2,
    "ai": 0.05,
    "ts": "2026-11-19T13:07:37.274771+00:00"
+  },
+  "bb25daab1f924307": {
+   "imp": 1.67,
+   "ai": null,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "4e0b5e8dec9c3fbf": {
+   "imp": 2.63,
+   "ai": 0.96,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "2f7a2445c4288673": {
+   "imp": 1.74,
+   "ai": 0.83,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "0a06f28bc7e0cce4": {
+   "imp": 1.51,
+   "ai": 0.92,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "33cec2d3f6e4f18c": {
+   "imp": 2.42,
+   "ai": 0.97,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "855e7a0ae60b0637": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "05f50bf7cbe5947f": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "f25e5010c13ab62e": {
+   "imp": 0.86,
+   "ai": 0.18,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "35eee71e1e6f34c1": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "e0b5f0de35e5c2a1": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
+  },
+  "334166090f5705e1": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-19T13:37:25.966801+00:00"
   }
  }
 }
