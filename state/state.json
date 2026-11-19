@@ -1,16 +1,5 @@
 {
  "seen": {
-  "a92c103556a09803": "2026-11-12T03:37:23.593271+00:00",
-  "6743d8143271ac1f": "2026-11-12T03:37:23.593271+00:00",
-  "89c9dbd4f8dab2d7": "2026-11-12T03:37:23.593271+00:00",
-  "df5c4c0af68f09b1": "2026-11-12T03:37:23.593271+00:00",
-  "72ade767b5d745ef": "2026-11-12T03:37:23.593271+00:00",
-  "d8efcd876ca565e7": "2026-11-12T03:37:23.593271+00:00",
-  "f39534a5ad3e77af": "2026-11-12T03:37:23.593271+00:00",
-  "a62873c6243eea09": "2026-11-12T03:37:23.593271+00:00",
-  "f6f58e60468425b6": "2026-11-12T03:37:23.593271+00:00",
-  "1e19a4ec8fd3220a": "2026-11-12T03:37:23.593271+00:00",
-  "748ea9cdce3b226f": "2026-11-12T03:37:23.593271+00:00",
   "219c9a34cdd05da5": "2026-11-12T04:07:21.934969+00:00",
   "4277f675fcc1d68c": "2026-11-12T04:07:21.934969+00:00",
   "e9c081f62b4d7ad3": "2026-11-12T04:07:21.934969+00:00",
@@ -1916,13 +1905,16 @@
   "61a25aea71886a4b": "2026-11-19T03:07:24.283530+00:00",
   "bef803c735fed0d0": "2026-11-19T03:07:24.283530+00:00",
   "2f277485244a55e7": "2026-11-19T03:07:24.283530+00:00",
-  "dbd5dd4088cdd04a": "2026-11-19T03:07:24.283530+00:00"
+  "dbd5dd4088cdd04a": "2026-11-19T03:07:24.283530+00:00",
+  "66831b4cb9812f3b": "2026-11-19T03:37:23.586248+00:00",
+  "bd130a46a6ffcdca": "2026-11-19T03:37:23.586248+00:00",
+  "1f3557556ce86619": "2026-11-19T03:37:23.586248+00:00",
+  "afcb578f81e09653": "2026-11-19T03:37:23.586248+00:00",
+  "b898a1b2127c5756": "2026-11-19T03:37:23.586248+00:00",
+  "f66b9cb4f8f55a87": "2026-11-19T03:37:23.586248+00:00",
+  "335389d60da62f8b": "2026-11-19T03:37:23.586248+00:00"
  },
  "covered": [
-  {
-   "headline": "Chinese AI developers restrict offensive cyber capabilities",
-   "ts": "2026-11-17T03:37:22.449919+00:00"
-  },
   {
    "headline": "JohnAIC raises $1.9 million in pre-seed funding",
    "ts": "2026-11-17T04:37:23.333248+00:00"
@@ -2126,11 +2118,15 @@
   {
    "headline": "Meta AI agent accessed bank balances and private chats without consent",
    "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  {
+   "headline": "Google releases Gemini 4 Neon model with 1M context",
+   "ts": "2026-11-19T03:37:23.586248+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3949,62 +3945,15 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
    "published": "2026-11-18T18:53:43.959000+00:00",
    "excerpt": "Predicting end-to-end fine-tuning time on shared GPU clusters, from 272 production runs. A preview of our upcoming paper, Predicting End-to-End Fine-Tuning Time for Generative Language Models. The full version will be on arXiv soon. GPUs are among the most expensive and scarcest resources in AI today. Anyone running a shared cluster has to decide, every day, which jobs go on which GPUs and in what order. That plan is only as good as the estimate of how long each job will take. When a job finishes hours early, GPUs sit idle until the next one is dispatched. When it runs hours late, everything queued behind it slips, experiments wait and delivery dates move. Better duration estimates turn this into planning instead of guesswork: what runs, when, and on how many GPUs, with less idle capacity …"
+  },
+  "https://www.qbitai.com/2026/11/511071.html": {
+   "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+   "desc": "语言模型单张3090卡即可运行",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "b898a1b2127c5756",
-   "item": {
-    "id": "b898a1b2127c5756",
-    "title": "Introducing Gemini 4 Neon",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-    "source": "Google DeepMind",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-    "snippet": "Today, we’re introducing Gemini 4 Neon",
-    "published": "2026-11-18T21:35:43+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "f66b9cb4f8f55a87",
-     "title": "Google continues to accelerate its release cadence with Gemini 4 Neon",
-     "url": "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain",
-     "source": "Artificial Analysis",
-     "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ecbfb9b3786a82eaeb8f03824f74cc9a5d7c1f38-1254x1254.png?w=1200&auto=format",
-     "snippet": "Google continues to accelerate its release cadence with Gemini 4 Neon, delivering a small Intelligence gain over Gemini 4 Carbon at a ~17% lower Cost per Task",
-     "published": "2026-11-18T00:00:00+00:00",
-     "images": true,
-     "category": "research",
-     "source_cap": 3
-    },
-    {
-     "id": "335389d60da62f8b",
-     "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-     "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models. The article Google ships Gemini 4 Neon, its fourth new Gemini model in a month ap…",
-     "published": "2026-11-18T21:03:23+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 9,
-   "urgency": "timely",
-   "headline": "Google releases Gemini 4 Neon model with 1M context",
-   "post": "Google released Gemini 4 Neon, supporting a one-million-token context window with pricing set at $3 per million input tokens and $15 per million output tokens.",
-   "editor_note": "Confirm input and output token pricing tiers across Google Cloud documentation.",
-   "support": 0.79,
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
-   "expires_at": "2026-11-20T00:00:00+00:00",
-   "decision": 2.57,
-   "priority": 8.91633,
-   "selection_reason": "Editorial importance; waiting 2.0h"
-  },
   {
    "id": "48e619c8f030455c",
    "item": {
@@ -4030,8 +3979,8 @@
    "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
    "expires_at": "2026-11-20T14:13:49+00:00",
    "decision": 2.42,
-   "priority": 8.812974,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.830328,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "7c4fb2b7f4c11b62",
@@ -4072,8 +4021,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:10:13+00:00",
    "decision": 1.99,
-   "priority": 8.675023,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.692377,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "c9a3cb565c069e79",
@@ -4101,8 +4050,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T12:31:44+00:00",
    "decision": 1.78,
-   "priority": 8.645998,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.663352,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "daf003fd90447b3d",
@@ -4119,7 +4068,21 @@
     "language": "zh",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "36d10970375f73af",
+     "title": "“原力无限INFIFORCE”完成数千万元Pre-B轮融资",
+     "url": "https://36kr.com/newsflashes/4076104296420484?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "36氪获悉，具身大脑企业“原力无限INFIFORCE”近日完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。",
+     "published": "2026-11-19T03:24:34+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    }
+   ],
    "importance": 8,
    "urgency": "timely",
    "headline": "Infiforce raises tens of millions in Pre-B round",
@@ -4130,8 +4093,8 @@
    "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
    "expires_at": "2026-11-20T14:16:23+00:00",
    "decision": 1.78,
-   "priority": 8.600829,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.618183,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4158,8 +4121,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.57233,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.589684,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "eced480806a155a5",
@@ -4200,8 +4163,37 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:20:00+00:00",
    "decision": 1.59,
-   "priority": 8.546219,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.563573,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "6f3e4fa75823b031",
+   "item": {
+    "id": "6f3e4fa75823b031",
+    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+    "url": "https://www.qbitai.com/2026/11/511071.html",
+    "source": "QbitAI",
+    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+    "snippet": "语言模型单张3090卡即可运行",
+    "published": "2026-11-19T03:01:45+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Paradigm enters foundation model market with dual release",
+   "post": "Paradigm has entered the foundation model market, unveiling two models trained across domestic computing infrastructure. According to the company, its language model can run on a single RTX 3090 graphics card.",
+   "editor_note": "Verify exact model names and specific parameter counts from Paradigm's launch announcement before publishing.",
+   "support": 0.93,
+   "published_at": "2026-11-19T03:01:45+00:00",
+   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
+   "expires_at": "2026-11-20T15:01:45+00:00",
+   "decision": 1.58,
+   "priority": 8.510165,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4230,8 +4222,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.369451,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 8.366476,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4271,7 +4263,7 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.263686,
+   "priority": 8.28104,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4312,8 +4304,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.196087,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 8.216912,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4340,8 +4332,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.03999,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 8.026107,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4368,8 +4360,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 7.911237,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.932063,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4396,8 +4388,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 7.899249,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.885366,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4424,8 +4416,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.694083,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "priority": 7.714908,
+   "selection_reason": "Time-sensitive story; waiting 10.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4452,8 +4444,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.582452,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.568568,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4480,8 +4472,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.516333,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.502449,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4510,8 +4502,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.474131,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.468925,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4553,8 +4545,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.45786,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.443977,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4583,8 +4575,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.364659,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.361684,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4613,8 +4605,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.357464,
-   "selection_reason": "Editorial importance; waiting 44.0h"
+   "priority": 7.352258,
+   "selection_reason": "Editorial importance; waiting 44.5h"
+  },
+  {
+   "id": "bda9499345fe52b9",
+   "item": {
+    "id": "bda9499345fe52b9",
+    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
+    "published": "2026-11-18T23:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "CATL targets AI data centers as new growth engine",
+   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
+   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
+   "support": 0.9,
+   "published_at": "2026-11-18T23:00:01+00:00",
+   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
+   "expires_at": "2026-11-20T11:00:01+00:00",
+   "decision": 1.3,
+   "priority": 7.304918,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4641,8 +4661,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.317907,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.304023,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4670,8 +4690,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.272112,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.258229,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4699,8 +4719,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.256001,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.242117,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4728,8 +4748,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.167575,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.153691,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4758,8 +4778,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.144131,
-   "selection_reason": "Editorial importance; waiting 43.5h"
+   "priority": 7.138925,
+   "selection_reason": "Editorial importance; waiting 44.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4787,8 +4807,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.113964,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.10008,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4815,8 +4835,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.105322,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.091438,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4856,8 +4876,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 2.06,
-   "priority": 6.99837,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.984486,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4886,8 +4906,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.954131,
-   "selection_reason": "Editorial importance; waiting 60.0h"
+   "priority": 6.948925,
+   "selection_reason": "Editorial importance; waiting 60.5h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4914,8 +4934,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.774705,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 6.760821,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4942,8 +4962,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.738262,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.72785,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   }
  ],
  "details_queue": [],
@@ -5133,11 +5153,12 @@
   "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html": "2026-11-19T01:08:37.831990+00:00",
   "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=rss_Technology": "2026-11-19T01:41:46.246843+00:00",
   "https://www.theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno": "2026-11-19T02:39:29.846461+00:00",
-  "https://www.indiatoday.in/technology/story/meta-ai-agent-muse-accessed-bank-balances-read-private-chats-without-users-consent-3041816-2026-11-18": "2026-11-19T03:10:38.300010+00:00"
+  "https://www.indiatoday.in/technology/story/meta-ai-agent-muse-accessed-bank-balances-read-private-chats-without-users-consent-3041816-2026-11-18": "2026-11-19T03:10:38.300010+00:00",
+  "https://deepmind.google/blog/introducing-gemini-4-neon": "2026-11-19T03:37:57.511084+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
-  "count": 0,
+  "count": 1,
   "takes": 4
  },
  "triage": {
@@ -22315,6 +22336,51 @@
    "imp": 0.31,
    "ai": 0.08,
    "ts": "2026-11-19T03:07:24.283530+00:00"
+  },
+  "8c968ac80ae86645": {
+   "imp": 0.28,
+   "ai": 0.1,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "bd130a46a6ffcdca": {
+   "imp": 2.34,
+   "ai": 0.95,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "6f3e4fa75823b031": {
+   "imp": 1.58,
+   "ai": 0.98,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "f907b7e3969f0309": {
+   "imp": 0.26,
+   "ai": 0.07,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "36d10970375f73af": {
+   "imp": 1.41,
+   "ai": 0.96,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "5b9bc4cead120ccf": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "8b09c55cdff8b3db": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "727c1dc69ff97fda": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
+  },
+  "630b41be4a2bc539": {
+   "imp": 0.46,
+   "ai": 0.03,
+   "ts": "2026-11-19T03:37:23.586248+00:00"
   }
  }
 }
