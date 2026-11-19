@@ -1,12 +1,5 @@
 {
  "seen": {
-  "5f9630b848a97139": "2026-11-12T06:37:21.976127+00:00",
-  "a0e2f968ffdec205": "2026-11-12T06:37:21.976127+00:00",
-  "c2b4e8b4949878ea": "2026-11-12T06:37:21.976127+00:00",
-  "eeb1de5b96cdfcb8": "2026-11-12T06:37:21.976127+00:00",
-  "ece26333da3ea5ef": "2026-11-12T06:37:21.976127+00:00",
-  "a057aac1cbb4525e": "2026-11-12T06:37:21.976127+00:00",
-  "b4c2eec46d3aa272": "2026-11-12T06:37:21.976127+00:00",
   "75611a00ad611de2": "2026-11-12T07:07:22.870938+00:00",
   "1d8f4542dbde3935": "2026-11-12T07:07:22.870938+00:00",
   "52f7b416d924aebd": "2026-11-12T07:07:22.870938+00:00",
@@ -1921,13 +1914,12 @@
   "68858cad06c816e5": "2026-11-19T06:07:23.026772+00:00",
   "c97523b0c0b867f1": "2026-11-19T06:07:23.026772+00:00",
   "daf003fd90447b3d": "2026-11-19T06:07:23.026772+00:00",
-  "36d10970375f73af": "2026-11-19T06:07:23.026772+00:00"
+  "36d10970375f73af": "2026-11-19T06:07:23.026772+00:00",
+  "c3c7756f62d48d7a": "2026-11-19T06:37:26.587502+00:00",
+  "27a1dd641c14877b": "2026-11-19T06:37:26.587502+00:00",
+  "9ff7dce899f2ed3d": "2026-11-19T06:37:26.587502+00:00"
  },
  "covered": [
-  {
-   "headline": "Sarvam AI launches token factory platform in India",
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
   {
    "headline": "Google reports AI agents weaponizing software security patches",
    "ts": "2026-11-17T07:07:23.467199+00:00"
@@ -2135,11 +2127,15 @@
   {
    "headline": "Infiforce raises tens of millions in Pre-B round",
    "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  {
+   "headline": "Siemens launches Eigen Engineering Agent in India",
+   "ts": "2026-11-19T06:37:26.587502+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3983,34 +3979,6 @@
  },
  "pending": [
   {
-   "id": "9ff7dce899f2ed3d",
-   "item": {
-    "id": "9ff7dce899f2ed3d",
-    "title": "Siemens launches Eigen Engineering Agent in India, says it frees up humans for complex work",
-    "url": "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "Siemens launches Eigen Engineering Agent in India, says it frees up humans for complex work",
-    "published": "2026-11-19T05:14:53+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Siemens launches Eigen Engineering Agent in India",
-   "post": "Siemens launched the Eigen Engineering Agent in India, designed to handle routine tasks and free up human engineers for complex work.",
-   "editor_note": "Verify pricing, availability, and specific engineering sectors targeted in India.",
-   "support": 0.44,
-   "published_at": "2026-11-19T05:14:53+00:00",
-   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
-   "expires_at": "2026-11-20T17:14:53+00:00",
-   "decision": 2.04,
-   "priority": 8.686911,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "0250765af6030c2e",
    "item": {
     "id": "0250765af6030c2e",
@@ -4035,8 +4003,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.676484,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 8.69388,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "eced480806a155a5",
@@ -4077,8 +4045,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:20:00+00:00",
    "decision": 1.59,
-   "priority": 8.650373,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 8.667769,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "6f3e4fa75823b031",
@@ -4106,8 +4074,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T15:01:45+00:00",
    "decision": 1.58,
-   "priority": 8.596965,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.614361,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4136,8 +4104,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.351596,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 8.348613,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "50e3ea47cbae988d",
@@ -4177,8 +4145,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.321072,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 8.341947,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4205,8 +4173,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.036223,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 8.057097,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4246,8 +4214,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.867841,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.885236,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4274,8 +4242,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 7.815926,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.802009,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4302,8 +4270,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.536003,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.553398,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4330,8 +4298,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.499128,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.485212,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4360,8 +4328,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.442885,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.437666,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4388,8 +4356,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.433009,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.419093,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4416,8 +4384,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.391718,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.409114,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4459,8 +4427,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.374537,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.36062,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4489,8 +4457,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.346804,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.343822,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4519,8 +4487,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.326218,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 7.320999,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4547,8 +4515,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.256603,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.246166,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4575,8 +4543,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.234583,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.220667,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4604,8 +4572,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.188788,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.174872,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4633,8 +4601,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.172677,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.158761,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4663,8 +4631,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.112885,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 7.107666,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4692,8 +4660,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.084251,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.070335,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4721,8 +4689,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.03064,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.016724,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4749,8 +4717,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.021998,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.008082,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4779,8 +4747,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.922885,
-   "selection_reason": "Editorial importance; waiting 63.0h"
+   "priority": 6.917666,
+   "selection_reason": "Editorial importance; waiting 63.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4809,8 +4777,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 6.823682,
-   "selection_reason": "Editorial importance"
+   "priority": 6.852011,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4837,8 +4805,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.691381,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.677465,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4865,8 +4833,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.67577,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.665332,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   }
  ],
  "details_queue": [],
@@ -5061,12 +5029,13 @@
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents/articleshow/135975459.cms": "2026-11-19T04:10:59.394175+00:00",
   "https://36kr.com/newsflashes/4075950980699011?f=rss": "2026-11-19T04:39:21.152917+00:00",
   "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals": "2026-11-19T05:40:12.701725+00:00",
-  "https://36kr.com/newsflashes/4076053842154371?f=rss": "2026-11-19T06:09:23.609591+00:00"
+  "https://36kr.com/newsflashes/4076053842154371?f=rss": "2026-11-19T06:09:23.609591+00:00",
+  "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19": "2026-11-19T06:40:52.594902+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 1,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
   "32933935200c2839": {
@@ -22723,6 +22692,71 @@
    "imp": 0.25,
    "ai": 0.05,
    "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "27a1dd641c14877b": {
+   "imp": 2.62,
+   "ai": 0.98,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "c3c7756f62d48d7a": {
+   "imp": 1.45,
+   "ai": 0.94,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "cba0ef2a3ffff577": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "ddaa03d58cc77ef8": {
+   "imp": 0.83,
+   "ai": 0.2,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "564866e14a73ebba": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "00d9a3e26d32723b": {
+   "imp": 0.2,
+   "ai": 0.02,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "62b253ece883ba23": {
+   "imp": 0.39,
+   "ai": 0.07,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "6798f1de7c3304c5": {
+   "imp": 0.25,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "4b04198044354644": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "2719594fcd588436": {
+   "imp": 1.25,
+   "ai": 0.28,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "6ecda8138f2ad253": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "ea31d4617ce3ced3": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
+  },
+  "2bc4d99e3a59879c": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:37:26.587502+00:00"
   }
  }
 }
