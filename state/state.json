@@ -1,14 +1,5 @@
 {
  "seen": {
-  "bdffa6d5190d9013": "2026-11-12T05:07:23.365501+00:00",
-  "361603e33f9f2792": "2026-11-12T05:07:23.365501+00:00",
-  "6aeee95d2aed1f8c": "2026-11-12T05:07:23.365501+00:00",
-  "0da93c009cfa5cfc": "2026-11-12T05:07:23.365501+00:00",
-  "cb8f4eb403210bd9": "2026-11-12T05:07:23.365501+00:00",
-  "c6472d283700a641": "2026-11-12T05:07:23.365501+00:00",
-  "669c2fe832ea24b1": "2026-11-12T05:07:23.365501+00:00",
-  "72bf0a9d0e4936f7": "2026-11-12T05:07:23.365501+00:00",
-  "7f5fb0b6e890e321": "2026-11-12T05:07:23.365501+00:00",
   "af7403b4563990ca": "2026-11-12T05:37:23.867291+00:00",
   "c6f6800eebd05e24": "2026-11-12T05:37:23.867291+00:00",
   "9bf0d2825fbdbcc2": "2026-11-12T05:37:23.867291+00:00",
@@ -1916,13 +1907,18 @@
   "81405fe79076c7e4": "2026-11-19T04:37:24.559180+00:00",
   "218ba83ff3c9d062": "2026-11-19T04:37:24.559180+00:00",
   "c9a3cb565c069e79": "2026-11-19T04:37:24.559180+00:00",
-  "c22ce595b58ac758": "2026-11-19T04:37:24.559180+00:00"
+  "c22ce595b58ac758": "2026-11-19T04:37:24.559180+00:00",
+  "60a23906bf094682": "2026-11-19T05:07:25.470261+00:00",
+  "17cdf9b77b5af861": "2026-11-19T05:07:25.470261+00:00",
+  "e305a01a2ddf4f8b": "2026-11-19T05:07:25.470261+00:00",
+  "aae72e4c06797373": "2026-11-19T05:07:25.470261+00:00",
+  "9ae0f72ece6fbb1c": "2026-11-19T05:07:25.470261+00:00",
+  "a1e8ae78697ce353": "2026-11-19T05:07:25.470261+00:00",
+  "8554c29d7ce42b08": "2026-11-19T05:07:25.470261+00:00",
+  "7c4fb2b7f4c11b62": "2026-11-19T05:07:25.470261+00:00",
+  "9c29c37e3d768455": "2026-11-19T05:07:25.470261+00:00"
  },
  "covered": [
-  {
-   "headline": "Singapore seeks trusted access to US AI chips following curbs",
-   "ts": "2026-11-17T05:07:22.328481+00:00"
-  },
   {
    "headline": "Nvidia announces Rubin HPC GPU with over 50,000 CUDA cores",
    "ts": "2026-11-17T05:37:34.818659+00:00"
@@ -2130,11 +2126,15 @@
   {
    "headline": "OpenAI readies first consumer hardware device for year-end",
    "ts": "2026-11-19T04:37:24.559180+00:00"
+  },
+  {
+   "headline": "Anthropic raises $3 billion in Japan for public offering",
+   "ts": "2026-11-19T05:07:25.470261+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3959,51 +3959,15 @@
    "desc": "语言模型单张3090卡即可运行",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511079.html": {
+   "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+   "desc": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "7c4fb2b7f4c11b62",
-   "item": {
-    "id": "7c4fb2b7f4c11b62",
-    "title": "Anthropic IPO日本部分筹资30亿美元，居区间下限",
-    "url": "https://36kr.com/newsflashes/4075944035931012?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "根据监管文件，Anthropic PBC作为其首次公开募股（IPO）的一部分，从日本投资者处筹集了约30亿美元，处于其计划筹资区间的下限。日本是少数几个散户投资者能够直接参与此次IPO的市场之一。这也为日本资本市场提供了急需的支撑。数据显示，距离2026年结束仅剩约一个月时间，今年以日元计价的IPO筹资额目前低于2011年以来的任何完整年份。继今年6月埃隆·马斯克旗下的SpaceX进行IPO并同样吸引日本资金后，Anthropic也推出了日本发售计划。这类被称为“无上市公开发行”的交易，提升了瑞穗金融集团作为全球交易协调人的知名度。（新浪财经）",
-    "published": "2026-11-19T01:10:05+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "9c29c37e3d768455",
-     "title": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "Anthropic PBC raised about $3 billion from Japanese investors as part of its initial public offering, the lower end of its planned range, according to a regulatory filing on Thursday.",
-     "published": "2026-11-19T00:10:13+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Anthropic raises $3 billion in Japan for public offering",
-   "post": "Anthropic raised about $3 billion from Japanese investors as part of its initial public offering, placing it at the lower end of its planned fundraising range.",
-   "editor_note": "Verify the final amount raised in Japan and whether it sits strictly at the lower end of the targeted range.",
-   "support": 0.95,
-   "published_at": "2026-11-19T00:10:13+00:00",
-   "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
-   "expires_at": "2026-11-20T12:10:13+00:00",
-   "decision": 1.99,
-   "priority": 8.727109,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
   {
    "id": "daf003fd90447b3d",
    "item": {
@@ -4044,8 +4008,8 @@
    "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
    "expires_at": "2026-11-20T14:16:23+00:00",
    "decision": 1.78,
-   "priority": 8.652915,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.670284,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4072,8 +4036,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.624416,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.641786,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "eced480806a155a5",
@@ -4114,8 +4078,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:20:00+00:00",
    "decision": 1.59,
-   "priority": 8.598305,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.615675,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "6f3e4fa75823b031",
@@ -4143,8 +4107,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T15:01:45+00:00",
    "decision": 1.58,
-   "priority": 8.544897,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.562267,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4173,8 +4137,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.360522,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 8.357544,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4214,8 +4178,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.315772,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.333142,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "50e3ea47cbae988d",
@@ -4255,8 +4219,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.25859,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 8.279434,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4283,8 +4247,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 7.973741,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.994585,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4311,36 +4275,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 7.857581,
-   "selection_reason": "Editorial importance; waiting 26.0h"
-  },
-  {
-   "id": "8e6075d168e06821",
-   "item": {
-    "id": "8e6075d168e06821",
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-    "source": "Google AI Blog",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-    "published": "2026-11-18T17:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google brings Gemini app to lower-memory Android devices",
-   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
-   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
-   "support": 0.89,
-   "published_at": "2026-11-18T17:00:00+00:00",
-   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
-   "expires_at": "2026-11-20T17:00:00+00:00",
-   "decision": 0.84,
-   "priority": 7.756586,
-   "selection_reason": "Time-sensitive story; waiting 11.5h"
+   "priority": 7.843685,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4367,8 +4303,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.540783,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.526887,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4395,8 +4331,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.474664,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.460768,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4425,8 +4361,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.458505,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.453294,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4468,8 +4404,36 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.416192,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.402296,
+   "selection_reason": "Editorial importance; waiting 15.5h"
+  },
+  {
+   "id": "bda9499345fe52b9",
+   "item": {
+    "id": "bda9499345fe52b9",
+    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
+    "published": "2026-11-18T23:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "CATL targets AI data centers as new growth engine",
+   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
+   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
+   "support": 0.9,
+   "published_at": "2026-11-18T23:00:01+00:00",
+   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
+   "expires_at": "2026-11-20T11:00:01+00:00",
+   "decision": 1.3,
+   "priority": 7.35702,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4498,8 +4462,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.35573,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.352752,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4528,36 +4492,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.341839,
-   "selection_reason": "Editorial importance; waiting 45.5h"
+   "priority": 7.336628,
+   "selection_reason": "Editorial importance; waiting 46.0h"
   },
   {
-   "id": "bda9499345fe52b9",
+   "id": "8e6075d168e06821",
    "item": {
-    "id": "bda9499345fe52b9",
-    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
-    "published": "2026-11-18T23:00:01+00:00",
+    "id": "8e6075d168e06821",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "Google AI Blog",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "published": "2026-11-18T17:00:00+00:00",
     "images": true,
-    "category": "news",
-    "source_cap": 3
+    "category": "primary",
+    "source_cap": 4
    },
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "CATL targets AI data centers as new growth engine",
-   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
-   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
-   "support": 0.9,
-   "published_at": "2026-11-18T23:00:01+00:00",
-   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
-   "expires_at": "2026-11-20T11:00:01+00:00",
-   "decision": 1.3,
-   "priority": 7.33965,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "headline": "Google brings Gemini app to lower-memory Android devices",
+   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
+   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
+   "support": 0.89,
+   "published_at": "2026-11-18T17:00:00+00:00",
+   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
+   "expires_at": "2026-11-20T17:00:00+00:00",
+   "decision": 0.84,
+   "priority": 7.277422,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4584,8 +4548,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.276238,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.262342,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4613,8 +4577,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.230443,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.216547,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4642,8 +4606,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.214332,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.200436,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4672,8 +4636,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.128505,
-   "selection_reason": "Editorial importance; waiting 45.0h"
+   "priority": 7.123294,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4701,8 +4665,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.125906,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.11201,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4730,8 +4694,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.072295,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.058399,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4758,8 +4722,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.063653,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.049757,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4799,8 +4763,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 2.06,
-   "priority": 6.956701,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.942805,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4829,8 +4793,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.938505,
-   "selection_reason": "Editorial importance; waiting 61.5h"
+   "priority": 6.933294,
+   "selection_reason": "Editorial importance; waiting 62.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4857,8 +4821,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.733036,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.71914,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4885,8 +4849,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.707011,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.696589,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   }
  ],
  "details_queue": [],
@@ -22431,6 +22395,101 @@
    "imp": 0.07,
    "ai": 0.01,
    "ts": "2026-11-19T04:37:24.559180+00:00"
+  },
+  "aae72e4c06797373": {
+   "imp": 1.74,
+   "ai": null,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "8554c29d7ce42b08": {
+   "imp": 0.66,
+   "ai": 0.84,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "9ae0f72ece6fbb1c": {
+   "imp": 1.25,
+   "ai": 0.86,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "a1e8ae78697ce353": {
+   "imp": 2.08,
+   "ai": 0.95,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "17cdf9b77b5af861": {
+   "imp": 2.26,
+   "ai": 0.95,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "e7198e1f604a066e": {
+   "imp": 0.66,
+   "ai": 0.17,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "60a23906bf094682": {
+   "imp": 2.58,
+   "ai": 0.96,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "e305a01a2ddf4f8b": {
+   "imp": 2.16,
+   "ai": 0.88,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "354fc6d844cbf271": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "ed079ee255ff6ec6": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "6a190d45e675c2de": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "4b71f28321758ea2": {
+   "imp": 1.14,
+   "ai": 0.42,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "41889a873f0ef65f": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "ea0d9f8b3d00adde": {
+   "imp": 1.11,
+   "ai": 0.15,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "4ff4a6b0409f7321": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "dc53bedffff29840": {
+   "imp": 0.22,
+   "ai": 0.04,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "77fa517269b1e058": {
+   "imp": 0.23,
+   "ai": 0.05,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "876bf991a3401a71": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "f0cc393499d97212": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-19T05:07:25.470261+00:00"
   }
  }
 }
