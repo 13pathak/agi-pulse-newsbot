@@ -1878,10 +1878,6 @@
  },
  "covered": [
   {
-   "headline": "Isomorphic Labs raises 5 billion dollars in funding round",
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  {
    "headline": "Nvidia doubles quarterly revenue to over $115 billion",
    "ts": "2026-11-18T01:07:23.150510+00:00"
   },
@@ -3976,8 +3972,8 @@
    "first_seen_at": "2026-11-19T13:07:37.274771+00:00",
    "expires_at": "2026-11-21T00:37:42+00:00",
    "decision": 2.14,
-   "priority": 8.786177,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.803517,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "ba66cb81d653444d",
@@ -4004,8 +4000,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T02:05:43+00:00",
    "decision": 1.92,
-   "priority": 8.628813,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.646153,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "9db0edfc2ece3c1b",
@@ -4032,8 +4028,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T01:57:42+00:00",
    "decision": 1.79,
-   "priority": 8.581768,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.599109,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4060,8 +4056,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.276077,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 8.265673,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4101,8 +4097,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.166451,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 8.152579,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4130,8 +4126,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.873955,
-   "selection_reason": "Time-sensitive story; waiting 8.5h"
+   "priority": 7.891296,
+   "selection_reason": "Time-sensitive story; waiting 9.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4158,8 +4154,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.865892,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 7.883232,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4187,8 +4183,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.827247,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.844587,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4215,8 +4211,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.791373,
-   "selection_reason": "Time-sensitive story; waiting 7.0h"
+   "priority": 7.808714,
+   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4282,8 +4278,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.708703,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.726044,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4311,8 +4307,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.684157,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.701498,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4341,8 +4337,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.360929,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.38917,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4371,8 +4367,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.343918,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 7.338716,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4400,8 +4396,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.309166,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.326507,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4430,36 +4426,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.290251,
-   "selection_reason": "Editorial importance; waiting 34.0h"
-  },
-  {
-   "id": "5875bfe14d0e6f3d",
-   "item": {
-    "id": "5875bfe14d0e6f3d",
-    "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
-    "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question. The article OpenAI o…",
-    "published": "2026-11-18T14:36:42+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI provides independent auditors access to unreleased systems",
-   "post": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data.",
-   "editor_note": "Check terms of the audit agreement, particularly OpenAI's right to redact or delay reports.",
-   "support": 0.96,
-   "published_at": "2026-11-18T14:36:42+00:00",
-   "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
-   "expires_at": "2026-11-20T02:36:42+00:00",
-   "decision": 2.04,
-   "priority": 7.235217,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.287279,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4488,8 +4456,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.227251,
-   "selection_reason": "Editorial importance; waiting 56.5h"
+   "priority": 7.222049,
+   "selection_reason": "Editorial importance; waiting 57.0h"
+  },
+  {
+   "id": "5875bfe14d0e6f3d",
+   "item": {
+    "id": "5875bfe14d0e6f3d",
+    "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+    "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question. The article OpenAI o…",
+    "published": "2026-11-18T14:36:42+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI provides independent auditors access to unreleased systems",
+   "post": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data.",
+   "editor_note": "Check terms of the audit agreement, particularly OpenAI's right to redact or delay reports.",
+   "support": 0.96,
+   "published_at": "2026-11-18T14:36:42+00:00",
+   "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
+   "expires_at": "2026-11-20T02:36:42+00:00",
+   "decision": 2.04,
+   "priority": 7.221344,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4516,8 +4512,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.221567,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.207695,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4544,8 +4540,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.169098,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.155226,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4587,8 +4583,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.110626,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.096753,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4615,8 +4611,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.05867,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.048265,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4645,8 +4641,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.013918,
-   "selection_reason": "Editorial importance; waiting 56.0h"
+   "priority": 7.008716,
+   "selection_reason": "Editorial importance; waiting 56.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4673,8 +4669,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 6.970672,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.9568,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4702,8 +4698,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.924877,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.911005,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4731,8 +4727,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 6.908766,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.894894,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4761,8 +4757,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.823918,
-   "selection_reason": "Editorial importance; waiting 72.5h"
+   "priority": 6.818716,
+   "selection_reason": "Editorial importance; waiting 73.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4790,8 +4786,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.82034,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.806468,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4819,8 +4815,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.766729,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.752857,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   }
  ],
  "details_queue": [],
@@ -24345,6 +24341,76 @@
    "imp": 0.08,
    "ai": 0.04,
    "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "cd00fa8b48fb734d": {
+   "imp": 2.03,
+   "ai": 0.94,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "34bc4c9ed856f1a2": {
+   "imp": 1.73,
+   "ai": 0.96,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "b304a45f83846b81": {
+   "imp": 2.42,
+   "ai": 0.97,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "b9519f9777cfd8b4": {
+   "imp": 2.63,
+   "ai": 0.96,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "2a1647ac742a0e6f": {
+   "imp": 1.36,
+   "ai": 0.71,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "26cfb2b5bc2a9b03": {
+   "imp": 2.06,
+   "ai": 0.96,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "57e0afd476e7c800": {
+   "imp": 1.1,
+   "ai": null,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "872f5ce55dcb021c": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "3e06e6f191e1b6cb": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "f50496676daf68bf": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "111ddd40d7e8c465": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "f4edce1881203f2b": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "4845e03596beb5d1": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "fc88fc03c424fddd": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-19T16:07:23.772129+00:00"
   }
  }
 }
