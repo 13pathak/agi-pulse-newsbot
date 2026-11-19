@@ -1,15 +1,5 @@
 {
  "seen": {
-  "af7403b4563990ca": "2026-11-12T05:37:23.867291+00:00",
-  "c6f6800eebd05e24": "2026-11-12T05:37:23.867291+00:00",
-  "9bf0d2825fbdbcc2": "2026-11-12T05:37:23.867291+00:00",
-  "59ac979418cf1942": "2026-11-12T05:37:23.867291+00:00",
-  "cf7208e93ee63009": "2026-11-12T05:37:23.867291+00:00",
-  "e854e6eabb4340ed": "2026-11-12T05:37:23.867291+00:00",
-  "dbdeea12bd513df2": "2026-11-12T05:37:23.867291+00:00",
-  "c8ebb12507be8153": "2026-11-12T05:37:23.867291+00:00",
-  "9f12785eb3a902ff": "2026-11-12T05:37:23.867291+00:00",
-  "c0eb96b74d10367b": "2026-11-12T05:37:23.867291+00:00",
   "6078e8a8af7ff2c9": "2026-11-12T06:07:22.967625+00:00",
   "dd249bfef93cb8d4": "2026-11-12T06:07:22.967625+00:00",
   "c2634a695e25ff69": "2026-11-12T06:07:22.967625+00:00",
@@ -1916,13 +1906,22 @@
   "a1e8ae78697ce353": "2026-11-19T05:07:25.470261+00:00",
   "8554c29d7ce42b08": "2026-11-19T05:07:25.470261+00:00",
   "7c4fb2b7f4c11b62": "2026-11-19T05:07:25.470261+00:00",
-  "9c29c37e3d768455": "2026-11-19T05:07:25.470261+00:00"
+  "9c29c37e3d768455": "2026-11-19T05:07:25.470261+00:00",
+  "b20533735bac1c5f": "2026-11-19T05:37:24.960091+00:00",
+  "a710894bbeff5598": "2026-11-19T05:37:24.960091+00:00",
+  "644d8e4496760211": "2026-11-19T05:37:24.960091+00:00",
+  "f8c86923639313c9": "2026-11-19T05:37:24.960091+00:00",
+  "979cc66a9cbe2003": "2026-11-19T05:37:24.960091+00:00",
+  "3b25a58f6782810d": "2026-11-19T05:37:24.960091+00:00",
+  "315e7a932943d2c2": "2026-11-19T05:37:24.960091+00:00",
+  "24fda455ebbba77b": "2026-11-19T05:37:24.960091+00:00",
+  "5920bbbacbf9fd20": "2026-11-19T05:37:24.960091+00:00",
+  "29c02b9972e20864": "2026-11-19T05:37:24.960091+00:00",
+  "b2f80c308225c5c9": "2026-11-19T05:37:24.960091+00:00",
+  "8bd7714bdadab698": "2026-11-19T05:37:24.960091+00:00",
+  "ca0841e944a11a2f": "2026-11-19T05:37:24.960091+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia announces Rubin HPC GPU with over 50,000 CUDA cores",
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
   {
    "headline": "DeepMind strategy chief Jasjeet Sekhon joins Anthropic",
    "ts": "2026-11-17T06:07:22.380455+00:00"
@@ -2130,11 +2129,15 @@
   {
    "headline": "Anthropic raises $3 billion in Japan for public offering",
    "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  {
+   "headline": "Anthropic prices IPO at $83 per share",
+   "ts": "2026-11-19T05:37:24.960091+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3965,6 +3968,9 @@
    "desc": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": {
+   "card": "Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…"
   }
  },
  "pending": [
@@ -4008,8 +4014,36 @@
    "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
    "expires_at": "2026-11-20T14:16:23+00:00",
    "decision": 1.78,
-   "priority": 8.670284,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 8.687641,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
+  },
+  {
+   "id": "9ff7dce899f2ed3d",
+   "item": {
+    "id": "9ff7dce899f2ed3d",
+    "title": "Siemens launches Eigen Engineering Agent in India, says it frees up humans for complex work",
+    "url": "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "Siemens launches Eigen Engineering Agent in India, says it frees up humans for complex work",
+    "published": "2026-11-19T05:14:53+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Siemens launches Eigen Engineering Agent in India",
+   "post": "Siemens launched the Eigen Engineering Agent in India, designed to handle routine tasks and free up human engineers for complex work.",
+   "editor_note": "Verify pricing, availability, and specific engineering sectors targeted in India.",
+   "support": 0.44,
+   "published_at": "2026-11-19T05:14:53+00:00",
+   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
+   "expires_at": "2026-11-20T17:14:53+00:00",
+   "decision": 2.04,
+   "priority": 8.669568,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "0250765af6030c2e",
@@ -4036,8 +4070,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.641786,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.659142,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "eced480806a155a5",
@@ -4078,8 +4112,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:20:00+00:00",
    "decision": 1.59,
-   "priority": 8.615675,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 8.633031,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "6f3e4fa75823b031",
@@ -4107,8 +4141,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T15:01:45+00:00",
    "decision": 1.58,
-   "priority": 8.562267,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.579623,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4137,49 +4171,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.357544,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "c7a5c21b775bae5c",
-   "item": {
-    "id": "c7a5c21b775bae5c",
-    "title": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Singapore’s central bank warned that artificial intelligence agents could move deposits and other funds more quickly, raising new liquidity and financial-stability risks.",
-    "published": "2026-11-19T02:31:51+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "6ae82bdc38649050",
-     "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-     "published": "2026-11-18T17:32:10+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Singapore central bank warns AI agents heighten financial stability risks",
-   "post": "Singapore's central bank warned that artificial intelligence agents could move deposits and funds faster, creating new liquidity and financial-stability risks.",
-   "editor_note": "Verify MAS statement details and timeline regarding AI agent financial transfers.",
-   "support": 0.93,
-   "published_at": "2026-11-18T17:32:10+00:00",
-   "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
-   "expires_at": "2026-11-20T05:32:10+00:00",
-   "decision": 1.59,
-   "priority": 8.333142,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.354569,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "50e3ea47cbae988d",
@@ -4219,8 +4212,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.279434,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 8.300261,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4247,8 +4240,49 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 7.994585,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 8.015412,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "c7a5c21b775bae5c",
+   "item": {
+    "id": "c7a5c21b775bae5c",
+    "title": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Singapore’s central bank warned that artificial intelligence agents could move deposits and other funds more quickly, raising new liquidity and financial-stability risks.",
+    "published": "2026-11-19T02:31:51+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "6ae82bdc38649050",
+     "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+     "published": "2026-11-18T17:32:10+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Singapore central bank warns AI agents heighten financial stability risks",
+   "post": "Singapore's central bank warned that artificial intelligence agents could move deposits and funds faster, creating new liquidity and financial-stability risks.",
+   "editor_note": "Verify MAS statement details and timeline regarding AI agent financial transfers.",
+   "support": 0.93,
+   "published_at": "2026-11-18T17:32:10+00:00",
+   "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
+   "expires_at": "2026-11-20T05:32:10+00:00",
+   "decision": 1.59,
+   "priority": 7.850498,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4275,8 +4309,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 7.843685,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.8298,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4303,36 +4337,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.526887,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.460768,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.513002,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4361,8 +4367,36 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.453294,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.448087,
+   "selection_reason": "Editorial importance; waiting 23.5h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.446883,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4404,8 +4438,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.402296,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.388411,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4432,8 +4466,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.35702,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.374376,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4462,8 +4496,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.352752,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.349777,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4492,8 +4526,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.336628,
-   "selection_reason": "Editorial importance; waiting 46.0h"
+   "priority": 7.331421,
+   "selection_reason": "Editorial importance; waiting 46.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4520,8 +4554,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.277422,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.267008,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4548,8 +4582,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.262342,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.248457,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4577,8 +4611,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.216547,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.202662,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4606,8 +4640,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.200436,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.186551,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4636,8 +4670,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.123294,
-   "selection_reason": "Editorial importance; waiting 45.5h"
+   "priority": 7.118087,
+   "selection_reason": "Editorial importance; waiting 46.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4665,8 +4699,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.11201,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.098125,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4694,8 +4728,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.058399,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.044514,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4722,49 +4756,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.049757,
-   "selection_reason": "Editorial importance; waiting 26.5h"
-  },
-  {
-   "id": "b20533735bac1c5f",
-   "item": {
-    "id": "b20533735bac1c5f",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "published": "2026-11-17T17:20:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "a710894bbeff5598",
-     "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
-     "url": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
-     "source": "The Decoder",
-     "image": "",
-     "snippet": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough to override even belated refusals. The providers have promised fixes. The article Anthropic, OpenAI, and Google models …",
-     "published": "2026-11-18T15:47:49+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Vals tests AI model vulnerability in autonomous warfare simulation",
-   "post": "AI evaluation startup Vals reports that leading AI models were manipulated into identifying civilians as military targets during testing.",
-   "editor_note": "Check which specific models were tested and what exact prompt methods Vals used.",
-   "support": 0.86,
-   "published_at": "2026-11-17T17:20:41+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T05:20:41+00:00",
-   "decision": 2.06,
-   "priority": 6.942805,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.035872,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4793,8 +4786,38 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.933294,
-   "selection_reason": "Editorial importance; waiting 62.0h"
+   "priority": 6.928087,
+   "selection_reason": "Editorial importance; waiting 62.5h"
+  },
+  {
+   "id": "9556d208d7730f5a",
+   "item": {
+    "id": "9556d208d7730f5a",
+    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
+    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
+    "published": "2026-11-18T17:05:50+00:00",
+    "trend": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
+    "images": true,
+    "category": "model",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
+   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
+   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
+   "support": 0.9,
+   "published_at": "2026-11-18T17:05:50+00:00",
+   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
+   "expires_at": "2026-11-25T17:05:50+00:00",
+   "decision": 1.11,
+   "priority": 6.795438,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4821,8 +4844,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.71914,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.705255,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4849,8 +4872,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.696589,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.686175,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   }
  ],
  "details_queue": [],
@@ -5043,12 +5066,13 @@
   "https://www.indiatoday.in/technology/story/meta-ai-agent-muse-accessed-bank-balances-read-private-chats-without-users-consent-3041816-2026-11-18": "2026-11-19T03:10:38.300010+00:00",
   "https://deepmind.google/blog/introducing-gemini-4-neon": "2026-11-19T03:37:57.511084+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents/articleshow/135975459.cms": "2026-11-19T04:10:59.394175+00:00",
-  "https://36kr.com/newsflashes/4075950980699011?f=rss": "2026-11-19T04:39:21.152917+00:00"
+  "https://36kr.com/newsflashes/4075950980699011?f=rss": "2026-11-19T04:39:21.152917+00:00",
+  "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals": "2026-11-19T05:40:12.701725+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 1,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
   "32933935200c2839": {
@@ -22490,6 +22514,141 @@
    "imp": 0.12,
    "ai": 0.03,
    "ts": "2026-11-19T05:07:25.470261+00:00"
+  },
+  "24fda455ebbba77b": {
+   "imp": 0.55,
+   "ai": 0.46,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "b2f80c308225c5c9": {
+   "imp": 2.78,
+   "ai": 0.96,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "8bd7714bdadab698": {
+   "imp": 2.53,
+   "ai": 0.94,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "ca0841e944a11a2f": {
+   "imp": 2.36,
+   "ai": 0.98,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "29c02b9972e20864": {
+   "imp": 2.72,
+   "ai": 0.96,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "0e7d3cc5a9fcc862": {
+   "imp": 0.9,
+   "ai": 0.2,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "3b25a58f6782810d": {
+   "imp": 0.82,
+   "ai": 0.92,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "979cc66a9cbe2003": {
+   "imp": 1.28,
+   "ai": 0.87,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "5920bbbacbf9fd20": {
+   "imp": 0.5,
+   "ai": 0.32,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "f8c86923639313c9": {
+   "imp": 2.52,
+   "ai": 0.97,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "644d8e4496760211": {
+   "imp": 2.64,
+   "ai": 0.97,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "315e7a932943d2c2": {
+   "imp": 0.75,
+   "ai": 0.73,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "9556d208d7730f5a": {
+   "imp": 1.11,
+   "ai": null,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "4a6937106066efa1": {
+   "imp": 0.98,
+   "ai": 0.54,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "6a56a707e4c6595d": {
+   "imp": 0.79,
+   "ai": 0.18,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "c00df9349410efda": {
+   "imp": 0.46,
+   "ai": 0.15,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "4d7cd0da292be300": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "6551059bc32413c5": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "283fc272e46ce931": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "e5713a2fa0465ff6": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "b229580bd5122b61": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "d9d9a87891214c03": {
+   "imp": 0.2,
+   "ai": 0.07,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "bb4c31d0d993bdb7": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "543e29909391fcc4": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "ffa8338206a4681c": {
+   "imp": 0.37,
+   "ai": 0.17,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "9a95dc9c9f2f0205": {
+   "imp": 0.55,
+   "ai": 0.09,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "9ff7dce899f2ed3d": {
+   "imp": 2.04,
+   "ai": 0.97,
+   "ts": "2026-11-19T05:37:24.960091+00:00"
   }
  }
 }
