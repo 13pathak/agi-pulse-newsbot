@@ -1,15 +1,5 @@
 {
  "seen": {
-  "2640624f2eee2458": "2026-11-12T08:37:21.049070+00:00",
-  "e9757ddd973883a3": "2026-11-12T08:37:21.049070+00:00",
-  "4b85b1ef9bf7075e": "2026-11-12T08:37:21.049070+00:00",
-  "b07fbaeaad8e451b": "2026-11-12T08:37:21.049070+00:00",
-  "033b35aa0b013d8d": "2026-11-12T08:37:21.049070+00:00",
-  "dc521d62b20006cf": "2026-11-12T08:37:21.049070+00:00",
-  "c89df5952baf6c16": "2026-11-12T08:37:21.049070+00:00",
-  "0ce4b0e0eee0efb9": "2026-11-12T08:37:21.049070+00:00",
-  "3ca0598598bb3a40": "2026-11-12T08:37:21.049070+00:00",
-  "bca8b18b365a3783": "2026-11-12T08:37:21.049070+00:00",
   "c012fc7ecd62b33e": "2026-11-12T09:07:23.451619+00:00",
   "d13477ab212c3584": "2026-11-12T09:07:23.451619+00:00",
   "e65b55186532f0c1": "2026-11-12T09:07:23.451619+00:00",
@@ -1912,7 +1902,13 @@
   "5ff3427df281e03e": "2026-11-19T08:07:26.994967+00:00",
   "8d1318dddeb53ec9": "2026-11-19T08:07:26.994967+00:00",
   "50e3ea47cbae988d": "2026-11-19T08:07:26.994967+00:00",
-  "02cad8eaae446dc5": "2026-11-19T08:07:26.994967+00:00"
+  "02cad8eaae446dc5": "2026-11-19T08:07:26.994967+00:00",
+  "3c4fcc55a7d22c8b": "2026-11-19T08:37:26.861287+00:00",
+  "273d336d37591ea3": "2026-11-19T08:37:26.861287+00:00",
+  "5ce2be25f920ad27": "2026-11-19T08:37:26.861287+00:00",
+  "d335a3c2600d085e": "2026-11-19T08:37:26.861287+00:00",
+  "eb2431c8565ed21a": "2026-11-19T08:37:26.861287+00:00",
+  "56de1218e3455f64": "2026-11-19T08:37:26.861287+00:00"
  },
  "covered": [
   {
@@ -2126,11 +2122,15 @@
   {
    "headline": "Google launches Genie 4 world model for subscribers",
    "ts": "2026-11-19T08:07:26.994967+00:00"
+  },
+  {
+   "headline": "August AI raises 12 million dollars for healthcare assistant",
+   "ts": "2026-11-19T08:37:26.861287+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3970,6 +3970,12 @@
    "desc": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511092.html": {
+   "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+   "desc": "Kling Image 4.0",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4000,8 +4006,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.339684,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 8.336708,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4028,8 +4034,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.245967,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 8.263327,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4056,8 +4062,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.119602,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 8.140434,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4097,8 +4103,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.937323,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.954683,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4126,8 +4132,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.613549,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.630909,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4154,8 +4160,36 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.605486,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.622845,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
+  },
+  {
+   "id": "4bc4cadcc57b3185",
+   "item": {
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 7.548327,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4182,8 +4216,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.461201,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.478561,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4210,8 +4244,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.443542,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.429654,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4240,8 +4274,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.42204,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.416832,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4268,8 +4302,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.377423,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.363535,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4298,8 +4332,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.334893,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.331917,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4341,8 +4375,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.318951,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.305063,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4371,8 +4405,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.305373,
-   "selection_reason": "Editorial importance; waiting 49.0h"
+   "priority": 7.300165,
+   "selection_reason": "Editorial importance; waiting 49.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4399,8 +4433,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.214913,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.204497,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4427,8 +4461,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.178997,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.165109,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4456,8 +4490,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.133202,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.119314,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4485,8 +4519,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.117091,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.103203,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4515,8 +4549,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.09204,
-   "selection_reason": "Editorial importance; waiting 48.5h"
+   "priority": 7.086832,
+   "selection_reason": "Editorial importance; waiting 49.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4544,65 +4578,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.028665,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
-   "id": "9727643803e6dbd2",
-   "item": {
-    "id": "9727643803e6dbd2",
-    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
-    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
-    "published": "2026-11-18T06:44:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
-   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
-   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
-   "support": 0.29,
-   "published_at": "2026-11-18T06:44:46+00:00",
-   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
-   "expires_at": "2026-11-19T18:44:46+00:00",
-   "decision": 1.29,
-   "priority": 6.975054,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "3f6098aabd8eb664",
-   "item": {
-    "id": "3f6098aabd8eb664",
-    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
-    "published": "2026-11-18T01:09:18+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Malaysia seeks details from Anthropic over influence campaign",
-   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
-   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
-   "support": 0.97,
-   "published_at": "2026-11-18T01:09:18+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T13:09:18+00:00",
-   "decision": 1.73,
-   "priority": 6.966412,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.014777,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4631,8 +4608,65 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 6.936839,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.965111,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "9727643803e6dbd2",
+   "item": {
+    "id": "9727643803e6dbd2",
+    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
+    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
+    "published": "2026-11-18T06:44:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
+   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
+   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
+   "support": 0.29,
+   "published_at": "2026-11-18T06:44:46+00:00",
+   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
+   "expires_at": "2026-11-19T18:44:46+00:00",
+   "decision": 1.29,
+   "priority": 6.961166,
+   "selection_reason": "Editorial importance; waiting 25.5h"
+  },
+  {
+   "id": "3f6098aabd8eb664",
+   "item": {
+    "id": "3f6098aabd8eb664",
+    "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Malaysia is seeking further details from Anthropic PBC over the alleged use of its artificial intelligence models to power a political influence operation targeting voters in the country.",
+    "published": "2026-11-18T01:09:18+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Malaysia seeks details from Anthropic over influence campaign",
+   "post": "Malaysia is seeking details from Anthropic regarding the alleged use of its AI models in a political influence operation targeting voters.",
+   "editor_note": "Verify whether Anthropic has responded publicly to the Malaysian government inquiry.",
+   "support": 0.97,
+   "published_at": "2026-11-18T01:09:18+00:00",
+   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
+   "expires_at": "2026-11-19T13:09:18+00:00",
+   "decision": 1.73,
+   "priority": 6.952524,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4661,8 +4695,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.90204,
-   "selection_reason": "Editorial importance; waiting 65.0h"
+   "priority": 6.896832,
+   "selection_reason": "Editorial importance; waiting 65.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4689,8 +4723,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.63408,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.623664,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   }
  ],
  "details_queue": [],
@@ -4888,12 +4922,13 @@
   "https://36kr.com/newsflashes/4076053842154371?f=rss": "2026-11-19T06:09:23.609591+00:00",
   "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19": "2026-11-19T06:40:52.594902+00:00",
   "https://www.qbitai.com/2026/11/511071.html": "2026-11-19T07:37:49.136975+00:00",
-  "https://deepmind.google/blog/genie-4-is-now-available": "2026-11-19T08:11:27.656449+00:00"
+  "https://deepmind.google/blog/genie-4-is-now-available": "2026-11-19T08:11:27.656449+00:00",
+  "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us": "2026-11-19T08:38:13.475769+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -22850,6 +22885,86 @@
    "imp": 1.83,
    "ai": 0.5,
    "ts": "2026-11-19T08:07:26.994967+00:00"
+  },
+  "273d336d37591ea3": {
+   "imp": 1.55,
+   "ai": 0.97,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "c394c275dda9fd8b": {
+   "imp": 0.45,
+   "ai": 0.05,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "710bd80a52bae75f": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "eb2431c8565ed21a": {
+   "imp": 1.41,
+   "ai": 0.91,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "d335a3c2600d085e": {
+   "imp": 1.49,
+   "ai": 0.96,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "56de1218e3455f64": {
+   "imp": 1.93,
+   "ai": 0.96,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "5ce2be25f920ad27": {
+   "imp": 1.49,
+   "ai": 0.76,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "3c4fcc55a7d22c8b": {
+   "imp": 1.31,
+   "ai": null,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "4bc4cadcc57b3185": {
+   "imp": 1.66,
+   "ai": 0.95,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "e155c5f4bdb6e45a": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "abf0f4ede37d9217": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "14cb954778d12b54": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "112fb25995b7cd43": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "e9ffed6fe8bdca79": {
+   "imp": 0.23,
+   "ai": 0.09,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "b4e31afb0263056f": {
+   "imp": 0.36,
+   "ai": 0.06,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
+  },
+  "f01d412015c98696": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-19T08:37:26.861287+00:00"
   }
  }
 }
