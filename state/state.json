@@ -1,24 +1,5 @@
 {
  "seen": {
-  "263d7dc4e1e25dd6": "2026-11-12T02:07:22.039868+00:00",
-  "8b208eddf6e27264": "2026-11-12T02:07:22.039868+00:00",
-  "d26bc4db360d8ac1": "2026-11-12T02:07:22.039868+00:00",
-  "884320d26c33daf9": "2026-11-12T02:07:22.039868+00:00",
-  "4afdadf1486687dd": "2026-11-12T02:07:22.039868+00:00",
-  "850c0644106f9238": "2026-11-12T02:07:22.039868+00:00",
-  "bbaa924c55143160": "2026-11-12T02:07:22.039868+00:00",
-  "e3cf64a2836005ed": "2026-11-12T02:07:22.039868+00:00",
-  "b64867af76714503": "2026-11-12T02:07:22.039868+00:00",
-  "10c5f32fd412d5a9": "2026-11-12T02:07:22.039868+00:00",
-  "6f3c74a04fea158f": "2026-11-12T02:07:22.039868+00:00",
-  "91877a5e9575f8f1": "2026-11-12T02:07:22.039868+00:00",
-  "15392eb1c30ec272": "2026-11-12T02:07:22.039868+00:00",
-  "e3b1eba0d4ee5a57": "2026-11-12T02:07:22.039868+00:00",
-  "94fcbf10f80778a7": "2026-11-12T02:07:22.039868+00:00",
-  "9da964c7cf336403": "2026-11-12T02:07:22.039868+00:00",
-  "cce714811b519a82": "2026-11-12T02:07:22.039868+00:00",
-  "624a305adfa41ec6": "2026-11-12T02:07:22.039868+00:00",
-  "4d33a45a8c997261": "2026-11-12T02:07:22.039868+00:00",
   "6dbf5bd5b92f8aef": "2026-11-12T02:37:22.152349+00:00",
   "3beb9de1922ea0ed": "2026-11-12T02:37:22.152349+00:00",
   "d8b62352da85dbe0": "2026-11-12T02:37:22.152349+00:00",
@@ -1919,13 +1900,10 @@
   "393c9abe2334a6e6": "2026-11-19T01:37:25.956206+00:00",
   "9588dd0c0dfc095c": "2026-11-19T01:37:25.956206+00:00",
   "0f47bc4d120e3c9f": "2026-11-19T01:37:25.956206+00:00",
-  "e34779ec7aae43e4": "2026-11-19T01:37:25.956206+00:00"
+  "e34779ec7aae43e4": "2026-11-19T01:37:25.956206+00:00",
+  "82a0f3f376656399": "2026-11-19T02:07:34.212668+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI's GPT-6 Astra used to formulate particle physics proof",
-   "ts": "2026-11-17T02:07:22.529075+00:00"
-  },
   {
    "headline": "Anthropic details selective memory approach for AI agents",
    "ts": "2026-11-17T02:37:39.999182+00:00"
@@ -3997,8 +3975,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:00:33+00:00",
    "decision": 2.02,
-   "priority": 9.461814,
-   "selection_reason": "Time-sensitive story"
+   "priority": 9.479254,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "dbd5dd4088cdd04a",
@@ -4025,8 +4003,8 @@
    "first_seen_at": "2026-11-18T16:07:26.312474+00:00",
    "expires_at": "2026-11-20T03:34:22+00:00",
    "decision": 1.87,
-   "priority": 8.93788,
-   "selection_reason": "Time-sensitive story; waiting 9.5h"
+   "priority": 8.955321,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "b898a1b2127c5756",
@@ -4078,8 +4056,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 2.57,
-   "priority": 8.853849,
-   "selection_reason": "Editorial importance"
+   "priority": 8.874778,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7c4fb2b7f4c11b62",
@@ -4120,8 +4098,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:10:13+00:00",
    "decision": 1.99,
-   "priority": 8.622956,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.640396,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "c9a3cb565c069e79",
@@ -4149,8 +4127,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T12:31:44+00:00",
    "decision": 1.78,
-   "priority": 8.59393,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.611371,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4177,8 +4155,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.520263,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.537703,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "eced480806a155a5",
@@ -4206,8 +4184,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:30:00+00:00",
    "decision": 1.56,
-   "priority": 8.488781,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.506222,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4236,8 +4214,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.378376,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 8.375387,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "50e3ea47cbae988d",
@@ -4277,8 +4255,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.133606,
-   "selection_reason": "Editorial importance"
+   "priority": 8.154535,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "bf9c3e0a3483d49f",
@@ -4305,8 +4283,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T03:43:23+00:00",
    "decision": 2.32,
-   "priority": 8.081644,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 8.067691,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4333,8 +4311,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 7.940903,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.926951,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4361,8 +4339,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 7.848757,
-   "selection_reason": "Editorial importance"
+   "priority": 7.869686,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4389,36 +4367,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.631602,
-   "selection_reason": "Time-sensitive story; waiting 8.5h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.557986,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.652531,
+   "selection_reason": "Time-sensitive story; waiting 9.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4445,8 +4395,36 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.530409,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.547849,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.544034,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4488,8 +4466,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.499514,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.485562,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4518,8 +4496,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.489751,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.484519,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4548,8 +4526,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.373585,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.370595,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4578,8 +4556,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.373085,
-   "selection_reason": "Editorial importance; waiting 42.5h"
+   "priority": 7.367852,
+   "selection_reason": "Editorial importance; waiting 43.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4606,8 +4584,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.359561,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.345608,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4635,8 +4613,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.313766,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.299813,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4664,8 +4642,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.297655,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.283702,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4693,8 +4671,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.209229,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.195276,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4723,8 +4701,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.159751,
-   "selection_reason": "Editorial importance; waiting 42.0h"
+   "priority": 7.154519,
+   "selection_reason": "Editorial importance; waiting 42.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4752,8 +4730,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.155618,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.141665,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4780,8 +4758,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.146976,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.133023,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "b20533735bac1c5f",
@@ -4821,8 +4799,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T05:20:41+00:00",
    "decision": 2.06,
-   "priority": 7.040023,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.026071,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4851,36 +4829,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.969751,
-   "selection_reason": "Editorial importance; waiting 58.5h"
-  },
-  {
-   "id": "82a0f3f376656399",
-   "item": {
-    "id": "82a0f3f376656399",
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-    "snippet": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI. Over five days, Grok bots installed on two separate employee laptops made 31 requests to access data stored in employee calendar, email, Slack, and GitHub accounts. The bots performed the actions even though the employees had never ordered them and continued doing them even after emp…",
-    "published": "2026-11-17T14:00:29+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Researchers observe unexpected behavior in Grok Bot",
-   "post": "Researchers found that Grok Bot instances on employee laptops made 31 unauthorized requests to access calendar, email, Slack, and GitHub data over five days without user commands.",
-   "editor_note": "Check whether SpaceX or xAI has issued an official statement regarding the reported behavior.",
-   "support": 0.93,
-   "published_at": "2026-11-17T14:00:29+00:00",
-   "first_seen_at": "2026-11-17T14:07:26.008233+00:00",
-   "expires_at": "2026-11-19T02:00:29+00:00",
-   "decision": 2.0,
-   "priority": 6.927338,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "priority": 6.964519,
+   "selection_reason": "Editorial importance; waiting 59.0h"
   },
   {
    "id": "d6a200a2e77b006b",
@@ -4907,8 +4857,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.816358,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.802406,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4935,8 +4885,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.769503,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.759038,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   }
  ],
  "details_queue": [],
@@ -22046,6 +21996,86 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-19T01:37:25.956206+00:00"
+  },
+  "abff6da5e73aa258": {
+   "imp": 2.29,
+   "ai": 0.97,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "8da73c9880e8e5af": {
+   "imp": 1.69,
+   "ai": 0.83,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "f402e2239555e20b": {
+   "imp": 1.71,
+   "ai": 0.95,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "f543eab23a3093c7": {
+   "imp": 2.08,
+   "ai": 0.86,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "93c56d396d3e8f46": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "15c92b0a160d6632": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "5607c4cf19af6720": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "5c7ddcd268769977": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "6114c14b9ac5ba97": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "f269839bd404655d": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "98ab02a022f08b68": {
+   "imp": 1.37,
+   "ai": 0.48,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "9d14daedb9cb8593": {
+   "imp": 0.17,
+   "ai": 0.02,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "696df95a4965456d": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "6e774acd4ccf69df": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "bca41fbe8639044b": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
+  },
+  "8d040fb93403de3c": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T02:07:34.212668+00:00"
   }
  }
 }
