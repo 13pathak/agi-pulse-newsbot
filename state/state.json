@@ -1,13 +1,5 @@
 {
  "seen": {
-  "3665751ea4c5dd3c": "2026-11-12T07:37:21.776611+00:00",
-  "3c5e705605f8e475": "2026-11-12T07:37:21.776611+00:00",
-  "d5c0cd322e5723c8": "2026-11-12T07:37:21.776611+00:00",
-  "3f3672a949aaae1d": "2026-11-12T07:37:21.776611+00:00",
-  "7678ca90b97d9aef": "2026-11-12T07:37:21.776611+00:00",
-  "3d49771b404a762c": "2026-11-12T07:37:21.776611+00:00",
-  "8f8983da426379c1": "2026-11-12T07:37:21.776611+00:00",
-  "cf22e1aa93c0a3f1": "2026-11-12T07:37:21.776611+00:00",
   "f21422b2449f8882": "2026-11-12T08:07:21.544996+00:00",
   "77f66d3573894c03": "2026-11-12T08:07:21.544996+00:00",
   "8eecf18e838fad23": "2026-11-12T08:07:21.544996+00:00",
@@ -1915,13 +1907,17 @@
   "053666f7c23e1d91": "2026-11-19T07:07:22.128660+00:00",
   "9bc559f0dc193545": "2026-11-19T07:07:22.128660+00:00",
   "eced480806a155a5": "2026-11-19T07:07:22.128660+00:00",
-  "1b00c6c971d2a745": "2026-11-19T07:07:22.128660+00:00"
+  "1b00c6c971d2a745": "2026-11-19T07:07:22.128660+00:00",
+  "776157cf22e3ea27": "2026-11-19T07:37:25.120830+00:00",
+  "d6a200a2e77b006b": "2026-11-19T07:37:25.120830+00:00",
+  "cfab8334273a4f92": "2026-11-19T07:37:25.120830+00:00",
+  "d29f1ef205af416f": "2026-11-19T07:37:25.120830+00:00",
+  "ce61a181a54a7795": "2026-11-19T07:37:25.120830+00:00",
+  "f6fdf1dfa9f83895": "2026-11-19T07:37:25.120830+00:00",
+  "e4339b95eaca7255": "2026-11-19T07:37:25.120830+00:00",
+  "6f3e4fa75823b031": "2026-11-19T07:37:25.120830+00:00"
  },
  "covered": [
-  {
-   "headline": "CountAI raises Rs 10 crore in seed funding",
-   "ts": "2026-11-17T07:37:24.209227+00:00"
-  },
   {
    "headline": "Instagram updates AI recommendation systems in India",
    "ts": "2026-11-17T08:07:21.757559+00:00"
@@ -2129,11 +2125,15 @@
   {
    "headline": "Megha Technology raises nearly $200 million in new funding",
    "ts": "2026-11-19T07:07:22.128660+00:00"
+  },
+  {
+   "headline": "Paradigm enters foundation model market with dual release",
+   "ts": "2026-11-19T07:37:25.120830+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3977,35 +3977,6 @@
  },
  "pending": [
   {
-   "id": "6f3e4fa75823b031",
-   "item": {
-    "id": "6f3e4fa75823b031",
-    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
-    "url": "https://www.qbitai.com/2026/11/511071.html",
-    "source": "QbitAI",
-    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
-    "snippet": "语言模型单张3090卡即可运行",
-    "published": "2026-11-19T03:01:45+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Paradigm enters foundation model market with dual release",
-   "post": "Paradigm has entered the foundation model market, unveiling two models trained across domestic computing infrastructure. According to the company, its language model can run on a single RTX 3090 graphics card.",
-   "editor_note": "Verify exact model names and specific parameter counts from Paradigm's launch announcement before publishing.",
-   "support": 0.93,
-   "published_at": "2026-11-19T03:01:45+00:00",
-   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
-   "expires_at": "2026-11-20T15:01:45+00:00",
-   "decision": 1.58,
-   "priority": 8.631679,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
-  },
-  {
    "id": "50e3ea47cbae988d",
    "item": {
     "id": "50e3ea47cbae988d",
@@ -4043,8 +4014,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.362729,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 8.383597,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4073,8 +4044,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.345645,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 8.342663,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4101,8 +4072,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.211198,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 8.228588,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4129,8 +4100,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.077879,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 8.098747,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4170,36 +4141,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.902554,
-   "selection_reason": "Editorial importance; waiting 4.0h"
-  },
-  {
-   "id": "776157cf22e3ea27",
-   "item": {
-    "id": "776157cf22e3ea27",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "published": "2026-11-17T19:32:11+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Model ML raises $250M to automate investment banking",
-   "post": "Model ML has raised $250 million to develop AI agents that automate financial models and presentations for investment bankers and consultants.",
-   "editor_note": "Verify the round details and investors if disclosed in the full release.",
-   "support": 0.95,
-   "published_at": "2026-11-17T19:32:11+00:00",
-   "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
-   "expires_at": "2026-11-19T07:32:11+00:00",
-   "decision": 1.58,
-   "priority": 7.788155,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.919944,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4227,8 +4170,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.57878,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.59617,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4255,8 +4198,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.570716,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.588106,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4283,8 +4226,36 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.471357,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.457445,
+   "selection_reason": "Editorial importance; waiting 16.5h"
+  },
+  {
+   "id": "bda9499345fe52b9",
+   "item": {
+    "id": "bda9499345fe52b9",
+    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
+    "published": "2026-11-18T23:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "CATL targets AI data centers as new growth engine",
+   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
+   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
+   "support": 0.9,
+   "published_at": "2026-11-18T23:00:01+00:00",
+   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
+   "expires_at": "2026-11-20T11:00:01+00:00",
+   "decision": 1.3,
+   "priority": 7.443822,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4313,36 +4284,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.432471,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "bda9499345fe52b9",
-   "item": {
-    "id": "bda9499345fe52b9",
-    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
-    "published": "2026-11-18T23:00:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "CATL targets AI data centers as new growth engine",
-   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
-   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
-   "support": 0.9,
-   "published_at": "2026-11-18T23:00:01+00:00",
-   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
-   "expires_at": "2026-11-20T11:00:01+00:00",
-   "decision": 1.3,
-   "priority": 7.426432,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.427254,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4369,8 +4312,38 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.405238,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.391326,
+   "selection_reason": "Editorial importance; waiting 20.0h"
+  },
+  {
+   "id": "b4f1a99333cf7b25",
+   "item": {
+    "id": "b4f1a99333cf7b25",
+    "title": "tencent releases Hy4-flash on Hugging Face",
+    "url": "https://huggingface.co/tencent/Hy4-flash",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model tencent/Hy4-flash by tencent. Task: image-text-to-text. Likes: 38. Model card: 中文 ｜ English Official Website | GitHub | GGUF --- Table of Contents - Model Introduction - Pretrained model capability - Practicality and Cost Efficiency - Optimization Approach - Task Performance and Cost - User Blind Evaluation - Appendix: Benchmark results - News - Model Links - Quickstart - Transformers - OpenAI-compatible API - Deployment - DFly2 for Speculative Decoding - Quantization - Inference Frameworks - vLLM - SGLang - Finetuning - License - Contact Us Model Introduction Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens. Its 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long…",
+    "published": "2026-11-17T03:44:46+00:00",
+    "trend": 38,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/Hy4-flash.png",
+    "images": true,
+    "category": "model",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Tencent releases Hy4-flash multimodal mixture-of-experts model",
+   "post": "Tencent released Hy4-flash, a multimodal model with 220 billion total and 12 billion active parameters per token. The mixture-of-experts model accepts text and image inputs and supports a context window of up to 1 million tokens.",
+   "editor_note": "Verify the exact open-source license and commercial usage permissions specified in the Hugging Face model repository.",
+   "support": 0.96,
+   "published_at": "2026-11-17T03:44:46+00:00",
+   "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
+   "expires_at": "2026-11-24T03:44:46+00:00",
+   "decision": 1.19,
+   "priority": 7.337872,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4412,38 +4385,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.346766,
-   "selection_reason": "Editorial importance; waiting 17.5h"
-  },
-  {
-   "id": "b4f1a99333cf7b25",
-   "item": {
-    "id": "b4f1a99333cf7b25",
-    "title": "tencent releases Hy4-flash on Hugging Face",
-    "url": "https://huggingface.co/tencent/Hy4-flash",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model tencent/Hy4-flash by tencent. Task: image-text-to-text. Likes: 38. Model card: 中文 ｜ English Official Website | GitHub | GGUF --- Table of Contents - Model Introduction - Pretrained model capability - Practicality and Cost Efficiency - Optimization Approach - Task Performance and Cost - User Blind Evaluation - Appendix: Benchmark results - News - Model Links - Quickstart - Transformers - OpenAI-compatible API - Deployment - DFly2 for Speculative Decoding - Quantization - Inference Frameworks - vLLM - SGLang - Finetuning - License - Contact Us Model Introduction Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens. Its 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long…",
-    "published": "2026-11-17T03:44:46+00:00",
-    "trend": 38,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/Hy4-flash.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Tencent releases Hy4-flash multimodal mixture-of-experts model",
-   "post": "Tencent released Hy4-flash, a multimodal model with 220 billion total and 12 billion active parameters per token. The mixture-of-experts model accepts text and image inputs and supports a context window of up to 1 million tokens.",
-   "editor_note": "Verify the exact open-source license and commercial usage permissions specified in the Hugging Face model repository.",
-   "support": 0.96,
-   "published_at": "2026-11-17T03:44:46+00:00",
-   "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
-   "expires_at": "2026-11-24T03:44:46+00:00",
-   "decision": 1.19,
-   "priority": 7.340853,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.332854,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4472,8 +4415,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.315804,
-   "selection_reason": "Editorial importance; waiting 48.0h"
+   "priority": 7.310587,
+   "selection_reason": "Editorial importance; waiting 48.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4500,8 +4443,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.235775,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.225341,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4528,8 +4471,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.206812,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.1929,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4557,8 +4500,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.161018,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.147106,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4586,8 +4529,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.144906,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.130994,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4616,8 +4559,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.102471,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 7.097254,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4645,8 +4588,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.05648,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.042569,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4674,8 +4617,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.002869,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.988957,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4702,38 +4645,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 6.994227,
-   "selection_reason": "Editorial importance; waiting 28.5h"
-  },
-  {
-   "id": "c2855811f136cf3a",
-   "item": {
-    "id": "c2855811f136cf3a",
-    "title": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
-    "url": "https://arxiv.org/abs/2611.17831",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Upvotes: 21. Abstract: World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve those attributes rather than to read the clip, and the dynamics the encoder carries go unused: on the same items, a linear probe reads speed from frozen V-JEPA features at 87% while the VLM answers at chance. We show where dynamics lives in a frozen encoder: in a subspace shared across videos for predictive encoders such as V-JEPA, but not as a shared component of frame-wise, text-aligned encoders such as SigLIP. We then build counterfactual supervision that makes the language model read it: pixel transformations turn public videos into answer-balanced variants whose answers are set by the transformation and differ only in the change. Trained in a single stage on 4.53M public samples with 32 visual tokens per frame, where open video LLMs use several stages, 9M to 172M samples and 64 to 256 tokens per frame on average, the resulting V-JEPA-LM models (1B to 8B, Qwen3 and Llama) lead every size class in average score across eleven video benchmarks; our 4B model scores 72.1, against 61.1 for the best open 4B and 64.8 for the best open 8B model. A controlled encoder x supervision study shows that the encoder decides what can be read and the supervision what is read:…",
-    "published": "2026-11-16T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17831.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "New V-JEPA-LM video language models released by researchers",
-   "post": "New paper: Researchers developed V-JEPA-LM video-language models ranging from 1B to 8B parameters using counterfactual supervision, with a 4B model scoring 72.1 across eleven video benchmarks.",
-   "editor_note": "Verify benchmark names and performance comparisons listed in the Hugging Face paper abstract.",
-   "support": 0.92,
-   "published_at": "2026-11-16T00:00:00+00:00",
-   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
-   "expires_at": "2026-11-20T00:00:00+00:00",
-   "decision": 1.46,
-   "priority": 6.912471,
-   "selection_reason": "Editorial importance; waiting 64.0h"
+   "priority": 6.980315,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4762,36 +4675,38 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 6.880215,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.908536,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
-   "id": "d6a200a2e77b006b",
+   "id": "c2855811f136cf3a",
    "item": {
-    "id": "d6a200a2e77b006b",
-    "title": "Salesforce sets AI budgets after employees spent 'thousands of dollars per month on tokens,' memo says",
-    "url": "https://www.businessinsider.com/salesforce-sets-monthly-ai-token-budgets-up-to-1-000-2026-11",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6afc88fa68dc6b6660b83ba5?format=jpeg",
-    "snippet": "Salesforce is setting AI budgets for employees. Some spent thousands per month on tokens last quarter, according to an internal memo. Other companies have introduced similar spending limits to rein in climbing AI costs. Salesforce is setting AI budgets for employees after some spent thousands per month on tokens last quarter, according to an internal memo viewed by Business Insider. \"Starting this…",
-    "published": "2026-11-17T19:07:58+00:00",
+    "id": "c2855811f136cf3a",
+    "title": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
+    "url": "https://arxiv.org/abs/2611.17831",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Upvotes: 21. Abstract: World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve those attributes rather than to read the clip, and the dynamics the encoder carries go unused: on the same items, a linear probe reads speed from frozen V-JEPA features at 87% while the VLM answers at chance. We show where dynamics lives in a frozen encoder: in a subspace shared across videos for predictive encoders such as V-JEPA, but not as a shared component of frame-wise, text-aligned encoders such as SigLIP. We then build counterfactual supervision that makes the language model read it: pixel transformations turn public videos into answer-balanced variants whose answers are set by the transformation and differ only in the change. Trained in a single stage on 4.53M public samples with 32 visual tokens per frame, where open video LLMs use several stages, 9M to 172M samples and 64 to 256 tokens per frame on average, the resulting V-JEPA-LM models (1B to 8B, Qwen3 and Llama) lead every size class in average score across eleven video benchmarks; our 4B model scores 72.1, against 61.1 for the best open 4B and 64.8 for the best open 8B model. A controlled encoder x supervision study shows that the encoder decides what can be read and the supervision what is read:…",
+    "published": "2026-11-16T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17831.png",
     "images": true,
-    "category": "news",
-    "source_cap": 3
+    "category": "paper",
+    "source_cap": 4
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Salesforce sets token spending budgets for employees",
-   "post": "Salesforce has introduced internal AI spending budgets for employees following high token usage costs recorded during the previous quarter, according to an internal memo.",
-   "editor_note": "Confirm whether specific budget caps or employee spending limits were publicly detailed.",
-   "support": 0.93,
-   "published_at": "2026-11-17T19:07:58+00:00",
-   "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
-   "expires_at": "2026-11-19T07:07:58+00:00",
-   "decision": 1.24,
-   "priority": 6.66361,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "headline": "New V-JEPA-LM video language models released by researchers",
+   "post": "New paper: Researchers developed V-JEPA-LM video-language models ranging from 1B to 8B parameters using counterfactual supervision, with a 4B model scoring 72.1 across eleven video benchmarks.",
+   "editor_note": "Verify benchmark names and performance comparisons listed in the Hugging Face paper abstract.",
+   "support": 0.92,
+   "published_at": "2026-11-16T00:00:00+00:00",
+   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
+   "expires_at": "2026-11-20T00:00:00+00:00",
+   "decision": 1.46,
+   "priority": 6.907254,
+   "selection_reason": "Editorial importance; waiting 64.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4818,8 +4733,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.654941,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.644507,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   }
  ],
  "details_queue": [],
@@ -5015,12 +4930,13 @@
   "https://36kr.com/newsflashes/4075950980699011?f=rss": "2026-11-19T04:39:21.152917+00:00",
   "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals": "2026-11-19T05:40:12.701725+00:00",
   "https://36kr.com/newsflashes/4076053842154371?f=rss": "2026-11-19T06:09:23.609591+00:00",
-  "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19": "2026-11-19T06:40:52.594902+00:00"
+  "https://www.indiatoday.in/technology/news/story/siemens-launches-eigen-engineering-agent-in-india-says-it-frees-up-humans-for-complex-work-3042061-2026-11-19": "2026-11-19T06:40:52.594902+00:00",
+  "https://www.qbitai.com/2026/11/511071.html": "2026-11-19T07:37:49.136975+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 1,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
   "32933935200c2839": {
@@ -22852,6 +22768,86 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-19T07:07:22.128660+00:00"
+  },
+  "ce61a181a54a7795": {
+   "imp": 1.18,
+   "ai": 0.92,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "e4339b95eaca7255": {
+   "imp": 1.45,
+   "ai": 0.83,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "09e853f6669c912d": {
+   "imp": 0.48,
+   "ai": 0.09,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "d29f1ef205af416f": {
+   "imp": 2.19,
+   "ai": 0.98,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "f6fdf1dfa9f83895": {
+   "imp": 0.97,
+   "ai": 0.86,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "cfab8334273a4f92": {
+   "imp": 2.2,
+   "ai": 0.93,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "aedf28348253286b": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "59d085961e870874": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "4d76cfd0447ce36c": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "a029924a607b17ec": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "45be5e48a0127769": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "4a80d7f86eb5023f": {
+   "imp": 0.22,
+   "ai": 0.04,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "f48238b2a68c2230": {
+   "imp": 1.03,
+   "ai": 0.18,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "1551b6a6f671f83d": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "7a23d8ab7f0a6395": {
+   "imp": 0.32,
+   "ai": 0.07,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
+  },
+  "9e93fbc9108be3a3": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T07:37:25.120830+00:00"
   }
  }
 }
