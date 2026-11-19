@@ -3976,8 +3976,8 @@
    "first_seen_at": "2026-11-19T13:07:37.274771+00:00",
    "expires_at": "2026-11-21T00:37:42+00:00",
    "decision": 2.14,
-   "priority": 8.768803,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.786177,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "ba66cb81d653444d",
@@ -4004,8 +4004,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T02:05:43+00:00",
    "decision": 1.92,
-   "priority": 8.611439,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.628813,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "9db0edfc2ece3c1b",
@@ -4032,8 +4032,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T01:57:42+00:00",
    "decision": 1.79,
-   "priority": 8.564394,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.581768,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4060,8 +4060,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.286501,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 8.276077,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4101,8 +4101,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.180351,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 8.166451,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4130,8 +4130,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.856581,
-   "selection_reason": "Time-sensitive story; waiting 8.0h"
+   "priority": 7.873955,
+   "selection_reason": "Time-sensitive story; waiting 8.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4158,8 +4158,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.848518,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
+   "priority": 7.865892,
+   "selection_reason": "Time-sensitive story; waiting 9.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4187,8 +4187,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.809873,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.827247,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4215,8 +4215,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.773999,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.791373,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4282,8 +4282,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.691329,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.708703,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4311,38 +4311,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.666783,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
-   "id": "4920d00e28ac4511",
-   "item": {
-    "id": "4920d00e28ac4511",
-    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-    "url": "https://arxiv.org/abs/2611.22115",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
-    "published": "2026-11-18T00:00:00+00:00",
-    "upvotes": 84,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
-   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
-   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
-   "support": 0.97,
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
-   "expires_at": "2026-11-22T00:00:00+00:00",
-   "decision": 1.52,
-   "priority": 7.34913,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 7.684157,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4371,37 +4341,37 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.332634,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.360929,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
-   "id": "b4f1a99333cf7b25",
+   "id": "4920d00e28ac4511",
    "item": {
-    "id": "b4f1a99333cf7b25",
-    "title": "tencent releases Hy4-flash on Hugging Face",
-    "url": "https://huggingface.co/tencent/Hy4-flash",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model tencent/Hy4-flash by tencent. Task: image-text-to-text. Likes: 38. Model card: 中文 ｜ English Official Website | GitHub | GGUF --- Table of Contents - Model Introduction - Pretrained model capability - Practicality and Cost Efficiency - Optimization Approach - Task Performance and Cost - User Blind Evaluation - Appendix: Benchmark results - News - Model Links - Quickstart - Transformers - OpenAI-compatible API - Deployment - DFly2 for Speculative Decoding - Quantization - Inference Frameworks - vLLM - SGLang - Finetuning - License - Contact Us Model Introduction Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens. Its 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long…",
-    "published": "2026-11-17T03:44:46+00:00",
-    "trend": 38,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/Hy4-flash.png",
+    "id": "4920d00e28ac4511",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "url": "https://arxiv.org/abs/2611.22115",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
+    "published": "2026-11-18T00:00:00+00:00",
+    "upvotes": 84,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
     "images": true,
-    "category": "model",
+    "category": "paper",
     "source_cap": 4
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Tencent releases Hy4-flash multimodal mixture-of-experts model",
-   "post": "Tencent released Hy4-flash, a multimodal model with 220 billion total and 12 billion active parameters per token. The mixture-of-experts model accepts text and image inputs and supports a context window of up to 1 million tokens.",
-   "editor_note": "Verify the exact open-source license and commercial usage permissions specified in the Hugging Face model repository.",
-   "support": 0.96,
-   "published_at": "2026-11-17T03:44:46+00:00",
-   "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
-   "expires_at": "2026-11-24T03:44:46+00:00",
-   "decision": 1.19,
-   "priority": 7.29323,
+   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
+   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
+   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
+   "support": 0.97,
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
+   "expires_at": "2026-11-22T00:00:00+00:00",
+   "decision": 1.52,
+   "priority": 7.343918,
    "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
@@ -4430,8 +4400,38 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.291792,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.309166,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "b4f1a99333cf7b25",
+   "item": {
+    "id": "b4f1a99333cf7b25",
+    "title": "tencent releases Hy4-flash on Hugging Face",
+    "url": "https://huggingface.co/tencent/Hy4-flash",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model tencent/Hy4-flash by tencent. Task: image-text-to-text. Likes: 38. Model card: 中文 ｜ English Official Website | GitHub | GGUF --- Table of Contents - Model Introduction - Pretrained model capability - Practicality and Cost Efficiency - Optimization Approach - Task Performance and Cost - User Blind Evaluation - Appendix: Benchmark results - News - Model Links - Quickstart - Transformers - OpenAI-compatible API - Deployment - DFly2 for Speculative Decoding - Quantization - Inference Frameworks - vLLM - SGLang - Finetuning - License - Contact Us Model Introduction Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens. Its 42-layer language backbone consists of one dense feed-forward layer and 41 MoE layers, with identity Hyper-Connections (iHC) supporting inter-layer information flow. A vision encoder (adapted from SigLIP2-So400m-Patch16-Res512) is connected to the backbone through an MLP projector. In addition to the backbone, a built-in 5-layer drafter, DFly2 (0.85B parameters), reuses the target model's KV cache and sparse indices to support long…",
+    "published": "2026-11-17T03:44:46+00:00",
+    "trend": 38,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/Hy4-flash.png",
+    "images": true,
+    "category": "model",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Tencent releases Hy4-flash multimodal mixture-of-experts model",
+   "post": "Tencent released Hy4-flash, a multimodal model with 220 billion total and 12 billion active parameters per token. The mixture-of-experts model accepts text and image inputs and supports a context window of up to 1 million tokens.",
+   "editor_note": "Verify the exact open-source license and commercial usage permissions specified in the Hugging Face model repository.",
+   "support": 0.96,
+   "published_at": "2026-11-17T03:44:46+00:00",
+   "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
+   "expires_at": "2026-11-24T03:44:46+00:00",
+   "decision": 1.19,
+   "priority": 7.290251,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4458,8 +4458,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.249116,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.235217,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4488,8 +4488,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.232464,
-   "selection_reason": "Editorial importance; waiting 56.0h"
+   "priority": 7.227251,
+   "selection_reason": "Editorial importance; waiting 56.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4516,8 +4516,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.204233,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.221567,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4544,8 +4544,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.182997,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.169098,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4587,8 +4587,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.124525,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.110626,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4615,8 +4615,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.069094,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.05867,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4645,8 +4645,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.01913,
-   "selection_reason": "Editorial importance; waiting 55.5h"
+   "priority": 7.013918,
+   "selection_reason": "Editorial importance; waiting 56.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4673,8 +4673,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 6.984571,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.970672,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4702,8 +4702,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.938777,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.924877,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4731,37 +4731,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 6.922666,
-   "selection_reason": "Editorial importance; waiting 30.0h"
-  },
-  {
-   "id": "59f6c6e58008fe2a",
-   "item": {
-    "id": "59f6c6e58008fe2a",
-    "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
-    "url": "https://36kr.com/newsflashes/4075107954398343?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
-    "published": "2026-11-18T10:14:10+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Xingyun Technology signs AI token cross-border sales contract",
-   "post": "Xingyun Technology signed an AI token cross-border sales contract with New Silk Road Holding Group featuring a 2 billion yuan settlement cap and an initial 200 million yuan order.",
-   "editor_note": "Check contract duration and specific business application domains mentioned.",
-   "support": 0.97,
-   "published_at": "2026-11-18T10:14:10+00:00",
-   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
-   "expires_at": "2026-11-19T22:14:10+00:00",
-   "decision": 1.16,
-   "priority": 6.83424,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.908766,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4790,8 +4761,37 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.82913,
-   "selection_reason": "Editorial importance; waiting 72.0h"
+   "priority": 6.823918,
+   "selection_reason": "Editorial importance; waiting 72.5h"
+  },
+  {
+   "id": "59f6c6e58008fe2a",
+   "item": {
+    "id": "59f6c6e58008fe2a",
+    "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
+    "url": "https://36kr.com/newsflashes/4075107954398343?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
+    "published": "2026-11-18T10:14:10+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Xingyun Technology signs AI token cross-border sales contract",
+   "post": "Xingyun Technology signed an AI token cross-border sales contract with New Silk Road Holding Group featuring a 2 billion yuan settlement cap and an initial 200 million yuan order.",
+   "editor_note": "Check contract duration and specific business application domains mentioned.",
+   "support": 0.97,
+   "published_at": "2026-11-18T10:14:10+00:00",
+   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
+   "expires_at": "2026-11-19T22:14:10+00:00",
+   "decision": 1.16,
+   "priority": 6.82034,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4819,8 +4819,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.780629,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.766729,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   }
  ],
  "details_queue": [],
@@ -24305,6 +24305,46 @@
    "imp": 0.13,
    "ai": 0.04,
    "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "2600860578f34aa5": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "66879fb13a1615ed": {
+   "imp": 2.42,
+   "ai": 0.96,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "91f74e7b9ffb90c1": {
+   "imp": 2.46,
+   "ai": 0.95,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "8700fed2e12ef959": {
+   "imp": 1.86,
+   "ai": 0.86,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "7345045cb04082a9": {
+   "imp": 1.99,
+   "ai": 0.96,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "5d6a79711599a1ad": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "885e8d4d8a3d7c9a": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
+  },
+  "2955c9e0493af2fd": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-19T15:37:25.902216+00:00"
   }
  }
 }
