@@ -1,10 +1,5 @@
 {
  "seen": {
-  "6078e8a8af7ff2c9": "2026-11-12T06:07:22.967625+00:00",
-  "dd249bfef93cb8d4": "2026-11-12T06:07:22.967625+00:00",
-  "c2634a695e25ff69": "2026-11-12T06:07:22.967625+00:00",
-  "08ffdf2bdfafb60c": "2026-11-12T06:07:22.967625+00:00",
-  "b430cf8dee31787a": "2026-11-12T06:07:22.967625+00:00",
   "5f9630b848a97139": "2026-11-12T06:37:21.976127+00:00",
   "a0e2f968ffdec205": "2026-11-12T06:37:21.976127+00:00",
   "c2b4e8b4949878ea": "2026-11-12T06:37:21.976127+00:00",
@@ -1919,13 +1914,16 @@
   "29c02b9972e20864": "2026-11-19T05:37:24.960091+00:00",
   "b2f80c308225c5c9": "2026-11-19T05:37:24.960091+00:00",
   "8bd7714bdadab698": "2026-11-19T05:37:24.960091+00:00",
-  "ca0841e944a11a2f": "2026-11-19T05:37:24.960091+00:00"
+  "ca0841e944a11a2f": "2026-11-19T05:37:24.960091+00:00",
+  "2ff6443dd4315fd9": "2026-11-19T06:07:23.026772+00:00",
+  "f57a7cb9dae2e1cc": "2026-11-19T06:07:23.026772+00:00",
+  "2b7cd1ebb74256da": "2026-11-19T06:07:23.026772+00:00",
+  "68858cad06c816e5": "2026-11-19T06:07:23.026772+00:00",
+  "c97523b0c0b867f1": "2026-11-19T06:07:23.026772+00:00",
+  "daf003fd90447b3d": "2026-11-19T06:07:23.026772+00:00",
+  "36d10970375f73af": "2026-11-19T06:07:23.026772+00:00"
  },
  "covered": [
-  {
-   "headline": "DeepMind strategy chief Jasjeet Sekhon joins Anthropic",
-   "ts": "2026-11-17T06:07:22.380455+00:00"
-  },
   {
    "headline": "Sarvam AI launches token factory platform in India",
    "ts": "2026-11-17T06:37:26.459931+00:00"
@@ -2133,11 +2131,15 @@
   {
    "headline": "Anthropic prices IPO at $83 per share",
    "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  {
+   "headline": "Infiforce raises tens of millions in Pre-B round",
+   "ts": "2026-11-19T06:07:23.026772+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3971,52 +3973,15 @@
   },
   "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": {
    "card": "Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…"
+  },
+  "https://www.qbitai.com/2026/11/511088.html": {
+   "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+   "desc": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "daf003fd90447b3d",
-   "item": {
-    "id": "daf003fd90447b3d",
-    "title": "具身大脑企业“原力无限INFIFORCE”完成数千万元Pre-B轮融资",
-    "url": "https://36kr.com/newsflashes/4076053842154371?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "近日，具身大脑企业“原力无限INFIFORCE”完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。这是公司在三个月内完成的第四轮融资，此前，原力无限已接连完成近10亿元A轮、A+轮融资，10月获浙江省级国资平台浙创投近亿元投资。目前估值近百亿元。",
-    "published": "2026-11-19T02:16:23+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "36d10970375f73af",
-     "title": "“原力无限INFIFORCE”完成数千万元Pre-B轮融资",
-     "url": "https://36kr.com/newsflashes/4076104296420484?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "36氪获悉，具身大脑企业“原力无限INFIFORCE”近日完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。",
-     "published": "2026-11-19T03:24:34+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Infiforce raises tens of millions in Pre-B round",
-   "post": "Embodied AI startup Infiforce raised tens of millions of yuan in a Pre-B funding round exclusively from Hangzhou Capital to fund AtomBrain R&D and commercial deployment.",
-   "editor_note": "Verify the exact funding amount in yuan and the valuation context if available from the source.",
-   "support": 0.96,
-   "published_at": "2026-11-19T02:16:23+00:00",
-   "first_seen_at": "2026-11-19T02:37:31.986009+00:00",
-   "expires_at": "2026-11-20T14:16:23+00:00",
-   "decision": 1.78,
-   "priority": 8.687641,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
   {
    "id": "9ff7dce899f2ed3d",
    "item": {
@@ -4042,7 +4007,7 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-20T17:14:53+00:00",
    "decision": 2.04,
-   "priority": 8.669568,
+   "priority": 8.686911,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4070,8 +4035,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.659142,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 8.676484,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "eced480806a155a5",
@@ -4112,8 +4077,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T12:20:00+00:00",
    "decision": 1.59,
-   "priority": 8.633031,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 8.650373,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "6f3e4fa75823b031",
@@ -4141,8 +4106,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T15:01:45+00:00",
    "decision": 1.58,
-   "priority": 8.579623,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.596965,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "6f06a2856d598e84",
@@ -4171,8 +4136,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-23T17:21:04+00:00",
    "decision": 1.39,
-   "priority": 8.354569,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 8.351596,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "50e3ea47cbae988d",
@@ -4212,8 +4177,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T18:13:42+00:00",
    "decision": 2.27,
-   "priority": 8.300261,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 8.321072,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4240,8 +4205,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.015412,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 8.036223,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4281,8 +4246,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.850498,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.867841,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "776157cf22e3ea27",
@@ -4309,8 +4274,36 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T07:32:11+00:00",
    "decision": 1.58,
-   "priority": 7.8298,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.815926,
+   "selection_reason": "Editorial importance; waiting 27.5h"
+  },
+  {
+   "id": "ec384d5ce78d49c6",
+   "item": {
+    "id": "ec384d5ce78d49c6",
+    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
+    "published": "2026-11-19T05:22:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "South Korea watchdog asks firms to report AI exposure",
+   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
+   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
+   "support": 0.96,
+   "published_at": "2026-11-19T05:22:45+00:00",
+   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
+   "expires_at": "2026-11-20T17:22:45+00:00",
+   "decision": 1.67,
+   "priority": 7.536003,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4337,8 +4330,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.513002,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.499128,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4367,8 +4360,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.448087,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.442885,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4395,8 +4388,36 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.446883,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.433009,
+   "selection_reason": "Editorial importance; waiting 18.5h"
+  },
+  {
+   "id": "bda9499345fe52b9",
+   "item": {
+    "id": "bda9499345fe52b9",
+    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
+    "published": "2026-11-18T23:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "CATL targets AI data centers as new growth engine",
+   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
+   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
+   "support": 0.9,
+   "published_at": "2026-11-18T23:00:01+00:00",
+   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
+   "expires_at": "2026-11-20T11:00:01+00:00",
+   "decision": 1.3,
+   "priority": 7.391718,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4438,36 +4459,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.388411,
-   "selection_reason": "Editorial importance; waiting 16.0h"
-  },
-  {
-   "id": "bda9499345fe52b9",
-   "item": {
-    "id": "bda9499345fe52b9",
-    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
-    "published": "2026-11-18T23:00:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "CATL targets AI data centers as new growth engine",
-   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
-   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
-   "support": 0.9,
-   "published_at": "2026-11-18T23:00:01+00:00",
-   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
-   "expires_at": "2026-11-20T11:00:01+00:00",
-   "decision": 1.3,
-   "priority": 7.374376,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.374537,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4496,8 +4489,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.349777,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.346804,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4526,8 +4519,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.331421,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 7.326218,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4554,8 +4547,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.267008,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.256603,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4582,8 +4575,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.248457,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.234583,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4611,8 +4604,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.202662,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.188788,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4640,8 +4633,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.186551,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.172677,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4670,8 +4663,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.118087,
-   "selection_reason": "Editorial importance; waiting 46.0h"
+   "priority": 7.112885,
+   "selection_reason": "Editorial importance; waiting 46.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4699,8 +4692,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 7.098125,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.084251,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4728,8 +4721,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 7.044514,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.03064,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4756,8 +4749,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.035872,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.021998,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4786,8 +4779,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.928087,
-   "selection_reason": "Editorial importance; waiting 62.5h"
+   "priority": 6.922885,
+   "selection_reason": "Editorial importance; waiting 63.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4816,7 +4809,7 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 6.795438,
+   "priority": 6.823682,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4844,8 +4837,8 @@
    "first_seen_at": "2026-11-18T02:07:29.124189+00:00",
    "expires_at": "2026-11-19T07:07:58+00:00",
    "decision": 1.24,
-   "priority": 6.705255,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.691381,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4872,8 +4865,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.686175,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.67577,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   }
  ],
  "details_queue": [],
@@ -5067,12 +5060,13 @@
   "https://deepmind.google/blog/introducing-gemini-4-neon": "2026-11-19T03:37:57.511084+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents/articleshow/135975459.cms": "2026-11-19T04:10:59.394175+00:00",
   "https://36kr.com/newsflashes/4075950980699011?f=rss": "2026-11-19T04:39:21.152917+00:00",
-  "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals": "2026-11-19T05:40:12.701725+00:00"
+  "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals": "2026-11-19T05:40:12.701725+00:00",
+  "https://36kr.com/newsflashes/4076053842154371?f=rss": "2026-11-19T06:09:23.609591+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 1,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
   "32933935200c2839": {
@@ -22649,6 +22643,86 @@
    "imp": 2.04,
    "ai": 0.97,
    "ts": "2026-11-19T05:37:24.960091+00:00"
+  },
+  "2b7cd1ebb74256da": {
+   "imp": 0.75,
+   "ai": null,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "ec384d5ce78d49c6": {
+   "imp": 1.67,
+   "ai": 0.89,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "68858cad06c816e5": {
+   "imp": 0.85,
+   "ai": 0.59,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "2cacdc7eea2cb537": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "f57a7cb9dae2e1cc": {
+   "imp": 2.25,
+   "ai": 0.95,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "c97523b0c0b867f1": {
+   "imp": 1.12,
+   "ai": 0.94,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "2ff6443dd4315fd9": {
+   "imp": 2.27,
+   "ai": 0.98,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "32d86581eb119fdc": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "a0657c8e757614fb": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "91323c865eeba1f6": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "c4be6f1022c44727": {
+   "imp": 0.53,
+   "ai": 0.21,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "708b538afd77e1df": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "519876610c8900bb": {
+   "imp": 1.83,
+   "ai": 0.34,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "1662a811809f673a": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "090515bfeab6084d": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
+  },
+  "515c11d2b1537c1e": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-19T06:07:23.026772+00:00"
   }
  }
 }
