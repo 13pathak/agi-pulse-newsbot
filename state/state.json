@@ -1,7 +1,5 @@
 {
  "seen": {
-  "f8c1a7370c130fe5": "2026-11-12T12:07:25.480600+00:00",
-  "dc8dd8269ac9ca39": "2026-11-12T12:07:25.480600+00:00",
   "2aac58e4c1e4800f": "2026-11-12T12:37:25.726588+00:00",
   "4c3a4da346ee84b3": "2026-11-12T12:37:25.726588+00:00",
   "98aef0ae35053436": "2026-11-12T12:37:25.726588+00:00",
@@ -1885,13 +1883,20 @@
   "07e0472dae202e5c": "2026-11-19T11:37:23.655791+00:00",
   "922d229bfefd9bc9": "2026-11-19T11:37:23.655791+00:00",
   "2c7f5d5f32a8d70d": "2026-11-19T11:37:23.655791+00:00",
-  "0dfe5377d56d78f3": "2026-11-19T11:37:23.655791+00:00"
+  "0dfe5377d56d78f3": "2026-11-19T11:37:23.655791+00:00",
+  "b22006398e4d6532": "2026-11-19T12:07:23.170783+00:00",
+  "576d950a58a68b6f": "2026-11-19T12:07:23.170783+00:00",
+  "884e4442a40a2084": "2026-11-19T12:07:23.170783+00:00",
+  "b030f13bfd0f9705": "2026-11-19T12:07:23.170783+00:00",
+  "b35d28ae1b82bf6d": "2026-11-19T12:07:23.170783+00:00",
+  "fffcffd3dd757ef9": "2026-11-19T12:07:23.170783+00:00",
+  "97b20df2e79d5109": "2026-11-19T12:07:23.170783+00:00",
+  "94c87cf8fbeb5f1b": "2026-11-19T12:07:23.170783+00:00",
+  "ed125c570e4f6ebf": "2026-11-19T12:07:23.170783+00:00",
+  "57d6e0f9adf7ae63": "2026-11-19T12:07:23.170783+00:00",
+  "0191361613981656": "2026-11-19T12:07:23.170783+00:00"
  },
  "covered": [
-  {
-   "headline": "Alphabet Isomorphic Labs raises $5 billion funding round",
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
   {
    "headline": "Anthropic prepares for public listing with Coatue holding $10 billion stake",
    "ts": "2026-11-17T12:37:24.808192+00:00"
@@ -2103,11 +2108,15 @@
   {
    "headline": "Wadhwani AI and LinkedIn partner for SME training",
    "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  {
+   "headline": "Zurich Insurance expands Hyderabad GCC with 1000 employees",
+   "ts": "2026-11-19T12:07:23.170783+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3963,34 +3972,6 @@
  },
  "pending": [
   {
-   "id": "0191361613981656",
-   "item": {
-    "id": "0191361613981656",
-    "title": "Zurich Insurance to Expand Hyderabad GCC With 1,000 Employees By 2028",
-    "url": "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795080742281-h1ucdb.webp",
-    "snippet": "Zurich Insurance Group plans to expand its India Capability Centre in Hyderabad to around 1,000 employees by mid-2028, as the insurer looks to strengthen its global technology and AI capabilities from India. The expansion will involve hiring across cloud engineering, data and AI, application development, and cybersecurity. Zurich also plans to give its Hyderabad teams greater end-to-end ownership …",
-    "published": "2026-11-19T09:56:22+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Zurich Insurance expands Hyderabad GCC with 1000 employees",
-   "post": "Zurich Insurance Group plans to expand its India Capability Centre in Hyderabad to about 1,000 employees by mid-2028, hiring across data, AI, cloud engineering, and cybersecurity.",
-   "editor_note": "Verify the targeted hiring timeline and role distribution mentioned by Zurich Insurance.",
-   "support": 0.97,
-   "published_at": "2026-11-19T09:56:22+00:00",
-   "first_seen_at": "2026-11-19T10:07:23.477122+00:00",
-   "expires_at": "2026-11-20T21:56:22+00:00",
-   "decision": 1.65,
-   "priority": 8.596981,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
-  {
    "id": "0250765af6030c2e",
    "item": {
     "id": "0250765af6030c2e",
@@ -4015,8 +3996,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.367463,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 8.384819,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4043,8 +4024,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.265397,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 8.286225,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4084,8 +4065,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.058819,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 8.076175,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4126,8 +4107,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.869216,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 7.85533,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4155,8 +4136,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.735045,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.752401,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4183,8 +4164,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.726981,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
+   "priority": 7.744338,
+   "selection_reason": "Time-sensitive story; waiting 6.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4212,8 +4193,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.688336,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.705693,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4240,8 +4221,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.652462,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.669819,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4281,8 +4262,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:38:00+00:00",
    "decision": 1.73,
-   "priority": 7.580441,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.597797,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4311,8 +4292,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.385591,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.380384,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4339,8 +4320,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.346345,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.33246,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4369,8 +4350,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.314065,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 7.311089,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4397,8 +4378,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.280226,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.266341,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4427,8 +4408,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.268925,
-   "selection_reason": "Editorial importance; waiting 52.5h"
+   "priority": 7.263718,
+   "selection_reason": "Editorial importance; waiting 53.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4470,8 +4451,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.221754,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.207869,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4499,36 +4480,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.170256,
-   "selection_reason": "Editorial importance; waiting 0.5h"
-  },
-  {
-   "id": "8e6075d168e06821",
-   "item": {
-    "id": "8e6075d168e06821",
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-    "source": "Google AI Blog",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-    "published": "2026-11-18T17:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google brings Gemini app to lower-memory Android devices",
-   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
-   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
-   "support": 0.89,
-   "published_at": "2026-11-18T17:00:00+00:00",
-   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
-   "expires_at": "2026-11-20T17:00:00+00:00",
-   "decision": 0.84,
-   "priority": 7.142016,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.187612,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4557,8 +4510,36 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.134703,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.16297,
+   "selection_reason": "Editorial importance; waiting 6.5h"
+  },
+  {
+   "id": "8e6075d168e06821",
+   "item": {
+    "id": "8e6075d168e06821",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "Google AI Blog",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "published": "2026-11-18T17:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google brings Gemini app to lower-memory Android devices",
+   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
+   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
+   "support": 0.89,
+   "published_at": "2026-11-18T17:00:00+00:00",
+   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
+   "expires_at": "2026-11-20T17:00:00+00:00",
+   "decision": 0.84,
+   "priority": 7.131602,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4585,8 +4566,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.082697,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.100053,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4613,8 +4594,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.0818,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.067915,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4643,8 +4624,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.055591,
-   "selection_reason": "Editorial importance; waiting 52.0h"
+   "priority": 7.050384,
+   "selection_reason": "Editorial importance; waiting 52.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4672,8 +4653,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.036006,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.022121,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4701,8 +4682,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.019895,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.006009,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4730,8 +4711,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.931469,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.917584,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4759,8 +4740,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.877858,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.863972,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4789,36 +4770,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.865591,
-   "selection_reason": "Editorial importance; waiting 68.5h"
-  },
-  {
-   "id": "b22006398e4d6532",
-   "item": {
-    "id": "b22006398e4d6532",
-    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
-    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
-    "source": "ElevenLabs",
-    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/r79y1odp3ia-Scribe-v3-Live-Medical-Cover.webp",
-    "snippet": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
-    "published": "2026-11-17T12:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 2
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "ElevenLabs introduces Scribe v3 Live Medical model",
-   "post": "ElevenLabs released Scribe v3 Live Medical, a speech recognition model designed to process clinical terms and drug names on live calls for conversational agents.",
-   "editor_note": "Verify independent word error rate (WER) benchmarks compared to prior transcription models.",
-   "support": 0.72,
-   "published_at": "2026-11-17T12:00:00+00:00",
-   "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
-   "expires_at": "2026-11-19T12:00:00+00:00",
-   "decision": 0.91,
-   "priority": 6.561183,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 6.860384,
+   "selection_reason": "Editorial importance; waiting 69.0h"
   }
  ],
  "details_queue": [],
@@ -5022,12 +4975,13 @@
   "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia": "2026-11-19T10:11:14.139180+00:00",
   "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards": "2026-11-19T10:42:28.387761+00:00",
   "https://www.wsj.com/business/deutsche-telekoms-tech-fund-invests-110-million-in-mistral-ai-13597573?mod=rss_Technology": "2026-11-19T11:12:33.522686+00:00",
-  "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs": "2026-11-19T11:41:08.375413+00:00"
+  "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs": "2026-11-19T11:41:08.375413+00:00",
+  "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028": "2026-11-19T12:07:49.910576+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
   "32933935200c2839": {
@@ -23724,6 +23678,91 @@
    "imp": 1.79,
    "ai": 0.77,
    "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "576d950a58a68b6f": {
+   "imp": 2.67,
+   "ai": null,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "fffcffd3dd757ef9": {
+   "imp": 1.28,
+   "ai": 0.81,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "57d6e0f9adf7ae63": {
+   "imp": 1.22,
+   "ai": 0.4,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "94c87cf8fbeb5f1b": {
+   "imp": 1.12,
+   "ai": 0.89,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "884e4442a40a2084": {
+   "imp": 2.72,
+   "ai": 0.96,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "b35d28ae1b82bf6d": {
+   "imp": 1.98,
+   "ai": 0.92,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "97b20df2e79d5109": {
+   "imp": 1.28,
+   "ai": null,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "d72c864e4e9c2f4d": {
+   "imp": 0.39,
+   "ai": 0.04,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "9395479914dc063a": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "75c040461e09634e": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "25ab72258d0fcd25": {
+   "imp": 1.49,
+   "ai": 0.55,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "f37421eafa7406d6": {
+   "imp": 0.59,
+   "ai": 0.1,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "36189ab94120a47d": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "5a4268f084fceb53": {
+   "imp": 0.82,
+   "ai": 0.23,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "5676674a31643285": {
+   "imp": 0.18,
+   "ai": 0.1,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "91e4f6fedf5f7a96": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
+  },
+  "f6629fbe28d3e645": {
+   "imp": 0.33,
+   "ai": 0.08,
+   "ts": "2026-11-19T12:07:23.170783+00:00"
   }
  }
 }
