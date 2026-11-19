@@ -1,37 +1,5 @@
 {
  "seen": {
-  "6d29ea24a6e6fee7": "2026-11-12T16:37:22.826379+00:00",
-  "e89c62d75061c48c": "2026-11-12T16:37:22.826379+00:00",
-  "d3206ea89ca22b21": "2026-11-12T16:37:22.826379+00:00",
-  "aa4bf4548cc5dfc6": "2026-11-12T16:37:22.826379+00:00",
-  "516c66760e018174": "2026-11-12T16:37:22.826379+00:00",
-  "308f77b3796da70a": "2026-11-12T16:37:22.826379+00:00",
-  "033f16938689c352": "2026-11-12T16:37:22.826379+00:00",
-  "aed2e3faab556633": "2026-11-12T16:37:22.826379+00:00",
-  "dad6a0660695ec83": "2026-11-12T16:37:22.826379+00:00",
-  "0ddde9b08f100a05": "2026-11-12T16:37:22.826379+00:00",
-  "020f6c38996b5d05": "2026-11-12T16:37:22.826379+00:00",
-  "dfc7b8fa01676ea8": "2026-11-12T16:37:22.826379+00:00",
-  "ef25c42384ffbf36": "2026-11-12T16:37:22.826379+00:00",
-  "1c7a8a12d94d3915": "2026-11-12T16:37:22.826379+00:00",
-  "a5ab0c26558856ef": "2026-11-12T16:37:22.826379+00:00",
-  "f7498150d53af985": "2026-11-12T16:37:22.826379+00:00",
-  "e28a19d520a9029a": "2026-11-12T16:37:22.826379+00:00",
-  "426b199762db8714": "2026-11-12T16:37:22.826379+00:00",
-  "aff4b2c65530b3e6": "2026-11-12T16:37:22.826379+00:00",
-  "4d4792636663d087": "2026-11-12T16:37:22.826379+00:00",
-  "caced9783dab4cd6": "2026-11-12T16:37:22.826379+00:00",
-  "7d789dcda497dcad": "2026-11-12T16:37:22.826379+00:00",
-  "c45cf7e771a2a4c3": "2026-11-12T16:37:22.826379+00:00",
-  "33a370b4be9088e7": "2026-11-12T16:37:22.826379+00:00",
-  "6ad6c9a2db1d7ea6": "2026-11-12T16:37:22.826379+00:00",
-  "e8ed4f4630626dea": "2026-11-12T16:37:22.826379+00:00",
-  "44722bd030259051": "2026-11-12T16:37:22.826379+00:00",
-  "0ae5fa9e51c7d0ec": "2026-11-12T16:37:22.826379+00:00",
-  "1d2566da0bc6f88a": "2026-11-12T16:37:22.826379+00:00",
-  "51db2e7671fa62e8": "2026-11-12T16:37:22.826379+00:00",
-  "efcd2b895a9b4cf8": "2026-11-12T16:37:22.826379+00:00",
-  "e918b92f13194ec9": "2026-11-12T16:37:22.826379+00:00",
   "aff6802cc567cefa": "2026-11-12T17:07:23.605760+00:00",
   "9ed2099ae4857f6f": "2026-11-12T17:07:23.605760+00:00",
   "830958e6e6f7f875": "2026-11-12T17:07:23.605760+00:00",
@@ -3972,8 +3940,8 @@
    "first_seen_at": "2026-11-19T13:07:37.274771+00:00",
    "expires_at": "2026-11-21T00:37:42+00:00",
    "decision": 2.14,
-   "priority": 8.803517,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 8.820978,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "ba66cb81d653444d",
@@ -4000,8 +3968,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T02:05:43+00:00",
    "decision": 1.92,
-   "priority": 8.646153,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.663614,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "9db0edfc2ece3c1b",
@@ -4028,8 +3996,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T01:57:42+00:00",
    "decision": 1.79,
-   "priority": 8.599109,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.61657,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "f689168723dc030d",
@@ -4056,8 +4024,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.265673,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 8.255196,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4097,8 +4065,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.152579,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 8.13861,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4126,8 +4094,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.891296,
-   "selection_reason": "Time-sensitive story; waiting 9.0h"
+   "priority": 7.908757,
+   "selection_reason": "Time-sensitive story; waiting 9.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4154,8 +4122,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.883232,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "priority": 7.900693,
+   "selection_reason": "Time-sensitive story; waiting 10.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4183,8 +4151,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.844587,
-   "selection_reason": "Time-sensitive story; waiting 7.0h"
+   "priority": 7.862048,
+   "selection_reason": "Time-sensitive story; waiting 7.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4211,8 +4179,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.808714,
-   "selection_reason": "Time-sensitive story; waiting 7.5h"
+   "priority": 7.826174,
+   "selection_reason": "Time-sensitive story; waiting 8.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4278,8 +4246,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.726044,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.743505,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4307,8 +4275,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.701498,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.718958,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4337,8 +4305,37 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.38917,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.417606,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.343968,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4367,37 +4364,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.338716,
-   "selection_reason": "Editorial importance; waiting 34.0h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.326507,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.333478,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4426,8 +4394,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.287279,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 7.284286,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4456,8 +4424,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.222049,
-   "selection_reason": "Editorial importance; waiting 57.0h"
+   "priority": 7.216811,
+   "selection_reason": "Editorial importance; waiting 57.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4484,8 +4452,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.221344,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.207376,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4512,8 +4480,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.207695,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.193726,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4540,8 +4508,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.155226,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.141257,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4583,8 +4551,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.096753,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.082785,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4611,8 +4579,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.048265,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.037789,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4641,8 +4609,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.008716,
-   "selection_reason": "Editorial importance; waiting 56.5h"
+   "priority": 7.003478,
+   "selection_reason": "Editorial importance; waiting 57.0h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4669,8 +4637,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 6.9568,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.942831,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "9162001826d50396",
@@ -4698,8 +4666,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.911005,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.897036,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4727,8 +4695,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 6.894894,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.880925,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4757,8 +4725,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.818716,
-   "selection_reason": "Editorial importance; waiting 73.0h"
+   "priority": 6.813478,
+   "selection_reason": "Editorial importance; waiting 73.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4786,8 +4754,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.806468,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.792499,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4815,8 +4783,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.752857,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.738888,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   }
  ],
  "details_queue": [],
@@ -24411,6 +24379,71 @@
    "imp": 0.12,
    "ai": 0.03,
    "ts": "2026-11-19T16:07:23.772129+00:00"
+  },
+  "3e5d1a7c85bc41a5": {
+   "imp": 2.55,
+   "ai": null,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "23e4229d8f3b72b7": {
+   "imp": 2.58,
+   "ai": null,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "ce0cd35319c37e6e": {
+   "imp": 2.7,
+   "ai": 0.94,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "d966aeb09c88dea1": {
+   "imp": 2.47,
+   "ai": 0.94,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "c367ff0584c28579": {
+   "imp": 2.4,
+   "ai": 0.93,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "9e639f341290c0f8": {
+   "imp": 2.27,
+   "ai": 0.89,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "d30c1934caf4703f": {
+   "imp": 1.21,
+   "ai": 0.86,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "2773c380ad929d32": {
+   "imp": 1.98,
+   "ai": 0.97,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "448d198a6d06442b": {
+   "imp": 0.89,
+   "ai": null,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "d5fced7655b2232b": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "39afdb41855b4a4a": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "6a86fe6e1e2d8d09": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
+  },
+  "b8380922e4bbc05e": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-19T16:37:34.118232+00:00"
   }
  }
 }
