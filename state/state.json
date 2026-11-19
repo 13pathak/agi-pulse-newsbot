@@ -1847,7 +1847,34 @@
   "7c83913719c6fafb": "2026-11-19T13:07:37.274771+00:00",
   "9f55741bb31cb1de": "2026-11-19T13:07:37.274771+00:00",
   "3f6098aabd8eb664": "2026-11-19T13:37:25.966801+00:00",
-  "e9b6576af8849a79": "2026-11-19T13:37:25.966801+00:00"
+  "e9b6576af8849a79": "2026-11-19T13:37:25.966801+00:00",
+  "baa754261624350f": "2026-11-19T15:07:24.543623+00:00",
+  "33cec2d3f6e4f18c": "2026-11-19T15:07:24.543623+00:00",
+  "1f4f7904707e085c": "2026-11-19T15:07:24.543623+00:00",
+  "1517aeb37ade736c": "2026-11-19T15:07:24.543623+00:00",
+  "db48b20db167e68c": "2026-11-19T15:07:24.543623+00:00",
+  "dc1cead1523c47f2": "2026-11-19T15:07:24.543623+00:00",
+  "144a4d2223d9b117": "2026-11-19T15:07:24.543623+00:00",
+  "17817ee7d6c0309a": "2026-11-19T15:07:24.543623+00:00",
+  "bb25daab1f924307": "2026-11-19T15:07:24.543623+00:00",
+  "97ccf1ecd5ed5546": "2026-11-19T15:07:24.543623+00:00",
+  "2f7a2445c4288673": "2026-11-19T15:07:24.543623+00:00",
+  "cfeab4f3add0a716": "2026-11-19T15:07:24.543623+00:00",
+  "46db7f87ad3e1d4b": "2026-11-19T15:07:24.543623+00:00",
+  "0a06f28bc7e0cce4": "2026-11-19T15:07:24.543623+00:00",
+  "7aead8022b295649": "2026-11-19T15:07:24.543623+00:00",
+  "0b3a38ae0a194f39": "2026-11-19T15:07:24.543623+00:00",
+  "79725b582e3c8e9c": "2026-11-19T15:07:24.543623+00:00",
+  "946e9bb4988b7f6b": "2026-11-19T15:07:24.543623+00:00",
+  "4e0b5e8dec9c3fbf": "2026-11-19T15:07:24.543623+00:00",
+  "824e87dcfa8e13e0": "2026-11-19T15:07:24.543623+00:00",
+  "ff854732e220a47e": "2026-11-19T15:07:24.543623+00:00",
+  "606fd647b62dcacf": "2026-11-19T15:07:24.543623+00:00",
+  "e86b2e1ff4fb42ce": "2026-11-19T15:07:24.543623+00:00",
+  "28b848503acfcaf6": "2026-11-19T15:07:24.543623+00:00",
+  "008d4daf9942575a": "2026-11-19T15:07:24.543623+00:00",
+  "a832dcdff6380954": "2026-11-19T15:07:24.543623+00:00",
+  "ae72e45d486f99d4": "2026-11-19T15:07:24.543623+00:00"
  },
  "covered": [
   {
@@ -2061,11 +2088,15 @@
   {
    "headline": "Anthropic debuts on US stock market with $1.5 trillion valuation",
    "ts": "2026-11-19T13:07:37.274771+00:00"
+  },
+  {
+   "headline": "Anthropic launches initial public offering at $83 per share",
+   "ts": "2026-11-19T15:07:24.543623+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3945,8 +3976,64 @@
    "first_seen_at": "2026-11-19T13:07:37.274771+00:00",
    "expires_at": "2026-11-21T00:37:42+00:00",
    "decision": 2.14,
-   "priority": 8.75145,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.768803,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "ba66cb81d653444d",
+   "item": {
+    "id": "ba66cb81d653444d",
+    "title": "Karnataka Sees ₹1,050 Cr Deeptech Investment From 24 VCs",
+    "url": "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795095064607-ydf8iq.webp",
+    "snippet": "Future Makers Conclave 2026, held as part of Bengaluru Tech Summit 2026 , saw 24 venture capital firms announce approximately ₹1,050 crore in investments for Karnataka's deeptech ecosystem. It includes companies working across aerospace, AI, robotics, semiconductors, and other technology sectors. The announcements aim to support emerging technology startups and strengthen the state's position as a…",
+    "published": "2026-11-19T14:05:43+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Karnataka secures 1050 crore rupees in deeptech investments",
+   "post": "Twenty-four venture capital firms have announced approximately 1,050 crore rupees in investments for Karnataka's deeptech ecosystem during the Bengaluru Tech Summit.",
+   "editor_note": "Check sector breakdown between AI, aerospace, and semiconductor allocations.",
+   "support": 0.88,
+   "published_at": "2026-11-19T14:05:43+00:00",
+   "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
+   "expires_at": "2026-11-21T02:05:43+00:00",
+   "decision": 1.92,
+   "priority": 8.611439,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "9db0edfc2ece3c1b",
+   "item": {
+    "id": "9db0edfc2ece3c1b",
+    "title": "Infosys Expands AI Footprint in Japan With Telecom JV",
+    "url": "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243584036-c238271a-96bf-4f57-8836-d632e18d7e56-m1mon.webp",
+    "snippet": "Infosys will invest JPY 1.59 billion (₹92.75 crore) in NTT DOCOMO Playspace, a joint venture (JV) anchored by Japanese telecommunications company NTT DOCOMO, to develop metaverse-based experiences, digital twins, and virtual commerce. Infosys said its Singapore subsidiary, Infosys Singapore Pte Ltd, would enter into a joint venture agreement with NTT DOCOMO. It will acquire a 10.1% stake in the ve…",
+    "published": "2026-11-19T13:57:42+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Infosys invests in NTT Docomo metaverse joint venture",
+   "post": "Infosys Singapore will invest 1.59 billion yen to acquire a 10.1 percent stake in NTT Docomo Playspace, a joint venture developing metaverse and digital twin technologies.",
+   "editor_note": "Confirm currency conversion and exact stake percentages.",
+   "support": 0.95,
+   "published_at": "2026-11-19T13:57:42+00:00",
+   "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
+   "expires_at": "2026-11-21T01:57:42+00:00",
+   "decision": 1.79,
+   "priority": 8.564394,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "f689168723dc030d",
@@ -3973,8 +4060,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.296913,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 8.286501,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4014,8 +4101,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.163003,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 8.180351,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4043,8 +4130,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.839229,
-   "selection_reason": "Time-sensitive story; waiting 7.5h"
+   "priority": 7.856581,
+   "selection_reason": "Time-sensitive story; waiting 8.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4071,8 +4158,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.831165,
-   "selection_reason": "Time-sensitive story; waiting 8.5h"
+   "priority": 7.848518,
+   "selection_reason": "Time-sensitive story; waiting 9.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4100,8 +4187,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.79252,
-   "selection_reason": "Time-sensitive story; waiting 5.5h"
+   "priority": 7.809873,
+   "selection_reason": "Time-sensitive story; waiting 6.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4128,8 +4215,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.756646,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.773999,
+   "selection_reason": "Time-sensitive story; waiting 6.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4195,8 +4282,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.673977,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.691329,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4224,8 +4311,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.64943,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.666783,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4254,8 +4341,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.354336,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 7.34913,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4284,8 +4371,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.304374,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.332634,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4314,8 +4401,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.296205,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 7.29323,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4343,8 +4430,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.27444,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.291792,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4371,8 +4458,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.262998,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.249116,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4401,36 +4488,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.237669,
-   "selection_reason": "Editorial importance; waiting 55.5h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.196879,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.232464,
+   "selection_reason": "Editorial importance; waiting 56.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4457,8 +4516,36 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.186881,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.204233,
+   "selection_reason": "Editorial importance; waiting 11.5h"
+  },
+  {
+   "id": "3bb219d5733618b3",
+   "item": {
+    "id": "3bb219d5733618b3",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
+    "published": "2026-11-18T10:18:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Soket AI raises $4 million for indigenous foundation models",
+   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
+   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
+   "support": 0.9,
+   "published_at": "2026-11-18T10:18:41+00:00",
+   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
+   "expires_at": "2026-11-19T22:18:41+00:00",
+   "decision": 2.2,
+   "priority": 7.182997,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4500,8 +4587,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.138407,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.124525,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4528,8 +4615,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.079506,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.069094,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4558,8 +4645,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.024336,
-   "selection_reason": "Editorial importance; waiting 55.0h"
+   "priority": 7.01913,
+   "selection_reason": "Editorial importance; waiting 55.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4586,8 +4673,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 6.998453,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.984571,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4615,8 +4702,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 6.952659,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.938777,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4644,8 +4731,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 6.936548,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.922666,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4673,8 +4760,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.848122,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.83424,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4703,8 +4790,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.834336,
-   "selection_reason": "Editorial importance; waiting 71.5h"
+   "priority": 6.82913,
+   "selection_reason": "Editorial importance; waiting 72.0h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4732,8 +4819,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.79451,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.780629,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   }
  ],
  "details_queue": [],
@@ -4940,12 +5027,13 @@
   "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs": "2026-11-19T11:41:08.375413+00:00",
   "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028": "2026-11-19T12:07:49.910576+00:00",
   "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives": "2026-11-19T12:38:16.871737+00:00",
-  "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo": "2026-11-19T13:08:14.156005+00:00"
+  "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo": "2026-11-19T13:08:14.156005+00:00",
+  "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": "2026-11-19T15:08:03.670442+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
   "32933935200c2839": {
@@ -24152,6 +24240,71 @@
    "imp": 0.08,
    "ai": 0.03,
    "ts": "2026-11-19T14:37:25.442559+00:00"
+  },
+  "0b3a38ae0a194f39": {
+   "imp": 2.85,
+   "ai": null,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "824e87dcfa8e13e0": {
+   "imp": 2.46,
+   "ai": null,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "7aead8022b295649": {
+   "imp": 0.13,
+   "ai": null,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "ae72e45d486f99d4": {
+   "imp": 2.43,
+   "ai": 0.96,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "1f4f7904707e085c": {
+   "imp": 1.88,
+   "ai": 0.89,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "46db7f87ad3e1d4b": {
+   "imp": 2.02,
+   "ai": 0.95,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "ff854732e220a47e": {
+   "imp": 2.4,
+   "ai": 0.95,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "946e9bb4988b7f6b": {
+   "imp": 2.61,
+   "ai": 0.96,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "1517aeb37ade736c": {
+   "imp": 1.7,
+   "ai": 0.75,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "db48b20db167e68c": {
+   "imp": 1.47,
+   "ai": null,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "eddcceefa8d1613f": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "b28e56e717da58bf": {
+   "imp": 0.03,
+   "ai": 0.02,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
+  },
+  "e97afb5b21ddcc05": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-19T15:07:24.543623+00:00"
   }
  }
 }
