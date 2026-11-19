@@ -1,18 +1,5 @@
 {
  "seen": {
-  "5f85462c31ca2693": "2026-11-12T11:37:21.679140+00:00",
-  "93f813ae2f803348": "2026-11-12T11:37:21.679140+00:00",
-  "5e7d974835a50946": "2026-11-12T11:37:21.679140+00:00",
-  "ed8622da7861be87": "2026-11-12T11:37:21.679140+00:00",
-  "7e823ef0509fe04e": "2026-11-12T11:37:21.679140+00:00",
-  "926fa2d8a5cbd105": "2026-11-12T11:37:21.679140+00:00",
-  "5ba36c508cc98b70": "2026-11-12T11:37:21.679140+00:00",
-  "b6a7ca09009b2080": "2026-11-12T11:37:21.679140+00:00",
-  "34e98fc6a38de7a4": "2026-11-12T11:37:21.679140+00:00",
-  "b5aac21720ee481c": "2026-11-12T11:37:21.679140+00:00",
-  "801248cda4cd3310": "2026-11-12T11:37:21.679140+00:00",
-  "2fa5057fbbed719e": "2026-11-12T11:37:21.679140+00:00",
-  "a0ee63f286c65a89": "2026-11-12T11:37:21.679140+00:00",
   "f8c1a7370c130fe5": "2026-11-12T12:07:25.480600+00:00",
   "dc8dd8269ac9ca39": "2026-11-12T12:07:25.480600+00:00",
   "2aac58e4c1e4800f": "2026-11-12T12:37:25.726588+00:00",
@@ -1893,13 +1880,14 @@
   "2c4cba7482f3f6af": "2026-11-19T11:07:22.417173+00:00",
   "d6eb2ba64e0f58a8": "2026-11-19T11:07:22.417173+00:00",
   "4376100ec1e1baab": "2026-11-19T11:07:22.417173+00:00",
-  "922cc9edad19e56f": "2026-11-19T11:07:22.417173+00:00"
+  "922cc9edad19e56f": "2026-11-19T11:07:22.417173+00:00",
+  "2b8784d0dd7924c0": "2026-11-19T11:37:23.655791+00:00",
+  "07e0472dae202e5c": "2026-11-19T11:37:23.655791+00:00",
+  "922d229bfefd9bc9": "2026-11-19T11:37:23.655791+00:00",
+  "2c7f5d5f32a8d70d": "2026-11-19T11:37:23.655791+00:00",
+  "0dfe5377d56d78f3": "2026-11-19T11:37:23.655791+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI partners with NATO on cyber defenses",
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
   {
    "headline": "Alphabet Isomorphic Labs raises $5 billion funding round",
    "ts": "2026-11-17T12:07:30.221051+00:00"
@@ -2111,11 +2099,15 @@
   {
    "headline": "Deutsche Telekom fund invests 110 million in Mistral AI",
    "ts": "2026-11-19T11:07:22.417173+00:00"
+  },
+  {
+   "headline": "Wadhwani AI and LinkedIn partner for SME training",
+   "ts": "2026-11-19T11:37:23.655791+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3971,34 +3963,6 @@
  },
  "pending": [
   {
-   "id": "0dfe5377d56d78f3",
-   "item": {
-    "id": "0dfe5377d56d78f3",
-    "title": "Wadhwani AI Joins LinkedIn to Train 2,000 Northeast SMEs in AI",
-    "url": "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795083840866-hvxvx.webp",
-    "snippet": "Wadhwani AI and LinkedIn have partnered to train 2,000 small and micro entrepreneurs in using artificial intelligence (AI) to support their businesses across Northeast India. The two organisations have signed a memorandum of understanding (MoU) to launch AI for Future SMEs, a 12-month initiative covering Assam, Arunachal Pradesh, Nagaland, Meghalaya, and Manipur. The programme will help entreprene…",
-    "published": "2026-11-19T10:49:28+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Wadhwani AI and LinkedIn partner for SME training",
-   "post": "Wadhwani AI and LinkedIn have partnered to launch a 12-month initiative training 2,000 small and micro entrepreneurs in AI across Assam, Arunachal Pradesh, Nagaland, Meghalaya, and Manipur.",
-   "editor_note": "Verify the geographic scope covers all five named states in Northeast India as stated.",
-   "support": 0.95,
-   "published_at": "2026-11-19T10:49:28+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T22:49:28+00:00",
-   "decision": 1.91,
-   "priority": 8.628376,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "0191361613981656",
    "item": {
     "id": "0191361613981656",
@@ -4023,8 +3987,8 @@
    "first_seen_at": "2026-11-19T10:07:23.477122+00:00",
    "expires_at": "2026-11-20T21:56:22+00:00",
    "decision": 1.65,
-   "priority": 8.579608,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.596981,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4051,8 +4015,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.35009,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 8.367463,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4079,8 +4043,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.244549,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 8.265397,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4120,8 +4084,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.041446,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 8.058819,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4162,8 +4126,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.883114,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 7.869216,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4191,8 +4155,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.717672,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.735045,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4219,8 +4183,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.709608,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
+   "priority": 7.726981,
+   "selection_reason": "Time-sensitive story; waiting 5.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4248,8 +4212,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.670963,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.688336,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4276,8 +4240,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.635089,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.652462,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4317,8 +4281,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:38:00+00:00",
    "decision": 1.73,
-   "priority": 7.563068,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.580441,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4347,8 +4311,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.390803,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.385591,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4375,8 +4339,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.360244,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.346345,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4405,8 +4369,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.317043,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.314065,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4433,8 +4397,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.294125,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.280226,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4463,8 +4427,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.274137,
-   "selection_reason": "Editorial importance; waiting 52.0h"
+   "priority": 7.268925,
+   "selection_reason": "Editorial importance; waiting 52.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4506,8 +4470,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.235653,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.221754,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4535,8 +4499,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.152883,
-   "selection_reason": "Editorial importance"
+   "priority": 7.170256,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4563,8 +4527,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.15244,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.142016,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4593,36 +4557,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.10641,
-   "selection_reason": "Editorial importance; waiting 5.5h"
-  },
-  {
-   "id": "81a0f8f36b1d58e9",
-   "item": {
-    "id": "81a0f8f36b1d58e9",
-    "title": "AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans",
-    "url": "https://www.medianama.com/2026/11/223-ai-hackers-approved-loans-nbfc/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Delhi Police has revealed that they have \"detected traces of AI being used in these frauds\" and the incidents leading to Rs 65 cr loss in approved loans \"are largely attributable to weaknesses in the public-facing cyber systems of NBFCs\". The post AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans appeared first on MEDIANAMA .",
-    "published": "2026-11-18T09:31:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "AI-assisted hackers divert Rs 65 crore from NBFCs",
-   "post": "Delhi Police reports that AI-assisted cyberattacks on NBFC public-facing systems in Delhi-NCR diverted Rs 65 crore in approved loans.",
-   "editor_note": "Check exact police attribution and affected NBFC categories.",
-   "support": 0.92,
-   "published_at": "2026-11-18T09:31:41+00:00",
-   "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
-   "expires_at": "2026-11-19T21:31:41+00:00",
-   "decision": 1.67,
-   "priority": 7.095699,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.134703,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4649,8 +4585,36 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.065324,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.082697,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "81a0f8f36b1d58e9",
+   "item": {
+    "id": "81a0f8f36b1d58e9",
+    "title": "AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans",
+    "url": "https://www.medianama.com/2026/11/223-ai-hackers-approved-loans-nbfc/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "Delhi Police has revealed that they have \"detected traces of AI being used in these frauds\" and the incidents leading to Rs 65 cr loss in approved loans \"are largely attributable to weaknesses in the public-facing cyber systems of NBFCs\". The post AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans appeared first on MEDIANAMA .",
+    "published": "2026-11-18T09:31:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "AI-assisted hackers divert Rs 65 crore from NBFCs",
+   "post": "Delhi Police reports that AI-assisted cyberattacks on NBFC public-facing systems in Delhi-NCR diverted Rs 65 crore in approved loans.",
+   "editor_note": "Check exact police attribution and affected NBFC categories.",
+   "support": 0.92,
+   "published_at": "2026-11-18T09:31:41+00:00",
+   "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
+   "expires_at": "2026-11-19T21:31:41+00:00",
+   "decision": 1.67,
+   "priority": 7.0818,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4679,8 +4643,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 7.060803,
-   "selection_reason": "Editorial importance; waiting 51.5h"
+   "priority": 7.055591,
+   "selection_reason": "Editorial importance; waiting 52.0h"
   },
   {
    "id": "9162001826d50396",
@@ -4708,8 +4672,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:09:34+00:00",
    "decision": 1.48,
-   "priority": 7.049904,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.036006,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "adadf9d1614c8d19",
@@ -4737,8 +4701,8 @@
    "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
    "expires_at": "2026-11-19T20:58:46+00:00",
    "decision": 1.53,
-   "priority": 7.033793,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.019895,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4766,8 +4730,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.945367,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.931469,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4795,8 +4759,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.891756,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.877858,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4825,8 +4789,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.870803,
-   "selection_reason": "Editorial importance; waiting 68.0h"
+   "priority": 6.865591,
+   "selection_reason": "Editorial importance; waiting 68.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4853,8 +4817,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.571606,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.561183,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   }
  ],
  "details_queue": [],
@@ -5057,12 +5021,13 @@
   "https://huggingface.co/apple/FastFrames-L": "2026-11-19T09:09:54.364781+00:00",
   "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia": "2026-11-19T10:11:14.139180+00:00",
   "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards": "2026-11-19T10:42:28.387761+00:00",
-  "https://www.wsj.com/business/deutsche-telekoms-tech-fund-invests-110-million-in-mistral-ai-13597573?mod=rss_Technology": "2026-11-19T11:12:33.522686+00:00"
+  "https://www.wsj.com/business/deutsche-telekoms-tech-fund-invests-110-million-in-mistral-ai-13597573?mod=rss_Technology": "2026-11-19T11:12:33.522686+00:00",
+  "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs": "2026-11-19T11:41:08.375413+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
   "32933935200c2839": {
@@ -23689,6 +23654,76 @@
    "imp": 0.1,
    "ai": 0.02,
    "ts": "2026-11-19T11:07:22.417173+00:00"
+  },
+  "2b8784d0dd7924c0": {
+   "imp": 2.74,
+   "ai": null,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "2c7f5d5f32a8d70d": {
+   "imp": 1.25,
+   "ai": 0.84,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "922d229bfefd9bc9": {
+   "imp": 1.43,
+   "ai": 0.94,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "5261bf8c90a6cf5f": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "ce0040ba7fde5672": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "0aa737b873a1fa04": {
+   "imp": 1.0,
+   "ai": 0.4,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "a71977f22f8c6294": {
+   "imp": 0.4,
+   "ai": 0.05,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "908c75c85cd4d7df": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "92892241f94f28fd": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "c3b9f96c117e5e13": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "467cbdf52de24aef": {
+   "imp": 0.53,
+   "ai": 0.1,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "85ceeb73555840da": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "92388a98988952a3": {
+   "imp": 0.29,
+   "ai": 0.06,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
+  },
+  "07e0472dae202e5c": {
+   "imp": 1.79,
+   "ai": 0.77,
+   "ts": "2026-11-19T11:37:23.655791+00:00"
   }
  }
 }
