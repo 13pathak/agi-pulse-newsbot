@@ -1894,7 +1894,22 @@
   "9f990a9453793075": "2026-11-19T10:07:23.477122+00:00",
   "858cedd0664ca22c": "2026-11-19T10:07:23.477122+00:00",
   "30f6e1ce772cfb77": "2026-11-19T10:07:23.477122+00:00",
-  "0c778e96251b796f": "2026-11-19T10:07:23.477122+00:00"
+  "0c778e96251b796f": "2026-11-19T10:07:23.477122+00:00",
+  "2ea14e17b7c3f4ce": "2026-11-19T10:37:29.788570+00:00",
+  "92adff525e09cbfe": "2026-11-19T10:37:29.788570+00:00",
+  "a11f019a8898a489": "2026-11-19T10:37:29.788570+00:00",
+  "12214793035f8043": "2026-11-19T10:37:29.788570+00:00",
+  "8b259f6365b3b595": "2026-11-19T10:37:29.788570+00:00",
+  "c4d077949325851b": "2026-11-19T10:37:29.788570+00:00",
+  "5b9ed1d420ef2ece": "2026-11-19T10:37:29.788570+00:00",
+  "e52f2502e27aaa06": "2026-11-19T10:37:29.788570+00:00",
+  "a64d39853da0fc23": "2026-11-19T10:37:29.788570+00:00",
+  "e63363d23c4e9429": "2026-11-19T10:37:29.788570+00:00",
+  "b175db1dbb4adc4c": "2026-11-19T10:37:29.788570+00:00",
+  "d25121d422ff58e4": "2026-11-19T10:37:29.788570+00:00",
+  "c10f025d55636d2c": "2026-11-19T10:37:29.788570+00:00",
+  "06eb25d8bc9d2c4e": "2026-11-19T10:37:29.788570+00:00",
+  "7070b18287506acd": "2026-11-19T10:37:29.788570+00:00"
  },
  "covered": [
   {
@@ -2108,11 +2123,15 @@
   {
    "headline": "Moonshot AI cancels 150 million dollar Indonesia Nvidia chip deal",
    "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  {
+   "headline": "Disseqt AI raises $8 million for enterprise AI safeguards",
+   "ts": "2026-11-19T10:37:29.788570+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-19",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3992,8 +4011,8 @@
    "first_seen_at": "2026-11-19T10:07:23.477122+00:00",
    "expires_at": "2026-11-20T21:21:00+00:00",
    "decision": 2.13,
-   "priority": 8.688523,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.705945,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "0191361613981656",
@@ -4020,8 +4039,8 @@
    "first_seen_at": "2026-11-19T10:07:23.477122+00:00",
    "expires_at": "2026-11-20T21:56:22+00:00",
    "decision": 1.65,
-   "priority": 8.544896,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.562318,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "0250765af6030c2e",
@@ -4048,8 +4067,8 @@
    "first_seen_at": "2026-11-19T01:37:25.956206+00:00",
    "expires_at": "2026-11-20T06:47:36+00:00",
    "decision": 2.13,
-   "priority": 8.315378,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 8.3328,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -4076,8 +4095,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.202895,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 8.223801,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4117,8 +4136,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.006734,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 8.024156,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "3f6098aabd8eb664",
@@ -4159,8 +4178,8 @@
    "first_seen_at": "2026-11-18T02:37:35.781113+00:00",
    "expires_at": "2026-11-19T13:09:18+00:00",
    "decision": 1.73,
-   "priority": 7.910884,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 7.896946,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4188,8 +4207,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.68296,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.700382,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4216,8 +4235,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.674896,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.692318,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4245,8 +4264,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.636251,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.653673,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4273,8 +4292,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.600377,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.617799,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4301,8 +4320,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.530612,
-   "selection_reason": "Time-sensitive story; waiting 6.5h"
+   "priority": 7.548034,
+   "selection_reason": "Time-sensitive story; waiting 7.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4331,8 +4350,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.401217,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.39599,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4359,8 +4378,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.388013,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.374076,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4389,8 +4408,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.322994,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.320007,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "3bb219d5733618b3",
@@ -4417,8 +4436,8 @@
    "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
    "expires_at": "2026-11-19T22:18:41+00:00",
    "decision": 2.2,
-   "priority": 7.321894,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.307957,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4447,8 +4466,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.28455,
-   "selection_reason": "Editorial importance; waiting 51.0h"
+   "priority": 7.279324,
+   "selection_reason": "Editorial importance; waiting 51.5h"
   },
   {
    "id": "aff1ec2a43dfe4ce",
@@ -4490,8 +4509,8 @@
    "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
    "expires_at": "2026-11-20T00:53:11+00:00",
    "decision": 1.81,
-   "priority": 7.263422,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.249485,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4518,8 +4537,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 7.173267,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.162814,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "81a0f8f36b1d58e9",
@@ -4546,96 +4565,8 @@
    "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
    "expires_at": "2026-11-19T21:31:41+00:00",
    "decision": 1.67,
-   "priority": 7.123469,
-   "selection_reason": "Editorial importance; waiting 24.0h"
-  },
-  {
-   "id": "9162001826d50396",
-   "item": {
-    "id": "9162001826d50396",
-    "title": "商汤：2026前三季度营收同比增长30.4%至37.9亿，毛利率提升至43.4%",
-    "url": "https://36kr.com/newsflashes/4075103427335043?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "11月18日，商汤集团发布截至2026年9月30日止九个月业务进展。集团收入同比增长30.4%至人民币37.9亿元，增速较2026年上半年进一步加快；毛利率提升4.3个百分点至43.4%，毛利增加45.0%至人民币16.5亿元，毛利增速快于收入增速，收入质量持续改善。业务结构方面，生成式AI持续成为增长核心，增速持续高于集团整体收入增速，其中第三季度同比增长超过一倍。集团前期战略投入回报正逐步显现，AI业务商业化进程进一步提速。",
-    "published": "2026-11-18T10:09:34+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "SenseTime reports 30.4 percent revenue growth in first nine months",
-   "post": "SenseTime reported revenue of 3.79 billion yuan for the first nine months, marking a 30.4 percent year-on-year increase, alongside a gross margin of 43.4 percent.",
-   "editor_note": "Confirm whether generative AI growth figures apply strictly to the third quarter as stated.",
-   "support": 0.96,
-   "published_at": "2026-11-18T10:09:34+00:00",
-   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
-   "expires_at": "2026-11-19T22:09:34+00:00",
-   "decision": 1.48,
-   "priority": 7.077674,
-   "selection_reason": "Editorial importance; waiting 23.0h"
-  },
-  {
-   "id": "b023f8d7a176acb5",
-   "item": {
-    "id": "b023f8d7a176acb5",
-    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-    "url": "https://arxiv.org/abs/2611.19937",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 26,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nanyang Technological University researchers introduce AllocFlow",
-   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
-   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
-   "support": 0.97,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.28,
-   "priority": 7.071217,
-   "selection_reason": "Editorial importance; waiting 50.5h"
-  },
-  {
-   "id": "adadf9d1614c8d19",
-   "item": {
-    "id": "adadf9d1614c8d19",
-    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
-    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
-    "published": "2026-11-18T08:58:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Pony AI reports third quarter revenue growth",
-   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
-   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
-   "support": 0.89,
-   "published_at": "2026-11-18T08:58:46+00:00",
-   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
-   "expires_at": "2026-11-19T20:58:46+00:00",
-   "decision": 1.53,
-   "priority": 7.061563,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.109531,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4664,8 +4595,96 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.049879,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.078252,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "b023f8d7a176acb5",
+   "item": {
+    "id": "b023f8d7a176acb5",
+    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+    "url": "https://arxiv.org/abs/2611.19937",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 26,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nanyang Technological University researchers introduce AllocFlow",
+   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
+   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
+   "support": 0.97,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.28,
+   "priority": 7.06599,
+   "selection_reason": "Editorial importance; waiting 51.0h"
+  },
+  {
+   "id": "9162001826d50396",
+   "item": {
+    "id": "9162001826d50396",
+    "title": "商汤：2026前三季度营收同比增长30.4%至37.9亿，毛利率提升至43.4%",
+    "url": "https://36kr.com/newsflashes/4075103427335043?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "11月18日，商汤集团发布截至2026年9月30日止九个月业务进展。集团收入同比增长30.4%至人民币37.9亿元，增速较2026年上半年进一步加快；毛利率提升4.3个百分点至43.4%，毛利增加45.0%至人民币16.5亿元，毛利增速快于收入增速，收入质量持续改善。业务结构方面，生成式AI持续成为增长核心，增速持续高于集团整体收入增速，其中第三季度同比增长超过一倍。集团前期战略投入回报正逐步显现，AI业务商业化进程进一步提速。",
+    "published": "2026-11-18T10:09:34+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "SenseTime reports 30.4 percent revenue growth in first nine months",
+   "post": "SenseTime reported revenue of 3.79 billion yuan for the first nine months, marking a 30.4 percent year-on-year increase, alongside a gross margin of 43.4 percent.",
+   "editor_note": "Confirm whether generative AI growth figures apply strictly to the third quarter as stated.",
+   "support": 0.96,
+   "published_at": "2026-11-18T10:09:34+00:00",
+   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
+   "expires_at": "2026-11-19T22:09:34+00:00",
+   "decision": 1.48,
+   "priority": 7.063736,
+   "selection_reason": "Editorial importance; waiting 23.5h"
+  },
+  {
+   "id": "adadf9d1614c8d19",
+   "item": {
+    "id": "adadf9d1614c8d19",
+    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
+    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
+    "published": "2026-11-18T08:58:46+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Pony AI reports third quarter revenue growth",
+   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
+   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
+   "support": 0.89,
+   "published_at": "2026-11-18T08:58:46+00:00",
+   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
+   "expires_at": "2026-11-19T20:58:46+00:00",
+   "decision": 1.53,
+   "priority": 7.047625,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "59f6c6e58008fe2a",
@@ -4693,8 +4712,8 @@
    "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
    "expires_at": "2026-11-19T22:14:10+00:00",
    "decision": 1.16,
-   "priority": 6.973137,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.959199,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "9727643803e6dbd2",
@@ -4722,8 +4741,8 @@
    "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
    "expires_at": "2026-11-19T18:44:46+00:00",
    "decision": 1.29,
-   "priority": 6.919526,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.905588,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "c2855811f136cf3a",
@@ -4752,8 +4771,8 @@
    "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
    "expires_at": "2026-11-20T00:00:00+00:00",
    "decision": 1.46,
-   "priority": 6.881217,
-   "selection_reason": "Editorial importance; waiting 67.0h"
+   "priority": 6.87599,
+   "selection_reason": "Editorial importance; waiting 67.5h"
   },
   {
    "id": "b22006398e4d6532",
@@ -4780,8 +4799,8 @@
    "first_seen_at": "2026-11-18T01:07:23.150510+00:00",
    "expires_at": "2026-11-19T12:00:00+00:00",
    "decision": 0.91,
-   "priority": 6.592434,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.58198,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   }
  ],
  "details_queue": [],
@@ -4982,12 +5001,13 @@
   "https://deepmind.google/blog/genie-4-is-now-available": "2026-11-19T08:11:27.656449+00:00",
   "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us": "2026-11-19T08:38:13.475769+00:00",
   "https://huggingface.co/apple/FastFrames-L": "2026-11-19T09:09:54.364781+00:00",
-  "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia": "2026-11-19T10:11:14.139180+00:00"
+  "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia": "2026-11-19T10:11:14.139180+00:00",
+  "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards": "2026-11-19T10:42:28.387761+00:00"
  },
  "details_daily": {
   "date": "2026-11-19",
   "count": 2,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
   "32933935200c2839": {
@@ -23289,6 +23309,181 @@
    "imp": 0.09,
    "ai": 0.03,
    "ts": "2026-11-19T10:07:23.477122+00:00"
+  },
+  "e63363d23c4e9429": {
+   "imp": 2.05,
+   "ai": 0.96,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "a11f019a8898a489": {
+   "imp": 1.97,
+   "ai": 0.96,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "12214793035f8043": {
+   "imp": 1.71,
+   "ai": 0.66,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "b175db1dbb4adc4c": {
+   "imp": 1.52,
+   "ai": 0.7,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "06eb25d8bc9d2c4e": {
+   "imp": 0.74,
+   "ai": 0.76,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "92adff525e09cbfe": {
+   "imp": 2.13,
+   "ai": 0.94,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "a64d39853da0fc23": {
+   "imp": 1.72,
+   "ai": 0.94,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "d25121d422ff58e4": {
+   "imp": 0.91,
+   "ai": 0.51,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "c4d077949325851b": {
+   "imp": 1.28,
+   "ai": 0.25,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "99ba0615d72a889c": {
+   "imp": 0.23,
+   "ai": 0.09,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "7070b18287506acd": {
+   "imp": 2.2,
+   "ai": 0.98,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "e52f2502e27aaa06": {
+   "imp": 1.55,
+   "ai": 0.97,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "2ea14e17b7c3f4ce": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "6a79662aaf059733": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "b8defdb0838c5e04": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "2ab3e74a859f430d": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "7437685f1368bcf0": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "ae4eebd3331d9469": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "c668250dea63a04b": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "8822205adc745f55": {
+   "imp": 0.04,
+   "ai": 0.03,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "8a88e6648a88738c": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "3ba2c84c872ec528": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "218c557fc88e8033": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "3797e8ff7624fb0b": {
+   "imp": 0.34,
+   "ai": 0.05,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "3af41267cbbba29d": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "856881e7d35dd131": {
+   "imp": 0.75,
+   "ai": 0.16,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "ffb3eeb670bf195c": {
+   "imp": 0.31,
+   "ai": 0.07,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "7bb60b4d798406a2": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "44ac93ebbe926638": {
+   "imp": 0.52,
+   "ai": 0.07,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "5254d326f384ee03": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "81aac4f780a03f1d": {
+   "imp": 0.35,
+   "ai": 0.1,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "b6bb01b017fdf16f": {
+   "imp": 0.27,
+   "ai": 0.09,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "a42b6e4cd62fbefa": {
+   "imp": 0.56,
+   "ai": 0.25,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "37b396ecd594c727": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
+  },
+  "fc600ae994370011": {
+   "imp": 0.84,
+   "ai": 0.14,
+   "ts": "2026-11-19T10:37:29.788570+00:00"
   }
  }
 }
