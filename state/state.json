@@ -1,23 +1,5 @@
 {
  "seen": {
-  "de06bec5ec8071c8": "2026-11-13T06:37:30.057071+00:00",
-  "08c7f991044ea74b": "2026-11-13T06:37:30.057071+00:00",
-  "9a84b692c389219b": "2026-11-13T06:37:30.057071+00:00",
-  "bb29c4c74880cfc0": "2026-11-13T06:37:30.057071+00:00",
-  "bd6e3601b8c6d4d1": "2026-11-13T06:37:30.057071+00:00",
-  "9ed9d9b7515122da": "2026-11-13T06:37:30.057071+00:00",
-  "00ccf51f4f6efee2": "2026-11-13T06:37:30.057071+00:00",
-  "383b23c14b23bacb": "2026-11-13T06:37:30.057071+00:00",
-  "8ea144c295d40aeb": "2026-11-13T06:37:30.057071+00:00",
-  "2c035888b8c77bd7": "2026-11-13T06:37:30.057071+00:00",
-  "4cd725602f286286": "2026-11-13T06:37:30.057071+00:00",
-  "cbf22493d8c74bd5": "2026-11-13T06:37:30.057071+00:00",
-  "f994a479cb3d5341": "2026-11-13T06:37:30.057071+00:00",
-  "23a0e23d40067a71": "2026-11-13T06:37:30.057071+00:00",
-  "2035108bc57d1040": "2026-11-13T06:37:30.057071+00:00",
-  "80a3e1466591637e": "2026-11-13T06:37:30.057071+00:00",
-  "4256f9a0e16d7e83": "2026-11-13T06:37:30.057071+00:00",
-  "83c41a9c2e6b4b3c": "2026-11-13T06:37:30.057071+00:00",
   "c7b2bfba063be7c5": "2026-11-13T07:37:35.670710+00:00",
   "65321a49c617739d": "2026-11-13T07:37:35.670710+00:00",
   "cef75d4c76946800": "2026-11-13T07:37:35.670710+00:00",
@@ -1836,13 +1818,14 @@
   "ad74b50e7f7ef6b0": "2026-11-20T06:07:22.297191+00:00",
   "539200b54fe4ce1b": "2026-11-20T06:07:22.297191+00:00",
   "a628e3d51eab8a75": "2026-11-20T06:07:22.297191+00:00",
-  "6d6821f501bbce2e": "2026-11-20T06:07:22.297191+00:00"
+  "6d6821f501bbce2e": "2026-11-20T06:07:22.297191+00:00",
+  "11127e294ca2d614": "2026-11-20T06:37:35.518093+00:00",
+  "c956e5a3c351c7f3": "2026-11-20T06:37:35.518093+00:00",
+  "86ce3137a6f2406d": "2026-11-20T06:37:35.518093+00:00",
+  "f309121a2a37e610": "2026-11-20T06:37:35.518093+00:00",
+  "390d68728585a232": "2026-11-20T06:37:35.518093+00:00"
  },
  "covered": [
-  {
-   "headline": "Neysa deploys AMD Instinct MI350X cluster in Mumbai",
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
   {
    "headline": "Microsoft to license model weights for enterprise customization",
    "ts": "2026-11-18T07:07:22.056639+00:00"
@@ -2054,11 +2037,15 @@
   {
    "headline": "Google adds computer use capabilities to Gemini macOS app",
    "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  {
+   "headline": "US government approved chip export licenses for China",
+   "ts": "2026-11-20T06:37:35.518093+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3999,8 +3986,8 @@
    "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
    "expires_at": "2026-11-21T07:11:58+00:00",
    "decision": 1.96,
-   "priority": 7.631125,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.648613,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4029,8 +4016,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.399609,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.396611,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4058,8 +4045,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.375106,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.361115,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4087,8 +4074,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.343879,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.329888,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4154,8 +4141,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.274643,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.260652,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4183,35 +4170,7 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.268231,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 7.20114,
+   "priority": 7.25424,
    "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
@@ -4241,8 +4200,36 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.192887,
-   "selection_reason": "Editorial importance; waiting 48.0h"
+   "priority": 7.18764,
+   "selection_reason": "Editorial importance; waiting 48.5h"
+  },
+  {
+   "id": "4bc4cadcc57b3185",
+   "item": {
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 7.187149,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4270,8 +4257,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.18989,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.175899,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4323,8 +4310,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.12709,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.144579,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4351,8 +4338,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.119342,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.105351,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4381,8 +4368,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.07622,
-   "selection_reason": "Editorial importance; waiting 71.0h"
+   "priority": 7.070974,
+   "selection_reason": "Editorial importance; waiting 71.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4411,8 +4398,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.862887,
-   "selection_reason": "Editorial importance; waiting 70.5h"
+   "priority": 6.85764,
+   "selection_reason": "Editorial importance; waiting 71.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4439,8 +4426,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.818817,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 6.804826,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4467,8 +4454,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.756607,
-   "selection_reason": "Editorial importance; waiting 37.0h"
+   "priority": 6.746114,
+   "selection_reason": "Editorial importance; waiting 37.5h"
   }
  ],
  "details_queue": [],
@@ -4688,12 +4675,13 @@
   "https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai": "2026-11-20T04:39:29.759597+00:00",
   "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_Technology": "2026-11-20T05:07:52.007968+00:00",
   "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": "2026-11-20T05:39:54.412062+00:00",
-  "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use": "2026-11-20T06:07:45.538658+00:00"
+  "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use": "2026-11-20T06:07:45.538658+00:00",
+  "https://analyticsindiamag.com/ai-news/us-lawmakers-disclose-approvals-for-879000-nvidia-and-amd-chips-to-china": "2026-11-20T06:38:16.463764+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
   "32933935200c2839": {
@@ -25515,6 +25503,71 @@
    "imp": 1.16,
    "ai": 0.45,
    "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  "c956e5a3c351c7f3": {
+   "imp": 0.98,
+   "ai": 0.94,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "86ce3137a6f2406d": {
+   "imp": 1.51,
+   "ai": 0.88,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "390d68728585a232": {
+   "imp": 1.96,
+   "ai": 0.96,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "f309121a2a37e610": {
+   "imp": 0.88,
+   "ai": 0.87,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "11127e294ca2d614": {
+   "imp": 1.83,
+   "ai": 0.8,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "31eae23e61fbd7c7": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "eb9528be356ead0e": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "a8cf7a1316e5c469": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "0182e75a58f2457d": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "01b6b2c8beeea97d": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "465a64029ad8daf3": {
+   "imp": 1.19,
+   "ai": 0.68,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "2358a416c720123b": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
+  },
+  "0d7fc6138747996c": {
+   "imp": 1.31,
+   "ai": 0.2,
+   "ts": "2026-11-20T06:37:35.518093+00:00"
   }
  }
 }
