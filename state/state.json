@@ -1,44 +1,5 @@
 {
  "seen": {
-  "cb86ca9a5a41005e": "2026-11-13T01:37:22.632963+00:00",
-  "c8c5dc29297d2e3d": "2026-11-13T01:37:22.632963+00:00",
-  "55c82808e34dc93d": "2026-11-13T01:37:22.632963+00:00",
-  "af86e61fe4ce47cc": "2026-11-13T01:37:22.632963+00:00",
-  "3903c89c61e50edc": "2026-11-13T01:37:22.632963+00:00",
-  "96ecb0d7004865d1": "2026-11-13T01:37:22.632963+00:00",
-  "39669d2d6e5c60c1": "2026-11-13T01:37:22.632963+00:00",
-  "1473b27afe9e2e21": "2026-11-13T01:37:22.632963+00:00",
-  "860631918f65ec73": "2026-11-13T01:37:22.632963+00:00",
-  "86fdf0954cc3c31a": "2026-11-13T01:37:22.632963+00:00",
-  "b5b1e8f149e47936": "2026-11-13T01:37:22.632963+00:00",
-  "73736854192c70e5": "2026-11-13T01:37:22.632963+00:00",
-  "d7090ffe324cd52f": "2026-11-13T01:37:22.632963+00:00",
-  "4213b9afeff9a7e6": "2026-11-13T01:37:22.632963+00:00",
-  "7061f07c1bf28910": "2026-11-13T01:37:22.632963+00:00",
-  "484503c1e22b4073": "2026-11-13T01:37:22.632963+00:00",
-  "5c8a7e2ce9e472f4": "2026-11-13T01:37:22.632963+00:00",
-  "e1047eb6c971032c": "2026-11-13T01:37:22.632963+00:00",
-  "a8b643eb64fbed24": "2026-11-13T01:37:22.632963+00:00",
-  "c8f0355be83c6230": "2026-11-13T01:37:22.632963+00:00",
-  "fc0f425d4885ad33": "2026-11-13T01:37:22.632963+00:00",
-  "8d17049a8b3cbd55": "2026-11-13T01:37:22.632963+00:00",
-  "54870133dd92d7d7": "2026-11-13T01:37:22.632963+00:00",
-  "99fc1b1648d4d4c6": "2026-11-13T01:37:22.632963+00:00",
-  "ffce7db4127cd4d8": "2026-11-13T01:37:22.632963+00:00",
-  "28f618273b47e60b": "2026-11-13T01:37:22.632963+00:00",
-  "1d5bf5c310515265": "2026-11-13T01:37:22.632963+00:00",
-  "564a7b5e35d6d5dc": "2026-11-13T01:37:22.632963+00:00",
-  "6b6531993c1a1870": "2026-11-13T01:37:22.632963+00:00",
-  "1cee8f9d3f505b5c": "2026-11-13T01:37:22.632963+00:00",
-  "ce66f14179283fa2": "2026-11-13T01:37:22.632963+00:00",
-  "4e5f050a8025acc5": "2026-11-13T01:37:22.632963+00:00",
-  "fddd91688ce47808": "2026-11-13T01:37:22.632963+00:00",
-  "a8d5fa7d24b3647f": "2026-11-13T01:37:22.632963+00:00",
-  "ad614f81e42f72e5": "2026-11-13T01:37:22.632963+00:00",
-  "a67e1509e9c05d5d": "2026-11-13T01:37:22.632963+00:00",
-  "3403360ccc1df753": "2026-11-13T01:37:22.632963+00:00",
-  "4d9244537a2033a7": "2026-11-13T01:37:22.632963+00:00",
-  "875637b2c34d1326": "2026-11-13T01:37:22.632963+00:00",
   "4e46e49750fb65fe": "2026-11-13T02:07:20.260034+00:00",
   "e9b2308e4ac312d9": "2026-11-13T02:07:20.260034+00:00",
   "8f26722d3a932fa4": "2026-11-13T02:07:20.260034+00:00",
@@ -1851,13 +1812,31 @@
   "8cfda65b8c9583b3": "2026-11-20T01:07:24.013813+00:00",
   "f19e211d05f9e470": "2026-11-20T01:07:24.013813+00:00",
   "f6e15f5626ee24c0": "2026-11-20T01:07:24.013813+00:00",
-  "ba66cb81d653444d": "2026-11-20T01:07:24.013813+00:00"
+  "ba66cb81d653444d": "2026-11-20T01:07:24.013813+00:00",
+  "5590d4d47ed2184b": "2026-11-20T01:37:24.042985+00:00",
+  "7e9fc57c134e72d2": "2026-11-20T01:37:24.042985+00:00",
+  "cb99e2baa62e7866": "2026-11-20T01:37:24.042985+00:00",
+  "b555cb95b60d6e2b": "2026-11-20T01:37:24.042985+00:00",
+  "a0888e9365a74251": "2026-11-20T01:37:24.042985+00:00",
+  "74e2df77898470ff": "2026-11-20T01:37:24.042985+00:00",
+  "4fcd6ac84d19314d": "2026-11-20T01:37:24.042985+00:00",
+  "71fe76ed06ab9f5b": "2026-11-20T01:37:24.042985+00:00",
+  "1a810873551c1811": "2026-11-20T01:37:24.042985+00:00",
+  "91dc9797ab553920": "2026-11-20T01:37:24.042985+00:00",
+  "0810890cce223fe1": "2026-11-20T01:37:24.042985+00:00",
+  "3aff5807a280dfbc": "2026-11-20T01:37:24.042985+00:00",
+  "d8d48924d5712e74": "2026-11-20T01:37:24.042985+00:00",
+  "fd8de73e91659920": "2026-11-20T01:37:24.042985+00:00",
+  "73b84a666fa75b01": "2026-11-20T01:37:24.042985+00:00",
+  "9336b6b3add507b6": "2026-11-20T01:37:24.042985+00:00",
+  "0daf5227b7d58029": "2026-11-20T01:37:24.042985+00:00",
+  "52653ae3ad736466": "2026-11-20T01:37:24.042985+00:00",
+  "26413345f446f766": "2026-11-20T01:37:24.042985+00:00",
+  "2dbed38e5df5060e": "2026-11-20T01:37:24.042985+00:00",
+  "1200c1454b76f309": "2026-11-20T01:37:24.042985+00:00",
+  "9db0edfc2ece3c1b": "2026-11-20T01:37:24.042985+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia board rejects Jensen Huang return as revenue forecasts rise",
-   "ts": "2026-11-18T01:37:23.406600+00:00"
-  },
   {
    "headline": "Anthropic guides IPO price to top of range",
    "ts": "2026-11-18T02:07:29.124189+00:00"
@@ -2069,11 +2048,15 @@
   {
    "headline": "Karnataka secures 1050 crore rupees in deeptech investments",
    "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  {
+   "headline": "Infosys invests in NTT Docomo metaverse joint venture",
+   "ts": "2026-11-20T01:37:24.042985+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3929,15 +3912,15 @@
  },
  "pending": [
   {
-   "id": "9db0edfc2ece3c1b",
+   "id": "34b83d12501d0d10",
    "item": {
-    "id": "9db0edfc2ece3c1b",
-    "title": "Infosys Expands AI Footprint in Japan With Telecom JV",
-    "url": "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243584036-c238271a-96bf-4f57-8836-d632e18d7e56-m1mon.webp",
-    "snippet": "Infosys will invest JPY 1.59 billion (₹92.75 crore) in NTT DOCOMO Playspace, a joint venture (JV) anchored by Japanese telecommunications company NTT DOCOMO, to develop metaverse-based experiences, digital twins, and virtual commerce. Infosys said its Singapore subsidiary, Infosys Singapore Pte Ltd, would enter into a joint venture agreement with NTT DOCOMO. It will acquire a 10.1% stake in the ve…",
-    "published": "2026-11-19T13:57:42+00:00",
+    "id": "34b83d12501d0d10",
+    "title": "Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million",
+    "url": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Nvidia is in advanced talks to acquire Inception, a two-year-old startup that develops a type of AI that aims to perform faster than the one that powers products such as ChatGPT and Claude, according to three people with knowledge of the discussions. The proposed deal is worth at least $500 million, plus “earnout” awards for the new employees, depending on whether they hit certain goals, one of th…",
+    "published": "2026-11-19T22:43:01+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -3945,16 +3928,16 @@
    "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Infosys invests in NTT Docomo metaverse joint venture",
-   "post": "Infosys Singapore will invest 1.59 billion yen to acquire a 10.1 percent stake in NTT Docomo Playspace, a joint venture developing metaverse and digital twin technologies.",
-   "editor_note": "Confirm currency conversion and exact stake percentages.",
-   "support": 0.95,
-   "published_at": "2026-11-19T13:57:42+00:00",
-   "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
-   "expires_at": "2026-11-21T01:57:42+00:00",
-   "decision": 1.79,
-   "priority": 8.911611,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "headline": "Nvidia in talks to acquire AI startup Inception",
+   "post": "Nvidia is in advanced talks to acquire Inception, a two-year-old diffusion AI startup, for at least $500 million plus earnout incentives, according to The Information.",
+   "editor_note": "Verify acquisition completion as terms remain in negotiation according to sources.",
+   "support": 0.96,
+   "published_at": "2026-11-19T22:43:01+00:00",
+   "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
+   "expires_at": "2026-11-21T10:43:01+00:00",
+   "decision": 2.22,
+   "priority": 8.659267,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "f689168723dc030d",
@@ -3981,8 +3964,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.078171,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 8.067754,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4022,8 +4005,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.902577,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.888688,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "9459a3fd0a1fa3b7",
@@ -4076,6 +4059,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "2ed09bbf2a0c5d3c",
+     "title": "Apple may be developing its own AI agent that runs your Mac",
+     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+     "published": "2026-11-20T00:56:01+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -4088,8 +4083,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T10:31:41+00:00",
    "decision": 2.29,
-   "priority": 7.691242,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.708604,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "135e029ffa381fa8",
@@ -4129,8 +4124,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T10:31:14+00:00",
    "decision": 2.28,
-   "priority": 7.687701,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.705062,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "27ade97edf6bd0c5",
@@ -4157,8 +4152,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T09:15:01+00:00",
    "decision": 2.14,
-   "priority": 7.605748,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.62311,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "a628e3d51eab8a75",
@@ -4174,19 +4169,32 @@
     "category": "news",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "6d6821f501bbce2e",
+     "title": "Google gives Gemini the ability to use your Mac for you",
+     "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+     "published": "2026-11-19T18:09:11+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
    "importance": 7,
    "urgency": "timely",
    "headline": "Google adds computer use capabilities to Gemini macOS app",
    "post": "Google updated its Gemini app for macOS with computer use features, enabling the assistant to complete multi-step tasks across local files, desktop apps, and the web.",
    "editor_note": "Check whether computer use on macOS is available to free users or restricted to paid subscribers.",
    "support": 0.96,
-   "published_at": "2026-11-19T18:21:13+00:00",
+   "published_at": "2026-11-19T18:09:11+00:00",
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
-   "expires_at": "2026-11-21T06:21:13+00:00",
+   "expires_at": "2026-11-21T06:09:11+00:00",
    "decision": 2.17,
-   "priority": 7.535285,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.547076,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4214,8 +4222,49 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.513981,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.500092,
+   "selection_reason": "Editorial importance; waiting 14.5h"
+  },
+  {
+   "id": "b9badfd3e81f1cb3",
+   "item": {
+    "id": "b9badfd3e81f1cb3",
+    "title": "Meta Bets on $300 Muse Charm to Boost AI Hardware Business",
+    "url": "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Meta Platforms plans to charge $300 for its forthcoming Muse Charm device and offer user subsidies, according to a person familiar with the matter, betting that the pocket-sized AI gadget will help energize its hardware business and draw users to its new personal assistant. To lure buyers, Meta plans to offer a free 5G data plan from Verizon for up to 12 months that would enable faster responses f…",
+    "published": "2026-11-19T19:11:58+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "b0341a0ae375085e",
+     "title": "Meta’s Muse Charm might cost $300",
+     "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+     "published": "2026-11-19T20:22:17+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Meta plans $300 price for Muse Charm AI device",
+   "post": "Meta plans to price its pocket-sized Muse Charm AI assistant device at $300 and offer a free 12-month Verizon 5G data plan, according to The Information.",
+   "editor_note": "Verify official launch details and data plan terms prior to consumer release.",
+   "support": 0.9,
+   "published_at": "2026-11-19T19:11:58+00:00",
+   "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
+   "expires_at": "2026-11-21T07:11:58+00:00",
+   "decision": 1.96,
+   "priority": 7.474892,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "c13d075741cf194b",
@@ -4243,8 +4292,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.482755,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.468865,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4273,8 +4322,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.429368,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.426392,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4340,8 +4389,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.413518,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.399629,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4369,8 +4418,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.407106,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.393217,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4397,8 +4446,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.340015,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.326126,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4426,8 +4475,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.328765,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.314876,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4454,8 +4503,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.258217,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.244328,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4484,8 +4533,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.244965,
-   "selection_reason": "Editorial importance; waiting 43.0h"
+   "priority": 7.239757,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4514,8 +4563,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.233707,
-   "selection_reason": "Editorial importance; waiting 43.5h"
+   "priority": 7.230731,
+   "selection_reason": "Editorial importance; waiting 44.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4544,8 +4593,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.128299,
-   "selection_reason": "Editorial importance; waiting 66.0h"
+   "priority": 7.12309,
+   "selection_reason": "Editorial importance; waiting 66.5h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4572,8 +4621,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 6.971342,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.957453,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4600,8 +4649,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.957693,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 6.943804,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4630,8 +4679,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.914965,
-   "selection_reason": "Editorial importance; waiting 65.5h"
+   "priority": 6.909757,
+   "selection_reason": "Editorial importance; waiting 66.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4658,8 +4707,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.860764,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.850347,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   }
  ],
  "details_queue": [],
@@ -4869,12 +4918,13 @@
   "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo": "2026-11-19T13:08:14.156005+00:00",
   "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": "2026-11-19T15:08:03.670442+00:00",
   "https://www.livemint.com/technology/digital-india-bhashini-division-nielit-sign-mou-to-advance-multilingual-ai-and-technology-education-11795091862564.html": "2026-11-19T17:08:29.103696+00:00",
-  "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs": "2026-11-20T01:11:42.642254+00:00"
+  "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs": "2026-11-20T01:11:42.642254+00:00",
+  "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner": "2026-11-20T01:39:34.944714+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "32933935200c2839": {
@@ -25006,6 +25056,171 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "2aa4b234dbdd26e8": {
+   "imp": 1.13,
+   "ai": 0.77,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "fd8de73e91659920": {
+   "imp": 1.65,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "71fe76ed06ab9f5b": {
+   "imp": 1.65,
+   "ai": 0.88,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "0810890cce223fe1": {
+   "imp": 1.11,
+   "ai": 0.82,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "91dc9797ab553920": {
+   "imp": 1.13,
+   "ai": 0.86,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "325f2e0ec9d6c19e": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "79362264bf2586dd": {
+   "imp": 1.01,
+   "ai": 0.35,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "f3cb1ff43a996841": {
+   "imp": 0.23,
+   "ai": 0.06,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "06bc97f0ff7d5bb0": {
+   "imp": 0.85,
+   "ai": 0.42,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "e80e92235203a2f9": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "940f151008fd9058": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "2e8759e282dfe52e": {
+   "imp": 0.22,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "4afff019091e9291": {
+   "imp": 1.3,
+   "ai": 0.27,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "b8345cabe78a6d7b": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "263a45b58e51f77f": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "f23c2b692b67fb87": {
+   "imp": 0.64,
+   "ai": 0.22,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "edf3e45c12f4fcc8": {
+   "imp": 0.38,
+   "ai": 0.07,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "512f58a4177b6869": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "a565963c11572c48": {
+   "imp": 0.79,
+   "ai": 0.42,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "60255f521a64bc55": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "ebf971732a6ec5a2": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "e53b1b9855b56356": {
+   "imp": 1.08,
+   "ai": 0.61,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "a82ee2715dcea7d0": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "f41939150b7ccda4": {
+   "imp": 0.18,
+   "ai": 0.07,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "2505aad7ecea6a0e": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "7bd2ac6679539e55": {
+   "imp": 0.73,
+   "ai": 0.25,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "775a6696c1c52706": {
+   "imp": 0.71,
+   "ai": 0.31,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "387b4a51f71c8d40": {
+   "imp": 0.83,
+   "ai": 0.22,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "16d6c1f5ed0fc3f5": {
+   "imp": 1.23,
+   "ai": 0.28,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "4bb4de716c9ae108": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "682dc6bdf990325c": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "b837f89cb8aeb82f": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
+  },
+  "44d231d9ee488f2d": {
+   "imp": 1.53,
+   "ai": 0.12,
+   "ts": "2026-11-20T01:37:24.042985+00:00"
   }
  }
 }
