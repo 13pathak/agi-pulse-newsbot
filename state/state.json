@@ -1,15 +1,5 @@
 {
  "seen": {
-  "139d22549f65ad3f": "2026-11-13T10:37:22.508699+00:00",
-  "cb5bc8cfb675913d": "2026-11-13T10:37:22.508699+00:00",
-  "9b9348454ec34180": "2026-11-13T10:37:22.508699+00:00",
-  "3830705056322dbc": "2026-11-13T10:37:22.508699+00:00",
-  "9508034964bf19c1": "2026-11-13T10:37:22.508699+00:00",
-  "fba3cffa35311a51": "2026-11-13T10:37:22.508699+00:00",
-  "e1c0b7be64d8ee03": "2026-11-13T10:37:22.508699+00:00",
-  "b0ebb737da27be00": "2026-11-13T10:37:22.508699+00:00",
-  "13b9eaa9bf55e0e5": "2026-11-13T10:37:22.508699+00:00",
-  "85bacafff42444d7": "2026-11-13T10:37:22.508699+00:00",
   "cefbc3be34f9ab38": "2026-11-13T11:07:47.605962+00:00",
   "e74e359305b4dd75": "2026-11-13T11:07:47.605962+00:00",
   "9469d6fdfcc69aea": "2026-11-13T11:07:47.605962+00:00",
@@ -1819,13 +1809,17 @@
   "c1fe6e4cca9dd9e0": "2026-11-20T10:07:27.760801+00:00",
   "55e309827a077380": "2026-11-20T10:07:27.760801+00:00",
   "033ccd75400dbe4c": "2026-11-20T10:07:27.760801+00:00",
-  "a3863f0b4fbf0b74": "2026-11-20T10:07:27.760801+00:00"
+  "a3863f0b4fbf0b74": "2026-11-20T10:07:27.760801+00:00",
+  "4ee36b4bc5d18e3c": "2026-11-20T10:37:24.685869+00:00",
+  "9b3cc20958135393": "2026-11-20T10:37:24.685869+00:00",
+  "eff10dd94532cdc0": "2026-11-20T10:37:24.685869+00:00",
+  "8d5c5eebe8733380": "2026-11-20T10:37:24.685869+00:00",
+  "5077181eb050ca74": "2026-11-20T10:37:24.685869+00:00",
+  "4432f02a18f6655d": "2026-11-20T10:37:24.685869+00:00",
+  "12b0275a8ef13e71": "2026-11-20T10:37:24.685869+00:00",
+  "59f9e58f14352257": "2026-11-20T10:37:24.685869+00:00"
  },
  "covered": [
-  {
-   "headline": "Serri AI crosses $2 million ARR milestone",
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
   {
    "headline": "Sarvam hosting Chinese AI models sparks sovereignty debate in India",
    "ts": "2026-11-18T11:07:31.469280+00:00"
@@ -2037,11 +2031,15 @@
   {
    "headline": "Sugon 8000 supercomputer wins Gordon Bell prize",
    "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  {
+   "headline": "Google shifts to direct HBM procurement for TPUs",
+   "ts": "2026-11-20T10:37:24.685869+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3939,8 +3937,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:01:37+00:00",
    "decision": 1.59,
-   "priority": 7.561931,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.579263,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "07bc4c3acd8fdb1e",
@@ -3967,8 +3965,8 @@
    "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
    "expires_at": "2026-11-21T19:16:51+00:00",
    "decision": 1.61,
-   "priority": 7.551498,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.568829,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -3996,8 +3994,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.546602,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.563934,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "8361df2178159924",
@@ -4024,8 +4022,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.52753,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.544861,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4054,8 +4052,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.375791,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.37282,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4107,8 +4105,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.266032,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.283363,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4136,8 +4134,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.263952,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.250087,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4165,8 +4163,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.232726,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.21886,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4232,37 +4230,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.163489,
-   "selection_reason": "Editorial importance; waiting 23.0h"
-  },
-  {
-   "id": "db250979562e999a",
-   "item": {
-    "id": "db250979562e999a",
-    "title": "31位合伙人等间接入股DeepSeek",
-    "url": "https://36kr.com/newsflashes/4076432878474113?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，天眼查App显示，近日，DeepSeek关联公司杭州深度求索人工智能基础技术研究有限公司发生工商变更，新增杭州程砚企业管理咨询合伙企业（有限合伙）为股东，同时，注册资本由约1645万元人民币增至约1992万元人民币，增幅约21%。值得一提的是，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增吉利旗下浙江吉利产投控股有限公司、网易旗下杭州雷火万相科技有限责任公司、美的投资有限公司等31位合伙人。",
-    "published": "2026-11-19T08:41:57+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "31 corporate partners take indirect stake in DeepSeek",
-   "post": "DeepSeek's main operating entity increased its registered capital by 21% to 19.92 million yuan as a holding partnership added 31 partners, including affiliates of Geely, NetEase, and Midea.",
-   "editor_note": "Verify the exact equity percentage held by Hangzhou ChengYan in DeepSeek following the corporate filing update.",
-   "support": 0.84,
-   "published_at": "2026-11-19T08:41:57+00:00",
-   "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
-   "expires_at": "2026-11-20T20:41:57+00:00",
-   "decision": 1.84,
-   "priority": 7.157077,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.149624,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4291,8 +4260,37 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.151204,
-   "selection_reason": "Editorial importance; waiting 52.0h"
+   "priority": 7.146005,
+   "selection_reason": "Editorial importance; waiting 52.5h"
+  },
+  {
+   "id": "db250979562e999a",
+   "item": {
+    "id": "db250979562e999a",
+    "title": "31位合伙人等间接入股DeepSeek",
+    "url": "https://36kr.com/newsflashes/4076432878474113?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，天眼查App显示，近日，DeepSeek关联公司杭州深度求索人工智能基础技术研究有限公司发生工商变更，新增杭州程砚企业管理咨询合伙企业（有限合伙）为股东，同时，注册资本由约1645万元人民币增至约1992万元人民币，增幅约21%。值得一提的是，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增吉利旗下浙江吉利产投控股有限公司、网易旗下杭州雷火万相科技有限责任公司、美的投资有限公司等31位合伙人。",
+    "published": "2026-11-19T08:41:57+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "31 corporate partners take indirect stake in DeepSeek",
+   "post": "DeepSeek's main operating entity increased its registered capital by 21% to 19.92 million yuan as a holding partnership added 31 partners, including affiliates of Geely, NetEase, and Midea.",
+   "editor_note": "Verify the exact equity percentage held by Hangzhou ChengYan in DeepSeek following the corporate filing update.",
+   "support": 0.84,
+   "published_at": "2026-11-19T08:41:57+00:00",
+   "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
+   "expires_at": "2026-11-20T20:41:57+00:00",
+   "decision": 1.84,
+   "priority": 7.143212,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4320,8 +4318,36 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.110133,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.127465,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "048307fe18e56f2d",
+   "item": {
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.109902,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4348,8 +4374,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.089986,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.076121,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4377,8 +4403,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.078736,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.064871,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4407,8 +4433,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.034538,
-   "selection_reason": "Editorial importance; waiting 75.0h"
+   "priority": 7.029338,
+   "selection_reason": "Editorial importance; waiting 75.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4435,8 +4461,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.008189,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.994323,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "74ce162468414800",
@@ -4465,8 +4491,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 6.915888,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.941885,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4495,8 +4521,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.821204,
-   "selection_reason": "Editorial importance; waiting 74.5h"
+   "priority": 6.816005,
+   "selection_reason": "Editorial importance; waiting 75.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4523,8 +4549,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.707664,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.693799,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4551,8 +4577,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.673242,
-   "selection_reason": "Editorial importance; waiting 41.0h"
+   "priority": 6.662843,
+   "selection_reason": "Editorial importance; waiting 41.5h"
   }
  ],
  "details_queue": [],
@@ -4779,12 +4805,13 @@
   "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model": "2026-11-20T08:09:35.176752+00:00",
   "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks": "2026-11-20T08:39:11.934323+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion": "2026-11-20T09:09:35.642134+00:00",
-  "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai": "2026-11-20T09:39:20.283997+00:00"
+  "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai": "2026-11-20T09:39:20.283997+00:00",
+  "https://36kr.com/newsflashes/4077880783999880?f=rss": "2026-11-20T10:38:39.790262+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
   "32933935200c2839": {
@@ -26401,6 +26428,116 @@
    "imp": 0.07,
    "ai": 0.05,
    "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "5077181eb050ca74": {
+   "imp": 1.06,
+   "ai": 0.78,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "9b3cc20958135393": {
+   "imp": 1.48,
+   "ai": 0.95,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "eff10dd94532cdc0": {
+   "imp": 1.33,
+   "ai": null,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "4ee36b4bc5d18e3c": {
+   "imp": 1.89,
+   "ai": 0.92,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "ee9ca3b55b238e72": {
+   "imp": 0.25,
+   "ai": 0.11,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "048307fe18e56f2d": {
+   "imp": 1.84,
+   "ai": 0.91,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "4432f02a18f6655d": {
+   "imp": 1.2,
+   "ai": 0.63,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "12b0275a8ef13e71": {
+   "imp": 0.94,
+   "ai": 0.38,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "2b8268ed3f1e6c34": {
+   "imp": 0.35,
+   "ai": 0.11,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "6b0985c58146b73b": {
+   "imp": 0.37,
+   "ai": 0.15,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "8d5c5eebe8733380": {
+   "imp": 1.21,
+   "ai": 0.93,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "5ad87364d2e1b707": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "573812f0ec3990c5": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "1063233e17df9de0": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "f261f917bb5c5c8f": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "d7725c6218a135f0": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "59f9e58f14352257": {
+   "imp": 1.81,
+   "ai": 0.9,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "b8fd7b9c195b96cd": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "ce0bfdc8c5275962": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "715c8ebed00bd04b": {
+   "imp": 0.3,
+   "ai": 0.12,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "d26d34b11f8672dd": {
+   "imp": 0.58,
+   "ai": 0.15,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "43f2d79a761bf75f": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-20T10:37:24.685869+00:00"
   }
  }
 }
