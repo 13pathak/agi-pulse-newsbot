@@ -1,19 +1,5 @@
 {
  "seen": {
-  "72315bb03f36759e": "2026-11-13T11:37:25.465062+00:00",
-  "9b0fc0ebc6efeece": "2026-11-13T11:37:25.465062+00:00",
-  "51e939fde6f0ed64": "2026-11-13T11:37:25.465062+00:00",
-  "0dbadd8158b7a524": "2026-11-13T11:37:25.465062+00:00",
-  "47ea25b516f5a626": "2026-11-13T11:37:25.465062+00:00",
-  "460ec4813c81b720": "2026-11-13T11:37:25.465062+00:00",
-  "d5040ea97e44c30b": "2026-11-13T11:37:25.465062+00:00",
-  "35841fa878f59e0e": "2026-11-13T11:37:25.465062+00:00",
-  "ad4711629dd6923d": "2026-11-13T11:37:25.465062+00:00",
-  "1b66973b422d4d8f": "2026-11-13T11:37:25.465062+00:00",
-  "ef40ccf4d0154f22": "2026-11-13T11:37:25.465062+00:00",
-  "e027394f77e2a2ab": "2026-11-13T11:37:25.465062+00:00",
-  "b1f5c004595bf863": "2026-11-13T11:37:25.465062+00:00",
-  "2cf60afac2834da2": "2026-11-13T11:37:25.465062+00:00",
   "548dc0241fb93c86": "2026-11-13T12:07:26.736390+00:00",
   "c4b5715bfda23a0e": "2026-11-13T12:07:26.736390+00:00",
   "8fcb3001e7117556": "2026-11-13T12:07:26.736390+00:00",
@@ -1812,13 +1798,17 @@
   "53f2410e3ea1cc17": "2026-11-20T11:07:21.876528+00:00",
   "311975880d0b9886": "2026-11-20T11:07:21.876528+00:00",
   "e5d4429b03a86f57": "2026-11-20T11:07:21.876528+00:00",
-  "ccd97c6cfbf19269": "2026-11-20T11:07:21.876528+00:00"
+  "ccd97c6cfbf19269": "2026-11-20T11:07:21.876528+00:00",
+  "bac43362df2a372b": "2026-11-20T11:37:24.028030+00:00",
+  "57b16962d516eb8c": "2026-11-20T11:37:24.028030+00:00",
+  "5b143098397ffee7": "2026-11-20T11:37:24.028030+00:00",
+  "045881cd2c0c2e2f": "2026-11-20T11:37:24.028030+00:00",
+  "3164b2dc6085d0db": "2026-11-20T11:37:24.028030+00:00",
+  "f99d0b19f5cc5b7f": "2026-11-20T11:37:24.028030+00:00",
+  "ac5cbaa76698a75f": "2026-11-20T11:37:24.028030+00:00",
+  "a2dbc005f592fb4c": "2026-11-20T11:37:24.028030+00:00"
  },
  "covered": [
-  {
-   "headline": "Humyn Labs raises $47 million for robotics training data",
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
   {
    "headline": "Nvidia expands chip supply chain with multi-billion dollar packaging support",
    "ts": "2026-11-18T12:07:25.036261+00:00"
@@ -2030,11 +2020,15 @@
   {
    "headline": "SatSure raises 60 crore rupees for satellite and AI expansion",
    "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  {
+   "headline": "Signal restricts screenshots to block AI agents from reading messages",
+   "ts": "2026-11-20T11:37:24.028030+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3914,34 +3908,6 @@
  },
  "pending": [
   {
-   "id": "a2dbc005f592fb4c",
-   "item": {
-    "id": "a2dbc005f592fb4c",
-    "title": "Signal restricts screenshots to block AI agents from reading messages",
-    "url": "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html",
-    "source": "Mint",
-    "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
-    "snippet": "AI-AGENT/SIGNAL (EXCLUSIVE, PIX):EXCLUSIVE-Signal restricts screenshots to block AI agents from reading messages",
-    "published": "2026-11-20T09:01:37+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Signal restricts screenshots to block AI agents from reading messages",
-   "post": "Signal has introduced restrictions on screenshots to prevent automated artificial intelligence agents from reading user messages.",
-   "editor_note": "Confirm the exact mechanism implemented by Signal to restrict screenshots according to the exclusive report.",
-   "support": 0.75,
-   "published_at": "2026-11-20T09:01:37+00:00",
-   "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
-   "expires_at": "2026-11-21T21:01:37+00:00",
-   "decision": 1.59,
-   "priority": 7.596597,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "07bc4c3acd8fdb1e",
    "item": {
     "id": "07bc4c3acd8fdb1e",
@@ -3966,8 +3932,8 @@
    "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
    "expires_at": "2026-11-21T19:16:51+00:00",
    "decision": 1.61,
-   "priority": 7.586163,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.603545,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -3995,8 +3961,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.581268,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.59865,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "8361df2178159924",
@@ -4023,8 +3989,37 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.562195,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.579577,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
+  },
+  {
+   "id": "0d0c0304776da52b",
+   "item": {
+    "id": "0d0c0304776da52b",
+    "title": "腾讯WorkBuddy上线电脑操控能力",
+    "url": "https://36kr.com/newsflashes/4077993922352000?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯WorkBuddy宣布上线电脑操控（Computer Use）能力：能识别当前页面，看懂客户端界面，进行点击、输入、滚动等操作，不需要目标软件开放接口，就能在后台操作。电脑操控目前处于公测体验阶段，支持macOS和Windows，需更新客户端至5.11.0及以上版本，并开启功能、完成相关授权。界面识别效果会因软件而异。",
+    "published": "2026-11-20T11:09:56+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Tencent launches computer control feature for WorkBuddy app",
+   "post": "Tencent has launched computer control capabilities in public beta for its WorkBuddy desktop app on macOS and Windows. The feature reads client user interfaces to click, type, and scroll without requiring software API integration.",
+   "editor_note": "Verify public beta access requirements, minimum client version 5.11.0, and supported OS platforms for WorkBuddy computer control.",
+   "support": 0.96,
+   "published_at": "2026-11-20T11:09:56+00:00",
+   "first_seen_at": "2026-11-20T11:37:24.028030+00:00",
+   "expires_at": "2026-11-21T23:09:56+00:00",
+   "decision": 1.59,
+   "priority": 7.517284,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4053,8 +4048,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.369848,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.366868,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4106,8 +4101,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.300698,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.318079,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4135,8 +4130,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.23622,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.222315,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4164,8 +4159,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.204993,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.191088,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4193,8 +4188,36 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.144799,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.162181,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "048307fe18e56f2d",
+   "item": {
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.144618,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4223,8 +4246,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.140805,
-   "selection_reason": "Editorial importance; waiting 53.0h"
+   "priority": 7.13559,
+   "selection_reason": "Editorial importance; waiting 53.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4290,8 +4313,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.135757,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.121852,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4319,36 +4342,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.129345,
-   "selection_reason": "Editorial importance; waiting 26.0h"
-  },
-  {
-   "id": "048307fe18e56f2d",
-   "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.127236,
-   "selection_reason": "Editorial importance"
+   "priority": 7.11544,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4375,8 +4370,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.062254,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.048349,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4404,8 +4399,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.051004,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.037099,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4434,36 +4429,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.024138,
-   "selection_reason": "Editorial importance; waiting 76.0h"
-  },
-  {
-   "id": "ec384d5ce78d49c6",
-   "item": {
-    "id": "ec384d5ce78d49c6",
-    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
-    "published": "2026-11-19T05:22:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "South Korea watchdog asks firms to report AI exposure",
-   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
-   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
-   "support": 0.96,
-   "published_at": "2026-11-19T05:22:45+00:00",
-   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
-   "expires_at": "2026-11-20T17:22:45+00:00",
-   "decision": 1.67,
-   "priority": 6.980456,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.018924,
+   "selection_reason": "Editorial importance; waiting 76.5h"
   },
   {
    "id": "74ce162468414800",
@@ -4492,8 +4459,36 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 6.967886,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.993959,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "ec384d5ce78d49c6",
+   "item": {
+    "id": "ec384d5ce78d49c6",
+    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
+    "published": "2026-11-19T05:22:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "South Korea watchdog asks firms to report AI exposure",
+   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
+   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
+   "support": 0.96,
+   "published_at": "2026-11-19T05:22:45+00:00",
+   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
+   "expires_at": "2026-11-20T17:22:45+00:00",
+   "decision": 1.67,
+   "priority": 6.966551,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4522,8 +4517,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.810805,
-   "selection_reason": "Editorial importance; waiting 75.5h"
+   "priority": 6.80559,
+   "selection_reason": "Editorial importance; waiting 76.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4550,8 +4545,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.652443,
-   "selection_reason": "Editorial importance; waiting 42.0h"
+   "priority": 6.642014,
+   "selection_reason": "Editorial importance; waiting 42.5h"
   }
  ],
  "details_queue": [],
@@ -4780,12 +4775,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion": "2026-11-20T09:09:35.642134+00:00",
   "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai": "2026-11-20T09:39:20.283997+00:00",
   "https://36kr.com/newsflashes/4077880783999880?f=rss": "2026-11-20T10:38:39.790262+00:00",
-  "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund": "2026-11-20T11:09:31.624823+00:00"
+  "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund": "2026-11-20T11:09:31.624823+00:00",
+  "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html": "2026-11-20T11:39:30.392611+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
   "32933935200c2839": {
@@ -26632,6 +26628,126 @@
    "imp": 0.14,
    "ai": 0.05,
    "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "3164b2dc6085d0db": {
+   "imp": 1.57,
+   "ai": 0.51,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "57b16962d516eb8c": {
+   "imp": 2.33,
+   "ai": 0.96,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "ac5cbaa76698a75f": {
+   "imp": 0.89,
+   "ai": 0.69,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "bac43362df2a372b": {
+   "imp": 2.59,
+   "ai": 0.95,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "045881cd2c0c2e2f": {
+   "imp": 1.79,
+   "ai": 0.94,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "5b143098397ffee7": {
+   "imp": 1.78,
+   "ai": 0.81,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "aaf9c6064d412463": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "f99d0b19f5cc5b7f": {
+   "imp": 1.23,
+   "ai": 0.92,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "5c59cb4b8f689d6f": {
+   "imp": 0.49,
+   "ai": 0.12,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "2e688aae120f3cb4": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "62e70baeab77805a": {
+   "imp": 0.31,
+   "ai": 0.09,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "bf8f7e6e70888417": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "debc1ed25a13e444": {
+   "imp": 0.18,
+   "ai": 0.07,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "2262d8c96c9b9df7": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "2fd4711134b6792e": {
+   "imp": 0.16,
+   "ai": 0.11,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "aa5f4aa996ee1267": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "8190612af7bf64f2": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "dfb4e40a64985b95": {
+   "imp": 0.21,
+   "ai": 0.09,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "0d0c0304776da52b": {
+   "imp": 1.59,
+   "ai": 0.96,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "f8eac04fa15cbd5d": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "8204614af37d3756": {
+   "imp": 0.4,
+   "ai": 0.26,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "bf0912aa88941f3a": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "a752a447406b4988": {
+   "imp": 1.42,
+   "ai": 0.15,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "b478660c36facd22": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:37:24.028030+00:00"
   }
  }
 }
