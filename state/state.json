@@ -1,19 +1,5 @@
 {
  "seen": {
-  "cefbc3be34f9ab38": "2026-11-13T11:07:47.605962+00:00",
-  "e74e359305b4dd75": "2026-11-13T11:07:47.605962+00:00",
-  "9469d6fdfcc69aea": "2026-11-13T11:07:47.605962+00:00",
-  "be52da9a4706f9b1": "2026-11-13T11:07:47.605962+00:00",
-  "8a429aeabf43037c": "2026-11-13T11:07:47.605962+00:00",
-  "538eb184e33a3445": "2026-11-13T11:07:47.605962+00:00",
-  "f757f350875f40cc": "2026-11-13T11:07:47.605962+00:00",
-  "a9260ebfaa959636": "2026-11-13T11:07:47.605962+00:00",
-  "ee71d278a1467c41": "2026-11-13T11:07:47.605962+00:00",
-  "3b56eead2522d3ea": "2026-11-13T11:07:47.605962+00:00",
-  "b5bbadfd4ae4cf2f": "2026-11-13T11:07:47.605962+00:00",
-  "547548d8af355aa7": "2026-11-13T11:07:47.605962+00:00",
-  "7a6bfd556855a833": "2026-11-13T11:07:47.605962+00:00",
-  "3e21bf261d77e299": "2026-11-13T11:07:47.605962+00:00",
   "72315bb03f36759e": "2026-11-13T11:37:25.465062+00:00",
   "9b0fc0ebc6efeece": "2026-11-13T11:37:25.465062+00:00",
   "51e939fde6f0ed64": "2026-11-13T11:37:25.465062+00:00",
@@ -1817,13 +1803,18 @@
   "5077181eb050ca74": "2026-11-20T10:37:24.685869+00:00",
   "4432f02a18f6655d": "2026-11-20T10:37:24.685869+00:00",
   "12b0275a8ef13e71": "2026-11-20T10:37:24.685869+00:00",
-  "59f9e58f14352257": "2026-11-20T10:37:24.685869+00:00"
+  "59f9e58f14352257": "2026-11-20T10:37:24.685869+00:00",
+  "bda9499345fe52b9": "2026-11-20T11:07:21.876528+00:00",
+  "6a3168fe7f8d65f6": "2026-11-20T11:07:21.876528+00:00",
+  "7a2759cba3c34630": "2026-11-20T11:07:21.876528+00:00",
+  "dc4abeffea47e7ab": "2026-11-20T11:07:21.876528+00:00",
+  "543fb81f699c534a": "2026-11-20T11:07:21.876528+00:00",
+  "53f2410e3ea1cc17": "2026-11-20T11:07:21.876528+00:00",
+  "311975880d0b9886": "2026-11-20T11:07:21.876528+00:00",
+  "e5d4429b03a86f57": "2026-11-20T11:07:21.876528+00:00",
+  "ccd97c6cfbf19269": "2026-11-20T11:07:21.876528+00:00"
  },
  "covered": [
-  {
-   "headline": "Sarvam hosting Chinese AI models sparks sovereignty debate in India",
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
   {
    "headline": "Humyn Labs raises $47 million for robotics training data",
    "ts": "2026-11-18T11:37:23.301342+00:00"
@@ -2035,11 +2026,15 @@
   {
    "headline": "Google shifts to direct HBM procurement for TPUs",
    "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  {
+   "headline": "SatSure raises 60 crore rupees for satellite and AI expansion",
+   "ts": "2026-11-20T11:07:21.876528+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3909,6 +3904,12 @@
    "desc": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511679.html": {
+   "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+   "desc": "联合华为昇腾，五年冲刺十万卡",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -3937,8 +3938,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:01:37+00:00",
    "decision": 1.59,
-   "priority": 7.579263,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.596597,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "07bc4c3acd8fdb1e",
@@ -3965,8 +3966,8 @@
    "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
    "expires_at": "2026-11-21T19:16:51+00:00",
    "decision": 1.61,
-   "priority": 7.568829,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.586163,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -3994,8 +3995,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.563934,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.581268,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "8361df2178159924",
@@ -4022,8 +4023,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.544861,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.562195,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4052,8 +4053,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.37282,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.369848,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4105,8 +4106,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.283363,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.300698,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4134,8 +4135,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.250087,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.23622,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4163,8 +4164,67 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.21886,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.204993,
+   "selection_reason": "Editorial importance; waiting 22.5h"
+  },
+  {
+   "id": "4c3a82e8399a5309",
+   "item": {
+    "id": "4c3a82e8399a5309",
+    "title": "国家网信办：9-10月新增133款生成式人工智能服务完成备案",
+    "url": "https://36kr.com/newsflashes/4077871040926595?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，据国家网信办消息，2026年9月至10月，新增133款生成式人工智能服务在国家网信办完成备案，其中包括3款提供手机端侧生成式人工智能服务和1款提供拟人化互动生成式人工智能服务。1款生成式人工智能服务备案信息发生变更。对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增224款完成登记。截至10月31日，累计有1245款生成式人工智能服务完成备案，955款��成式人工智能应用或功能完成登记。",
+    "published": "2026-11-20T09:04:56+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "China Cyberspace Administration completes filing for 133 AI services",
+   "post": "China's Cyberspace Administration announced that 133 generative artificial intelligence services completed official filing between September and October.",
+   "editor_note": "Check cumulative figures: the administration stated 1,245 services have completed filing through October 31.",
+   "support": 0.9,
+   "published_at": "2026-11-20T09:04:56+00:00",
+   "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
+   "expires_at": "2026-11-21T21:04:56+00:00",
+   "decision": 1.73,
+   "priority": 7.144799,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "4920d00e28ac4511",
+   "item": {
+    "id": "4920d00e28ac4511",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "url": "https://arxiv.org/abs/2611.22115",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
+    "published": "2026-11-18T00:00:00+00:00",
+    "upvotes": 84,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
+   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
+   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
+   "support": 0.97,
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
+   "expires_at": "2026-11-22T00:00:00+00:00",
+   "decision": 1.52,
+   "priority": 7.140805,
+   "selection_reason": "Editorial importance; waiting 53.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4230,38 +4290,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.149624,
-   "selection_reason": "Editorial importance; waiting 23.5h"
-  },
-  {
-   "id": "4920d00e28ac4511",
-   "item": {
-    "id": "4920d00e28ac4511",
-    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-    "url": "https://arxiv.org/abs/2611.22115",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
-    "published": "2026-11-18T00:00:00+00:00",
-    "upvotes": 84,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
-   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
-   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
-   "support": 0.97,
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
-   "expires_at": "2026-11-22T00:00:00+00:00",
-   "decision": 1.52,
-   "priority": 7.146005,
-   "selection_reason": "Editorial importance; waiting 52.5h"
+   "priority": 7.135757,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4289,37 +4319,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.143212,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "4c3a82e8399a5309",
-   "item": {
-    "id": "4c3a82e8399a5309",
-    "title": "国家网信办：9-10月新增133款生成式人工智能服务完成备案",
-    "url": "https://36kr.com/newsflashes/4077871040926595?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，据国家网信办消息，2026年9月至10月，新增133款生成式人工智能服务在国家网信办完成备案，其中包括3款提供手机端侧生成式人工智能服务和1款提供拟人化互动生成式人工智能服务。1款生成式人工智能服务备案信息发生变更。对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增224款完成登记。截至10月31日，累计有1245款生成式人工智能服务完成备案，955款��成式人工智能应用或功能完成登记。",
-    "published": "2026-11-20T09:04:56+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "China Cyberspace Administration completes filing for 133 AI services",
-   "post": "China's Cyberspace Administration announced that 133 generative artificial intelligence services completed official filing between September and October.",
-   "editor_note": "Check cumulative figures: the administration stated 1,245 services have completed filing through October 31.",
-   "support": 0.9,
-   "published_at": "2026-11-20T09:04:56+00:00",
-   "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
-   "expires_at": "2026-11-21T21:04:56+00:00",
-   "decision": 1.73,
-   "priority": 7.127465,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.129345,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4346,7 +4347,7 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.109902,
+   "priority": 7.127236,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4374,8 +4375,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.076121,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.062254,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4403,8 +4404,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.064871,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.051004,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4433,8 +4434,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.029338,
-   "selection_reason": "Editorial importance; waiting 75.5h"
+   "priority": 7.024138,
+   "selection_reason": "Editorial importance; waiting 76.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4461,8 +4462,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.994323,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.980456,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4491,8 +4492,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 6.941885,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.967886,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4521,36 +4522,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.816005,
-   "selection_reason": "Editorial importance; waiting 75.0h"
-  },
-  {
-   "id": "bda9499345fe52b9",
-   "item": {
-    "id": "bda9499345fe52b9",
-    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
-    "published": "2026-11-18T23:00:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "CATL targets AI data centers as new growth engine",
-   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
-   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
-   "support": 0.9,
-   "published_at": "2026-11-18T23:00:01+00:00",
-   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
-   "expires_at": "2026-11-20T11:00:01+00:00",
-   "decision": 1.3,
-   "priority": 6.693799,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.810805,
+   "selection_reason": "Editorial importance; waiting 75.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4577,8 +4550,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.662843,
-   "selection_reason": "Editorial importance; waiting 41.5h"
+   "priority": 6.652443,
+   "selection_reason": "Editorial importance; waiting 42.0h"
   }
  ],
  "details_queue": [],
@@ -4806,12 +4779,13 @@
   "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks": "2026-11-20T08:39:11.934323+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion": "2026-11-20T09:09:35.642134+00:00",
   "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai": "2026-11-20T09:39:20.283997+00:00",
-  "https://36kr.com/newsflashes/4077880783999880?f=rss": "2026-11-20T10:38:39.790262+00:00"
+  "https://36kr.com/newsflashes/4077880783999880?f=rss": "2026-11-20T10:38:39.790262+00:00",
+  "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund": "2026-11-20T11:09:31.624823+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
   "32933935200c2839": {
@@ -26538,6 +26512,126 @@
    "imp": 0.16,
    "ai": 0.05,
    "ts": "2026-11-20T10:37:24.685869+00:00"
+  },
+  "311975880d0b9886": {
+   "imp": 0.37,
+   "ai": null,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "dc4abeffea47e7ab": {
+   "imp": 1.1,
+   "ai": null,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "53f2410e3ea1cc17": {
+   "imp": 0.46,
+   "ai": null,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "ab79d8f4cd5485cb": {
+   "imp": 0.45,
+   "ai": 0.19,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "e5d4429b03a86f57": {
+   "imp": 0.43,
+   "ai": 0.23,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "7a2759cba3c34630": {
+   "imp": 1.24,
+   "ai": 0.85,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "543fb81f699c534a": {
+   "imp": 1.1,
+   "ai": 0.44,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "ccd97c6cfbf19269": {
+   "imp": 1.89,
+   "ai": 0.38,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "9ff3348bd5c28050": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "dc1bf3e4ce00255f": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "4b449323fda66136": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "ee98191ab7423c24": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "5616e037cde097f1": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "6a3168fe7f8d65f6": {
+   "imp": 1.71,
+   "ai": 0.96,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "4b54ef30c25e1705": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "51070dd2beacb102": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "b3dccc0206830739": {
+   "imp": 0.56,
+   "ai": 0.23,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "42a33357ed53e512": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "e568b409c6c2a751": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "bdf0640451d6ab5f": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "3bab0487bf0ef371": {
+   "imp": 0.27,
+   "ai": 0.11,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "8527287a1092a181": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "27cb6fde2522551f": {
+   "imp": 0.5,
+   "ai": 0.19,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
+  },
+  "36e10c273f41d720": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-20T11:07:21.876528+00:00"
   }
  }
 }
