@@ -1799,7 +1799,15 @@
   "5732688c9fffac03": "2026-11-20T15:07:25.281663+00:00",
   "17bfc23ca17d1398": "2026-11-20T15:07:25.281663+00:00",
   "df86d89f9ea9aac7": "2026-11-20T15:07:25.281663+00:00",
-  "fe4513527f72905b": "2026-11-20T15:07:25.281663+00:00"
+  "fe4513527f72905b": "2026-11-20T15:07:25.281663+00:00",
+  "ca1b4ecb67a75764": "2026-11-20T15:37:22.263514+00:00",
+  "192dc28e1e9cb828": "2026-11-20T15:37:22.263514+00:00",
+  "9951213640e6ea78": "2026-11-20T15:37:22.263514+00:00",
+  "a233c2ac57dd4a20": "2026-11-20T15:37:22.263514+00:00",
+  "fbb0ef253c3fe333": "2026-11-20T15:37:22.263514+00:00",
+  "5fcf7fba39c9444d": "2026-11-20T15:37:22.263514+00:00",
+  "1ab0efa6e74ce9cf": "2026-11-20T15:37:22.263514+00:00",
+  "bdc3a7c64ce65c7b": "2026-11-20T15:37:22.263514+00:00"
  },
  "covered": [
   {
@@ -2029,11 +2037,15 @@
   {
    "headline": "Cursor considers phasing out Chinese open-weight AI models",
    "ts": "2026-11-20T15:07:25.281663+00:00"
+  },
+  {
+   "headline": "Google and Blue Origin partner on space data centers",
+   "ts": "2026-11-20T15:37:22.263514+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 29
+  "count": 30
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3926,59 +3938,6 @@
  },
  "pending": [
   {
-   "id": "5fcf7fba39c9444d",
-   "item": {
-    "id": "5fcf7fba39c9444d",
-    "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
-    "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
-    "published": "2026-11-19T17:17:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "1ab0efa6e74ce9cf",
-     "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
-     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
-     "source": "The Economic Times",
-     "image": "https://img.etimg.com/photo/msid-136012234,imgsize-42852.cms",
-     "snippet": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground.",
-     "published": "2026-11-20T03:52:25+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "bdc3a7c64ce65c7b",
-     "title": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
-     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
-     "source": "India Today",
-     "image": "",
-     "snippet": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
-     "published": "2026-11-20T04:32:27+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google and Blue Origin partner on space data centers",
-   "post": "Google and Blue Origin are partnering on Project Suncatcher, an experimental initiative to test solar-powered data centers in space, the companies announced.",
-   "editor_note": "Check if the announcement specifies a launch timeline or test payload details for the satellite data center.",
-   "support": 0.96,
-   "published_at": "2026-11-19T17:17:52+00:00",
-   "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
-   "expires_at": "2026-11-21T05:17:52+00:00",
-   "decision": 2.2,
-   "priority": 7.377058,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
    "id": "9556d208d7730f5a",
    "item": {
     "id": "9556d208d7730f5a",
@@ -4005,8 +3964,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.346033,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 7.343062,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4034,8 +3993,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.28372,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.301052,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4062,8 +4021,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.266158,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.28349,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4092,8 +4051,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.176269,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.202267,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4121,8 +4080,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.125083,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.111217,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4151,8 +4110,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.099128,
-   "selection_reason": "Editorial importance; waiting 57.0h"
+   "priority": 7.093929,
+   "selection_reason": "Editorial importance; waiting 57.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4180,8 +4139,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.093856,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.07999,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4247,8 +4206,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.02462,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.010754,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4276,38 +4235,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.018208,
-   "selection_reason": "Editorial importance; waiting 30.0h"
-  },
-  {
-   "id": "753f1faf81d05f31",
-   "item": {
-    "id": "753f1faf81d05f31",
-    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-    "url": "https://arxiv.org/abs/2611.21003",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Institute of Foundation Models releases K2-Horizon open models",
-   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
-   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.92,
-   "priority": 6.982462,
-   "selection_reason": "Editorial importance; waiting 80.0h"
+   "priority": 7.004342,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4336,8 +4265,38 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.959965,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.985963,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "753f1faf81d05f31",
+   "item": {
+    "id": "753f1faf81d05f31",
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "url": "https://arxiv.org/abs/2611.21003",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Institute of Foundation Models releases K2-Horizon open models",
+   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
+   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.92,
+   "priority": 6.977262,
+   "selection_reason": "Editorial importance; waiting 80.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4364,8 +4323,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 6.951117,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.937251,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4393,8 +4352,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 6.939867,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.926001,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4421,8 +4380,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.869319,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.855453,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4451,8 +4410,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.769128,
-   "selection_reason": "Editorial importance; waiting 79.5h"
+   "priority": 6.763929,
+   "selection_reason": "Editorial importance; waiting 80.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4479,11 +4438,31 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.56909,
-   "selection_reason": "Editorial importance; waiting 46.0h"
+   "priority": 6.558691,
+   "selection_reason": "Editorial importance; waiting 46.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
+   "source": "The Information",
+   "kind": "takes",
+   "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
+   "summary": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
+   "queued_at": "2026-11-20T15:37:22.263514+00:00",
+   "alternates": [
+    {
+     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+     "source": "The Economic Times"
+    },
+    {
+     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
+     "source": "India Today"
+    }
+   ],
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -27294,6 +27273,51 @@
    "imp": 0.11,
    "ai": 0.01,
    "ts": "2026-11-20T15:07:25.281663+00:00"
+  },
+  "192dc28e1e9cb828": {
+   "imp": 2.08,
+   "ai": 0.96,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "9951213640e6ea78": {
+   "imp": 1.05,
+   "ai": 0.32,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "3601f1cfbf618ef3": {
+   "imp": 0.22,
+   "ai": 0.07,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "fbb0ef253c3fe333": {
+   "imp": 1.69,
+   "ai": 0.93,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "ca1b4ecb67a75764": {
+   "imp": 2.17,
+   "ai": 0.96,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "a233c2ac57dd4a20": {
+   "imp": 1.14,
+   "ai": 0.94,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "0745dad7328ab137": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "61cb06843257790f": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "8d59005fd2c5d552": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T15:37:22.263514+00:00"
   }
  }
 }
