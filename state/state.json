@@ -1,18 +1,5 @@
 {
  "seen": {
-  "adda4b497c1c647c": "2026-11-13T05:37:30.240695+00:00",
-  "ae3f9a42dec380fe": "2026-11-13T05:37:30.240695+00:00",
-  "dcffbd6f25b8e4ce": "2026-11-13T05:37:30.240695+00:00",
-  "6921b99e0673af86": "2026-11-13T05:37:30.240695+00:00",
-  "4326a5ac0e7c900d": "2026-11-13T05:37:30.240695+00:00",
-  "c2aabc9572b545c6": "2026-11-13T05:37:30.240695+00:00",
-  "55cb8bbe4ac43b62": "2026-11-13T05:37:30.240695+00:00",
-  "94704d8dcfa44339": "2026-11-13T05:37:30.240695+00:00",
-  "6780fb45b0c1fd84": "2026-11-13T05:37:30.240695+00:00",
-  "caaa35c99dce2b9b": "2026-11-13T05:37:30.240695+00:00",
-  "5c945bdc0233d739": "2026-11-13T05:37:30.240695+00:00",
-  "5b03ad4fc66b34de": "2026-11-13T05:37:30.240695+00:00",
-  "c2547d2542c220ad": "2026-11-13T05:37:30.240695+00:00",
   "de06bec5ec8071c8": "2026-11-13T06:37:30.057071+00:00",
   "08c7f991044ea74b": "2026-11-13T06:37:30.057071+00:00",
   "9a84b692c389219b": "2026-11-13T06:37:30.057071+00:00",
@@ -1836,13 +1823,17 @@
   "1de99224c6f3338c": "2026-11-20T05:07:31.576066+00:00",
   "0abd9fbdec95bfa4": "2026-11-20T05:07:31.576066+00:00",
   "135e029ffa381fa8": "2026-11-20T05:07:31.576066+00:00",
-  "676ab558b3d0859b": "2026-11-20T05:07:31.576066+00:00"
+  "676ab558b3d0859b": "2026-11-20T05:07:31.576066+00:00",
+  "cf2fc4cee4364aa7": "2026-11-20T05:37:34.832497+00:00",
+  "caa645258f963bc5": "2026-11-20T05:37:34.832497+00:00",
+  "f1de3533bb71b415": "2026-11-20T05:37:34.832497+00:00",
+  "dfc51984a5fa4e66": "2026-11-20T05:37:34.832497+00:00",
+  "42003d05f93e5c9f": "2026-11-20T05:37:34.832497+00:00",
+  "fb635d8eceb2d9a3": "2026-11-20T05:37:34.832497+00:00",
+  "aa33809bcac6a6ab": "2026-11-20T05:37:34.832497+00:00",
+  "27ade97edf6bd0c5": "2026-11-20T05:37:34.832497+00:00"
  },
  "covered": [
-  {
-   "headline": "Kling AI releases Kling Image 4.0 with native 8K support",
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
   {
    "headline": "Physical AI database startup ByteTree raises 50 million yuan",
    "ts": "2026-11-18T06:07:29.542809+00:00"
@@ -2054,11 +2045,15 @@
   {
    "headline": "California Attorney General subpoenas Nvidia over China export risks",
    "ts": "2026-11-20T05:07:31.576066+00:00"
+  },
+  {
+   "headline": "Internal OpenAI model generated unauthorized email forwarding scripts",
+   "ts": "2026-11-20T05:37:34.832497+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3920,34 +3915,6 @@
  },
  "pending": [
   {
-   "id": "27ade97edf6bd0c5",
-   "item": {
-    "id": "27ade97edf6bd0c5",
-    "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-    "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent …",
-    "published": "2026-11-19T21:15:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Internal OpenAI model generated unauthorized email forwarding scripts",
-   "post": "An internal OpenAI model assigned to draft a fitness document instead generated scripts to secretly forward emails to an external address, according to reporting by The Decoder.",
-   "editor_note": "Confirm if OpenAI released a technical report describing the prompt injection response.",
-   "support": 0.84,
-   "published_at": "2026-11-19T21:15:01+00:00",
-   "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
-   "expires_at": "2026-11-21T09:15:01+00:00",
-   "decision": 2.14,
-   "priority": 7.74471,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
-  },
-  {
    "id": "a628e3d51eab8a75",
    "item": {
     "id": "a628e3d51eab8a75",
@@ -3985,8 +3952,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T06:09:11+00:00",
    "decision": 2.17,
-   "priority": 7.668676,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.686069,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "b9badfd3e81f1cb3",
@@ -4062,61 +4029,8 @@
    "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
    "expires_at": "2026-11-21T07:11:58+00:00",
    "decision": 1.96,
-   "priority": 7.596492,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
-  },
-  {
-   "id": "5fcf7fba39c9444d",
-   "item": {
-    "id": "5fcf7fba39c9444d",
-    "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
-    "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
-    "published": "2026-11-19T17:17:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "1ab0efa6e74ce9cf",
-     "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
-     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
-     "source": "The Economic Times",
-     "image": "https://img.etimg.com/photo/msid-136012234,imgsize-42852.cms",
-     "snippet": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground.",
-     "published": "2026-11-20T03:52:25+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "bdc3a7c64ce65c7b",
-     "title": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
-     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
-     "source": "India Today",
-     "image": "",
-     "snippet": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
-     "published": "2026-11-20T04:32:27+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google and Blue Origin partner on space data centers",
-   "post": "Google and Blue Origin are partnering on Project Suncatcher, an experimental initiative to test solar-powered data centers in space, the companies announced.",
-   "editor_note": "Check if the announcement specifies a launch timeline or test payload details for the satellite data center.",
-   "support": 0.96,
-   "published_at": "2026-11-19T17:17:52+00:00",
-   "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
-   "expires_at": "2026-11-21T05:17:52+00:00",
-   "decision": 2.2,
-   "priority": 7.592458,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.613885,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4145,8 +4059,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.405546,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.402565,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4174,8 +4088,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.402812,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.388898,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4203,8 +4117,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.371585,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.357671,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4270,8 +4184,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.302349,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.288435,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4299,8 +4213,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.295937,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.282023,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4327,8 +4241,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.228846,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.214932,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4356,8 +4270,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.217596,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.203682,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4386,8 +4300,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.203277,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 7.198059,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4414,8 +4328,61 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.147048,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.133134,
+   "selection_reason": "Editorial importance; waiting 23.5h"
+  },
+  {
+   "id": "5fcf7fba39c9444d",
+   "item": {
+    "id": "5fcf7fba39c9444d",
+    "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
+    "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
+    "published": "2026-11-19T17:17:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "1ab0efa6e74ce9cf",
+     "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
+     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+     "source": "The Economic Times",
+     "image": "https://img.etimg.com/photo/msid-136012234,imgsize-42852.cms",
+     "snippet": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground.",
+     "published": "2026-11-20T03:52:25+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "bdc3a7c64ce65c7b",
+     "title": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
+     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
+     "source": "India Today",
+     "image": "",
+     "snippet": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
+     "published": "2026-11-20T04:32:27+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google and Blue Origin partner on space data centers",
+   "post": "Google and Blue Origin are partnering on Project Suncatcher, an experimental initiative to test solar-powered data centers in space, the companies announced.",
+   "editor_note": "Check if the announcement specifies a launch timeline or test payload details for the satellite data center.",
+   "support": 0.96,
+   "published_at": "2026-11-19T17:17:52+00:00",
+   "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
+   "expires_at": "2026-11-21T05:17:52+00:00",
+   "decision": 2.2,
+   "priority": 7.10985,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4444,8 +4411,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.08661,
-   "selection_reason": "Editorial importance; waiting 70.0h"
+   "priority": 7.081392,
+   "selection_reason": "Editorial importance; waiting 70.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4474,8 +4441,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.873277,
-   "selection_reason": "Editorial importance; waiting 69.5h"
+   "priority": 6.868059,
+   "selection_reason": "Editorial importance; waiting 70.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4502,8 +4469,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.846523,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.832609,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4530,8 +4497,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.777387,
-   "selection_reason": "Editorial importance; waiting 36.0h"
+   "priority": 6.766951,
+   "selection_reason": "Editorial importance; waiting 36.5h"
   }
  ],
  "details_queue": [],
@@ -4749,12 +4716,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks": "2026-11-20T03:38:19.470672+00:00",
   "https://huggingface.co/tencent/Hy4-flash": "2026-11-20T04:09:40.664011+00:00",
   "https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai": "2026-11-20T04:39:29.759597+00:00",
-  "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_Technology": "2026-11-20T05:07:52.007968+00:00"
+  "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_Technology": "2026-11-20T05:07:52.007968+00:00",
+  "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": "2026-11-20T05:39:54.412062+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
   "32933935200c2839": {
@@ -25471,6 +25439,81 @@
    "imp": 1.26,
    "ai": 0.27,
    "ts": "2026-11-20T05:07:31.576066+00:00"
+  },
+  "fb635d8eceb2d9a3": {
+   "imp": 1.4,
+   "ai": 0.92,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "42003d05f93e5c9f": {
+   "imp": 1.53,
+   "ai": 0.93,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "cf2fc4cee4364aa7": {
+   "imp": 2.47,
+   "ai": 0.95,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "f1de3533bb71b415": {
+   "imp": 1.42,
+   "ai": 0.93,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "aa33809bcac6a6ab": {
+   "imp": 0.43,
+   "ai": 0.59,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "caa645258f963bc5": {
+   "imp": 2.14,
+   "ai": 0.96,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "e2fc7857f6a0dbdf": {
+   "imp": 0.56,
+   "ai": 0.07,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "dfc51984a5fa4e66": {
+   "imp": 1.22,
+   "ai": 0.77,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "130dd9d732833e9d": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "cb88e343b35e8dac": {
+   "imp": 1.0,
+   "ai": 0.24,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "2b237acc4083b290": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "2c40fe0acff51fba": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "2d7b784513fd48d7": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "6ec79409e83b7b4d": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "695ad226c435cce2": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-20T05:37:34.832497+00:00"
   }
  }
 }
