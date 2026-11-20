@@ -1,12 +1,5 @@
 {
  "seen": {
-  "376d01b45580e9f4": "2026-11-13T03:07:23.017931+00:00",
-  "1dcba385dec91313": "2026-11-13T03:07:23.017931+00:00",
-  "564fcb182cc20953": "2026-11-13T03:07:23.017931+00:00",
-  "fbfd861083374789": "2026-11-13T03:07:23.017931+00:00",
-  "c7ec460d59c7cc18": "2026-11-13T03:07:23.017931+00:00",
-  "79c16b53a36c2763": "2026-11-13T03:07:23.017931+00:00",
-  "e74bef3fc4647011": "2026-11-13T03:07:23.017931+00:00",
   "f8571fcf34a6e708": "2026-11-13T03:37:32.343574+00:00",
   "597dc3d27b6195ed": "2026-11-13T03:37:32.343574+00:00",
   "d0cd2a98f1d44297": "2026-11-13T03:37:32.343574+00:00",
@@ -1827,13 +1820,22 @@
   "2aa4b234dbdd26e8": "2026-11-20T02:37:33.141582+00:00",
   "f76df06913e5c7f1": "2026-11-20T02:37:33.141582+00:00",
   "3a69a2e59b59db53": "2026-11-20T02:37:33.141582+00:00",
-  "b600a39e98e74ede": "2026-11-20T02:37:33.141582+00:00"
+  "b600a39e98e74ede": "2026-11-20T02:37:33.141582+00:00",
+  "ebd75882b3d9e79b": "2026-11-20T03:07:35.111102+00:00",
+  "7e4679faa3409569": "2026-11-20T03:07:35.111102+00:00",
+  "e486efe85b2a356a": "2026-11-20T03:07:35.111102+00:00",
+  "3d61f91186b31116": "2026-11-20T03:07:35.111102+00:00",
+  "f1c697e2be6430eb": "2026-11-20T03:07:35.111102+00:00",
+  "bc657876ea384fe2": "2026-11-20T03:07:35.111102+00:00",
+  "19ea402f89ec8677": "2026-11-20T03:07:35.111102+00:00",
+  "00ec98b0636a0900": "2026-11-20T03:07:35.111102+00:00",
+  "992792f9340c9f2a": "2026-11-20T03:07:35.111102+00:00",
+  "50b913589e22f922": "2026-11-20T03:07:35.111102+00:00",
+  "b534defa3496c299": "2026-11-20T03:07:35.111102+00:00",
+  "50b3d599592144c6": "2026-11-20T03:07:35.111102+00:00",
+  "f689168723dc030d": "2026-11-20T03:07:35.111102+00:00"
  },
  "covered": [
-  {
-   "headline": "Ireland orders X to pause Grok AI agent data collection",
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
   {
    "headline": "China launches first Huawei-powered token export data center",
    "ts": "2026-11-18T03:37:22.679504+00:00"
@@ -2045,11 +2047,15 @@
   {
    "headline": "TSMC restricts Chinese AI chip production under US rules",
    "ts": "2026-11-20T02:37:33.141582+00:00"
+  },
+  {
+   "headline": "RadixArk releases DaisyRose-27B model trained with reinforcement learning",
+   "ts": "2026-11-20T03:07:35.111102+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3911,34 +3917,6 @@
  },
  "pending": [
   {
-   "id": "f689168723dc030d",
-   "item": {
-    "id": "f689168723dc030d",
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "source": "Hugging Face",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
-    "snippet": "Today we are releasing DaisyRose-27B, RadixArk’s first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles. We trained it on long-horizon agent tasks with sessions up to 1M tokens, with just 1,200 curated tasks in 18 days on 144 H200 GPUs. DaisyRose-27B improves Terminal-Bench 4.1 pass@1 from 5.6% to 12.0%. Beyond Terminal-Bench 4.1, it also delivers gains on a variety of other reasoning, instruction following, and coding benchmarks. The model retains Qwen3.8-27B’s architecture, tokenizer, chat template, image understanding, and 256K-token context window. The longer training sessions use harness summarization to span multiple trajectories. See the model card for model properties and inference settings. We recommend serving DaisyRose-27B with SGLang and DSpark sp…",
-    "published": "2026-11-18T19:54:56+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "routine",
-   "headline": "RadixArk releases DaisyRose-27B model trained with reinforcement learning",
-   "post": "RadixArk released DaisyRose-27B, built on Qwen3.8-27B and trained using Miles to improve Terminal-Bench 4.1 pass@1 performance from 5.6% to 12.0%.",
-   "editor_note": "Verify that all training parameters and hardware requirements match the model card details.",
-   "support": 0.96,
-   "published_at": "2026-11-18T19:54:56+00:00",
-   "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
-   "expires_at": "2026-11-20T19:54:56+00:00",
-   "decision": 1.31,
-   "priority": 8.046868,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
    "id": "c7a5c21b775bae5c",
    "item": {
     "id": "c7a5c21b775bae5c",
@@ -3976,8 +3954,8 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 7.86084,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.846936,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "9459a3fd0a1fa3b7",
@@ -4054,8 +4032,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T10:31:41+00:00",
    "decision": 2.29,
-   "priority": 7.743414,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.760794,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "135e029ffa381fa8",
@@ -4095,8 +4073,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T10:31:14+00:00",
    "decision": 2.28,
-   "priority": 7.739872,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.757252,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "27ade97edf6bd0c5",
@@ -4123,8 +4101,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T09:15:01+00:00",
    "decision": 2.14,
-   "priority": 7.65792,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.6753,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "a628e3d51eab8a75",
@@ -4164,8 +4142,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T06:09:11+00:00",
    "decision": 2.17,
-   "priority": 7.581886,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.599266,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "b9badfd3e81f1cb3",
@@ -4229,8 +4207,8 @@
    "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
    "expires_at": "2026-11-21T07:11:58+00:00",
    "decision": 1.96,
-   "priority": 7.509702,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.527082,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4258,8 +4236,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.472244,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.45834,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4287,8 +4265,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.441017,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.427113,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4317,8 +4295,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.420425,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.417445,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4384,8 +4362,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.371781,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.357877,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4413,8 +4391,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.365369,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.351465,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4441,8 +4419,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 1.59,
-   "priority": 7.302334,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.319714,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4469,8 +4447,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.298278,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.284374,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4498,8 +4476,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.287028,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.273124,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4528,8 +4506,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.229314,
-   "selection_reason": "Editorial importance; waiting 44.5h"
+   "priority": 7.2241,
+   "selection_reason": "Editorial importance; waiting 45.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4558,8 +4536,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.224763,
-   "selection_reason": "Editorial importance; waiting 45.0h"
+   "priority": 7.221784,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4586,8 +4564,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.21648,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.202576,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4616,8 +4594,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.112647,
-   "selection_reason": "Editorial importance; waiting 67.5h"
+   "priority": 7.107433,
+   "selection_reason": "Editorial importance; waiting 68.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4644,8 +4622,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.915956,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.902052,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4674,8 +4652,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.899314,
-   "selection_reason": "Editorial importance; waiting 67.0h"
+   "priority": 6.8941,
+   "selection_reason": "Editorial importance; waiting 67.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4702,8 +4680,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.829461,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.819033,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   }
  ],
  "details_queue": [],
@@ -4916,11 +4894,12 @@
   "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs": "2026-11-20T01:11:42.642254+00:00",
   "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner": "2026-11-20T01:39:34.944714+00:00",
   "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million": "2026-11-20T02:08:53.528961+00:00",
-  "https://economictimes.indiatimes.com/tech/technology/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say/articleshow/136009973.cms": "2026-11-20T02:38:28.056741+00:00"
+  "https://economictimes.indiatimes.com/tech/technology/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say/articleshow/136009973.cms": "2026-11-20T02:38:28.056741+00:00",
+  "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": "2026-11-20T03:08:03.620519+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
-  "count": 0,
+  "count": 1,
   "takes": 4
  },
  "triage": {
@@ -25348,6 +25327,91 @@
    "imp": 0.15,
    "ai": 0.05,
    "ts": "2026-11-20T02:37:33.141582+00:00"
+  },
+  "bc657876ea384fe2": {
+   "imp": 2.21,
+   "ai": 0.96,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "50b913589e22f922": {
+   "imp": 0.98,
+   "ai": 0.24,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "f1c697e2be6430eb": {
+   "imp": 2.64,
+   "ai": 0.95,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "19ea402f89ec8677": {
+   "imp": 1.9,
+   "ai": 0.97,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "3d61f91186b31116": {
+   "imp": 2.78,
+   "ai": 0.97,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "b1adad23d872a7bf": {
+   "imp": 1.45,
+   "ai": 0.88,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "50b3d599592144c6": {
+   "imp": 1.92,
+   "ai": 0.91,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "992792f9340c9f2a": {
+   "imp": 1.99,
+   "ai": 0.92,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "e486efe85b2a356a": {
+   "imp": 0.84,
+   "ai": 0.83,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "5fd2e348b1c2d75b": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "306cfc0732fd0987": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "8786c7bd8fb59344": {
+   "imp": 0.19,
+   "ai": 0.12,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "81ee47d20c8c2353": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "8ec45ef0915f1795": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "b3ab5c9f566ed049": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "19348e528a425c4b": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "30c2968f75ed2f98": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-20T03:07:35.111102+00:00"
   }
  }
 }
