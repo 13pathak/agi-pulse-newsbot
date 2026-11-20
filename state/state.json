@@ -1796,7 +1796,14 @@
   "1eecf80fadac4c5d": "2026-11-20T14:07:22.748837+00:00",
   "d65a607443e34d13": "2026-11-20T14:07:22.748837+00:00",
   "912ce9389b493fc3": "2026-11-20T14:07:22.748837+00:00",
-  "0d0c0304776da52b": "2026-11-20T14:07:22.748837+00:00"
+  "0d0c0304776da52b": "2026-11-20T14:07:22.748837+00:00",
+  "6491dffe540665fa": "2026-11-20T14:37:27.350385+00:00",
+  "d48a1c5f809916b7": "2026-11-20T14:37:27.350385+00:00",
+  "4533e5810a89cb6f": "2026-11-20T14:37:27.350385+00:00",
+  "558c358b1b9ea815": "2026-11-20T14:37:27.350385+00:00",
+  "6dc73a3f2d804f8a": "2026-11-20T14:37:27.350385+00:00",
+  "299291fdd5181a56": "2026-11-20T14:37:27.350385+00:00",
+  "5fe0efb0a285ee7f": "2026-11-20T14:37:27.350385+00:00"
  },
  "covered": [
   {
@@ -2022,11 +2029,15 @@
   {
    "headline": "Tencent launches computer control feature for WorkBuddy app",
    "ts": "2026-11-20T14:07:22.748837+00:00"
+  },
+  {
+   "headline": "Indian retail investors drive trading volume in Anthropic Nasdaq debut",
+   "ts": "2026-11-20T14:37:27.350385+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3919,6 +3930,34 @@
  },
  "pending": [
   {
+   "id": "fe4513527f72905b",
+   "item": {
+    "id": "fe4513527f72905b",
+    "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+    "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+    "source": "CNBC",
+    "image": "",
+    "snippet": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+    "published": "2026-11-20T14:07:24+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Cursor considers phasing out Chinese open-weight AI models",
+   "post": "SpaceX subsidiary Cursor is considering phasing out Chinese open-weight AI models over geopolitical risks, according to a U.S. House report reviewed by CNBC.",
+   "editor_note": "Verify whether Cursor is explicitly described as a SpaceX subsidiary in the Congressional report.",
+   "support": 0.94,
+   "published_at": "2026-11-20T14:07:24+00:00",
+   "first_seen_at": "2026-11-20T14:37:27.350385+00:00",
+   "expires_at": "2026-11-22T02:07:24+00:00",
+   "decision": 1.59,
+   "priority": 7.516085,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "5fcf7fba39c9444d",
    "item": {
     "id": "5fcf7fba39c9444d",
@@ -3968,8 +4007,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.404855,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.390931,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -3998,8 +4037,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.35199,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 7.349006,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4027,8 +4066,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.248974,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.266379,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4055,37 +4094,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.231411,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.15288,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.248817,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4114,8 +4124,37 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.124149,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.150257,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.138956,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4143,8 +4182,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.121653,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.107729,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4173,8 +4212,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.109552,
-   "selection_reason": "Editorial importance; waiting 56.0h"
+   "priority": 7.104331,
+   "selection_reason": "Editorial importance; waiting 56.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4240,8 +4279,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.052417,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.038493,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4269,8 +4308,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.046005,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.032081,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4299,8 +4338,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 6.992886,
-   "selection_reason": "Editorial importance; waiting 79.0h"
+   "priority": 6.987664,
+   "selection_reason": "Editorial importance; waiting 79.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4327,8 +4366,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 6.978914,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.96499,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4356,8 +4395,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 6.967664,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.95374,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4386,8 +4425,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.907845,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.933953,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4414,8 +4453,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.897116,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.883192,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4444,8 +4483,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.779552,
-   "selection_reason": "Editorial importance; waiting 78.5h"
+   "priority": 6.774331,
+   "selection_reason": "Editorial importance; waiting 79.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4472,8 +4511,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.589938,
-   "selection_reason": "Editorial importance; waiting 45.0h"
+   "priority": 6.579495,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   }
  ],
  "details_queue": [],
@@ -4708,12 +4747,13 @@
   "https://36kr.com/newsflashes/4077739390243977?f=rss": "2026-11-20T12:39:45.090418+00:00",
   "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology": "2026-11-20T13:07:55.307360+00:00",
   "https://analyticsindiamag.com/ai-news/goa-cabinet-approves-ai-policy-2026-puts-60-towards-skilling": "2026-11-20T13:38:57.135407+00:00",
-  "https://36kr.com/newsflashes/4077993922352000?f=rss": "2026-11-20T14:10:21.058036+00:00"
+  "https://36kr.com/newsflashes/4077993922352000?f=rss": "2026-11-20T14:10:21.058036+00:00",
+  "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors": "2026-11-20T14:38:40.381436+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 25
+  "takes": 26
  },
  "triage": {
   "32933935200c2839": {
@@ -27135,6 +27175,71 @@
    "imp": 0.76,
    "ai": 0.61,
    "ts": "2026-11-20T14:07:22.748837+00:00"
+  },
+  "4533e5810a89cb6f": {
+   "imp": 1.47,
+   "ai": 0.37,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "299291fdd5181a56": {
+   "imp": 0.54,
+   "ai": null,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "558c358b1b9ea815": {
+   "imp": 1.49,
+   "ai": 0.89,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "6491dffe540665fa": {
+   "imp": 2.36,
+   "ai": 0.94,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "fe4513527f72905b": {
+   "imp": 1.59,
+   "ai": 0.95,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "6dc73a3f2d804f8a": {
+   "imp": 0.59,
+   "ai": 0.27,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "d48a1c5f809916b7": {
+   "imp": 2.24,
+   "ai": 0.95,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "5fe0efb0a285ee7f": {
+   "imp": 1.93,
+   "ai": 0.87,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "bc89033bca78781f": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "a7750b93810823ac": {
+   "imp": 0.31,
+   "ai": 0.07,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "4173ff938693d855": {
+   "imp": 0.28,
+   "ai": 0.09,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "e296e138a78f3a31": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
+  },
+  "96761a87fa1def3b": {
+   "imp": 0.13,
+   "ai": 0.05,
+   "ts": "2026-11-20T14:37:27.350385+00:00"
   }
  }
 }
