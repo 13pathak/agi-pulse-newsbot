@@ -1,13 +1,5 @@
 {
  "seen": {
-  "88177097345d5b6c": "2026-11-13T09:37:21.260876+00:00",
-  "d7e79e32eb234aa5": "2026-11-13T09:37:21.260876+00:00",
-  "2958d880ad1560d9": "2026-11-13T09:37:21.260876+00:00",
-  "aa0175cd57a88d57": "2026-11-13T09:37:21.260876+00:00",
-  "6cc97cd5952e40a3": "2026-11-13T09:37:21.260876+00:00",
-  "f3b102e39fa099b6": "2026-11-13T09:37:21.260876+00:00",
-  "b80a52e5c724cf60": "2026-11-13T09:37:21.260876+00:00",
-  "ec886a92fa12a05a": "2026-11-13T09:37:21.260876+00:00",
   "d2364d78377213c0": "2026-11-13T10:07:22.750068+00:00",
   "1afdea8743953412": "2026-11-13T10:07:22.750068+00:00",
   "6ca33a84f3233966": "2026-11-13T10:07:22.750068+00:00",
@@ -1814,13 +1806,19 @@
   "c35555aac72b9172": "2026-11-20T09:07:32.634470+00:00",
   "f29b9e3c6ef27371": "2026-11-20T09:07:32.634470+00:00",
   "5bf7961dcfca4bb4": "2026-11-20T09:07:32.634470+00:00",
-  "809d99b8090393ab": "2026-11-20T09:07:32.634470+00:00"
+  "809d99b8090393ab": "2026-11-20T09:07:32.634470+00:00",
+  "ab2e536226fee276": "2026-11-20T09:37:21.973186+00:00",
+  "90a7bf9e8ca4369d": "2026-11-20T09:37:21.973186+00:00",
+  "234b0febc4b0189b": "2026-11-20T09:37:21.973186+00:00",
+  "0416252daf0d5956": "2026-11-20T09:37:21.973186+00:00",
+  "b268c324f6e6fefc": "2026-11-20T09:37:21.973186+00:00",
+  "2fa6c67f9efa6993": "2026-11-20T09:37:21.973186+00:00",
+  "15741ab6630915a1": "2026-11-20T09:37:21.973186+00:00",
+  "87d492c290f6326d": "2026-11-20T09:37:21.973186+00:00",
+  "3d03a242d4b840e5": "2026-11-20T09:37:21.973186+00:00",
+  "fa99769b497af56c": "2026-11-20T09:37:21.973186+00:00"
  },
  "covered": [
-  {
-   "headline": "JensenHuang to testify before US House committees",
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
   {
    "headline": "Majority of Indian firms report AI agent security incidents",
    "ts": "2026-11-18T10:07:25.145656+00:00"
@@ -2032,11 +2030,15 @@
   {
    "headline": "Ex-Alibaba AI chief startup doubles valuation to $5 billion",
    "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  {
+   "headline": "Bengaluru-based Humyn Labs raises $47 million for physical AI data",
+   "ts": "2026-11-20T09:37:21.973186+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3900,6 +3902,12 @@
    "desc": "已开源Agnes Harness",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511610.html": {
+   "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+   "desc": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -3929,8 +3937,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:29+00:00",
    "decision": 1.83,
-   "priority": 7.649745,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.667003,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "a2dbc005f592fb4c",
@@ -3957,7 +3965,7 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:01:37+00:00",
    "decision": 1.59,
-   "priority": 7.527256,
+   "priority": 7.544514,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3985,8 +3993,8 @@
    "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
    "expires_at": "2026-11-21T19:16:51+00:00",
    "decision": 1.61,
-   "priority": 7.516823,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.534081,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -4014,8 +4022,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.511927,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.529185,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "8361df2178159924",
@@ -4042,8 +4050,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.492855,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.510113,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4072,8 +4080,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.381735,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.378776,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4101,37 +4109,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.291693,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "c13d075741cf194b",
-   "item": {
-    "id": "c13d075741cf194b",
-    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
-    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
-    "published": "2026-11-19T12:15:45+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
-   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
-   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
-   "support": 0.92,
-   "published_at": "2026-11-19T12:15:45+00:00",
-   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
-   "expires_at": "2026-11-21T00:15:45+00:00",
-   "decision": 1.77,
-   "priority": 7.260466,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.277886,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4183,8 +4162,37 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.231357,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.248615,
+   "selection_reason": "Editorial importance; waiting 7.5h"
+  },
+  {
+   "id": "c13d075741cf194b",
+   "item": {
+    "id": "c13d075741cf194b",
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
+    "published": "2026-11-19T12:15:45+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
+   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
+   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
+   "support": 0.92,
+   "published_at": "2026-11-19T12:15:45+00:00",
+   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
+   "expires_at": "2026-11-21T00:15:45+00:00",
+   "decision": 1.77,
+   "priority": 7.246659,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4250,8 +4258,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.19123,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.177423,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4279,8 +4287,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.184818,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.171011,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4309,8 +4317,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.161607,
-   "selection_reason": "Editorial importance; waiting 51.0h"
+   "priority": 7.156429,
+   "selection_reason": "Editorial importance; waiting 51.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4337,37 +4345,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.117727,
-   "selection_reason": "Editorial importance; waiting 24.5h"
-  },
-  {
-   "id": "e5ec3a5454a51090",
-   "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 7.106477,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.10392,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4395,8 +4374,37 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.075458,
+   "priority": 7.092716,
    "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "e5ec3a5454a51090",
+   "item": {
+    "id": "e5ec3a5454a51090",
+    "title": "火山引擎上线豆包实时音视频通话模型API服务",
+    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
+    "published": "2026-11-19T06:50:20+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
+   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
+   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
+   "support": 0.91,
+   "published_at": "2026-11-19T06:50:20+00:00",
+   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
+   "expires_at": "2026-11-20T18:50:20+00:00",
+   "decision": 1.76,
+   "priority": 7.09267,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4425,8 +4433,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.04494,
-   "selection_reason": "Editorial importance; waiting 74.0h"
+   "priority": 7.039763,
+   "selection_reason": "Editorial importance; waiting 74.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4453,8 +4461,38 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.035929,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.022122,
+   "selection_reason": "Editorial importance; waiting 27.5h"
+  },
+  {
+   "id": "74ce162468414800",
+   "item": {
+    "id": "74ce162468414800",
+    "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+    "url": "https://arxiv.org/abs/2611.26409",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Tencent. Upvotes: 33. Abstract: Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking mode for explicit step-by-step reasoning. The models are trained on a large-scale multimodal corpus of approximately 1.2 trillion tokens through progressive pre-training and a multi-stage post-training pipeline incorporating multi-teacher OPD, anti-repetition MrDPO, and specialist RL. Evaluated across more than 120 benchmarks, WeMM-Video demonstrates superior performance in omni-modal video understanding and reasoning, while maintaining highly competitive capabilities across general audio, silent video, image, and text tasks. Specifically, in omni-modal video evaluations, our flagship WeMM-Video-35B-A3B establishes a new open-source state of the art, substantially outperforming proprietary models such as Qwen3.5-Omni-Flash and Seed2.0-Mini-0428 while narrowing the gap with the strong Gemini-3.0-Flash, and our compact WeMM-Video-9B surpasses the larger open-source Qwen3-Omni-30B-A3B-Instruct. We publicly release the WeMM-Video family along with our evaluation and reprod…",
+    "published": "2026-11-20T00:00:00+00:00",
+    "upvotes": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Tencent introduces WeMM-Video omni-modal video models",
+   "post": "Researchers at Tencent released WeMM-Video, a family of Chinese-English bilingual omni-modal video models ranging from 2B to 35B parameters, trained on approximately 1.2 trillion tokens.",
+   "editor_note": "Check benchmark comparisons against Gemini-3.0-Flash and open-source licensing details.",
+   "support": 0.94,
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
+   "expires_at": "2026-11-24T00:00:00+00:00",
+   "decision": 1.47,
+   "priority": 6.889763,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4483,8 +4521,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.831607,
-   "selection_reason": "Editorial importance; waiting 73.5h"
+   "priority": 6.826429,
+   "selection_reason": "Editorial importance; waiting 74.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4511,8 +4549,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.735404,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.721597,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4539,8 +4577,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.694047,
-   "selection_reason": "Editorial importance; waiting 40.0h"
+   "priority": 6.683692,
+   "selection_reason": "Editorial importance; waiting 40.5h"
   }
  ],
  "details_queue": [],
@@ -4766,12 +4804,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday": "2026-11-20T07:39:18.822130+00:00",
   "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model": "2026-11-20T08:09:35.176752+00:00",
   "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks": "2026-11-20T08:39:11.934323+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion": "2026-11-20T09:09:35.642134+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion": "2026-11-20T09:09:35.642134+00:00",
+  "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai": "2026-11-20T09:39:20.283997+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
   "32933935200c2839": {
@@ -26113,6 +26152,131 @@
    "imp": 0.09,
    "ai": 0.03,
    "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "25e827cbfc903fcf": {
+   "imp": 0.18,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "234b0febc4b0189b": {
+   "imp": 2.24,
+   "ai": 0.97,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "15741ab6630915a1": {
+   "imp": 2.1,
+   "ai": 0.96,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "90a7bf9e8ca4369d": {
+   "imp": 2.36,
+   "ai": 0.95,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "ab2e536226fee276": {
+   "imp": 2.78,
+   "ai": 0.97,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "87d492c290f6326d": {
+   "imp": 1.38,
+   "ai": 0.61,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "2fa6c67f9efa6993": {
+   "imp": 2.03,
+   "ai": 0.93,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "dc7e997dc1adf6b6": {
+   "imp": 0.55,
+   "ai": 0.09,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "a1586b79717a2f6c": {
+   "imp": 1.22,
+   "ai": 0.47,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "0416252daf0d5956": {
+   "imp": 1.76,
+   "ai": 0.97,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "fa99769b497af56c": {
+   "imp": 2.31,
+   "ai": 0.97,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "3d03a242d4b840e5": {
+   "imp": 0.28,
+   "ai": 0.79,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "74ce162468414800": {
+   "imp": 1.47,
+   "ai": null,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "0b4c08f9e55cc035": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "b268c324f6e6fefc": {
+   "imp": 1.72,
+   "ai": 0.97,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "4dc71973420a4fa8": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "e9ca179e57d3bdac": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "fc085d713e5507d5": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "99b4dc4ab0092a51": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "b11c519709aa9520": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "335513458e2f15e5": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "c7db863aa4435f47": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "32b87250b4edf7e7": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "602645f2491df4e8": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "d46549920ac77edb": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-20T09:37:21.973186+00:00"
   }
  }
 }
