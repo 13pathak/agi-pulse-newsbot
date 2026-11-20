@@ -1,15 +1,5 @@
 {
  "seen": {
-  "8400bdfe1e2afd49": "2026-11-13T17:07:23.545296+00:00",
-  "af5c3614999945bd": "2026-11-13T17:07:23.545296+00:00",
-  "cfb7d5946481ebf2": "2026-11-13T17:07:23.545296+00:00",
-  "ac08d1590707ea35": "2026-11-13T17:07:23.545296+00:00",
-  "e940fd9875725f16": "2026-11-13T17:07:23.545296+00:00",
-  "2b40cb3e224fa452": "2026-11-13T17:07:23.545296+00:00",
-  "5bf4951adbe9698d": "2026-11-13T17:07:23.545296+00:00",
-  "88d77a52ad5e37e4": "2026-11-13T17:07:23.545296+00:00",
-  "4e379f6cb9d33e5a": "2026-11-13T17:07:23.545296+00:00",
-  "13e393cb09e0c2fe": "2026-11-13T17:07:23.545296+00:00",
   "6b5db77df3bfd94b": "2026-11-14T01:07:22.254611+00:00",
   "829ec27078fa35c2": "2026-11-14T01:07:22.254611+00:00",
   "21ab7432dba474e0": "2026-11-14T01:07:22.254611+00:00",
@@ -1793,13 +1783,15 @@
   "3f23871144f33361": "2026-11-20T16:37:21.914235+00:00",
   "3116f89aeeaf19c8": "2026-11-20T16:37:21.914235+00:00",
   "f8ac4b85a5a42dde": "2026-11-20T16:37:21.914235+00:00",
-  "cf24727037c82e27": "2026-11-20T16:37:21.914235+00:00"
+  "cf24727037c82e27": "2026-11-20T16:37:21.914235+00:00",
+  "8e6075d168e06821": "2026-11-20T17:07:23.512351+00:00",
+  "6668009dbad52efc": "2026-11-20T17:07:23.512351+00:00",
+  "db40ade6fdb7d0a6": "2026-11-20T17:07:23.512351+00:00",
+  "c023d2e58ae1c4ff": "2026-11-20T17:07:23.512351+00:00",
+  "69fbb2574868b9e8": "2026-11-20T17:07:23.512351+00:00",
+  "4c3a82e8399a5309": "2026-11-20T17:07:23.512351+00:00"
  },
  "covered": [
-  {
-   "headline": "Apollo Hospitals and Microsoft deploy medical error AI",
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
   {
    "headline": "Anthropic prices its initial public offering at $83 per share",
    "ts": "2026-11-19T01:07:39.579218+00:00"
@@ -2027,11 +2019,15 @@
   {
    "headline": "Suno launches Visuals video creation tool powered by MiniMax",
    "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  {
+   "headline": "China Cyberspace Administration completes filing for 133 AI services",
+   "ts": "2026-11-20T17:07:23.512351+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 32
+  "count": 33
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3930,6 +3926,34 @@
  },
  "pending": [
   {
+   "id": "048307fe18e56f2d",
+   "item": {
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.335585,
+   "selection_reason": "Editorial importance; waiting 6.5h"
+  },
+  {
    "id": "9556d208d7730f5a",
    "item": {
     "id": "9556d208d7730f5a",
@@ -3956,65 +3980,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.33711,
-   "selection_reason": "Editorial importance; waiting 35.0h"
-  },
-  {
-   "id": "4c3a82e8399a5309",
-   "item": {
-    "id": "4c3a82e8399a5309",
-    "title": "国家网信办：9-10月新增133款生成式人工智能服务完成备案",
-    "url": "https://36kr.com/newsflashes/4077871040926595?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，据国家网信办消息，2026年9月至10月，新增133款生成式人工智能服务在国家网信办完成备案，其中包括3款提供手机端侧生成式人工智能服务和1款提供拟人化互动生成式人工智能服务。1款生成式人工智能服务备案信息发生变更。对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增224款完成登记。截至10月31日，累计有1245款生成式人工智能服务完成备案，955款��成式人工智能应用或功能完成登记。",
-    "published": "2026-11-20T09:04:56+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "China Cyberspace Administration completes filing for 133 AI services",
-   "post": "China's Cyberspace Administration announced that 133 generative artificial intelligence services completed official filing between September and October.",
-   "editor_note": "Check cumulative figures: the administration stated 1,245 services have completed filing through October 31.",
-   "support": 0.9,
-   "published_at": "2026-11-20T09:04:56+00:00",
-   "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
-   "expires_at": "2026-11-21T21:04:56+00:00",
-   "decision": 1.73,
-   "priority": 7.335771,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "048307fe18e56f2d",
-   "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.318209,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.334131,
+   "selection_reason": "Editorial importance; waiting 35.5h"
   },
   {
    "id": "74ce162468414800",
@@ -4043,8 +4010,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.254345,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.28041,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4073,8 +4040,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.083513,
-   "selection_reason": "Editorial importance; waiting 58.5h"
+   "priority": 7.0783,
+   "selection_reason": "Editorial importance; waiting 59.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4102,37 +4069,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.083442,
-   "selection_reason": "Editorial importance; waiting 29.5h"
-  },
-  {
-   "id": "c13d075741cf194b",
-   "item": {
-    "id": "c13d075741cf194b",
-    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
-    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
-    "published": "2026-11-19T12:15:45+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
-   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
-   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
-   "support": 0.92,
-   "published_at": "2026-11-19T12:15:45+00:00",
-   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
-   "expires_at": "2026-11-21T00:15:45+00:00",
-   "decision": 1.77,
-   "priority": 7.052215,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 7.069541,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4161,8 +4099,37 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.038041,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.064106,
+   "selection_reason": "Editorial importance; waiting 5.0h"
+  },
+  {
+   "id": "c13d075741cf194b",
+   "item": {
+    "id": "c13d075741cf194b",
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
+    "published": "2026-11-19T12:15:45+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
+   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
+   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
+   "support": 0.92,
+   "published_at": "2026-11-19T12:15:45+00:00",
+   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
+   "expires_at": "2026-11-21T00:15:45+00:00",
+   "decision": 1.77,
+   "priority": 7.038314,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4228,8 +4195,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 6.982979,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.969078,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4257,8 +4224,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 6.976567,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.962666,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4287,8 +4254,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 6.966846,
-   "selection_reason": "Editorial importance; waiting 81.5h"
+   "priority": 6.961633,
+   "selection_reason": "Editorial importance; waiting 82.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4315,8 +4282,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 6.909476,
-   "selection_reason": "Editorial importance; waiting 32.0h"
+   "priority": 6.895575,
+   "selection_reason": "Editorial importance; waiting 32.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4344,8 +4311,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 6.898226,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.884325,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4372,8 +4339,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.827678,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 6.813777,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4402,55 +4369,18 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.753513,
-   "selection_reason": "Editorial importance; waiting 81.0h"
-  },
-  {
-   "id": "8e6075d168e06821",
-   "item": {
-    "id": "8e6075d168e06821",
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-    "source": "Google AI Blog",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-    "published": "2026-11-18T17:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google brings Gemini app to lower-memory Android devices",
-   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
-   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
-   "support": 0.89,
-   "published_at": "2026-11-18T17:00:00+00:00",
-   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
-   "expires_at": "2026-11-20T17:00:00+00:00",
-   "decision": 0.84,
-   "priority": 6.537859,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 6.7483,
+   "selection_reason": "Editorial importance; waiting 81.5h"
   }
  ],
  "details_queue": [
   {
-   "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-   "source": "The Decoder",
+   "url": "https://36kr.com/newsflashes/4077871040926595?f=rss",
+   "source": "36Kr",
    "kind": "takes",
-   "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-   "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows…",
-   "queued_at": "2026-11-20T16:07:21.865128+00:00",
-   "attempts": 1
-  },
-  {
-   "url": "https://www.qbitai.com/2026/11/511722.html",
-   "source": "QbitAI",
-   "kind": "takes",
-   "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
-   "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-   "queued_at": "2026-11-20T16:37:21.914235+00:00"
+   "title": "国家网信办：9-10月新增133款生成式人工智能服务完成备案",
+   "summary": "36氪获悉，据国家网信办消息，2026年9月至10月，新增133款生成式人工智能服务在国家网信办完成备案，其中包括3款提供手机端侧生成式人工智能服务和1款提供拟人化互动生成式人工智能服务。1款生成式人工智能服务备案信息发生变更。对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增224款完成登记。截至10月31日，累计有1245款生成式人工智能服务完成备案，955款��成式人工智能应用或功能完成登记。",
+   "queued_at": "2026-11-20T17:07:23.512351+00:00"
   }
  ],
  "details_done": {
@@ -4687,614 +4617,16 @@
   "https://36kr.com/newsflashes/4077993922352000?f=rss": "2026-11-20T14:10:21.058036+00:00",
   "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors": "2026-11-20T14:38:40.381436+00:00",
   "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html": "2026-11-20T15:10:27.040417+00:00",
-  "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test": "2026-11-20T16:37:48.750287+00:00"
+  "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test": "2026-11-20T16:37:48.750287+00:00",
+  "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others": "2026-11-20T17:08:08.909883+00:00",
+  "https://www.qbitai.com/2026/11/511722.html": "2026-11-20T17:08:08.909883+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 28
+  "takes": 30
  },
  "triage": {
-  "32933935200c2839": {
-   "imp": 1.5,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "4213b9afeff9a7e6": {
-   "imp": 1.17,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "1d250e9233fe0f75": {
-   "imp": 2.62,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "830958e6e6f7f875": {
-   "imp": 2.68,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "ca80552a275a9336": {
-   "imp": 1.58,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "0cefd18c08c5c4ac": {
-   "imp": 1.16,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "1447c52b300c38a1": {
-   "imp": 2.21,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "bfccb2d38562aef8": {
-   "imp": 1.68,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "660711644cdc9dc9": {
-   "imp": 1.55,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "55c10e3370c708ea": {
-   "imp": 2.06,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "8badbe29a09323a1": {
-   "imp": 0.37,
-   "ai": 0.51,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "f40bba2f98936dbf": {
-   "imp": 1.72,
-   "ai": 0.41,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "62fcab499810bdd2": {
-   "imp": 2.15,
-   "ai": 0.92,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "a1d24db7e08ad9ae": {
-   "imp": 2.4,
-   "ai": 0.96,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "7cc93aa3859a8ea1": {
-   "imp": 2.15,
-   "ai": 0.95,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "f7713de9eb2a049e": {
-   "imp": 2.33,
-   "ai": 0.89,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9c2bfb914f30e065": {
-   "imp": 2.17,
-   "ai": 0.96,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "e83c088f99394fb3": {
-   "imp": 1.66,
-   "ai": 0.91,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "a32aa3e0aa6c8c84": {
-   "imp": 1.83,
-   "ai": 0.5,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "5ce2d31d42c03b93": {
-   "imp": 2.27,
-   "ai": 0.92,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "42131c66b112b7f9": {
-   "imp": 1.4,
-   "ai": 0.85,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "18c37323df95574c": {
-   "imp": 1.92,
-   "ai": 0.92,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "86e6b2979c212f65": {
-   "imp": 2.59,
-   "ai": 0.91,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "4aa06dd6cdf43e8c": {
-   "imp": 2.44,
-   "ai": 0.93,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "829ec27078fa35c2": {
-   "imp": 1.84,
-   "ai": 0.94,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "011e549bc3cc474a": {
-   "imp": 2.26,
-   "ai": 0.88,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9e67a4e79ad8928e": {
-   "imp": 1.01,
-   "ai": 0.72,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "38226191f56b47b0": {
-   "imp": 2.03,
-   "ai": 0.58,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "55f1ac06c2c66346": {
-   "imp": 1.32,
-   "ai": 0.29,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "6b5db77df3bfd94b": {
-   "imp": 1.64,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9ed2099ae4857f6f": {
-   "imp": 1.26,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "aff6802cc567cefa": {
-   "imp": 1.38,
-   "ai": null,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "0dbcabf87960e56e": {
-   "imp": 1.74,
-   "ai": 0.89,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "0684e4a211366997": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "58917bb9e58d7ade": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "03ecca820d15ecb2": {
-   "imp": 0.32,
-   "ai": 0.05,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "e5eba46e3e2f6c70": {
-   "imp": 1.16,
-   "ai": 0.39,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "d0ef1aadf1eda2ce": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "efd6ad06a45a95ec": {
-   "imp": 0.47,
-   "ai": 0.29,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "388db3fff7638422": {
-   "imp": 0.46,
-   "ai": 0.17,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "296a051b3a1a6ae4": {
-   "imp": 0.19,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "d921609fe702e0eb": {
-   "imp": 1.49,
-   "ai": 0.78,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "b7617a9fe2c6ead9": {
-   "imp": 0.27,
-   "ai": 0.06,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "e2efaddbec39de29": {
-   "imp": 0.18,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "95a4709c7a2d8ec6": {
-   "imp": 1.58,
-   "ai": 0.9,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "66fa64e8f6a8614c": {
-   "imp": 0.3,
-   "ai": 0.05,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "251c4b2fc68e8c74": {
-   "imp": 1.03,
-   "ai": 0.41,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "3e2f5769aecdf2f6": {
-   "imp": 0.36,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "22996a43746bf1ba": {
-   "imp": 1.27,
-   "ai": 0.9,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "592e667881897a2b": {
-   "imp": 1.4,
-   "ai": 0.62,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "a367972ec179d17d": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9a811f0d067fd5e2": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "2e8c520e987d5ae1": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "88ba9814a247bcd3": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "75c8505e7550fd5f": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "6c045c13fd761e06": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "8dddb757b60de172": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "f294ccc0bc03e270": {
-   "imp": 0.71,
-   "ai": 0.11,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "84a4148b19383e02": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "91c36047d39d350d": {
-   "imp": 0.42,
-   "ai": 0.06,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "5f47d6e60ea63a9f": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "5e9162def3228550": {
-   "imp": 0.35,
-   "ai": 0.07,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "78f60b9bc77e99e5": {
-   "imp": 1.75,
-   "ai": 0.61,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "3c29367803d34b91": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "212b1ab02418f715": {
-   "imp": 1.66,
-   "ai": 0.93,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "523621c0890f9baf": {
-   "imp": 1.78,
-   "ai": 0.74,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "7ac75bfe9b207981": {
-   "imp": 0.71,
-   "ai": 0.06,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "baf44ce1f39f42fd": {
-   "imp": 2.02,
-   "ai": 0.97,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "7bee507d31352a67": {
-   "imp": 1.48,
-   "ai": 0.72,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "f075810ad7d22354": {
-   "imp": 1.29,
-   "ai": 0.57,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "417ac55e66da5d31": {
-   "imp": 0.15,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "4bbb473dc364e821": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "d0ebee82261becd1": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "b096c2b88c26f1d5": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "d455d8f6c7b4be4c": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "1a01e20183eca217": {
-   "imp": 0.18,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "eb2e85b595995c9f": {
-   "imp": 1.72,
-   "ai": 0.9,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "f54c63ca21b87772": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "d6572d5df8e90d22": {
-   "imp": 0.15,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "4e91cebe8ea2a73c": {
-   "imp": 1.35,
-   "ai": 0.49,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "a4ec1687b5a2a444": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9ca0606b5b86f222": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "22323e92fad4485d": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "df97f62b5f1d174c": {
-   "imp": 1.18,
-   "ai": 0.64,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "ee484be5d320c962": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "cf2b696aa7ab656d": {
-   "imp": 0.96,
-   "ai": 0.3,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "4f541a7f4741df1c": {
-   "imp": 0.29,
-   "ai": 0.11,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "3f06f59f5fb7e033": {
-   "imp": 0.24,
-   "ai": 0.04,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "27f1b3018fd966d0": {
-   "imp": 0.2,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9b6bea5e9cf7cabc": {
-   "imp": 0.2,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "e73399df9e075a19": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "a7acc4b5cbb8bd96": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "fcc3acf2a9bceac3": {
-   "imp": 0.21,
-   "ai": 0.04,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "1062db8539aaf361": {
-   "imp": 0.73,
-   "ai": 0.09,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "8563355c12565ae1": {
-   "imp": 0.21,
-   "ai": 0.18,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "96baade49f6a3653": {
-   "imp": 1.74,
-   "ai": 0.18,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "be43be4785250e50": {
-   "imp": 0.97,
-   "ai": 0.48,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "e8f9678b1be51b48": {
-   "imp": 0.84,
-   "ai": 0.51,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "c700c79de0cf159c": {
-   "imp": 0.93,
-   "ai": 0.56,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "9eff95a55493c758": {
-   "imp": 0.31,
-   "ai": 0.06,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "bf278d710bf1d028": {
-   "imp": 0.21,
-   "ai": 0.06,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "417afde87709823d": {
-   "imp": 0.26,
-   "ai": 0.05,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "fa85ec11ed36557c": {
-   "imp": 1.3,
-   "ai": 0.34,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "f964d9479ea45cde": {
-   "imp": 0.17,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "c18ee447e03d61c8": {
-   "imp": 0.25,
-   "ai": 0.05,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "817c951bc8158367": {
-   "imp": 0.18,
-   "ai": 0.04,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "440929a8bd1916d3": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "4495a1bcb22306bf": {
-   "imp": 0.22,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "5125cead89e23510": {
-   "imp": 0.47,
-   "ai": 0.07,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "c77ac129b31f6238": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "eeaa23c8611e8f4a": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "56d9f7ae63fb47dd": {
-   "imp": 0.32,
-   "ai": 0.08,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "29f16d9ecb978e44": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "2a388f2ff93883f5": {
-   "imp": 0.21,
-   "ai": 0.03,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "1d160d5f39f33775": {
-   "imp": 1.45,
-   "ai": 0.23,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "582c7a04ab7e799f": {
-   "imp": 0.48,
-   "ai": 0.04,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "10f71cc25384c7af": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "831f3b4e689246dc": {
-   "imp": 0.28,
-   "ai": 0.06,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "fca15eb0b4be391e": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
-  "95374993e8e3a4e9": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-12T17:07:23.605760+00:00"
-  },
   "39669d2d6e5c60c1": {
    "imp": 1.86,
    "ai": 0.91,
@@ -27389,6 +26721,51 @@
    "imp": 0.19,
    "ai": 0.05,
    "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "69fbb2574868b9e8": {
+   "imp": 1.29,
+   "ai": 0.73,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "c023d2e58ae1c4ff": {
+   "imp": 2.16,
+   "ai": 0.95,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "db40ade6fdb7d0a6": {
+   "imp": 2.5,
+   "ai": 0.95,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "6668009dbad52efc": {
+   "imp": 1.19,
+   "ai": null,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "60e27525e480d53e": {
+   "imp": 0.57,
+   "ai": 0.1,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "f02347b6216fef1b": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "084569a5aec8fda8": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "c519d2fdae369d9d": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "e2f69c16792fae0f": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-20T17:07:23.512351+00:00"
   }
  }
 }
