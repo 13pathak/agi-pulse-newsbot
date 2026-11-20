@@ -1,16 +1,5 @@
 {
  "seen": {
-  "6343212a54f99ab7": "2026-11-13T16:07:27.082293+00:00",
-  "657afbac4d86e979": "2026-11-13T16:07:27.082293+00:00",
-  "f8c0d3e8e42d750e": "2026-11-13T16:07:27.082293+00:00",
-  "2fe293e399e8f3f7": "2026-11-13T16:07:27.082293+00:00",
-  "a8617b75cc0e00e8": "2026-11-13T16:07:27.082293+00:00",
-  "1bdcb63cc91c6b08": "2026-11-13T16:07:27.082293+00:00",
-  "c3b2320da0248bb7": "2026-11-13T16:07:27.082293+00:00",
-  "56623f1d9c94c2c4": "2026-11-13T16:07:27.082293+00:00",
-  "889eb791f25c9ea9": "2026-11-13T16:07:27.082293+00:00",
-  "948cab028170cbf2": "2026-11-13T16:07:27.082293+00:00",
-  "a329082777fc6eeb": "2026-11-13T16:07:27.082293+00:00",
   "adfd7cf196ccd19b": "2026-11-13T16:37:22.214977+00:00",
   "c651b7d44ebb69a0": "2026-11-13T16:37:22.214977+00:00",
   "d63e5e6aeb220a7f": "2026-11-13T16:37:22.214977+00:00",
@@ -1807,13 +1796,13 @@
   "fbb0ef253c3fe333": "2026-11-20T15:37:22.263514+00:00",
   "5fcf7fba39c9444d": "2026-11-20T15:37:22.263514+00:00",
   "1ab0efa6e74ce9cf": "2026-11-20T15:37:22.263514+00:00",
-  "bdc3a7c64ce65c7b": "2026-11-20T15:37:22.263514+00:00"
+  "bdc3a7c64ce65c7b": "2026-11-20T15:37:22.263514+00:00",
+  "8ef210adbaf00276": "2026-11-20T16:07:21.865128+00:00",
+  "5295c8babf0e26cf": "2026-11-20T16:07:21.865128+00:00",
+  "f723e5c1cd28d1ca": "2026-11-20T16:07:21.865128+00:00",
+  "cbb45597e6dc7fa7": "2026-11-20T16:07:21.865128+00:00"
  },
  "covered": [
-  {
-   "headline": "Humyn Labs raises $47 million in Series A",
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
   {
    "headline": "Nvidia stops advanced AI chip sales to China",
    "ts": "2026-11-18T16:37:24.404829+00:00"
@@ -2041,11 +2030,15 @@
   {
    "headline": "Google and Blue Origin partner on space data centers",
    "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  {
+   "headline": "Bloomberg analysis highlights AI labor market impact in China",
+   "ts": "2026-11-20T16:07:21.865128+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 30
+  "count": 31
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3934,9 +3927,44 @@
    "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
    "published": "2026-11-20T00:00:00.774000+00:00",
    "excerpt": "Combining RL on a custom task distribution with your favorite agent harness yields more accurate and efficient models for that target harness and task distribution. Models are not fully optimized for all harnesses and the tasks you’re doing. Instead, they target general performance. So when you combine a model and harness, you’re leaving performance and efficiency on the table for the stuff you’re actually doing. With RL, you can train a custom harness adapter that squeezes everything out of your model for your harness and task combination. Take Qwen3.8-27B, its Terminal-Bench 2.1 score with the pi harness is 39% which uses on average 2.9K tokens per task. If we freeze those weights and add a custom RL-trained LoRA adapter we can get 55% pass@1, with average token usage of 1.5K. Most of th…"
+  },
+  "https://www.qbitai.com/2026/11/511722.html": {
+   "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+   "desc": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "cf24727037c82e27",
+   "item": {
+    "id": "cf24727037c82e27",
+    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+    "url": "https://www.qbitai.com/2026/11/511722.html",
+    "source": "QbitAI",
+    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+    "snippet": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+    "published": "2026-11-20T12:18:01+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Suno launches Visuals video creation tool powered by MiniMax",
+   "post": "Suno launched a visual creation tool named Visuals, utilizing underlying video generation technology from Chinese AI firm MiniMax.",
+   "editor_note": "Check if the video generation capability is available to all Suno users or restricted to specific tiers.",
+   "support": 0.82,
+   "published_at": "2026-11-20T12:18:01+00:00",
+   "first_seen_at": "2026-11-20T16:07:21.865128+00:00",
+   "expires_at": "2026-11-22T00:18:01+00:00",
+   "decision": 1.71,
+   "priority": 7.46382,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "9556d208d7730f5a",
    "item": {
@@ -3964,8 +3992,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.343062,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 7.340086,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -3993,8 +4021,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.301052,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.31841,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4021,8 +4049,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.28349,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.300847,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "74ce162468414800",
@@ -4051,8 +4079,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.202267,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.228303,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4080,8 +4108,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.111217,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 7.097331,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4110,8 +4138,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.093929,
-   "selection_reason": "Editorial importance; waiting 57.5h"
+   "priority": 7.088721,
+   "selection_reason": "Editorial importance; waiting 58.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4139,8 +4167,38 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.07999,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.066104,
+   "selection_reason": "Editorial importance; waiting 27.5h"
+  },
+  {
+   "id": "e201ea2c78cdb255",
+   "item": {
+    "id": "e201ea2c78cdb255",
+    "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+    "url": "https://arxiv.org/abs/2611.21373",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Tencent. Upvotes: 36. Abstract: Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibility in selecting relevant inspections. Even with adaptive investigation, optimizing the investigation policy alone does not directly improve the forensic capabilities of fixed experts. We introduce WeVisForensics, an agentic framework in which a main investigator agent coordinates a self-evolving library of forensic inspector sub-agents spanning visual and audio cues. The investigator learns which artifact type to examine, over which window, and when to conclude, and these interactions provide shared feedback for both levels of agents. Our dual-timescale policy optimization strategy, DTPO, closes this loop through fast reinforcement learning of the investigator and slower refinement of the inspectors, guided by annotated artifact intervals, to report subtle artifacts they once dismissed. Furthermore, we curate ForenCue-30K, combining role-specific forensic annotations and interaction trajectories to supervise individual inspections and their coordination, with an accompanying reinforcement-learning pool. Experiments show that WeVisForensics averages 95.2% detection accuracy across in-domain, out-of-domain and agentic benchmarks, 9.0% above the strongest prior detector, while groundi…",
+    "published": "2026-11-20T00:00:00+00:00",
+    "upvotes": 36,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Tencent introduces WeVisForensics agent for AI video detection",
+   "post": "Researchers at Tencent introduced WeVisForensics, an agentic framework designed to detect AI-generated video and audio. The system achieved 95.2% average detection accuracy across benchmarks, 9 percentage points above prior detectors.",
+   "editor_note": "Verify benchmark conditions and baseline detectors used for comparison in the WeVisForensics paper.",
+   "support": 0.92,
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
+   "expires_at": "2026-11-24T00:00:00+00:00",
+   "decision": 1.29,
+   "priority": 7.011999,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4206,8 +4264,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.010754,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.996868,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4235,38 +4293,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.004342,
-   "selection_reason": "Editorial importance; waiting 30.5h"
-  },
-  {
-   "id": "e201ea2c78cdb255",
-   "item": {
-    "id": "e201ea2c78cdb255",
-    "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
-    "url": "https://arxiv.org/abs/2611.21373",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Tencent. Upvotes: 36. Abstract: Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibility in selecting relevant inspections. Even with adaptive investigation, optimizing the investigation policy alone does not directly improve the forensic capabilities of fixed experts. We introduce WeVisForensics, an agentic framework in which a main investigator agent coordinates a self-evolving library of forensic inspector sub-agents spanning visual and audio cues. The investigator learns which artifact type to examine, over which window, and when to conclude, and these interactions provide shared feedback for both levels of agents. Our dual-timescale policy optimization strategy, DTPO, closes this loop through fast reinforcement learning of the investigator and slower refinement of the inspectors, guided by annotated artifact intervals, to report subtle artifacts they once dismissed. Furthermore, we curate ForenCue-30K, combining role-specific forensic annotations and interaction trajectories to supervise individual inspections and their coordination, with an accompanying reinforcement-learning pool. Experiments show that WeVisForensics averages 95.2% detection accuracy across in-domain, out-of-domain and agentic benchmarks, 9.0% above the strongest prior detector, while groundi…",
-    "published": "2026-11-20T00:00:00+00:00",
-    "upvotes": 36,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Tencent introduces WeVisForensics agent for AI video detection",
-   "post": "Researchers at Tencent introduced WeVisForensics, an agentic framework designed to detect AI-generated video and audio. The system achieved 95.2% average detection accuracy across benchmarks, 9 percentage points above prior detectors.",
-   "editor_note": "Verify benchmark conditions and baseline detectors used for comparison in the WeVisForensics paper.",
-   "support": 0.92,
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
-   "expires_at": "2026-11-24T00:00:00+00:00",
-   "decision": 1.29,
-   "priority": 6.985963,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.990456,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4295,8 +4323,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 6.977262,
-   "selection_reason": "Editorial importance; waiting 80.5h"
+   "priority": 6.972055,
+   "selection_reason": "Editorial importance; waiting 81.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4323,8 +4351,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 6.937251,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.923365,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4352,8 +4380,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 6.926001,
-   "selection_reason": "Editorial importance; waiting 32.5h"
+   "priority": 6.912115,
+   "selection_reason": "Editorial importance; waiting 33.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4380,8 +4408,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.855453,
-   "selection_reason": "Editorial importance; waiting 33.5h"
+   "priority": 6.841567,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4410,8 +4438,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.763929,
-   "selection_reason": "Editorial importance; waiting 80.0h"
+   "priority": 6.758721,
+   "selection_reason": "Editorial importance; waiting 80.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4438,8 +4466,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.558691,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 6.548276,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   }
  ],
  "details_queue": [
@@ -4460,7 +4488,15 @@
      "source": "India Today"
     }
    ],
-   "attempts": 1
+   "attempts": 2
+  },
+  {
+   "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+   "source": "The Decoder",
+   "kind": "takes",
+   "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+   "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows…",
+   "queued_at": "2026-11-20T16:07:21.865128+00:00"
   }
  ],
  "details_done": {
@@ -27318,6 +27354,41 @@
    "imp": 0.13,
    "ai": 0.03,
    "ts": "2026-11-20T15:37:22.263514+00:00"
+  },
+  "cbb45597e6dc7fa7": {
+   "imp": 1.79,
+   "ai": null,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "8ef210adbaf00276": {
+   "imp": 1.41,
+   "ai": 0.73,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "5295c8babf0e26cf": {
+   "imp": 1.38,
+   "ai": 0.93,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "f723e5c1cd28d1ca": {
+   "imp": 0.6,
+   "ai": 0.6,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "cf24727037c82e27": {
+   "imp": 1.71,
+   "ai": 0.97,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "2a4fcb4d40ebd5b7": {
+   "imp": 0.5,
+   "ai": 0.08,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "5a2b0bb9c4f0034f": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-20T16:07:21.865128+00:00"
   }
  }
 }
