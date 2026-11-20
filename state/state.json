@@ -1,11 +1,5 @@
 {
  "seen": {
-  "ece4b84db3e9cab7": "2026-11-13T13:37:22.130371+00:00",
-  "31e584dc281d8d6a": "2026-11-13T13:37:22.130371+00:00",
-  "3089c4bb16cc96a8": "2026-11-13T13:37:22.130371+00:00",
-  "e15a3b5797ee60fc": "2026-11-13T13:37:22.130371+00:00",
-  "e734eb03ab12a1be": "2026-11-13T13:37:22.130371+00:00",
-  "d27a0bd0e57af52a": "2026-11-13T13:37:22.130371+00:00",
   "7e43b2e8c9a8b083": "2026-11-13T15:07:25.360059+00:00",
   "627c324df106de1b": "2026-11-13T15:07:25.360059+00:00",
   "e11df0c1a697abd3": "2026-11-13T15:07:25.360059+00:00",
@@ -1791,13 +1785,14 @@
   "284bcf0fd7d70759": "2026-11-20T13:07:25.783540+00:00",
   "bb1f1691ba729eaa": "2026-11-20T13:07:25.783540+00:00",
   "5a8303f5ab4a44fd": "2026-11-20T13:07:25.783540+00:00",
-  "8361df2178159924": "2026-11-20T13:07:25.783540+00:00"
+  "8361df2178159924": "2026-11-20T13:07:25.783540+00:00",
+  "5edbac8e96376665": "2026-11-20T13:37:23.217389+00:00",
+  "fd3deff7466808c0": "2026-11-20T13:37:23.217389+00:00",
+  "7ad6582a8b24f753": "2026-11-20T13:37:23.217389+00:00",
+  "f3bba61c80cccf42": "2026-11-20T13:37:23.217389+00:00",
+  "91df8d95aed0930f": "2026-11-20T13:37:23.217389+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia reports $115.8 billion quarterly revenue",
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
   {
    "headline": "Bengaluru leads India in AI startup funding",
    "ts": "2026-11-18T15:07:22.879384+00:00"
@@ -2013,11 +2008,15 @@
   {
    "headline": "Nestle partners with Microsoft and Boston Dynamics",
    "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  {
+   "headline": "Goa Cabinet approves three-year AI policy for 2026",
+   "ts": "2026-11-20T13:37:23.217389+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3928,8 +3927,8 @@
    "first_seen_at": "2026-11-20T11:37:24.028030+00:00",
    "expires_at": "2026-11-21T23:09:56+00:00",
    "decision": 1.59,
-   "priority": 7.569384,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.58672,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -3981,8 +3980,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.37018,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.387516,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4011,8 +4010,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.357937,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 7.354965,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4040,8 +4039,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.214281,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.231617,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4068,8 +4067,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.196718,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.214055,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4097,8 +4096,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.180634,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.166765,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4126,8 +4125,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.149408,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.135538,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4156,8 +4155,38 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.11996,
-   "selection_reason": "Editorial importance; waiting 55.0h"
+   "priority": 7.114759,
+   "selection_reason": "Editorial importance; waiting 55.5h"
+  },
+  {
+   "id": "74ce162468414800",
+   "item": {
+    "id": "74ce162468414800",
+    "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+    "url": "https://arxiv.org/abs/2611.26409",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Tencent. Upvotes: 33. Abstract: Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking mode for explicit step-by-step reasoning. The models are trained on a large-scale multimodal corpus of approximately 1.2 trillion tokens through progressive pre-training and a multi-stage post-training pipeline incorporating multi-teacher OPD, anti-repetition MrDPO, and specialist RL. Evaluated across more than 120 benchmarks, WeMM-Video demonstrates superior performance in omni-modal video understanding and reasoning, while maintaining highly competitive capabilities across general audio, silent video, image, and text tasks. Specifically, in omni-modal video evaluations, our flagship WeMM-Video-35B-A3B establishes a new open-source state of the art, substantially outperforming proprietary models such as Qwen3.5-Omni-Flash and Seed2.0-Mini-0428 while narrowing the gap with the strong Gemini-3.0-Flash, and our compact WeMM-Video-9B surpasses the larger open-source Qwen3-Omni-30B-A3B-Instruct. We publicly release the WeMM-Video family along with our evaluation and reprod…",
+    "published": "2026-11-20T00:00:00+00:00",
+    "upvotes": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Tencent introduces WeMM-Video omni-modal video models",
+   "post": "Researchers at Tencent released WeMM-Video, a family of Chinese-English bilingual omni-modal video models ranging from 2B to 35B parameters, trained on approximately 1.2 trillion tokens.",
+   "editor_note": "Check benchmark comparisons against Gemini-3.0-Flash and open-source licensing details.",
+   "support": 0.94,
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
+   "expires_at": "2026-11-24T00:00:00+00:00",
+   "decision": 1.47,
+   "priority": 7.098114,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4223,8 +4252,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.080171,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.066302,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4252,65 +4281,7 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.073759,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "74ce162468414800",
-   "item": {
-    "id": "74ce162468414800",
-    "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
-    "url": "https://arxiv.org/abs/2611.26409",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Tencent. Upvotes: 33. Abstract: Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking mode for explicit step-by-step reasoning. The models are trained on a large-scale multimodal corpus of approximately 1.2 trillion tokens through progressive pre-training and a multi-stage post-training pipeline incorporating multi-teacher OPD, anti-repetition MrDPO, and specialist RL. Evaluated across more than 120 benchmarks, WeMM-Video demonstrates superior performance in omni-modal video understanding and reasoning, while maintaining highly competitive capabilities across general audio, silent video, image, and text tasks. Specifically, in omni-modal video evaluations, our flagship WeMM-Video-35B-A3B establishes a new open-source state of the art, substantially outperforming proprietary models such as Qwen3.5-Omni-Flash and Seed2.0-Mini-0428 while narrowing the gap with the strong Gemini-3.0-Flash, and our compact WeMM-Video-9B surpasses the larger open-source Qwen3-Omni-30B-A3B-Instruct. We publicly release the WeMM-Video family along with our evaluation and reprod…",
-    "published": "2026-11-20T00:00:00+00:00",
-    "upvotes": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Tencent introduces WeMM-Video omni-modal video models",
-   "post": "Researchers at Tencent released WeMM-Video, a family of Chinese-English bilingual omni-modal video models ranging from 2B to 35B parameters, trained on approximately 1.2 trillion tokens.",
-   "editor_note": "Check benchmark comparisons against Gemini-3.0-Flash and open-source licensing details.",
-   "support": 0.94,
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
-   "expires_at": "2026-11-24T00:00:00+00:00",
-   "decision": 1.47,
-   "priority": 7.07211,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 7.006668,
+   "priority": 7.05989,
    "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
@@ -4340,8 +4311,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.003293,
-   "selection_reason": "Editorial importance; waiting 78.0h"
+   "priority": 6.998093,
+   "selection_reason": "Editorial importance; waiting 78.5h"
+  },
+  {
+   "id": "4bc4cadcc57b3185",
+   "item": {
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 6.992799,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4369,8 +4368,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 6.995418,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.981549,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4397,8 +4396,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.92487,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.911001,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4427,8 +4426,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.855805,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.88181,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4457,8 +4456,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.78996,
-   "selection_reason": "Editorial importance; waiting 77.5h"
+   "priority": 6.784759,
+   "selection_reason": "Editorial importance; waiting 78.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4485,8 +4484,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.610754,
-   "selection_reason": "Editorial importance; waiting 44.0h"
+   "priority": 6.600352,
+   "selection_reason": "Editorial importance; waiting 44.5h"
   }
  ],
  "details_queue": [],
@@ -4719,12 +4718,13 @@
   "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html": "2026-11-20T11:39:30.392611+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion": "2026-11-20T12:10:45.352876+00:00",
   "https://36kr.com/newsflashes/4077739390243977?f=rss": "2026-11-20T12:39:45.090418+00:00",
-  "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology": "2026-11-20T13:07:55.307360+00:00"
+  "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology": "2026-11-20T13:07:55.307360+00:00",
+  "https://analyticsindiamag.com/ai-news/goa-cabinet-approves-ai-policy-2026-puts-60-towards-skilling": "2026-11-20T13:38:57.135407+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 23
+  "takes": 24
  },
  "triage": {
   "32933935200c2839": {
@@ -27011,6 +27011,81 @@
    "imp": 0.14,
    "ai": 0.05,
    "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "7ad6582a8b24f753": {
+   "imp": 1.14,
+   "ai": 0.39,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "fd3deff7466808c0": {
+   "imp": 1.79,
+   "ai": null,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "5edbac8e96376665": {
+   "imp": 2.5,
+   "ai": 0.93,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "f3bba61c80cccf42": {
+   "imp": 0.73,
+   "ai": 0.78,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "91df8d95aed0930f": {
+   "imp": 2.43,
+   "ai": 0.96,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "dc1945084afc338e": {
+   "imp": 1.02,
+   "ai": 0.25,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "9474263f4ff58266": {
+   "imp": 0.05,
+   "ai": 0.04,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "da854c7971235a7a": {
+   "imp": 0.28,
+   "ai": 0.06,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "bee78514531c434b": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "f17d17c71dbd7854": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "2680ed7e9ff12634": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "819c71a3557d9a27": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "23bee56d45adc4c5": {
+   "imp": 0.2,
+   "ai": 0.06,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "68ccfd6715aa8e17": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
+  },
+  "47f218e57590255c": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-20T13:37:23.217389+00:00"
   }
  }
 }
