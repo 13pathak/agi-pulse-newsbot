@@ -1,21 +1,5 @@
 {
  "seen": {
-  "548dc0241fb93c86": "2026-11-13T12:07:26.736390+00:00",
-  "c4b5715bfda23a0e": "2026-11-13T12:07:26.736390+00:00",
-  "8fcb3001e7117556": "2026-11-13T12:07:26.736390+00:00",
-  "30be3a106f431b13": "2026-11-13T12:07:26.736390+00:00",
-  "2af8c10fdf158eb2": "2026-11-13T12:07:26.736390+00:00",
-  "8e8fa33cec469b93": "2026-11-13T12:07:26.736390+00:00",
-  "d9962f7c194b797b": "2026-11-13T12:07:26.736390+00:00",
-  "71dad9da95c2fbfe": "2026-11-13T12:07:26.736390+00:00",
-  "8bc37b438d7cdefb": "2026-11-13T12:07:26.736390+00:00",
-  "2d7db38ea1c92823": "2026-11-13T12:07:26.736390+00:00",
-  "3442c49f321326c3": "2026-11-13T12:07:26.736390+00:00",
-  "19d5ccf10fefa612": "2026-11-13T12:07:26.736390+00:00",
-  "29693579ec4a5ece": "2026-11-13T12:07:26.736390+00:00",
-  "ba7a7f1b4a0c75fa": "2026-11-13T12:07:26.736390+00:00",
-  "3ac6640ed3ef5afa": "2026-11-13T12:07:26.736390+00:00",
-  "efcf2dc52887de8f": "2026-11-13T12:07:26.736390+00:00",
   "3aeaac4b1af622f8": "2026-11-13T12:37:34.922491+00:00",
   "1cfa2ca498fda23d": "2026-11-13T12:37:34.922491+00:00",
   "f18bd3913d1857d7": "2026-11-13T12:37:34.922491+00:00",
@@ -1806,13 +1790,16 @@
   "3164b2dc6085d0db": "2026-11-20T11:37:24.028030+00:00",
   "f99d0b19f5cc5b7f": "2026-11-20T11:37:24.028030+00:00",
   "ac5cbaa76698a75f": "2026-11-20T11:37:24.028030+00:00",
-  "a2dbc005f592fb4c": "2026-11-20T11:37:24.028030+00:00"
+  "a2dbc005f592fb4c": "2026-11-20T11:37:24.028030+00:00",
+  "908916a6df9c1526": "2026-11-20T12:07:25.095728+00:00",
+  "cf861958d1e2d9e5": "2026-11-20T12:07:25.095728+00:00",
+  "b9c4bcb3a317103a": "2026-11-20T12:07:25.095728+00:00",
+  "cb7bba387b55590d": "2026-11-20T12:07:25.095728+00:00",
+  "f08f80a507e25c6c": "2026-11-20T12:07:25.095728+00:00",
+  "85dd7cfeb34af802": "2026-11-20T12:07:25.095728+00:00",
+  "07bc4c3acd8fdb1e": "2026-11-20T12:07:25.095728+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia expands chip supply chain with multi-billion dollar packaging support",
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
   {
    "headline": "Anthropic IPO sees nearly sevenfold oversubscription demand",
    "ts": "2026-11-18T12:37:24.202073+00:00"
@@ -2024,11 +2011,15 @@
   {
    "headline": "Signal restricts screenshots to block AI agents from reading messages",
    "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  {
+   "headline": "SK Hynix converts Kioxia bond to become top shareholder",
+   "ts": "2026-11-20T12:07:25.095728+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3908,34 +3899,6 @@
  },
  "pending": [
   {
-   "id": "07bc4c3acd8fdb1e",
-   "item": {
-    "id": "07bc4c3acd8fdb1e",
-    "title": "SK Hynix to Convert Kioxia Bond and Become Top Shareholder",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "SK Hynix Inc. will become Kioxia Holdings Corp.’s largest shareholder after it converts its holdings of the Japanese company’s bonds into shares, expanding its clout in the memory sector that’s critical to global AI development.",
-    "published": "2026-11-20T07:16:51+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "SK Hynix converts Kioxia bond to become top shareholder",
-   "post": "SK Hynix plans to convert its holdings of Kioxia Holdings bonds into shares to become the Japanese company's largest shareholder, expanding its position in the memory sector.",
-   "editor_note": "Verify completion of the bond conversion and final share percentage.",
-   "support": 0.94,
-   "published_at": "2026-11-20T07:16:51+00:00",
-   "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
-   "expires_at": "2026-11-21T19:16:51+00:00",
-   "decision": 1.61,
-   "priority": 7.603545,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "d05eedcf28c7812c",
    "item": {
     "id": "d05eedcf28c7812c",
@@ -3961,8 +3924,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.59865,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.616021,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "8361df2178159924",
@@ -3989,8 +3952,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.579577,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.596949,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "0d0c0304776da52b",
@@ -4018,8 +3981,8 @@
    "first_seen_at": "2026-11-20T11:37:24.028030+00:00",
    "expires_at": "2026-11-21T23:09:56+00:00",
    "decision": 1.59,
-   "priority": 7.517284,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.534655,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4048,8 +4011,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.366868,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 7.36389,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4101,8 +4064,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.318079,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.335451,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4130,37 +4093,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.222315,
-   "selection_reason": "Editorial importance; waiting 24.5h"
-  },
-  {
-   "id": "c13d075741cf194b",
-   "item": {
-    "id": "c13d075741cf194b",
-    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
-    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
-    "published": "2026-11-19T12:15:45+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
-   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
-   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
-   "support": 0.92,
-   "published_at": "2026-11-19T12:15:45+00:00",
-   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
-   "expires_at": "2026-11-21T00:15:45+00:00",
-   "decision": 1.77,
-   "priority": 7.191088,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 7.208417,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4188,8 +4122,37 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.162181,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.179552,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "c13d075741cf194b",
+   "item": {
+    "id": "c13d075741cf194b",
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
+    "published": "2026-11-19T12:15:45+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
+   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
+   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
+   "support": 0.92,
+   "published_at": "2026-11-19T12:15:45+00:00",
+   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
+   "expires_at": "2026-11-21T00:15:45+00:00",
+   "decision": 1.77,
+   "priority": 7.177191,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4216,8 +4179,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.144618,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.161989,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4246,8 +4209,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.13559,
-   "selection_reason": "Editorial importance; waiting 53.5h"
+   "priority": 7.130379,
+   "selection_reason": "Editorial importance; waiting 54.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4313,8 +4276,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.121852,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.107955,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4342,8 +4305,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.11544,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.101542,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4370,8 +4333,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.048349,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.034451,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4399,38 +4362,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.037099,
-   "selection_reason": "Editorial importance; waiting 28.5h"
-  },
-  {
-   "id": "753f1faf81d05f31",
-   "item": {
-    "id": "753f1faf81d05f31",
-    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-    "url": "https://arxiv.org/abs/2611.21003",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Institute of Foundation Models releases K2-Horizon open models",
-   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
-   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.92,
-   "priority": 7.018924,
-   "selection_reason": "Editorial importance; waiting 76.5h"
+   "priority": 7.023201,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4459,8 +4392,38 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 6.993959,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.020016,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "753f1faf81d05f31",
+   "item": {
+    "id": "753f1faf81d05f31",
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "url": "https://arxiv.org/abs/2611.21003",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
+    "published": "2026-11-17T00:00:00+00:00",
+    "upvotes": 21,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Institute of Foundation Models releases K2-Horizon open models",
+   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
+   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
+   "support": 0.96,
+   "published_at": "2026-11-17T00:00:00+00:00",
+   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
+   "expires_at": "2026-11-21T00:00:00+00:00",
+   "decision": 1.92,
+   "priority": 7.013712,
+   "selection_reason": "Editorial importance; waiting 77.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4487,8 +4450,38 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.966551,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 6.952654,
+   "selection_reason": "Editorial importance; waiting 30.0h"
+  },
+  {
+   "id": "e201ea2c78cdb255",
+   "item": {
+    "id": "e201ea2c78cdb255",
+    "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+    "url": "https://arxiv.org/abs/2611.21373",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Tencent. Upvotes: 36. Abstract: Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibility in selecting relevant inspections. Even with adaptive investigation, optimizing the investigation policy alone does not directly improve the forensic capabilities of fixed experts. We introduce WeVisForensics, an agentic framework in which a main investigator agent coordinates a self-evolving library of forensic inspector sub-agents spanning visual and audio cues. The investigator learns which artifact type to examine, over which window, and when to conclude, and these interactions provide shared feedback for both levels of agents. Our dual-timescale policy optimization strategy, DTPO, closes this loop through fast reinforcement learning of the investigator and slower refinement of the inspectors, guided by annotated artifact intervals, to report subtle artifacts they once dismissed. Furthermore, we curate ForenCue-30K, combining role-specific forensic annotations and interaction trajectories to supervise individual inspections and their coordination, with an accompanying reinforcement-learning pool. Experiments show that WeVisForensics averages 95.2% detection accuracy across in-domain, out-of-domain and agentic benchmarks, 9.0% above the strongest prior detector, while groundi…",
+    "published": "2026-11-20T00:00:00+00:00",
+    "upvotes": 36,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Tencent introduces WeVisForensics agent for AI video detection",
+   "post": "Researchers at Tencent introduced WeVisForensics, an agentic framework designed to detect AI-generated video and audio. The system achieved 95.2% average detection accuracy across benchmarks, 9 percentage points above prior detectors.",
+   "editor_note": "Verify benchmark conditions and baseline detectors used for comparison in the WeVisForensics paper.",
+   "support": 0.92,
+   "published_at": "2026-11-20T00:00:00+00:00",
+   "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
+   "expires_at": "2026-11-24T00:00:00+00:00",
+   "decision": 1.29,
+   "priority": 6.803712,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4517,8 +4510,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.80559,
-   "selection_reason": "Editorial importance; waiting 76.0h"
+   "priority": 6.800379,
+   "selection_reason": "Editorial importance; waiting 76.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4545,8 +4538,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.642014,
-   "selection_reason": "Editorial importance; waiting 42.5h"
+   "priority": 6.631591,
+   "selection_reason": "Editorial importance; waiting 43.0h"
   }
  ],
  "details_queue": [],
@@ -4776,12 +4769,13 @@
   "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai": "2026-11-20T09:39:20.283997+00:00",
   "https://36kr.com/newsflashes/4077880783999880?f=rss": "2026-11-20T10:38:39.790262+00:00",
   "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund": "2026-11-20T11:09:31.624823+00:00",
-  "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html": "2026-11-20T11:39:30.392611+00:00"
+  "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html": "2026-11-20T11:39:30.392611+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion": "2026-11-20T12:10:45.352876+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
   "32933935200c2839": {
@@ -26748,6 +26742,116 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-20T11:37:24.028030+00:00"
+  },
+  "b9c4bcb3a317103a": {
+   "imp": 1.58,
+   "ai": null,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "908916a6df9c1526": {
+   "imp": 2.18,
+   "ai": 0.95,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "85dd7cfeb34af802": {
+   "imp": 1.6,
+   "ai": 0.95,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "cf861958d1e2d9e5": {
+   "imp": 2.13,
+   "ai": 0.9,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "cb7bba387b55590d": {
+   "imp": 1.35,
+   "ai": 0.91,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "f08f80a507e25c6c": {
+   "imp": 1.23,
+   "ai": 0.92,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "e201ea2c78cdb255": {
+   "imp": 1.29,
+   "ai": null,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "6a2f75bd7e691c27": {
+   "imp": 0.09,
+   "ai": 0.08,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "fd8ef6866b606359": {
+   "imp": 0.04,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "2d22ed9e4840d5bc": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "884ae06bf8860665": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "5bd72b0f7add09f7": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "4b1dd98900a42690": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "42fd10d8b27d151d": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "7952ca0f8c60367b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "b4fd732ffae9c40e": {
+   "imp": 0.13,
+   "ai": 0.05,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "816d7589c6bcbd13": {
+   "imp": 1.2,
+   "ai": 0.5,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "09f0e0f98a01cd63": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "4f349244fa8cde0b": {
+   "imp": 0.41,
+   "ai": 0.13,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "9f0b00aa5213917b": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "310b2e810e991419": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "c4a36f822ea138af": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-20T12:07:25.095728+00:00"
   }
  }
 }
