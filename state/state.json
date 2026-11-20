@@ -1,16 +1,5 @@
 {
  "seen": {
-  "3aeaac4b1af622f8": "2026-11-13T12:37:34.922491+00:00",
-  "1cfa2ca498fda23d": "2026-11-13T12:37:34.922491+00:00",
-  "f18bd3913d1857d7": "2026-11-13T12:37:34.922491+00:00",
-  "69b43a95305bbe20": "2026-11-13T12:37:34.922491+00:00",
-  "bc8944b17cc0d1d4": "2026-11-13T12:37:34.922491+00:00",
-  "e7b4d074d37b80a9": "2026-11-13T12:37:34.922491+00:00",
-  "5f64e7eed892a640": "2026-11-13T12:37:34.922491+00:00",
-  "6fcee31fcfd3f5b2": "2026-11-13T12:37:34.922491+00:00",
-  "23546ebf32cb0cc7": "2026-11-13T12:37:34.922491+00:00",
-  "93cbdb4aad9f5ee1": "2026-11-13T12:37:34.922491+00:00",
-  "4907eb362d1d1eb1": "2026-11-13T12:37:34.922491+00:00",
   "ac6b5041cf84e88d": "2026-11-13T13:07:22.506341+00:00",
   "ce59473d8279bfdd": "2026-11-13T13:07:22.506341+00:00",
   "5d554d3b6b91af65": "2026-11-13T13:07:22.506341+00:00",
@@ -1797,13 +1786,21 @@
   "cb7bba387b55590d": "2026-11-20T12:07:25.095728+00:00",
   "f08f80a507e25c6c": "2026-11-20T12:07:25.095728+00:00",
   "85dd7cfeb34af802": "2026-11-20T12:07:25.095728+00:00",
-  "07bc4c3acd8fdb1e": "2026-11-20T12:07:25.095728+00:00"
+  "07bc4c3acd8fdb1e": "2026-11-20T12:07:25.095728+00:00",
+  "6b9dccbf573f188e": "2026-11-20T12:37:23.904607+00:00",
+  "56880aa47234b65c": "2026-11-20T12:37:23.904607+00:00",
+  "5bfe8bac3bf0a622": "2026-11-20T12:37:23.904607+00:00",
+  "eb01f984bc0d90c0": "2026-11-20T12:37:23.904607+00:00",
+  "ece128a558ab96f1": "2026-11-20T12:37:23.904607+00:00",
+  "6969f8d6a05190d0": "2026-11-20T12:37:23.904607+00:00",
+  "779ccf54081cfd88": "2026-11-20T12:37:23.904607+00:00",
+  "9b3bd8fc2ee08d5c": "2026-11-20T12:37:23.904607+00:00",
+  "c89059a3750750b9": "2026-11-20T12:37:23.904607+00:00",
+  "79bb76b7bef37ba6": "2026-11-20T12:37:23.904607+00:00",
+  "40cc30f1dedae871": "2026-11-20T12:37:23.904607+00:00",
+  "d05eedcf28c7812c": "2026-11-20T12:37:23.904607+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic IPO sees nearly sevenfold oversubscription demand",
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
   {
    "headline": "Nvidia reports $115.8 billion quarterly revenue",
    "ts": "2026-11-18T13:37:25.451880+00:00"
@@ -2015,11 +2012,15 @@
   {
    "headline": "SK Hynix converts Kioxia bond to become top shareholder",
    "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  {
+   "headline": "Tencent Cloud makes DeepSeek server-side search free",
+   "ts": "2026-11-20T12:37:23.904607+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3899,35 +3900,6 @@
  },
  "pending": [
   {
-   "id": "d05eedcf28c7812c",
-   "item": {
-    "id": "d05eedcf28c7812c",
-    "title": "腾讯云：2026年11月18日12时起，DeepSeek原厂服务端联网搜索免费",
-    "url": "https://36kr.com/newsflashes/4077739390243977?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯云公告，自北京时间2026年11月18日12时起，调用DeepSeek原厂直供模型（即模型名称中带「原厂直供」标识的模型）时触发的服务端搜索（Search）、网页抓取（Fetch）不再计费，仅按模型Token用量计费。对于11月18日12:00:00后产生的服务端联网搜索费用，我们将启动退费，费用将于11月30日23:59:59前统一退还。",
-    "published": "2026-11-20T06:51:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Tencent Cloud makes DeepSeek server-side search free",
-   "post": "Tencent Cloud removed server-side search and web-fetching fees for direct-supply DeepSeek models starting November 18, charging only for token usage and issuing refunds for fees incurred after that time.",
-   "editor_note": "Verify if the fee waiver applies to all DeepSeek models or only specific tiers on Tencent Cloud.",
-   "support": 0.91,
-   "published_at": "2026-11-20T06:51:00+00:00",
-   "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
-   "expires_at": "2026-11-21T18:51:00+00:00",
-   "decision": 1.35,
-   "priority": 7.616021,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
-  },
-  {
    "id": "8361df2178159924",
    "item": {
     "id": "8361df2178159924",
@@ -3952,8 +3924,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.596949,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.614298,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "0d0c0304776da52b",
@@ -3981,8 +3953,8 @@
    "first_seen_at": "2026-11-20T11:37:24.028030+00:00",
    "expires_at": "2026-11-21T23:09:56+00:00",
    "decision": 1.59,
-   "priority": 7.534655,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.552005,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4011,8 +3983,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.36389,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 7.360916,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4064,37 +4036,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.335451,
-   "selection_reason": "Editorial importance; waiting 10.0h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.208417,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.3528,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4122,8 +4065,65 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.179552,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.196902,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.194538,
+   "selection_reason": "Editorial importance; waiting 25.5h"
+  },
+  {
+   "id": "048307fe18e56f2d",
+   "item": {
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.179339,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4151,36 +4151,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.177191,
-   "selection_reason": "Editorial importance; waiting 23.5h"
-  },
-  {
-   "id": "048307fe18e56f2d",
-   "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.161989,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.163311,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4209,8 +4181,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.130379,
-   "selection_reason": "Editorial importance; waiting 54.0h"
+   "priority": 7.125174,
+   "selection_reason": "Editorial importance; waiting 54.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4276,8 +4248,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.107955,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.094075,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4305,65 +4277,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.101542,
-   "selection_reason": "Editorial importance; waiting 27.0h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 7.034451,
+   "priority": 7.087663,
    "selection_reason": "Editorial importance; waiting 27.5h"
-  },
-  {
-   "id": "e5ec3a5454a51090",
-   "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 7.023201,
-   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4392,8 +4307,65 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.020016,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.046041,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "4bc4cadcc57b3185",
+   "item": {
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 7.020572,
+   "selection_reason": "Editorial importance; waiting 28.0h"
+  },
+  {
+   "id": "e5ec3a5454a51090",
+   "item": {
+    "id": "e5ec3a5454a51090",
+    "title": "火山引擎上线豆包实时音视频通话模型API服务",
+    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
+    "published": "2026-11-19T06:50:20+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
+   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
+   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
+   "support": 0.91,
+   "published_at": "2026-11-19T06:50:20+00:00",
+   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
+   "expires_at": "2026-11-20T18:50:20+00:00",
+   "decision": 1.76,
+   "priority": 7.009322,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4422,8 +4394,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.013712,
-   "selection_reason": "Editorial importance; waiting 77.0h"
+   "priority": 7.008507,
+   "selection_reason": "Editorial importance; waiting 77.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4450,8 +4422,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.952654,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.938774,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4480,7 +4452,7 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.803712,
+   "priority": 6.829737,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4510,8 +4482,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.800379,
-   "selection_reason": "Editorial importance; waiting 76.5h"
+   "priority": 6.795174,
+   "selection_reason": "Editorial importance; waiting 77.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4538,8 +4510,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.631591,
-   "selection_reason": "Editorial importance; waiting 43.0h"
+   "priority": 6.621181,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   }
  ],
  "details_queue": [],
@@ -4770,12 +4742,13 @@
   "https://36kr.com/newsflashes/4077880783999880?f=rss": "2026-11-20T10:38:39.790262+00:00",
   "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund": "2026-11-20T11:09:31.624823+00:00",
   "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html": "2026-11-20T11:39:30.392611+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion": "2026-11-20T12:10:45.352876+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion": "2026-11-20T12:10:45.352876+00:00",
+  "https://36kr.com/newsflashes/4077739390243977?f=rss": "2026-11-20T12:39:45.090418+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 21
+  "takes": 22
  },
  "triage": {
   "32933935200c2839": {
@@ -26852,6 +26825,126 @@
    "imp": 0.15,
    "ai": 0.05,
    "ts": "2026-11-20T12:07:25.095728+00:00"
+  },
+  "5bfe8bac3bf0a622": {
+   "imp": 2.24,
+   "ai": 0.89,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "779ccf54081cfd88": {
+   "imp": 1.65,
+   "ai": null,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "56880aa47234b65c": {
+   "imp": 2.41,
+   "ai": 0.95,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "6969f8d6a05190d0": {
+   "imp": 1.95,
+   "ai": 0.96,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "79bb76b7bef37ba6": {
+   "imp": 0.8,
+   "ai": 0.74,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "ece128a558ab96f1": {
+   "imp": 1.86,
+   "ai": 0.92,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "c89059a3750750b9": {
+   "imp": 1.17,
+   "ai": 0.88,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "6b9dccbf573f188e": {
+   "imp": 2.35,
+   "ai": 0.95,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "40cc30f1dedae871": {
+   "imp": 1.44,
+   "ai": 0.9,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "9b3bd8fc2ee08d5c": {
+   "imp": 1.29,
+   "ai": 0.74,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "eb01f984bc0d90c0": {
+   "imp": 1.97,
+   "ai": 0.78,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "7b00aaf64805bf2a": {
+   "imp": 1.77,
+   "ai": 0.52,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "a012a36ca6e6c827": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "02a00a4a8e2d44c0": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "73fdc265973d4bf3": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "0b550abcb895b72f": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "816283ee19e75d96": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "23e70608da4b86b9": {
+   "imp": 1.25,
+   "ai": 0.39,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "77b76b7369803af7": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "e5929b7cd4eb91b0": {
+   "imp": 0.67,
+   "ai": 0.16,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "b0b0bd0fbae742a6": {
+   "imp": 1.29,
+   "ai": 0.59,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "061880a2b4fcefb3": {
+   "imp": 0.91,
+   "ai": 0.33,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "f64b32426ee5e793": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "0231421a7d1653e9": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-20T12:37:23.904607+00:00"
   }
  }
 }
