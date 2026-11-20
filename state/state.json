@@ -1,16 +1,5 @@
 {
  "seen": {
-  "cafe4a03e39dc550": "2026-11-13T09:07:22.927374+00:00",
-  "1a7caf61dab36232": "2026-11-13T09:07:22.927374+00:00",
-  "1cefe2d071f9aa76": "2026-11-13T09:07:22.927374+00:00",
-  "f0adc5a4e17fbd23": "2026-11-13T09:07:22.927374+00:00",
-  "64e34cc7adf07b5b": "2026-11-13T09:07:22.927374+00:00",
-  "77bf4ba9c6e4ac0a": "2026-11-13T09:07:22.927374+00:00",
-  "926b1b7cc2cb7571": "2026-11-13T09:07:22.927374+00:00",
-  "0239886cb34ab7e1": "2026-11-13T09:07:22.927374+00:00",
-  "10c45432b5ce2038": "2026-11-13T09:07:22.927374+00:00",
-  "2446a8a75538f3c3": "2026-11-13T09:07:22.927374+00:00",
-  "fb8776473e77bf42": "2026-11-13T09:07:22.927374+00:00",
   "88177097345d5b6c": "2026-11-13T09:37:21.260876+00:00",
   "d7e79e32eb234aa5": "2026-11-13T09:37:21.260876+00:00",
   "2958d880ad1560d9": "2026-11-13T09:37:21.260876+00:00",
@@ -1821,13 +1810,13 @@
   "090e7b7e4f5bd2df": "2026-11-20T08:07:24.187644+00:00",
   "5ac8cfe6f518b6d7": "2026-11-20T08:37:23.809740+00:00",
   "fe2c2dd670a2586f": "2026-11-20T08:37:23.809740+00:00",
-  "2413252bf25da0b0": "2026-11-20T08:37:23.809740+00:00"
+  "2413252bf25da0b0": "2026-11-20T08:37:23.809740+00:00",
+  "c35555aac72b9172": "2026-11-20T09:07:32.634470+00:00",
+  "f29b9e3c6ef27371": "2026-11-20T09:07:32.634470+00:00",
+  "5bf7961dcfca4bb4": "2026-11-20T09:07:32.634470+00:00",
+  "809d99b8090393ab": "2026-11-20T09:07:32.634470+00:00"
  },
  "covered": [
-  {
-   "headline": "Robotics company Botsync raises $11 million Series B",
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
   {
    "headline": "JensenHuang to testify before US House committees",
    "ts": "2026-11-18T09:37:22.634048+00:00"
@@ -2039,11 +2028,15 @@
   {
    "headline": "IRDAI chairman highlights insurer AI risks",
    "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  {
+   "headline": "Ex-Alibaba AI chief startup doubles valuation to $5 billion",
+   "ts": "2026-11-20T09:07:32.634470+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3936,8 +3929,36 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:29+00:00",
    "decision": 1.83,
-   "priority": 7.632299,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.649745,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
+  },
+  {
+   "id": "a2dbc005f592fb4c",
+   "item": {
+    "id": "a2dbc005f592fb4c",
+    "title": "Signal restricts screenshots to block AI agents from reading messages",
+    "url": "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html",
+    "source": "Mint",
+    "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+    "snippet": "AI-AGENT/SIGNAL (EXCLUSIVE, PIX):EXCLUSIVE-Signal restricts screenshots to block AI agents from reading messages",
+    "published": "2026-11-20T09:01:37+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Signal restricts screenshots to block AI agents from reading messages",
+   "post": "Signal has introduced restrictions on screenshots to prevent automated artificial intelligence agents from reading user messages.",
+   "editor_note": "Confirm the exact mechanism implemented by Signal to restrict screenshots according to the exclusive report.",
+   "support": 0.75,
+   "published_at": "2026-11-20T09:01:37+00:00",
+   "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
+   "expires_at": "2026-11-21T21:01:37+00:00",
+   "decision": 1.59,
+   "priority": 7.527256,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "07bc4c3acd8fdb1e",
@@ -3964,8 +3985,8 @@
    "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
    "expires_at": "2026-11-21T19:16:51+00:00",
    "decision": 1.61,
-   "priority": 7.499376,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.516823,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -3993,8 +4014,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.494481,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.511927,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "8361df2178159924",
@@ -4021,8 +4042,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.475408,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.492855,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4051,8 +4072,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.384726,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 7.381735,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4080,8 +4101,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.30565,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.291693,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4109,8 +4130,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.274423,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.260466,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4162,8 +4183,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.213911,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.231357,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4229,8 +4250,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.205187,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.19123,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4258,8 +4279,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.198775,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.184818,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4288,8 +4309,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.166841,
-   "selection_reason": "Editorial importance; waiting 50.5h"
+   "priority": 7.161607,
+   "selection_reason": "Editorial importance; waiting 51.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4316,8 +4337,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.131684,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.117727,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4345,8 +4366,37 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.120434,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.106477,
+   "selection_reason": "Editorial importance; waiting 26.0h"
+  },
+  {
+   "id": "4c3a82e8399a5309",
+   "item": {
+    "id": "4c3a82e8399a5309",
+    "title": "国家网信办：9-10月新增133款生成式人工智能服务完成备案",
+    "url": "https://36kr.com/newsflashes/4077871040926595?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，据国家网信办消息，2026年9月至10月，新增133款生成式人工智能服务在国家网信办完成备案，其中包括3款提供手机端侧生成式人工智能服务和1款提供拟人化互动生成式人工智能服务。1款生成式人工智能服务备案信息发生变更。对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增224款完成登记。截至10月31日，累计有1245款生成式人工智能服务完成备案，955款��成式人工智能应用或功能完成登记。",
+    "published": "2026-11-20T09:04:56+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "China Cyberspace Administration completes filing for 133 AI services",
+   "post": "China's Cyberspace Administration announced that 133 generative artificial intelligence services completed official filing between September and October.",
+   "editor_note": "Check cumulative figures: the administration stated 1,245 services have completed filing through October 31.",
+   "support": 0.9,
+   "published_at": "2026-11-20T09:04:56+00:00",
+   "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
+   "expires_at": "2026-11-21T21:04:56+00:00",
+   "decision": 1.73,
+   "priority": 7.075458,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4375,8 +4425,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.050174,
-   "selection_reason": "Editorial importance; waiting 73.5h"
+   "priority": 7.04494,
+   "selection_reason": "Editorial importance; waiting 74.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4403,8 +4453,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.049886,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.035929,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4433,8 +4483,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.836841,
-   "selection_reason": "Editorial importance; waiting 73.0h"
+   "priority": 6.831607,
+   "selection_reason": "Editorial importance; waiting 73.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4461,8 +4511,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.749361,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.735404,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4489,8 +4539,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.704515,
-   "selection_reason": "Editorial importance; waiting 39.5h"
+   "priority": 6.694047,
+   "selection_reason": "Editorial importance; waiting 40.0h"
   }
  ],
  "details_queue": [],
@@ -4715,12 +4765,13 @@
   "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business": "2026-11-20T07:10:55.507133+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday": "2026-11-20T07:39:18.822130+00:00",
   "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model": "2026-11-20T08:09:35.176752+00:00",
-  "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks": "2026-11-20T08:39:11.934323+00:00"
+  "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks": "2026-11-20T08:39:11.934323+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion": "2026-11-20T09:09:35.642134+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
   "32933935200c2839": {
@@ -25937,6 +25988,131 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "809d99b8090393ab": {
+   "imp": 2.04,
+   "ai": 0.97,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "4c3a82e8399a5309": {
+   "imp": 1.73,
+   "ai": 0.95,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "5bf7961dcfca4bb4": {
+   "imp": 1.53,
+   "ai": 0.89,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "f29b9e3c6ef27371": {
+   "imp": 0.79,
+   "ai": 0.25,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "a2dbc005f592fb4c": {
+   "imp": 1.59,
+   "ai": 0.9,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "c35555aac72b9172": {
+   "imp": 1.73,
+   "ai": 0.92,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "db961f9a7d0629f2": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "5ff2620b2fa98d3f": {
+   "imp": 0.62,
+   "ai": 0.29,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "0beffd9b6d6d9bc8": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "21e065eb514b9df8": {
+   "imp": 0.36,
+   "ai": 0.05,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "65311e981951aaf7": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "c8463fba5c046bdc": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "773f74a2781ad106": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "e1b76d658b9fd968": {
+   "imp": 0.38,
+   "ai": 0.04,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "a57c59da96e7ccff": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "1ce498ffda59e737": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "902c69f2f15356ef": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "1d05ccf1ef1a0930": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "c02a31b0dafa2abd": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "67f1f9b178ef8a25": {
+   "imp": 0.18,
+   "ai": 0.07,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "5ec07a43d2ada9aa": {
+   "imp": 0.22,
+   "ai": 0.04,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "07dc079089ecca92": {
+   "imp": 0.18,
+   "ai": 0.13,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "1b812ed1b9f38fd2": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "70eb72b1a480869f": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
+  },
+  "f47d2bd25f83fd3e": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T09:07:32.634470+00:00"
   }
  }
 }
