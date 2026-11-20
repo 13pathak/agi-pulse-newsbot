@@ -1,19 +1,5 @@
 {
  "seen": {
-  "ac6b5041cf84e88d": "2026-11-13T13:07:22.506341+00:00",
-  "ce59473d8279bfdd": "2026-11-13T13:07:22.506341+00:00",
-  "5d554d3b6b91af65": "2026-11-13T13:07:22.506341+00:00",
-  "e00ed907e42f1c2a": "2026-11-13T13:07:22.506341+00:00",
-  "bed46def9dbdf936": "2026-11-13T13:07:22.506341+00:00",
-  "7f4b634fdd63e732": "2026-11-13T13:07:22.506341+00:00",
-  "005f504376543daa": "2026-11-13T13:07:22.506341+00:00",
-  "d022c477d9fe46af": "2026-11-13T13:07:22.506341+00:00",
-  "87c11ac884eb74bd": "2026-11-13T13:07:22.506341+00:00",
-  "ef47fa6404976e84": "2026-11-13T13:07:22.506341+00:00",
-  "aa189383f7bd2657": "2026-11-13T13:07:22.506341+00:00",
-  "725cc9557187d5c2": "2026-11-13T13:07:22.506341+00:00",
-  "a11b7e7f40ac5bb6": "2026-11-13T13:07:22.506341+00:00",
-  "eedaaf26e82c4f65": "2026-11-13T13:07:22.506341+00:00",
   "ece4b84db3e9cab7": "2026-11-13T13:37:22.130371+00:00",
   "31e584dc281d8d6a": "2026-11-13T13:37:22.130371+00:00",
   "3089c4bb16cc96a8": "2026-11-13T13:37:22.130371+00:00",
@@ -1798,7 +1784,14 @@
   "c89059a3750750b9": "2026-11-20T12:37:23.904607+00:00",
   "79bb76b7bef37ba6": "2026-11-20T12:37:23.904607+00:00",
   "40cc30f1dedae871": "2026-11-20T12:37:23.904607+00:00",
-  "d05eedcf28c7812c": "2026-11-20T12:37:23.904607+00:00"
+  "d05eedcf28c7812c": "2026-11-20T12:37:23.904607+00:00",
+  "9afed0143cc7325c": "2026-11-20T13:07:25.783540+00:00",
+  "f94b516639b4fc03": "2026-11-20T13:07:25.783540+00:00",
+  "532279bc1bfd4530": "2026-11-20T13:07:25.783540+00:00",
+  "284bcf0fd7d70759": "2026-11-20T13:07:25.783540+00:00",
+  "bb1f1691ba729eaa": "2026-11-20T13:07:25.783540+00:00",
+  "5a8303f5ab4a44fd": "2026-11-20T13:07:25.783540+00:00",
+  "8361df2178159924": "2026-11-20T13:07:25.783540+00:00"
  },
  "covered": [
   {
@@ -2016,11 +2009,15 @@
   {
    "headline": "Tencent Cloud makes DeepSeek server-side search free",
    "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  {
+   "headline": "Nestle partners with Microsoft and Boston Dynamics",
+   "ts": "2026-11-20T13:07:25.783540+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3896,37 +3893,15 @@
    "desc": "联合华为昇腾，五年冲刺十万卡",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.anthropic.com/news/ipo-close": {
+   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+   "desc": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
+   "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+   "published": "2026-11-20T00:00:00+00:00"
   }
  },
  "pending": [
-  {
-   "id": "8361df2178159924",
-   "item": {
-    "id": "8361df2178159924",
-    "title": "Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
-    "url": "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology",
-    "source": "The Wall Street Journal",
-    "image": "https://images.wsj.net/im-14424485",
-    "snippet": "A new facility in Switzerland—the Deep Tech Center—will allow the company to use AI, smart sensors and robotics to improve efficiency in its operations.",
-    "published": "2026-11-20T07:10:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Nestle partners with Microsoft and Boston Dynamics",
-   "post": "Nestle partnered with Microsoft and Boston Dynamics to open a Deep Tech Center in Switzerland utilizing artificial intelligence, sensors, and robotics to improve factory operations.",
-   "editor_note": "Verify the operational timeline for the new Deep Tech Center in Switzerland.",
-   "support": 0.93,
-   "published_at": "2026-11-20T07:10:00+00:00",
-   "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
-   "expires_at": "2026-11-21T19:10:00+00:00",
-   "decision": 1.36,
-   "priority": 7.614298,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
-  },
   {
    "id": "0d0c0304776da52b",
    "item": {
@@ -3953,38 +3928,8 @@
    "first_seen_at": "2026-11-20T11:37:24.028030+00:00",
    "expires_at": "2026-11-21T23:09:56+00:00",
    "decision": 1.59,
-   "priority": 7.552005,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
-   "id": "9556d208d7730f5a",
-   "item": {
-    "id": "9556d208d7730f5a",
-    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
-    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
-    "published": "2026-11-18T17:05:50+00:00",
-    "trend": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
-   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
-   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
-   "support": 0.9,
-   "published_at": "2026-11-18T17:05:50+00:00",
-   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
-   "expires_at": "2026-11-25T17:05:50+00:00",
-   "decision": 1.11,
-   "priority": 7.360916,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 7.569384,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4036,8 +3981,38 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.3528,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.37018,
+   "selection_reason": "Editorial importance; waiting 11.0h"
+  },
+  {
+   "id": "9556d208d7730f5a",
+   "item": {
+    "id": "9556d208d7730f5a",
+    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
+    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
+    "published": "2026-11-18T17:05:50+00:00",
+    "trend": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
+    "images": true,
+    "category": "model",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
+   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
+   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
+   "support": 0.9,
+   "published_at": "2026-11-18T17:05:50+00:00",
+   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
+   "expires_at": "2026-11-25T17:05:50+00:00",
+   "decision": 1.11,
+   "priority": 7.357937,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4065,8 +4040,36 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.196902,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.214281,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "048307fe18e56f2d",
+   "item": {
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.196718,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4094,36 +4097,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.194538,
-   "selection_reason": "Editorial importance; waiting 25.5h"
-  },
-  {
-   "id": "048307fe18e56f2d",
-   "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.179339,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.180634,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4151,8 +4126,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.163311,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.149408,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4181,8 +4156,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.125174,
-   "selection_reason": "Editorial importance; waiting 54.5h"
+   "priority": 7.11996,
+   "selection_reason": "Editorial importance; waiting 55.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4248,8 +4223,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.094075,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.080171,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4277,8 +4252,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.087663,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.073759,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4307,8 +4282,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.046041,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.07211,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4335,37 +4310,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.020572,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "e5ec3a5454a51090",
-   "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 7.009322,
-   "selection_reason": "Editorial importance; waiting 29.5h"
+   "priority": 7.006668,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4394,8 +4340,37 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.008507,
-   "selection_reason": "Editorial importance; waiting 77.5h"
+   "priority": 7.003293,
+   "selection_reason": "Editorial importance; waiting 78.0h"
+  },
+  {
+   "id": "e5ec3a5454a51090",
+   "item": {
+    "id": "e5ec3a5454a51090",
+    "title": "火山引擎上线豆包实时音视频通话模型API服务",
+    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
+    "published": "2026-11-19T06:50:20+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
+   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
+   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
+   "support": 0.91,
+   "published_at": "2026-11-19T06:50:20+00:00",
+   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
+   "expires_at": "2026-11-20T18:50:20+00:00",
+   "decision": 1.76,
+   "priority": 6.995418,
+   "selection_reason": "Editorial importance; waiting 30.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4422,8 +4397,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.938774,
-   "selection_reason": "Editorial importance; waiting 30.5h"
+   "priority": 6.92487,
+   "selection_reason": "Editorial importance; waiting 31.0h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4452,8 +4427,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 6.829737,
-   "selection_reason": "Editorial importance"
+   "priority": 6.855805,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4482,8 +4457,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.795174,
-   "selection_reason": "Editorial importance; waiting 77.0h"
+   "priority": 6.78996,
+   "selection_reason": "Editorial importance; waiting 77.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4510,8 +4485,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.621181,
-   "selection_reason": "Editorial importance; waiting 43.5h"
+   "priority": 6.610754,
+   "selection_reason": "Editorial importance; waiting 44.0h"
   }
  ],
  "details_queue": [],
@@ -4743,12 +4718,13 @@
   "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund": "2026-11-20T11:09:31.624823+00:00",
   "https://www.livemint.com/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages-11795165297929.html": "2026-11-20T11:39:30.392611+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion": "2026-11-20T12:10:45.352876+00:00",
-  "https://36kr.com/newsflashes/4077739390243977?f=rss": "2026-11-20T12:39:45.090418+00:00"
+  "https://36kr.com/newsflashes/4077739390243977?f=rss": "2026-11-20T12:39:45.090418+00:00",
+  "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology": "2026-11-20T13:07:55.307360+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 22
+  "takes": 23
  },
  "triage": {
   "32933935200c2839": {
@@ -26945,6 +26921,96 @@
    "imp": 0.12,
    "ai": 0.03,
    "ts": "2026-11-20T12:37:23.904607+00:00"
+  },
+  "284bcf0fd7d70759": {
+   "imp": 1.33,
+   "ai": 0.74,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "bb1f1691ba729eaa": {
+   "imp": 1.66,
+   "ai": 0.66,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "f94b516639b4fc03": {
+   "imp": 2.69,
+   "ai": 0.92,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "5a8303f5ab4a44fd": {
+   "imp": 1.22,
+   "ai": 0.6,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "532279bc1bfd4530": {
+   "imp": 2.08,
+   "ai": 0.93,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "9afed0143cc7325c": {
+   "imp": 2.67,
+   "ai": null,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "e07892f479d1932f": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "344a98e634bdc4dc": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "306e7d0c3419796d": {
+   "imp": 0.27,
+   "ai": 0.04,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "bcc0886b2e513c75": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "39661893e2da8bc0": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "6349eedbad1ab142": {
+   "imp": 1.22,
+   "ai": 0.44,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "3e7a91b72e846b93": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "b9e5835b58752d82": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "99dc63cf6104c6e3": {
+   "imp": 0.19,
+   "ai": 0.05,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "1e6db42784300ad3": {
+   "imp": 0.76,
+   "ai": 0.16,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "2d87789b66b5a38a": {
+   "imp": 0.22,
+   "ai": 0.02,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
+  },
+  "a025ba142fe2f22b": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-20T13:07:25.783540+00:00"
   }
  }
 }
