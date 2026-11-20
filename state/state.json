@@ -1,6 +1,5 @@
 {
  "seen": {
-  "adc4551161f2fe73": "2026-11-13T08:37:20.813754+00:00",
   "cafe4a03e39dc550": "2026-11-13T09:07:22.927374+00:00",
   "1a7caf61dab36232": "2026-11-13T09:07:22.927374+00:00",
   "1cefe2d071f9aa76": "2026-11-13T09:07:22.927374+00:00",
@@ -1819,13 +1818,12 @@
   "6b0de95e1639fedf": "2026-11-20T08:07:24.187644+00:00",
   "4f2f1bfd0b5764ac": "2026-11-20T08:07:24.187644+00:00",
   "9b5308597693800b": "2026-11-20T08:07:24.187644+00:00",
-  "090e7b7e4f5bd2df": "2026-11-20T08:07:24.187644+00:00"
+  "090e7b7e4f5bd2df": "2026-11-20T08:07:24.187644+00:00",
+  "5ac8cfe6f518b6d7": "2026-11-20T08:37:23.809740+00:00",
+  "fe2c2dd670a2586f": "2026-11-20T08:37:23.809740+00:00",
+  "2413252bf25da0b0": "2026-11-20T08:37:23.809740+00:00"
  },
  "covered": [
-  {
-   "headline": "Robotics startup Genesis AI raises $500 million",
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
   {
    "headline": "Robotics company Botsync raises $11 million Series B",
    "ts": "2026-11-18T09:07:23.938680+00:00"
@@ -2037,11 +2035,15 @@
   {
    "headline": "Soket AI raises $4 million and releases 26B model",
    "ts": "2026-11-20T08:07:24.187644+00:00"
+  },
+  {
+   "headline": "IRDAI chairman highlights insurer AI risks",
+   "ts": "2026-11-20T08:37:23.809740+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3909,34 +3911,6 @@
  },
  "pending": [
   {
-   "id": "2413252bf25da0b0",
-   "item": {
-    "id": "2413252bf25da0b0",
-    "title": "IRDAI chairman flags consumer data grab before insurance price quotes, AI-related risks",
-    "url": "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Cautioning against insurers demanding personal information before providing premium quotes, IRDAI chairman said consumers should be able to compare prices without sharing details. He also noted how 85% of insurers are using AI for underwriting. The post IRDAI chairman flags consumer data grab before insurance price quotes, AI-related risks appeared first on MEDIANAMA .",
-    "published": "2026-11-20T07:23:30+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "IRDAI chairman highlights insurer AI risks",
-   "post": "The IRDAI chairman stated that 85% of insurers use artificial intelligence for underwriting and cautioned against firms demanding personal consumer data before providing price quotes.",
-   "editor_note": "Check if the IRDAI has issued formal guidelines regarding pre-quote data collection by insurers using AI.",
-   "support": 0.96,
-   "published_at": "2026-11-20T07:23:30+00:00",
-   "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
-   "expires_at": "2026-11-21T19:23:30+00:00",
-   "decision": 1.53,
-   "priority": 8.520968,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "a3863f0b4fbf0b74",
    "item": {
     "id": "a3863f0b4fbf0b74",
@@ -3962,8 +3936,36 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:29+00:00",
    "decision": 1.83,
-   "priority": 7.614941,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.632299,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "07bc4c3acd8fdb1e",
+   "item": {
+    "id": "07bc4c3acd8fdb1e",
+    "title": "SK Hynix to Convert Kioxia Bond and Become Top Shareholder",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "SK Hynix Inc. will become Kioxia Holdings Corp.’s largest shareholder after it converts its holdings of the Japanese company’s bonds into shares, expanding its clout in the memory sector that’s critical to global AI development.",
+    "published": "2026-11-20T07:16:51+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "SK Hynix converts Kioxia bond to become top shareholder",
+   "post": "SK Hynix plans to convert its holdings of Kioxia Holdings bonds into shares to become the Japanese company's largest shareholder, expanding its position in the memory sector.",
+   "editor_note": "Verify completion of the bond conversion and final share percentage.",
+   "support": 0.94,
+   "published_at": "2026-11-20T07:16:51+00:00",
+   "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
+   "expires_at": "2026-11-21T19:16:51+00:00",
+   "decision": 1.61,
+   "priority": 7.499376,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -3991,8 +3993,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.477123,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.494481,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "8361df2178159924",
@@ -4019,8 +4021,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.458051,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.475408,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4049,8 +4051,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.387701,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.384726,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4078,8 +4080,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.319536,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.30565,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4107,8 +4109,61 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.288309,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.274423,
+   "selection_reason": "Editorial importance; waiting 20.0h"
+  },
+  {
+   "id": "5fcf7fba39c9444d",
+   "item": {
+    "id": "5fcf7fba39c9444d",
+    "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
+    "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
+    "published": "2026-11-19T17:17:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "1ab0efa6e74ce9cf",
+     "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
+     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+     "source": "The Economic Times",
+     "image": "https://img.etimg.com/photo/msid-136012234,imgsize-42852.cms",
+     "snippet": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground.",
+     "published": "2026-11-20T03:52:25+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "bdc3a7c64ce65c7b",
+     "title": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
+     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
+     "source": "India Today",
+     "image": "",
+     "snippet": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
+     "published": "2026-11-20T04:32:27+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google and Blue Origin partner on space data centers",
+   "post": "Google and Blue Origin are partnering on Project Suncatcher, an experimental initiative to test solar-powered data centers in space, the companies announced.",
+   "editor_note": "Check if the announcement specifies a launch timeline or test payload details for the satellite data center.",
+   "support": 0.96,
+   "published_at": "2026-11-19T17:17:52+00:00",
+   "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
+   "expires_at": "2026-11-21T05:17:52+00:00",
+   "decision": 2.2,
+   "priority": 7.213911,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4174,8 +4229,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.219073,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.205187,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4203,61 +4258,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.212661,
-   "selection_reason": "Editorial importance; waiting 23.0h"
-  },
-  {
-   "id": "5fcf7fba39c9444d",
-   "item": {
-    "id": "5fcf7fba39c9444d",
-    "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
-    "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
-    "published": "2026-11-19T17:17:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "1ab0efa6e74ce9cf",
-     "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
-     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
-     "source": "The Economic Times",
-     "image": "https://img.etimg.com/photo/msid-136012234,imgsize-42852.cms",
-     "snippet": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground.",
-     "published": "2026-11-20T03:52:25+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "bdc3a7c64ce65c7b",
-     "title": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
-     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
-     "source": "India Today",
-     "image": "",
-     "snippet": "Google to use Jeff Bezos' Blue Origin to send AI data centres to space",
-     "published": "2026-11-20T04:32:27+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google and Blue Origin partner on space data centers",
-   "post": "Google and Blue Origin are partnering on Project Suncatcher, an experimental initiative to test solar-powered data centers in space, the companies announced.",
-   "editor_note": "Check if the announcement specifies a launch timeline or test payload details for the satellite data center.",
-   "support": 0.96,
-   "published_at": "2026-11-19T17:17:52+00:00",
-   "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
-   "expires_at": "2026-11-21T05:17:52+00:00",
-   "decision": 2.2,
-   "priority": 7.196553,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.198775,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4286,8 +4288,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.172048,
-   "selection_reason": "Editorial importance; waiting 50.0h"
+   "priority": 7.166841,
+   "selection_reason": "Editorial importance; waiting 50.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4314,8 +4316,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.14557,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.131684,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4343,36 +4345,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.13432,
-   "selection_reason": "Editorial importance; waiting 25.0h"
-  },
-  {
-   "id": "ec384d5ce78d49c6",
-   "item": {
-    "id": "ec384d5ce78d49c6",
-    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
-    "published": "2026-11-19T05:22:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "South Korea watchdog asks firms to report AI exposure",
-   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
-   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
-   "support": 0.96,
-   "published_at": "2026-11-19T05:22:45+00:00",
-   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
-   "expires_at": "2026-11-20T17:22:45+00:00",
-   "decision": 1.67,
-   "priority": 7.063772,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 7.120434,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4401,8 +4375,36 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.055381,
-   "selection_reason": "Editorial importance; waiting 73.0h"
+   "priority": 7.050174,
+   "selection_reason": "Editorial importance; waiting 73.5h"
+  },
+  {
+   "id": "ec384d5ce78d49c6",
+   "item": {
+    "id": "ec384d5ce78d49c6",
+    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
+    "published": "2026-11-19T05:22:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "South Korea watchdog asks firms to report AI exposure",
+   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
+   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
+   "support": 0.96,
+   "published_at": "2026-11-19T05:22:45+00:00",
+   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
+   "expires_at": "2026-11-20T17:22:45+00:00",
+   "decision": 1.67,
+   "priority": 7.049886,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4431,8 +4433,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.842048,
-   "selection_reason": "Editorial importance; waiting 72.5h"
+   "priority": 6.836841,
+   "selection_reason": "Editorial importance; waiting 73.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4459,8 +4461,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.763247,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "priority": 6.749361,
+   "selection_reason": "Editorial importance; waiting 29.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4487,8 +4489,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.714929,
-   "selection_reason": "Editorial importance; waiting 39.0h"
+   "priority": 6.704515,
+   "selection_reason": "Editorial importance; waiting 39.5h"
   }
  ],
  "details_queue": [],
@@ -4712,12 +4714,13 @@
   "https://analyticsindiamag.com/ai-news/us-lawmakers-disclose-approvals-for-879000-nvidia-and-amd-chips-to-china": "2026-11-20T06:38:16.463764+00:00",
   "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business": "2026-11-20T07:10:55.507133+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday": "2026-11-20T07:39:18.822130+00:00",
-  "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model": "2026-11-20T08:09:35.176752+00:00"
+  "https://analyticsindiamag.com/ai-news/soket-ai-secures-usd-4-million-as-it-rolls-out-its-eka-1-model": "2026-11-20T08:09:35.176752+00:00",
+  "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks": "2026-11-20T08:39:11.934323+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
   "32933935200c2839": {
@@ -25874,6 +25877,66 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-20T08:07:24.187644+00:00"
+  },
+  "07bc4c3acd8fdb1e": {
+   "imp": 1.61,
+   "ai": 0.82,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "fe2c2dd670a2586f": {
+   "imp": 0.55,
+   "ai": 0.57,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "5ac8cfe6f518b6d7": {
+   "imp": 1.3,
+   "ai": null,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "4328812cfa24c024": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "c87563393c1726ea": {
+   "imp": 0.31,
+   "ai": 0.04,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "2c0fc579d8a1e9f2": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "8ab2b76a8278bff4": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "092754fe102b80d1": {
+   "imp": 0.25,
+   "ai": 0.04,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "3d6c5c84f3cdbf1c": {
+   "imp": 0.27,
+   "ai": 0.11,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "33116c14dfeef618": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "e600e01a87874d89": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
+  },
+  "d289d3703b5ba3ed": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T08:37:23.809740+00:00"
   }
  }
 }
