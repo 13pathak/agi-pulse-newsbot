@@ -1831,13 +1831,14 @@
   "42003d05f93e5c9f": "2026-11-20T05:37:34.832497+00:00",
   "fb635d8eceb2d9a3": "2026-11-20T05:37:34.832497+00:00",
   "aa33809bcac6a6ab": "2026-11-20T05:37:34.832497+00:00",
-  "27ade97edf6bd0c5": "2026-11-20T05:37:34.832497+00:00"
+  "27ade97edf6bd0c5": "2026-11-20T05:37:34.832497+00:00",
+  "3e97e19d49f6ea71": "2026-11-20T06:07:22.297191+00:00",
+  "ad74b50e7f7ef6b0": "2026-11-20T06:07:22.297191+00:00",
+  "539200b54fe4ce1b": "2026-11-20T06:07:22.297191+00:00",
+  "a628e3d51eab8a75": "2026-11-20T06:07:22.297191+00:00",
+  "6d6821f501bbce2e": "2026-11-20T06:07:22.297191+00:00"
  },
  "covered": [
-  {
-   "headline": "Physical AI database startup ByteTree raises 50 million yuan",
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
   {
    "headline": "Neysa deploys AMD Instinct MI350X cluster in Mumbai",
    "ts": "2026-11-18T06:37:21.744958+00:00"
@@ -2049,11 +2050,15 @@
   {
    "headline": "Internal OpenAI model generated unauthorized email forwarding scripts",
    "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  {
+   "headline": "Google adds computer use capabilities to Gemini macOS app",
+   "ts": "2026-11-20T06:07:22.297191+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3911,50 +3916,15 @@
    "desc": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511582.html": {
+   "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+   "desc": "已开源Agnes Harness",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "a628e3d51eab8a75",
-   "item": {
-    "id": "a628e3d51eab8a75",
-    "title": "Gemini on Mac can now use your computer",
-    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
-    "published": "2026-11-19T18:21:13+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "6d6821f501bbce2e",
-     "title": "Google gives Gemini the ability to use your Mac for you",
-     "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-     "published": "2026-11-19T18:09:11+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google adds computer use capabilities to Gemini macOS app",
-   "post": "Google updated its Gemini app for macOS with computer use features, enabling the assistant to complete multi-step tasks across local files, desktop apps, and the web.",
-   "editor_note": "Check whether computer use on macOS is available to free users or restricted to paid subscribers.",
-   "support": 0.96,
-   "published_at": "2026-11-19T18:09:11+00:00",
-   "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
-   "expires_at": "2026-11-21T06:09:11+00:00",
-   "decision": 2.17,
-   "priority": 7.686069,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
-  },
   {
    "id": "b9badfd3e81f1cb3",
    "item": {
@@ -4029,8 +3999,8 @@
    "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
    "expires_at": "2026-11-21T07:11:58+00:00",
    "decision": 1.96,
-   "priority": 7.613885,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.631125,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4059,8 +4029,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.402565,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.399609,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4088,8 +4058,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.388898,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.375106,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4117,8 +4087,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.357671,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.343879,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4184,8 +4154,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.288435,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.274643,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4213,8 +4183,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.282023,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.268231,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4241,37 +4211,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.214932,
-   "selection_reason": "Editorial importance; waiting 21.0h"
-  },
-  {
-   "id": "e5ec3a5454a51090",
-   "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 7.203682,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.20114,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4300,36 +4241,37 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.198059,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 7.192887,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
-   "id": "ec384d5ce78d49c6",
+   "id": "e5ec3a5454a51090",
    "item": {
-    "id": "ec384d5ce78d49c6",
-    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
-    "source": "Bloomberg",
+    "id": "e5ec3a5454a51090",
+    "title": "火山引擎上线豆包实时音视频通话模型API服务",
+    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "source": "36Kr",
     "image": "",
-    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
-    "published": "2026-11-19T05:22:45+00:00",
-    "images": true,
+    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
+    "published": "2026-11-19T06:50:20+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "South Korea watchdog asks firms to report AI exposure",
-   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
-   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
-   "support": 0.96,
-   "published_at": "2026-11-19T05:22:45+00:00",
-   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
-   "expires_at": "2026-11-20T17:22:45+00:00",
-   "decision": 1.67,
-   "priority": 7.133134,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
+   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
+   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
+   "support": 0.91,
+   "published_at": "2026-11-19T06:50:20+00:00",
+   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
+   "expires_at": "2026-11-20T18:50:20+00:00",
+   "decision": 1.76,
+   "priority": 7.18989,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4381,8 +4323,36 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.10985,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.12709,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "ec384d5ce78d49c6",
+   "item": {
+    "id": "ec384d5ce78d49c6",
+    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
+    "published": "2026-11-19T05:22:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "South Korea watchdog asks firms to report AI exposure",
+   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
+   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
+   "support": 0.96,
+   "published_at": "2026-11-19T05:22:45+00:00",
+   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
+   "expires_at": "2026-11-20T17:22:45+00:00",
+   "decision": 1.67,
+   "priority": 7.119342,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4411,8 +4381,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.081392,
-   "selection_reason": "Editorial importance; waiting 70.5h"
+   "priority": 7.07622,
+   "selection_reason": "Editorial importance; waiting 71.0h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4441,8 +4411,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.868059,
-   "selection_reason": "Editorial importance; waiting 70.0h"
+   "priority": 6.862887,
+   "selection_reason": "Editorial importance; waiting 70.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4469,8 +4439,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.832609,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.818817,
+   "selection_reason": "Editorial importance; waiting 26.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4497,8 +4467,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.766951,
-   "selection_reason": "Editorial importance; waiting 36.5h"
+   "priority": 6.756607,
+   "selection_reason": "Editorial importance; waiting 37.0h"
   }
  ],
  "details_queue": [],
@@ -4717,12 +4687,13 @@
   "https://huggingface.co/tencent/Hy4-flash": "2026-11-20T04:09:40.664011+00:00",
   "https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai": "2026-11-20T04:39:29.759597+00:00",
   "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_Technology": "2026-11-20T05:07:52.007968+00:00",
-  "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": "2026-11-20T05:39:54.412062+00:00"
+  "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": "2026-11-20T05:39:54.412062+00:00",
+  "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use": "2026-11-20T06:07:45.538658+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
   "32933935200c2839": {
@@ -25514,6 +25485,36 @@
    "imp": 0.05,
    "ai": 0.03,
    "ts": "2026-11-20T05:37:34.832497+00:00"
+  },
+  "ad74b50e7f7ef6b0": {
+   "imp": 0.89,
+   "ai": 0.4,
+   "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  "539200b54fe4ce1b": {
+   "imp": 0.89,
+   "ai": 0.81,
+   "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  "470488940c18b035": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  "3e97e19d49f6ea71": {
+   "imp": 1.49,
+   "ai": 0.98,
+   "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  "1d41ee3ee7745233": {
+   "imp": 0.74,
+   "ai": 0.62,
+   "ts": "2026-11-20T06:07:22.297191+00:00"
+  },
+  "f3f048242017254e": {
+   "imp": 1.16,
+   "ai": 0.45,
+   "ts": "2026-11-20T06:07:22.297191+00:00"
   }
  }
 }
