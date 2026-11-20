@@ -1,18 +1,5 @@
 {
  "seen": {
-  "adfd7cf196ccd19b": "2026-11-13T16:37:22.214977+00:00",
-  "c651b7d44ebb69a0": "2026-11-13T16:37:22.214977+00:00",
-  "d63e5e6aeb220a7f": "2026-11-13T16:37:22.214977+00:00",
-  "6564d3fe1bb033a2": "2026-11-13T16:37:22.214977+00:00",
-  "187a58491854d3bc": "2026-11-13T16:37:22.214977+00:00",
-  "f3532aa8b8622c62": "2026-11-13T16:37:22.214977+00:00",
-  "434c7ccbfb9a3e47": "2026-11-13T16:37:22.214977+00:00",
-  "bead99654d67d272": "2026-11-13T16:37:22.214977+00:00",
-  "bc0ead6802fbcc51": "2026-11-13T16:37:22.214977+00:00",
-  "c791fa845858778c": "2026-11-13T16:37:22.214977+00:00",
-  "7d6f33056303e279": "2026-11-13T16:37:22.214977+00:00",
-  "a1ffa3194999acb7": "2026-11-13T16:37:22.214977+00:00",
-  "4d6f012cbac12e6d": "2026-11-13T16:37:22.214977+00:00",
   "8400bdfe1e2afd49": "2026-11-13T17:07:23.545296+00:00",
   "af5c3614999945bd": "2026-11-13T17:07:23.545296+00:00",
   "cfb7d5946481ebf2": "2026-11-13T17:07:23.545296+00:00",
@@ -1800,13 +1787,15 @@
   "8ef210adbaf00276": "2026-11-20T16:07:21.865128+00:00",
   "5295c8babf0e26cf": "2026-11-20T16:07:21.865128+00:00",
   "f723e5c1cd28d1ca": "2026-11-20T16:07:21.865128+00:00",
-  "cbb45597e6dc7fa7": "2026-11-20T16:07:21.865128+00:00"
+  "cbb45597e6dc7fa7": "2026-11-20T16:07:21.865128+00:00",
+  "b8e1839046bc97c6": "2026-11-20T16:37:21.914235+00:00",
+  "dfa5bae648aafd67": "2026-11-20T16:37:21.914235+00:00",
+  "3f23871144f33361": "2026-11-20T16:37:21.914235+00:00",
+  "3116f89aeeaf19c8": "2026-11-20T16:37:21.914235+00:00",
+  "f8ac4b85a5a42dde": "2026-11-20T16:37:21.914235+00:00",
+  "cf24727037c82e27": "2026-11-20T16:37:21.914235+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia stops advanced AI chip sales to China",
-   "ts": "2026-11-18T16:37:24.404829+00:00"
-  },
   {
    "headline": "Apollo Hospitals and Microsoft deploy medical error AI",
    "ts": "2026-11-18T17:07:25.031903+00:00"
@@ -2034,11 +2023,15 @@
   {
    "headline": "Bloomberg analysis highlights AI labor market impact in China",
    "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  {
+   "headline": "Suno launches Visuals video creation tool powered by MiniMax",
+   "ts": "2026-11-20T16:37:21.914235+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 31
+  "count": 32
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3937,35 +3930,6 @@
  },
  "pending": [
   {
-   "id": "cf24727037c82e27",
-   "item": {
-    "id": "cf24727037c82e27",
-    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
-    "url": "https://www.qbitai.com/2026/11/511722.html",
-    "source": "QbitAI",
-    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
-    "snippet": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-    "published": "2026-11-20T12:18:01+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Suno launches Visuals video creation tool powered by MiniMax",
-   "post": "Suno launched a visual creation tool named Visuals, utilizing underlying video generation technology from Chinese AI firm MiniMax.",
-   "editor_note": "Check if the video generation capability is available to all Suno users or restricted to specific tiers.",
-   "support": 0.82,
-   "published_at": "2026-11-20T12:18:01+00:00",
-   "first_seen_at": "2026-11-20T16:07:21.865128+00:00",
-   "expires_at": "2026-11-22T00:18:01+00:00",
-   "decision": 1.71,
-   "priority": 7.46382,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "9556d208d7730f5a",
    "item": {
     "id": "9556d208d7730f5a",
@@ -3992,8 +3956,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.340086,
-   "selection_reason": "Editorial importance; waiting 34.5h"
+   "priority": 7.33711,
+   "selection_reason": "Editorial importance; waiting 35.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4021,8 +3985,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.31841,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.335771,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4049,8 +4013,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.300847,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.318209,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4079,37 +4043,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.228303,
-   "selection_reason": "Editorial importance; waiting 6.5h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.097331,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 7.254345,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4138,8 +4073,37 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.088721,
-   "selection_reason": "Editorial importance; waiting 58.0h"
+   "priority": 7.083513,
+   "selection_reason": "Editorial importance; waiting 58.5h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.083442,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4167,8 +4131,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.066104,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.052215,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4197,8 +4161,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.011999,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.038041,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4264,8 +4228,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 6.996868,
-   "selection_reason": "Editorial importance; waiting 29.0h"
+   "priority": 6.982979,
+   "selection_reason": "Editorial importance; waiting 29.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4293,8 +4257,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 6.990456,
-   "selection_reason": "Editorial importance; waiting 31.0h"
+   "priority": 6.976567,
+   "selection_reason": "Editorial importance; waiting 31.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4323,8 +4287,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 6.972055,
-   "selection_reason": "Editorial importance; waiting 81.0h"
+   "priority": 6.966846,
+   "selection_reason": "Editorial importance; waiting 81.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4351,8 +4315,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 6.923365,
-   "selection_reason": "Editorial importance; waiting 31.5h"
+   "priority": 6.909476,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4380,8 +4344,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 6.912115,
-   "selection_reason": "Editorial importance; waiting 33.0h"
+   "priority": 6.898226,
+   "selection_reason": "Editorial importance; waiting 33.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4408,8 +4372,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 6.841567,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.827678,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4438,8 +4402,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.758721,
-   "selection_reason": "Editorial importance; waiting 80.5h"
+   "priority": 6.753513,
+   "selection_reason": "Editorial importance; waiting 81.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4466,37 +4430,27 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.548276,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 6.537859,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   }
  ],
  "details_queue": [
-  {
-   "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
-   "source": "The Information",
-   "kind": "takes",
-   "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test",
-   "summary": "Google will partner with Jeff Bezos’s Blue Origin rocket company for Project Suncatcher, Google’s experimental bid to test solar-powered data centers in space, the companies announced Thursday morning. The partnership comes as companies including SpaceX and Starcloud are racing to build AI ...",
-   "queued_at": "2026-11-20T15:37:22.263514+00:00",
-   "alternates": [
-    {
-     "url": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
-     "source": "The Economic Times"
-    },
-    {
-     "url": "https://www.indiatoday.in/technology/news/story/google-to-use-jeff-bezos-blue-origin-to-send-ai-data-centres-to-space-3042870-2026-11-20?utm_source=rss",
-     "source": "India Today"
-    }
-   ],
-   "attempts": 2
-  },
   {
    "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
    "source": "The Decoder",
    "kind": "takes",
    "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
    "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows…",
-   "queued_at": "2026-11-20T16:07:21.865128+00:00"
+   "queued_at": "2026-11-20T16:07:21.865128+00:00",
+   "attempts": 1
+  },
+  {
+   "url": "https://www.qbitai.com/2026/11/511722.html",
+   "source": "QbitAI",
+   "kind": "takes",
+   "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+   "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+   "queued_at": "2026-11-20T16:37:21.914235+00:00"
   }
  ],
  "details_done": {
@@ -4732,12 +4686,13 @@
   "https://analyticsindiamag.com/ai-news/goa-cabinet-approves-ai-policy-2026-puts-60-towards-skilling": "2026-11-20T13:38:57.135407+00:00",
   "https://36kr.com/newsflashes/4077993922352000?f=rss": "2026-11-20T14:10:21.058036+00:00",
   "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors": "2026-11-20T14:38:40.381436+00:00",
-  "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html": "2026-11-20T15:10:27.040417+00:00"
+  "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html": "2026-11-20T15:10:27.040417+00:00",
+  "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test": "2026-11-20T16:37:48.750287+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 27
+  "takes": 28
  },
  "triage": {
   "32933935200c2839": {
@@ -27389,6 +27344,51 @@
    "imp": 0.05,
    "ai": 0.03,
    "ts": "2026-11-20T16:07:21.865128+00:00"
+  },
+  "dfa5bae648aafd67": {
+   "imp": 2.37,
+   "ai": 0.95,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "f8ac4b85a5a42dde": {
+   "imp": 1.61,
+   "ai": 0.76,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "3116f89aeeaf19c8": {
+   "imp": 1.06,
+   "ai": 0.62,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "3f23871144f33361": {
+   "imp": 2.22,
+   "ai": 0.91,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "b8e1839046bc97c6": {
+   "imp": 2.22,
+   "ai": 0.89,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "1f957842f8e66df3": {
+   "imp": 1.18,
+   "ai": 0.59,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "8ddb85292c5c74db": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "94ed2771cad2d878": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
+  },
+  "21df036b5c926154": {
+   "imp": 0.19,
+   "ai": 0.05,
+   "ts": "2026-11-20T16:37:21.914235+00:00"
   }
  }
 }
