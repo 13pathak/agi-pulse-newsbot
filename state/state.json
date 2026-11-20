@@ -1,14 +1,5 @@
 {
  "seen": {
-  "d2364d78377213c0": "2026-11-13T10:07:22.750068+00:00",
-  "1afdea8743953412": "2026-11-13T10:07:22.750068+00:00",
-  "6ca33a84f3233966": "2026-11-13T10:07:22.750068+00:00",
-  "d44dd3d23b1cd5fa": "2026-11-13T10:07:22.750068+00:00",
-  "2e3e73fa7050a0f5": "2026-11-13T10:07:22.750068+00:00",
-  "24d6f4cb8ab9eeb6": "2026-11-13T10:07:22.750068+00:00",
-  "6b5073ab6b12bc65": "2026-11-13T10:07:22.750068+00:00",
-  "434722db9bf95617": "2026-11-13T10:07:22.750068+00:00",
-  "294c246e7e16ea99": "2026-11-13T10:07:22.750068+00:00",
   "139d22549f65ad3f": "2026-11-13T10:37:22.508699+00:00",
   "cb5bc8cfb675913d": "2026-11-13T10:37:22.508699+00:00",
   "9b9348454ec34180": "2026-11-13T10:37:22.508699+00:00",
@@ -1816,13 +1807,21 @@
   "15741ab6630915a1": "2026-11-20T09:37:21.973186+00:00",
   "87d492c290f6326d": "2026-11-20T09:37:21.973186+00:00",
   "3d03a242d4b840e5": "2026-11-20T09:37:21.973186+00:00",
-  "fa99769b497af56c": "2026-11-20T09:37:21.973186+00:00"
+  "fa99769b497af56c": "2026-11-20T09:37:21.973186+00:00",
+  "fd2811614640e90d": "2026-11-20T10:07:27.760801+00:00",
+  "bd9ef799e681f3e1": "2026-11-20T10:07:27.760801+00:00",
+  "7a8afe98ed9f7077": "2026-11-20T10:07:27.760801+00:00",
+  "4c6ebc3be234a5ca": "2026-11-20T10:07:27.760801+00:00",
+  "910c11a7679c150c": "2026-11-20T10:07:27.760801+00:00",
+  "cc1bed186168f370": "2026-11-20T10:07:27.760801+00:00",
+  "b47c1d5a6bcac055": "2026-11-20T10:07:27.760801+00:00",
+  "f308477aea1d2625": "2026-11-20T10:07:27.760801+00:00",
+  "c1fe6e4cca9dd9e0": "2026-11-20T10:07:27.760801+00:00",
+  "55e309827a077380": "2026-11-20T10:07:27.760801+00:00",
+  "033ccd75400dbe4c": "2026-11-20T10:07:27.760801+00:00",
+  "a3863f0b4fbf0b74": "2026-11-20T10:07:27.760801+00:00"
  },
  "covered": [
-  {
-   "headline": "Majority of Indian firms report AI agent security incidents",
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
   {
    "headline": "Serri AI crosses $2 million ARR milestone",
    "ts": "2026-11-18T10:37:26.075554+00:00"
@@ -2034,11 +2033,15 @@
   {
    "headline": "Bengaluru-based Humyn Labs raises $47 million for physical AI data",
    "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  {
+   "headline": "Sugon 8000 supercomputer wins Gordon Bell prize",
+   "ts": "2026-11-20T10:07:27.760801+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3912,35 +3915,6 @@
  },
  "pending": [
   {
-   "id": "a3863f0b4fbf0b74",
-   "item": {
-    "id": "a3863f0b4fbf0b74",
-    "title": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破",
-    "url": "https://36kr.com/newsflashes/4077758544827526?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "在美国当地时间19日下午举行的2026年国际超级计算大会（SC26）上，依托全国产十万卡AI超集群曙光8000（登峰）开展的两项重大科研应用，分别斩获国际计算机学会戈登·贝尔奖和成功入围戈登·贝尔气候建模奖决赛。（央视新闻）",
-    "published": "2026-11-20T07:10:29+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Sugon 8000 supercomputer wins Gordon Bell prize",
-   "post": "Sugon's 8000 domestic AI supercluster was used in research applications that won the Gordon Bell Prize and reached the climate modeling prize finals at the SC26 conference.",
-   "editor_note": "Confirm the specific scientific workloads run on the Sugon cluster for the award.",
-   "support": 0.82,
-   "published_at": "2026-11-20T07:10:29+00:00",
-   "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
-   "expires_at": "2026-11-21T19:10:29+00:00",
-   "decision": 1.83,
-   "priority": 7.667003,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "a2dbc005f592fb4c",
    "item": {
     "id": "a2dbc005f592fb4c",
@@ -3965,8 +3939,8 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:01:37+00:00",
    "decision": 1.59,
-   "priority": 7.544514,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.561931,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "07bc4c3acd8fdb1e",
@@ -3993,8 +3967,8 @@
    "first_seen_at": "2026-11-20T08:37:23.809740+00:00",
    "expires_at": "2026-11-21T19:16:51+00:00",
    "decision": 1.61,
-   "priority": 7.534081,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.551498,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "d05eedcf28c7812c",
@@ -4022,8 +3996,8 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.529185,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.546602,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "8361df2178159924",
@@ -4050,8 +4024,8 @@
    "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
    "expires_at": "2026-11-21T19:10:00+00:00",
    "decision": 1.36,
-   "priority": 7.510113,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.52753,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4080,37 +4054,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.378776,
-   "selection_reason": "Editorial importance; waiting 28.0h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.277886,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.375791,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4162,8 +4107,37 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.248615,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.266032,
+   "selection_reason": "Editorial importance; waiting 8.0h"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.263952,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4191,8 +4165,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.246659,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.232726,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4258,8 +4232,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.177423,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.163489,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "db250979562e999a",
@@ -4287,8 +4261,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.171011,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.157077,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4317,36 +4291,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.156429,
-   "selection_reason": "Editorial importance; waiting 51.5h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 7.10392,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.151204,
+   "selection_reason": "Editorial importance; waiting 52.0h"
   },
   {
    "id": "4c3a82e8399a5309",
@@ -4374,8 +4320,36 @@
    "first_seen_at": "2026-11-20T09:07:32.634470+00:00",
    "expires_at": "2026-11-21T21:04:56+00:00",
    "decision": 1.73,
-   "priority": 7.092716,
-   "selection_reason": "Editorial importance"
+   "priority": 7.110133,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "4bc4cadcc57b3185",
+   "item": {
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 7.089986,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4403,8 +4377,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.09267,
-   "selection_reason": "Editorial importance; waiting 26.5h"
+   "priority": 7.078736,
+   "selection_reason": "Editorial importance; waiting 27.0h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4433,8 +4407,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.039763,
-   "selection_reason": "Editorial importance; waiting 74.5h"
+   "priority": 7.034538,
+   "selection_reason": "Editorial importance; waiting 75.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4461,8 +4435,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.022122,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.008189,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4491,8 +4465,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 6.889763,
-   "selection_reason": "Editorial importance"
+   "priority": 6.915888,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4521,8 +4495,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.826429,
-   "selection_reason": "Editorial importance; waiting 74.0h"
+   "priority": 6.821204,
+   "selection_reason": "Editorial importance; waiting 74.5h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4549,8 +4523,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.721597,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "priority": 6.707664,
+   "selection_reason": "Editorial importance; waiting 30.5h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4577,8 +4551,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.683692,
-   "selection_reason": "Editorial importance; waiting 40.5h"
+   "priority": 6.673242,
+   "selection_reason": "Editorial importance; waiting 41.0h"
   }
  ],
  "details_queue": [],
@@ -26277,6 +26251,156 @@
    "imp": 0.15,
    "ai": 0.06,
    "ts": "2026-11-20T09:37:21.973186+00:00"
+  },
+  "fd2811614640e90d": {
+   "imp": 2.33,
+   "ai": null,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "c1fe6e4cca9dd9e0": {
+   "imp": 1.7,
+   "ai": null,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "bd9ef799e681f3e1": {
+   "imp": 2.3,
+   "ai": 0.95,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "910c11a7679c150c": {
+   "imp": 1.56,
+   "ai": 0.74,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "55e309827a077380": {
+   "imp": 1.19,
+   "ai": 0.73,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "b47c1d5a6bcac055": {
+   "imp": 1.38,
+   "ai": 0.75,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "f308477aea1d2625": {
+   "imp": 1.35,
+   "ai": 0.67,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "5ed0761ba71cc95d": {
+   "imp": 0.16,
+   "ai": 0.15,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "cc1bed186168f370": {
+   "imp": 1.55,
+   "ai": 0.9,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "033ccd75400dbe4c": {
+   "imp": 1.37,
+   "ai": 0.93,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "7a8afe98ed9f7077": {
+   "imp": 2.0,
+   "ai": 0.97,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "4c6ebc3be234a5ca": {
+   "imp": 2.03,
+   "ai": 0.96,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "1681ef7c3b41c5db": {
+   "imp": 0.62,
+   "ai": 0.45,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "f00f225809e8e6fe": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "424432c21a47ed98": {
+   "imp": 0.13,
+   "ai": 0.06,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "ba217b26afa4f8b4": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "a776a56bc0fd20ab": {
+   "imp": 0.13,
+   "ai": 0.05,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "3eb289e4075e2407": {
+   "imp": 1.13,
+   "ai": 0.42,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "3e7fad0b719969f1": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "531d698f645834d4": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "be049d0f506d477e": {
+   "imp": 0.31,
+   "ai": 0.1,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "adf3b5154673bc63": {
+   "imp": 0.91,
+   "ai": 0.29,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "cae06ebb0cf7e5c6": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "9f5e57c486dd769e": {
+   "imp": 0.16,
+   "ai": 0.07,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "2680381c20709432": {
+   "imp": 1.23,
+   "ai": 0.52,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "65a813752b1b3074": {
+   "imp": 0.68,
+   "ai": 0.24,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "640d3c8d0241b684": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "f24f6ed2cc2809bb": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "393353f9d73f7195": {
+   "imp": 0.24,
+   "ai": 0.05,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
+  },
+  "b0ca3c9067209214": {
+   "imp": 0.07,
+   "ai": 0.05,
+   "ts": "2026-11-20T10:07:27.760801+00:00"
   }
  }
 }
