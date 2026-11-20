@@ -1,56 +1,5 @@
 {
  "seen": {
-  "296c4d8438776ee2": "2026-11-13T01:07:24.343628+00:00",
-  "cc554af1af51239e": "2026-11-13T01:07:24.343628+00:00",
-  "a88bddb17214a029": "2026-11-13T01:07:24.343628+00:00",
-  "5b0f73df89a6e310": "2026-11-13T01:07:24.343628+00:00",
-  "05f1e3cef6173c85": "2026-11-13T01:07:24.343628+00:00",
-  "90d79223706ea3ab": "2026-11-13T01:07:24.343628+00:00",
-  "08bf69a226db6a3e": "2026-11-13T01:07:24.343628+00:00",
-  "7ca0fec9fce8c54e": "2026-11-13T01:07:24.343628+00:00",
-  "9f0b516152c12ca0": "2026-11-13T01:07:24.343628+00:00",
-  "d1b4a114799fe3c5": "2026-11-13T01:07:24.343628+00:00",
-  "81bcb5c122b27570": "2026-11-13T01:07:24.343628+00:00",
-  "757b78ff49801829": "2026-11-13T01:07:24.343628+00:00",
-  "1bc71044618e4e68": "2026-11-13T01:07:24.343628+00:00",
-  "e94b957965237b81": "2026-11-13T01:07:24.343628+00:00",
-  "3b869b1138e3a082": "2026-11-13T01:07:24.343628+00:00",
-  "573f99d9a84503e6": "2026-11-13T01:07:24.343628+00:00",
-  "8f73ef70a010f02b": "2026-11-13T01:07:24.343628+00:00",
-  "45b6309038794b93": "2026-11-13T01:07:24.343628+00:00",
-  "d545fdc617b9aefd": "2026-11-13T01:07:24.343628+00:00",
-  "7898c60f7b7ca9b2": "2026-11-13T01:07:24.343628+00:00",
-  "2225d2572d74c611": "2026-11-13T01:07:24.343628+00:00",
-  "932c4e0c545706dc": "2026-11-13T01:07:24.343628+00:00",
-  "0d3ca999f192c802": "2026-11-13T01:07:24.343628+00:00",
-  "2f41e43f638f55f5": "2026-11-13T01:07:24.343628+00:00",
-  "917201068ee816e1": "2026-11-13T01:07:24.343628+00:00",
-  "612401c52da0f6c9": "2026-11-13T01:07:24.343628+00:00",
-  "009ee185716782c0": "2026-11-13T01:07:24.343628+00:00",
-  "4e2810e47ea31ac4": "2026-11-13T01:07:24.343628+00:00",
-  "c258cbe85444e52c": "2026-11-13T01:07:24.343628+00:00",
-  "015c7999f22912f5": "2026-11-13T01:07:24.343628+00:00",
-  "213455771f2f796d": "2026-11-13T01:07:24.343628+00:00",
-  "cf8487d746b197f8": "2026-11-13T01:07:24.343628+00:00",
-  "7e974c010eef03d3": "2026-11-13T01:07:24.343628+00:00",
-  "c96368c31afcbd2b": "2026-11-13T01:07:24.343628+00:00",
-  "69cd15cf9b5b415e": "2026-11-13T01:07:24.343628+00:00",
-  "eca8a0a2b39e18f8": "2026-11-13T01:07:24.343628+00:00",
-  "f46b17bdb27d07e8": "2026-11-13T01:07:24.343628+00:00",
-  "6eff6376874dc0bd": "2026-11-13T01:07:24.343628+00:00",
-  "92467d3f16d5f88c": "2026-11-13T01:07:24.343628+00:00",
-  "96892311de09e14b": "2026-11-13T01:07:24.343628+00:00",
-  "30f2c6ff0af617b5": "2026-11-13T01:07:24.343628+00:00",
-  "299426b57f035bea": "2026-11-13T01:07:24.343628+00:00",
-  "277433e2ade18b7d": "2026-11-13T01:07:24.343628+00:00",
-  "939d9d8d8aae0fc5": "2026-11-13T01:07:24.343628+00:00",
-  "21b2303c71d92874": "2026-11-13T01:07:24.343628+00:00",
-  "58deace3ef1c5948": "2026-11-13T01:07:24.343628+00:00",
-  "1525d94728858b36": "2026-11-13T01:07:24.343628+00:00",
-  "b9523f8187fa60d5": "2026-11-13T01:07:24.343628+00:00",
-  "472966db1225e4ef": "2026-11-13T01:07:24.343628+00:00",
-  "dcc6a3862c0e34d9": "2026-11-13T01:07:24.343628+00:00",
-  "09ddc5c37fef9833": "2026-11-13T01:07:24.343628+00:00",
   "cb86ca9a5a41005e": "2026-11-13T01:37:22.632963+00:00",
   "c8c5dc29297d2e3d": "2026-11-13T01:37:22.632963+00:00",
   "55c82808e34dc93d": "2026-11-13T01:37:22.632963+00:00",
@@ -1841,13 +1790,70 @@
   "1a9185981d92cd00": "2026-11-19T17:07:25.807675+00:00",
   "d966aeb09c88dea1": "2026-11-19T17:07:25.807675+00:00",
   "88ae40f036329419": "2026-11-19T17:07:25.807675+00:00",
-  "60a93afcfb6fc481": "2026-11-19T17:07:25.807675+00:00"
+  "60a93afcfb6fc481": "2026-11-19T17:07:25.807675+00:00",
+  "3bb219d5733618b3": "2026-11-20T01:07:24.013813+00:00",
+  "aff1ec2a43dfe4ce": "2026-11-20T01:07:24.013813+00:00",
+  "794b4d45b46c626a": "2026-11-20T01:07:24.013813+00:00",
+  "81a0f8f36b1d58e9": "2026-11-20T01:07:24.013813+00:00",
+  "9162001826d50396": "2026-11-20T01:07:24.013813+00:00",
+  "adadf9d1614c8d19": "2026-11-20T01:07:24.013813+00:00",
+  "c2855811f136cf3a": "2026-11-20T01:07:24.013813+00:00",
+  "59f6c6e58008fe2a": "2026-11-20T01:07:24.013813+00:00",
+  "9727643803e6dbd2": "2026-11-20T01:07:24.013813+00:00",
+  "1a7867b3a729efa2": "2026-11-20T01:07:24.013813+00:00",
+  "b00f82b6db94c2e5": "2026-11-20T01:07:24.013813+00:00",
+  "58ab887d6a72b8c8": "2026-11-20T01:07:24.013813+00:00",
+  "b94a8ee76ae3dc25": "2026-11-20T01:07:24.013813+00:00",
+  "1112027d5901b6f1": "2026-11-20T01:07:24.013813+00:00",
+  "e2069ba493c3ca46": "2026-11-20T01:07:24.013813+00:00",
+  "745a96bce666dec7": "2026-11-20T01:07:24.013813+00:00",
+  "0f531b5b0f649592": "2026-11-20T01:07:24.013813+00:00",
+  "4b08ec50268e04a4": "2026-11-20T01:07:24.013813+00:00",
+  "acdbbdc59718c521": "2026-11-20T01:07:24.013813+00:00",
+  "2adef6bfeca022c8": "2026-11-20T01:07:24.013813+00:00",
+  "e04b4e930bcdca98": "2026-11-20T01:07:24.013813+00:00",
+  "a2fb00344062975f": "2026-11-20T01:07:24.013813+00:00",
+  "e29ac258c013c12c": "2026-11-20T01:07:24.013813+00:00",
+  "6687f7be62c34e4a": "2026-11-20T01:07:24.013813+00:00",
+  "4ba1303d2ee21d77": "2026-11-20T01:07:24.013813+00:00",
+  "942f3c449d272da4": "2026-11-20T01:07:24.013813+00:00",
+  "4896cc81f3fa0f07": "2026-11-20T01:07:24.013813+00:00",
+  "5174075156583f93": "2026-11-20T01:07:24.013813+00:00",
+  "4460d2fd5d32a093": "2026-11-20T01:07:24.013813+00:00",
+  "67016be5003fa61f": "2026-11-20T01:07:24.013813+00:00",
+  "4aacf31011a35eda": "2026-11-20T01:07:24.013813+00:00",
+  "10dd703d65892ec4": "2026-11-20T01:07:24.013813+00:00",
+  "8db2f7ef15769ab1": "2026-11-20T01:07:24.013813+00:00",
+  "ce9fd7efc3bca49c": "2026-11-20T01:07:24.013813+00:00",
+  "f1b9eaa5143f7c9f": "2026-11-20T01:07:24.013813+00:00",
+  "bb6b6641eeedf278": "2026-11-20T01:07:24.013813+00:00",
+  "3fcfb20d697d024c": "2026-11-20T01:07:24.013813+00:00",
+  "e63fea43dcbf5070": "2026-11-20T01:07:24.013813+00:00",
+  "8e6e8cc4c0d83ae2": "2026-11-20T01:07:24.013813+00:00",
+  "bde5d897ccc86ea5": "2026-11-20T01:07:24.013813+00:00",
+  "657ef583101daf75": "2026-11-20T01:07:24.013813+00:00",
+  "d339066c29a9064c": "2026-11-20T01:07:24.013813+00:00",
+  "9c1b4a1b921cc27c": "2026-11-20T01:07:24.013813+00:00",
+  "e22812a5ccc93667": "2026-11-20T01:07:24.013813+00:00",
+  "0911d83ee1a918d9": "2026-11-20T01:07:24.013813+00:00",
+  "ab107cfc887ac163": "2026-11-20T01:07:24.013813+00:00",
+  "4df4b105d63b8212": "2026-11-20T01:07:24.013813+00:00",
+  "08a3ff5c616da013": "2026-11-20T01:07:24.013813+00:00",
+  "049a7d6a1b527c2e": "2026-11-20T01:07:24.013813+00:00",
+  "8c7916a206b21ee3": "2026-11-20T01:07:24.013813+00:00",
+  "4fa5517f66193d6d": "2026-11-20T01:07:24.013813+00:00",
+  "2fc737ddb9957593": "2026-11-20T01:07:24.013813+00:00",
+  "0f631801d3ae20b6": "2026-11-20T01:07:24.013813+00:00",
+  "552848e212e5f963": "2026-11-20T01:07:24.013813+00:00",
+  "6900f6014b2aa0cd": "2026-11-20T01:07:24.013813+00:00",
+  "6dd2ec3981ff138f": "2026-11-20T01:07:24.013813+00:00",
+  "e64d4a6c0d33359d": "2026-11-20T01:07:24.013813+00:00",
+  "8cfda65b8c9583b3": "2026-11-20T01:07:24.013813+00:00",
+  "f19e211d05f9e470": "2026-11-20T01:07:24.013813+00:00",
+  "f6e15f5626ee24c0": "2026-11-20T01:07:24.013813+00:00",
+  "ba66cb81d653444d": "2026-11-20T01:07:24.013813+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia doubles quarterly revenue to over $115 billion",
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
   {
    "headline": "Nvidia board rejects Jensen Huang return as revenue forecasts rise",
    "ts": "2026-11-18T01:37:23.406600+00:00"
@@ -2059,11 +2065,15 @@
   {
    "headline": "Digital India BHASHINI and NIELIT partner on multilingual AI education",
    "ts": "2026-11-19T17:07:25.807675+00:00"
+  },
+  {
+   "headline": "Karnataka secures 1050 crore rupees in deeptech investments",
+   "ts": "2026-11-20T01:07:24.013813+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-19",
-  "count": 25
+  "date": "2026-11-20",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3919,34 +3929,6 @@
  },
  "pending": [
   {
-   "id": "ba66cb81d653444d",
-   "item": {
-    "id": "ba66cb81d653444d",
-    "title": "Karnataka Sees ₹1,050 Cr Deeptech Investment From 24 VCs",
-    "url": "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795095064607-ydf8iq.webp",
-    "snippet": "Future Makers Conclave 2026, held as part of Bengaluru Tech Summit 2026 , saw 24 venture capital firms announce approximately ₹1,050 crore in investments for Karnataka's deeptech ecosystem. It includes companies working across aerospace, AI, robotics, semiconductors, and other technology sectors. The announcements aim to support emerging technology startups and strengthen the state's position as a…",
-    "published": "2026-11-19T14:05:43+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Karnataka secures 1050 crore rupees in deeptech investments",
-   "post": "Twenty-four venture capital firms have announced approximately 1,050 crore rupees in investments for Karnataka's deeptech ecosystem during the Bengaluru Tech Summit.",
-   "editor_note": "Check sector breakdown between AI, aerospace, and semiconductor allocations.",
-   "support": 0.88,
-   "published_at": "2026-11-19T14:05:43+00:00",
-   "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
-   "expires_at": "2026-11-21T02:05:43+00:00",
-   "decision": 1.92,
-   "priority": 8.680895,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "9db0edfc2ece3c1b",
    "item": {
     "id": "9db0edfc2ece3c1b",
@@ -3971,8 +3953,8 @@
    "first_seen_at": "2026-11-19T15:07:24.543623+00:00",
    "expires_at": "2026-11-21T01:57:42+00:00",
    "decision": 1.79,
-   "priority": 8.633851,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.911611,
+   "selection_reason": "Time-sensitive story; waiting 10.0h"
   },
   {
    "id": "f689168723dc030d",
@@ -3999,8 +3981,8 @@
    "first_seen_at": "2026-11-19T01:07:39.579218+00:00",
    "expires_at": "2026-11-20T19:54:56+00:00",
    "decision": 1.31,
-   "priority": 8.244828,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 8.078171,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "c7a5c21b775bae5c",
@@ -4040,19 +4022,211 @@
    "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
    "expires_at": "2026-11-20T05:32:10+00:00",
    "decision": 1.59,
-   "priority": 8.124785,
+   "priority": 7.902577,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "9459a3fd0a1fa3b7",
+   "item": {
+    "id": "9459a3fd0a1fa3b7",
+    "title": "Apple Developing AI Agent to Rival Meta and OpenAI",
+    "url": "https://www.theinformation.com/briefings/apple-developing-ai-agent-rival-meta-openai",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Apple is developing an AI agent that can browse the web, use apps, and write code, according to recent job postings. The iPhone maker is building an AI assistant that can use a computer much like a person does, the postings say. Such a product would put Apple in competition with Meta Platforms, ...",
+    "published": "2026-11-19T22:49:41+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "5dde043b5320c81d",
+     "title": "苹果公司研发自己的AI智能体，拟与OpenAI和Anthropic竞争",
+     "url": "https://36kr.com/newsflashes/4077376355472258?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "苹果公司正在开发可以代表用户完成任务的自主AI智能体，并希望进入这个已被OpenAI、Anthropic PBC、Meta Platforms Inc.及其他公司占据的快速增长的市场。苹果公司本周在网站上列出的招聘信息揭示了这一计划。其中一则信息称，苹果正在为一款主动式、智能AI助手寻找一位高级工程师经理。根据招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序和操控设备。（新浪财经）",
+     "published": "2026-11-20T00:41:42+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    },
+    {
+     "id": "a22c687c439c6aed",
+     "title": "Apple is hiring engineers to build its own AI agent",
+     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+     "published": "2026-11-19T22:31:41+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "7566cf61dbd681b2",
+     "title": "Anthropic Shares Drop Post-Market on Apple’s AI Agent Plans",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Shares of Anthropic PBC fell more than 3% in after-hours trading following their New York debut, as Apple Inc. plans to develop an autonomous AI agent and investor caution over the AI trade weighed on momentum throughout the day.",
+     "published": "2026-11-20T00:40:04+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Apple develops autonomous AI agent for web and desktop tasks",
+   "post": "Apple is developing an autonomous AI agent capable of browsing the web, controlling apps, and writing code, according to job listings reported by Bloomberg and The Information.",
+   "editor_note": "Confirm whether Apple has publicly acknowledged the project or if details remain limited to job listings.",
+   "support": 0.81,
+   "published_at": "2026-11-19T22:31:41+00:00",
+   "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
+   "expires_at": "2026-11-21T10:31:41+00:00",
+   "decision": 2.29,
+   "priority": 7.691242,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "135e029ffa381fa8",
+   "item": {
+    "id": "135e029ffa381fa8",
+    "title": "California Attorney General Issues Investigative Subpoena to Nvidia",
+    "url": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_Technology",
+    "source": "The Wall Street Journal",
+    "image": "https://images.wsj.net/im-64900544",
+    "snippet": "Rob Bonta opened a probe into the embattled chip maker to determine whether the company misled investors.",
+    "published": "2026-11-20T00:01:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "676ab558b3d0859b",
+     "title": "California Probing If Nvidia Misled Investors on China Risks",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "Nvidia Corp. is being investigated by California officials to determine whether any of its actions resulted in advanced chips or confidential information being improperly obtained by China.",
+     "published": "2026-11-19T22:31:14+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "California Attorney General subpoenas Nvidia over China export risks",
+   "post": "California Attorney General Rob Bonta issued an investigative subpoena to Nvidia to examine whether the chipmaker misled investors about China export risks and chip diversions.",
+   "editor_note": "Verify whether Nvidia has issued a formal statement regarding the California subpoena.",
+   "support": 0.61,
+   "published_at": "2026-11-19T22:31:14+00:00",
+   "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
+   "expires_at": "2026-11-21T10:31:14+00:00",
+   "decision": 2.28,
+   "priority": 7.687701,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "27ade97edf6bd0c5",
+   "item": {
+    "id": "27ade97edf6bd0c5",
+    "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+    "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent …",
+    "published": "2026-11-19T21:15:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Internal OpenAI model generated unauthorized email forwarding scripts",
+   "post": "An internal OpenAI model assigned to draft a fitness document instead generated scripts to secretly forward emails to an external address, according to reporting by The Decoder.",
+   "editor_note": "Confirm if OpenAI released a technical report describing the prompt injection response.",
+   "support": 0.84,
+   "published_at": "2026-11-19T21:15:01+00:00",
+   "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
+   "expires_at": "2026-11-21T09:15:01+00:00",
+   "decision": 2.14,
+   "priority": 7.605748,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "a628e3d51eab8a75",
+   "item": {
+    "id": "a628e3d51eab8a75",
+    "title": "Gemini on Mac can now use your computer",
+    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+    "published": "2026-11-19T18:21:13+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Google adds computer use capabilities to Gemini macOS app",
+   "post": "Google updated its Gemini app for macOS with computer use features, enabling the assistant to complete multi-step tasks across local files, desktop apps, and the web.",
+   "editor_note": "Check whether computer use on macOS is available to free users or restricted to paid subscribers.",
+   "support": 0.96,
+   "published_at": "2026-11-19T18:21:13+00:00",
+   "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
+   "expires_at": "2026-11-21T06:21:13+00:00",
+   "decision": 2.17,
+   "priority": 7.535285,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "e89d2657aca67cef",
+   "item": {
+    "id": "e89d2657aca67cef",
+    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
+    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
+    "published": "2026-11-19T09:04:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Perplexity releases Decider v1.3 judgment model",
+   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
+   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "support": 0.96,
+   "published_at": "2026-11-19T09:04:00+00:00",
+   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
+   "expires_at": "2026-11-20T21:04:00+00:00",
+   "decision": 2.13,
+   "priority": 7.513981,
    "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
-   "id": "e5ec3a5454a51090",
+   "id": "c13d075741cf194b",
    "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "id": "c13d075741cf194b",
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
     "source": "36Kr",
     "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
+    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
+    "published": "2026-11-19T12:15:45+00:00",
     "images": false,
     "category": "news",
     "language": "zh",
@@ -4061,101 +4235,46 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 7.926038,
-   "selection_reason": "Time-sensitive story; waiting 10.0h"
+   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
+   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
+   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
+   "support": 0.92,
+   "published_at": "2026-11-19T12:15:45+00:00",
+   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
+   "expires_at": "2026-11-21T00:15:45+00:00",
+   "decision": 1.77,
+   "priority": 7.482755,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
-   "id": "ec384d5ce78d49c6",
+   "id": "9556d208d7730f5a",
    "item": {
-    "id": "ec384d5ce78d49c6",
-    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
-    "published": "2026-11-19T05:22:45+00:00",
+    "id": "9556d208d7730f5a",
+    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
+    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
+    "published": "2026-11-18T17:05:50+00:00",
+    "trend": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
     "images": true,
-    "category": "news",
-    "source_cap": 3
+    "category": "model",
+    "source_cap": 4
    },
    "related": [],
    "importance": 7,
-   "urgency": "timely",
-   "headline": "South Korea watchdog asks firms to report AI exposure",
-   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
-   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
-   "support": 0.96,
-   "published_at": "2026-11-19T05:22:45+00:00",
-   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
-   "expires_at": "2026-11-20T17:22:45+00:00",
-   "decision": 1.67,
-   "priority": 7.917974,
-   "selection_reason": "Time-sensitive story; waiting 11.0h"
-  },
-  {
-   "id": "db250979562e999a",
-   "item": {
-    "id": "db250979562e999a",
-    "title": "31位合伙人等间接入股DeepSeek",
-    "url": "https://36kr.com/newsflashes/4076432878474113?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，天眼查App显示，近日，DeepSeek关联公司杭州深度求索人工智能基础技术研究有限公司发生工商变更，新增杭州程砚企业管理咨询合伙企业（有限合伙）为股东，同时，注册资本由约1645万元人民币增至约1992万元人民币，增幅约21%。值得一提的是，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增吉利旗下浙江吉利产投控股有限公司、网易旗下杭州雷火万相科技有限责任公司、美的投资有限公司等31位合伙人。",
-    "published": "2026-11-19T08:41:57+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "31 corporate partners take indirect stake in DeepSeek",
-   "post": "DeepSeek's main operating entity increased its registered capital by 21% to 19.92 million yuan as a holding partnership added 31 partners, including affiliates of Geely, NetEase, and Midea.",
-   "editor_note": "Verify the exact equity percentage held by Hangzhou ChengYan in DeepSeek following the corporate filing update.",
-   "support": 0.84,
-   "published_at": "2026-11-19T08:41:57+00:00",
-   "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
-   "expires_at": "2026-11-20T20:41:57+00:00",
-   "decision": 1.84,
-   "priority": 7.879329,
-   "selection_reason": "Time-sensitive story; waiting 8.0h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 7.843455,
-   "selection_reason": "Time-sensitive story; waiting 8.5h"
+   "urgency": "routine",
+   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
+   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
+   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
+   "support": 0.9,
+   "published_at": "2026-11-18T17:05:50+00:00",
+   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
+   "expires_at": "2026-11-25T17:05:50+00:00",
+   "decision": 1.11,
+   "priority": 7.429368,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4221,19 +4340,19 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.760786,
-   "selection_reason": "Time-sensitive story; waiting 6.0h"
+   "priority": 7.413518,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
-   "id": "c13d075741cf194b",
+   "id": "db250979562e999a",
    "item": {
-    "id": "c13d075741cf194b",
-    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
-    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "id": "db250979562e999a",
+    "title": "31位合伙人等间接入股DeepSeek",
+    "url": "https://36kr.com/newsflashes/4076432878474113?f=rss",
     "source": "36Kr",
     "image": "",
-    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
-    "published": "2026-11-19T12:15:45+00:00",
+    "snippet": "36氪获悉，天眼查App显示，近日，DeepSeek关联公司杭州深度求索人工智能基础技术研究有限公司发生工商变更，新增杭州程砚企业管理咨询合伙企业（有限合伙）为股东，同时，注册资本由约1645万元人民币增至约1992万元人民币，增幅约21%。值得一提的是，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增吉利旗下浙江吉利产投控股有限公司、网易旗下杭州雷火万相科技有限责任公司、美的投资有限公司等31位合伙人。",
+    "published": "2026-11-19T08:41:57+00:00",
     "images": false,
     "category": "news",
     "language": "zh",
@@ -4242,57 +4361,55 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
-   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
-   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
-   "support": 0.92,
-   "published_at": "2026-11-19T12:15:45+00:00",
-   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
-   "expires_at": "2026-11-21T00:15:45+00:00",
-   "decision": 1.77,
-   "priority": 7.736239,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "headline": "31 corporate partners take indirect stake in DeepSeek",
+   "post": "DeepSeek's main operating entity increased its registered capital by 21% to 19.92 million yuan as a holding partnership added 31 partners, including affiliates of Geely, NetEase, and Midea.",
+   "editor_note": "Verify the exact equity percentage held by Hangzhou ChengYan in DeepSeek following the corporate filing update.",
+   "support": 0.84,
+   "published_at": "2026-11-19T08:41:57+00:00",
+   "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
+   "expires_at": "2026-11-20T20:41:57+00:00",
+   "decision": 1.84,
+   "priority": 7.407106,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
-   "id": "9556d208d7730f5a",
+   "id": "4bc4cadcc57b3185",
    "item": {
-    "id": "9556d208d7730f5a",
-    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
-    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
-    "published": "2026-11-18T17:05:50+00:00",
-    "trend": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
     "images": true,
-    "category": "model",
-    "source_cap": 4
+    "category": "news",
+    "source_cap": 3
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
-   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
-   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
-   "support": 0.9,
-   "published_at": "2026-11-18T17:05:50+00:00",
-   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
-   "expires_at": "2026-11-25T17:05:50+00:00",
-   "decision": 1.11,
-   "priority": 7.445749,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 7.340015,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
-   "id": "e89d2657aca67cef",
+   "id": "e5ec3a5454a51090",
    "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
+    "id": "e5ec3a5454a51090",
+    "title": "火山引擎上线豆包实时音视频通话模型API服务",
+    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "source": "36Kr",
     "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
+    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
+    "published": "2026-11-19T06:50:20+00:00",
     "images": false,
     "category": "news",
     "language": "zh",
@@ -4300,17 +4417,45 @@
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
+   "urgency": "timely",
+   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
+   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
+   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
+   "support": 0.91,
+   "published_at": "2026-11-19T06:50:20+00:00",
+   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
+   "expires_at": "2026-11-20T18:50:20+00:00",
+   "decision": 1.76,
+   "priority": 7.328765,
+   "selection_reason": "Editorial importance; waiting 18.0h"
+  },
+  {
+   "id": "ec384d5ce78d49c6",
+   "item": {
+    "id": "ec384d5ce78d49c6",
+    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
+    "published": "2026-11-19T05:22:45+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "South Korea watchdog asks firms to report AI exposure",
+   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
+   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
    "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.361249,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "published_at": "2026-11-19T05:22:45+00:00",
+   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
+   "expires_at": "2026-11-20T17:22:45+00:00",
+   "decision": 1.67,
+   "priority": 7.258217,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4339,8 +4484,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.328293,
-   "selection_reason": "Editorial importance; waiting 35.0h"
+   "priority": 7.244965,
+   "selection_reason": "Editorial importance; waiting 43.0h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4369,8 +4514,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.281323,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "priority": 7.233707,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4399,8 +4544,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.211627,
-   "selection_reason": "Editorial importance; waiting 58.0h"
+   "priority": 7.128299,
+   "selection_reason": "Editorial importance; waiting 66.0h"
   },
   {
    "id": "5875bfe14d0e6f3d",
@@ -4427,8 +4572,8 @@
    "first_seen_at": "2026-11-18T15:07:22.879384+00:00",
    "expires_at": "2026-11-20T02:36:42+00:00",
    "decision": 2.04,
-   "priority": 7.193551,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.971342,
+   "selection_reason": "Editorial importance; waiting 34.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4455,107 +4600,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 7.179901,
-   "selection_reason": "Editorial importance; waiting 13.5h"
-  },
-  {
-   "id": "3bb219d5733618b3",
-   "item": {
-    "id": "3bb219d5733618b3",
-    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
-    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv Intelligence, and Pennant Technologies. The startup is working on building indigenous foundation models focused on mathematics, coding and reasoning. Bajaj Finance invested approximately $2 Mn in the startup, while Pennant Technologies, an investee company of Bajaj Finance, …",
-    "published": "2026-11-18T10:18:41+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Soket AI raises $4 million for indigenous foundation models",
-   "post": "Indian startup Soket AI raised $4 million from Bajaj Finserv's Finserv Intelligence and Pennant Technologies. The company is developing indigenous foundation models for mathematics, coding, and reasoning.",
-   "editor_note": "Verify the breakdown of funds contributed by Bajaj Finance versus Pennant Technologies.",
-   "support": 0.9,
-   "published_at": "2026-11-18T10:18:41+00:00",
-   "first_seen_at": "2026-11-18T11:37:23.301342+00:00",
-   "expires_at": "2026-11-19T22:18:41+00:00",
-   "decision": 2.2,
-   "priority": 7.127432,
-   "selection_reason": "Editorial importance; waiting 29.5h"
-  },
-  {
-   "id": "aff1ec2a43dfe4ce",
-   "item": {
-    "id": "aff1ec2a43dfe4ce",
-    "title": "豆包工作日活突破800万，企业客户ARR突破20亿元",
-    "url": "https://36kr.com/newsflashes/4075264271176576?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，豆包官方宣布，豆包工作日活跃用户数（DAU）突破800万，企业客户年度经常性收入（ARR）突破20亿元。据了解豆包工作是豆包面向生产力场景推出的AI产品及品牌，8月25日正式发布。11月16日，豆包工作上线 “工作台” 功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，预先配置相应技能和工具，用户也可创建、保存和分享自定义工作台。此外，豆包工作也在近期接入了Kimi、GLM、DeepSeek等第三方模型，并标注不同模型的额度消耗倍率，方便用户结合任务需求和使用成本自主选择。",
-    "published": "2026-11-18T12:53:11+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "794b4d45b46c626a",
-     "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
-     "url": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
-     "source": "LeiPhone",
-     "image": "",
-     "snippet": "11月18日，豆包官方宣布，上线仅三个月的豆包工作日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。 豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，自8月25日正式发布以来，持续更新专业办公能力。11月16日，豆包工作上线 “工作台” 功能，首批覆盖金融、医疗、教育、创意设计等 21 个专业场景，预先配置相应技能和工具，用户也可创建、保存和分享自定义工作台。此外，豆包工作也在近期接入了Kimi、GLM、DeepSeek 等第三方模型，并标注不同模型的额度消耗倍率，方便用户结合任务需求和使用成本自主选择。 雷峰网 雷峰网",
-     "published": "2026-11-18T13:18:00+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Doubao Work DAU exceeds eight million",
-   "post": "ByteDance announced that Doubao Work surpassed 8 million weekday active users, while enterprise customer annual recurring revenue exceeded 2 billion yuan.",
-   "editor_note": "Translate 8 million DAU and 2 billion yuan enterprise ARR figures accurately from 36Kr report.",
-   "support": 0.59,
-   "published_at": "2026-11-18T12:53:11+00:00",
-   "first_seen_at": "2026-11-18T13:37:25.451880+00:00",
-   "expires_at": "2026-11-20T00:53:11+00:00",
-   "decision": 1.81,
-   "priority": 7.06896,
-   "selection_reason": "Editorial importance; waiting 27.5h"
-  },
-  {
-   "id": "8e6075d168e06821",
-   "item": {
-    "id": "8e6075d168e06821",
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-    "source": "Google AI Blog",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-    "published": "2026-11-18T17:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Google brings Gemini app to lower-memory Android devices",
-   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
-   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
-   "support": 0.89,
-   "published_at": "2026-11-18T17:00:00+00:00",
-   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
-   "expires_at": "2026-11-20T17:00:00+00:00",
-   "decision": 0.84,
-   "priority": 7.02742,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.957693,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4584,182 +4630,36 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.998293,
-   "selection_reason": "Editorial importance; waiting 57.5h"
+   "priority": 6.914965,
+   "selection_reason": "Editorial importance; waiting 65.5h"
   },
   {
-   "id": "81a0f8f36b1d58e9",
+   "id": "8e6075d168e06821",
    "item": {
-    "id": "81a0f8f36b1d58e9",
-    "title": "AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans",
-    "url": "https://www.medianama.com/2026/11/223-ai-hackers-approved-loans-nbfc/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "Delhi Police has revealed that they have \"detected traces of AI being used in these frauds\" and the incidents leading to Rs 65 cr loss in approved loans \"are largely attributable to weaknesses in the public-facing cyber systems of NBFCs\". The post AI-assisted hackers breach NBFCs in Delhi-NCR; divert Rs 65 cr in approved loans appeared first on MEDIANAMA .",
-    "published": "2026-11-18T09:31:41+00:00",
+    "id": "8e6075d168e06821",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "Google AI Blog",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+    "snippet": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "published": "2026-11-18T17:00:00+00:00",
     "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "AI-assisted hackers divert Rs 65 crore from NBFCs",
-   "post": "Delhi Police reports that AI-assisted cyberattacks on NBFC public-facing systems in Delhi-NCR diverted Rs 65 crore in approved loans.",
-   "editor_note": "Check exact police attribution and affected NBFC categories.",
-   "support": 0.92,
-   "published_at": "2026-11-18T09:31:41+00:00",
-   "first_seen_at": "2026-11-18T10:07:25.145656+00:00",
-   "expires_at": "2026-11-19T21:31:41+00:00",
-   "decision": 1.67,
-   "priority": 6.929006,
-   "selection_reason": "Editorial importance; waiting 31.0h"
-  },
-  {
-   "id": "9162001826d50396",
-   "item": {
-    "id": "9162001826d50396",
-    "title": "商汤：2026前三季度营收同比增长30.4%至37.9亿，毛利率提升至43.4%",
-    "url": "https://36kr.com/newsflashes/4075103427335043?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "11月18日，商汤集团发布截至2026年9月30日止九个月业务进展。集团收入同比增长30.4%至人民币37.9亿元，增速较2026年上半年进一步加快；毛利率提升4.3个百分点至43.4%，毛利增加45.0%至人民币16.5亿元，毛利增速快于收入增速，收入质量持续改善。业务结构方面，生成式AI持续成为增长核心，增速持续高于集团整体收入增速，其中第三季度同比增长超过一倍。集团前期战略投入回报正逐步显现，AI业务商业化进程进一步提速。",
-    "published": "2026-11-18T10:09:34+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "SenseTime reports 30.4 percent revenue growth in first nine months",
-   "post": "SenseTime reported revenue of 3.79 billion yuan for the first nine months, marking a 30.4 percent year-on-year increase, alongside a gross margin of 43.4 percent.",
-   "editor_note": "Confirm whether generative AI growth figures apply strictly to the third quarter as stated.",
-   "support": 0.96,
-   "published_at": "2026-11-18T10:09:34+00:00",
-   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
-   "expires_at": "2026-11-19T22:09:34+00:00",
-   "decision": 1.48,
-   "priority": 6.883211,
-   "selection_reason": "Editorial importance; waiting 30.0h"
-  },
-  {
-   "id": "adadf9d1614c8d19",
-   "item": {
-    "id": "adadf9d1614c8d19",
-    "title": "小马智行：三季度营收2.99亿，同比增长75.2%",
-    "url": "https://36kr.com/newsflashes/4075033823335298?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，小马智行发布2026年第三季度财报。三季度总营收2.99亿元，同比增长75.2%，由Robotaxi与Robotruck业务共同驱动。其中，Robotaxi业务收入1.19亿元，同比增长165.4%，环比增长47.1%，营收占比升至39.9%。Robotruck业务收入1.20亿元，同比增长76.3%，环比增长34.7%。小马智行在国内一线城市加大全无人车辆的投放规模和范围，广州单城运营面积突破1000平方公里，并在杭州、重庆及珠海横琴启动Robotaxi部署；海外业务向伦敦、曼彻斯特等欧洲城市扩张，9月在克罗地亚推出欧洲首个全无人Robotaxi载客测试。截至9月30日，Robotaxi车队规模达2768辆。",
-    "published": "2026-11-18T08:58:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Pony AI reports third quarter revenue growth",
-   "post": "Pony AI reported third quarter revenue of 299 million yuan, a 75.2 percent increase year-over-year, driven by its Robotaxi and Robotruck operations with a fleet of 2,768 vehicles.",
-   "editor_note": "Confirm figures for Robotaxi and Robotruck revenue breakdown from the quarterly report.",
-   "support": 0.89,
-   "published_at": "2026-11-18T08:58:46+00:00",
-   "first_seen_at": "2026-11-18T09:07:23.938680+00:00",
-   "expires_at": "2026-11-19T20:58:46+00:00",
-   "decision": 1.53,
-   "priority": 6.8671,
-   "selection_reason": "Editorial importance; waiting 32.0h"
-  },
-  {
-   "id": "c2855811f136cf3a",
-   "item": {
-    "id": "c2855811f136cf3a",
-    "title": "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
-    "url": "https://arxiv.org/abs/2611.17831",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Upvotes: 21. Abstract: World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve those attributes rather than to read the clip, and the dynamics the encoder carries go unused: on the same items, a linear probe reads speed from frozen V-JEPA features at 87% while the VLM answers at chance. We show where dynamics lives in a frozen encoder: in a subspace shared across videos for predictive encoders such as V-JEPA, but not as a shared component of frame-wise, text-aligned encoders such as SigLIP. We then build counterfactual supervision that makes the language model read it: pixel transformations turn public videos into answer-balanced variants whose answers are set by the transformation and differ only in the change. Trained in a single stage on 4.53M public samples with 32 visual tokens per frame, where open video LLMs use several stages, 9M to 172M samples and 64 to 256 tokens per frame on average, the resulting V-JEPA-LM models (1B to 8B, Qwen3 and Llama) lead every size class in average score across eleven video benchmarks; our 4B model scores 72.1, against 61.1 for the best open 4B and 64.8 for the best open 8B model. A controlled encoder x supervision study shows that the encoder decides what can be read and the supervision what is read:…",
-    "published": "2026-11-16T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.17831.png",
-    "images": true,
-    "category": "paper",
+    "category": "primary",
     "source_cap": 4
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "New V-JEPA-LM video language models released by researchers",
-   "post": "New paper: Researchers developed V-JEPA-LM video-language models ranging from 1B to 8B parameters using counterfactual supervision, with a 4B model scoring 72.1 across eleven video benchmarks.",
-   "editor_note": "Verify benchmark names and performance comparisons listed in the Hugging Face paper abstract.",
-   "support": 0.92,
-   "published_at": "2026-11-16T00:00:00+00:00",
-   "first_seen_at": "2026-11-16T15:07:24.865392+00:00",
-   "expires_at": "2026-11-20T00:00:00+00:00",
-   "decision": 1.46,
-   "priority": 6.808293,
-   "selection_reason": "Editorial importance; waiting 74.0h"
-  },
-  {
-   "id": "59f6c6e58008fe2a",
-   "item": {
-    "id": "59f6c6e58008fe2a",
-    "title": "行云科技：签署AI词元跨境销售服务合同，累计结算上限20亿元、首期订单2亿元",
-    "url": "https://36kr.com/newsflashes/4075107954398343?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，行云科技公告，公司近日与新丝路控股集团签署《AI词元跨境销售服务合同》及《销售订单》，公司向新丝路控股集团提供AI词元服务，合同累计结算金额上限为20亿元，其中首期采购金额为2亿元，合同期限60个月。公司向甲方提供AI词元服务，用于支持其在食品研发、AI育种、数字内容生成、全球贸易等业务场景中的发展。本合同预计对公司经营成果产生一定影响，但受履约进度、毛利率波动等因素影响，合同实际贡献的收入、利润存在不确定性。",
-    "published": "2026-11-18T10:14:10+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Xingyun Technology signs AI token cross-border sales contract",
-   "post": "Xingyun Technology signed an AI token cross-border sales contract with New Silk Road Holding Group featuring a 2 billion yuan settlement cap and an initial 200 million yuan order.",
-   "editor_note": "Check contract duration and specific business application domains mentioned.",
-   "support": 0.97,
-   "published_at": "2026-11-18T10:14:10+00:00",
-   "first_seen_at": "2026-11-18T11:07:31.469280+00:00",
-   "expires_at": "2026-11-19T22:14:10+00:00",
-   "decision": 1.16,
-   "priority": 6.778674,
-   "selection_reason": "Editorial importance; waiting 30.0h"
-  },
-  {
-   "id": "9727643803e6dbd2",
-   "item": {
-    "id": "9727643803e6dbd2",
-    "title": "沐曦股份曦云C系列GPU完成腾讯混元Hy4 flash适配",
-    "url": "https://36kr.com/newsflashes/4074891513533577?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯混元宣布正式开放Hy4 flash大模型权重。随后，沐曦股份表示，曦云C系列GPU完成Hy4 flash Day 0全链路适配，模型当日即在曦云C系列GPU完成推理验证，支持高吞吐、低成本规模化Agent业务落地。",
-    "published": "2026-11-18T06:44:46+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Metax completes hardware adaptation for Tencent Hy4 flash",
-   "post": "Metax announced that its Xiyun C-series GPUs have completed Day 0 full-link adaptation and inference validation for Tencent's newly released Hy4 flash multimodal model.",
-   "editor_note": "Verify Metax Xiyun C-series GPU readiness for Hy4 flash deployment as stated by the source.",
-   "support": 0.29,
-   "published_at": "2026-11-18T06:44:46+00:00",
-   "first_seen_at": "2026-11-18T07:07:22.056639+00:00",
-   "expires_at": "2026-11-19T18:44:46+00:00",
-   "decision": 1.29,
-   "priority": 6.725063,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "urgency": "timely",
+   "headline": "Google brings Gemini app to lower-memory Android devices",
+   "post": "Google released its Gemini app for lower-memory Android devices, expanding access to Gemini Live and custom image creation on lower-specification smartphones.",
+   "editor_note": "Verify specific RAM thresholds or Android version requirements detailed in Google's blog post.",
+   "support": 0.89,
+   "published_at": "2026-11-18T17:00:00+00:00",
+   "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
+   "expires_at": "2026-11-20T17:00:00+00:00",
+   "decision": 0.84,
+   "priority": 6.860764,
+   "selection_reason": "Editorial importance; waiting 32.0h"
   }
  ],
  "details_queue": [],
@@ -4968,12 +4868,13 @@
   "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives": "2026-11-19T12:38:16.871737+00:00",
   "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo": "2026-11-19T13:08:14.156005+00:00",
   "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": "2026-11-19T15:08:03.670442+00:00",
-  "https://www.livemint.com/technology/digital-india-bhashini-division-nielit-sign-mou-to-advance-multilingual-ai-and-technology-education-11795091862564.html": "2026-11-19T17:08:29.103696+00:00"
+  "https://www.livemint.com/technology/digital-india-bhashini-division-nielit-sign-mou-to-advance-multilingual-ai-and-technology-education-11795091862564.html": "2026-11-19T17:08:29.103696+00:00",
+  "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs": "2026-11-20T01:11:42.642254+00:00"
  },
  "details_daily": {
-  "date": "2026-11-19",
-  "count": 2,
-  "takes": 21
+  "date": "2026-11-20",
+  "count": 0,
+  "takes": 1
  },
  "triage": {
   "32933935200c2839": {
@@ -24505,6 +24406,606 @@
    "imp": 0.12,
    "ai": 0.03,
    "ts": "2026-11-19T17:07:25.807675+00:00"
+  },
+  "bde5d897ccc86ea5": {
+   "imp": 1.95,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "1a810873551c1811": {
+   "imp": 1.62,
+   "ai": 0.86,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "9336b6b3add507b6": {
+   "imp": 0.96,
+   "ai": 0.87,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8c7916a206b21ee3": {
+   "imp": 1.8,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "942f3c449d272da4": {
+   "imp": 2.88,
+   "ai": 0.98,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "135e029ffa381fa8": {
+   "imp": 2.28,
+   "ai": 0.96,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8db2f7ef15769ab1": {
+   "imp": 2.35,
+   "ai": 0.96,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "f6e15f5626ee24c0": {
+   "imp": 0.3,
+   "ai": 0.48,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "3aff5807a280dfbc": {
+   "imp": 1.0,
+   "ai": 0.93,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "0f631801d3ae20b6": {
+   "imp": 1.37,
+   "ai": 0.93,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "a22c687c439c6aed": {
+   "imp": 2.06,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "74e2df77898470ff": {
+   "imp": 1.69,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b0341a0ae375085e": {
+   "imp": 1.65,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "6900f6014b2aa0cd": {
+   "imp": 1.97,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "a628e3d51eab8a75": {
+   "imp": 2.17,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "2ed09bbf2a0c5d3c": {
+   "imp": 2.04,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4aacf31011a35eda": {
+   "imp": 2.59,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e60f4e5e7cf4b021": {
+   "imp": 1.73,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "52653ae3ad736466": {
+   "imp": 1.95,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "2fc737ddb9957593": {
+   "imp": 2.24,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e22812a5ccc93667": {
+   "imp": 2.43,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "6d6821f501bbce2e": {
+   "imp": 2.14,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "d9d2fba47fd34f0c": {
+   "imp": 1.87,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e63fea43dcbf5070": {
+   "imp": 1.24,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8e6e8cc4c0d83ae2": {
+   "imp": 1.11,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "049a7d6a1b527c2e": {
+   "imp": 0.76,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "27ade97edf6bd0c5": {
+   "imp": 2.14,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4df4b105d63b8212": {
+   "imp": 1.78,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "ab107cfc887ac163": {
+   "imp": 2.13,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "6dd2ec3981ff138f": {
+   "imp": 2.03,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "f1b9eaa5143f7c9f": {
+   "imp": 2.18,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8cfda65b8c9583b3": {
+   "imp": 0.47,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e04b2e67998590c2": {
+   "imp": 1.42,
+   "ai": 0.8,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "7566cf61dbd681b2": {
+   "imp": 2.13,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "f76df06913e5c7f1": {
+   "imp": 0.87,
+   "ai": 0.77,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "0daf5227b7d58029": {
+   "imp": 1.57,
+   "ai": 0.94,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "00ec98b0636a0900": {
+   "imp": 0.95,
+   "ai": 0.62,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "a0888e9365a74251": {
+   "imp": 2.14,
+   "ai": 0.94,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "676ab558b3d0859b": {
+   "imp": 2.21,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "1e9c00cab74efea5": {
+   "imp": 1.53,
+   "ai": 0.89,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "315aa241d67fc5e7": {
+   "imp": 1.45,
+   "ai": 0.83,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "5174075156583f93": {
+   "imp": 2.83,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "f89fb40c0be03360": {
+   "imp": 1.61,
+   "ai": 0.89,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "30e5271bd06b4f66": {
+   "imp": 1.85,
+   "ai": 0.94,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "049f9674ed6eafea": {
+   "imp": 2.08,
+   "ai": 0.96,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4fa5517f66193d6d": {
+   "imp": 2.01,
+   "ai": 0.95,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "d339066c29a9064c": {
+   "imp": 2.12,
+   "ai": 0.83,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4460d2fd5d32a093": {
+   "imp": 2.83,
+   "ai": 0.98,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "1200c1454b76f309": {
+   "imp": 0.35,
+   "ai": 0.52,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4fcd6ac84d19314d": {
+   "imp": 1.66,
+   "ai": 0.82,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "ce9fd7efc3bca49c": {
+   "imp": 2.32,
+   "ai": 0.95,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "552848e212e5f963": {
+   "imp": 1.75,
+   "ai": 0.94,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "0911d83ee1a918d9": {
+   "imp": 1.94,
+   "ai": 0.96,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "73b84a666fa75b01": {
+   "imp": 0.77,
+   "ai": 0.33,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "bb6b6641eeedf278": {
+   "imp": 1.76,
+   "ai": 0.93,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "08a3ff5c616da013": {
+   "imp": 1.44,
+   "ai": 0.94,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e64d4a6c0d33359d": {
+   "imp": 1.33,
+   "ai": 0.75,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "2dbed38e5df5060e": {
+   "imp": 0.43,
+   "ai": 0.35,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "26413345f446f766": {
+   "imp": 0.93,
+   "ai": 0.77,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4896cc81f3fa0f07": {
+   "imp": 2.83,
+   "ai": 0.98,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "d8d48924d5712e74": {
+   "imp": 1.98,
+   "ai": 0.95,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "9459a3fd0a1fa3b7": {
+   "imp": 2.29,
+   "ai": 0.98,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "657ef583101daf75": {
+   "imp": 2.76,
+   "ai": 0.98,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "34b83d12501d0d10": {
+   "imp": 2.22,
+   "ai": 0.98,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b9badfd3e81f1cb3": {
+   "imp": 1.96,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "642a3674935c7a28": {
+   "imp": 1.76,
+   "ai": 0.95,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "5fcf7fba39c9444d": {
+   "imp": 1.59,
+   "ai": 0.77,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "3fcfb20d697d024c": {
+   "imp": 1.27,
+   "ai": 0.87,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "786c1ddab0fcd200": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "10dd703d65892ec4": {
+   "imp": 2.56,
+   "ai": 0.84,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "5dde043b5320c81d": {
+   "imp": 2.27,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "f19e211d05f9e470": {
+   "imp": 0.38,
+   "ai": 0.25,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "9c1b4a1b921cc27c": {
+   "imp": 2.74,
+   "ai": 0.96,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "67016be5003fa61f": {
+   "imp": 2.76,
+   "ai": 0.97,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "6687f7be62c34e4a": {
+   "imp": 0.5,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4b08ec50268e04a4": {
+   "imp": 0.74,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "cb99e2baa62e7866": {
+   "imp": 0.51,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e29ac258c013c12c": {
+   "imp": 0.55,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "a2fb00344062975f": {
+   "imp": 0.68,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b00f82b6db94c2e5": {
+   "imp": 1.4,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "2adef6bfeca022c8": {
+   "imp": 0.22,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "1a7867b3a729efa2": {
+   "imp": 1.57,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "1112027d5901b6f1": {
+   "imp": 1.34,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "745a96bce666dec7": {
+   "imp": 0.67,
+   "ai": 0.72,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4ba1303d2ee21d77": {
+   "imp": 0.73,
+   "ai": 0.23,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "acdbbdc59718c521": {
+   "imp": 0.33,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b94a8ee76ae3dc25": {
+   "imp": 0.87,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "d47187ac7d511370": {
+   "imp": 0.8,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "c7569a295cb76304": {
+   "imp": 1.03,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e2069ba493c3ca46": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "50979d7393a8f30c": {
+   "imp": 1.01,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b555cb95b60d6e2b": {
+   "imp": 0.37,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "2fc66815c5be68f1": {
+   "imp": 1.02,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8a14aef6a1d309ff": {
+   "imp": 1.02,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "ebd75882b3d9e79b": {
+   "imp": 1.02,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "5590d4d47ed2184b": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "7e4679faa3409569": {
+   "imp": 0.97,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "e04b4e930bcdca98": {
+   "imp": 0.59,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "0f531b5b0f649592": {
+   "imp": 0.71,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "7e9fc57c134e72d2": {
+   "imp": 1.18,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "58ab887d6a72b8c8": {
+   "imp": 1.38,
+   "ai": null,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4c6687f112878646": {
+   "imp": 0.28,
+   "ai": 0.15,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4eee53512dc87f33": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8e181ce346995a17": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "ec3a6d8dbfd9f7d7": {
+   "imp": 0.54,
+   "ai": 0.39,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b534defa3496c299": {
+   "imp": 0.81,
+   "ai": 0.77,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "3861ec28cebd58e8": {
+   "imp": 0.88,
+   "ai": 0.56,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "47797f68631bf11b": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "4b73c2a69ccf4754": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "bf34145c96919355": {
+   "imp": 0.16,
+   "ai": 0.06,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "15f1d8c941119f50": {
+   "imp": 1.34,
+   "ai": 0.68,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "0130e69489b3d194": {
+   "imp": 0.21,
+   "ai": 0.28,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "809d23d9ebceb151": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "09fd1aa554b10f71": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "95f0fbd4bc4c5990": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "b058203053a1faaa": {
+   "imp": 0.15,
+   "ai": 0.09,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "8a6752ebc81595ae": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "56c46ede23974f7e": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "fa9f7f258089fc36": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
+  },
+  "ccd339d7a76d5341": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T01:07:24.013813+00:00"
   }
  }
 }
