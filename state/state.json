@@ -1,18 +1,5 @@
 {
  "seen": {
-  "c7b2bfba063be7c5": "2026-11-13T07:37:35.670710+00:00",
-  "65321a49c617739d": "2026-11-13T07:37:35.670710+00:00",
-  "cef75d4c76946800": "2026-11-13T07:37:35.670710+00:00",
-  "fe9babf6897e88a7": "2026-11-13T07:37:35.670710+00:00",
-  "7c29c518602823be": "2026-11-13T07:37:35.670710+00:00",
-  "b3a00cc61bd51181": "2026-11-13T07:37:35.670710+00:00",
-  "81374c4ce5d29070": "2026-11-13T07:37:35.670710+00:00",
-  "5db746c76441f60e": "2026-11-13T07:37:35.670710+00:00",
-  "2fb89150c4fc3b3c": "2026-11-13T07:37:35.670710+00:00",
-  "7b741aa0df36415f": "2026-11-13T07:37:35.670710+00:00",
-  "9e2d4e6285993acc": "2026-11-13T07:37:35.670710+00:00",
-  "555d01f99d0b8d71": "2026-11-13T07:37:35.670710+00:00",
-  "742505ac920e42cc": "2026-11-13T07:37:35.670710+00:00",
   "ad10287ee6ec7822": "2026-11-13T08:07:23.832592+00:00",
   "fcf11ff0b42e91bf": "2026-11-13T08:07:23.832592+00:00",
   "ada1e6052e3fbc26": "2026-11-13T08:07:23.832592+00:00",
@@ -1832,13 +1819,14 @@
   "b0341a0ae375085e": "2026-11-20T07:07:24.469700+00:00",
   "e60f4e5e7cf4b021": "2026-11-20T07:07:24.469700+00:00",
   "df0373cf8a45c49e": "2026-11-20T07:07:24.469700+00:00",
-  "d9f655af44489fef": "2026-11-20T07:07:24.469700+00:00"
+  "d9f655af44489fef": "2026-11-20T07:07:24.469700+00:00",
+  "004defb5925d4d60": "2026-11-20T07:37:21.698583+00:00",
+  "df6eac3dd42611dd": "2026-11-20T07:37:21.698583+00:00",
+  "3668a2db510f2159": "2026-11-20T07:37:21.698583+00:00",
+  "c52b5bfd7b8799ec": "2026-11-20T07:37:21.698583+00:00",
+  "de0c538f33942aaa": "2026-11-20T07:37:21.698583+00:00"
  },
  "covered": [
-  {
-   "headline": "Microsoft launches seven coding AI models",
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
   {
    "headline": "Researchers release Sage S1.5 Flash general-purpose MoE model",
    "ts": "2026-11-18T08:07:23.551626+00:00"
@@ -2050,11 +2038,15 @@
   {
    "headline": "Meta plans $300 price for Muse Charm AI device",
    "ts": "2026-11-20T07:07:24.469700+00:00"
+  },
+  {
+   "headline": "SpaceX sells $32 billion in bonds for AI chips",
+   "ts": "2026-11-20T07:37:21.698583+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3922,6 +3914,63 @@
  },
  "pending": [
   {
+   "id": "2413252bf25da0b0",
+   "item": {
+    "id": "2413252bf25da0b0",
+    "title": "IRDAI chairman flags consumer data grab before insurance price quotes, AI-related risks",
+    "url": "https://www.medianama.com/2026/11/223-irdai-consumer-data-insurance-quotes-ai-risks/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "Cautioning against insurers demanding personal information before providing premium quotes, IRDAI chairman said consumers should be able to compare prices without sharing details. He also noted how 85% of insurers are using AI for underwriting. The post IRDAI chairman flags consumer data grab before insurance price quotes, AI-related risks appeared first on MEDIANAMA .",
+    "published": "2026-11-20T07:23:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "IRDAI chairman highlights insurer AI risks",
+   "post": "The IRDAI chairman stated that 85% of insurers use artificial intelligence for underwriting and cautioned against firms demanding personal consumer data before providing price quotes.",
+   "editor_note": "Check if the IRDAI has issued formal guidelines regarding pre-quote data collection by insurers using AI.",
+   "support": 0.96,
+   "published_at": "2026-11-20T07:23:30+00:00",
+   "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
+   "expires_at": "2026-11-21T19:23:30+00:00",
+   "decision": 1.53,
+   "priority": 8.503583,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "a3863f0b4fbf0b74",
+   "item": {
+    "id": "a3863f0b4fbf0b74",
+    "title": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破",
+    "url": "https://36kr.com/newsflashes/4077758544827526?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "在美国当地时间19日下午举行的2026年国际超级计算大会（SC26）上，依托全国产十万卡AI超集群曙光8000（登峰）开展的两项重大科研应用，分别斩获国际计算机学会戈登·贝尔奖和成功入围戈登·贝尔气候建模奖决赛。（央视新闻）",
+    "published": "2026-11-20T07:10:29+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Sugon 8000 supercomputer wins Gordon Bell prize",
+   "post": "Sugon's 8000 domestic AI supercluster was used in research applications that won the Gordon Bell Prize and reached the climate modeling prize finals at the SC26 conference.",
+   "editor_note": "Confirm the specific scientific workloads run on the Sugon cluster for the award.",
+   "support": 0.82,
+   "published_at": "2026-11-20T07:10:29+00:00",
+   "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
+   "expires_at": "2026-11-21T19:10:29+00:00",
+   "decision": 1.83,
+   "priority": 7.597556,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "d05eedcf28c7812c",
    "item": {
     "id": "d05eedcf28c7812c",
@@ -3947,7 +3996,35 @@
    "first_seen_at": "2026-11-20T07:07:24.469700+00:00",
    "expires_at": "2026-11-21T18:51:00+00:00",
    "decision": 1.35,
-   "priority": 7.442404,
+   "priority": 7.459738,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "8361df2178159924",
+   "item": {
+    "id": "8361df2178159924",
+    "title": "Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
+    "url": "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology",
+    "source": "The Wall Street Journal",
+    "image": "https://images.wsj.net/im-14424485",
+    "snippet": "A new facility in Switzerland—the Deep Tech Center—will allow the company to use AI, smart sensors and robotics to improve efficiency in its operations.",
+    "published": "2026-11-20T07:10:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Nestle partners with Microsoft and Boston Dynamics",
+   "post": "Nestle partnered with Microsoft and Boston Dynamics to open a Deep Tech Center in Switzerland utilizing artificial intelligence, sensors, and robotics to improve factory operations.",
+   "editor_note": "Verify the operational timeline for the new Deep Tech Center in Switzerland.",
+   "support": 0.93,
+   "published_at": "2026-11-20T07:10:00+00:00",
+   "first_seen_at": "2026-11-20T07:37:21.698583+00:00",
+   "expires_at": "2026-11-21T19:10:00+00:00",
+   "decision": 1.36,
+   "priority": 7.440666,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -3977,8 +4054,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.393653,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 7.390682,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4006,8 +4083,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.347311,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.333444,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "c13d075741cf194b",
@@ -4035,8 +4112,8 @@
    "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
    "expires_at": "2026-11-21T00:15:45+00:00",
    "decision": 1.77,
-   "priority": 7.316084,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.302217,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4102,8 +4179,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.246848,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.232981,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4131,95 +4208,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.240436,
-   "selection_reason": "Editorial importance; waiting 22.0h"
-  },
-  {
-   "id": "4920d00e28ac4511",
-   "item": {
-    "id": "4920d00e28ac4511",
-    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-    "url": "https://arxiv.org/abs/2611.22115",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
-    "published": "2026-11-18T00:00:00+00:00",
-    "upvotes": 84,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
-   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
-   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
-   "support": 0.97,
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
-   "expires_at": "2026-11-22T00:00:00+00:00",
-   "decision": 1.52,
-   "priority": 7.182464,
-   "selection_reason": "Editorial importance; waiting 49.0h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 7.173345,
+   "priority": 7.226569,
    "selection_reason": "Editorial importance; waiting 22.5h"
-  },
-  {
-   "id": "e5ec3a5454a51090",
-   "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 7.162095,
-   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4271,8 +4261,95 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 2.2,
-   "priority": 7.161834,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.179168,
+   "selection_reason": "Editorial importance; waiting 5.5h"
+  },
+  {
+   "id": "4920d00e28ac4511",
+   "item": {
+    "id": "4920d00e28ac4511",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "url": "https://arxiv.org/abs/2611.22115",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
+    "published": "2026-11-18T00:00:00+00:00",
+    "upvotes": 84,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
+   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
+   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
+   "support": 0.97,
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
+   "expires_at": "2026-11-22T00:00:00+00:00",
+   "decision": 1.52,
+   "priority": 7.177264,
+   "selection_reason": "Editorial importance; waiting 49.5h"
+  },
+  {
+   "id": "4bc4cadcc57b3185",
+   "item": {
+    "id": "4bc4cadcc57b3185",
+    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
+    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
+    "published": "2026-11-19T08:26:38+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Disseqt AI raises 8 million dollars for AI governance",
+   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
+   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
+   "support": 0.83,
+   "published_at": "2026-11-19T08:26:38+00:00",
+   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
+   "expires_at": "2026-11-20T20:26:38+00:00",
+   "decision": 1.66,
+   "priority": 7.159478,
+   "selection_reason": "Editorial importance; waiting 23.0h"
+  },
+  {
+   "id": "e5ec3a5454a51090",
+   "item": {
+    "id": "e5ec3a5454a51090",
+    "title": "火山引擎上线豆包实时音视频通话模型API服务",
+    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
+    "published": "2026-11-19T06:50:20+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
+   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
+   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
+   "support": 0.91,
+   "published_at": "2026-11-19T06:50:20+00:00",
+   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
+   "expires_at": "2026-11-20T18:50:20+00:00",
+   "decision": 1.76,
+   "priority": 7.148228,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4299,8 +4376,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.091547,
-   "selection_reason": "Editorial importance; waiting 25.0h"
+   "priority": 7.07768,
+   "selection_reason": "Editorial importance; waiting 25.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4329,8 +4406,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.065797,
-   "selection_reason": "Editorial importance; waiting 72.0h"
+   "priority": 7.060597,
+   "selection_reason": "Editorial importance; waiting 72.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4359,8 +4436,8 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.852464,
-   "selection_reason": "Editorial importance; waiting 71.5h"
+   "priority": 6.847264,
+   "selection_reason": "Editorial importance; waiting 72.0h"
   },
   {
    "id": "bda9499345fe52b9",
@@ -4387,8 +4464,8 @@
    "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
    "expires_at": "2026-11-20T11:00:01+00:00",
    "decision": 1.3,
-   "priority": 6.791023,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 6.777155,
+   "selection_reason": "Editorial importance; waiting 28.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4415,8 +4492,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.735761,
-   "selection_reason": "Editorial importance; waiting 38.0h"
+   "priority": 6.725361,
+   "selection_reason": "Editorial importance; waiting 38.5h"
   }
  ],
  "details_queue": [],
@@ -4638,12 +4715,13 @@
   "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool": "2026-11-20T05:39:54.412062+00:00",
   "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use": "2026-11-20T06:07:45.538658+00:00",
   "https://analyticsindiamag.com/ai-news/us-lawmakers-disclose-approvals-for-879000-nvidia-and-amd-chips-to-china": "2026-11-20T06:38:16.463764+00:00",
-  "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business": "2026-11-20T07:10:55.507133+00:00"
+  "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business": "2026-11-20T07:10:55.507133+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday": "2026-11-20T07:39:18.822130+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
   "32933935200c2839": {
@@ -25620,6 +25698,106 @@
    "imp": 0.36,
    "ai": 0.05,
    "ts": "2026-11-20T07:07:24.469700+00:00"
+  },
+  "8361df2178159924": {
+   "imp": 1.36,
+   "ai": 0.91,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "c52b5bfd7b8799ec": {
+   "imp": 2.41,
+   "ai": 0.97,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "de0c538f33942aaa": {
+   "imp": 2.19,
+   "ai": 0.96,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "a3863f0b4fbf0b74": {
+   "imp": 1.83,
+   "ai": 0.9,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "004defb5925d4d60": {
+   "imp": 2.6,
+   "ai": 0.95,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "2413252bf25da0b0": {
+   "imp": 1.53,
+   "ai": 0.33,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "3668a2db510f2159": {
+   "imp": 1.33,
+   "ai": 0.91,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "df6eac3dd42611dd": {
+   "imp": 1.86,
+   "ai": 0.94,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "ad37c708a96275c3": {
+   "imp": 0.49,
+   "ai": 0.3,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "8c82beb3fba2fef6": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "9d2feae37ab98f7b": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "22f59280ffb5799f": {
+   "imp": 0.61,
+   "ai": 0.16,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "983ff8cd69492af0": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "7769667f238559a4": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "284d6adc7924683d": {
+   "imp": 0.58,
+   "ai": 0.11,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "65503ada48cf8fc5": {
+   "imp": 0.52,
+   "ai": 0.12,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "28900e4b0b8b8acb": {
+   "imp": 1.36,
+   "ai": 0.33,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "5b9a7db0f51e029b": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "2f95f45cee610e64": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
+  },
+  "9771020ecec14dab": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-20T07:37:21.698583+00:00"
   }
  }
 }
