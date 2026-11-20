@@ -1,16 +1,5 @@
 {
  "seen": {
-  "f8571fcf34a6e708": "2026-11-13T03:37:32.343574+00:00",
-  "597dc3d27b6195ed": "2026-11-13T03:37:32.343574+00:00",
-  "d0cd2a98f1d44297": "2026-11-13T03:37:32.343574+00:00",
-  "985fcfcc8fa8beca": "2026-11-13T03:37:32.343574+00:00",
-  "44dfb324aa3b433b": "2026-11-13T03:37:32.343574+00:00",
-  "e9f52aa13a0677d1": "2026-11-13T03:37:32.343574+00:00",
-  "bdfbc69a6c19cf9a": "2026-11-13T03:37:32.343574+00:00",
-  "71f35087caf18cb8": "2026-11-13T03:37:32.343574+00:00",
-  "72e8d0ce832e2fa5": "2026-11-13T03:37:32.343574+00:00",
-  "d1dc0ea91b809207": "2026-11-13T03:37:32.343574+00:00",
-  "b8c9bab20708b534": "2026-11-13T03:37:32.343574+00:00",
   "b67a9547ab8b60e2": "2026-11-13T04:07:21.377149+00:00",
   "f107febddc27ef2c": "2026-11-13T04:07:21.377149+00:00",
   "4b7d84206fbc37b6": "2026-11-13T04:07:21.377149+00:00",
@@ -1833,13 +1822,16 @@
   "50b913589e22f922": "2026-11-20T03:07:35.111102+00:00",
   "b534defa3496c299": "2026-11-20T03:07:35.111102+00:00",
   "50b3d599592144c6": "2026-11-20T03:07:35.111102+00:00",
-  "f689168723dc030d": "2026-11-20T03:07:35.111102+00:00"
+  "f689168723dc030d": "2026-11-20T03:07:35.111102+00:00",
+  "d47187ac7d511370": "2026-11-20T03:37:22.558086+00:00",
+  "281a2874b1b5de27": "2026-11-20T03:37:22.558086+00:00",
+  "e605e125004121bd": "2026-11-20T03:37:22.558086+00:00",
+  "f8e291ba5727c689": "2026-11-20T03:37:22.558086+00:00",
+  "b1adad23d872a7bf": "2026-11-20T03:37:22.558086+00:00",
+  "c7a5c21b775bae5c": "2026-11-20T03:37:22.558086+00:00",
+  "6ae82bdc38649050": "2026-11-20T03:37:22.558086+00:00"
  },
  "covered": [
-  {
-   "headline": "China launches first Huawei-powered token export data center",
-   "ts": "2026-11-18T03:37:22.679504+00:00"
-  },
   {
    "headline": "Google rolls out Tasks AI assistant in India",
    "ts": "2026-11-18T04:07:23.199644+00:00"
@@ -2051,11 +2043,15 @@
   {
    "headline": "RadixArk releases DaisyRose-27B model trained with reinforcement learning",
    "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  {
+   "headline": "Singapore central bank warns AI agents heighten financial stability risks",
+   "ts": "2026-11-20T03:37:22.558086+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-20",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3917,47 +3913,6 @@
  },
  "pending": [
   {
-   "id": "c7a5c21b775bae5c",
-   "item": {
-    "id": "c7a5c21b775bae5c",
-    "title": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Singapore’s central bank warned that artificial intelligence agents could move deposits and other funds more quickly, raising new liquidity and financial-stability risks.",
-    "published": "2026-11-19T02:31:51+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "6ae82bdc38649050",
-     "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-     "published": "2026-11-18T17:32:10+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Singapore central bank warns AI agents heighten financial stability risks",
-   "post": "Singapore's central bank warned that artificial intelligence agents could move deposits and funds faster, creating new liquidity and financial-stability risks.",
-   "editor_note": "Verify MAS statement details and timeline regarding AI agent financial transfers.",
-   "support": 0.93,
-   "published_at": "2026-11-18T17:32:10+00:00",
-   "first_seen_at": "2026-11-19T03:07:24.283530+00:00",
-   "expires_at": "2026-11-20T05:32:10+00:00",
-   "decision": 1.59,
-   "priority": 7.846936,
-   "selection_reason": "Editorial importance; waiting 24.0h"
-  },
-  {
    "id": "9459a3fd0a1fa3b7",
    "item": {
     "id": "9459a3fd0a1fa3b7",
@@ -4032,8 +3987,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T10:31:41+00:00",
    "decision": 2.29,
-   "priority": 7.760794,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.778034,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "135e029ffa381fa8",
@@ -4073,8 +4028,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T10:31:14+00:00",
    "decision": 2.28,
-   "priority": 7.757252,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.774492,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "27ade97edf6bd0c5",
@@ -4101,8 +4056,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T09:15:01+00:00",
    "decision": 2.14,
-   "priority": 7.6753,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.69254,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "a628e3d51eab8a75",
@@ -4142,8 +4097,8 @@
    "first_seen_at": "2026-11-20T01:07:24.013813+00:00",
    "expires_at": "2026-11-21T06:09:11+00:00",
    "decision": 2.17,
-   "priority": 7.599266,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.616506,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "b9badfd3e81f1cb3",
@@ -4207,8 +4162,8 @@
    "first_seen_at": "2026-11-20T01:37:24.042985+00:00",
    "expires_at": "2026-11-21T07:11:58+00:00",
    "decision": 1.96,
-   "priority": 7.527082,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.544322,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "e89d2657aca67cef",
@@ -4236,37 +4191,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T21:04:00+00:00",
    "decision": 2.13,
-   "priority": 7.45834,
-   "selection_reason": "Editorial importance; waiting 16.0h"
-  },
-  {
-   "id": "c13d075741cf194b",
-   "item": {
-    "id": "c13d075741cf194b",
-    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
-    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
-    "published": "2026-11-19T12:15:45+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
-   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
-   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
-   "support": 0.92,
-   "published_at": "2026-11-19T12:15:45+00:00",
-   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
-   "expires_at": "2026-11-21T00:15:45+00:00",
-   "decision": 1.77,
-   "priority": 7.427113,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.444548,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4295,8 +4221,37 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.417445,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.41449,
+   "selection_reason": "Editorial importance; waiting 22.0h"
+  },
+  {
+   "id": "c13d075741cf194b",
+   "item": {
+    "id": "c13d075741cf194b",
+    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
+    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
+    "published": "2026-11-19T12:15:45+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
+   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
+   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
+   "support": 0.92,
+   "published_at": "2026-11-19T12:15:45+00:00",
+   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
+   "expires_at": "2026-11-21T00:15:45+00:00",
+   "decision": 1.77,
+   "priority": 7.413321,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "5dd162ab8cb823d9",
@@ -4362,8 +4317,8 @@
    "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
    "expires_at": "2026-11-20T22:15:00+00:00",
    "decision": 1.73,
-   "priority": 7.357877,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.344085,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "db250979562e999a",
@@ -4391,8 +4346,8 @@
    "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
    "expires_at": "2026-11-20T20:41:57+00:00",
    "decision": 1.84,
-   "priority": 7.351465,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.337673,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "5fcf7fba39c9444d",
@@ -4419,8 +4374,8 @@
    "first_seen_at": "2026-11-20T02:07:21.754790+00:00",
    "expires_at": "2026-11-21T05:17:52+00:00",
    "decision": 1.59,
-   "priority": 7.319714,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.336954,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "4bc4cadcc57b3185",
@@ -4447,8 +4402,8 @@
    "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
    "expires_at": "2026-11-20T20:26:38+00:00",
    "decision": 1.66,
-   "priority": 7.284374,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.270582,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "e5ec3a5454a51090",
@@ -4476,8 +4431,8 @@
    "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
    "expires_at": "2026-11-20T18:50:20+00:00",
    "decision": 1.76,
-   "priority": 7.273124,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.259332,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4506,8 +4461,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 7.2241,
-   "selection_reason": "Editorial importance; waiting 45.0h"
+   "priority": 7.218928,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   },
   {
    "id": "b4f1a99333cf7b25",
@@ -4536,8 +4491,8 @@
    "first_seen_at": "2026-11-18T05:37:22.266436+00:00",
    "expires_at": "2026-11-24T03:44:46+00:00",
    "decision": 1.19,
-   "priority": 7.221784,
-   "selection_reason": "Editorial importance; waiting 45.5h"
+   "priority": 7.218828,
+   "selection_reason": "Editorial importance; waiting 46.0h"
   },
   {
    "id": "ec384d5ce78d49c6",
@@ -4564,8 +4519,8 @@
    "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
    "expires_at": "2026-11-20T17:22:45+00:00",
    "decision": 1.67,
-   "priority": 7.202576,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.188784,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "753f1faf81d05f31",
@@ -4594,36 +4549,8 @@
    "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.92,
-   "priority": 7.107433,
-   "selection_reason": "Editorial importance; waiting 68.0h"
-  },
-  {
-   "id": "bda9499345fe52b9",
-   "item": {
-    "id": "bda9499345fe52b9",
-    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
-    "published": "2026-11-18T23:00:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "CATL targets AI data centers as new growth engine",
-   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
-   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
-   "support": 0.9,
-   "published_at": "2026-11-18T23:00:01+00:00",
-   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
-   "expires_at": "2026-11-20T11:00:01+00:00",
-   "decision": 1.3,
-   "priority": 6.902052,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 7.102261,
+   "selection_reason": "Editorial importance; waiting 68.5h"
   },
   {
    "id": "b023f8d7a176acb5",
@@ -4652,8 +4579,36 @@
    "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
    "expires_at": "2026-11-21T00:00:00+00:00",
    "decision": 1.28,
-   "priority": 6.8941,
-   "selection_reason": "Editorial importance; waiting 67.5h"
+   "priority": 6.888928,
+   "selection_reason": "Editorial importance; waiting 68.0h"
+  },
+  {
+   "id": "bda9499345fe52b9",
+   "item": {
+    "id": "bda9499345fe52b9",
+    "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/catl-ceo-pitches-plan-to-power-data-centers-as-new-growth-engine",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Contemporary Amperex Technology Co. Ltd.’s quest for fresh growth drivers has the battery maker looking to get into one of the world’s hottest sectors: artificial intelligence data centers.",
+    "published": "2026-11-18T23:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "CATL targets AI data centers as new growth engine",
+   "post": "Battery manufacturer CATL plans to expand into artificial intelligence data centers as part of its strategy for new business growth, according to CEO Robin Zeng.",
+   "editor_note": "Check if CATL announced specific power supply products or partnerships tailored for data centers.",
+   "support": 0.9,
+   "published_at": "2026-11-18T23:00:01+00:00",
+   "first_seen_at": "2026-11-19T03:37:23.586248+00:00",
+   "expires_at": "2026-11-20T11:00:01+00:00",
+   "decision": 1.3,
+   "priority": 6.88826,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "8e6075d168e06821",
@@ -4680,8 +4635,8 @@
    "first_seen_at": "2026-11-18T17:07:25.031903+00:00",
    "expires_at": "2026-11-20T17:00:00+00:00",
    "decision": 0.84,
-   "priority": 6.819033,
-   "selection_reason": "Editorial importance; waiting 34.0h"
+   "priority": 6.808689,
+   "selection_reason": "Editorial importance; waiting 34.5h"
   }
  ],
  "details_queue": [],
@@ -4895,12 +4850,13 @@
   "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner": "2026-11-20T01:39:34.944714+00:00",
   "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million": "2026-11-20T02:08:53.528961+00:00",
   "https://economictimes.indiatimes.com/tech/technology/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say/articleshow/136009973.cms": "2026-11-20T02:38:28.056741+00:00",
-  "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": "2026-11-20T03:08:03.620519+00:00"
+  "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": "2026-11-20T03:08:03.620519+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks": "2026-11-20T03:38:19.470672+00:00"
  },
  "details_daily": {
   "date": "2026-11-20",
   "count": 1,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
   "32933935200c2839": {
@@ -25412,6 +25368,56 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-20T03:07:35.111102+00:00"
+  },
+  "281a2874b1b5de27": {
+   "imp": 2.79,
+   "ai": null,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "cecec6c825ab3091": {
+   "imp": 0.54,
+   "ai": 0.11,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "e605e125004121bd": {
+   "imp": 2.25,
+   "ai": 0.93,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "f8e291ba5727c689": {
+   "imp": 1.94,
+   "ai": 0.96,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "fe7efa9a569fd0af": {
+   "imp": 0.21,
+   "ai": 0.02,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "a16050b46f180ee7": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "d1c508ac288587a3": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "ad6ab39095a47653": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "995939cb2c838037": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
+  },
+  "16912442196646dd": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-20T03:37:22.558086+00:00"
   }
  }
 }
