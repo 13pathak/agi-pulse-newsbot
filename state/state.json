@@ -1,9 +1,5 @@
 {
  "seen": {
-  "eb62d1b6c62481e8": "2026-11-14T03:37:20.868896+00:00",
-  "e6dc0dbe1919383e": "2026-11-14T03:37:20.868896+00:00",
-  "792490ccf5f864ea": "2026-11-14T03:37:20.868896+00:00",
-  "2edbd065f0868506": "2026-11-14T03:37:20.868896+00:00",
   "043f7c7f1b1fa4f7": "2026-11-14T04:07:24.186318+00:00",
   "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00",
   "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00",
@@ -1804,13 +1800,13 @@
   "fc24f1459403ad32": "2026-11-21T03:07:34.059840+00:00",
   "0c65e90d9ffc6fc5": "2026-11-21T03:07:34.059840+00:00",
   "2217e29d1f21d394": "2026-11-21T03:07:34.059840+00:00",
-  "3d4a5aa49ceac0de": "2026-11-21T03:07:34.059840+00:00"
+  "3d4a5aa49ceac0de": "2026-11-21T03:07:34.059840+00:00",
+  "45ea5f948fc70348": "2026-11-21T03:37:21.610598+00:00",
+  "e784a788f4453fa5": "2026-11-21T03:37:21.610598+00:00",
+  "b422c375349f21eb": "2026-11-21T03:37:21.610598+00:00",
+  "2d821e5fd8655507": "2026-11-21T03:37:21.610598+00:00"
  },
  "covered": [
-  {
-   "headline": "Google releases Gemini 4 Neon model with 1M context",
-   "ts": "2026-11-19T03:37:23.586248+00:00"
-  },
   {
    "headline": "Arizona opens criminal investigation into AI firms over rogue agents",
    "ts": "2026-11-19T04:07:23.650343+00:00"
@@ -2042,11 +2038,15 @@
   {
    "headline": "SoftBank evaluated $1 trillion SK Hynix buyout",
    "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  {
+   "headline": "US SEC investigates Nvidia accounting practices",
+   "ts": "2026-11-21T03:37:21.610598+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3976,34 +3976,6 @@
  },
  "pending": [
   {
-   "id": "2d821e5fd8655507",
-   "item": {
-    "id": "2d821e5fd8655507",
-    "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
-    "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms",
-    "source": "The Economic Times",
-    "image": "https://img.etimg.com/photo/msid-136043101,imgsize-107744.cms",
-    "snippet": "The US Securities and Exchange Commission is reportedly investigating Nvidia's accounting practices for potential issues. This revelation adds to Nvidia's existing legal troubles, including scrutiny over CEO Jensen Huang's personal conduct. The SEC's focus stems from Nvidia's controversial revenue reporting changes and sales related to a suspected Chinese spy. Additionally, the company is facing a…",
-    "published": "2026-11-21T00:39:43+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "US SEC investigates Nvidia accounting practices",
-   "post": "The US Securities and Exchange Commission is investigating Nvidia's accounting practices, according to sources reported by Reuters. The probe focuses on Nvidia's revenue reporting changes and sales tied to a suspected Chinese spy.",
-   "editor_note": "Verify whether the SEC or Nvidia has publicly acknowledged or formally commented on the investigation.",
-   "support": 0.83,
-   "published_at": "2026-11-21T00:39:43+00:00",
-   "first_seen_at": "2026-11-21T03:07:34.059840+00:00",
-   "expires_at": "2026-11-22T12:39:43+00:00",
-   "decision": 1.55,
-   "priority": 8.448217,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "7d4226ff8b0f20f9",
    "item": {
     "id": "7d4226ff8b0f20f9",
@@ -4029,8 +4001,8 @@
    "first_seen_at": "2026-11-21T02:37:23.311263+00:00",
    "expires_at": "2026-11-22T14:27:41+00:00",
    "decision": 2.26,
-   "priority": 7.766305,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.783546,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "74ce162468414800",
@@ -4059,36 +4031,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.457436,
-   "selection_reason": "Editorial importance; waiting 17.5h"
-  },
-  {
-   "id": "048307fe18e56f2d",
-   "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.401496,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.452264,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4117,8 +4061,36 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.397436,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.392264,
+   "selection_reason": "Editorial importance; waiting 15.5h"
+  },
+  {
+   "id": "048307fe18e56f2d",
+   "item": {
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.387704,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4147,8 +4119,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.27459,
-   "selection_reason": "Editorial importance; waiting 45.5h"
+   "priority": 7.271634,
+   "selection_reason": "Editorial importance; waiting 46.0h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4200,8 +4172,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.142636,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.168497,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4230,8 +4202,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.974103,
-   "selection_reason": "Editorial importance; waiting 69.0h"
+   "priority": 6.968931,
+   "selection_reason": "Editorial importance; waiting 69.5h"
   }
  ],
  "details_queue": [],
@@ -4477,94 +4449,15 @@
   "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": "2026-11-21T01:38:12.196710+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": "2026-11-21T02:08:06.599110+00:00",
   "https://36kr.com/newsflashes/4078897791784068?f=rss": "2026-11-21T02:39:47.619068+00:00",
-  "https://36kr.com/newsflashes/4078915481179273?f=rss": "2026-11-21T03:10:33.710414+00:00"
+  "https://36kr.com/newsflashes/4078915481179273?f=rss": "2026-11-21T03:10:33.710414+00:00",
+  "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms": "2026-11-21T03:38:01.497736+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
-  "bdfbc69a6c19cf9a": {
-   "imp": 1.54,
-   "ai": 0.92,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "985fcfcc8fa8beca": {
-   "imp": 1.57,
-   "ai": 0.77,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "f8571fcf34a6e708": {
-   "imp": 2.67,
-   "ai": 0.95,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "2673c7a6cd5f0fd0": {
-   "imp": 0.39,
-   "ai": 0.07,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "72e8d0ce832e2fa5": {
-   "imp": 0.41,
-   "ai": 0.25,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "e9f52aa13a0677d1": {
-   "imp": 1.37,
-   "ai": 0.54,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "eedaaf26e82c4f65": {
-   "imp": 1.39,
-   "ai": 0.96,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "44dfb324aa3b433b": {
-   "imp": 1.59,
-   "ai": 0.92,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "d0cd2a98f1d44297": {
-   "imp": 1.67,
-   "ai": 0.27,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "597dc3d27b6195ed": {
-   "imp": 2.18,
-   "ai": 0.9,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "bbb158d96dab751f": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "c10e9d5555e04a59": {
-   "imp": 0.36,
-   "ai": 0.14,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "9f8d508cde9fef2d": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "a8a3708b4ed61677": {
-   "imp": 0.29,
-   "ai": 0.05,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "12e98f85f5c0dfaa": {
-   "imp": 1.61,
-   "ai": 0.59,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
-  "a47e5df9e49e0de9": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-13T03:37:32.343574+00:00"
-  },
   "b67a9547ab8b60e2": {
    "imp": 2.48,
    "ai": 0.9,
@@ -26179,6 +26072,36 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "45ea5f948fc70348": {
+   "imp": 1.42,
+   "ai": 0.98,
+   "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  "b422c375349f21eb": {
+   "imp": 0.67,
+   "ai": 0.77,
+   "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  "0b66ab05bf287ddb": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  "19de376985b0b65c": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  "9280cf0ce36eda47": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  "9b209820e80b1199": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-21T03:37:21.610598+00:00"
   }
  }
 }
