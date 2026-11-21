@@ -1,7 +1,5 @@
 {
  "seen": {
-  "043f7c7f1b1fa4f7": "2026-11-14T04:07:24.186318+00:00",
-  "218c8f96d3aa7ec9": "2026-11-14T04:07:24.186318+00:00",
   "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00",
   "1c29abfb1ab38174": "2026-11-14T05:07:22.357003+00:00",
   "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00",
@@ -1804,13 +1802,12 @@
   "45ea5f948fc70348": "2026-11-21T03:37:21.610598+00:00",
   "e784a788f4453fa5": "2026-11-21T03:37:21.610598+00:00",
   "b422c375349f21eb": "2026-11-21T03:37:21.610598+00:00",
-  "2d821e5fd8655507": "2026-11-21T03:37:21.610598+00:00"
+  "2d821e5fd8655507": "2026-11-21T03:37:21.610598+00:00",
+  "41bc69534b8e0bfb": "2026-11-21T04:07:23.154202+00:00",
+  "7d4226ff8b0f20f9": "2026-11-21T04:07:23.154202+00:00",
+  "10a79b6aa8306c73": "2026-11-21T04:07:23.154202+00:00"
  },
  "covered": [
-  {
-   "headline": "Arizona opens criminal investigation into AI firms over rogue agents",
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
   {
    "headline": "OpenAI readies first consumer hardware device for year-end",
    "ts": "2026-11-19T04:37:24.559180+00:00"
@@ -2042,11 +2039,15 @@
   {
    "headline": "US SEC investigates Nvidia accounting practices",
    "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  {
+   "headline": "Oracle completes funding for OpenAI cloud infrastructure deal",
+   "ts": "2026-11-21T04:07:23.154202+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3976,35 +3977,6 @@
  },
  "pending": [
   {
-   "id": "7d4226ff8b0f20f9",
-   "item": {
-    "id": "7d4226ff8b0f20f9",
-    "title": "甲骨文称已筹集履行与OpenAI合同所需全部资金，预计2029财年自由现金流超300亿美元",
-    "url": "https://36kr.com/newsflashes/4078896115241859?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "甲骨文表示，已筹集履行与OpenAI基础设施合同所需的全部资金，本月早些时候完成最后一轮融资后，成为本轮投资周期中首家完成全部资金筹措的超大规模云服务商。公司称，相关融资方案已落实，后续与供应商的讨论仅涉及额外融资选择，不影响合同履行。甲骨文还表示，与OpenAI合作的阿比林园区已接近完工，下一座吉瓦级园区Shackelford已获得全部许可，英伟达Vera Rubin机架预计未来几周交付。公司预计2028财年下半年实现正自由现金流，2029财年自由现金流将超过300亿美元，并从当年起以自有资金支持未来增长。（财联社）",
-    "published": "2026-11-21T02:27:41+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Oracle completes funding for OpenAI cloud infrastructure deal",
-   "post": "Oracle says it has secured all funding needed to fulfill its cloud infrastructure contract with OpenAI. The company expects Nvidia Vera Rubin server racks in coming weeks and projects fiscal 2029 free cash flow above $30 billion.",
-   "editor_note": "Verify Oracle's official investor update or 8-K filing regarding financing completion and Vera Rubin delivery timeline.",
-   "support": 0.96,
-   "published_at": "2026-11-21T02:27:41+00:00",
-   "first_seen_at": "2026-11-21T02:37:23.311263+00:00",
-   "expires_at": "2026-11-22T14:27:41+00:00",
-   "decision": 2.26,
-   "priority": 7.783546,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "74ce162468414800",
    "item": {
     "id": "74ce162468414800",
@@ -4031,8 +4003,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.452264,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.447051,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4061,8 +4033,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.392264,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.387051,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4089,8 +4061,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.387704,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.373803,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4119,8 +4091,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.271634,
-   "selection_reason": "Editorial importance; waiting 46.0h"
+   "priority": 7.268655,
+   "selection_reason": "Editorial importance; waiting 46.5h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4172,8 +4144,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.168497,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.194561,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4202,8 +4174,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.968931,
-   "selection_reason": "Editorial importance; waiting 69.5h"
+   "priority": 6.963718,
+   "selection_reason": "Editorial importance; waiting 70.0h"
   }
  ],
  "details_queue": [],
@@ -4450,104 +4422,15 @@
   "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": "2026-11-21T02:08:06.599110+00:00",
   "https://36kr.com/newsflashes/4078897791784068?f=rss": "2026-11-21T02:39:47.619068+00:00",
   "https://36kr.com/newsflashes/4078915481179273?f=rss": "2026-11-21T03:10:33.710414+00:00",
-  "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms": "2026-11-21T03:38:01.497736+00:00"
+  "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms": "2026-11-21T03:38:01.497736+00:00",
+  "https://36kr.com/newsflashes/4078896115241859?f=rss": "2026-11-21T04:10:11.935213+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
-  "b67a9547ab8b60e2": {
-   "imp": 2.48,
-   "ai": 0.9,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "f107febddc27ef2c": {
-   "imp": 2.28,
-   "ai": 0.94,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "2cb4b06fb0b585b4": {
-   "imp": 0.86,
-   "ai": 0.31,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "e2590def19e5932c": {
-   "imp": 0.67,
-   "ai": 0.25,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "c2547d2542c220ad": {
-   "imp": 1.56,
-   "ai": 0.96,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "ffab10612b28e7d0": {
-   "imp": 1.48,
-   "ai": 0.95,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "4b7d84206fbc37b6": {
-   "imp": 2.25,
-   "ai": 0.87,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "4b878c130abb648e": {
-   "imp": 0.18,
-   "ai": 0.05,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "e04de70243616252": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "83d24d0e3bfa5629": {
-   "imp": 0.37,
-   "ai": 0.1,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "d3f4bf2ec15563e4": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "619e69c950880905": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "92be1fb7aa3d567c": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "7ff9afe97ba8005b": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "631bdc31caca0e4a": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "66cfce1ca7856d47": {
-   "imp": 0.15,
-   "ai": 0.06,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "9a8eaafe9665ec1a": {
-   "imp": 0.2,
-   "ai": 0.05,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
-  "61ed92cc9262c224": {
-   "imp": 1.83,
-   "ai": 0.35,
-   "ts": "2026-11-13T04:07:21.377149+00:00"
-  },
   "1a1165928e28b7b1": {
    "imp": 1.72,
    "ai": 0.78,
@@ -26102,6 +25985,26 @@
    "imp": 0.09,
    "ai": 0.04,
    "ts": "2026-11-21T03:37:21.610598+00:00"
+  },
+  "10a79b6aa8306c73": {
+   "imp": 2.01,
+   "ai": 0.95,
+   "ts": "2026-11-21T04:07:23.154202+00:00"
+  },
+  "41bc69534b8e0bfb": {
+   "imp": 0.35,
+   "ai": 0.26,
+   "ts": "2026-11-21T04:07:23.154202+00:00"
+  },
+  "1714f36606436670": {
+   "imp": 1.03,
+   "ai": 0.37,
+   "ts": "2026-11-21T04:07:23.154202+00:00"
+  },
+  "1e8d404f6fa606dd": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-21T04:07:23.154202+00:00"
   }
  }
 }
