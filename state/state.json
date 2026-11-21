@@ -1,11 +1,5 @@
 {
  "seen": {
-  "1e2c04e5b9e4b465": "2026-11-14T03:07:19.743183+00:00",
-  "e0f25d2994ae8ba5": "2026-11-14T03:07:19.743183+00:00",
-  "8575daa888e72a9f": "2026-11-14T03:07:19.743183+00:00",
-  "d25c4272428898ed": "2026-11-14T03:07:19.743183+00:00",
-  "70be99cd333fb782": "2026-11-14T03:07:19.743183+00:00",
-  "63dff3aa762e93c5": "2026-11-14T03:07:19.743183+00:00",
   "eb62d1b6c62481e8": "2026-11-14T03:37:20.868896+00:00",
   "e6dc0dbe1919383e": "2026-11-14T03:37:20.868896+00:00",
   "792490ccf5f864ea": "2026-11-14T03:37:20.868896+00:00",
@@ -1806,13 +1800,13 @@
   "3ac5b354630e03cd": "2026-11-21T02:37:23.311263+00:00",
   "644cd1ad26525bf3": "2026-11-21T02:37:23.311263+00:00",
   "b6981cf5cc3edc9d": "2026-11-21T02:37:23.311263+00:00",
-  "a35d39e3d3a48e7a": "2026-11-21T02:37:23.311263+00:00"
+  "a35d39e3d3a48e7a": "2026-11-21T02:37:23.311263+00:00",
+  "fc24f1459403ad32": "2026-11-21T03:07:34.059840+00:00",
+  "0c65e90d9ffc6fc5": "2026-11-21T03:07:34.059840+00:00",
+  "2217e29d1f21d394": "2026-11-21T03:07:34.059840+00:00",
+  "3d4a5aa49ceac0de": "2026-11-21T03:07:34.059840+00:00"
  },
  "covered": [
-  {
-   "headline": "Meta AI agent accessed bank balances and private chats without consent",
-   "ts": "2026-11-19T03:07:24.283530+00:00"
-  },
   {
    "headline": "Google releases Gemini 4 Neon model with 1M context",
    "ts": "2026-11-19T03:37:23.586248+00:00"
@@ -2044,11 +2038,15 @@
   {
    "headline": "Reports link Nvidia CEO ouster to board candor issues",
    "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  {
+   "headline": "SoftBank evaluated $1 trillion SK Hynix buyout",
+   "ts": "2026-11-21T03:07:34.059840+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3978,6 +3976,34 @@
  },
  "pending": [
   {
+   "id": "2d821e5fd8655507",
+   "item": {
+    "id": "2d821e5fd8655507",
+    "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+    "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms",
+    "source": "The Economic Times",
+    "image": "https://img.etimg.com/photo/msid-136043101,imgsize-107744.cms",
+    "snippet": "The US Securities and Exchange Commission is reportedly investigating Nvidia's accounting practices for potential issues. This revelation adds to Nvidia's existing legal troubles, including scrutiny over CEO Jensen Huang's personal conduct. The SEC's focus stems from Nvidia's controversial revenue reporting changes and sales related to a suspected Chinese spy. Additionally, the company is facing a…",
+    "published": "2026-11-21T00:39:43+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "US SEC investigates Nvidia accounting practices",
+   "post": "The US Securities and Exchange Commission is investigating Nvidia's accounting practices, according to sources reported by Reuters. The probe focuses on Nvidia's revenue reporting changes and sales tied to a suspected Chinese spy.",
+   "editor_note": "Verify whether the SEC or Nvidia has publicly acknowledged or formally commented on the investigation.",
+   "support": 0.83,
+   "published_at": "2026-11-21T00:39:43+00:00",
+   "first_seen_at": "2026-11-21T03:07:34.059840+00:00",
+   "expires_at": "2026-11-22T12:39:43+00:00",
+   "decision": 1.55,
+   "priority": 8.448217,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "7d4226ff8b0f20f9",
    "item": {
     "id": "7d4226ff8b0f20f9",
@@ -4003,8 +4029,8 @@
    "first_seen_at": "2026-11-21T02:37:23.311263+00:00",
    "expires_at": "2026-11-22T14:27:41+00:00",
    "decision": 2.26,
-   "priority": 7.74884,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.766305,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "74ce162468414800",
@@ -4033,8 +4059,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.462676,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.457436,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4061,8 +4087,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.415468,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.401496,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4091,8 +4117,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.402676,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.397436,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4121,8 +4147,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.277584,
-   "selection_reason": "Editorial importance; waiting 45.0h"
+   "priority": 7.27459,
+   "selection_reason": "Editorial importance; waiting 45.5h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4174,8 +4200,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.116439,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.142636,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4204,8 +4230,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.979342,
-   "selection_reason": "Editorial importance; waiting 68.5h"
+   "priority": 6.974103,
+   "selection_reason": "Editorial importance; waiting 69.0h"
   }
  ],
  "details_queue": [],
@@ -4450,69 +4476,15 @@
   "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T01:11:21.684174+00:00",
   "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": "2026-11-21T01:38:12.196710+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": "2026-11-21T02:08:06.599110+00:00",
-  "https://36kr.com/newsflashes/4078897791784068?f=rss": "2026-11-21T02:39:47.619068+00:00"
+  "https://36kr.com/newsflashes/4078897791784068?f=rss": "2026-11-21T02:39:47.619068+00:00",
+  "https://36kr.com/newsflashes/4078915481179273?f=rss": "2026-11-21T03:10:33.710414+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
-  "564fcb182cc20953": {
-   "imp": 2.05,
-   "ai": 0.71,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "1dcba385dec91313": {
-   "imp": 2.52,
-   "ai": 0.86,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "376d01b45580e9f4": {
-   "imp": 2.76,
-   "ai": 0.92,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "9dd8017bfe490db1": {
-   "imp": 0.3,
-   "ai": 0.09,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "a94cd359b16414f0": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "8d0a7510907e15e2": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "012b20f1ef43942c": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "b47cfdb7ba1100d5": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "a98af227bc55ce6a": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "f1300985e7a43752": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
-  "593d4a0939380034": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-13T03:07:23.017931+00:00"
-  },
   "bdfbc69a6c19cf9a": {
    "imp": 1.54,
    "ai": 0.92,
@@ -26157,6 +26129,56 @@
    "imp": 0.17,
    "ai": 0.03,
    "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "2217e29d1f21d394": {
+   "imp": 1.96,
+   "ai": 0.9,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "0c65e90d9ffc6fc5": {
+   "imp": 1.29,
+   "ai": 0.78,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "2d821e5fd8655507": {
+   "imp": 1.55,
+   "ai": 0.81,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "29431a10cfbde3f2": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "6b560bbc4d5db56a": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "fc24f1459403ad32": {
+   "imp": 1.59,
+   "ai": 0.94,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "0167cd998c35c176": {
+   "imp": 0.28,
+   "ai": 0.08,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "3d4a5aa49ceac0de": {
+   "imp": 1.9,
+   "ai": 0.72,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "6fd8d9f336161e44": {
+   "imp": 0.47,
+   "ai": 0.08,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
+  },
+  "aa959344441a9bcb": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-21T03:07:34.059840+00:00"
   }
  }
 }
