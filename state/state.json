@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b4f335a2fc788309": "2026-11-14T09:07:21.427655+00:00",
-  "3a1f57bc8115405c": "2026-11-14T09:07:21.427655+00:00",
   "613de96a5982ea79": "2026-11-14T10:07:22.434618+00:00",
   "ffbd1a64645c93e8": "2026-11-14T10:07:22.434618+00:00",
   "7bfee235c168b3e9": "2026-11-14T10:07:22.434618+00:00",
@@ -1819,13 +1817,10 @@
   "5cdbeed47a9c307a": "2026-11-21T08:37:23.431807+00:00",
   "3e0594db892e3d93": "2026-11-21T08:37:23.431807+00:00",
   "24e9a318accc2a96": "2026-11-21T08:37:23.431807+00:00",
-  "9556d208d7730f5a": "2026-11-21T08:37:23.431807+00:00"
+  "9556d208d7730f5a": "2026-11-21T08:37:23.431807+00:00",
+  "4920d00e28ac4511": "2026-11-21T09:07:30.484993+00:00"
  },
  "covered": [
-  {
-   "headline": "Apple releases FastFrames-S and FastFrames-L video models",
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
   {
    "headline": "Moonshot AI cancels 150 million dollar Indonesia Nvidia chip deal",
    "ts": "2026-11-19T10:07:23.477122+00:00"
@@ -2053,11 +2048,15 @@
   {
    "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
    "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  {
+   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
+   "ts": "2026-11-21T09:07:30.484993+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3985,38 +3984,7 @@
    "published": "2026-08-10T12:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "4920d00e28ac4511",
-   "item": {
-    "id": "4920d00e28ac4511",
-    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-    "url": "https://arxiv.org/abs/2611.22115",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
-    "published": "2026-11-18T00:00:00+00:00",
-    "upvotes": 84,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
-   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
-   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
-   "support": 0.97,
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
-   "expires_at": "2026-11-22T00:00:00+00:00",
-   "decision": 1.52,
-   "priority": 6.916842,
-   "selection_reason": "Editorial importance; waiting 74.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4270,169 +4238,15 @@
   "https://metr.org/blog/2026-11-20-q4-2026-capability-update": "2026-11-21T06:40:51.162892+00:00",
   "https://www.indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21": "2026-11-21T07:07:58.959798+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus": "2026-11-21T07:37:34.338779+00:00",
-  "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": "2026-11-21T08:39:30.239066+00:00"
+  "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": "2026-11-21T08:39:30.239066+00:00",
+  "https://arxiv.org/abs/2611.22115": "2026-11-21T09:07:38.635983+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
-  "10c45432b5ce2038": {
-   "imp": 0.95,
-   "ai": 0.82,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "1cefe2d071f9aa76": {
-   "imp": 2.18,
-   "ai": 0.81,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "1a7caf61dab36232": {
-   "imp": 2.2,
-   "ai": 0.76,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "aa189383f7bd2657": {
-   "imp": 1.35,
-   "ai": 0.86,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "0239886cb34ab7e1": {
-   "imp": 1.66,
-   "ai": 0.97,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "03a1e051274dd4de": {
-   "imp": 1.25,
-   "ai": 0.93,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "926b1b7cc2cb7571": {
-   "imp": 1.97,
-   "ai": 0.68,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "f0adc5a4e17fbd23": {
-   "imp": 2.25,
-   "ai": 0.96,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "cafe4a03e39dc550": {
-   "imp": 1.36,
-   "ai": null,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "5efc21343ba3b2b7": {
-   "imp": 0.82,
-   "ai": 0.08,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "77bf4ba9c6e4ac0a": {
-   "imp": 0.9,
-   "ai": 0.76,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "c59fedced1bf9447": {
-   "imp": 0.12,
-   "ai": 0.05,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "b3d9608ba330d53a": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "b50eaa8ed2dcd727": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "64e34cc7adf07b5b": {
-   "imp": 1.66,
-   "ai": 0.98,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "2446a8a75538f3c3": {
-   "imp": 1.6,
-   "ai": 0.97,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "4db1f53c2cd9b841": {
-   "imp": 0.37,
-   "ai": 0.1,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "ea705325da6c1d2f": {
-   "imp": 1.56,
-   "ai": 0.85,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "2f8b4dbcd10dc5d8": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "cb2493d1e6a636b1": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "c2a7df509e6dfc10": {
-   "imp": 0.37,
-   "ai": 0.1,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "c734ad96ccbc7713": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "0f1ce4296e203406": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "b299626be20da054": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "fb8776473e77bf42": {
-   "imp": 1.76,
-   "ai": 0.99,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "cb9e4d5f1ab1da50": {
-   "imp": 0.09,
-   "ai": 0.06,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "ca52532ec14cb4b1": {
-   "imp": 0.12,
-   "ai": 0.13,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "cc8fda3c73da122c": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "c6b7f959df006132": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "d19051d46d42732f": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
-  "af7f92261052ad59": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-13T09:07:22.927374+00:00"
-  },
   "aa0175cd57a88d57": {
    "imp": 1.65,
    "ai": 0.47,
@@ -25317,6 +25131,11 @@
    "imp": 0.18,
    "ai": 0.05,
    "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "3d74e9ad6838d072": {
+   "imp": 0.01,
+   "ai": 0.01,
+   "ts": "2026-11-21T09:07:30.484993+00:00"
   }
  }
 }
