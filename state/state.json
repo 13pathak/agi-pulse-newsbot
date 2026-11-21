@@ -1,16 +1,5 @@
 {
  "seen": {
-  "773ec8d2db34b976": "2026-11-14T02:37:31.704833+00:00",
-  "bdc7bca3c70ffeb4": "2026-11-14T02:37:31.704833+00:00",
-  "6318c1a9c6359d11": "2026-11-14T02:37:31.704833+00:00",
-  "2190decebe335125": "2026-11-14T02:37:31.704833+00:00",
-  "6bd3af3efefc579c": "2026-11-14T02:37:31.704833+00:00",
-  "32e8bc8b29f95aef": "2026-11-14T02:37:31.704833+00:00",
-  "92a1dd1352ee16ef": "2026-11-14T02:37:31.704833+00:00",
-  "d70110f8dad0aa80": "2026-11-14T02:37:31.704833+00:00",
-  "8ea3510c376203b4": "2026-11-14T02:37:31.704833+00:00",
-  "cf56dd8d2a579c04": "2026-11-14T02:37:31.704833+00:00",
-  "ac75d13803ce0d93": "2026-11-14T02:37:31.704833+00:00",
   "1e2c04e5b9e4b465": "2026-11-14T03:07:19.743183+00:00",
   "e0f25d2994ae8ba5": "2026-11-14T03:07:19.743183+00:00",
   "8575daa888e72a9f": "2026-11-14T03:07:19.743183+00:00",
@@ -1811,13 +1800,15 @@
   "58764497099b9f22": "2026-11-21T02:07:24.087565+00:00",
   "977b9b813a947740": "2026-11-21T02:07:24.087565+00:00",
   "c2e97ef0fb22654a": "2026-11-21T02:07:24.087565+00:00",
-  "381edecba3edcbb4": "2026-11-21T02:07:24.087565+00:00"
+  "381edecba3edcbb4": "2026-11-21T02:07:24.087565+00:00",
+  "a97c4633f674a2ae": "2026-11-21T02:37:23.311263+00:00",
+  "dbefb9b7e6c46a96": "2026-11-21T02:37:23.311263+00:00",
+  "3ac5b354630e03cd": "2026-11-21T02:37:23.311263+00:00",
+  "644cd1ad26525bf3": "2026-11-21T02:37:23.311263+00:00",
+  "b6981cf5cc3edc9d": "2026-11-21T02:37:23.311263+00:00",
+  "a35d39e3d3a48e7a": "2026-11-21T02:37:23.311263+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI models accelerate chip design for AMD and in-house hardware",
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
   {
    "headline": "Meta AI agent accessed bank balances and private chats without consent",
    "ts": "2026-11-19T03:07:24.283530+00:00"
@@ -2049,11 +2040,15 @@
   {
    "headline": "Cognition AI in talks for $75 billion valuation",
    "ts": "2026-11-21T02:07:24.087565+00:00"
+  },
+  {
+   "headline": "Reports link Nvidia CEO ouster to board candor issues",
+   "ts": "2026-11-21T02:37:23.311263+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3983,6 +3978,35 @@
  },
  "pending": [
   {
+   "id": "7d4226ff8b0f20f9",
+   "item": {
+    "id": "7d4226ff8b0f20f9",
+    "title": "甲骨文称已筹集履行与OpenAI合同所需全部资金，预计2029财年自由现金流超300亿美元",
+    "url": "https://36kr.com/newsflashes/4078896115241859?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "甲骨文表示，已筹集履行与OpenAI基础设施合同所需的全部资金，本月早些时候完成最后一轮融资后，成为本轮投资周期中首家完成全部资金筹措的超大规模云服务商。公司称，相关融资方案已落实，后续与供应商的讨论仅涉及额外融资选择，不影响合同履行。甲骨文还表示，与OpenAI合作的阿比林园区已接近完工，下一座吉瓦级园区Shackelford已获得全部许可，英伟达Vera Rubin机架预计未来几周交付。公司预计2028财年下半年实现正自由现金流，2029财年自由现金流将超过300亿美元，并从当年起以自有资金支持未来增长。（财联社）",
+    "published": "2026-11-21T02:27:41+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Oracle completes funding for OpenAI cloud infrastructure deal",
+   "post": "Oracle says it has secured all funding needed to fulfill its cloud infrastructure contract with OpenAI. The company expects Nvidia Vera Rubin server racks in coming weeks and projects fiscal 2029 free cash flow above $30 billion.",
+   "editor_note": "Verify Oracle's official investor update or 8-K filing regarding financing completion and Vera Rubin delivery timeline.",
+   "support": 0.96,
+   "published_at": "2026-11-21T02:27:41+00:00",
+   "first_seen_at": "2026-11-21T02:37:23.311263+00:00",
+   "expires_at": "2026-11-22T14:27:41+00:00",
+   "decision": 2.26,
+   "priority": 7.74884,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "74ce162468414800",
    "item": {
     "id": "74ce162468414800",
@@ -4009,8 +4033,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.467882,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.462676,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4037,8 +4061,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.429351,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.415468,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4067,8 +4091,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.407882,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.402676,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4097,8 +4121,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.280559,
-   "selection_reason": "Editorial importance; waiting 44.5h"
+   "priority": 7.277584,
+   "selection_reason": "Editorial importance; waiting 45.0h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4150,8 +4174,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.090408,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.116439,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4180,8 +4204,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.984548,
-   "selection_reason": "Editorial importance; waiting 68.0h"
+   "priority": 6.979342,
+   "selection_reason": "Editorial importance; waiting 68.5h"
   }
  ],
  "details_queue": [],
@@ -4425,99 +4449,15 @@
   "https://36kr.com/newsflashes/4077871040926595?f=rss": "2026-11-21T01:11:21.684174+00:00",
   "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T01:11:21.684174+00:00",
   "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": "2026-11-21T01:38:12.196710+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": "2026-11-21T02:08:06.599110+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": "2026-11-21T02:08:06.599110+00:00",
+  "https://36kr.com/newsflashes/4078897791784068?f=rss": "2026-11-21T02:39:47.619068+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
-  "9036ecf80c178bb4": {
-   "imp": 1.5,
-   "ai": 0.87,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "d1dc0ea91b809207": {
-   "imp": 1.7,
-   "ai": 0.92,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "e82d1380f8b14fa9": {
-   "imp": 2.59,
-   "ai": 0.95,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "c30258c9bb600e53": {
-   "imp": 1.6,
-   "ai": 0.9,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "f1f8ea095289c131": {
-   "imp": 0.29,
-   "ai": 0.08,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "98f5d9925889e020": {
-   "imp": 1.4,
-   "ai": 0.96,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "1c05f7da961df638": {
-   "imp": 2.59,
-   "ai": 0.87,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "fc8c27cc2e9c9b2a": {
-   "imp": 2.27,
-   "ai": 0.85,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "055a210bf82d1720": {
-   "imp": 2.27,
-   "ai": 0.91,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "33901aab5680e73c": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "9d5773919c0524e8": {
-   "imp": 1.23,
-   "ai": null,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "10f55558e870986a": {
-   "imp": 1.44,
-   "ai": null,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "4e51cf00fbdc21c6": {
-   "imp": 0.2,
-   "ai": 0.06,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "b8c9bab20708b534": {
-   "imp": 1.57,
-   "ai": 0.83,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "b23e610b672b7821": {
-   "imp": 0.13,
-   "ai": 0.07,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "4411cbb19891c6f7": {
-   "imp": 0.14,
-   "ai": 0.07,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
-  "2b3bbb4f43a1b216": {
-   "imp": 0.15,
-   "ai": 0.07,
-   "ts": "2026-11-13T02:37:37.820581+00:00"
-  },
   "564fcb182cc20953": {
    "imp": 2.05,
    "ai": 0.71,
@@ -26137,6 +26077,86 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-21T02:07:24.087565+00:00"
+  },
+  "644cd1ad26525bf3": {
+   "imp": 1.42,
+   "ai": 0.91,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "a35d39e3d3a48e7a": {
+   "imp": 1.89,
+   "ai": 0.8,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "7d4226ff8b0f20f9": {
+   "imp": 2.26,
+   "ai": 0.96,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "b6981cf5cc3edc9d": {
+   "imp": 2.24,
+   "ai": 0.93,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "e784a788f4453fa5": {
+   "imp": 1.02,
+   "ai": 0.45,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "dbefb9b7e6c46a96": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "a97c4633f674a2ae": {
+   "imp": 1.62,
+   "ai": null,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "3ac5b354630e03cd": {
+   "imp": 1.53,
+   "ai": null,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "58fcc6af0deb1aca": {
+   "imp": 1.86,
+   "ai": 0.58,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "c07c00c2ad1b61e5": {
+   "imp": 0.47,
+   "ai": 0.1,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "48787ae307d2ee72": {
+   "imp": 1.18,
+   "ai": 0.12,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "6de3d6f857e861a1": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "1860cac9b2221ea3": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "8114b313d123dbf2": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "4e5ac373e71139f9": {
+   "imp": 0.78,
+   "ai": 0.14,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
+  },
+  "72428e599e092ba1": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-21T02:37:23.311263+00:00"
   }
  }
 }
