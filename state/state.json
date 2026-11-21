@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a0b44e6183dde18b": "2026-11-14T07:37:22.061439+00:00",
   "5853038b14588b71": "2026-11-14T08:07:22.564336+00:00",
   "778fbf3e20e9334b": "2026-11-14T08:07:22.564336+00:00",
   "e29057798ed96e41": "2026-11-14T08:37:21.307858+00:00",
@@ -1816,13 +1815,10 @@
   "2fdd7a0916ab501f": "2026-11-21T06:37:21.471248+00:00",
   "7f85d104927becc3": "2026-11-21T06:37:21.471248+00:00",
   "baa7c9e322550c54": "2026-11-21T07:07:21.444011+00:00",
-  "5d1ef2af71d7c7ae": "2026-11-21T07:07:21.444011+00:00"
+  "5d1ef2af71d7c7ae": "2026-11-21T07:07:21.444011+00:00",
+  "048307fe18e56f2d": "2026-11-21T07:37:22.784480+00:00"
  },
  "covered": [
-  {
-   "headline": "Paradigm enters foundation model market with dual release",
-   "ts": "2026-11-19T07:37:25.120830+00:00"
-  },
   {
    "headline": "Google launches Genie 4 world model for subscribers",
    "ts": "2026-11-19T08:07:26.994967+00:00"
@@ -2054,11 +2050,15 @@
   {
    "headline": "Google provides $5 million AI research grant to IIT Kharagpur",
    "ts": "2026-11-21T07:07:21.444011+00:00"
+  },
+  {
+   "headline": "OpenAI models help AMD improve GPU design",
+   "ts": "2026-11-21T07:37:22.784480+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3988,34 +3988,6 @@
  },
  "pending": [
   {
-   "id": "048307fe18e56f2d",
-   "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.290483,
-   "selection_reason": "Editorial importance; waiting 20.5h"
-  },
-  {
    "id": "9556d208d7730f5a",
    "item": {
     "id": "9556d208d7730f5a",
@@ -4042,8 +4014,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.250801,
-   "selection_reason": "Editorial importance; waiting 49.5h"
+   "priority": 7.247823,
+   "selection_reason": "Editorial importance; waiting 50.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4072,8 +4044,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.932473,
-   "selection_reason": "Editorial importance; waiting 73.0h"
+   "priority": 6.92726,
+   "selection_reason": "Editorial importance; waiting 73.5h"
   }
  ],
  "details_queue": [],
@@ -4327,12 +4299,13 @@
   "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": "2026-11-21T05:39:24.851560+00:00",
   "https://arxiv.org/abs/2611.21373": "2026-11-21T06:07:57.427571+00:00",
   "https://metr.org/blog/2026-11-20-q4-2026-capability-update": "2026-11-21T06:40:51.162892+00:00",
-  "https://www.indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21": "2026-11-21T07:07:58.959798+00:00"
+  "https://www.indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21": "2026-11-21T07:07:58.959798+00:00",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus": "2026-11-21T07:37:34.338779+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
   "81374c4ce5d29070": {
@@ -25594,6 +25567,16 @@
    "imp": 0.33,
    "ai": 0.06,
    "ts": "2026-11-21T07:07:21.444011+00:00"
+  },
+  "89f1043582c31ecd": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-21T07:37:22.784480+00:00"
+  },
+  "9d6688b42d63be96": {
+   "imp": 0.33,
+   "ai": 0.08,
+   "ts": "2026-11-21T07:37:22.784480+00:00"
   }
  }
 }
