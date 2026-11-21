@@ -1,8 +1,5 @@
 {
  "seen": {
-  "567fa298898a17ca": "2026-11-14T12:07:29.222534+00:00",
-  "6416a5386c31fb34": "2026-11-14T12:07:29.222534+00:00",
-  "3fecc6a9d4a07de9": "2026-11-14T12:07:29.222534+00:00",
   "0ff3647506880fcc": "2026-11-14T12:37:21.020624+00:00",
   "fca3ae34a258ab4b": "2026-11-14T12:37:21.020624+00:00",
   "8be66726e4220fb9": "2026-11-14T12:37:21.020624+00:00",
@@ -1827,13 +1824,12 @@
   "263ea4d757a50252": "2026-11-21T11:07:22.348012+00:00",
   "d82387dbcd38e0b7": "2026-11-21T11:07:22.348012+00:00",
   "6ea349c0e0a1069e": "2026-11-21T11:37:20.925678+00:00",
-  "ac3df93f97de43ec": "2026-11-21T11:37:20.925678+00:00"
+  "ac3df93f97de43ec": "2026-11-21T11:37:20.925678+00:00",
+  "a8b9571f5922480c": "2026-11-21T12:07:23.056782+00:00",
+  "e278e81518291b38": "2026-11-21T12:07:23.056782+00:00",
+  "93616a452aac08f9": "2026-11-21T12:07:23.056782+00:00"
  },
  "covered": [
-  {
-   "headline": "Zurich Insurance expands Hyderabad GCC with 1000 employees",
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
   {
    "headline": "Microsoft unveils seven new in-house AI models at Ignite",
    "ts": "2026-11-19T12:37:24.282971+00:00"
@@ -2065,11 +2061,15 @@
   {
    "headline": "Stanford releases independent competing proof on Riemann hypothesis",
    "ts": "2026-11-21T11:37:20.925678+00:00"
+  },
+  {
+   "headline": "Scaler cofounder launches AI training data startup Arcfront",
+   "ts": "2026-11-21T12:07:23.056782+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4029,34 +4029,6 @@
  },
  "pending": [
   {
-   "id": "93616a452aac08f9",
-   "item": {
-    "id": "93616a452aac08f9",
-    "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
-    "url": "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Tech upskilling platform Scaler’s cofounder Anshuman Singh has unveiled Arcfront, an AI research and training data venture that turns records of how professionals solve problems into material for training and testing advanced AI models. Singh is building the venture with Naman Bhalla, Scaler’s former head of AI products and an ex-Google software engineer. In a post on X, Singh said Arcfront also h…",
-    "published": "2026-11-21T09:27:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Scaler cofounder launches AI training data startup Arcfront",
-   "post": "Scaler cofounder Anshuman Singh and former AI head Naman Bhalla launched Arcfront, an artificial intelligence training data venture focused on professional problem-solving records.",
-   "editor_note": "Confirm the funding status and commercial model for the newly announced Arcfront venture.",
-   "support": 0.94,
-   "published_at": "2026-11-21T09:27:01+00:00",
-   "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
-   "expires_at": "2026-11-22T21:27:01+00:00",
-   "decision": 1.93,
-   "priority": 8.645484,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "aa2df91a074af6a9",
    "item": {
     "id": "aa2df91a074af6a9",
@@ -4081,8 +4053,8 @@
    "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
    "expires_at": "2026-11-22T22:11:29+00:00",
    "decision": 1.78,
-   "priority": 7.616071,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.633452,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4344,124 +4316,15 @@
   "https://www.qbitai.com/2026/11/511779.html": "2026-11-21T10:08:11.844310+00:00",
   "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop": "2026-11-21T10:39:37.999245+00:00",
   "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur": "2026-11-21T11:09:49.310340+00:00",
-  "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": "2026-11-21T11:39:05.432453+00:00"
+  "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": "2026-11-21T11:39:05.432453+00:00",
+  "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront": "2026-11-21T12:09:08.224532+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 22
+  "takes": 23
  },
  "triage": {
-  "71dad9da95c2fbfe": {
-   "imp": 0.83,
-   "ai": null,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "2af8c10fdf158eb2": {
-   "imp": 1.05,
-   "ai": null,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "19d5ccf10fefa612": {
-   "imp": 1.97,
-   "ai": 0.83,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "8bc37b438d7cdefb": {
-   "imp": 2.11,
-   "ai": 0.89,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "548dc0241fb93c86": {
-   "imp": 2.51,
-   "ai": 0.93,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "2d7db38ea1c92823": {
-   "imp": 1.62,
-   "ai": 0.66,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "c4b5715bfda23a0e": {
-   "imp": 2.19,
-   "ai": 0.91,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "29693579ec4a5ece": {
-   "imp": 1.07,
-   "ai": 0.39,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "d9962f7c194b797b": {
-   "imp": 0.93,
-   "ai": 0.94,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "3ac6640ed3ef5afa": {
-   "imp": 0.58,
-   "ai": 0.3,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "8e8fa33cec469b93": {
-   "imp": 0.98,
-   "ai": 0.73,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "65318f3299b7e538": {
-   "imp": 0.55,
-   "ai": 0.12,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "30be3a106f431b13": {
-   "imp": 1.62,
-   "ai": 0.6,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "4a3894bfa36e6a86": {
-   "imp": 0.15,
-   "ai": 0.08,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "dfd07813b40a8954": {
-   "imp": 0.16,
-   "ai": 0.05,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "6375cd068da72995": {
-   "imp": 0.25,
-   "ai": 0.08,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "362fbd985b9b293e": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "e90f7117e67b4b3e": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "277c254ed8905ef3": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "1f4ec7eafadc3a61": {
-   "imp": 0.6,
-   "ai": 0.08,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "7dd81dd74696e1fd": {
-   "imp": 0.2,
-   "ai": 0.03,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
-  "fd8d7f2d89bcf720": {
-   "imp": 0.16,
-   "ai": 0.05,
-   "ts": "2026-11-13T12:07:26.736390+00:00"
-  },
   "6fcee31fcfd3f5b2": {
    "imp": 1.25,
    "ai": 0.84,
@@ -24776,6 +24639,31 @@
    "imp": 0.21,
    "ai": 0.07,
    "ts": "2026-11-21T11:37:20.925678+00:00"
+  },
+  "e278e81518291b38": {
+   "imp": 0.21,
+   "ai": null,
+   "ts": "2026-11-21T12:07:23.056782+00:00"
+  },
+  "a8b9571f5922480c": {
+   "imp": 0.95,
+   "ai": 0.75,
+   "ts": "2026-11-21T12:07:23.056782+00:00"
+  },
+  "15172727f7c32bb2": {
+   "imp": 0.66,
+   "ai": 0.07,
+   "ts": "2026-11-21T12:07:23.056782+00:00"
+  },
+  "e4a9b8583734931b": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-21T12:07:23.056782+00:00"
+  },
+  "9125f3fe9c361595": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-21T12:07:23.056782+00:00"
   }
  }
 }
