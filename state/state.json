@@ -1,54 +1,5 @@
 {
  "seen": {
-  "6b5db77df3bfd94b": "2026-11-14T01:07:22.254611+00:00",
-  "829ec27078fa35c2": "2026-11-14T01:07:22.254611+00:00",
-  "21ab7432dba474e0": "2026-11-14T01:07:22.254611+00:00",
-  "c88537f3a56d1457": "2026-11-14T01:07:22.254611+00:00",
-  "13f9d9491c402dfb": "2026-11-14T01:07:22.254611+00:00",
-  "41b9d660ec27f386": "2026-11-14T01:07:22.254611+00:00",
-  "d1318183fe172893": "2026-11-14T01:07:22.254611+00:00",
-  "2427bacb74a96b4b": "2026-11-14T01:07:22.254611+00:00",
-  "cb5a4d17dfb87a18": "2026-11-14T01:07:22.254611+00:00",
-  "984d08da3cf7995c": "2026-11-14T01:07:22.254611+00:00",
-  "94d8e8d36570e022": "2026-11-14T01:07:22.254611+00:00",
-  "98fa1e92ab085231": "2026-11-14T01:07:22.254611+00:00",
-  "610b94d6940123c6": "2026-11-14T01:07:22.254611+00:00",
-  "77075a692af2a108": "2026-11-14T01:07:22.254611+00:00",
-  "dbb2dbe2268b094a": "2026-11-14T01:07:22.254611+00:00",
-  "ad639fbc6552b9e9": "2026-11-14T01:07:22.254611+00:00",
-  "f1ced52c9e657080": "2026-11-14T01:07:22.254611+00:00",
-  "15cb2faaffcf0439": "2026-11-14T01:07:22.254611+00:00",
-  "7229ca734bc0761a": "2026-11-14T01:07:22.254611+00:00",
-  "7a37cc01c839cd57": "2026-11-14T01:07:22.254611+00:00",
-  "8d4419d1ea64b657": "2026-11-14T01:07:22.254611+00:00",
-  "ae3217570306e2c9": "2026-11-14T01:07:22.254611+00:00",
-  "951c84561943a913": "2026-11-14T01:07:22.254611+00:00",
-  "e3ea85825ec5fc14": "2026-11-14T01:07:22.254611+00:00",
-  "17f09dd8eddc0b9f": "2026-11-14T01:07:22.254611+00:00",
-  "51102f5176871319": "2026-11-14T01:07:22.254611+00:00",
-  "30d42da4b4e81437": "2026-11-14T01:07:22.254611+00:00",
-  "0d9fae548b15d920": "2026-11-14T01:07:22.254611+00:00",
-  "38741df50e34ad24": "2026-11-14T01:07:22.254611+00:00",
-  "df2c9591c930aa95": "2026-11-14T01:07:22.254611+00:00",
-  "5929db995edfd742": "2026-11-14T01:07:22.254611+00:00",
-  "a449d5f9748bf10f": "2026-11-14T01:07:22.254611+00:00",
-  "2ee16e063dccd3d7": "2026-11-14T01:07:22.254611+00:00",
-  "e276e77530e2ebe5": "2026-11-14T01:07:22.254611+00:00",
-  "04367a7d0b10c58a": "2026-11-14T01:07:22.254611+00:00",
-  "bf40a8e483ebbdeb": "2026-11-14T01:07:22.254611+00:00",
-  "c371d06a5231e17d": "2026-11-14T01:07:22.254611+00:00",
-  "9896210f0dd0968d": "2026-11-14T01:07:22.254611+00:00",
-  "e967fe0cd236e26a": "2026-11-14T01:07:22.254611+00:00",
-  "12e8a078f38517ab": "2026-11-14T01:07:22.254611+00:00",
-  "be0f439fc3d0da04": "2026-11-14T01:07:22.254611+00:00",
-  "b6de13ec3caeae82": "2026-11-14T01:07:22.254611+00:00",
-  "f807c61a14b39adc": "2026-11-14T01:07:22.254611+00:00",
-  "5e54ac9622fb99a8": "2026-11-14T01:07:22.254611+00:00",
-  "2324ffb80b41a1ad": "2026-11-14T01:07:22.254611+00:00",
-  "d286ac102d0220e7": "2026-11-14T01:07:22.254611+00:00",
-  "bdca3a6a8960c0b1": "2026-11-14T01:07:22.254611+00:00",
-  "449fc35486b25600": "2026-11-14T01:07:22.254611+00:00",
-  "f17748102e2c4282": "2026-11-14T01:07:22.254611+00:00",
   "99d40623cf51112d": "2026-11-14T01:37:31.222397+00:00",
   "a05d08fd0b1ba6de": "2026-11-14T01:37:31.222397+00:00",
   "5b04567ab3cf8a10": "2026-11-14T01:37:31.222397+00:00",
@@ -1789,13 +1740,71 @@
   "db40ade6fdb7d0a6": "2026-11-20T17:07:23.512351+00:00",
   "c023d2e58ae1c4ff": "2026-11-20T17:07:23.512351+00:00",
   "69fbb2574868b9e8": "2026-11-20T17:07:23.512351+00:00",
-  "4c3a82e8399a5309": "2026-11-20T17:07:23.512351+00:00"
+  "4c3a82e8399a5309": "2026-11-20T17:07:23.512351+00:00",
+  "e89d2657aca67cef": "2026-11-21T01:07:22.568138+00:00",
+  "c13d075741cf194b": "2026-11-21T01:07:22.568138+00:00",
+  "5dd162ab8cb823d9": "2026-11-21T01:07:22.568138+00:00",
+  "bfe9363152c3e805": "2026-11-21T01:07:22.568138+00:00",
+  "a9ee9723453f9960": "2026-11-21T01:07:22.568138+00:00",
+  "ee3cf1a9435226b0": "2026-11-21T01:07:22.568138+00:00",
+  "db250979562e999a": "2026-11-21T01:07:22.568138+00:00",
+  "753f1faf81d05f31": "2026-11-21T01:07:22.568138+00:00",
+  "4bc4cadcc57b3185": "2026-11-21T01:07:22.568138+00:00",
+  "e5ec3a5454a51090": "2026-11-21T01:07:22.568138+00:00",
+  "ec384d5ce78d49c6": "2026-11-21T01:07:22.568138+00:00",
+  "b023f8d7a176acb5": "2026-11-21T01:07:22.568138+00:00",
+  "f4784c30400364a2": "2026-11-21T01:07:22.568138+00:00",
+  "80d31a6dee298bbd": "2026-11-21T01:07:22.568138+00:00",
+  "5259c7996b79c471": "2026-11-21T01:07:22.568138+00:00",
+  "0c4b2dda30dcaea5": "2026-11-21T01:07:22.568138+00:00",
+  "2ef902c4582a1ae8": "2026-11-21T01:07:22.568138+00:00",
+  "e8758b64c9e8fb27": "2026-11-21T01:07:22.568138+00:00",
+  "3ea993db7e3c60d1": "2026-11-21T01:07:22.568138+00:00",
+  "dc26abff63441211": "2026-11-21T01:07:22.568138+00:00",
+  "52c6915bc7b511ec": "2026-11-21T01:07:22.568138+00:00",
+  "d15c45643214b444": "2026-11-21T01:07:22.568138+00:00",
+  "d0d32febab120944": "2026-11-21T01:07:22.568138+00:00",
+  "4ed936ba5e6387e8": "2026-11-21T01:07:22.568138+00:00",
+  "4e4568214c6d8dc5": "2026-11-21T01:07:22.568138+00:00",
+  "565159543ba42dea": "2026-11-21T01:07:22.568138+00:00",
+  "e4ae2b37811f9a19": "2026-11-21T01:07:22.568138+00:00",
+  "15da6cf3d0e2c799": "2026-11-21T01:07:22.568138+00:00",
+  "d45d2ceaae062af9": "2026-11-21T01:07:22.568138+00:00",
+  "7257b1efbab09d7c": "2026-11-21T01:07:22.568138+00:00",
+  "dc970c88db822a52": "2026-11-21T01:07:22.568138+00:00",
+  "5c429be098263f30": "2026-11-21T01:07:22.568138+00:00",
+  "bc5933ad429c9c37": "2026-11-21T01:07:22.568138+00:00",
+  "4d6c192ff8628768": "2026-11-21T01:07:22.568138+00:00",
+  "37d5148415e89393": "2026-11-21T01:07:22.568138+00:00",
+  "448352dfcd272916": "2026-11-21T01:07:22.568138+00:00",
+  "22bdaccab59660bb": "2026-11-21T01:07:22.568138+00:00",
+  "8f50e13d65283861": "2026-11-21T01:07:22.568138+00:00",
+  "bc11d8df3d08d01a": "2026-11-21T01:07:22.568138+00:00",
+  "a7362ff86af85ab0": "2026-11-21T01:07:22.568138+00:00",
+  "59fa562eab8a38b3": "2026-11-21T01:07:22.568138+00:00",
+  "08401912b13f330b": "2026-11-21T01:07:22.568138+00:00",
+  "6e086317ffb3ab4e": "2026-11-21T01:07:22.568138+00:00",
+  "e7e982d925ba9fe4": "2026-11-21T01:07:22.568138+00:00",
+  "b678fafade2efcfd": "2026-11-21T01:07:22.568138+00:00",
+  "62d012cbeab27c20": "2026-11-21T01:07:22.568138+00:00",
+  "e43240c9ae66c70f": "2026-11-21T01:07:22.568138+00:00",
+  "38136cf0c41628e4": "2026-11-21T01:07:22.568138+00:00",
+  "8bc8fed2fbe62d07": "2026-11-21T01:07:22.568138+00:00",
+  "fa1e0f717c7e6d47": "2026-11-21T01:07:22.568138+00:00",
+  "a48cf524d8c75887": "2026-11-21T01:07:22.568138+00:00",
+  "fa46f89efa1b67fb": "2026-11-21T01:07:22.568138+00:00",
+  "859ee3ec8c206bcf": "2026-11-21T01:07:22.568138+00:00",
+  "81ce5b24dd897b42": "2026-11-21T01:07:22.568138+00:00",
+  "eed162aceff54a87": "2026-11-21T01:07:22.568138+00:00",
+  "979b606d52ee0623": "2026-11-21T01:07:22.568138+00:00",
+  "737ce34a69d08c07": "2026-11-21T01:07:22.568138+00:00",
+  "321bf9e3c390a636": "2026-11-21T01:07:22.568138+00:00",
+  "b28267594d6a81d2": "2026-11-21T01:07:22.568138+00:00",
+  "cd3a5ef04e7d2070": "2026-11-21T01:07:22.568138+00:00",
+  "cd7b12b990062c3f": "2026-11-21T01:07:22.568138+00:00",
+  "d8f37fc4bf480ab5": "2026-11-21T01:07:22.568138+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic prices its initial public offering at $83 per share",
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
   {
    "headline": "Palo Alto Networks acquires Applied Compute for $4.5 billion",
    "ts": "2026-11-19T01:37:25.956206+00:00"
@@ -2023,11 +2032,15 @@
   {
    "headline": "China Cyberspace Administration completes filing for 133 AI services",
    "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  {
+   "headline": "Anthropic researcher claims Claude helped solve Riemann hypothesis",
+   "ts": "2026-11-21T01:07:22.568138+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-20",
-  "count": 33
+  "date": "2026-11-21",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3922,66 +3935,132 @@
    "desc": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://artificialanalysis.ai/articles/inkling-2-mini": {
+   "title": "Thinking Machines has released Inkling 2 Mini, an open weights looped transformer",
+   "desc": "Thinking Machines has released Inkling 2 Mini at 20 on the Artificial Analysis Intelligence Index, an open weights looped transformer on the Pareto frontier for Intelligence vs. Active Parameters",
+   "image": "https://cdn.sanity.io/images/6vfeftx9/articles/b102918995fd675d46266e17a99a93db6d871121-680x357.png?rect=161,0,357,357&w=1200&auto=format",
+   "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://openai.com/index/introducing-medchembench": {
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "desc": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-18T08:00:00+00:00"
+  },
+  "https://huggingface.co/blog/inkling2mini": {
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
+   "published": "2026-11-20T00:00:00.775000+00:00",
+   "excerpt": "TLDR; Inkling 2 Mini is a new looped transformer model. It’s a multimodal Mixture-of-Experts with ~26B physical total and 3B active parameters per token. It uses a neat trick to increase capacity: some layers are visited in a loop that repeats three times, which makes it work like it had more parameters. It supports a 1M-token context size, accepts images and text inputs. Thinking Machines Lab ships the model in a mixed-precision format, with NVFP4 and MXFP8 expert weights. A DSpark drafter is also included for additional speed-up at a small memory cost. Inkling 2 Mini is much, much smaller than Inkling 2 Small, and is designed for local AI setups. We think this is a refreshingly new great local model. In our vibe tests, it's at least comparable with Qwen 3.8 27B. More validation is needed…"
+  },
+  "https://openai.com/index/combatting-adversarial-distillation": {
+   "title": "Combatting adversarial distillation",
+   "desc": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-11-20T00:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/hebbia": {
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "desc": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+   "published": "2026-08-10T12:00:00+00:00"
   }
  },
  "pending": [
   {
-   "id": "048307fe18e56f2d",
+   "id": "46bb805ec67e903d",
    "item": {
-    "id": "048307fe18e56f2d",
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
-    "published": "2026-11-20T10:30:00+00:00",
+    "id": "46bb805ec67e903d",
+    "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+    "source": "The New York Times",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
+    "snippet": "President Trump raised the prospect of imposing “tremendous penalties” on companies that tried to build data centers outside the United States.",
+    "published": "2026-11-20T18:51:22+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "63630b509bb617e0",
+     "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+     "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "image": "",
+     "snippet": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
+     "published": "2026-11-20T20:17:29+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "3a0cb236fd3220da",
+     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+     "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+     "published": "2026-11-20T18:50:19+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "3505a492be43cead",
+     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+     "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+     "published": "2026-11-20T20:47:58+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Trump threatens tax on US tech data centers built abroad",
+   "post": "US President Donald Trump stated he would impose taxes on domestic technology companies that build AI data centers outside the United States, citing efforts to keep AI infrastructure domestic.",
+   "editor_note": "Confirm if any executive order or formal policy document accompanied the public statement.",
+   "support": 0.87,
+   "published_at": "2026-11-20T18:50:19+00:00",
+   "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
+   "expires_at": "2026-11-22T06:50:19+00:00",
+   "decision": 2.54,
+   "priority": 7.672102,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "381edecba3edcbb4",
+   "item": {
+    "id": "381edecba3edcbb4",
+    "title": "Cognition in Talks for $75 Billion Value With New Funding",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter.",
+    "published": "2026-11-20T20:47:55+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
-   "urgency": "routine",
-   "headline": "OpenAI models help AMD improve GPU design",
-   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
-   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
-   "support": 0.75,
-   "published_at": "2026-11-20T10:30:00+00:00",
-   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
-   "expires_at": "2026-11-21T22:30:00+00:00",
-   "decision": 1.84,
-   "priority": 7.335585,
-   "selection_reason": "Editorial importance; waiting 6.5h"
-  },
-  {
-   "id": "9556d208d7730f5a",
-   "item": {
-    "id": "9556d208d7730f5a",
-    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
-    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
-    "published": "2026-11-18T17:05:50+00:00",
-    "trend": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
-   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
-   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
-   "support": 0.9,
-   "published_at": "2026-11-18T17:05:50+00:00",
-   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
-   "expires_at": "2026-11-25T17:05:50+00:00",
-   "decision": 1.11,
-   "priority": 7.334131,
-   "selection_reason": "Editorial importance; waiting 35.5h"
+   "urgency": "timely",
+   "headline": "Cognition AI in talks for $75 billion valuation",
+   "post": "AI coding startup Cognition AI is in talks to raise new funding at a $75 billion valuation, according to Bloomberg reporting, coming two months after its previous financing round.",
+   "editor_note": "Check if specific lead investors or total round size are confirmed by the company.",
+   "support": 0.95,
+   "published_at": "2026-11-20T20:47:55+00:00",
+   "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
+   "expires_at": "2026-11-22T08:47:55+00:00",
+   "decision": 2.1,
+   "priority": 7.57988,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "74ce162468414800",
@@ -4010,67 +4089,36 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.28041,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.478303,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
-   "id": "4920d00e28ac4511",
+   "id": "048307fe18e56f2d",
    "item": {
-    "id": "4920d00e28ac4511",
-    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-    "url": "https://arxiv.org/abs/2611.22115",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
-    "published": "2026-11-18T00:00:00+00:00",
-    "upvotes": 84,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
+    "id": "048307fe18e56f2d",
+    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+    "snippet": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a …",
+    "published": "2026-11-20T10:30:00+00:00",
     "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
-   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
-   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
-   "support": 0.97,
-   "published_at": "2026-11-18T00:00:00+00:00",
-   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
-   "expires_at": "2026-11-22T00:00:00+00:00",
-   "decision": 1.52,
-   "priority": 7.0783,
-   "selection_reason": "Editorial importance; waiting 59.0h"
-  },
-  {
-   "id": "e89d2657aca67cef",
-   "item": {
-    "id": "e89d2657aca67cef",
-    "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-    "url": "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。 Perplexity 这次直接改了模型处理判断任务的方式： 同一份上下文可以同时交给多个问题使用，模型只需进行一次前向传播，就能输出各个问题的答案概率。 过去需要反复调用 LLM、生成文本、解析结果的流程，现在可以收敛到一次模型计算中。 为了让多个问题共享计算时不互相干扰，Perplexity 还重新设计了 Attention 机制，让共享状态读取全部问题，同时限制问题之间直接交换信息。v1.3 进一步加入 Locate 能力，可以根据字段描述直接定位原文跨度，将判断与文本抽取整合进同一套架构。 这套模型已经进入 Perplexity 的生产系统。在一次内部安全审查中，它单日处理了 7000 个 Agent 会话，累计读取 10 亿 token，并推动 14 项规则修复。 从技术架构来看，Decider 有三个紧密关联的设计层次：输入端如何把共享上下文与独立问题组织在一起，注意力层如何控制不同问题的信息交互，训练与输出层又如何让同一套模型兼顾分类判断和文本定位。 其中，隔离式问题注意力改变了多任务共享计算的底层方式，也是理解整个 Decider 架构的关键切口。 01 一份上下文，承载多个判断任务 Decider 的输入其实是由共享状态（State）和若干问题块（Question）组成。Sta…",
-    "published": "2026-11-19T09:04:00+00:00",
-    "images": false,
     "category": "news",
-    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Perplexity releases Decider v1.3 judgment model",
-   "post": "Perplexity released Decider v1.3, an AI judgment model that evaluates multiple questions in a single forward pass using shared context and a modified attention mechanism.",
-   "editor_note": "Confirm the reported 91.6% accuracy on 63 classification tasks and cost comparison metrics.",
-   "support": 0.96,
-   "published_at": "2026-11-19T09:04:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T21:04:00+00:00",
-   "decision": 2.13,
-   "priority": 7.069541,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "headline": "OpenAI models help AMD improve GPU design",
+   "post": "OpenAI used GPT models to help AMD optimize the power, performance, and area of its upcoming flagship GPU design by 14%, according to Tom's Hardware.",
+   "editor_note": "Verify the specific GPU architecture optimized and whether the 14% PPA improvement was stated directly by AMD or OpenAI.",
+   "support": 0.75,
+   "published_at": "2026-11-20T10:30:00+00:00",
+   "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
+   "expires_at": "2026-11-21T22:30:00+00:00",
+   "decision": 1.84,
+   "priority": 7.457141,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4099,146 +4147,104 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.064106,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.418303,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
-   "id": "c13d075741cf194b",
+   "id": "9556d208d7730f5a",
    "item": {
-    "id": "c13d075741cf194b",
-    "title": "吴泳铭：平头哥三代GPU加速推进，正成为阿里全栈AI的支撑底座",
-    "url": "https://36kr.com/newsflashes/4076643044430981?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进，基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团内外部在模型训练、模型推理和Agentic任务上的工作负载，并成为推动AI营收增长的基础。吴泳铭表示，今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。千问已经在平头哥国产芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。",
-    "published": "2026-11-19T12:15:45+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
+    "id": "9556d208d7730f5a",
+    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
+    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
+    "published": "2026-11-18T17:05:50+00:00",
+    "trend": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
+    "images": true,
+    "category": "model",
+    "source_cap": 4
    },
    "related": [],
    "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba details PingTouGe AI chip roadmap and Qwen training",
-   "post": "Alibaba is training its next-generation Qwen models on in-house PingTouGe GPUs, CEO Eddie Wu stated. The Zhenwu M890 chip launched this year, with V900 and J900 models scheduled for mass production in 2027 and 2028.",
-   "editor_note": "Verify if Zhenwu M890, V900, and J900 GPU specifications or benchmark comparisons against external hardware were disclosed in the earnings call.",
-   "support": 0.92,
-   "published_at": "2026-11-19T12:15:45+00:00",
-   "first_seen_at": "2026-11-19T12:37:24.282971+00:00",
-   "expires_at": "2026-11-21T00:15:45+00:00",
-   "decision": 1.77,
-   "priority": 7.038314,
-   "selection_reason": "Editorial importance; waiting 28.5h"
+   "urgency": "routine",
+   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
+   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
+   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
+   "support": 0.9,
+   "published_at": "2026-11-18T17:05:50+00:00",
+   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
+   "expires_at": "2026-11-25T17:05:50+00:00",
+   "decision": 1.11,
+   "priority": 7.286514,
+   "selection_reason": "Editorial importance; waiting 43.5h"
   },
   {
-   "id": "5dd162ab8cb823d9",
+   "id": "0b39de03309f1175",
    "item": {
-    "id": "5dd162ab8cb823d9",
-    "title": "Alibaba’s AI bet paying off as cloud services drive 10% revenue jump",
-    "url": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/37c9cc17-7798-480e-8f92-8904b0a2f031_ccd954c8.jpg?itok=-bY2ETfJ&v=1795086020",
-    "snippet": "Alibaba Group Holding’s external recurring revenue tied to AI cloud and computing surged 67 per cent during the quarter ended September 30, lifting total revenue 10 per cent to a better-than-expected 271.5 billion yuan (US$40.5 billion) as the company doubles down on full-stack AI capabilities. The tech and e-commerce giant’s AI Cloud and Compute Services segment, comprising its cloud computing bu…",
-    "published": "2026-11-19T11:00:22+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
+    "id": "0b39de03309f1175",
+    "title": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
+    "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+    "source": "METR",
+    "image": "",
+    "snippet": "Contents Overview 1 Background 2 Methodology 3 Results 4 Robustness Checks 5 Discussion 6 Acknowledgments Appendices A Difficulty Estimation and Baselining B Time Horizon Diagnostics C MCI Modelling Methodology D Limitations of IRT E MCI Robustness Checks F Estimating Lifecycle Cost for Tasks G Data Integrity and Reward Hacking H Changes in Capability Growth Rates I Inference Scaling J Swarm Experiments K Al Zimmermann's Programming Contests L Budget NanoGPT M Making METR tasks N Earthborne Rangers and Continual Learning O Qualitative and External Evidence on Models’ Strengths and Limitations Overview This post presents evidence from our capability evaluations of public models relevant to AI R&D acceleration, up to Opus 5.5 and GPT-6 Astra. We remain significantly uncertain about central questions, including (1) what capabilities are in practice necessary for drastic acceleration, and (2) how quickly relevant model capabilities are improving. We think that current public evidence is insufficient to rule out drastic AI R&D acceleration in the next couple of years. By drastic AI R&D acceleration we mean a situation where capabilities improve so quickly that humans are no longer able to meaningfully understand, assess, and react to catastrophic risks posed by new AI systems. This overview summarizes our main takeaways and their relevant sections within the post. 1 Background describes our motivation and aims, and how our thinking about capability evaluations has changed since the release of the original time horizons paper . 2 Methodology describes the different task sets used…",
+    "published": "2026-11-20T08:00:00+00:00",
+    "images": false,
+    "category": "research",
+    "source_cap": 2
    },
    "related": [
     {
-     "id": "bfe9363152c3e805",
-     "title": "Alibaba Earnings Rebound Sharply as AI Profitability Improves",
-     "url": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?mod=rss_Technology",
-     "source": "The Wall Street Journal",
-     "image": "https://images.wsj.net/im-58127699",
-     "snippet": "Alibaba Group recorded a surge in fiscal second-quarter profit as its AI profitability and e-commerce business improved.",
-     "published": "2026-11-19T10:38:00+00:00",
+     "id": "2fdd7a0916ab501f",
+     "title": "The most misunderstood graph in AI just got a major update",
+     "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+     "source": "MIT Technology Review",
+     "image": "",
+     "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+     "published": "2026-11-20T18:15:15+00:00",
      "images": true,
      "category": "news",
      "source_cap": 3
     },
     {
-     "id": "a9ee9723453f9960",
-     "title": "吴泳铭：阿里巴巴2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变",
-     "url": "https://36kr.com/newsflashes/4076644027290761?f=rss",
-     "source": "36Kr",
+     "id": "7f85d104927becc3",
+     "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+     "url": "https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds",
+     "source": "The Information",
      "image": "",
-     "snippet": "36氪获悉，11月19日，在阿里巴巴2027财年第二季度财报分析师电话会上，集团CEO吴泳铭表示，综合各因素影响，阿里巴巴2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变。本季度，阿里云外部经常性收入同比增长67%，经调整EBITA同比增长121%，EBITA利润率提升至14.5%。AI相关产品季度收入179.18亿元人民币，在阿里云外部经常性收入中的占比达到49%，AI相关产品年化收入超100亿美元。收入的强劲增长反映了各行业领域客户的强劲需求，包括大型国央企、智能制造、汽车行业、具身智能和生物科技等行业的企业。",
-     "published": "2026-11-19T12:16:45+00:00",
-     "images": false,
+     "snippet": "AI nonprofit METR said Friday it found that recent AI models, including OpenAI’s GPT-6 Astra, are able to complete tasks that would take a human around a full work week to do. AI capabilities have continued doubling every 3.6 months, METR said. METR’s time horizon measurement, which tracks AI ...",
+     "published": "2026-11-20T18:00:44+00:00",
+     "images": true,
      "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    },
-    {
-     "id": "ee3cf1a9435226b0",
-     "title": "阿里云外部收入增长64%，增速创近六年新高",
-     "url": "https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html",
-     "source": "LeiPhone",
-     "image": "",
-     "snippet": "11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。",
-     "published": "2026-11-19T10:15:00+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
      "source_cap": 3
     }
    ],
    "importance": 7,
-   "urgency": "timely",
-   "headline": "Alibaba reports AI cloud revenue growth",
-   "post": "Alibaba Group reported a 67 percent surge in external recurring revenue tied to AI cloud and computing during the quarter ended September 30, lifting total revenue 10 percent.",
-   "editor_note": "Check exact phrasing of the AI cloud revenue growth figure against the official earnings release.",
-   "support": 0.96,
-   "published_at": "2026-11-19T10:15:00+00:00",
-   "first_seen_at": "2026-11-19T11:07:22.417173+00:00",
-   "expires_at": "2026-11-20T22:15:00+00:00",
-   "decision": 1.73,
-   "priority": 6.969078,
-   "selection_reason": "Editorial importance; waiting 30.0h"
+   "urgency": "routine",
+   "headline": "METR updates AI R&D capability evaluations",
+   "post": "AI evaluation organization METR updated its capability benchmarks, reporting that recent models including OpenAI's GPT-6 Astra can complete complex tasks taking up to a full work week for humans.",
+   "editor_note": "Verify the exact methodology and task breakdown used in METR's updated time-horizon model.",
+   "support": 0.92,
+   "published_at": "2026-11-20T08:00:00+00:00",
+   "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
+   "expires_at": "2026-11-24T08:00:00+00:00",
+   "decision": 2.15,
+   "priority": 7.038303,
+   "selection_reason": "Editorial importance"
   },
   {
-   "id": "db250979562e999a",
+   "id": "4920d00e28ac4511",
    "item": {
-    "id": "db250979562e999a",
-    "title": "31位合伙人等间接入股DeepSeek",
-    "url": "https://36kr.com/newsflashes/4076432878474113?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，天眼查App显示，近日，DeepSeek关联公司杭州深度求索人工智能基础技术研究有限公司发生工商变更，新增杭州程砚企业管理咨询合伙企业（有限合伙）为股东，同时，注册资本由约1645万元人民币增至约1992万元人民币，增幅约21%。值得一提的是，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增吉利旗下浙江吉利产投控股有限公司、网易旗下杭州雷火万相科技有限责任公司、美的投资有限公司等31位合伙人。",
-    "published": "2026-11-19T08:41:57+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "31 corporate partners take indirect stake in DeepSeek",
-   "post": "DeepSeek's main operating entity increased its registered capital by 21% to 19.92 million yuan as a holding partnership added 31 partners, including affiliates of Geely, NetEase, and Midea.",
-   "editor_note": "Verify the exact equity percentage held by Hangzhou ChengYan in DeepSeek following the corporate filing update.",
-   "support": 0.84,
-   "published_at": "2026-11-19T08:41:57+00:00",
-   "first_seen_at": "2026-11-19T09:07:24.974402+00:00",
-   "expires_at": "2026-11-20T20:41:57+00:00",
-   "decision": 1.84,
-   "priority": 6.962666,
-   "selection_reason": "Editorial importance; waiting 32.0h"
-  },
-  {
-   "id": "753f1faf81d05f31",
-   "item": {
-    "id": "753f1faf81d05f31",
-    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-    "url": "https://arxiv.org/abs/2611.21003",
+    "id": "4920d00e28ac4511",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "url": "https://arxiv.org/abs/2611.22115",
     "source": "Hugging Face Papers",
     "kind": "paper",
-    "snippet": "Lab: Institute of Foundation Models. Upvotes: 21. Abstract: We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and infrastructure code, notably our production-scale xLLM framework for dense and MoE training and the RL360 reinforcement-learning stack. Beyond the data itself, we release and document in detail every pipeline that built it, the part of model development that open releases most rarely disclose. These pipelines produced roughly 10T synthetic pre-training tokens, showing that synthetic data can be a major ingredi…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 21,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21003.png",
+    "snippet": "Lab: XingChen-AGI. Upvotes: 84. Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform that connects execution, evaluation, and trajectory construction to policy optimization. Disaggregated asynchronous execution, bounded oversampling, and partial rollout accommodate heterogeneous task durations while preserving trajectory continuity across policy updates. Together, these advances establish an Ascend-oriented training foundation for the continued development of Xing 4 across model sc…",
+    "published": "2026-11-18T00:00:00+00:00",
+    "upvotes": 84,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.22115.png",
     "images": true,
     "category": "paper",
     "source_cap": 4
@@ -4246,143 +4252,19 @@
    "related": [],
    "importance": 7,
    "urgency": "routine",
-   "headline": "Institute of Foundation Models releases K2-Horizon open models",
-   "post": "Researchers at the Institute of Foundation Models released K2-Horizon, a fleet of six open language models ranging from 0.9B to 375B-A23B parameters, featuring Mixture-of-Value Attention and a production-scale xLLM framework.",
-   "editor_note": "Verify the model weights availability and license terms under LLM360 definitions.",
-   "support": 0.96,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:07:23.467199+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.92,
-   "priority": 6.961633,
-   "selection_reason": "Editorial importance; waiting 82.0h"
-  },
-  {
-   "id": "4bc4cadcc57b3185",
-   "item": {
-    "id": "4bc4cadcc57b3185",
-    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
-    "url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/19/disseqt-2026-11-19-13-49-33.png",
-    "snippet": "AI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland. The round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian…",
-    "published": "2026-11-19T08:26:38+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Disseqt AI raises 8 million dollars for AI governance",
-   "post": "AI governance startup Disseqt AI raised $8 million in pre-Series A funding led by Gresham House Ventures. Former Indian cricket captain Rahul Dravid and executives from OpenAI and Meta participated as angel investors.",
-   "editor_note": "Verify Disseqt AI headquarters location and full list of angel investors from official press release.",
-   "support": 0.83,
-   "published_at": "2026-11-19T08:26:38+00:00",
-   "first_seen_at": "2026-11-19T08:37:26.861287+00:00",
-   "expires_at": "2026-11-20T20:26:38+00:00",
-   "decision": 1.66,
-   "priority": 6.895575,
-   "selection_reason": "Editorial importance; waiting 32.5h"
-  },
-  {
-   "id": "e5ec3a5454a51090",
-   "item": {
-    "id": "e5ec3a5454a51090",
-    "title": "火山引擎上线豆包实时音视频通话模型API服务",
-    "url": "https://36kr.com/newsflashes/4076323154154632?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。",
-    "published": "2026-11-19T06:50:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Volcano Engine launches API for Doubao real-time audio-video model",
-   "post": "Volcano Engine launched the API service for SeedRealtime1.0, a real-time multimodal audio and video model. The end-to-end model unifies voice, video, and sequence processing to handle continuous inputs during live interactions.",
-   "editor_note": "Verify API pricing rates and regional availability for the SeedRealtime1.0 model on Volcano Engine.",
-   "support": 0.91,
-   "published_at": "2026-11-19T06:50:20+00:00",
-   "first_seen_at": "2026-11-19T07:07:22.128660+00:00",
-   "expires_at": "2026-11-20T18:50:20+00:00",
-   "decision": 1.76,
-   "priority": 6.884325,
-   "selection_reason": "Editorial importance; waiting 34.0h"
-  },
-  {
-   "id": "ec384d5ce78d49c6",
-   "item": {
-    "id": "ec384d5ce78d49c6",
-    "title": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and debt financing.",
-    "published": "2026-11-19T05:22:45+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "South Korea watchdog asks firms to report AI exposure",
-   "post": "South Korea's financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry amid growing concerns over investments and debt financing.",
-   "editor_note": "Verify if the disclosure requirement applies to all financial institutions or specific sectors.",
-   "support": 0.96,
-   "published_at": "2026-11-19T05:22:45+00:00",
-   "first_seen_at": "2026-11-19T06:07:23.026772+00:00",
-   "expires_at": "2026-11-20T17:22:45+00:00",
-   "decision": 1.67,
-   "priority": 6.813777,
-   "selection_reason": "Editorial importance; waiting 35.0h"
-  },
-  {
-   "id": "b023f8d7a176acb5",
-   "item": {
-    "id": "b023f8d7a176acb5",
-    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-    "url": "https://arxiv.org/abs/2611.19937",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Nanyang Technological University. Upvotes: 26. Abstract: Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL) that refines joint decisions using portfolio-level financial rewards and a frozen policy reference. On hourly cryptocurrency perpetual futures, RL refinement raises the annualized net return of the imitation policy from 27.79% to 51.38% and its Calmar ratio from 0.955 to 4.043, surpassing the teacher strategy on every metric, and AllocFlow reaches a Calmar ratio of 4.90 on six further months of unse…",
-    "published": "2026-11-17T00:00:00+00:00",
-    "upvotes": 26,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.19937.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nanyang Technological University researchers introduce AllocFlow",
-   "post": "Researchers at Nanyang Technological University introduced AllocFlow, an end-to-end flow-matching framework that generates joint portfolio allocations from raw multi-asset market histories.",
-   "editor_note": "Check the exact benchmark conditions and asset classes tested in the paper.",
+   "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
+   "post": "Researchers at XingChen-AGI introduced Xing 4, extending the TeleChat model series on domestic chips and frameworks. Their infrastructure uses MindSpore HyperParallel to support pretraining a 285-billion-parameter model on 8,192 Ascend 910C cards.",
+   "editor_note": "Check whether model weights or code are released publicly beyond the architectural and training systems report.",
    "support": 0.97,
-   "published_at": "2026-11-17T00:00:00+00:00",
-   "first_seen_at": "2026-11-17T07:37:24.209227+00:00",
-   "expires_at": "2026-11-21T00:00:00+00:00",
-   "decision": 1.28,
-   "priority": 6.7483,
-   "selection_reason": "Editorial importance; waiting 81.5h"
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
+   "expires_at": "2026-11-22T00:00:00+00:00",
+   "decision": 1.52,
+   "priority": 6.994969,
+   "selection_reason": "Editorial importance; waiting 67.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://36kr.com/newsflashes/4077871040926595?f=rss",
-   "source": "36Kr",
-   "kind": "takes",
-   "title": "国家网信办：9-10月新增133款生成式人工智能服务完成备案",
-   "summary": "36氪获悉，据国家网信办消息，2026年9月至10月，新增133款生成式人工智能服务在国家网信办完成备案，其中包括3款提供手机端侧生成式人工智能服务和1款提供拟人化互动生成式人工智能服务。1款生成式人工智能服务备案信息发生变更。对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增224款完成登记。截至10月31日，累计有1245款生成式人工智能服务完成备案，955款��成式人工智能应用或功能完成登记。",
-   "queued_at": "2026-11-20T17:07:23.512351+00:00"
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4619,614 +4501,16 @@
   "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html": "2026-11-20T15:10:27.040417+00:00",
   "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test": "2026-11-20T16:37:48.750287+00:00",
   "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others": "2026-11-20T17:08:08.909883+00:00",
-  "https://www.qbitai.com/2026/11/511722.html": "2026-11-20T17:08:08.909883+00:00"
+  "https://www.qbitai.com/2026/11/511722.html": "2026-11-20T17:08:08.909883+00:00",
+  "https://36kr.com/newsflashes/4077871040926595?f=rss": "2026-11-21T01:11:21.684174+00:00",
+  "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T01:11:21.684174+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 0
+  "takes": 2
  },
  "triage": {
-  "39669d2d6e5c60c1": {
-   "imp": 1.86,
-   "ai": 0.91,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "cf8487d746b197f8": {
-   "imp": 2.48,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "2225d2572d74c611": {
-   "imp": 2.86,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "939d9d8d8aae0fc5": {
-   "imp": 2.25,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "54870133dd92d7d7": {
-   "imp": 1.28,
-   "ai": 0.55,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "dcc6a3862c0e34d9": {
-   "imp": 0.72,
-   "ai": 0.88,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "8f73ef70a010f02b": {
-   "imp": 1.57,
-   "ai": 0.91,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "fddd91688ce47808": {
-   "imp": 0.31,
-   "ai": 0.48,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "09ddc5c37fef9833": {
-   "imp": 0.61,
-   "ai": 0.86,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "277433e2ade18b7d": {
-   "imp": 1.77,
-   "ai": 0.85,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "3403360ccc1df753": {
-   "imp": 2.28,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "3b869b1138e3a082": {
-   "imp": 1.16,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "d545fdc617b9aefd": {
-   "imp": 0.26,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "96892311de09e14b": {
-   "imp": 1.9,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "4e2810e47ea31ac4": {
-   "imp": 2.31,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "82d9be95873a98db": {
-   "imp": 1.28,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "fc0f425d4885ad33": {
-   "imp": 1.76,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "92467d3f16d5f88c": {
-   "imp": 2.27,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "875637b2c34d1326": {
-   "imp": 2.26,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "d3c21aad125298df": {
-   "imp": 1.41,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "3903c89c61e50edc": {
-   "imp": 2.19,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "5c8a7e2ce9e472f4": {
-   "imp": 2.06,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "322f998ba4d6dbd2": {
-   "imp": 1.67,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "d1b4a114799fe3c5": {
-   "imp": 1.99,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "e94b957965237b81": {
-   "imp": 1.62,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "b5b1e8f149e47936": {
-   "imp": 1.46,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "a67e1509e9c05d5d": {
-   "imp": 2.37,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "81bcb5c122b27570": {
-   "imp": 1.7,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "b9523f8187fa60d5": {
-   "imp": 1.94,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "860631918f65ec73": {
-   "imp": 1.78,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "6b6531993c1a1870": {
-   "imp": 0.84,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "f46b17bdb27d07e8": {
-   "imp": 2.34,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "ffce7db4127cd4d8": {
-   "imp": 1.23,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "612401c52da0f6c9": {
-   "imp": 2.6,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "c88537f3a56d1457": {
-   "imp": 1.67,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "4d9244537a2033a7": {
-   "imp": 2.21,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "6eff6376874dc0bd": {
-   "imp": 2.52,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "009ee185716782c0": {
-   "imp": 2.61,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "c96368c31afcbd2b": {
-   "imp": 2.56,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "58deace3ef1c5948": {
-   "imp": 2.59,
-   "ai": 0.94,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "6f7ba87cad700bc3": {
-   "imp": 1.74,
-   "ai": 0.95,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "71f35087caf18cb8": {
-   "imp": 1.16,
-   "ai": 0.43,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "fbfd861083374789": {
-   "imp": 1.52,
-   "ai": 0.69,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "a8b643eb64fbed24": {
-   "imp": 2.06,
-   "ai": 0.97,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "79c16b53a36c2763": {
-   "imp": 1.33,
-   "ai": 0.73,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "b90cea4a1abbbfe6": {
-   "imp": 1.84,
-   "ai": 0.96,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "932c4e0c545706dc": {
-   "imp": 2.73,
-   "ai": 0.95,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "c7ec460d59c7cc18": {
-   "imp": 1.44,
-   "ai": 0.8,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "55c82808e34dc93d": {
-   "imp": 2.24,
-   "ai": 0.9,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "8f26722d3a932fa4": {
-   "imp": 1.93,
-   "ai": 0.89,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "45b6309038794b93": {
-   "imp": 0.43,
-   "ai": 0.53,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "7061f07c1bf28910": {
-   "imp": 2.18,
-   "ai": 0.94,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "7898c60f7b7ca9b2": {
-   "imp": 2.76,
-   "ai": 0.92,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "7e974c010eef03d3": {
-   "imp": 2.3,
-   "ai": 0.91,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "96ecb0d7004865d1": {
-   "imp": 2.03,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "e1047eb6c971032c": {
-   "imp": 1.95,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "8d17049a8b3cbd55": {
-   "imp": 1.84,
-   "ai": 0.86,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "21b2303c71d92874": {
-   "imp": 2.24,
-   "ai": 0.95,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "63198f51e4193ee6": {
-   "imp": 1.26,
-   "ai": 0.84,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "213455771f2f796d": {
-   "imp": 2.02,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1473b27afe9e2e21": {
-   "imp": 1.79,
-   "ai": 0.9,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "99fc1b1648d4d4c6": {
-   "imp": 1.54,
-   "ai": 0.92,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "299426b57f035bea": {
-   "imp": 2.0,
-   "ai": 0.88,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "564a7b5e35d6d5dc": {
-   "imp": 1.46,
-   "ai": 0.88,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "ca82d66df2f2d887": {
-   "imp": 1.53,
-   "ai": 0.69,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "472966db1225e4ef": {
-   "imp": 1.7,
-   "ai": 0.78,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1cee8f9d3f505b5c": {
-   "imp": 0.84,
-   "ai": 0.6,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "c258cbe85444e52c": {
-   "imp": 2.34,
-   "ai": 0.85,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "28f618273b47e60b": {
-   "imp": 0.9,
-   "ai": 0.71,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "30f2c6ff0af617b5": {
-   "imp": 1.96,
-   "ai": 0.89,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "86fdf0954cc3c31a": {
-   "imp": 1.68,
-   "ai": 0.94,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1525d94728858b36": {
-   "imp": 2.28,
-   "ai": 0.92,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "9bab9cc4033ad7ed": {
-   "imp": 1.61,
-   "ai": 0.93,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "eca8a0a2b39e18f8": {
-   "imp": 2.39,
-   "ai": 0.92,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "2f41e43f638f55f5": {
-   "imp": 2.62,
-   "ai": 0.89,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "484503c1e22b4073": {
-   "imp": 2.08,
-   "ai": 0.77,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "af86e61fe4ce47cc": {
-   "imp": 2.16,
-   "ai": 0.96,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "c8f0355be83c6230": {
-   "imp": 1.74,
-   "ai": 0.96,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "015c7999f22912f5": {
-   "imp": 2.25,
-   "ai": 0.68,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "573f99d9a84503e6": {
-   "imp": 1.38,
-   "ai": 0.86,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "d7090ffe324cd52f": {
-   "imp": 1.32,
-   "ai": 0.89,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "757b78ff49801829": {
-   "imp": 1.62,
-   "ai": 0.91,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "3b41e4bb2fab8630": {
-   "imp": 1.11,
-   "ai": 0.56,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "ea1e386c86108287": {
-   "imp": 0.77,
-   "ai": 0.81,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1bc71044618e4e68": {
-   "imp": 1.42,
-   "ai": 0.85,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "69cd15cf9b5b415e": {
-   "imp": 2.28,
-   "ai": 0.81,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "0d3ca999f192c802": {
-   "imp": 2.7,
-   "ai": 0.91,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "5b0f73df89a6e310": {
-   "imp": 0.83,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "90d79223706ea3ab": {
-   "imp": 0.63,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "a8d5fa7d24b3647f": {
-   "imp": 2.42,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "ad614f81e42f72e5": {
-   "imp": 2.37,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "a88bddb17214a029": {
-   "imp": 1.25,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "9f0b516152c12ca0": {
-   "imp": 1.45,
-   "ai": 0.96,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "21ab7432dba474e0": {
-   "imp": 1.66,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "05f1e3cef6173c85": {
-   "imp": 1.11,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "08bf69a226db6a3e": {
-   "imp": 0.35,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "ec886a92fa12a05a": {
-   "imp": 1.29,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "cb86ca9a5a41005e": {
-   "imp": 1.12,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "e9b2308e4ac312d9": {
-   "imp": 0.9,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "c8c5dc29297d2e3d": {
-   "imp": 1.06,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "4e46e49750fb65fe": {
-   "imp": 1.07,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "83054ecb029e1c53": {
-   "imp": 0.86,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "85bacafff42444d7": {
-   "imp": 1.36,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "7ca0fec9fce8c54e": {
-   "imp": 1.47,
-   "ai": null,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "917201068ee816e1": {
-   "imp": 2.61,
-   "ai": 0.96,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "89a9e0787008d2a2": {
-   "imp": 0.7,
-   "ai": 0.16,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1dd8f2cf95ac6547": {
-   "imp": 0.22,
-   "ai": 0.35,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1fc75bf672a29fb9": {
-   "imp": 1.04,
-   "ai": 0.68,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "fba0097cc359f8b6": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "06a699fa5ce9b0b3": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "0ec957af4a42a969": {
-   "imp": 0.22,
-   "ai": 0.07,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "f4059a9375b608ad": {
-   "imp": 1.31,
-   "ai": 0.34,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "7d2193d80fc41cdc": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "4e27b3821dd11593": {
-   "imp": 0.27,
-   "ai": 0.06,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "1f91ff92de3f0640": {
-   "imp": 0.27,
-   "ai": 0.05,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "642026de4eb8cc0c": {
-   "imp": 1.89,
-   "ai": 0.77,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "d29d43d990e24726": {
-   "imp": 0.4,
-   "ai": 0.13,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "eb63d82c8694274c": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "24372cf4e5e1258b": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
-  "7149d9ce5bd53c93": {
-   "imp": 0.19,
-   "ai": 0.05,
-   "ts": "2026-11-13T01:07:24.343628+00:00"
-  },
   "ce66f14179283fa2": {
    "imp": 0.68,
    "ai": 0.46,
@@ -26766,6 +26050,511 @@
    "imp": 0.04,
    "ai": 0.01,
    "ts": "2026-11-20T17:07:23.512351+00:00"
+  },
+  "a7362ff86af85ab0": {
+   "imp": 2.25,
+   "ai": 0.89,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "eed162aceff54a87": {
+   "imp": 2.51,
+   "ai": 0.96,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "22bdaccab59660bb": {
+   "imp": 1.96,
+   "ai": 0.93,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "f0e744e27a76e434": {
+   "imp": 1.12,
+   "ai": 0.92,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b678fafade2efcfd": {
+   "imp": 1.4,
+   "ai": 0.96,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "3a0cb236fd3220da": {
+   "imp": 2.35,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "859ee3ec8c206bcf": {
+   "imp": 2.39,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "59fa562eab8a38b3": {
+   "imp": 1.25,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "321bf9e3c390a636": {
+   "imp": 2.19,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e43240c9ae66c70f": {
+   "imp": 0.87,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "2fdd7a0916ab501f": {
+   "imp": 1.87,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "4d6c192ff8628768": {
+   "imp": 1.82,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "8bc8fed2fbe62d07": {
+   "imp": 1.71,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "6e086317ffb3ab4e": {
+   "imp": 1.81,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "fa46f89efa1b67fb": {
+   "imp": 0.11,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "5c429be098263f30": {
+   "imp": 2.34,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "08401912b13f330b": {
+   "imp": 1.7,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "38136cf0c41628e4": {
+   "imp": 1.71,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "bc5933ad429c9c37": {
+   "imp": 1.89,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "a48cf524d8c75887": {
+   "imp": 0.42,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e4ae2b37811f9a19": {
+   "imp": 2.73,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "37d5148415e89393": {
+   "imp": 2.68,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "979b606d52ee0623": {
+   "imp": 2.36,
+   "ai": 0.95,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b12c3174163e17af": {
+   "imp": 0.27,
+   "ai": 0.09,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "977b9b813a947740": {
+   "imp": 1.01,
+   "ai": 0.79,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "a65229658b0f4c96": {
+   "imp": 1.55,
+   "ai": 0.88,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "c2e97ef0fb22654a": {
+   "imp": 0.96,
+   "ai": 0.85,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "381edecba3edcbb4": {
+   "imp": 2.1,
+   "ai": 0.99,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "58764497099b9f22": {
+   "imp": 1.09,
+   "ai": 0.61,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "ec2fa3df44f3a012": {
+   "imp": 1.81,
+   "ai": 0.8,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "f4c9de1f321919cc": {
+   "imp": 1.27,
+   "ai": 0.96,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "8f50e13d65283861": {
+   "imp": 2.32,
+   "ai": 0.94,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "fa1e0f717c7e6d47": {
+   "imp": 0.46,
+   "ai": 0.37,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "448352dfcd272916": {
+   "imp": 2.36,
+   "ai": 0.87,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "6eb83dcfe68d7e65": {
+   "imp": 2.3,
+   "ai": 0.92,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "63630b509bb617e0": {
+   "imp": 2.54,
+   "ai": 0.95,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "cd7b12b990062c3f": {
+   "imp": 2.41,
+   "ai": 0.91,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b2f5f8ade58fcee1": {
+   "imp": 0.99,
+   "ai": 0.46,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "62d012cbeab27c20": {
+   "imp": 2.19,
+   "ai": 0.88,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "dc970c88db822a52": {
+   "imp": 2.26,
+   "ai": 0.89,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "d8f37fc4bf480ab5": {
+   "imp": 2.24,
+   "ai": 0.92,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "d45d2ceaae062af9": {
+   "imp": 2.38,
+   "ai": 0.93,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b28267594d6a81d2": {
+   "imp": 2.32,
+   "ai": 0.91,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "737ce34a69d08c07": {
+   "imp": 2.4,
+   "ai": 0.91,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "13e9f943557aed6d": {
+   "imp": 1.4,
+   "ai": 0.65,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "bc11d8df3d08d01a": {
+   "imp": 2.08,
+   "ai": 0.92,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "df150758ee17f372": {
+   "imp": 1.72,
+   "ai": 0.89,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "7f85d104927becc3": {
+   "imp": 2.15,
+   "ai": 0.98,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "15da6cf3d0e2c799": {
+   "imp": 2.49,
+   "ai": 0.96,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e7e982d925ba9fe4": {
+   "imp": 1.06,
+   "ai": 0.32,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "cd3a5ef04e7d2070": {
+   "imp": 2.33,
+   "ai": 0.92,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "7257b1efbab09d7c": {
+   "imp": 2.41,
+   "ai": 0.95,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "3ea993db7e3c60d1": {
+   "imp": 1.38,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "d15c45643214b444": {
+   "imp": 1.43,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "f4784c30400364a2": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "80d31a6dee298bbd": {
+   "imp": 1.44,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "0c4b2dda30dcaea5": {
+   "imp": 1.11,
+   "ai": 0.86,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "81ce5b24dd897b42": {
+   "imp": 1.28,
+   "ai": 0.37,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "2ef902c4582a1ae8": {
+   "imp": 0.99,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "d0d32febab120944": {
+   "imp": 0.34,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e8758b64c9e8fb27": {
+   "imp": 0.95,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "52c6915bc7b511ec": {
+   "imp": 0.76,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "3628ce26a7979362": {
+   "imp": 0.98,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e1b0c4ede4d1eb3f": {
+   "imp": 1.13,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "668baa710142dd51": {
+   "imp": 1.04,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "5259c7996b79c471": {
+   "imp": 1.18,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "dc26abff63441211": {
+   "imp": 1.22,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e9ec780811f7fd6e": {
+   "imp": 1.15,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "4ed936ba5e6387e8": {
+   "imp": 1.62,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "0b39de03309f1175": {
+   "imp": 1.8,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "565159543ba42dea": {
+   "imp": 1.45,
+   "ai": 0.95,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "4e4568214c6d8dc5": {
+   "imp": 1.51,
+   "ai": null,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "ad81317a340af6e1": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "46bb805ec67e903d": {
+   "imp": 2.32,
+   "ai": 0.86,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "2b5405f061e9e037": {
+   "imp": 0.2,
+   "ai": 0.08,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "7e4aba8ae1e5144f": {
+   "imp": 1.91,
+   "ai": 0.58,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "a5573bca16d1aa60": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "38176a5a2809db42": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "db762ed4106ffd43": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "4ad44afae5e6da09": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b1832cfde8e767d3": {
+   "imp": 0.24,
+   "ai": 0.04,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "1846bb22396089e8": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "bf871e2f84d7f04c": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "120ff18d4fdde4b7": {
+   "imp": 0.32,
+   "ai": 0.1,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "148dd4b9dc37c785": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e140f732019d2ac4": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "3505a492be43cead": {
+   "imp": 2.27,
+   "ai": 0.83,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "dea4a3e6ce3662c2": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "3b5de6c271356afd": {
+   "imp": 2.19,
+   "ai": 0.8,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b678f90cc489eb0d": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "c1e3a10d4a9ee219": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "5776d011232060f5": {
+   "imp": 1.81,
+   "ai": 0.34,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "ec119e27172b078a": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "0e194227178496d8": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "403116a1f4cd02ae": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "25954b66fed82217": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "a6457154484ab15b": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "e3980d1c22f0a1f7": {
+   "imp": 0.27,
+   "ai": 0.13,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "a8dcfa6f09c0a9c2": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "8d7619c566186bf6": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "c3ae152f099a2fef": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-21T01:07:22.568138+00:00"
   }
  }
 }
