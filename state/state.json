@@ -1,6 +1,5 @@
 {
  "seen": {
-  "6a6b6e0dbaec40e4": "2026-11-14T06:07:22.110734+00:00",
   "b777df82a2fc519c": "2026-11-14T06:37:23.193506+00:00",
   "474e62a1978c0ab4": "2026-11-14T06:37:23.193506+00:00",
   "612bf752e94b80db": "2026-11-14T07:07:23.451693+00:00",
@@ -1808,13 +1807,14 @@
   "d15ef084c8b0d15a": "2026-11-21T05:07:21.248258+00:00",
   "839edfdded9a46f2": "2026-11-21T05:37:22.374497+00:00",
   "639f3e5367578722": "2026-11-21T05:37:22.374497+00:00",
-  "c9ed8520d56f273a": "2026-11-21T05:37:22.374497+00:00"
+  "c9ed8520d56f273a": "2026-11-21T05:37:22.374497+00:00",
+  "b1af0fb93fcd3d24": "2026-11-21T06:07:31.609484+00:00",
+  "00ee960a19dfa6c5": "2026-11-21T06:07:31.609484+00:00",
+  "3bd15573705779b6": "2026-11-21T06:07:31.609484+00:00",
+  "d62148dfdde643e6": "2026-11-21T06:07:31.609484+00:00",
+  "e201ea2c78cdb255": "2026-11-21T06:07:31.609484+00:00"
  },
  "covered": [
-  {
-   "headline": "Infiforce raises tens of millions in Pre-B round",
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
   {
    "headline": "Siemens launches Eigen Engineering Agent in India",
    "ts": "2026-11-19T06:37:26.587502+00:00"
@@ -2046,11 +2046,15 @@
   {
    "headline": "Kavak releases Kling Image 4.0 with 8K native resolution",
    "ts": "2026-11-21T05:37:22.374497+00:00"
+  },
+  {
+   "headline": "Tencent introduces WeVisForensics agent for AI video detection",
+   "ts": "2026-11-21T06:07:31.609484+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3980,36 +3984,6 @@
  },
  "pending": [
   {
-   "id": "e201ea2c78cdb255",
-   "item": {
-    "id": "e201ea2c78cdb255",
-    "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
-    "url": "https://arxiv.org/abs/2611.21373",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Tencent. Upvotes: 36. Abstract: Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibility in selecting relevant inspections. Even with adaptive investigation, optimizing the investigation policy alone does not directly improve the forensic capabilities of fixed experts. We introduce WeVisForensics, an agentic framework in which a main investigator agent coordinates a self-evolving library of forensic inspector sub-agents spanning visual and audio cues. The investigator learns which artifact type to examine, over which window, and when to conclude, and these interactions provide shared feedback for both levels of agents. Our dual-timescale policy optimization strategy, DTPO, closes this loop through fast reinforcement learning of the investigator and slower refinement of the inspectors, guided by annotated artifact intervals, to report subtle artifacts they once dismissed. Furthermore, we curate ForenCue-30K, combining role-specific forensic annotations and interaction trajectories to supervise individual inspections and their coordination, with an accompanying reinforcement-learning pool. Experiments show that WeVisForensics averages 95.2% detection accuracy across in-domain, out-of-domain and agentic benchmarks, 9.0% above the strongest prior detector, while groundi…",
-    "published": "2026-11-20T00:00:00+00:00",
-    "upvotes": 36,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.21373.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Tencent introduces WeVisForensics agent for AI video detection",
-   "post": "Researchers at Tencent introduced WeVisForensics, an agentic framework designed to detect AI-generated video and audio. The system achieved 95.2% average detection accuracy across benchmarks, 9 percentage points above prior detectors.",
-   "editor_note": "Verify benchmark conditions and baseline detectors used for comparison in the WeVisForensics paper.",
-   "support": 0.92,
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
-   "expires_at": "2026-11-24T00:00:00+00:00",
-   "decision": 1.29,
-   "priority": 7.371428,
-   "selection_reason": "Editorial importance; waiting 17.5h"
-  },
-  {
    "id": "048307fe18e56f2d",
    "item": {
     "id": "048307fe18e56f2d",
@@ -4034,8 +4008,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.332142,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.318182,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4087,8 +4061,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.272675,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.29885,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4117,8 +4091,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.259728,
-   "selection_reason": "Editorial importance; waiting 48.0h"
+   "priority": 7.256737,
+   "selection_reason": "Editorial importance; waiting 48.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4147,8 +4121,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.948095,
-   "selection_reason": "Editorial importance; waiting 71.5h"
+   "priority": 6.94286,
+   "selection_reason": "Editorial importance; waiting 72.0h"
   }
  ],
  "details_queue": [],
@@ -4399,89 +4373,15 @@
   "https://36kr.com/newsflashes/4078896115241859?f=rss": "2026-11-21T04:10:11.935213+00:00",
   "https://arxiv.org/abs/2611.26409": "2026-11-21T04:37:55.374825+00:00",
   "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms": "2026-11-21T05:09:19.371257+00:00",
-  "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": "2026-11-21T05:39:24.851560+00:00"
+  "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": "2026-11-21T05:39:24.851560+00:00",
+  "https://arxiv.org/abs/2611.21373": "2026-11-21T06:07:57.427571+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
-  "8ea144c295d40aeb": {
-   "imp": 1.92,
-   "ai": 0.83,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "294c246e7e16ea99": {
-   "imp": 1.83,
-   "ai": 0.92,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "83c41a9c2e6b4b3c": {
-   "imp": 1.86,
-   "ai": 0.52,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "4cd725602f286286": {
-   "imp": 1.1,
-   "ai": 0.91,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "9ed9d9b7515122da": {
-   "imp": 2.12,
-   "ai": 0.92,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "f994a479cb3d5341": {
-   "imp": 1.89,
-   "ai": 0.89,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "7586615b2cc9ce9c": {
-   "imp": 0.53,
-   "ai": 0.09,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "60e98b6bb983174e": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "a56a652b61899213": {
-   "imp": 0.27,
-   "ai": 0.03,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "cb08b5c9f5a15d9f": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "632e48e9a2477bac": {
-   "imp": 0.1,
-   "ai": 0.08,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "dac6ec8ad2a5d158": {
-   "imp": 0.31,
-   "ai": 0.06,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "e320dda163dcd75b": {
-   "imp": 0.1,
-   "ai": 0.05,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "5394b93b79e29a88": {
-   "imp": 0.55,
-   "ai": 0.23,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
-  "0ff20b5a5b3e4c66": {
-   "imp": 0.28,
-   "ai": 0.1,
-   "ts": "2026-11-13T06:07:24.459882+00:00"
-  },
   "de06bec5ec8071c8": {
    "imp": 2.56,
    "ai": null,
@@ -25831,6 +25731,36 @@
    "imp": 1.01,
    "ai": 0.92,
    "ts": "2026-11-21T05:37:22.374497+00:00"
+  },
+  "3bd15573705779b6": {
+   "imp": 1.18,
+   "ai": null,
+   "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  "d62148dfdde643e6": {
+   "imp": 1.16,
+   "ai": 0.6,
+   "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  "00ee960a19dfa6c5": {
+   "imp": 2.34,
+   "ai": 0.94,
+   "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  "b1af0fb93fcd3d24": {
+   "imp": 2.26,
+   "ai": 0.93,
+   "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  "908b01e0d7ab71b4": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  "7122bc48b6efdfc5": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-21T06:07:31.609484+00:00"
   }
  }
 }
