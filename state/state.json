@@ -1,7 +1,5 @@
 {
  "seen": {
-  "1b43d5e72ff40806": "2026-11-14T11:07:20.872435+00:00",
-  "b236925dc8a57c24": "2026-11-14T11:07:20.872435+00:00",
   "938a8fdebfb42929": "2026-11-14T11:37:33.154953+00:00",
   "33d548fd74e3ba1e": "2026-11-14T11:37:33.154953+00:00",
   "88552ab6e5447fc4": "2026-11-14T11:37:33.154953+00:00",
@@ -1827,13 +1825,12 @@
   "9c9d1ed07e056c7c": "2026-11-21T10:37:21.512295+00:00",
   "d989f106912157a4": "2026-11-21T10:37:21.512295+00:00",
   "c05a7bf0b3ad2f7c": "2026-11-21T10:37:21.512295+00:00",
-  "101fc3518e5fa5d3": "2026-11-21T10:37:21.512295+00:00"
+  "101fc3518e5fa5d3": "2026-11-21T10:37:21.512295+00:00",
+  "003209cd0ab3a866": "2026-11-21T11:07:22.348012+00:00",
+  "263ea4d757a50252": "2026-11-21T11:07:22.348012+00:00",
+  "d82387dbcd38e0b7": "2026-11-21T11:07:22.348012+00:00"
  },
  "covered": [
-  {
-   "headline": "Deutsche Telekom fund invests 110 million in Mistral AI",
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
   {
    "headline": "Wadhwani AI and LinkedIn partner for SME training",
    "ts": "2026-11-19T11:37:23.655791+00:00"
@@ -2065,11 +2062,15 @@
   {
    "headline": "Thinking Machines releases Inkling 2 Mini model",
    "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  {
+   "headline": "Google commits five million dollars to IIT Kharagpur",
+   "ts": "2026-11-21T11:07:22.348012+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4029,34 +4030,6 @@
  },
  "pending": [
   {
-   "id": "d82387dbcd38e0b7",
-   "item": {
-    "id": "d82387dbcd38e0b7",
-    "title": "Google Commits $5 Mn To Sundar Pichai’s Alma Mater IIT Kharagpur",
-    "url": "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Google announced a commitment of $5 Mn in funding to IIT Kharagpur, the alma mater of CEO Sundar Pichai, to accelerate advanced artificial intelligence (AI) research, expand AI education and strengthen the institute’s technological capabilities. Announcing this, Pichai said the collaboration would help shape the next generation of students, adding that India was increasingly emerging as a hub for …",
-    "published": "2026-11-21T09:45:32+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Google commits five million dollars to IIT Kharagpur",
-   "post": "Google has committed five million dollars to IIT Kharagpur to advance artificial intelligence research, expand education, and strengthen the institute's technological capabilities.",
-   "editor_note": "Verify the exact allocation of the five million dollar grant across research and education programs.",
-   "support": 0.97,
-   "published_at": "2026-11-21T09:45:32+00:00",
-   "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
-   "expires_at": "2026-11-22T21:45:32+00:00",
-   "decision": 2.02,
-   "priority": 8.64934,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "93616a452aac08f9",
    "item": {
     "id": "93616a452aac08f9",
@@ -4081,8 +4054,8 @@
    "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
    "expires_at": "2026-11-22T21:27:01+00:00",
    "decision": 1.93,
-   "priority": 8.610768,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.628137,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "aa2df91a074af6a9",
@@ -4109,8 +4082,8 @@
    "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
    "expires_at": "2026-11-22T22:11:29+00:00",
    "decision": 1.78,
-   "priority": 7.581354,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.598723,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   }
  ],
  "details_queue": [],
@@ -4370,139 +4343,15 @@
   "https://arxiv.org/abs/2611.22115": "2026-11-21T09:07:38.635983+00:00",
   "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model": "2026-11-21T09:40:52.998713+00:00",
   "https://www.qbitai.com/2026/11/511779.html": "2026-11-21T10:08:11.844310+00:00",
-  "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop": "2026-11-21T10:39:37.999245+00:00"
+  "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop": "2026-11-21T10:39:37.999245+00:00",
+  "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur": "2026-11-21T11:09:49.310340+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
-  "f757f350875f40cc": {
-   "imp": 1.59,
-   "ai": 0.86,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "be52da9a4706f9b1": {
-   "imp": 2.31,
-   "ai": 0.94,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "9469d6fdfcc69aea": {
-   "imp": 2.4,
-   "ai": 0.87,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "cefbc3be34f9ab38": {
-   "imp": 2.47,
-   "ai": 0.95,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "3b56eead2522d3ea": {
-   "imp": 1.91,
-   "ai": 0.92,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "8a429aeabf43037c": {
-   "imp": 2.17,
-   "ai": 0.95,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "c38877cc800eee1d": {
-   "imp": 0.29,
-   "ai": 0.09,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "32127b7dbbe3fec4": {
-   "imp": 1.01,
-   "ai": 0.77,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "b5bbadfd4ae4cf2f": {
-   "imp": 0.92,
-   "ai": 0.42,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "538eb184e33a3445": {
-   "imp": 2.04,
-   "ai": 0.93,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "3e21bf261d77e299": {
-   "imp": 1.9,
-   "ai": 0.86,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "efcf2dc52887de8f": {
-   "imp": 2.02,
-   "ai": 0.95,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "7a6bfd556855a833": {
-   "imp": 0.38,
-   "ai": 0.91,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "a9260ebfaa959636": {
-   "imp": 1.58,
-   "ai": 0.88,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "567a1b41e85c041e": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "0c72fa4a2847c528": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "aad001a500bfaf36": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "7d2087245f41ef61": {
-   "imp": 0.07,
-   "ai": 0.04,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "fb4640ff56092144": {
-   "imp": 0.09,
-   "ai": 0.05,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "92ef028674215511": {
-   "imp": 0.35,
-   "ai": 0.07,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "f6316ecccb230856": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "96cde5a471ebb21f": {
-   "imp": 0.92,
-   "ai": 0.43,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "1cab4abc297a7e34": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "62b6284cb8a96f0a": {
-   "imp": 0.3,
-   "ai": 0.04,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
-  "92c026a41718cc7f": {
-   "imp": 0.31,
-   "ai": 0.07,
-   "ts": "2026-11-13T11:07:47.605962+00:00"
-  },
   "460ec4813c81b720": {
    "imp": 2.29,
    "ai": 0.93,
@@ -24997,6 +24846,41 @@
    "imp": 0.23,
    "ai": 0.06,
    "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "003209cd0ab3a866": {
+   "imp": 0.46,
+   "ai": null,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
+  },
+  "263ea4d757a50252": {
+   "imp": 0.34,
+   "ai": 0.35,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
+  },
+  "9cb59f9f9d76336b": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
+  },
+  "92cee08335c129a0": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
+  },
+  "40ec72614a47a31d": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
+  },
+  "c5438c5b250bd55c": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
+  },
+  "3d49c5caa1cbd915": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-21T11:07:22.348012+00:00"
   }
  }
 }
