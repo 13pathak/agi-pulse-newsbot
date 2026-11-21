@@ -1,6 +1,5 @@
 {
  "seen": {
-  "40e78db6601d46e6": "2026-11-14T04:37:20.340345+00:00",
   "1c29abfb1ab38174": "2026-11-14T05:07:22.357003+00:00",
   "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00",
   "d92c984a09cf4648": "2026-11-14T05:37:20.368396+00:00",
@@ -1805,13 +1804,13 @@
   "2d821e5fd8655507": "2026-11-21T03:37:21.610598+00:00",
   "41bc69534b8e0bfb": "2026-11-21T04:07:23.154202+00:00",
   "7d4226ff8b0f20f9": "2026-11-21T04:07:23.154202+00:00",
-  "10a79b6aa8306c73": "2026-11-21T04:07:23.154202+00:00"
+  "10a79b6aa8306c73": "2026-11-21T04:07:23.154202+00:00",
+  "3bf663ef48e56046": "2026-11-21T04:37:20.870444+00:00",
+  "e23e944af93d9ec3": "2026-11-21T04:37:20.870444+00:00",
+  "22f57d54028a7464": "2026-11-21T04:37:20.870444+00:00",
+  "74ce162468414800": "2026-11-21T04:37:20.870444+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI readies first consumer hardware device for year-end",
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
   {
    "headline": "Anthropic raises $3 billion in Japan for public offering",
    "ts": "2026-11-19T05:07:25.470261+00:00"
@@ -2043,11 +2042,15 @@
   {
    "headline": "Oracle completes funding for OpenAI cloud infrastructure deal",
    "ts": "2026-11-21T04:07:23.154202+00:00"
+  },
+  {
+   "headline": "Tencent introduces WeMM-Video omni-modal video models",
+   "ts": "2026-11-21T04:37:20.870444+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3977,36 +3980,6 @@
  },
  "pending": [
   {
-   "id": "74ce162468414800",
-   "item": {
-    "id": "74ce162468414800",
-    "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
-    "url": "https://arxiv.org/abs/2611.26409",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Tencent. Upvotes: 33. Abstract: Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking mode for explicit step-by-step reasoning. The models are trained on a large-scale multimodal corpus of approximately 1.2 trillion tokens through progressive pre-training and a multi-stage post-training pipeline incorporating multi-teacher OPD, anti-repetition MrDPO, and specialist RL. Evaluated across more than 120 benchmarks, WeMM-Video demonstrates superior performance in omni-modal video understanding and reasoning, while maintaining highly competitive capabilities across general audio, silent video, image, and text tasks. Specifically, in omni-modal video evaluations, our flagship WeMM-Video-35B-A3B establishes a new open-source state of the art, substantially outperforming proprietary models such as Qwen3.5-Omni-Flash and Seed2.0-Mini-0428 while narrowing the gap with the strong Gemini-3.0-Flash, and our compact WeMM-Video-9B surpasses the larger open-source Qwen3-Omni-30B-A3B-Instruct. We publicly release the WeMM-Video family along with our evaluation and reprod…",
-    "published": "2026-11-20T00:00:00+00:00",
-    "upvotes": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.26409.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Tencent introduces WeMM-Video omni-modal video models",
-   "post": "Researchers at Tencent released WeMM-Video, a family of Chinese-English bilingual omni-modal video models ranging from 2B to 35B parameters, trained on approximately 1.2 trillion tokens.",
-   "editor_note": "Check benchmark comparisons against Gemini-3.0-Flash and open-source licensing details.",
-   "support": 0.94,
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
-   "expires_at": "2026-11-24T00:00:00+00:00",
-   "decision": 1.47,
-   "priority": 7.447051,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
    "id": "e201ea2c78cdb255",
    "item": {
     "id": "e201ea2c78cdb255",
@@ -4033,8 +4006,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.387051,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.381849,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4061,8 +4034,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.373803,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.359932,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4091,8 +4064,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.268655,
-   "selection_reason": "Editorial importance; waiting 46.5h"
+   "priority": 7.265683,
+   "selection_reason": "Editorial importance; waiting 47.0h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4144,8 +4117,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.194561,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.22057,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4174,8 +4147,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.963718,
-   "selection_reason": "Editorial importance; waiting 70.0h"
+   "priority": 6.958516,
+   "selection_reason": "Editorial importance; waiting 70.5h"
   }
  ],
  "details_queue": [],
@@ -4423,49 +4396,15 @@
   "https://36kr.com/newsflashes/4078897791784068?f=rss": "2026-11-21T02:39:47.619068+00:00",
   "https://36kr.com/newsflashes/4078915481179273?f=rss": "2026-11-21T03:10:33.710414+00:00",
   "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms": "2026-11-21T03:38:01.497736+00:00",
-  "https://36kr.com/newsflashes/4078896115241859?f=rss": "2026-11-21T04:10:11.935213+00:00"
+  "https://36kr.com/newsflashes/4078896115241859?f=rss": "2026-11-21T04:10:11.935213+00:00",
+  "https://arxiv.org/abs/2611.26409": "2026-11-21T04:37:55.374825+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
-  "1a1165928e28b7b1": {
-   "imp": 1.72,
-   "ai": 0.78,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
-  "1fe894cfb23cf0af": {
-   "imp": 0.91,
-   "ai": 0.16,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
-  "ce7ea4682439e6c0": {
-   "imp": 0.5,
-   "ai": 0.16,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
-  "f3f3aa456cf5d6ba": {
-   "imp": 0.3,
-   "ai": 0.08,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
-  "5f1c1bc4542a3b94": {
-   "imp": 2.53,
-   "ai": 0.98,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
-  "db29ed7285b9cba1": {
-   "imp": 1.75,
-   "ai": 0.93,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
-  "74bf6a50a1c794bd": {
-   "imp": 1.65,
-   "ai": 0.69,
-   "ts": "2026-11-13T04:37:23.922152+00:00"
-  },
   "32a21ea96f917110": {
    "imp": 1.64,
    "ai": 0.97,
@@ -26005,6 +25944,36 @@
    "imp": 0.08,
    "ai": 0.03,
    "ts": "2026-11-21T04:07:23.154202+00:00"
+  },
+  "e23e944af93d9ec3": {
+   "imp": 0.85,
+   "ai": 0.39,
+   "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  "3bf663ef48e56046": {
+   "imp": 0.94,
+   "ai": 0.33,
+   "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  "22f57d54028a7464": {
+   "imp": 0.65,
+   "ai": 0.41,
+   "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  "3ab32c8f75ef0499": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  "60587d24851fbfa8": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  "8c52a7b2bf3ac4fb": {
+   "imp": 0.59,
+   "ai": 0.06,
+   "ts": "2026-11-21T04:37:20.870444+00:00"
   }
  }
 }
