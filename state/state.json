@@ -1,13 +1,5 @@
 {
  "seen": {
-  "06552fbaf1ca878c": "2026-11-14T02:07:23.069055+00:00",
-  "db2e460523131f5f": "2026-11-14T02:07:23.069055+00:00",
-  "e504c61a39ac2d49": "2026-11-14T02:07:23.069055+00:00",
-  "69fbf418d3236c6b": "2026-11-14T02:07:23.069055+00:00",
-  "df99d5948bc5646e": "2026-11-14T02:07:23.069055+00:00",
-  "a0492b3344782fa1": "2026-11-14T02:07:23.069055+00:00",
-  "4ecfb44c1aedd9ae": "2026-11-14T02:07:23.069055+00:00",
-  "643f4f010bfe39aa": "2026-11-14T02:07:23.069055+00:00",
   "773ec8d2db34b976": "2026-11-14T02:37:31.704833+00:00",
   "bdc7bca3c70ffeb4": "2026-11-14T02:37:31.704833+00:00",
   "6318c1a9c6359d11": "2026-11-14T02:37:31.704833+00:00",
@@ -1812,7 +1804,14 @@
   "63630b509bb617e0": "2026-11-21T01:37:24.288069+00:00",
   "3a0cb236fd3220da": "2026-11-21T01:37:24.288069+00:00",
   "3505a492be43cead": "2026-11-21T01:37:24.288069+00:00",
-  "3b5de6c271356afd": "2026-11-21T01:37:24.288069+00:00"
+  "3b5de6c271356afd": "2026-11-21T01:37:24.288069+00:00",
+  "3628ce26a7979362": "2026-11-21T02:07:24.087565+00:00",
+  "668baa710142dd51": "2026-11-21T02:07:24.087565+00:00",
+  "00671516f85a5963": "2026-11-21T02:07:24.087565+00:00",
+  "58764497099b9f22": "2026-11-21T02:07:24.087565+00:00",
+  "977b9b813a947740": "2026-11-21T02:07:24.087565+00:00",
+  "c2e97ef0fb22654a": "2026-11-21T02:07:24.087565+00:00",
+  "381edecba3edcbb4": "2026-11-21T02:07:24.087565+00:00"
  },
  "covered": [
   {
@@ -2046,11 +2045,15 @@
   {
    "headline": "Trump threatens tax on US tech data centers built abroad",
    "ts": "2026-11-21T01:37:24.288069+00:00"
+  },
+  {
+   "headline": "Cognition AI in talks for $75 billion valuation",
+   "ts": "2026-11-21T02:07:24.087565+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3980,34 +3983,6 @@
  },
  "pending": [
   {
-   "id": "381edecba3edcbb4",
-   "item": {
-    "id": "381edecba3edcbb4",
-    "title": "Cognition in Talks for $75 Billion Value With New Funding",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter.",
-    "published": "2026-11-20T20:47:55+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Cognition AI in talks for $75 billion valuation",
-   "post": "AI coding startup Cognition AI is in talks to raise new funding at a $75 billion valuation, according to Bloomberg reporting, coming two months after its previous financing round.",
-   "editor_note": "Check if specific lead investors or total round size are confirmed by the company.",
-   "support": 0.95,
-   "published_at": "2026-11-20T20:47:55+00:00",
-   "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
-   "expires_at": "2026-11-22T08:47:55+00:00",
-   "decision": 2.1,
-   "priority": 7.597258,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "74ce162468414800",
    "item": {
     "id": "74ce162468414800",
@@ -4034,8 +4009,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.473089,
-   "selection_reason": "Editorial importance; waiting 16.0h"
+   "priority": 7.467882,
+   "selection_reason": "Editorial importance; waiting 16.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4062,8 +4037,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.443239,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.429351,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4092,8 +4067,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.413089,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.407882,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4122,8 +4097,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.283535,
-   "selection_reason": "Editorial importance; waiting 44.0h"
+   "priority": 7.280559,
+   "selection_reason": "Editorial importance; waiting 44.5h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4175,8 +4150,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.064369,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.090408,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4205,8 +4180,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.989756,
-   "selection_reason": "Editorial importance; waiting 67.5h"
+   "priority": 6.984548,
+   "selection_reason": "Editorial importance; waiting 68.0h"
   }
  ],
  "details_queue": [],
@@ -4449,59 +4424,15 @@
   "https://www.qbitai.com/2026/11/511722.html": "2026-11-20T17:08:08.909883+00:00",
   "https://36kr.com/newsflashes/4077871040926595?f=rss": "2026-11-21T01:11:21.684174+00:00",
   "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T01:11:21.684174+00:00",
-  "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": "2026-11-21T01:38:12.196710+00:00"
+  "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": "2026-11-21T01:38:12.196710+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": "2026-11-21T02:08:06.599110+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
-  "1cc368635586ea22": {
-   "imp": 1.69,
-   "ai": 0.84,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "b091fe4d058b0c6f": {
-   "imp": 1.1,
-   "ai": 0.5,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "e74bef3fc4647011": {
-   "imp": 1.69,
-   "ai": 0.96,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "20f5b12d66de6e76": {
-   "imp": 1.46,
-   "ai": 0.75,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "5feb594f77c0300d": {
-   "imp": 0.16,
-   "ai": 0.02,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "ce0032c7a11023e9": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "85fc2dcac3728c09": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "9714682e5d537994": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
-  "105d00ad689b201c": {
-   "imp": 0.21,
-   "ai": 0.05,
-   "ts": "2026-11-13T02:07:20.260034+00:00"
-  },
   "9036ecf80c178bb4": {
    "imp": 1.5,
    "ai": 0.87,
@@ -26191,6 +26122,21 @@
    "imp": 0.92,
    "ai": 0.28,
    "ts": "2026-11-21T01:37:24.288069+00:00"
+  },
+  "00671516f85a5963": {
+   "imp": 1.83,
+   "ai": 0.93,
+   "ts": "2026-11-21T02:07:24.087565+00:00"
+  },
+  "f88e0e8daf3f0676": {
+   "imp": 0.12,
+   "ai": 0.06,
+   "ts": "2026-11-21T02:07:24.087565+00:00"
+  },
+  "901ce9fec654a9aa": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-21T02:07:24.087565+00:00"
   }
  }
 }
