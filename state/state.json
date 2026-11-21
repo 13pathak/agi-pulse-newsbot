@@ -1,10 +1,5 @@
 {
  "seen": {
-  "001478e2f80f2de9": "2026-11-14T13:07:29.498101+00:00",
-  "c9e9cd33b8822a0c": "2026-11-14T13:07:29.498101+00:00",
-  "75cfd6180da45505": "2026-11-14T13:07:29.498101+00:00",
-  "470ab561f6f813dd": "2026-11-14T13:07:29.498101+00:00",
-  "34053f9a48a9d44a": "2026-11-14T13:07:29.498101+00:00",
   "8b647b221abc19ff": "2026-11-14T13:37:22.551708+00:00",
   "071bc9829f3578de": "2026-11-14T13:37:22.551708+00:00",
   "c481d3ae1bc13db1": "2026-11-14T13:37:22.551708+00:00",
@@ -1825,13 +1820,13 @@
   "a8b9571f5922480c": "2026-11-21T12:07:23.056782+00:00",
   "e278e81518291b38": "2026-11-21T12:07:23.056782+00:00",
   "93616a452aac08f9": "2026-11-21T12:07:23.056782+00:00",
-  "2199c221a87b3695": "2026-11-21T12:37:28.200534+00:00"
+  "2199c221a87b3695": "2026-11-21T12:37:28.200534+00:00",
+  "8e797836f2dc8906": "2026-11-21T13:07:28.152859+00:00",
+  "9f794741031e85a1": "2026-11-21T13:07:28.152859+00:00",
+  "d45a86c4e6243135": "2026-11-21T13:07:28.152859+00:00",
+  "aa2df91a074af6a9": "2026-11-21T13:07:28.152859+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic debuts on US stock market with $1.5 trillion valuation",
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
   {
    "headline": "Anthropic launches initial public offering at $83 per share",
    "ts": "2026-11-19T15:07:24.543623+00:00"
@@ -2063,11 +2058,15 @@
   {
    "headline": "Sarvam AI launches Token Factory platform for model inference",
    "ts": "2026-11-21T12:37:28.200534+00:00"
+  },
+  {
+   "headline": "China plans token measurement and billing standards",
+   "ts": "2026-11-21T13:07:28.152859+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4025,36 +4024,7 @@
    "published": ""
   }
  },
- "pending": [
-  {
-   "id": "aa2df91a074af6a9",
-   "item": {
-    "id": "aa2df91a074af6a9",
-    "title": "China Plans to Strengthen AI Token Standards in Computing Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
-    "published": "2026-11-21T10:11:29+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "China plans token measurement and billing standards",
-   "post": "China's National Data Administration announced plans to improve standards for artificial intelligence token measurement, billing, and quality assessment.",
-   "editor_note": "Check if specific timelines or draft standards have been published by the administration.",
-   "support": 0.9,
-   "published_at": "2026-11-21T10:11:29+00:00",
-   "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
-   "expires_at": "2026-11-22T22:11:29+00:00",
-   "decision": 1.78,
-   "priority": 7.650863,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4316,134 +4286,15 @@
   "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur": "2026-11-21T11:09:49.310340+00:00",
   "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": "2026-11-21T11:39:05.432453+00:00",
   "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront": "2026-11-21T12:09:08.224532+00:00",
-  "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes": "2026-11-21T12:38:37.983175+00:00"
+  "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes": "2026-11-21T12:38:37.983175+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push": "2026-11-21T13:08:22.777995+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 24
+  "takes": 25
  },
  "triage": {
-  "5d554d3b6b91af65": {
-   "imp": 2.14,
-   "ai": 0.88,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "e00ed907e42f1c2a": {
-   "imp": 2.15,
-   "ai": null,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "7f4b634fdd63e732": {
-   "imp": 1.26,
-   "ai": null,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "ef47fa6404976e84": {
-   "imp": 2.44,
-   "ai": 0.96,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "ce59473d8279bfdd": {
-   "imp": 2.54,
-   "ai": 0.96,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "005f504376543daa": {
-   "imp": 0.99,
-   "ai": 0.83,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "bed46def9dbdf936": {
-   "imp": 2.03,
-   "ai": 0.81,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "ac6b5041cf84e88d": {
-   "imp": 2.82,
-   "ai": 0.96,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "a11b7e7f40ac5bb6": {
-   "imp": 0.23,
-   "ai": 0.8,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "87c11ac884eb74bd": {
-   "imp": 1.78,
-   "ai": 0.95,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "d022c477d9fe46af": {
-   "imp": 0.82,
-   "ai": 0.43,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "725cc9557187d5c2": {
-   "imp": 0.56,
-   "ai": 0.51,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "7cad831a40bad8cd": {
-   "imp": 0.19,
-   "ai": 0.07,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "f2b23e908635aa8d": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "ce37d0a1f48e31fc": {
-   "imp": 0.45,
-   "ai": 0.07,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "1ae59959ee09650f": {
-   "imp": 0.09,
-   "ai": 0.06,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "20bc8b25d4b39f3f": {
-   "imp": 0.54,
-   "ai": 0.22,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "97f8346b1f88f90e": {
-   "imp": 0.15,
-   "ai": 0.06,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "81cfab7315bac3f7": {
-   "imp": 0.31,
-   "ai": 0.03,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "b074d5f2247fbbef": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "4baeb57a507a6eaa": {
-   "imp": 0.05,
-   "ai": 0.03,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "6d5a21a8df01ea72": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "e6526c3d8e4e3423": {
-   "imp": 0.43,
-   "ai": 0.06,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
-  "6c196d0606b67f43": {
-   "imp": 0.37,
-   "ai": 0.08,
-   "ts": "2026-11-13T13:07:22.506341+00:00"
-  },
   "3089c4bb16cc96a8": {
    "imp": 1.12,
    "ai": 0.79,
@@ -24548,6 +24399,31 @@
    "imp": 0.02,
    "ai": 0.02,
    "ts": "2026-11-21T12:37:28.200534+00:00"
+  },
+  "9f794741031e85a1": {
+   "imp": 1.22,
+   "ai": null,
+   "ts": "2026-11-21T13:07:28.152859+00:00"
+  },
+  "8e797836f2dc8906": {
+   "imp": 1.53,
+   "ai": null,
+   "ts": "2026-11-21T13:07:28.152859+00:00"
+  },
+  "d45a86c4e6243135": {
+   "imp": 0.47,
+   "ai": 0.44,
+   "ts": "2026-11-21T13:07:28.152859+00:00"
+  },
+  "6def8b7e0e9b37f1": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-21T13:07:28.152859+00:00"
+  },
+  "7890d68ef06ce853": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-21T13:07:28.152859+00:00"
   }
  }
 }
