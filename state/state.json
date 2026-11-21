@@ -1,8 +1,5 @@
 {
  "seen": {
-  "d92c984a09cf4648": "2026-11-14T05:37:20.368396+00:00",
-  "8b5e8839f70a7787": "2026-11-14T05:37:20.368396+00:00",
-  "b0617c4d1d1de1a1": "2026-11-14T05:37:20.368396+00:00",
   "6a6b6e0dbaec40e4": "2026-11-14T06:07:22.110734+00:00",
   "b777df82a2fc519c": "2026-11-14T06:37:23.193506+00:00",
   "474e62a1978c0ab4": "2026-11-14T06:37:23.193506+00:00",
@@ -1808,13 +1805,12 @@
   "22f57d54028a7464": "2026-11-21T04:37:20.870444+00:00",
   "74ce162468414800": "2026-11-21T04:37:20.870444+00:00",
   "1456031107b8de01": "2026-11-21T05:07:21.248258+00:00",
-  "d15ef084c8b0d15a": "2026-11-21T05:07:21.248258+00:00"
+  "d15ef084c8b0d15a": "2026-11-21T05:07:21.248258+00:00",
+  "839edfdded9a46f2": "2026-11-21T05:37:22.374497+00:00",
+  "639f3e5367578722": "2026-11-21T05:37:22.374497+00:00",
+  "c9ed8520d56f273a": "2026-11-21T05:37:22.374497+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic prices IPO at $83 per share",
-   "ts": "2026-11-19T05:37:24.960091+00:00"
-  },
   {
    "headline": "Infiforce raises tens of millions in Pre-B round",
    "ts": "2026-11-19T06:07:23.026772+00:00"
@@ -2046,11 +2042,15 @@
   {
    "headline": "Databricks in early talks for $225 billion valuation funding",
    "ts": "2026-11-21T05:07:21.248258+00:00"
+  },
+  {
+   "headline": "Kavak releases Kling Image 4.0 with 8K native resolution",
+   "ts": "2026-11-21T05:37:22.374497+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3980,35 +3980,6 @@
  },
  "pending": [
   {
-   "id": "c9ed8520d56f273a",
-   "item": {
-    "id": "c9ed8520d56f273a",
-    "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
-    "url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。 这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网） 今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。 也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。 Kling Image 4.0 生成 按照官方介绍，新模型将原生分辨率提升至 8K ，单张图片最多支持 2000 字，并能一次生成最多 10 张连贯图片 。更值得关注的是，它采用理解与生成统一的自回归架构，尝试让模型在同一上下文中处理图像理解与生成。 这一次，可灵显然不只想把图片做得更漂亮，也希望让模型处理更复杂的创作要求。 我们从最直观的人像写真开始试试 Kling Image 4.0 的能力，从拍好一张照片，到设计一张海报，再到组织一整套视觉内容，Kling Image 4.0 究竟能替创作者完成多少工作？ 01 从写真到创意海报 Kling Image 4.0 的生图能力有多强？ 这次体验 Kling Image 4.0，最让我们意外的还是它生成图片的真实质感。我们尝试了几张人像写真，无论是人物的皮肤纹理、细节，还是户外的光影投射，都已经相当接近真实摄影。 这样的真实感，已经开始影响摄影行业本身。今年 4 月，…",
-    "published": "2026-11-21T02:59:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Kavak releases Kling Image 4.0 with 8K native resolution",
-   "post": "Kuaishou released Kling Image 4.0, featuring native 8K resolution, support for up to 2,000 text characters per image, and the ability to generate up to 10 coherent images simultaneously.",
-   "editor_note": "Check official release notes for exact architecture details and availability.",
-   "support": 0.71,
-   "published_at": "2026-11-21T02:59:00+00:00",
-   "first_seen_at": "2026-11-21T05:07:21.248258+00:00",
-   "expires_at": "2026-11-22T14:59:00+00:00",
-   "decision": 1.38,
-   "priority": 7.400577,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "e201ea2c78cdb255",
    "item": {
     "id": "e201ea2c78cdb255",
@@ -4035,8 +4006,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.37664,
-   "selection_reason": "Editorial importance; waiting 17.0h"
+   "priority": 7.371428,
+   "selection_reason": "Editorial importance; waiting 17.5h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4063,38 +4034,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.34604,
-   "selection_reason": "Editorial importance; waiting 18.5h"
-  },
-  {
-   "id": "9556d208d7730f5a",
-   "item": {
-    "id": "9556d208d7730f5a",
-    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
-    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
-    "published": "2026-11-18T17:05:50+00:00",
-    "trend": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
-   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
-   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
-   "support": 0.9,
-   "published_at": "2026-11-18T17:05:50+00:00",
-   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
-   "expires_at": "2026-11-25T17:05:50+00:00",
-   "decision": 1.11,
-   "priority": 7.262706,
-   "selection_reason": "Editorial importance; waiting 47.5h"
+   "priority": 7.332142,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4146,8 +4087,38 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.246617,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.272675,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
+  {
+   "id": "9556d208d7730f5a",
+   "item": {
+    "id": "9556d208d7730f5a",
+    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
+    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
+    "published": "2026-11-18T17:05:50+00:00",
+    "trend": 33,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
+    "images": true,
+    "category": "model",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
+   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
+   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
+   "support": 0.9,
+   "published_at": "2026-11-18T17:05:50+00:00",
+   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
+   "expires_at": "2026-11-25T17:05:50+00:00",
+   "decision": 1.11,
+   "priority": 7.259728,
+   "selection_reason": "Editorial importance; waiting 48.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4176,8 +4147,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.953307,
-   "selection_reason": "Editorial importance; waiting 71.0h"
+   "priority": 6.948095,
+   "selection_reason": "Editorial importance; waiting 71.5h"
   }
  ],
  "details_queue": [],
@@ -4427,129 +4398,15 @@
   "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms": "2026-11-21T03:38:01.497736+00:00",
   "https://36kr.com/newsflashes/4078896115241859?f=rss": "2026-11-21T04:10:11.935213+00:00",
   "https://arxiv.org/abs/2611.26409": "2026-11-21T04:37:55.374825+00:00",
-  "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms": "2026-11-21T05:09:19.371257+00:00"
+  "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms": "2026-11-21T05:09:19.371257+00:00",
+  "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": "2026-11-21T05:39:24.851560+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
-  "5b03ad4fc66b34de": {
-   "imp": 0.26,
-   "ai": null,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "94704d8dcfa44339": {
-   "imp": 2.27,
-   "ai": 0.9,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "5c945bdc0233d739": {
-   "imp": 0.57,
-   "ai": 0.23,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "80a3e1466591637e": {
-   "imp": 1.11,
-   "ai": 0.85,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "4256f9a0e16d7e83": {
-   "imp": 0.98,
-   "ai": 0.89,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "caaa35c99dce2b9b": {
-   "imp": 1.85,
-   "ai": 0.94,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "d33b693afccdb9c0": {
-   "imp": 0.76,
-   "ai": 0.66,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "adda4b497c1c647c": {
-   "imp": 2.65,
-   "ai": 0.9,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "4326a5ac0e7c900d": {
-   "imp": 1.97,
-   "ai": 0.5,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "ae3f9a42dec380fe": {
-   "imp": 2.37,
-   "ai": 0.62,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "55cb8bbe4ac43b62": {
-   "imp": 0.89,
-   "ai": 0.42,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "6921b99e0673af86": {
-   "imp": 2.05,
-   "ai": 0.9,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "dcffbd6f25b8e4ce": {
-   "imp": 2.2,
-   "ai": 0.95,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "6780fb45b0c1fd84": {
-   "imp": 1.13,
-   "ai": 0.26,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "c2aabc9572b545c6": {
-   "imp": 1.59,
-   "ai": 0.94,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "46b2efc452223177": {
-   "imp": 1.03,
-   "ai": 0.16,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "d38257668545a7e9": {
-   "imp": 0.38,
-   "ai": 0.09,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "2c035888b8c77bd7": {
-   "imp": 1.19,
-   "ai": 0.88,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "795e5a68d88d6cc9": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "455577f2b3373ba5": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "69c89831c7078d74": {
-   "imp": 0.25,
-   "ai": 0.06,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "c99ed9712e0cac0e": {
-   "imp": 0.25,
-   "ai": 0.05,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
-  "312d45e289dc9bce": {
-   "imp": 0.24,
-   "ai": 0.04,
-   "ts": "2026-11-13T05:37:30.240695+00:00"
-  },
   "8ea144c295d40aeb": {
    "imp": 1.92,
    "ai": 0.83,
@@ -25964,6 +25821,16 @@
    "imp": 1.49,
    "ai": 0.62,
    "ts": "2026-11-21T05:07:21.248258+00:00"
+  },
+  "839edfdded9a46f2": {
+   "imp": 1.55,
+   "ai": 0.92,
+   "ts": "2026-11-21T05:37:22.374497+00:00"
+  },
+  "639f3e5367578722": {
+   "imp": 1.01,
+   "ai": 0.92,
+   "ts": "2026-11-21T05:37:22.374497+00:00"
   }
  }
 }
