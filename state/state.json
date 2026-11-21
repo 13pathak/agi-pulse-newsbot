@@ -1,7 +1,5 @@
 {
  "seen": {
-  "e71dca220d4487f6": "2026-11-14T10:37:21.773316+00:00",
-  "fbbaadb6c6065dc4": "2026-11-14T10:37:21.773316+00:00",
   "1b43d5e72ff40806": "2026-11-14T11:07:20.872435+00:00",
   "b236925dc8a57c24": "2026-11-14T11:07:20.872435+00:00",
   "938a8fdebfb42929": "2026-11-14T11:37:33.154953+00:00",
@@ -1822,13 +1820,16 @@
   "4cb075a5562c5e7f": "2026-11-21T10:07:20.421641+00:00",
   "287eabec793d7d52": "2026-11-21T10:07:20.421641+00:00",
   "1f5d23fc0ca8e7e5": "2026-11-21T10:07:20.421641+00:00",
-  "12eb3c771bfeae23": "2026-11-21T10:07:20.421641+00:00"
+  "12eb3c771bfeae23": "2026-11-21T10:07:20.421641+00:00",
+  "31739de0b0b363cc": "2026-11-21T10:37:21.512295+00:00",
+  "9e7df998d665d22e": "2026-11-21T10:37:21.512295+00:00",
+  "64a6c960701fa016": "2026-11-21T10:37:21.512295+00:00",
+  "9c9d1ed07e056c7c": "2026-11-21T10:37:21.512295+00:00",
+  "d989f106912157a4": "2026-11-21T10:37:21.512295+00:00",
+  "c05a7bf0b3ad2f7c": "2026-11-21T10:37:21.512295+00:00",
+  "101fc3518e5fa5d3": "2026-11-21T10:37:21.512295+00:00"
  },
  "covered": [
-  {
-   "headline": "Disseqt AI raises $8 million for enterprise AI safeguards",
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
   {
    "headline": "Deutsche Telekom fund invests 110 million in Mistral AI",
    "ts": "2026-11-19T11:07:22.417173+00:00"
@@ -2060,11 +2061,15 @@
   {
    "headline": "OpenAI announces GPT-6.2 Astra with embodied model improvements",
    "ts": "2026-11-21T10:07:20.421641+00:00"
+  },
+  {
+   "headline": "Thinking Machines releases Inkling 2 Mini model",
+   "ts": "2026-11-21T10:37:21.512295+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4008,9 +4013,106 @@
    "desc": "",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511740.html": {
+   "title": "米哈游发了个VLA论文",
+   "desc": "8B参数，50小时自主运行",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511757.html": {
+   "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+   "desc": "还透露了不少训练背后的秘诀",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "d82387dbcd38e0b7",
+   "item": {
+    "id": "d82387dbcd38e0b7",
+    "title": "Google Commits $5 Mn To Sundar Pichai’s Alma Mater IIT Kharagpur",
+    "url": "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Google announced a commitment of $5 Mn in funding to IIT Kharagpur, the alma mater of CEO Sundar Pichai, to accelerate advanced artificial intelligence (AI) research, expand AI education and strengthen the institute’s technological capabilities. Announcing this, Pichai said the collaboration would help shape the next generation of students, adding that India was increasingly emerging as a hub for …",
+    "published": "2026-11-21T09:45:32+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Google commits five million dollars to IIT Kharagpur",
+   "post": "Google has committed five million dollars to IIT Kharagpur to advance artificial intelligence research, expand education, and strengthen the institute's technological capabilities.",
+   "editor_note": "Verify the exact allocation of the five million dollar grant across research and education programs.",
+   "support": 0.97,
+   "published_at": "2026-11-21T09:45:32+00:00",
+   "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
+   "expires_at": "2026-11-22T21:45:32+00:00",
+   "decision": 2.02,
+   "priority": 8.64934,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "93616a452aac08f9",
+   "item": {
+    "id": "93616a452aac08f9",
+    "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
+    "url": "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Tech upskilling platform Scaler’s cofounder Anshuman Singh has unveiled Arcfront, an AI research and training data venture that turns records of how professionals solve problems into material for training and testing advanced AI models. Singh is building the venture with Naman Bhalla, Scaler’s former head of AI products and an ex-Google software engineer. In a post on X, Singh said Arcfront also h…",
+    "published": "2026-11-21T09:27:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Scaler cofounder launches AI training data startup Arcfront",
+   "post": "Scaler cofounder Anshuman Singh and former AI head Naman Bhalla launched Arcfront, an artificial intelligence training data venture focused on professional problem-solving records.",
+   "editor_note": "Confirm the funding status and commercial model for the newly announced Arcfront venture.",
+   "support": 0.94,
+   "published_at": "2026-11-21T09:27:01+00:00",
+   "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
+   "expires_at": "2026-11-22T21:27:01+00:00",
+   "decision": 1.93,
+   "priority": 8.610768,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "aa2df91a074af6a9",
+   "item": {
+    "id": "aa2df91a074af6a9",
+    "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
+    "published": "2026-11-21T10:11:29+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "China plans token measurement and billing standards",
+   "post": "China's National Data Administration announced plans to improve standards for artificial intelligence token measurement, billing, and quality assessment.",
+   "editor_note": "Check if specific timelines or draft standards have been published by the administration.",
+   "support": 0.9,
+   "published_at": "2026-11-21T10:11:29+00:00",
+   "first_seen_at": "2026-11-21T10:37:21.512295+00:00",
+   "expires_at": "2026-11-22T22:11:29+00:00",
+   "decision": 1.78,
+   "priority": 7.581354,
+   "selection_reason": "Time-sensitive story"
+  }
+ ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4267,199 +4369,15 @@
   "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": "2026-11-21T08:39:30.239066+00:00",
   "https://arxiv.org/abs/2611.22115": "2026-11-21T09:07:38.635983+00:00",
   "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model": "2026-11-21T09:40:52.998713+00:00",
-  "https://www.qbitai.com/2026/11/511779.html": "2026-11-21T10:08:11.844310+00:00"
+  "https://www.qbitai.com/2026/11/511779.html": "2026-11-21T10:08:11.844310+00:00",
+  "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop": "2026-11-21T10:39:37.999245+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
-  "cb5bc8cfb675913d": {
-   "imp": 2.58,
-   "ai": 0.88,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "9508034964bf19c1": {
-   "imp": 1.08,
-   "ai": 0.73,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "3830705056322dbc": {
-   "imp": 1.38,
-   "ai": 0.83,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "ef40ccf4d0154f22": {
-   "imp": 2.25,
-   "ai": 0.86,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "b0ebb737da27be00": {
-   "imp": 2.53,
-   "ai": 0.56,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "0a861bba165fef6c": {
-   "imp": 1.0,
-   "ai": 0.43,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "e1c0b7be64d8ee03": {
-   "imp": 2.58,
-   "ai": 0.89,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "efe05c730e5de1a1": {
-   "imp": 1.74,
-   "ai": 0.89,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "ee71d278a1467c41": {
-   "imp": 2.43,
-   "ai": 0.69,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "b1f5c004595bf863": {
-   "imp": 2.18,
-   "ai": 0.52,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "547548d8af355aa7": {
-   "imp": 2.4,
-   "ai": 0.48,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "8fcb3001e7117556": {
-   "imp": 2.25,
-   "ai": 0.96,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "3442c49f321326c3": {
-   "imp": 1.87,
-   "ai": 0.94,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "e74e359305b4dd75": {
-   "imp": 2.54,
-   "ai": 0.95,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "139d22549f65ad3f": {
-   "imp": 2.72,
-   "ai": 0.85,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "47ea25b516f5a626": {
-   "imp": 2.42,
-   "ai": 0.9,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "ba7a7f1b4a0c75fa": {
-   "imp": 1.87,
-   "ai": 0.58,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "13b9eaa9bf55e0e5": {
-   "imp": 0.19,
-   "ai": 0.44,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "fba3cffa35311a51": {
-   "imp": 0.89,
-   "ai": 0.73,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "9b9348454ec34180": {
-   "imp": 2.25,
-   "ai": 0.95,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "a3f479fef463c6d5": {
-   "imp": 1.13,
-   "ai": 0.12,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "a37b855b5679c25b": {
-   "imp": 0.63,
-   "ai": 0.35,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "661881aa29c7939f": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "35393f645f4c3c8e": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "460fdd4e83ff13f7": {
-   "imp": 0.35,
-   "ai": 0.09,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "44d67391a96f2235": {
-   "imp": 0.23,
-   "ai": 0.06,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "d707e44c94e3ad76": {
-   "imp": 0.23,
-   "ai": 0.09,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "caf76f6c58ad3069": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "4e7ccdec73d4fba2": {
-   "imp": 0.88,
-   "ai": 0.18,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "8fdb1f1be6852037": {
-   "imp": 0.24,
-   "ai": 0.08,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "f1c316cc089c3902": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "5a3fe5436e753d9a": {
-   "imp": 0.15,
-   "ai": 0.01,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "3d264e412ef8bea4": {
-   "imp": 0.92,
-   "ai": 0.26,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "099a7c9ed32fcabf": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "f0806e0e684fe37f": {
-   "imp": 0.55,
-   "ai": 0.09,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "23bc669b284cb0ef": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
-  "31d09c1dd91afb06": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T10:37:22.508699+00:00"
-  },
   "f757f350875f40cc": {
    "imp": 1.59,
    "ai": 0.86,
@@ -24999,6 +24917,86 @@
    "imp": 1.32,
    "ai": 0.6,
    "ts": "2026-11-21T10:07:20.421641+00:00"
+  },
+  "9c9d1ed07e056c7c": {
+   "imp": 1.31,
+   "ai": 0.8,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "101fc3518e5fa5d3": {
+   "imp": 2.08,
+   "ai": null,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "31739de0b0b363cc": {
+   "imp": 2.36,
+   "ai": null,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "aa2df91a074af6a9": {
+   "imp": 1.78,
+   "ai": 0.95,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "64a6c960701fa016": {
+   "imp": 1.27,
+   "ai": 0.75,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "cfd5798f11ed34d8": {
+   "imp": 0.41,
+   "ai": 0.2,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "c05a7bf0b3ad2f7c": {
+   "imp": 0.49,
+   "ai": 0.57,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "d82387dbcd38e0b7": {
+   "imp": 2.02,
+   "ai": 0.88,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "93616a452aac08f9": {
+   "imp": 1.93,
+   "ai": 0.94,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "47a0e387ed7c7b25": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "5effa47281eeb8ce": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "d971e681591d3d16": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "42a92566031fadf3": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "f80b2585f553572c": {
+   "imp": 0.18,
+   "ai": 0.03,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "acb7f6ed26c34d3e": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
+  },
+  "67110fd861418efd": {
+   "imp": 0.23,
+   "ai": 0.06,
+   "ts": "2026-11-21T10:37:21.512295+00:00"
   }
  }
 }
