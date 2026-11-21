@@ -1,12 +1,5 @@
 {
  "seen": {
-  "99d40623cf51112d": "2026-11-14T01:37:31.222397+00:00",
-  "a05d08fd0b1ba6de": "2026-11-14T01:37:31.222397+00:00",
-  "5b04567ab3cf8a10": "2026-11-14T01:37:31.222397+00:00",
-  "be9c980053554ca7": "2026-11-14T01:37:31.222397+00:00",
-  "36a544ae73047067": "2026-11-14T01:37:31.222397+00:00",
-  "41f024204bf57ccb": "2026-11-14T01:37:31.222397+00:00",
-  "8f959b59e50e02b2": "2026-11-14T01:37:31.222397+00:00",
   "06552fbaf1ca878c": "2026-11-14T02:07:23.069055+00:00",
   "db2e460523131f5f": "2026-11-14T02:07:23.069055+00:00",
   "e504c61a39ac2d49": "2026-11-14T02:07:23.069055+00:00",
@@ -1802,13 +1795,26 @@
   "b28267594d6a81d2": "2026-11-21T01:07:22.568138+00:00",
   "cd3a5ef04e7d2070": "2026-11-21T01:07:22.568138+00:00",
   "cd7b12b990062c3f": "2026-11-21T01:07:22.568138+00:00",
-  "d8f37fc4bf480ab5": "2026-11-21T01:07:22.568138+00:00"
+  "d8f37fc4bf480ab5": "2026-11-21T01:07:22.568138+00:00",
+  "e1b0c4ede4d1eb3f": "2026-11-21T01:37:24.288069+00:00",
+  "e9ec780811f7fd6e": "2026-11-21T01:37:24.288069+00:00",
+  "6eb83dcfe68d7e65": "2026-11-21T01:37:24.288069+00:00",
+  "ec2fa3df44f3a012": "2026-11-21T01:37:24.288069+00:00",
+  "df150758ee17f372": "2026-11-21T01:37:24.288069+00:00",
+  "b582d8ea9c017a74": "2026-11-21T01:37:24.288069+00:00",
+  "f0e744e27a76e434": "2026-11-21T01:37:24.288069+00:00",
+  "b2f5f8ade58fcee1": "2026-11-21T01:37:24.288069+00:00",
+  "6750e28ed723f845": "2026-11-21T01:37:24.288069+00:00",
+  "a65229658b0f4c96": "2026-11-21T01:37:24.288069+00:00",
+  "13e9f943557aed6d": "2026-11-21T01:37:24.288069+00:00",
+  "f4c9de1f321919cc": "2026-11-21T01:37:24.288069+00:00",
+  "46bb805ec67e903d": "2026-11-21T01:37:24.288069+00:00",
+  "63630b509bb617e0": "2026-11-21T01:37:24.288069+00:00",
+  "3a0cb236fd3220da": "2026-11-21T01:37:24.288069+00:00",
+  "3505a492be43cead": "2026-11-21T01:37:24.288069+00:00",
+  "3b5de6c271356afd": "2026-11-21T01:37:24.288069+00:00"
  },
  "covered": [
-  {
-   "headline": "Palo Alto Networks acquires Applied Compute for $4.5 billion",
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
   {
    "headline": "OpenAI models accelerate chip design for AMD and in-house hardware",
    "ts": "2026-11-19T02:37:31.986009+00:00"
@@ -2036,11 +2042,15 @@
   {
    "headline": "Anthropic researcher claims Claude helped solve Riemann hypothesis",
    "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  {
+   "headline": "Trump threatens tax on US tech data centers built abroad",
+   "ts": "2026-11-21T01:37:24.288069+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3970,71 +3980,6 @@
  },
  "pending": [
   {
-   "id": "46bb805ec67e903d",
-   "item": {
-    "id": "46bb805ec67e903d",
-    "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-    "source": "The New York Times",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
-    "snippet": "President Trump raised the prospect of imposing “tremendous penalties” on companies that tried to build data centers outside the United States.",
-    "published": "2026-11-20T18:51:22+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "63630b509bb617e0",
-     "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-     "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "image": "",
-     "snippet": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
-     "published": "2026-11-20T20:17:29+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "3a0cb236fd3220da",
-     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-     "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-     "source": "The Verge",
-     "image": "",
-     "snippet": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
-     "published": "2026-11-20T18:50:19+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "3505a492be43cead",
-     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-     "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-     "source": "CNBC",
-     "image": "",
-     "snippet": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-     "published": "2026-11-20T20:47:58+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Trump threatens tax on US tech data centers built abroad",
-   "post": "US President Donald Trump stated he would impose taxes on domestic technology companies that build AI data centers outside the United States, citing efforts to keep AI infrastructure domestic.",
-   "editor_note": "Confirm if any executive order or formal policy document accompanied the public statement.",
-   "support": 0.87,
-   "published_at": "2026-11-20T18:50:19+00:00",
-   "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
-   "expires_at": "2026-11-22T06:50:19+00:00",
-   "decision": 2.54,
-   "priority": 7.672102,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "381edecba3edcbb4",
    "item": {
     "id": "381edecba3edcbb4",
@@ -4059,8 +4004,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-22T08:47:55+00:00",
    "decision": 2.1,
-   "priority": 7.57988,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.597258,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "74ce162468414800",
@@ -4089,8 +4034,8 @@
    "first_seen_at": "2026-11-20T09:37:21.973186+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.47,
-   "priority": 7.478303,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.473089,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4117,8 +4062,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.457141,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.443239,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "e201ea2c78cdb255",
@@ -4147,8 +4092,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.418303,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.413089,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4177,8 +4122,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.286514,
-   "selection_reason": "Editorial importance; waiting 43.5h"
+   "priority": 7.283535,
+   "selection_reason": "Editorial importance; waiting 44.0h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4230,8 +4175,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.038303,
-   "selection_reason": "Editorial importance"
+   "priority": 7.064369,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4260,8 +4205,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.994969,
-   "selection_reason": "Editorial importance; waiting 67.0h"
+   "priority": 6.989756,
+   "selection_reason": "Editorial importance; waiting 67.5h"
   }
  ],
  "details_queue": [],
@@ -4503,334 +4448,15 @@
   "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others": "2026-11-20T17:08:08.909883+00:00",
   "https://www.qbitai.com/2026/11/511722.html": "2026-11-20T17:08:08.909883+00:00",
   "https://36kr.com/newsflashes/4077871040926595?f=rss": "2026-11-21T01:11:21.684174+00:00",
-  "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T01:11:21.684174+00:00"
+  "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": "2026-11-21T01:11:21.684174+00:00",
+  "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": "2026-11-21T01:38:12.196710+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
-  "ce66f14179283fa2": {
-   "imp": 0.68,
-   "ai": 0.46,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "1d5bf5c310515265": {
-   "imp": 1.14,
-   "ai": 0.88,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "4e5f050a8025acc5": {
-   "imp": 0.27,
-   "ai": 0.63,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "73736854192c70e5": {
-   "imp": 1.3,
-   "ai": 0.56,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "fcb6861266d9721c": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "184ffb741dbf1058": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "c385dd2c126dff5e": {
-   "imp": 1.0,
-   "ai": 0.18,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "86ce35e2a96afd64": {
-   "imp": 0.2,
-   "ai": 0.04,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "67367449f26384d0": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "4a2108350b441eb0": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "d3cb434486f28345": {
-   "imp": 0.26,
-   "ai": 0.11,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "742942d3987e1c0b": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "b5ae6a1d15392a8b": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "1fe2bf1acf3621c1": {
-   "imp": 1.11,
-   "ai": 0.62,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "c663ec5f1720c61b": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "5d1a105918ce9186": {
-   "imp": 0.54,
-   "ai": 0.31,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2bec6a52c6adecca": {
-   "imp": 0.23,
-   "ai": 0.07,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "3c59bf2a97bf60e7": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2e1acb02187c8cc5": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "7ce01fbf896577a2": {
-   "imp": 0.93,
-   "ai": 0.62,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "bd00f03175b96299": {
-   "imp": 0.15,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "be1491acda8eeadb": {
-   "imp": 0.65,
-   "ai": 0.49,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "d041d1ccc020ccee": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "f41a6b70442aa940": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2425543f8181c85e": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "155a857ec3f7cb46": {
-   "imp": 0.5,
-   "ai": 0.11,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "7dce85c8730cc1fa": {
-   "imp": 0.19,
-   "ai": 0.04,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "1356a7dd59accbbb": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "5b0d730868cebffe": {
-   "imp": 0.15,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "b6809731ebaf508b": {
-   "imp": 0.95,
-   "ai": 0.32,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "f58e5d29282a4b35": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "a70408bd5091c4cf": {
-   "imp": 0.59,
-   "ai": 0.14,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "7a3840d2fab4e4c9": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "e9621a64697d42a8": {
-   "imp": 0.12,
-   "ai": 0.05,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "e314c3e1eaeb96b5": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "50253c0aa198bfe3": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2cfbeee14f857e3e": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "eab134ae3f003da8": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "27da65ab27e80abd": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2e7944609b5f244c": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2160f8cde6e01cf2": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "0bfb879e83d02c77": {
-   "imp": 0.64,
-   "ai": 0.29,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "4848b30887429698": {
-   "imp": 0.36,
-   "ai": 0.14,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "860faefa3f2d25a2": {
-   "imp": 0.26,
-   "ai": 0.17,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "366292dd15a3902c": {
-   "imp": 0.31,
-   "ai": 0.13,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "514720c0fa509c0f": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "841c01cc1dce14a3": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "a8273c05c7151fee": {
-   "imp": 0.29,
-   "ai": 0.13,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "40b3469495104d52": {
-   "imp": 1.09,
-   "ai": 0.36,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "da3e075c83dfa676": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "e6c668dcd9845817": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "413f955ea0dace25": {
-   "imp": 0.2,
-   "ai": 0.03,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "865e7e22c5df554c": {
-   "imp": 0.71,
-   "ai": 0.1,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "5662c8dd70c06112": {
-   "imp": 0.15,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "4519d17553c60ba4": {
-   "imp": 0.61,
-   "ai": 0.13,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "ecdde4cd312d1f6a": {
-   "imp": 0.16,
-   "ai": 0.05,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "4124ffddb814a4f1": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "bacb569d2d8d563d": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "de293adb8e2eb299": {
-   "imp": 0.26,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "8a11b25b3189a54d": {
-   "imp": 0.17,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "2a39fda91564e8f4": {
-   "imp": 0.18,
-   "ai": 0.02,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "888549e2425e7aed": {
-   "imp": 0.22,
-   "ai": 0.05,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "13248b22d6f4f440": {
-   "imp": 0.15,
-   "ai": 0.07,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
-  "78e31b38a7bbe61f": {
-   "imp": 0.25,
-   "ai": 0.08,
-   "ts": "2026-11-13T01:37:22.632963+00:00"
-  },
   "1cc368635586ea22": {
    "imp": 1.69,
    "ai": 0.84,
@@ -26555,6 +26181,16 @@
    "imp": 0.13,
    "ai": 0.01,
    "ts": "2026-11-21T01:07:22.568138+00:00"
+  },
+  "b582d8ea9c017a74": {
+   "imp": 1.36,
+   "ai": 0.64,
+   "ts": "2026-11-21T01:37:24.288069+00:00"
+  },
+  "6750e28ed723f845": {
+   "imp": 0.92,
+   "ai": 0.28,
+   "ts": "2026-11-21T01:37:24.288069+00:00"
   }
  }
 }
