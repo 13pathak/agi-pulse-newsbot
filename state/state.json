@@ -1,8 +1,5 @@
 {
  "seen": {
-  "5853038b14588b71": "2026-11-14T08:07:22.564336+00:00",
-  "778fbf3e20e9334b": "2026-11-14T08:07:22.564336+00:00",
-  "e29057798ed96e41": "2026-11-14T08:37:21.307858+00:00",
   "b4f335a2fc788309": "2026-11-14T09:07:21.427655+00:00",
   "3a1f57bc8115405c": "2026-11-14T09:07:21.427655+00:00",
   "613de96a5982ea79": "2026-11-14T10:07:22.434618+00:00",
@@ -1816,17 +1813,15 @@
   "7f85d104927becc3": "2026-11-21T06:37:21.471248+00:00",
   "baa7c9e322550c54": "2026-11-21T07:07:21.444011+00:00",
   "5d1ef2af71d7c7ae": "2026-11-21T07:07:21.444011+00:00",
-  "048307fe18e56f2d": "2026-11-21T07:37:22.784480+00:00"
+  "048307fe18e56f2d": "2026-11-21T07:37:22.784480+00:00",
+  "5e4dc282f3083c45": "2026-11-21T08:37:23.431807+00:00",
+  "18604b4c1a6cc0d6": "2026-11-21T08:37:23.431807+00:00",
+  "5cdbeed47a9c307a": "2026-11-21T08:37:23.431807+00:00",
+  "3e0594db892e3d93": "2026-11-21T08:37:23.431807+00:00",
+  "24e9a318accc2a96": "2026-11-21T08:37:23.431807+00:00",
+  "9556d208d7730f5a": "2026-11-21T08:37:23.431807+00:00"
  },
  "covered": [
-  {
-   "headline": "Google launches Genie 4 world model for subscribers",
-   "ts": "2026-11-19T08:07:26.994967+00:00"
-  },
-  {
-   "headline": "August AI raises 12 million dollars for healthcare assistant",
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
   {
    "headline": "Apple releases FastFrames-S and FastFrames-L video models",
    "ts": "2026-11-19T09:07:24.974402+00:00"
@@ -2054,11 +2049,15 @@
   {
    "headline": "OpenAI models help AMD improve GPU design",
    "ts": "2026-11-21T07:37:22.784480+00:00"
+  },
+  {
+   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
+   "ts": "2026-11-21T08:37:23.431807+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3988,36 +3987,6 @@
  },
  "pending": [
   {
-   "id": "9556d208d7730f5a",
-   "item": {
-    "id": "9556d208d7730f5a",
-    "title": "microsoft releases Aion-1.0-Instruct-2.3B on Hugging Face",
-    "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model microsoft/Aion-1.0-Instruct-2.3B by microsoft. Task: text-generation. Likes: 33. Model card: Aion 1.0 Instruct Microsoft Windows Applied Sciences Group Model Description Aion Instruct serves as the foundational Small Language Model (SLM) in the Windows ecosystem, specifically optimized for on-device AI, text and operating system use cases. This 2.3B parameters base model delivers enterprise-grade language understanding and generation capabilities directly at the edge, enabling responsive, private, and cost-effective AI-powered scenarios without requiring constant cloud connectivity. A further optimized version of Aion Instruct, coupled with Microsoft’s content moderation model, will become the Windows OS SLM by the end of January 2027. This Hugging Face version is meant to be an introduction to what’s coming and a way to maximize transparency with our users, as well as welcome their feedback. We are publishing the unquantized model first, to be followed by quantized versions. Model Details - Languages: English, German, Spanish, Portuguese, Italian, French, Chinese, Japanese - License: MIT - Library names: PyTorch, ONNX, GGUF - Task: Text generation - Tags: Summarization, rewriting, chat - Authors: Applied Sciences Group @ Microsoft Windows & Devices - Related GitHub reposi…",
-    "published": "2026-11-18T17:05:50+00:00",
-    "trend": 33,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Aion-1.0-Instruct-2.3B.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
-   "post": "Microsoft released Aion-1.0-Instruct-2.3B on Hugging Face, a 2.3 billion parameter small language model optimized for on-device Windows use under the MIT license.",
-   "editor_note": "Check model weights availability and quantization formats on the Hugging Face repository.",
-   "support": 0.9,
-   "published_at": "2026-11-18T17:05:50+00:00",
-   "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
-   "expires_at": "2026-11-25T17:05:50+00:00",
-   "decision": 1.11,
-   "priority": 7.244848,
-   "selection_reason": "Editorial importance; waiting 50.5h"
-  },
-  {
    "id": "4920d00e28ac4511",
    "item": {
     "id": "4920d00e28ac4511",
@@ -4044,8 +4013,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.922054,
-   "selection_reason": "Editorial importance; waiting 74.0h"
+   "priority": 6.916842,
+   "selection_reason": "Editorial importance; waiting 74.5h"
   }
  ],
  "details_queue": [],
@@ -4300,164 +4269,15 @@
   "https://arxiv.org/abs/2611.21373": "2026-11-21T06:07:57.427571+00:00",
   "https://metr.org/blog/2026-11-20-q4-2026-capability-update": "2026-11-21T06:40:51.162892+00:00",
   "https://www.indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21": "2026-11-21T07:07:58.959798+00:00",
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus": "2026-11-21T07:37:34.338779+00:00"
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus": "2026-11-21T07:37:34.338779+00:00",
+  "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": "2026-11-21T08:39:30.239066+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
-  "ad10287ee6ec7822": {
-   "imp": 2.16,
-   "ai": 0.93,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "05676206f9121e02": {
-   "imp": 1.82,
-   "ai": 0.83,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "bc7f67e0bbed0e06": {
-   "imp": 0.69,
-   "ai": 0.74,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "c7d14863ab6cf77a": {
-   "imp": 0.66,
-   "ai": 0.22,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "ccb13385f2ca8928": {
-   "imp": 1.88,
-   "ai": 0.3,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "ada1e6052e3fbc26": {
-   "imp": 1.88,
-   "ai": 0.93,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "9a7611cb8c65bf62": {
-   "imp": 1.94,
-   "ai": 0.94,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "38aafb08f09b9e47": {
-   "imp": 1.31,
-   "ai": 0.33,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "31fd66f76fa29fe1": {
-   "imp": 0.94,
-   "ai": 0.35,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "70ce9be8f62cdb21": {
-   "imp": 0.69,
-   "ai": 0.19,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "21b6957904f74838": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "529f11e3af0edcef": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "8569195f1ee7dbb7": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "0a94c439996211ae": {
-   "imp": 0.17,
-   "ai": 0.05,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "b00dcbe7fc450c43": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "1ea16af14bd99792": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "d7fe0bfa8e1f9c65": {
-   "imp": 1.48,
-   "ai": 0.15,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "2cdba503ac00cc0b": {
-   "imp": 1.4,
-   "ai": 0.19,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "24af89c29ed6883b": {
-   "imp": 0.57,
-   "ai": 0.14,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "2da55a1fe880173e": {
-   "imp": 0.67,
-   "ai": 0.13,
-   "ts": "2026-11-13T08:07:23.832592+00:00"
-  },
-  "937a2fdc4dfa3966": {
-   "imp": 0.82,
-   "ai": 0.18,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "adc4551161f2fe73": {
-   "imp": 2.01,
-   "ai": 0.96,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "1aa485a4454511b4": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "33ec1689048a9ff3": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "f338c1cbb913aab4": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "fbfd9ab04e74caec": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "66f27a7196cefecb": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "501b108db144424c": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "fcc2b6031f0668f3": {
-   "imp": 0.42,
-   "ai": 0.07,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
-  "e1abc86d32ea41c9": {
-   "imp": 0.94,
-   "ai": 0.23,
-   "ts": "2026-11-13T08:37:20.813754+00:00"
-  },
   "10c45432b5ce2038": {
    "imp": 0.95,
    "ai": 0.82,
@@ -25457,6 +25277,46 @@
    "imp": 0.04,
    "ai": 0.01,
    "ts": "2026-11-21T08:07:22.162180+00:00"
+  },
+  "24e9a318accc2a96": {
+   "imp": 0.86,
+   "ai": 0.57,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "5e4dc282f3083c45": {
+   "imp": 2.77,
+   "ai": 0.95,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "18604b4c1a6cc0d6": {
+   "imp": 2.26,
+   "ai": 0.95,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "3e0594db892e3d93": {
+   "imp": 1.08,
+   "ai": 0.9,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "b97d0587c7b3c870": {
+   "imp": 0.32,
+   "ai": 0.13,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "4f561f60968dde37": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "7726f1d6a298e8da": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
+  },
+  "3a83023fb0facbd1": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-21T08:37:23.431807+00:00"
   }
  }
 }
