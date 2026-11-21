@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b777df82a2fc519c": "2026-11-14T06:37:23.193506+00:00",
-  "474e62a1978c0ab4": "2026-11-14T06:37:23.193506+00:00",
   "612bf752e94b80db": "2026-11-14T07:07:23.451693+00:00",
   "977464ef05aec17a": "2026-11-14T07:07:23.451693+00:00",
   "32127b7dbbe3fec4": "2026-11-14T07:07:23.451693+00:00",
@@ -1812,13 +1810,16 @@
   "00ee960a19dfa6c5": "2026-11-21T06:07:31.609484+00:00",
   "3bd15573705779b6": "2026-11-21T06:07:31.609484+00:00",
   "d62148dfdde643e6": "2026-11-21T06:07:31.609484+00:00",
-  "e201ea2c78cdb255": "2026-11-21T06:07:31.609484+00:00"
+  "e201ea2c78cdb255": "2026-11-21T06:07:31.609484+00:00",
+  "b95c42eee4178bbf": "2026-11-21T06:37:21.471248+00:00",
+  "316db65ce6bcc024": "2026-11-21T06:37:21.471248+00:00",
+  "accaacdca57c416c": "2026-11-21T06:37:21.471248+00:00",
+  "b18f5be960646ec7": "2026-11-21T06:37:21.471248+00:00",
+  "0b39de03309f1175": "2026-11-21T06:37:21.471248+00:00",
+  "2fdd7a0916ab501f": "2026-11-21T06:37:21.471248+00:00",
+  "7f85d104927becc3": "2026-11-21T06:37:21.471248+00:00"
  },
  "covered": [
-  {
-   "headline": "Siemens launches Eigen Engineering Agent in India",
-   "ts": "2026-11-19T06:37:26.587502+00:00"
-  },
   {
    "headline": "Megha Technology raises nearly $200 million in new funding",
    "ts": "2026-11-19T07:07:22.128660+00:00"
@@ -2050,11 +2051,15 @@
   {
    "headline": "Tencent introduces WeVisForensics agent for AI video detection",
    "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  {
+   "headline": "METR updates AI R&D capability evaluations",
+   "ts": "2026-11-21T06:37:21.471248+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4008,61 +4013,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.318182,
-   "selection_reason": "Editorial importance; waiting 19.5h"
-  },
-  {
-   "id": "0b39de03309f1175",
-   "item": {
-    "id": "0b39de03309f1175",
-    "title": "AI R&D-relevant model capabilities are improving rapidly and are getting harder to measure",
-    "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
-    "source": "METR",
-    "image": "",
-    "snippet": "Contents Overview 1 Background 2 Methodology 3 Results 4 Robustness Checks 5 Discussion 6 Acknowledgments Appendices A Difficulty Estimation and Baselining B Time Horizon Diagnostics C MCI Modelling Methodology D Limitations of IRT E MCI Robustness Checks F Estimating Lifecycle Cost for Tasks G Data Integrity and Reward Hacking H Changes in Capability Growth Rates I Inference Scaling J Swarm Experiments K Al Zimmermann's Programming Contests L Budget NanoGPT M Making METR tasks N Earthborne Rangers and Continual Learning O Qualitative and External Evidence on Models’ Strengths and Limitations Overview This post presents evidence from our capability evaluations of public models relevant to AI R&D acceleration, up to Opus 5.5 and GPT-6 Astra. We remain significantly uncertain about central questions, including (1) what capabilities are in practice necessary for drastic acceleration, and (2) how quickly relevant model capabilities are improving. We think that current public evidence is insufficient to rule out drastic AI R&D acceleration in the next couple of years. By drastic AI R&D acceleration we mean a situation where capabilities improve so quickly that humans are no longer able to meaningfully understand, assess, and react to catastrophic risks posed by new AI systems. This overview summarizes our main takeaways and their relevant sections within the post. 1 Background describes our motivation and aims, and how our thinking about capability evaluations has changed since the release of the original time horizons paper . 2 Methodology describes the different task sets used…",
-    "published": "2026-11-20T08:00:00+00:00",
-    "images": false,
-    "category": "research",
-    "source_cap": 2
-   },
-   "related": [
-    {
-     "id": "2fdd7a0916ab501f",
-     "title": "The most misunderstood graph in AI just got a major update",
-     "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-     "source": "MIT Technology Review",
-     "image": "",
-     "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
-     "published": "2026-11-20T18:15:15+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "7f85d104927becc3",
-     "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
-     "url": "https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds",
-     "source": "The Information",
-     "image": "",
-     "snippet": "AI nonprofit METR said Friday it found that recent AI models, including OpenAI’s GPT-6 Astra, are able to complete tasks that would take a human around a full work week to do. AI capabilities have continued doubling every 3.6 months, METR said. METR’s time horizon measurement, which tracks AI ...",
-     "published": "2026-11-20T18:00:44+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "METR updates AI R&D capability evaluations",
-   "post": "AI evaluation organization METR updated its capability benchmarks, reporting that recent models including OpenAI's GPT-6 Astra can complete complex tasks taking up to a full work week for humans.",
-   "editor_note": "Verify the exact methodology and task breakdown used in METR's updated time-horizon model.",
-   "support": 0.92,
-   "published_at": "2026-11-20T08:00:00+00:00",
-   "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
-   "expires_at": "2026-11-24T08:00:00+00:00",
-   "decision": 2.15,
-   "priority": 7.29885,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.304371,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4091,8 +4043,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.256737,
-   "selection_reason": "Editorial importance; waiting 48.5h"
+   "priority": 7.253777,
+   "selection_reason": "Editorial importance; waiting 49.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4121,8 +4073,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.94286,
-   "selection_reason": "Editorial importance; waiting 72.0h"
+   "priority": 6.937681,
+   "selection_reason": "Editorial importance; waiting 72.5h"
   }
  ],
  "details_queue": [],
@@ -4374,109 +4326,15 @@
   "https://arxiv.org/abs/2611.26409": "2026-11-21T04:37:55.374825+00:00",
   "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms": "2026-11-21T05:09:19.371257+00:00",
   "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": "2026-11-21T05:39:24.851560+00:00",
-  "https://arxiv.org/abs/2611.21373": "2026-11-21T06:07:57.427571+00:00"
+  "https://arxiv.org/abs/2611.21373": "2026-11-21T06:07:57.427571+00:00",
+  "https://metr.org/blog/2026-11-20-q4-2026-capability-update": "2026-11-21T06:40:51.162892+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
-  "de06bec5ec8071c8": {
-   "imp": 2.56,
-   "ai": null,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "bd6e3601b8c6d4d1": {
-   "imp": 2.1,
-   "ai": 0.87,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "00ccf51f4f6efee2": {
-   "imp": 2.1,
-   "ai": 0.9,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "2035108bc57d1040": {
-   "imp": 1.5,
-   "ai": 0.96,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "bb29c4c74880cfc0": {
-   "imp": 2.07,
-   "ai": 0.94,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "7fe60d5bf37fc7f5": {
-   "imp": 0.73,
-   "ai": 0.12,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "cbf22493d8c74bd5": {
-   "imp": 1.57,
-   "ai": 0.82,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "08c7f991044ea74b": {
-   "imp": 2.37,
-   "ai": 0.95,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "23a0e23d40067a71": {
-   "imp": 1.23,
-   "ai": 0.97,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "383b23c14b23bacb": {
-   "imp": 1.86,
-   "ai": 0.92,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "9a84b692c389219b": {
-   "imp": 2.27,
-   "ai": 0.95,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "218c8f96d3aa7ec9": {
-   "imp": 1.29,
-   "ai": null,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "8203747cbc7e1202": {
-   "imp": 0.22,
-   "ai": 0.1,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "a26a2fa6428014ac": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "0d025368b2edc7b8": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "92e594578e166e0d": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "46253fd06cd8ca6e": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "f3b9e200615a163d": {
-   "imp": 0.44,
-   "ai": 0.13,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
-  "e0e32a236db868fa": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-13T06:37:30.057071+00:00"
-  },
   "742505ac920e42cc": {
    "imp": 2.6,
    "ai": 0.95,
@@ -25761,6 +25619,41 @@
    "imp": 0.05,
    "ai": 0.02,
    "ts": "2026-11-21T06:07:31.609484+00:00"
+  },
+  "316db65ce6bcc024": {
+   "imp": 1.76,
+   "ai": 0.95,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "b18f5be960646ec7": {
+   "imp": 0.98,
+   "ai": 0.95,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "accaacdca57c416c": {
+   "imp": 1.52,
+   "ai": 0.82,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "b95c42eee4178bbf": {
+   "imp": 2.22,
+   "ai": 0.93,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "3bd46d01e84abbf2": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "d9822e8f75f2e684": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "6b73456cd6a4f99d": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-21T06:37:21.471248+00:00"
   }
  }
 }
