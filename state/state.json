@@ -1,8 +1,5 @@
 {
  "seen": {
-  "612bf752e94b80db": "2026-11-14T07:07:23.451693+00:00",
-  "977464ef05aec17a": "2026-11-14T07:07:23.451693+00:00",
-  "32127b7dbbe3fec4": "2026-11-14T07:07:23.451693+00:00",
   "a0b44e6183dde18b": "2026-11-14T07:37:22.061439+00:00",
   "5853038b14588b71": "2026-11-14T08:07:22.564336+00:00",
   "778fbf3e20e9334b": "2026-11-14T08:07:22.564336+00:00",
@@ -1817,13 +1814,11 @@
   "b18f5be960646ec7": "2026-11-21T06:37:21.471248+00:00",
   "0b39de03309f1175": "2026-11-21T06:37:21.471248+00:00",
   "2fdd7a0916ab501f": "2026-11-21T06:37:21.471248+00:00",
-  "7f85d104927becc3": "2026-11-21T06:37:21.471248+00:00"
+  "7f85d104927becc3": "2026-11-21T06:37:21.471248+00:00",
+  "baa7c9e322550c54": "2026-11-21T07:07:21.444011+00:00",
+  "5d1ef2af71d7c7ae": "2026-11-21T07:07:21.444011+00:00"
  },
  "covered": [
-  {
-   "headline": "Megha Technology raises nearly $200 million in new funding",
-   "ts": "2026-11-19T07:07:22.128660+00:00"
-  },
   {
    "headline": "Paradigm enters foundation model market with dual release",
    "ts": "2026-11-19T07:37:25.120830+00:00"
@@ -2055,11 +2050,15 @@
   {
    "headline": "METR updates AI R&D capability evaluations",
    "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  {
+   "headline": "Google provides $5 million AI research grant to IIT Kharagpur",
+   "ts": "2026-11-21T07:07:21.444011+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4013,8 +4012,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.304371,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.290483,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4043,8 +4042,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.253777,
-   "selection_reason": "Editorial importance; waiting 49.0h"
+   "priority": 7.250801,
+   "selection_reason": "Editorial importance; waiting 49.5h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4073,8 +4072,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.937681,
-   "selection_reason": "Editorial importance; waiting 72.5h"
+   "priority": 6.932473,
+   "selection_reason": "Editorial importance; waiting 73.0h"
   }
  ],
  "details_queue": [],
@@ -4327,99 +4326,15 @@
   "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms": "2026-11-21T05:09:19.371257+00:00",
   "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": "2026-11-21T05:39:24.851560+00:00",
   "https://arxiv.org/abs/2611.21373": "2026-11-21T06:07:57.427571+00:00",
-  "https://metr.org/blog/2026-11-20-q4-2026-capability-update": "2026-11-21T06:40:51.162892+00:00"
+  "https://metr.org/blog/2026-11-20-q4-2026-capability-update": "2026-11-21T06:40:51.162892+00:00",
+  "https://www.indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21": "2026-11-21T07:07:58.959798+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
-  "742505ac920e42cc": {
-   "imp": 2.6,
-   "ai": 0.95,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "9e2d4e6285993acc": {
-   "imp": 2.32,
-   "ai": 0.94,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "fe9babf6897e88a7": {
-   "imp": 1.71,
-   "ai": 0.81,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "c7b2bfba063be7c5": {
-   "imp": 2.45,
-   "ai": 0.94,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "cef75d4c76946800": {
-   "imp": 1.82,
-   "ai": 0.69,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "65321a49c617739d": {
-   "imp": 2.04,
-   "ai": 0.97,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "5e75edf0a874a0f2": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "3cb464727b22f7a2": {
-   "imp": 0.34,
-   "ai": 0.09,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "71d9ccf63dabd070": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "136be1fc2f82ba05": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "5f12960fe5675dc6": {
-   "imp": 0.24,
-   "ai": 0.06,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "a192798fd872f7b0": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "366207a4fb1e2d7d": {
-   "imp": 0.82,
-   "ai": 0.1,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "5c2179a93a776e6a": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "8ec93f2272c3b58b": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "ca1c2c3407545cdd": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
-  "d2184e5244c23190": {
-   "imp": 0.25,
-   "ai": 0.04,
-   "ts": "2026-11-13T07:07:24.615880+00:00"
-  },
   "81374c4ce5d29070": {
    "imp": 2.27,
    "ai": 0.95,
@@ -25654,6 +25569,31 @@
    "imp": 0.05,
    "ai": 0.01,
    "ts": "2026-11-21T06:37:21.471248+00:00"
+  },
+  "5d1ef2af71d7c7ae": {
+   "imp": 2.11,
+   "ai": 0.96,
+   "ts": "2026-11-21T07:07:21.444011+00:00"
+  },
+  "b77ce1d81fb75242": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-21T07:07:21.444011+00:00"
+  },
+  "9eb811f3dc078378": {
+   "imp": 1.01,
+   "ai": 0.62,
+   "ts": "2026-11-21T07:07:21.444011+00:00"
+  },
+  "baa7c9e322550c54": {
+   "imp": 1.38,
+   "ai": 0.97,
+   "ts": "2026-11-21T07:07:21.444011+00:00"
+  },
+  "11cd18d31b64b885": {
+   "imp": 0.33,
+   "ai": 0.06,
+   "ts": "2026-11-21T07:07:21.444011+00:00"
   }
  }
 }
