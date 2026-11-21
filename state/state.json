@@ -1,7 +1,5 @@
 {
  "seen": {
-  "1c29abfb1ab38174": "2026-11-14T05:07:22.357003+00:00",
-  "d6d8c69f54f19a5e": "2026-11-14T05:07:22.357003+00:00",
   "d92c984a09cf4648": "2026-11-14T05:37:20.368396+00:00",
   "8b5e8839f70a7787": "2026-11-14T05:37:20.368396+00:00",
   "b0617c4d1d1de1a1": "2026-11-14T05:37:20.368396+00:00",
@@ -1808,13 +1806,11 @@
   "3bf663ef48e56046": "2026-11-21T04:37:20.870444+00:00",
   "e23e944af93d9ec3": "2026-11-21T04:37:20.870444+00:00",
   "22f57d54028a7464": "2026-11-21T04:37:20.870444+00:00",
-  "74ce162468414800": "2026-11-21T04:37:20.870444+00:00"
+  "74ce162468414800": "2026-11-21T04:37:20.870444+00:00",
+  "1456031107b8de01": "2026-11-21T05:07:21.248258+00:00",
+  "d15ef084c8b0d15a": "2026-11-21T05:07:21.248258+00:00"
  },
  "covered": [
-  {
-   "headline": "Anthropic raises $3 billion in Japan for public offering",
-   "ts": "2026-11-19T05:07:25.470261+00:00"
-  },
   {
    "headline": "Anthropic prices IPO at $83 per share",
    "ts": "2026-11-19T05:37:24.960091+00:00"
@@ -2046,11 +2042,15 @@
   {
    "headline": "Tencent introduces WeMM-Video omni-modal video models",
    "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  {
+   "headline": "Databricks in early talks for $225 billion valuation funding",
+   "ts": "2026-11-21T05:07:21.248258+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3980,6 +3980,35 @@
  },
  "pending": [
   {
+   "id": "c9ed8520d56f273a",
+   "item": {
+    "id": "c9ed8520d56f273a",
+    "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+    "url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。 这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网） 今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。 也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。 Kling Image 4.0 生成 按照官方介绍，新模型将原生分辨率提升至 8K ，单张图片最多支持 2000 字，并能一次生成最多 10 张连贯图片 。更值得关注的是，它采用理解与生成统一的自回归架构，尝试让模型在同一上下文中处理图像理解与生成。 这一次，可灵显然不只想把图片做得更漂亮，也希望让模型处理更复杂的创作要求。 我们从最直观的人像写真开始试试 Kling Image 4.0 的能力，从拍好一张照片，到设计一张海报，再到组织一整套视觉内容，Kling Image 4.0 究竟能替创作者完成多少工作？ 01 从写真到创意海报 Kling Image 4.0 的生图能力有多强？ 这次体验 Kling Image 4.0，最让我们意外的还是它生成图片的真实质感。我们尝试了几张人像写真，无论是人物的皮肤纹理、细节，还是户外的光影投射，都已经相当接近真实摄影。 这样的真实感，已经开始影响摄影行业本身。今年 4 月，…",
+    "published": "2026-11-21T02:59:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Kavak releases Kling Image 4.0 with 8K native resolution",
+   "post": "Kuaishou released Kling Image 4.0, featuring native 8K resolution, support for up to 2,000 text characters per image, and the ability to generate up to 10 coherent images simultaneously.",
+   "editor_note": "Check official release notes for exact architecture details and availability.",
+   "support": 0.71,
+   "published_at": "2026-11-21T02:59:00+00:00",
+   "first_seen_at": "2026-11-21T05:07:21.248258+00:00",
+   "expires_at": "2026-11-22T14:59:00+00:00",
+   "decision": 1.38,
+   "priority": 7.400577,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "e201ea2c78cdb255",
    "item": {
     "id": "e201ea2c78cdb255",
@@ -4006,8 +4035,8 @@
    "first_seen_at": "2026-11-20T12:07:25.095728+00:00",
    "expires_at": "2026-11-24T00:00:00+00:00",
    "decision": 1.29,
-   "priority": 7.381849,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.37664,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "048307fe18e56f2d",
@@ -4034,8 +4063,8 @@
    "first_seen_at": "2026-11-20T10:37:24.685869+00:00",
    "expires_at": "2026-11-21T22:30:00+00:00",
    "decision": 1.84,
-   "priority": 7.359932,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.34604,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "9556d208d7730f5a",
@@ -4064,8 +4093,8 @@
    "first_seen_at": "2026-11-19T05:37:24.960091+00:00",
    "expires_at": "2026-11-25T17:05:50+00:00",
    "decision": 1.11,
-   "priority": 7.265683,
-   "selection_reason": "Editorial importance; waiting 47.0h"
+   "priority": 7.262706,
+   "selection_reason": "Editorial importance; waiting 47.5h"
   },
   {
    "id": "0b39de03309f1175",
@@ -4117,8 +4146,8 @@
    "first_seen_at": "2026-11-21T01:07:22.568138+00:00",
    "expires_at": "2026-11-24T08:00:00+00:00",
    "decision": 2.15,
-   "priority": 7.22057,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.246617,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "4920d00e28ac4511",
@@ -4147,8 +4176,8 @@
    "first_seen_at": "2026-11-18T06:07:29.542809+00:00",
    "expires_at": "2026-11-22T00:00:00+00:00",
    "decision": 1.52,
-   "priority": 6.958516,
-   "selection_reason": "Editorial importance; waiting 70.5h"
+   "priority": 6.953307,
+   "selection_reason": "Editorial importance; waiting 71.0h"
   }
  ],
  "details_queue": [],
@@ -4397,79 +4426,15 @@
   "https://36kr.com/newsflashes/4078915481179273?f=rss": "2026-11-21T03:10:33.710414+00:00",
   "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms": "2026-11-21T03:38:01.497736+00:00",
   "https://36kr.com/newsflashes/4078896115241859?f=rss": "2026-11-21T04:10:11.935213+00:00",
-  "https://arxiv.org/abs/2611.26409": "2026-11-21T04:37:55.374825+00:00"
+  "https://arxiv.org/abs/2611.26409": "2026-11-21T04:37:55.374825+00:00",
+  "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms": "2026-11-21T05:09:19.371257+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
-  "32a21ea96f917110": {
-   "imp": 1.64,
-   "ai": 0.97,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "4e437135c956e244": {
-   "imp": 1.1,
-   "ai": 0.66,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "e273a90290d43b01": {
-   "imp": 2.47,
-   "ai": 0.96,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "665663ff752ed6cb": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "d3487b67bea9b6f9": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "345c53f3c4f97f39": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "067497cf273b2ab9": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "5cb58cff846d1708": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "a049377d6696d231": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "cba4b522411d2a87": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "ae44097b7e451b69": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "d794618846b5d57d": {
-   "imp": 1.63,
-   "ai": 0.76,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
-  "38b4f96f5777bd26": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-13T05:07:21.522060+00:00"
-  },
   "5b03ad4fc66b34de": {
    "imp": 0.26,
    "ai": null,
@@ -25974,6 +25939,31 @@
    "imp": 0.59,
    "ai": 0.06,
    "ts": "2026-11-21T04:37:20.870444+00:00"
+  },
+  "c9ed8520d56f273a": {
+   "imp": 1.38,
+   "ai": 0.98,
+   "ts": "2026-11-21T05:07:21.248258+00:00"
+  },
+  "d15ef084c8b0d15a": {
+   "imp": 2.44,
+   "ai": 0.95,
+   "ts": "2026-11-21T05:07:21.248258+00:00"
+  },
+  "1456031107b8de01": {
+   "imp": 1.84,
+   "ai": 0.95,
+   "ts": "2026-11-21T05:07:21.248258+00:00"
+  },
+  "9d3f0671620b39f4": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-21T05:07:21.248258+00:00"
+  },
+  "5609fb4706446d5d": {
+   "imp": 1.49,
+   "ai": 0.62,
+   "ts": "2026-11-21T05:07:21.248258+00:00"
   }
  }
 }
