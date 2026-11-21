@@ -1,9 +1,5 @@
 {
  "seen": {
-  "8b647b221abc19ff": "2026-11-14T13:37:22.551708+00:00",
-  "071bc9829f3578de": "2026-11-14T13:37:22.551708+00:00",
-  "c481d3ae1bc13db1": "2026-11-14T13:37:22.551708+00:00",
-  "67049349b50b855a": "2026-11-14T13:37:22.551708+00:00",
   "8d34f18c953f971c": "2026-11-14T14:07:23.308218+00:00",
   "407ea817686ea24e": "2026-11-14T14:07:23.308218+00:00",
   "7f58f945a6e14102": "2026-11-14T14:07:23.308218+00:00",
@@ -1824,7 +1820,10 @@
   "8e797836f2dc8906": "2026-11-21T13:07:28.152859+00:00",
   "9f794741031e85a1": "2026-11-21T13:07:28.152859+00:00",
   "d45a86c4e6243135": "2026-11-21T13:07:28.152859+00:00",
-  "aa2df91a074af6a9": "2026-11-21T13:07:28.152859+00:00"
+  "aa2df91a074af6a9": "2026-11-21T13:07:28.152859+00:00",
+  "0382cab26d50b7e7": "2026-11-21T13:37:34.981479+00:00",
+  "62e92effd5b9310b": "2026-11-21T13:37:34.981479+00:00",
+  "158994b8ae4ecd45": "2026-11-21T13:37:34.981479+00:00"
  },
  "covered": [
   {
@@ -2062,11 +2061,15 @@
   {
    "headline": "China plans token measurement and billing standards",
    "ts": "2026-11-21T13:07:28.152859+00:00"
+  },
+  {
+   "headline": "International talks to regulate autonomous weapons collapse",
+   "ts": "2026-11-21T13:37:34.981479+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-21",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4287,64 +4290,15 @@
   "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft": "2026-11-21T11:39:05.432453+00:00",
   "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront": "2026-11-21T12:09:08.224532+00:00",
   "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes": "2026-11-21T12:38:37.983175+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push": "2026-11-21T13:08:22.777995+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push": "2026-11-21T13:08:22.777995+00:00",
+  "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse": "2026-11-21T13:38:33.742199+00:00"
  },
  "details_daily": {
   "date": "2026-11-21",
   "count": 0,
-  "takes": 25
+  "takes": 26
  },
  "triage": {
-  "3089c4bb16cc96a8": {
-   "imp": 1.12,
-   "ai": 0.79,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "e15a3b5797ee60fc": {
-   "imp": 0.78,
-   "ai": 0.87,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "e734eb03ab12a1be": {
-   "imp": 0.58,
-   "ai": 0.75,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "31e584dc281d8d6a": {
-   "imp": 1.4,
-   "ai": 0.91,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "d27a0bd0e57af52a": {
-   "imp": 1.58,
-   "ai": 0.76,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "ece4b84db3e9cab7": {
-   "imp": 0.75,
-   "ai": null,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "f4d1fb0f786c92dd": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "6ac8587e43dd6269": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "74e5515dba0f2a36": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
-  "90b455e91a1c3861": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-13T13:37:22.130371+00:00"
-  },
   "e11df0c1a697abd3": {
    "imp": 2.37,
    "ai": 0.88,
@@ -24424,6 +24378,31 @@
    "imp": 0.08,
    "ai": 0.04,
    "ts": "2026-11-21T13:07:28.152859+00:00"
+  },
+  "62e92effd5b9310b": {
+   "imp": 1.54,
+   "ai": null,
+   "ts": "2026-11-21T13:37:34.981479+00:00"
+  },
+  "158994b8ae4ecd45": {
+   "imp": 2.17,
+   "ai": null,
+   "ts": "2026-11-21T13:37:34.981479+00:00"
+  },
+  "0382cab26d50b7e7": {
+   "imp": 2.7,
+   "ai": 0.94,
+   "ts": "2026-11-21T13:37:34.981479+00:00"
+  },
+  "68cacba281c2cd05": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-21T13:37:34.981479+00:00"
+  },
+  "6bb85e995767531c": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-21T13:37:34.981479+00:00"
   }
  }
 }
