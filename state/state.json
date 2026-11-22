@@ -1812,17 +1812,11 @@
   "ff288066bfb3b8e2": "2026-11-22T01:07:22.461911+00:00",
   "aa1009c052cc09da": "2026-11-22T01:37:22.043227+00:00",
   "26e2979e9c83fed2": "2026-11-22T02:07:23.828239+00:00",
-  "534ca835ca9bcd27": "2026-11-22T02:07:23.828239+00:00"
+  "534ca835ca9bcd27": "2026-11-22T02:07:23.828239+00:00",
+  "9c9b240362969946": "2026-11-22T03:07:25.355608+00:00",
+  "f279c1c48e3df72d": "2026-11-22T03:07:25.355608+00:00"
  },
  "covered": [
-  {
-   "headline": "TSMC restricts Chinese AI chip production under US rules",
-   "ts": "2026-11-20T02:37:33.141582+00:00"
-  },
-  {
-   "headline": "RadixArk releases DaisyRose-27B model trained with reinforcement learning",
-   "ts": "2026-11-20T03:07:35.111102+00:00"
-  },
   {
    "headline": "Singapore central bank warns AI agents heighten financial stability risks",
    "ts": "2026-11-20T03:37:22.558086+00:00"
@@ -2046,11 +2040,15 @@
   {
    "headline": "California Nvidia probe examines potential criminal law violations",
    "ts": "2026-11-22T01:37:22.043227+00:00"
+  },
+  {
+   "headline": "Tesla begins rolling out FSD v15 in the US",
+   "ts": "2026-11-22T03:07:25.355608+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4278,94 +4276,15 @@
   "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse": "2026-11-21T13:38:33.742199+00:00",
   "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8": "2026-11-21T14:38:56.075548+00:00",
   "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1": "2026-11-22T01:09:42.282671+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations": "2026-11-22T01:37:29.906043+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations": "2026-11-22T01:37:29.906043+00:00",
+  "https://36kr.com/newsflashes/4080259882324871?f=rss": "2026-11-22T03:08:40.949388+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
-  "92a1dd1352ee16ef": {
-   "imp": 1.25,
-   "ai": 0.4,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "ac75d13803ce0d93": {
-   "imp": 2.53,
-   "ai": 0.97,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "cf56dd8d2a579c04": {
-   "imp": 0.31,
-   "ai": 0.37,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "6bd3af3efefc579c": {
-   "imp": 1.83,
-   "ai": 0.89,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "bdc7bca3c70ffeb4": {
-   "imp": 1.41,
-   "ai": null,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "6318c1a9c6359d11": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "2190decebe335125": {
-   "imp": 1.2,
-   "ai": null,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "432b85a4da8f7f3c": {
-   "imp": 0.7,
-   "ai": 0.1,
-   "ts": "2026-11-14T02:37:31.704833+00:00"
-  },
-  "1e2c04e5b9e4b465": {
-   "imp": 2.6,
-   "ai": 0.96,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "9bfcb627a6c2288f": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "e44d478a2637737e": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "08c7dd1c5eb92deb": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "779685ab37e0a503": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "d75f17bbe68ec553": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "ae3a3002bbcab10b": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
-  "ce12dda2f0d4f8d7": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-14T03:07:19.743183+00:00"
-  },
   "792490ccf5f864ea": {
    "imp": 1.98,
    "ai": 0.94,
@@ -23845,6 +23764,16 @@
    "imp": 0.08,
    "ai": 0.01,
    "ts": "2026-11-22T02:37:21.104024+00:00"
+  },
+  "9c9b240362969946": {
+   "imp": 0.86,
+   "ai": 0.82,
+   "ts": "2026-11-22T03:07:25.355608+00:00"
+  },
+  "f279c1c48e3df72d": {
+   "imp": 1.51,
+   "ai": 0.91,
+   "ts": "2026-11-22T03:07:25.355608+00:00"
   }
  }
 }
