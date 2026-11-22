@@ -1,6 +1,5 @@
 {
  "seen": {
-  "961f724f1d3df68b": "2026-11-15T11:37:22.817239+00:00",
   "55019cac39e4be56": "2026-11-15T12:07:20.871047+00:00",
   "675f079919d732de": "2026-11-15T12:07:20.871047+00:00",
   "25ef49503ab1c2e7": "2026-11-15T12:07:20.871047+00:00",
@@ -1818,13 +1817,10 @@
   "e875541c9fda7a93": "2026-11-22T11:07:23.420225+00:00",
   "a31e931e37bf6895": "2026-11-22T11:07:23.420225+00:00",
   "df70d5980bc4587c": "2026-11-22T11:07:23.420225+00:00",
-  "5077f698fa6ffaf4": "2026-11-22T11:07:23.420225+00:00"
+  "5077f698fa6ffaf4": "2026-11-22T11:07:23.420225+00:00",
+  "5cfa4f9892b18c17": "2026-11-22T11:37:20.699993+00:00"
  },
  "covered": [
-  {
-   "headline": "Signal restricts screenshots to block AI agents from reading messages",
-   "ts": "2026-11-20T11:37:24.028030+00:00"
-  },
   {
    "headline": "SK Hynix converts Kioxia bond to become top shareholder",
    "ts": "2026-11-20T12:07:25.095728+00:00"
@@ -1996,11 +1992,15 @@
   {
    "headline": "US banks ban third-party AI agents from customer accounts",
    "ts": "2026-11-22T11:07:23.420225+00:00"
+  },
+  {
+   "headline": "Lean community formally verifies Riemann hypothesis proof",
+   "ts": "2026-11-22T11:37:20.699993+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4262,49 +4262,15 @@
   "https://36kr.com/newsflashes/4080259882324871?f=rss": "2026-11-22T03:08:40.949388+00:00",
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams": "2026-11-22T05:07:53.514843+00:00",
   "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1": "2026-11-22T06:41:07.692259+00:00",
-  "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents": "2026-11-22T11:09:52.357930+00:00"
+  "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents": "2026-11-22T11:09:52.357930+00:00",
+  "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct": "2026-11-22T11:39:57.954678+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
-  "938a8fdebfb42929": {
-   "imp": 1.77,
-   "ai": null,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
-  "88552ab6e5447fc4": {
-   "imp": 0.41,
-   "ai": 0.4,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
-  "33d548fd74e3ba1e": {
-   "imp": 0.49,
-   "ai": 0.22,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
-  "4e413a8b0c2407ad": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
-  "66cb00c1011803ca": {
-   "imp": 0.28,
-   "ai": 0.13,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
-  "ee58047c32921c11": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
-  "46f8c22709339164": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-14T11:37:33.154953+00:00"
-  },
   "567fa298898a17ca": {
    "imp": 0.7,
    "ai": null,
@@ -23704,6 +23670,21 @@
    "imp": 0.09,
    "ai": 0.01,
    "ts": "2026-11-22T11:07:23.420225+00:00"
+  },
+  "5cfa4f9892b18c17": {
+   "imp": 1.84,
+   "ai": null,
+   "ts": "2026-11-22T11:37:20.699993+00:00"
+  },
+  "ea0367ec586b2789": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-22T11:37:20.699993+00:00"
+  },
+  "9c1320193f22f76a": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-22T11:37:20.699993+00:00"
   }
  }
 }
