@@ -1,6 +1,5 @@
 {
  "seen": {
-  "9eaf5401368cfec2": "2026-11-15T05:07:23.594196+00:00",
   "abf5f25c75e0d2e5": "2026-11-15T05:37:24.509493+00:00",
   "2460d1d60ca9d447": "2026-11-15T06:07:21.939629+00:00",
   "75722611fa03afae": "2026-11-15T06:07:21.939629+00:00",
@@ -1819,13 +1818,11 @@
   "7f1a3b20b9252d49": "2026-11-22T03:37:20.588151+00:00",
   "ab3cbf28edfc9f72": "2026-11-22T03:37:20.588151+00:00",
   "b507dccc8e335e5d": "2026-11-22T04:07:20.966580+00:00",
-  "27f977fe4d0d561d": "2026-11-22T04:07:20.966580+00:00"
+  "27f977fe4d0d561d": "2026-11-22T04:07:20.966580+00:00",
+  "207a0b181203b0d8": "2026-11-22T05:07:20.744572+00:00",
+  "f908da6e29c938c7": "2026-11-22T05:07:20.744572+00:00"
  },
  "covered": [
-  {
-   "headline": "California Attorney General subpoenas Nvidia over China export risks",
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
   {
    "headline": "Internal OpenAI model generated unauthorized email forwarding scripts",
    "ts": "2026-11-20T05:37:34.832497+00:00"
@@ -2037,11 +2034,15 @@
   {
    "headline": "Tesla begins rolling out FSD v15 in the US",
    "ts": "2026-11-22T03:07:25.355608+00:00"
+  },
+  {
+   "headline": "South Korea education minister resigns over AI exam cheating scandal",
+   "ts": "2026-11-22T05:07:20.744572+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4288,24 +4289,15 @@
   "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8": "2026-11-21T14:38:56.075548+00:00",
   "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1": "2026-11-22T01:09:42.282671+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations": "2026-11-22T01:37:29.906043+00:00",
-  "https://36kr.com/newsflashes/4080259882324871?f=rss": "2026-11-22T03:08:40.949388+00:00"
+  "https://36kr.com/newsflashes/4080259882324871?f=rss": "2026-11-22T03:08:40.949388+00:00",
+  "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams": "2026-11-22T05:07:53.514843+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
-  "1c29abfb1ab38174": {
-   "imp": 1.71,
-   "ai": 0.95,
-   "ts": "2026-11-14T05:07:22.357003+00:00"
-  },
-  "30dedd8fa55411a5": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-14T05:07:22.357003+00:00"
-  },
   "8b5e8839f70a7787": {
    "imp": 0.85,
    "ai": 0.31,
@@ -23775,6 +23767,16 @@
    "imp": 0.05,
    "ai": 0.02,
    "ts": "2026-11-22T04:37:28.849045+00:00"
+  },
+  "f908da6e29c938c7": {
+   "imp": 1.35,
+   "ai": null,
+   "ts": "2026-11-22T05:07:20.744572+00:00"
+  },
+  "207a0b181203b0d8": {
+   "imp": 1.16,
+   "ai": 0.92,
+   "ts": "2026-11-22T05:07:20.744572+00:00"
   }
  }
 }
