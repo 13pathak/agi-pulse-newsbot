@@ -1,10 +1,5 @@
 {
  "seen": {
-  "642bd6145e28021c": "2026-11-15T15:07:26.992150+00:00",
-  "a5ca565338eb35df": "2026-11-15T15:07:26.992150+00:00",
-  "a247a40b45bd1ad3": "2026-11-15T15:07:26.992150+00:00",
-  "cd15efc45e405783": "2026-11-15T15:07:26.992150+00:00",
-  "2cf2d53f69be205a": "2026-11-15T15:37:20.943043+00:00",
   "b24410c214a7c4e1": "2026-11-15T16:07:22.071844+00:00",
   "65ecef2327a06bf0": "2026-11-15T16:07:22.071844+00:00",
   "f7a0a0957afeedca": "2026-11-15T16:37:21.486115+00:00",
@@ -1826,17 +1821,12 @@
   "be996d8d54210453": "2026-11-22T14:37:20.646911+00:00",
   "141d3e3e6383c48f": "2026-11-22T14:37:20.646911+00:00",
   "0655536384bad1d8": "2026-11-22T15:07:20.999178+00:00",
-  "e1bd1a79143c8900": "2026-11-22T15:07:20.999178+00:00"
+  "e1bd1a79143c8900": "2026-11-22T15:07:20.999178+00:00",
+  "ea4ec8bb42c1fcbf": "2026-11-22T15:37:27.426323+00:00",
+  "de93e1ce4f3147de": "2026-11-22T15:37:27.426323+00:00",
+  "76ba398d1d47db30": "2026-11-22T15:37:27.426323+00:00"
  },
  "covered": [
-  {
-   "headline": "Cursor considers phasing out Chinese open-weight AI models",
-   "ts": "2026-11-20T15:07:25.281663+00:00"
-  },
-  {
-   "headline": "Google and Blue Origin partner on space data centers",
-   "ts": "2026-11-20T15:37:22.263514+00:00"
-  },
   {
    "headline": "Bloomberg analysis highlights AI labor market impact in China",
    "ts": "2026-11-20T16:07:21.865128+00:00"
@@ -1996,11 +1986,15 @@
   {
    "headline": "Perplexity launches Monitor API for automated web search alerts",
    "ts": "2026-11-22T14:37:20.646911+00:00"
+  },
+  {
+   "headline": "Sarvam AI releases Sarvam-105B-1711 model checkpoint",
+   "ts": "2026-11-22T15:37:27.426323+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3989,6 +3983,12 @@
    "desc": "",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.sarvam.ai/blogs/sarvam-105b-1711": {
+   "title": "Sarvam-105B-1711: a new Sarvam 105B checkpoint | Sarvam AI",
+   "desc": "Sarvam-105B-1711 leads its class on IFBench (82.5) and Tau2 (85.5), trained at 38% MFU on NVIDIA B200 and served at 6,067 tokens/s per GPU in NVFP4.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/b1752012f4e3537eccb7e0f39b2da75c5e0e411d-1672x941.png",
+   "published": "2026-11-22T00:00:00+00:00"
   }
  },
  "pending": [],
@@ -4267,84 +4267,15 @@
   "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee": "2026-11-22T12:08:23.804425+00:00",
   "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users": "2026-11-22T12:38:52.915079+00:00",
   "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment": "2026-11-22T13:40:03.445954+00:00",
-  "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog": "2026-11-22T14:39:17.627655+00:00"
+  "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog": "2026-11-22T14:39:17.627655+00:00",
+  "https://www.sarvam.ai/blogs/sarvam-105b-1711": "2026-11-22T15:39:18.897302+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
-  "count": 0,
+  "count": 1,
   "takes": 11
  },
  "triage": {
-  "d46b516a4c8344dc": {
-   "imp": 0.47,
-   "ai": null,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "9d362106e805f24e": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "a15c62a956a1dbd3": {
-   "imp": 1.75,
-   "ai": 0.33,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "aa65033692fb6eff": {
-   "imp": 2.34,
-   "ai": 0.96,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "ef0ef7acf3d814b4": {
-   "imp": 2.51,
-   "ai": 0.64,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "dd6c643866e0182a": {
-   "imp": 1.05,
-   "ai": 0.21,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "2990c14363c16289": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-14T15:07:31.155102+00:00"
-  },
-  "1550629ee152246d": {
-   "imp": 1.02,
-   "ai": 0.81,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
-  "01ec9257e016a457": {
-   "imp": 1.45,
-   "ai": 0.86,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
-  "c942e3d15e3fa447": {
-   "imp": 1.2,
-   "ai": 0.84,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
-  "d51d9178edf25243": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
-  "9045dcda80bd3614": {
-   "imp": 1.22,
-   "ai": 0.17,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
-  "9b37e83090f08767": {
-   "imp": 0.23,
-   "ai": 0.05,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
-  "e5ff6a5731f43b56": {
-   "imp": 0.3,
-   "ai": 0.13,
-   "ts": "2026-11-14T15:37:22.755172+00:00"
-  },
   "62125f379fbbc31d": {
    "imp": 0.19,
    "ai": 0.12,
@@ -23694,6 +23625,31 @@
    "imp": 0.55,
    "ai": 0.13,
    "ts": "2026-11-22T15:07:20.999178+00:00"
+  },
+  "ea4ec8bb42c1fcbf": {
+   "imp": 1.81,
+   "ai": null,
+   "ts": "2026-11-22T15:37:27.426323+00:00"
+  },
+  "de93e1ce4f3147de": {
+   "imp": 0.77,
+   "ai": 0.6,
+   "ts": "2026-11-22T15:37:27.426323+00:00"
+  },
+  "76ba398d1d47db30": {
+   "imp": 2.5,
+   "ai": null,
+   "ts": "2026-11-22T15:37:27.426323+00:00"
+  },
+  "8d5b928104240c5c": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-22T15:37:27.426323+00:00"
+  },
+  "8cf49914d9d132aa": {
+   "imp": 0.03,
+   "ai": 0.02,
+   "ts": "2026-11-22T15:37:27.426323+00:00"
   }
  }
 }
