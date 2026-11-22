@@ -1,9 +1,5 @@
 {
  "seen": {
-  "556f095177f2a410": "2026-11-15T13:07:20.972232+00:00",
-  "4c525e5e54fa3645": "2026-11-15T13:07:20.972232+00:00",
-  "93743783bb08eddc": "2026-11-15T13:07:20.972232+00:00",
-  "db28f361ce6dc77e": "2026-11-15T13:07:20.972232+00:00",
   "72120cb31e6597d5": "2026-11-15T14:07:24.765095+00:00",
   "7c347ddc214057a5": "2026-11-15T14:07:24.765095+00:00",
   "a39fa7636e6a9150": "2026-11-15T14:07:24.765095+00:00",
@@ -1827,17 +1823,11 @@
   "b014e723007fa87f": "2026-11-22T13:07:20.325584+00:00",
   "e8a695c7a8617e19": "2026-11-22T13:07:20.325584+00:00",
   "0f50037c76f25ff3": "2026-11-22T13:07:20.325584+00:00",
-  "22e5974fec7c6508": "2026-11-22T13:07:20.325584+00:00"
+  "22e5974fec7c6508": "2026-11-22T13:07:20.325584+00:00",
+  "7a695ceb70435dd7": "2026-11-22T13:37:34.771162+00:00",
+  "1d546e49d38a9425": "2026-11-22T13:37:34.771162+00:00"
  },
  "covered": [
-  {
-   "headline": "Nestle partners with Microsoft and Boston Dynamics",
-   "ts": "2026-11-20T13:07:25.783540+00:00"
-  },
-  {
-   "headline": "Goa Cabinet approves three-year AI policy for 2026",
-   "ts": "2026-11-20T13:37:23.217389+00:00"
-  },
   {
    "headline": "Tencent launches computer control feature for WorkBuddy app",
    "ts": "2026-11-20T14:07:22.748837+00:00"
@@ -2005,11 +1995,15 @@
   {
    "headline": "OpenRouter removes inference providers over key theft and request snooping",
    "ts": "2026-11-22T12:37:20.975761+00:00"
+  },
+  {
+   "headline": "Tencent evaluates Hy4 open-weight model with third parties",
+   "ts": "2026-11-22T13:37:34.771162+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4274,104 +4268,15 @@
   "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents": "2026-11-22T11:09:52.357930+00:00",
   "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct": "2026-11-22T11:39:57.954678+00:00",
   "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee": "2026-11-22T12:08:23.804425+00:00",
-  "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users": "2026-11-22T12:38:52.915079+00:00"
+  "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users": "2026-11-22T12:38:52.915079+00:00",
+  "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment": "2026-11-22T13:40:03.445954+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
-  "34053f9a48a9d44a": {
-   "imp": 1.15,
-   "ai": 0.44,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "75cfd6180da45505": {
-   "imp": 1.42,
-   "ai": null,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "001478e2f80f2de9": {
-   "imp": 1.95,
-   "ai": 0.94,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "c9e9cd33b8822a0c": {
-   "imp": 1.78,
-   "ai": 0.89,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "470ab561f6f813dd": {
-   "imp": 1.29,
-   "ai": 0.86,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "3a763220f7092ee1": {
-   "imp": 0.24,
-   "ai": 0.06,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "219eb92d11e6e985": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "9123eab16f505ab8": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "0fc2f3ae234594e2": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-14T13:07:29.498101+00:00"
-  },
-  "8b647b221abc19ff": {
-   "imp": 2.52,
-   "ai": 0.9,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "071bc9829f3578de": {
-   "imp": 2.34,
-   "ai": 0.96,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "67049349b50b855a": {
-   "imp": 2.49,
-   "ai": 0.98,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "d39ae35627182405": {
-   "imp": 0.05,
-   "ai": 0.01,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "7c4419f5d625c39d": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "c481d3ae1bc13db1": {
-   "imp": 1.54,
-   "ai": 0.82,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "de8729406051d439": {
-   "imp": 0.42,
-   "ai": 0.08,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "7f58f945a6e14102": {
-   "imp": 1.35,
-   "ai": 0.91,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
-  "2ae562291be4b972": {
-   "imp": 1.2,
-   "ai": 0.62,
-   "ts": "2026-11-14T13:37:22.551708+00:00"
-  },
   "f4f2b5a7db8c9bea": {
    "imp": 0.64,
    "ai": 0.8,
@@ -23771,6 +23676,51 @@
    "imp": 0.41,
    "ai": 0.28,
    "ts": "2026-11-22T13:07:20.325584+00:00"
+  },
+  "28ed4668b1e53c32": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "7a695ceb70435dd7": {
+   "imp": 1.75,
+   "ai": 0.96,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "1d546e49d38a9425": {
+   "imp": 1.66,
+   "ai": 0.97,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "3fd8ec77bced8597": {
+   "imp": 0.45,
+   "ai": 0.05,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "b01ca5fe0aa084f6": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "c59e02b050cbf92c": {
+   "imp": 1.27,
+   "ai": 0.31,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "5197e1e00996f14e": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "7bb56eeaf56b9242": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  "96de0a345e3dd251": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-22T13:37:34.771162+00:00"
   }
  }
 }
