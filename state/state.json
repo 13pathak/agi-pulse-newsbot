@@ -1,10 +1,5 @@
 {
  "seen": {
-  "55019cac39e4be56": "2026-11-15T12:07:20.871047+00:00",
-  "675f079919d732de": "2026-11-15T12:07:20.871047+00:00",
-  "25ef49503ab1c2e7": "2026-11-15T12:07:20.871047+00:00",
-  "437c9a05119d7ea7": "2026-11-15T12:07:20.871047+00:00",
-  "fa1b9f395520374a": "2026-11-15T12:07:20.871047+00:00",
   "3effc3d40526c5c7": "2026-11-15T12:37:19.978740+00:00",
   "556f095177f2a410": "2026-11-15T13:07:20.972232+00:00",
   "4c525e5e54fa3645": "2026-11-15T13:07:20.972232+00:00",
@@ -1818,13 +1813,13 @@
   "a31e931e37bf6895": "2026-11-22T11:07:23.420225+00:00",
   "df70d5980bc4587c": "2026-11-22T11:07:23.420225+00:00",
   "5077f698fa6ffaf4": "2026-11-22T11:07:23.420225+00:00",
-  "5cfa4f9892b18c17": "2026-11-22T11:37:20.699993+00:00"
+  "5cfa4f9892b18c17": "2026-11-22T11:37:20.699993+00:00",
+  "e209846e7d759f06": "2026-11-22T12:07:24.123610+00:00",
+  "6171bc5e378b2b0b": "2026-11-22T12:07:24.123610+00:00",
+  "2a2deb0518501793": "2026-11-22T12:07:24.123610+00:00",
+  "1134b63cecfab6f6": "2026-11-22T12:07:24.123610+00:00"
  },
  "covered": [
-  {
-   "headline": "SK Hynix converts Kioxia bond to become top shareholder",
-   "ts": "2026-11-20T12:07:25.095728+00:00"
-  },
   {
    "headline": "Tencent Cloud makes DeepSeek server-side search free",
    "ts": "2026-11-20T12:37:23.904607+00:00"
@@ -1996,11 +1991,15 @@
   {
    "headline": "Lean community formally verifies Riemann hypothesis proof",
    "ts": "2026-11-22T11:37:20.699993+00:00"
+  },
+  {
+   "headline": "Lenders back 43 billion dollar Nvidia GPU deal for SpaceX",
+   "ts": "2026-11-22T12:07:24.123610+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4263,39 +4262,15 @@
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams": "2026-11-22T05:07:53.514843+00:00",
   "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1": "2026-11-22T06:41:07.692259+00:00",
   "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents": "2026-11-22T11:09:52.357930+00:00",
-  "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct": "2026-11-22T11:39:57.954678+00:00"
+  "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct": "2026-11-22T11:39:57.954678+00:00",
+  "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee": "2026-11-22T12:08:23.804425+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
-  "567fa298898a17ca": {
-   "imp": 0.7,
-   "ai": null,
-   "ts": "2026-11-14T12:07:29.222534+00:00"
-  },
-  "3fecc6a9d4a07de9": {
-   "imp": 1.96,
-   "ai": null,
-   "ts": "2026-11-14T12:07:29.222534+00:00"
-  },
-  "6416a5386c31fb34": {
-   "imp": 0.59,
-   "ai": 0.68,
-   "ts": "2026-11-14T12:07:29.222534+00:00"
-  },
-  "d162648fd3cf97a0": {
-   "imp": 0.22,
-   "ai": 0.06,
-   "ts": "2026-11-14T12:07:29.222534+00:00"
-  },
-  "9b6e9e1e230b4c23": {
-   "imp": 0.4,
-   "ai": 0.5,
-   "ts": "2026-11-14T12:07:29.222534+00:00"
-  },
   "fca3ae34a258ab4b": {
    "imp": 1.33,
    "ai": 0.49,
@@ -23685,6 +23660,41 @@
    "imp": 0.23,
    "ai": 0.04,
    "ts": "2026-11-22T11:37:20.699993+00:00"
+  },
+  "2a2deb0518501793": {
+   "imp": 0.2,
+   "ai": null,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
+  },
+  "ca098ffbc0571821": {
+   "imp": 0.19,
+   "ai": 0.05,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
+  },
+  "1134b63cecfab6f6": {
+   "imp": 1.82,
+   "ai": 0.9,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
+  },
+  "e209846e7d759f06": {
+   "imp": 1.29,
+   "ai": 0.75,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
+  },
+  "6171bc5e378b2b0b": {
+   "imp": 0.35,
+   "ai": 0.46,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
+  },
+  "2e4f04e1e706d1cc": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
+  },
+  "9af6615e64413968": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-22T12:07:24.123610+00:00"
   }
  }
 }
