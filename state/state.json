@@ -1814,7 +1814,12 @@
   "26e2979e9c83fed2": "2026-11-22T02:07:23.828239+00:00",
   "534ca835ca9bcd27": "2026-11-22T02:07:23.828239+00:00",
   "9c9b240362969946": "2026-11-22T03:07:25.355608+00:00",
-  "f279c1c48e3df72d": "2026-11-22T03:07:25.355608+00:00"
+  "f279c1c48e3df72d": "2026-11-22T03:07:25.355608+00:00",
+  "637aa570c21ebdd0": "2026-11-22T03:37:20.588151+00:00",
+  "e6d6279bda9ee878": "2026-11-22T03:37:20.588151+00:00",
+  "434e098f79aaab2b": "2026-11-22T03:37:20.588151+00:00",
+  "7f1a3b20b9252d49": "2026-11-22T03:37:20.588151+00:00",
+  "ab3cbf28edfc9f72": "2026-11-22T03:37:20.588151+00:00"
  },
  "covered": [
   {
@@ -4007,6 +4012,24 @@
   },
   "https://huggingface.co/tencent/WeMM-Video-35BA3B": {
    "card": "WeMM-Video-35B-A3B Overview WeMM-Video-35B-A3B is the mixture-of-experts (35B total, 3B active) checkpoint in the WeMM-Video family. WeMM-Video is a Chinese–English bilingual family for joint audio-visual understanding and reasoning. It accepts text, images, audio, and video and generates text responses. - Weights · BF16 Safetensors · 67.39 GiB of weight files - Quantized variants · FP8 Block128 · AWQ W4A16 · GGUF Q4 K M · NVFP4 W4A16 Capabilities WeMM-Video can combine video frames with the original soundtrack to describe events, transcribe speech, and reason about what is seen and heard. It also accepts silent video, standalone audio, images, and text, with responses in Chinese or English. Architecture and training Vision and audio encoders turn media into tokens that the language model processes alongside text. Video frames carry timestamps. The family was pretrained on approximately 1.2 trillion multimodal tokens, then post-trained with multi-teacher OPD, anti-repetition MrDPO, and specialist reinforcement learning. See the project overview for family details. Quick Start Set up the Transformers environment. From the WeMM-Video repository root, run the example on an MP4 with a …"
+  },
+  "https://www.qbitai.com/2026/11/511791.html": {
+   "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+   "desc": "",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511841.html": {
+   "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+   "desc": "",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511830.html": {
+   "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+   "desc": "",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [],
@@ -23774,6 +23797,56 @@
    "imp": 1.51,
    "ai": 0.91,
    "ts": "2026-11-22T03:07:25.355608+00:00"
+  },
+  "434e098f79aaab2b": {
+   "imp": 1.13,
+   "ai": 0.44,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "0256f71b4552ad31": {
+   "imp": 0.85,
+   "ai": 0.88,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "ab3cbf28edfc9f72": {
+   "imp": 1.09,
+   "ai": 0.9,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "e6d6279bda9ee878": {
+   "imp": 1.56,
+   "ai": 0.98,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "637aa570c21ebdd0": {
+   "imp": 2.04,
+   "ai": 0.94,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "970e3e112854d1f7": {
+   "imp": 0.14,
+   "ai": 0.09,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "e934b7d400597531": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "e01ed0ee19c351c3": {
+   "imp": 0.77,
+   "ai": 0.47,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "7f1a3b20b9252d49": {
+   "imp": 1.42,
+   "ai": 0.94,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
+  },
+  "aebde373ad4cf183": {
+   "imp": 0.19,
+   "ai": 0.05,
+   "ts": "2026-11-22T03:37:20.588151+00:00"
   }
  }
 }
