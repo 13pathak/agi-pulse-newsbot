@@ -1,9 +1,5 @@
 {
  "seen": {
-  "72120cb31e6597d5": "2026-11-15T14:07:24.765095+00:00",
-  "7c347ddc214057a5": "2026-11-15T14:07:24.765095+00:00",
-  "a39fa7636e6a9150": "2026-11-15T14:07:24.765095+00:00",
-  "1ca5d35acdf294fd": "2026-11-15T14:37:21.449225+00:00",
   "642bd6145e28021c": "2026-11-15T15:07:26.992150+00:00",
   "a5ca565338eb35df": "2026-11-15T15:07:26.992150+00:00",
   "a247a40b45bd1ad3": "2026-11-15T15:07:26.992150+00:00",
@@ -1826,17 +1822,11 @@
   "22e5974fec7c6508": "2026-11-22T13:07:20.325584+00:00",
   "7a695ceb70435dd7": "2026-11-22T13:37:34.771162+00:00",
   "1d546e49d38a9425": "2026-11-22T13:37:34.771162+00:00",
-  "640048dd8d426256": "2026-11-22T14:07:20.639852+00:00"
+  "640048dd8d426256": "2026-11-22T14:07:20.639852+00:00",
+  "be996d8d54210453": "2026-11-22T14:37:20.646911+00:00",
+  "141d3e3e6383c48f": "2026-11-22T14:37:20.646911+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent launches computer control feature for WorkBuddy app",
-   "ts": "2026-11-20T14:07:22.748837+00:00"
-  },
-  {
-   "headline": "Indian retail investors drive trading volume in Anthropic Nasdaq debut",
-   "ts": "2026-11-20T14:37:27.350385+00:00"
-  },
   {
    "headline": "Cursor considers phasing out Chinese open-weight AI models",
    "ts": "2026-11-20T15:07:25.281663+00:00"
@@ -2000,11 +1990,15 @@
   {
    "headline": "Tencent evaluates Hy4 open-weight model with third parties",
    "ts": "2026-11-22T13:37:34.771162+00:00"
+  },
+  {
+   "headline": "Perplexity launches Monitor API for automated web search alerts",
+   "ts": "2026-11-22T14:37:20.646911+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4270,84 +4264,15 @@
   "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct": "2026-11-22T11:39:57.954678+00:00",
   "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee": "2026-11-22T12:08:23.804425+00:00",
   "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users": "2026-11-22T12:38:52.915079+00:00",
-  "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment": "2026-11-22T13:40:03.445954+00:00"
+  "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment": "2026-11-22T13:40:03.445954+00:00",
+  "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog": "2026-11-22T14:39:17.627655+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
-  "f4f2b5a7db8c9bea": {
-   "imp": 0.64,
-   "ai": 0.8,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "b03b10c341981c2b": {
-   "imp": 1.27,
-   "ai": 0.79,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "407ea817686ea24e": {
-   "imp": 1.89,
-   "ai": 0.91,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "8d34f18c953f971c": {
-   "imp": 2.3,
-   "ai": 0.85,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "e0095ac9ebc47817": {
-   "imp": 0.04,
-   "ai": 0.02,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "967ae75d1de022ee": {
-   "imp": 1.34,
-   "ai": 0.74,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "97a7b8e55c283e2d": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-14T14:07:23.308218+00:00"
-  },
-  "91a0c53e7b095b14": {
-   "imp": 0.69,
-   "ai": 0.73,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
-  "e62244f38033a386": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
-  "566b73ce924700d8": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
-  "c56e93ab218b275b": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
-  "8d7e21a5d06822db": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
-  "b935addbc6bca247": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
-  "82b085c93cfb2873": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-14T14:37:24.398833+00:00"
-  },
   "d46b516a4c8344dc": {
    "imp": 0.47,
    "ai": null,
@@ -23737,6 +23662,21 @@
    "imp": 0.34,
    "ai": 0.07,
    "ts": "2026-11-22T14:07:20.639852+00:00"
+  },
+  "141d3e3e6383c48f": {
+   "imp": 1.57,
+   "ai": null,
+   "ts": "2026-11-22T14:37:20.646911+00:00"
+  },
+  "be996d8d54210453": {
+   "imp": 0.17,
+   "ai": 0.59,
+   "ts": "2026-11-22T14:37:20.646911+00:00"
+  },
+  "0487570559c61d32": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-22T14:37:20.646911+00:00"
   }
  }
 }
