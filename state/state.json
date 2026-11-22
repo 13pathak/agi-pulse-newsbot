@@ -1,6 +1,5 @@
 {
  "seen": {
-  "d325b9b786ea2db7": "2026-11-15T01:37:22.765028+00:00",
   "9c00ed3409d13ab4": "2026-11-15T02:07:22.680319+00:00",
   "634ac5cadd89a928": "2026-11-15T02:07:22.680319+00:00",
   "154ed1b4806595af": "2026-11-15T03:37:29.933456+00:00",
@@ -1812,13 +1811,10 @@
   "87a78761f29c84d5": "2026-11-22T01:07:22.461911+00:00",
   "faad3d069958a330": "2026-11-22T01:07:22.461911+00:00",
   "ec64a1e8c3ad9150": "2026-11-22T01:07:22.461911+00:00",
-  "ff288066bfb3b8e2": "2026-11-22T01:07:22.461911+00:00"
+  "ff288066bfb3b8e2": "2026-11-22T01:07:22.461911+00:00",
+  "aa1009c052cc09da": "2026-11-22T01:37:22.043227+00:00"
  },
  "covered": [
-  {
-   "headline": "Infosys invests in NTT Docomo metaverse joint venture",
-   "ts": "2026-11-20T01:37:24.042985+00:00"
-  },
   {
    "headline": "Nvidia in talks to acquire AI startup Inception",
    "ts": "2026-11-20T02:07:21.754790+00:00"
@@ -2050,11 +2046,15 @@
   {
    "headline": "Amazon nearing 7.5 billion dollar deal for AI startup Decart",
    "ts": "2026-11-22T01:07:22.461911+00:00"
+  },
+  {
+   "headline": "California Nvidia probe examines potential criminal law violations",
+   "ts": "2026-11-22T01:37:22.043227+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-22",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4015,36 +4015,7 @@
    "card": "WeMM-Video-35B-A3B Overview WeMM-Video-35B-A3B is the mixture-of-experts (35B total, 3B active) checkpoint in the WeMM-Video family. WeMM-Video is a Chinese–English bilingual family for joint audio-visual understanding and reasoning. It accepts text, images, audio, and video and generates text responses. - Weights · BF16 Safetensors · 67.39 GiB of weight files - Quantized variants · FP8 Block128 · AWQ W4A16 · GGUF Q4 K M · NVFP4 W4A16 Capabilities WeMM-Video can combine video frames with the original soundtrack to describe events, transcribe speech, and reason about what is seen and heard. It also accepts silent video, standalone audio, images, and text, with responses in Chinese or English. Architecture and training Vision and audio encoders turn media into tokens that the language model processes alongside text. Video frames carry timestamps. The family was pretrained on approximately 1.2 trillion multimodal tokens, then post-trained with multi-teacher OPD, anti-repetition MrDPO, and specialist reinforcement learning. See the project overview for family details. Quick Start Set up the Transformers environment. From the WeMM-Video repository root, run the example on an MP4 with a …"
   }
  },
- "pending": [
-  {
-   "id": "aa1009c052cc09da",
-   "item": {
-    "id": "aa1009c052cc09da",
-    "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
-    "published": "2026-11-21T17:11:23+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "California Nvidia probe examines potential criminal law violations",
-   "post": "Bloomberg reported that California state authorities are examining potential criminal law violations in their probe into whether Nvidia illegally sold advanced chips to China and misled investors.",
-   "editor_note": "Verify whether formal charges have been filed or if the inquiry remains an ongoing state investigation.",
-   "support": 0.96,
-   "published_at": "2026-11-21T17:11:23+00:00",
-   "first_seen_at": "2026-11-22T01:07:22.461911+00:00",
-   "expires_at": "2026-11-23T05:11:23+00:00",
-   "decision": 2.08,
-   "priority": 7.472967,
-   "selection_reason": "Time-sensitive story"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4310,12 +4281,13 @@
   "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push": "2026-11-21T13:08:22.777995+00:00",
   "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse": "2026-11-21T13:38:33.742199+00:00",
   "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8": "2026-11-21T14:38:56.075548+00:00",
-  "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1": "2026-11-22T01:09:42.282671+00:00"
+  "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1": "2026-11-22T01:09:42.282671+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations": "2026-11-22T01:37:29.906043+00:00"
  },
  "details_daily": {
   "date": "2026-11-22",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
   "be9c980053554ca7": {
@@ -23892,6 +23864,16 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-22T01:07:22.461911+00:00"
+  },
+  "b8966ea893a13ba4": {
+   "imp": 0.53,
+   "ai": 0.15,
+   "ts": "2026-11-22T01:37:22.043227+00:00"
+  },
+  "58f687dc71738738": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-22T01:37:22.043227+00:00"
   }
  }
 }
