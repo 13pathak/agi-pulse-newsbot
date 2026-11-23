@@ -1,13 +1,5 @@
 {
  "seen": {
-  "aa382646f25613fd": "2026-11-16T11:07:24.483187+00:00",
-  "6f1bc1e81c0e22ba": "2026-11-16T11:07:24.483187+00:00",
-  "1df21d2e2c7164f7": "2026-11-16T11:07:24.483187+00:00",
-  "e9f76ec6a800f653": "2026-11-16T11:07:24.483187+00:00",
-  "60684b1def093ff6": "2026-11-16T11:07:24.483187+00:00",
-  "57546c4df8e7441f": "2026-11-16T11:07:24.483187+00:00",
-  "87ae7de26888c577": "2026-11-16T11:07:24.483187+00:00",
-  "3f3f5e08244a8e3c": "2026-11-16T11:07:24.483187+00:00",
   "823e860ffedf5e1a": "2026-11-16T11:37:21.233983+00:00",
   "dcf50a49c0dff196": "2026-11-16T11:37:21.233983+00:00",
   "dca70450b7915a01": "2026-11-16T11:37:21.233983+00:00",
@@ -1840,13 +1832,18 @@
   "a38d4be88975370e": "2026-11-23T10:37:25.995452+00:00",
   "2115dee2b3854de2": "2026-11-23T10:37:25.995452+00:00",
   "81d9a76420c21834": "2026-11-23T10:37:25.995452+00:00",
-  "b35f4514a643688e": "2026-11-23T10:37:25.995452+00:00"
+  "b35f4514a643688e": "2026-11-23T10:37:25.995452+00:00",
+  "83e953ebf8b78b31": "2026-11-23T11:07:21.386780+00:00",
+  "261097f540d327da": "2026-11-23T11:07:21.386780+00:00",
+  "b1b06859022ca715": "2026-11-23T11:07:21.386780+00:00",
+  "b350edef2d5dd413": "2026-11-23T11:07:21.386780+00:00",
+  "aa10742926fa6ce1": "2026-11-23T11:07:21.386780+00:00",
+  "3b55aa65db6a4ec5": "2026-11-23T11:07:21.386780+00:00",
+  "f2b2ade59ba10d0b": "2026-11-23T11:07:21.386780+00:00",
+  "15d1aebea20a56f9": "2026-11-23T11:07:21.386780+00:00",
+  "dfb0304cbd0815ca": "2026-11-23T11:07:21.386780+00:00"
  },
  "covered": [
-  {
-   "headline": "Google commits five million dollars to IIT Kharagpur",
-   "ts": "2026-11-21T11:07:22.348012+00:00"
-  },
   {
    "headline": "Stanford releases independent competing proof on Riemann hypothesis",
    "ts": "2026-11-21T11:37:20.925678+00:00"
@@ -1978,11 +1975,15 @@
   {
    "headline": "Sarvam AI Clarifies Token Factory GPU Sourcing Following Criticism",
    "ts": "2026-11-23T10:37:25.995452+00:00"
+  },
+  {
+   "headline": "Oregon and Virginia sue Musk companies over Grok deepfakes",
+   "ts": "2026-11-23T11:07:21.386780+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4019,9 +4020,78 @@
    "desc": "豆包工作是目前字节优先级最高的产品",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512179.html": {
+   "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+   "desc": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/511989.html": {
+   "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+   "desc": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "106e5d1cffec6462",
+   "item": {
+    "id": "106e5d1cffec6462",
+    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
+    "published": "2026-11-23T11:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Walmart enables Meta Muse AI agent for Black Friday shopping",
+   "post": "Walmart has enabled Meta's Muse AI agent to browse and complete online purchases on its website through its Agent Gateway system without sharing complete purchase history.",
+   "editor_note": "Verify user authentication process and specific limits on Agent Gateway transactions.",
+   "support": 0.86,
+   "published_at": "2026-11-23T11:00:00+00:00",
+   "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
+   "expires_at": "2026-11-24T23:00:00+00:00",
+   "decision": 1.79,
+   "priority": 7.593261,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "219a8ccbe674d162",
+   "item": {
+    "id": "219a8ccbe674d162",
+    "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
+    "url": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769092272610-0b2c58c1-cedc-486a-849a-3eb600ebcfa0-0q42cp.webp",
+    "snippet": "L&T Technology Services (LTTS) has launched an AI-powered engineering toolchain designed to support the development and validation of software-defined vehicles (SDVs). Called SDVault.ai, the platform uses more than 250 AI agents across 12 engineering domains, covering requirements, system architecture, functional safety, cybersecurity, software development and testing. Part of LTTS' EI for Enginee…",
+    "published": "2026-11-23T11:00:35+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "LTTS launches SDVault AI engineering platform for software vehicles",
+   "post": "L&T Technology Services launched SDVault.ai, an AI engineering toolchain featuring over 250 AI agents across 12 domains to support the development and testing of software-defined vehicles.",
+   "editor_note": "Verify commercial availability date and client deployment status for SDVault.ai.",
+   "support": 0.96,
+   "published_at": "2026-11-23T11:00:35+00:00",
+   "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
+   "expires_at": "2026-11-24T23:00:35+00:00",
+   "decision": 1.85,
+   "priority": 7.113531,
+   "selection_reason": "Editorial importance"
+  }
+ ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4313,69 +4383,15 @@
   "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent": "2026-11-23T08:09:33.722300+00:00",
   "https://arxiv.org/abs/2611.24636": "2026-11-23T08:38:14.383369+00:00",
   "https://analyticsindiamag.com/ai-startups/bolna-builds-its-own-speech-model-to-catch-what-voice-ai-misses": "2026-11-23T09:09:55.599327+00:00",
-  "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus": "2026-11-23T10:39:53.089768+00:00"
+  "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus": "2026-11-23T10:39:53.089768+00:00",
+  "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes": "2026-11-23T11:09:09.061087+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
-  "5b202e7c79319e5b": {
-   "imp": 0.83,
-   "ai": null,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "7611c876b17c9451": {
-   "imp": 1.49,
-   "ai": null,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "623d4c31f88dac52": {
-   "imp": 1.56,
-   "ai": 0.83,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "537f5070d222b43f": {
-   "imp": 0.23,
-   "ai": 0.06,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "c8e767206274ece1": {
-   "imp": 0.74,
-   "ai": 0.31,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "58131205cee7e8b4": {
-   "imp": 0.53,
-   "ai": 0.25,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "e4366073325061d1": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "b9b0ee3b78ab5c36": {
-   "imp": 0.18,
-   "ai": 0.03,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "a12b28acd71085eb": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "c8e9a463f8d34c2a": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
-  "b1b647f43625df90": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-15T11:07:25.893732+00:00"
-  },
   "961f724f1d3df68b": {
    "imp": 0.67,
    "ai": 0.87,
@@ -24715,6 +24731,146 @@
    "imp": 0.08,
    "ai": 0.03,
    "ts": "2026-11-23T10:37:25.995452+00:00"
+  },
+  "15d1aebea20a56f9": {
+   "imp": 0.64,
+   "ai": 0.8,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "106e5d1cffec6462": {
+   "imp": 1.79,
+   "ai": null,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "dfb0304cbd0815ca": {
+   "imp": 1.89,
+   "ai": null,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "261097f540d327da": {
+   "imp": 1.33,
+   "ai": null,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "aa10742926fa6ce1": {
+   "imp": 0.89,
+   "ai": 0.59,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "219a8ccbe674d162": {
+   "imp": 1.85,
+   "ai": 0.95,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "3b55aa65db6a4ec5": {
+   "imp": 1.91,
+   "ai": 0.78,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "83e953ebf8b78b31": {
+   "imp": 1.48,
+   "ai": 0.76,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "79f7df13eb2e5d55": {
+   "imp": 0.82,
+   "ai": 0.12,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "b2fedd61b3509472": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "e333e688e34110c3": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "27323cd8ca48ff96": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "5d425f8b76faeedd": {
+   "imp": 0.81,
+   "ai": 0.22,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "4eadc9a452e62a44": {
+   "imp": 0.63,
+   "ai": 0.13,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "433c43ff5bc98f81": {
+   "imp": 0.2,
+   "ai": 0.07,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "f882df5296df47a6": {
+   "imp": 0.18,
+   "ai": 0.05,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "b1b06859022ca715": {
+   "imp": 1.26,
+   "ai": 0.78,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "f16490ae7dae6d81": {
+   "imp": 0.19,
+   "ai": 0.09,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "8e5f084277182e34": {
+   "imp": 0.21,
+   "ai": 0.06,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "ff605d46eef1b8cb": {
+   "imp": 0.18,
+   "ai": 0.06,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "57a4b38eb4b0474f": {
+   "imp": 0.53,
+   "ai": 0.13,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "e1f611ce2ee418c3": {
+   "imp": 1.44,
+   "ai": 0.67,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "99b8a7d76e16cb4a": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "024dd6ad869a6c09": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "079959a6d5b65d2c": {
+   "imp": 0.35,
+   "ai": 0.09,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "f416e7c79d1a6df9": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "ad754603fb2d0646": {
+   "imp": 0.2,
+   "ai": 0.07,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
+  },
+  "8575d366908a5d87": {
+   "imp": 0.36,
+   "ai": 0.06,
+   "ts": "2026-11-23T11:07:21.386780+00:00"
   }
  }
 }
