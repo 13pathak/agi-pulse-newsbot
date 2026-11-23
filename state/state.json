@@ -1833,10 +1833,6 @@
  },
  "covered": [
   {
-   "headline": "Bewakoof cofounder launches AI shopping assistant Save8",
-   "ts": "2026-11-21T14:37:24.965572+00:00"
-  },
-  {
    "headline": "Amazon nearing 7.5 billion dollar deal for AI startup Decart",
    "ts": "2026-11-22T01:07:22.461911+00:00"
   },
@@ -4061,8 +4057,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.697464,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.714812,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4089,20 +4085,11 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.217734,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.235082,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
-   "source": "YourStory",
-   "kind": "takes",
-   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-   "summary": "India AI companies raised $1.6 billion in equity funding in the first nine months of 2026, nearly double the level in the year-ago period, according to a report by Tracxn Technologies. This, in fact, is the highest funding grosser across the nine-month periods covered since 2019. \"India AI companies raised $1.6 billion in equity funding in nine months 2026, up 96% from $822 million in nine months …",
-   "queued_at": "2026-11-23T13:37:21.234669+00:00"
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4397,44 +4384,15 @@
   "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes": "2026-11-23T11:09:09.061087+00:00",
   "https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi": "2026-11-23T11:38:15.334745+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round": "2026-11-23T12:08:04.506842+00:00",
-  "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy": "2026-11-23T12:37:59.765137+00:00"
+  "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy": "2026-11-23T12:37:59.765137+00:00",
+  "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn": "2026-11-23T14:38:01.087232+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
-  "175fc43372c6ed44": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-15T14:37:21.449225+00:00"
-  },
-  "697df44246fbde04": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-15T14:37:21.449225+00:00"
-  },
-  "1ca5d35acdf294fd": {
-   "imp": 1.11,
-   "ai": 0.77,
-   "ts": "2026-11-15T14:37:21.449225+00:00"
-  },
-  "607509a89853ccb8": {
-   "imp": 0.16,
-   "ai": 0.02,
-   "ts": "2026-11-15T14:37:21.449225+00:00"
-  },
-  "61b504e1d8d486f7": {
-   "imp": 1.18,
-   "ai": 0.63,
-   "ts": "2026-11-15T14:37:21.449225+00:00"
-  },
-  "9cf3e87037ac0d17": {
-   "imp": 0.43,
-   "ai": 0.08,
-   "ts": "2026-11-15T14:37:21.449225+00:00"
-  },
   "a5ca565338eb35df": {
    "imp": 1.08,
    "ai": 0.54,
@@ -25249,6 +25207,101 @@
    "imp": 0.57,
    "ai": 0.1,
    "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "63b227ba4eacc03e": {
+   "imp": 2.4,
+   "ai": 0.92,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "3ab1e11a9ac3fec3": {
+   "imp": 2.83,
+   "ai": 0.96,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "ecab1061c917e910": {
+   "imp": 2.81,
+   "ai": null,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "66cc673a6baaba00": {
+   "imp": 2.84,
+   "ai": null,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "7e93ff39fd333740": {
+   "imp": 2.82,
+   "ai": null,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "8fe6012ce64814c5": {
+   "imp": 2.72,
+   "ai": null,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "36d50c58634f64b1": {
+   "imp": 2.83,
+   "ai": 0.97,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "04a76ba4509244ee": {
+   "imp": 2.69,
+   "ai": 0.95,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "74b338c68d71a03f": {
+   "imp": 2.85,
+   "ai": 0.97,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "065f4d9c0492f2ca": {
+   "imp": 2.01,
+   "ai": 0.76,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "e3a79f42fb3c2e50": {
+   "imp": 2.81,
+   "ai": 0.97,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "a3fed6f592ebb2cb": {
+   "imp": 2.84,
+   "ai": 0.95,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "4d9a1ae90f4b653c": {
+   "imp": 2.74,
+   "ai": 0.97,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "8ecac1b8cba73934": {
+   "imp": 2.63,
+   "ai": 0.87,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "e7acfaffe63d45a1": {
+   "imp": 2.74,
+   "ai": 0.94,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "1a5b0084ce6e0bef": {
+   "imp": 1.7,
+   "ai": 0.88,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "c9768c5e255441a3": {
+   "imp": 1.81,
+   "ai": null,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "a850cc8c4a80e63c": {
+   "imp": 1.28,
+   "ai": 0.73,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "3182dccc34eced0e": {
+   "imp": 0.4,
+   "ai": 0.06,
+   "ts": "2026-11-23T14:37:23.830452+00:00"
   }
  }
 }
