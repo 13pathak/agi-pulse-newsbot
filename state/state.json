@@ -1,7 +1,5 @@
 {
  "seen": {
-  "6452274540d8ef29": "2026-11-16T13:37:38.736503+00:00",
-  "12d325c1a2f4fda5": "2026-11-16T13:37:38.736503+00:00",
   "0bc322583e6f0775": "2026-11-16T14:07:22.847927+00:00",
   "068cdd590fa526ab": "2026-11-16T14:07:22.847927+00:00",
   "dd02c35afc864bbe": "2026-11-16T14:07:22.847927+00:00",
@@ -1829,13 +1827,17 @@
   "4a9991244c6bf78a": "2026-11-23T13:07:23.722689+00:00",
   "948154cfc8af3d26": "2026-11-23T13:07:23.722689+00:00",
   "a44d3770aa7f06b4": "2026-11-23T13:07:23.722689+00:00",
-  "8930593fec6bb7a0": "2026-11-23T13:07:23.722689+00:00"
+  "8930593fec6bb7a0": "2026-11-23T13:07:23.722689+00:00",
+  "525ad95e6ad2e509": "2026-11-23T13:37:21.234669+00:00",
+  "f47b3e7462fa2feb": "2026-11-23T13:37:21.234669+00:00",
+  "839ec2b53ae527a7": "2026-11-23T13:37:21.234669+00:00",
+  "1762241e862e5e82": "2026-11-23T13:37:21.234669+00:00",
+  "de15d48e95ea68ee": "2026-11-23T13:37:21.234669+00:00",
+  "cde742887754c7bd": "2026-11-23T13:37:21.234669+00:00",
+  "5154af66482df5ff": "2026-11-23T13:37:21.234669+00:00",
+  "429920f88e118c47": "2026-11-23T13:37:21.234669+00:00"
  },
  "covered": [
-  {
-   "headline": "International talks to regulate autonomous weapons collapse",
-   "ts": "2026-11-21T13:37:34.981479+00:00"
-  },
   {
    "headline": "Bewakoof cofounder launches AI shopping assistant Save8",
    "ts": "2026-11-21T14:37:24.965572+00:00"
@@ -1967,11 +1969,15 @@
   {
    "headline": "Startup Marlowe Raises 277 Million Dollars for Alternative Chips",
    "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  {
+   "headline": "Indian AI funding reaches 1.6 billion dollars in nine months",
+   "ts": "2026-11-23T13:37:21.234669+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4054,8 +4060,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.662728,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.680065,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4082,8 +4088,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.182998,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.200335,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [
@@ -4094,7 +4100,15 @@
    "title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips",
    "summary": "Marlowe, a six-month-old startup co-founded by two Microsoft Corp. vice presidents, has raised $277 million to pursue ways to boost computing power from chips that rival Nvidia Corp.’s processors.",
    "queued_at": "2026-11-23T13:07:23.722689+00:00",
-   "attempts": 1
+   "attempts": 2
+  },
+  {
+   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
+   "source": "YourStory",
+   "kind": "takes",
+   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+   "summary": "India AI companies raised $1.6 billion in equity funding in the first nine months of 2026, nearly double the level in the year-ago period, according to a report by Tracxn Technologies. This, in fact, is the highest funding grosser across the nine-month periods covered since 2019. \"India AI companies raised $1.6 billion in equity funding in nine months 2026, up 96% from $822 million in nine months …",
+   "queued_at": "2026-11-23T13:37:21.234669+00:00"
   }
  ],
  "details_done": {
@@ -4399,16 +4413,6 @@
   "takes": 18
  },
  "triage": {
-  "539d58d7e2144e26": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-15T13:37:24.976955+00:00"
-  },
-  "820955592af49767": {
-   "imp": 0.3,
-   "ai": 0.14,
-   "ts": "2026-11-15T13:37:24.976955+00:00"
-  },
   "a39fa7636e6a9150": {
    "imp": 0.54,
    "ai": null,
@@ -25113,6 +25117,81 @@
    "imp": 0.16,
    "ai": 0.03,
    "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "839ec2b53ae527a7": {
+   "imp": 1.54,
+   "ai": null,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "5154af66482df5ff": {
+   "imp": 0.07,
+   "ai": null,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "cde742887754c7bd": {
+   "imp": 0.96,
+   "ai": 0.38,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "de15d48e95ea68ee": {
+   "imp": 1.16,
+   "ai": 0.69,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "f47b3e7462fa2feb": {
+   "imp": 2.02,
+   "ai": 0.94,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "525ad95e6ad2e509": {
+   "imp": 2.29,
+   "ai": 0.96,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "429920f88e118c47": {
+   "imp": 2.61,
+   "ai": 0.97,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "00181b3d1bc8a2da": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "702f00846d2878c3": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "6fdc6423b2fb5b98": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "894288930b9aaeac": {
+   "imp": 1.04,
+   "ai": 0.13,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "64349a25461fb087": {
+   "imp": 0.53,
+   "ai": 0.11,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "dc33c44ba8ba761f": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "9422f9cd45e2400e": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "0df00aeba83e3947": {
+   "imp": 0.39,
+   "ai": 0.06,
+   "ts": "2026-11-23T13:37:21.234669+00:00"
   }
  }
 }
