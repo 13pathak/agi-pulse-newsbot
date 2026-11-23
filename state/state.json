@@ -1838,7 +1838,14 @@
   "7ac5a79275db3a22": "2026-11-23T07:37:22.471679+00:00",
   "d422cb8c50c1379d": "2026-11-23T07:37:22.471679+00:00",
   "17a1dbda5ad5944a": "2026-11-23T07:37:22.471679+00:00",
-  "6a1de58731833d6e": "2026-11-23T07:37:22.471679+00:00"
+  "6a1de58731833d6e": "2026-11-23T07:37:22.471679+00:00",
+  "145725568eaa1c2e": "2026-11-23T08:07:24.100242+00:00",
+  "874ba233d8a483d2": "2026-11-23T08:07:24.100242+00:00",
+  "58b56f8a050848ff": "2026-11-23T08:07:24.100242+00:00",
+  "6fde2ba90f3fe13b": "2026-11-23T08:07:24.100242+00:00",
+  "14e60f88bfa3dc18": "2026-11-23T08:07:24.100242+00:00",
+  "b5cc8b15067b0815": "2026-11-23T08:07:24.100242+00:00",
+  "1618209fac7b2184": "2026-11-23T08:07:24.100242+00:00"
  },
  "covered": [
   {
@@ -1980,11 +1987,15 @@
   {
    "headline": "Zhipu AI adds GLM-5.4 model to subscription tier",
    "ts": "2026-11-23T07:37:22.471679+00:00"
+  },
+  {
+   "headline": "Karnataka partners with Pega for tech upskilling",
+   "ts": "2026-11-23T08:07:24.100242+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3989,34 +4000,6 @@
  },
  "pending": [
   {
-   "id": "1618209fac7b2184",
-   "item": {
-    "id": "1618209fac7b2184",
-    "title": "Karnataka Govt Partners With Pega to Upskill Tech Talent",
-    "url": "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795415889286-bklyu.webp",
-    "snippet": "Enterprise AI software company Pegasystems, commonly known as Pega, has collaborated with the Karnataka government's Department of IT&BT to develop “Pega-certified” professionals for Karnataka's technology talent ecosystem. The company will train a cohort of 200 candidates with industry-relevant skills and hands-on expertise on the Pega Platform across three to four clusters in Karnataka in 2027. …",
-    "published": "2026-11-23T07:07:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Karnataka partners with Pega for tech upskilling",
-   "post": "The Karnataka government's Department of IT and BT has partnered with Pegasystems to train 200 candidates across three to four clusters in the state on the Pega Platform in 2027.",
-   "editor_note": "Verify the target number of trainees and the planned 2027 training cluster locations from the Department of IT and BT announcement.",
-   "support": 0.97,
-   "published_at": "2026-11-23T07:07:05+00:00",
-   "first_seen_at": "2026-11-23T07:07:24.707168+00:00",
-   "expires_at": "2026-11-24T19:07:05+00:00",
-   "decision": 1.72,
-   "priority": 7.590521,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "9f83ba81afcd1f19",
    "item": {
     "id": "9f83ba81afcd1f19",
@@ -4043,8 +4026,8 @@
    "first_seen_at": "2026-11-23T06:37:21.079205+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.6,
-   "priority": 7.516452,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.542517,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4334,19 +4317,15 @@
   "https://36kr.com/newsflashes/4081825111905410?f=rss": "2026-11-23T06:08:02.316052+00:00",
   "https://entrackr.com/exclusive/exclusive-mattersai-to-raise-rs-110-cr-in-pre-series-a-led-by-tanglin-ventures-12833226": "2026-11-23T06:38:17.829667+00:00",
   "https://entrackr.com/snippets/eloelo-group-launches-dolphin-ai-film-studio-at-iffi-2026-12833088": "2026-11-23T07:08:03.196010+00:00",
-  "https://36kr.com/newsflashes/4082029922636930?f=rss": "2026-11-23T07:38:13.576344+00:00"
+  "https://36kr.com/newsflashes/4082029922636930?f=rss": "2026-11-23T07:38:13.576344+00:00",
+  "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent": "2026-11-23T08:09:33.722300+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
-  "907f66e509abfa1c": {
-   "imp": 0.03,
-   "ai": 0.01,
-   "ts": "2026-11-15T08:07:29.248676+00:00"
-  },
   "585614a075cdc1b1": {
    "imp": 1.41,
    "ai": 0.84,
@@ -24456,6 +24435,81 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-23T07:37:22.471679+00:00"
+  },
+  "14e60f88bfa3dc18": {
+   "imp": 0.27,
+   "ai": null,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "58b56f8a050848ff": {
+   "imp": 0.74,
+   "ai": 0.58,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "6fde2ba90f3fe13b": {
+   "imp": 0.62,
+   "ai": 0.68,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "b5cc8b15067b0815": {
+   "imp": 0.33,
+   "ai": 0.3,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "145725568eaa1c2e": {
+   "imp": 2.79,
+   "ai": 0.98,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "874ba233d8a483d2": {
+   "imp": 2.53,
+   "ai": 0.97,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "3976d8ae19a8bf8b": {
+   "imp": 1.61,
+   "ai": 0.23,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "efcf6501ee6d37c0": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "df5de5d9884780d7": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "220643ec8a8f7f0b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "c4cfc680b4bc8949": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "fcf42b2ea12d6356": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "a911e567df352184": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "e89f3a0d27d554de": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "7fce86d319915191": {
+   "imp": 1.35,
+   "ai": 0.25,
+   "ts": "2026-11-23T08:07:24.100242+00:00"
   }
  }
 }
