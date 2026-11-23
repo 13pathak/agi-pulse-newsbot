@@ -1,11 +1,5 @@
 {
  "seen": {
-  "67ddb54c884384d7": "2026-11-16T05:37:29.305094+00:00",
-  "258f215b8f154751": "2026-11-16T05:37:29.305094+00:00",
-  "9baf335f5cb9ef9d": "2026-11-16T05:37:29.305094+00:00",
-  "51ff637b11330b6b": "2026-11-16T05:37:29.305094+00:00",
-  "6e9d48136a0b3f97": "2026-11-16T05:37:29.305094+00:00",
-  "0a46316a8e8a24bf": "2026-11-16T05:37:29.305094+00:00",
   "fba51ab82e788d65": "2026-11-16T06:07:22.214946+00:00",
   "fd6f47aa9c6182a0": "2026-11-16T06:07:22.214946+00:00",
   "ace4eeb296cb08fe": "2026-11-16T06:07:22.214946+00:00",
@@ -1825,13 +1819,18 @@
   "6a27043451c613e9": "2026-11-23T05:07:24.218265+00:00",
   "9edcdf98dbe581b6": "2026-11-23T05:07:24.218265+00:00",
   "b84dbc2c8c101429": "2026-11-23T05:07:24.218265+00:00",
-  "9170a5c04b8dc342": "2026-11-23T05:07:24.218265+00:00"
+  "9170a5c04b8dc342": "2026-11-23T05:07:24.218265+00:00",
+  "71d46dd9f8677cd8": "2026-11-23T05:37:23.121448+00:00",
+  "4aa9b2391b5cadc6": "2026-11-23T05:37:23.121448+00:00",
+  "21ea639164973b4b": "2026-11-23T05:37:23.121448+00:00",
+  "129a26de9a1dabbc": "2026-11-23T05:37:23.121448+00:00",
+  "3d92721ffb51ae88": "2026-11-23T05:37:23.121448+00:00",
+  "bddb04bea67ec27f": "2026-11-23T05:37:23.121448+00:00",
+  "c76c9e09ac4c8510": "2026-11-23T05:37:23.121448+00:00",
+  "8fa6f24d7539b284": "2026-11-23T05:37:23.121448+00:00",
+  "4cd523a0a9732c2c": "2026-11-23T05:37:23.121448+00:00"
  },
  "covered": [
-  {
-   "headline": "Kavak releases Kling Image 4.0 with 8K native resolution",
-   "ts": "2026-11-21T05:37:22.374497+00:00"
-  },
   {
    "headline": "Tencent introduces WeVisForensics agent for AI video detection",
    "ts": "2026-11-21T06:07:31.609484+00:00"
@@ -1967,11 +1966,15 @@
   {
    "headline": "California AG sues OpenAI over model safety and cyberattacks",
    "ts": "2026-11-23T05:07:24.218265+00:00"
+  },
+  {
+   "headline": "Ant Group launches international version of Afu",
+   "ts": "2026-11-23T05:37:23.121448+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4001,8 +4004,36 @@
    "first_seen_at": "2026-11-23T04:37:23.342347+00:00",
    "expires_at": "2026-11-24T16:13:15+00:00",
    "decision": 1.91,
-   "priority": 7.642861,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.660211,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "248d4f9bf83a2408",
+   "item": {
+    "id": "248d4f9bf83a2408",
+    "title": "EloElo Group launches Dolphin AI Film Studio at IFFI 2026",
+    "url": "https://entrackr.com/snippets/eloelo-group-launches-dolphin-ai-film-studio-at-iffi-2026-12833088",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/23/dolphin-ai-2026-11-23-10-49-59.png",
+    "snippet": "EloElo Group, the parent company of Story TV, has launched an AI-powered film production platform, Dolphin AI Film Studio, at the 57th International Film Festival of India (IFFI) in Goa. The platform is designed for filmmakers, studios, production houses and independent creators. It brings multiple stages of video production, from script development to finished content, onto a single platform. The…",
+    "published": "2026-11-23T05:23:21+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "EloElo Group launches Dolphin AI Film Studio",
+   "post": "EloElo Group launched Dolphin AI Film Studio at the International Film Festival of India in Goa, providing filmmakers with an integrated platform spanning script development to finished video.",
+   "editor_note": "Confirm availability details and pricing for independent creators.",
+   "support": 0.85,
+   "published_at": "2026-11-23T05:23:21+00:00",
+   "first_seen_at": "2026-11-23T05:37:23.121448+00:00",
+   "expires_at": "2026-11-24T17:23:21+00:00",
+   "decision": 1.85,
+   "priority": 7.610169,
+   "selection_reason": "Time-sensitive story"
   }
  ],
  "details_queue": [],
@@ -4287,29 +4318,15 @@
   "https://36kr.com/newsflashes/4081776064140163?f=rss": "2026-11-23T03:38:00.647957+00:00",
   "https://36kr.com/newsflashes/4081806680151170?f=rss": "2026-11-23T04:09:44.066322+00:00",
   "https://www.medianama.com/2026/11/223-up-govt-tender-ai-system-family-id": "2026-11-23T04:39:42.579756+00:00",
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-safety/articleshow/136089421.cms": "2026-11-23T05:09:53.260561+00:00"
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-safety/articleshow/136089421.cms": "2026-11-23T05:09:53.260561+00:00",
+  "https://36kr.com/newsflashes/4081896667468676?f=rss": "2026-11-23T05:37:51.698962+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
-  "abf5f25c75e0d2e5": {
-   "imp": 1.21,
-   "ai": 0.74,
-   "ts": "2026-11-15T05:37:24.509493+00:00"
-  },
-  "3a5b1378cb864f10": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-15T05:37:24.509493+00:00"
-  },
-  "3bbcf517856d8e4f": {
-   "imp": 0.05,
-   "ai": 0.01,
-   "ts": "2026-11-15T05:37:24.509493+00:00"
-  },
   "2460d1d60ca9d447": {
    "imp": 2.11,
    "ai": null,
@@ -24144,6 +24161,111 @@
    "imp": 0.74,
    "ai": 0.15,
    "ts": "2026-11-23T05:07:24.218265+00:00"
+  },
+  "71d46dd9f8677cd8": {
+   "imp": 2.33,
+   "ai": 0.95,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "6e3e66e121856e80": {
+   "imp": 0.27,
+   "ai": 0.06,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "bddb04bea67ec27f": {
+   "imp": 1.78,
+   "ai": 0.88,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "8fa6f24d7539b284": {
+   "imp": 1.29,
+   "ai": 0.86,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "14ed3deaab6b1785": {
+   "imp": 0.81,
+   "ai": 0.38,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "e6ff1c55d49494b8": {
+   "imp": 1.08,
+   "ai": 0.84,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "3d92721ffb51ae88": {
+   "imp": 1.95,
+   "ai": 0.97,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "90ac581fbcb7a5eb": {
+   "imp": 0.81,
+   "ai": 0.6,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "129a26de9a1dabbc": {
+   "imp": 2.04,
+   "ai": 0.89,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "21ea639164973b4b": {
+   "imp": 2.08,
+   "ai": 0.84,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "c76c9e09ac4c8510": {
+   "imp": 1.44,
+   "ai": 0.81,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "2cc89d031e24bb3c": {
+   "imp": 0.3,
+   "ai": 0.09,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "4aa9b2391b5cadc6": {
+   "imp": 2.2,
+   "ai": 0.88,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "248d4f9bf83a2408": {
+   "imp": 1.85,
+   "ai": 0.93,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "0dec7d07b893d4fd": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "40550542f565a43d": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "4cd523a0a9732c2c": {
+   "imp": 1.44,
+   "ai": 0.8,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "c4ad58a756077c20": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "6ce527499f2479de": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "8e594fe74e7b5ae5": {
+   "imp": 0.9,
+   "ai": 0.55,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
+  },
+  "ea7d634f35be689e": {
+   "imp": 0.27,
+   "ai": 0.12,
+   "ts": "2026-11-23T05:37:23.121448+00:00"
   }
  }
 }
