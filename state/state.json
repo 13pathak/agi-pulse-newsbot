@@ -1,15 +1,5 @@
 {
  "seen": {
-  "103312e1f01c4677": "2026-11-16T08:12:37.753754+00:00",
-  "4093c8cb3ff7122a": "2026-11-16T08:12:37.753754+00:00",
-  "6ca824da22d364dd": "2026-11-16T08:12:37.753754+00:00",
-  "c6d5cf34d416991e": "2026-11-16T08:12:37.753754+00:00",
-  "08eb5473815b633c": "2026-11-16T08:12:37.753754+00:00",
-  "999ea5d654da075d": "2026-11-16T08:37:31.370913+00:00",
-  "8240bfc4f0c8551b": "2026-11-16T08:37:31.370913+00:00",
-  "2c910f3a42c866cd": "2026-11-16T08:37:31.370913+00:00",
-  "4a1a01292c1ff897": "2026-11-16T08:37:31.370913+00:00",
-  "58901d978ff73045": "2026-11-16T08:37:31.370913+00:00",
   "b53a167879367270": "2026-11-16T09:07:36.421331+00:00",
   "bee749b68ac7bf68": "2026-11-16T09:07:36.421331+00:00",
   "ce97eac11a26b1f3": "2026-11-16T09:07:36.421331+00:00",
@@ -1845,13 +1835,11 @@
   "6fde2ba90f3fe13b": "2026-11-23T08:07:24.100242+00:00",
   "14e60f88bfa3dc18": "2026-11-23T08:07:24.100242+00:00",
   "b5cc8b15067b0815": "2026-11-23T08:07:24.100242+00:00",
-  "1618209fac7b2184": "2026-11-23T08:07:24.100242+00:00"
+  "1618209fac7b2184": "2026-11-23T08:07:24.100242+00:00",
+  "91050df29704b314": "2026-11-23T08:37:29.658636+00:00",
+  "9f83ba81afcd1f19": "2026-11-23T08:37:29.658636+00:00"
  },
  "covered": [
-  {
-   "headline": "Microsoft releases Aion-1.0-Instruct-2.3B model",
-   "ts": "2026-11-21T08:37:23.431807+00:00"
-  },
   {
    "headline": "XingChen-AGI trains 285B model on 8,192 Ascend chips",
    "ts": "2026-11-21T09:07:30.484993+00:00"
@@ -1991,11 +1979,15 @@
   {
    "headline": "Karnataka partners with Pega for tech upskilling",
    "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  {
+   "headline": "Diffuspace presents Clover-35B-A3B diffusion language model paper",
+   "ts": "2026-11-23T08:37:29.658636+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3998,38 +3990,7 @@
    "published": "2026-11-20T00:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "9f83ba81afcd1f19",
-   "item": {
-    "id": "9f83ba81afcd1f19",
-    "title": "Clover-35B-A3B-Preview Technical Report",
-    "url": "https://arxiv.org/abs/2611.24636",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Diffuspace. Upvotes: 25. Abstract: We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-initialized right-context convolution branch. Clover leads the seven evaluated agent metrics, including 73.6 on SWE-bench Verified and 51.7 on Terminal-Bench 2.1. On internal agent workloads, it reaches a reported generation speed of 680 tokens/s using one NVIDIA GB300 GPU at BF16 precision and batch size one. We organize the evaluation around model quality, drafting and verification costs, and deployment under constrained memory. We also describe a decision-model variant that generates answers to related questions in one denoising pass. On an internal set of 500 groups, joint prediction raises question accuracy from 90.37% to 93.88% and all-correct group accuracy from 65.4% to 77.0%.",
-    "published": "2026-11-23T00:00:00+00:00",
-    "upvotes": 25,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.24636.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Diffuspace presents Clover-35B-A3B diffusion language model paper",
-   "post": "Researchers at Diffuspace built Clover-35B-A3B-Preview, a 35-billion parameter mixture-of-experts diffusion language model. It reached 73.6 on SWE-bench Verified and 51.7 on Terminal-Bench 2.1.",
-   "editor_note": "Verify if SWE-bench Verified results were independently reproduced.",
-   "support": 0.95,
-   "published_at": "2026-11-23T00:00:00+00:00",
-   "first_seen_at": "2026-11-23T06:37:21.079205+00:00",
-   "expires_at": "2026-11-27T00:00:00+00:00",
-   "decision": 1.6,
-   "priority": 7.542517,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4318,39 +4279,15 @@
   "https://entrackr.com/exclusive/exclusive-mattersai-to-raise-rs-110-cr-in-pre-series-a-led-by-tanglin-ventures-12833226": "2026-11-23T06:38:17.829667+00:00",
   "https://entrackr.com/snippets/eloelo-group-launches-dolphin-ai-film-studio-at-iffi-2026-12833088": "2026-11-23T07:08:03.196010+00:00",
   "https://36kr.com/newsflashes/4082029922636930?f=rss": "2026-11-23T07:38:13.576344+00:00",
-  "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent": "2026-11-23T08:09:33.722300+00:00"
+  "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent": "2026-11-23T08:09:33.722300+00:00",
+  "https://arxiv.org/abs/2611.24636": "2026-11-23T08:38:14.383369+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
-  "585614a075cdc1b1": {
-   "imp": 1.41,
-   "ai": 0.84,
-   "ts": "2026-11-15T08:37:21.513048+00:00"
-  },
-  "79087f3331bb79af": {
-   "imp": 1.14,
-   "ai": 0.82,
-   "ts": "2026-11-15T08:37:21.513048+00:00"
-  },
-  "abca61c283d64c90": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-15T08:37:21.513048+00:00"
-  },
-  "5aa776f42b4cffc5": {
-   "imp": 0.29,
-   "ai": 0.06,
-   "ts": "2026-11-15T08:37:21.513048+00:00"
-  },
-  "cbd3018c6a707a6a": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-15T08:37:21.513048+00:00"
-  },
   "aa2588991e1a8a3e": {
    "imp": 1.44,
    "ai": null,
@@ -24510,6 +24447,56 @@
    "imp": 1.35,
    "ai": 0.25,
    "ts": "2026-11-23T08:07:24.100242+00:00"
+  },
+  "91050df29704b314": {
+   "imp": 0.36,
+   "ai": 0.41,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "98463d5b67b24e21": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "d9f2953ef584321b": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "9f63ef030728b914": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "dec0ab7f4e7e90ca": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "3290ec836b3d4bf0": {
+   "imp": 0.87,
+   "ai": 0.36,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "2680721542113dff": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "e6a4a1f468bebe3b": {
+   "imp": 0.13,
+   "ai": 0.06,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "2412cd3bdc7c62ce": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
+  },
+  "45019d08766376c0": {
+   "imp": 0.28,
+   "ai": 0.07,
+   "ts": "2026-11-23T08:37:29.658636+00:00"
   }
  }
 }
