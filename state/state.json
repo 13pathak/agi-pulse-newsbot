@@ -1861,7 +1861,13 @@
   "c4aa81e8683cc017": "2026-11-23T15:37:24.801105+00:00",
   "65d4a1babc74a436": "2026-11-23T15:37:24.801105+00:00",
   "e2e01dfd9df9e91f": "2026-11-23T15:37:24.801105+00:00",
-  "c059a9919df79cc9": "2026-11-23T15:37:24.801105+00:00"
+  "c059a9919df79cc9": "2026-11-23T15:37:24.801105+00:00",
+  "76cd45d29ef03fd4": "2026-11-23T16:07:27.054964+00:00",
+  "27d0bdbfdb8dd92b": "2026-11-23T16:07:27.054964+00:00",
+  "9fb9b8e89617e00c": "2026-11-23T16:07:27.054964+00:00",
+  "8c04a3a0cb455115": "2026-11-23T16:07:27.054964+00:00",
+  "f1c4e34e7021ebf7": "2026-11-23T16:07:27.054964+00:00",
+  "8588a5abb36b3c45": "2026-11-23T16:07:27.054964+00:00"
  },
  "covered": [
   {
@@ -2003,11 +2009,15 @@
   {
    "headline": "Z.ai launches GLM-5.4 flagship model using loop architecture",
    "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  {
+   "headline": "Sarvam AI launches Sarvam Dictate API for 22 Indian languages",
+   "ts": "2026-11-23T16:07:27.054964+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4079,34 +4089,6 @@
  },
  "pending": [
   {
-   "id": "8588a5abb36b3c45",
-   "item": {
-    "id": "8588a5abb36b3c45",
-    "title": "Sarvam Dictate: fast, accurate dictation | Sarvam AI",
-    "url": "https://www.sarvam.ai/blogs/sarvam-dictate",
-    "source": "Sarvam",
-    "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/3c560e7354a6748a651b0e0a8c48d16a6b105522-3358x1874.png",
-    "snippet": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
-    "published": "2026-11-23T00:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Sarvam AI launches Sarvam Dictate API for 22 Indian languages",
-   "post": "Indian AI startup Sarvam AI has launched Sarvam Dictate, a speech-to-text dictation API covering English and 22 Indian languages. Sarvam claims the tool produces text with fewer edits than Gemini and AssemblyAI.",
-   "editor_note": "Verify pricing, API public availability, and Sarvam's comparative benchmark methodology.",
-   "support": 0.88,
-   "published_at": "2026-11-23T00:00:00+00:00",
-   "first_seen_at": "2026-11-23T15:07:24.610166+00:00",
-   "expires_at": "2026-11-25T00:00:00+00:00",
-   "decision": 2.07,
-   "priority": 7.895763,
-   "selection_reason": "Editorial importance; waiting 0.5h"
-  },
-  {
    "id": "106e5d1cffec6462",
    "item": {
     "id": "106e5d1cffec6462",
@@ -4131,8 +4113,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.749544,
-   "selection_reason": "Time-sensitive story; waiting 4.5h"
+   "priority": 7.766927,
+   "selection_reason": "Time-sensitive story; waiting 5.0h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4159,8 +4141,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.269814,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.287197,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ],
  "details_queue": [
@@ -4171,7 +4153,15 @@
    "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
    "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models.…",
    "queued_at": "2026-11-23T15:37:24.801105+00:00",
-   "attempts": 1
+   "attempts": 2
+  },
+  {
+   "url": "https://www.sarvam.ai/blogs/sarvam-dictate",
+   "source": "Sarvam",
+   "kind": "pack",
+   "title": "Sarvam Dictate: fast, accurate dictation | Sarvam AI",
+   "summary": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
+   "queued_at": "2026-11-23T16:07:27.054964+00:00"
   }
  ],
  "details_done": {
@@ -4478,36 +4468,6 @@
   "takes": 20
  },
  "triage": {
-  "7366d1903cffa879": {
-   "imp": 0.35,
-   "ai": 0.16,
-   "ts": "2026-11-15T16:07:22.071844+00:00"
-  },
-  "65ecef2327a06bf0": {
-   "imp": 1.71,
-   "ai": null,
-   "ts": "2026-11-15T16:07:22.071844+00:00"
-  },
-  "b24410c214a7c4e1": {
-   "imp": 1.81,
-   "ai": 0.91,
-   "ts": "2026-11-15T16:07:22.071844+00:00"
-  },
-  "4733428fbbd9539e": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-15T16:07:22.071844+00:00"
-  },
-  "ab8909b5ae852db1": {
-   "imp": 0.22,
-   "ai": 0.08,
-   "ts": "2026-11-15T16:07:22.071844+00:00"
-  },
-  "e08296fe8bccbd0d": {
-   "imp": 0.38,
-   "ai": 0.08,
-   "ts": "2026-11-15T16:07:22.071844+00:00"
-  },
   "f7a0a0957afeedca": {
    "imp": 0.51,
    "ai": 0.55,
@@ -25527,6 +25487,26 @@
    "imp": 0.06,
    "ai": 0.03,
    "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "f1c4e34e7021ebf7": {
+   "imp": 0.28,
+   "ai": 0.76,
+   "ts": "2026-11-23T16:07:27.054964+00:00"
+  },
+  "76cd45d29ef03fd4": {
+   "imp": 2.5,
+   "ai": 0.89,
+   "ts": "2026-11-23T16:07:27.054964+00:00"
+  },
+  "9fb9b8e89617e00c": {
+   "imp": 2.43,
+   "ai": 0.91,
+   "ts": "2026-11-23T16:07:27.054964+00:00"
+  },
+  "3c29990d2806c0f7": {
+   "imp": 1.05,
+   "ai": 0.79,
+   "ts": "2026-11-23T16:07:27.054964+00:00"
   }
  }
 }
