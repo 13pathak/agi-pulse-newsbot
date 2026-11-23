@@ -1867,7 +1867,17 @@
   "9fb9b8e89617e00c": "2026-11-23T16:07:27.054964+00:00",
   "8c04a3a0cb455115": "2026-11-23T16:07:27.054964+00:00",
   "f1c4e34e7021ebf7": "2026-11-23T16:07:27.054964+00:00",
-  "8588a5abb36b3c45": "2026-11-23T16:07:27.054964+00:00"
+  "8588a5abb36b3c45": "2026-11-23T16:07:27.054964+00:00",
+  "cb09c38d8f08a90c": "2026-11-23T16:37:24.886969+00:00",
+  "49c6a5cb690f1ff1": "2026-11-23T16:37:24.886969+00:00",
+  "de36b121eed67039": "2026-11-23T16:37:24.886969+00:00",
+  "9d649e08c57eb51f": "2026-11-23T16:37:24.886969+00:00",
+  "19756177584268b8": "2026-11-23T16:37:24.886969+00:00",
+  "4fa13cb14ff25c4d": "2026-11-23T16:37:24.886969+00:00",
+  "749af88c256f3a82": "2026-11-23T16:37:24.886969+00:00",
+  "c9219098dd38f69a": "2026-11-23T16:37:24.886969+00:00",
+  "0104d4e7c1820519": "2026-11-23T16:37:24.886969+00:00",
+  "106e5d1cffec6462": "2026-11-23T16:37:24.886969+00:00"
  },
  "covered": [
   {
@@ -2013,11 +2023,15 @@
   {
    "headline": "Sarvam AI launches Sarvam Dictate API for 22 Indian languages",
    "ts": "2026-11-23T16:07:27.054964+00:00"
+  },
+  {
+   "headline": "Walmart enables Meta Muse AI agent for Black Friday shopping",
+   "ts": "2026-11-23T16:37:24.886969+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4089,34 +4103,6 @@
  },
  "pending": [
   {
-   "id": "106e5d1cffec6462",
-   "item": {
-    "id": "106e5d1cffec6462",
-    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
-    "published": "2026-11-23T11:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Walmart enables Meta Muse AI agent for Black Friday shopping",
-   "post": "Walmart has enabled Meta's Muse AI agent to browse and complete online purchases on its website through its Agent Gateway system without sharing complete purchase history.",
-   "editor_note": "Verify user authentication process and specific limits on Agent Gateway transactions.",
-   "support": 0.86,
-   "published_at": "2026-11-23T11:00:00+00:00",
-   "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
-   "expires_at": "2026-11-24T23:00:00+00:00",
-   "decision": 1.79,
-   "priority": 7.766927,
-   "selection_reason": "Time-sensitive story; waiting 5.0h"
-  },
-  {
    "id": "219a8ccbe674d162",
    "item": {
     "id": "219a8ccbe674d162",
@@ -4141,20 +4127,11 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.287197,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.304537,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   }
  ],
  "details_queue": [
-  {
-   "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
-   "source": "The Decoder",
-   "kind": "takes",
-   "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
-   "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models.…",
-   "queued_at": "2026-11-23T15:37:24.801105+00:00",
-   "attempts": 2
-  },
   {
    "url": "https://www.sarvam.ai/blogs/sarvam-dictate",
    "source": "Sarvam",
@@ -4162,6 +4139,14 @@
    "title": "Sarvam Dictate: fast, accurate dictation | Sarvam AI",
    "summary": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
    "queued_at": "2026-11-23T16:07:27.054964+00:00"
+  },
+  {
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "source": "The Verge",
+   "kind": "takes",
+   "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+   "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
+   "queued_at": "2026-11-23T16:37:24.886969+00:00"
   }
  ],
  "details_done": {
@@ -4468,31 +4453,6 @@
   "takes": 20
  },
  "triage": {
-  "f7a0a0957afeedca": {
-   "imp": 0.51,
-   "ai": 0.55,
-   "ts": "2026-11-15T16:37:21.486115+00:00"
-  },
-  "ba20c536dd1cace3": {
-   "imp": 1.48,
-   "ai": 0.91,
-   "ts": "2026-11-15T16:37:21.486115+00:00"
-  },
-  "fe72db618595756d": {
-   "imp": 0.05,
-   "ai": 0.01,
-   "ts": "2026-11-15T16:37:21.486115+00:00"
-  },
-  "386015a4e5ed706e": {
-   "imp": 0.63,
-   "ai": 0.09,
-   "ts": "2026-11-15T16:37:21.486115+00:00"
-  },
-  "0e780bd5fba97899": {
-   "imp": 0.24,
-   "ai": 0.08,
-   "ts": "2026-11-15T16:37:21.486115+00:00"
-  },
   "70478f62462e65ed": {
    "imp": 1.18,
    "ai": 0.51,
@@ -25507,6 +25467,86 @@
    "imp": 1.05,
    "ai": 0.79,
    "ts": "2026-11-23T16:07:27.054964+00:00"
+  },
+  "0104d4e7c1820519": {
+   "imp": 0.71,
+   "ai": 0.52,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "9d649e08c57eb51f": {
+   "imp": 2.31,
+   "ai": 0.96,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "de36b121eed67039": {
+   "imp": 2.42,
+   "ai": null,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "cb09c38d8f08a90c": {
+   "imp": 2.58,
+   "ai": 0.96,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "4fa13cb14ff25c4d": {
+   "imp": 2.23,
+   "ai": 0.97,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "4bf26f28fa7c6297": {
+   "imp": 1.58,
+   "ai": 0.92,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "19756177584268b8": {
+   "imp": 2.02,
+   "ai": 0.97,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "749af88c256f3a82": {
+   "imp": 2.24,
+   "ai": 0.91,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "49c6a5cb690f1ff1": {
+   "imp": 2.58,
+   "ai": 0.95,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "df3478c9f71f0867": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "8b27be67b1e17bb3": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "ef7c9dd3ebb3ee4a": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "d12f21740084da23": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "9b2c9f6aba62d447": {
+   "imp": 0.15,
+   "ai": 0.13,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "a1476754243cd138": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "749970cb11ad9188": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-23T16:37:24.886969+00:00"
   }
  }
 }
