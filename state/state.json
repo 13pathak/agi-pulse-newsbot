@@ -1,17 +1,5 @@
 {
  "seen": {
-  "e3915f7e4cf071c4": "2026-11-16T12:07:26.735425+00:00",
-  "fbecbfc2ab77434e": "2026-11-16T12:07:26.735425+00:00",
-  "af820f9ec68dd0f3": "2026-11-16T12:07:26.735425+00:00",
-  "b79b9dcea8829427": "2026-11-16T12:07:26.735425+00:00",
-  "c0adf6f16c58d022": "2026-11-16T12:07:26.735425+00:00",
-  "d41b976617e6c158": "2026-11-16T12:07:26.735425+00:00",
-  "014367e3742faae3": "2026-11-16T12:07:26.735425+00:00",
-  "f6095ec9588d0423": "2026-11-16T12:07:26.735425+00:00",
-  "34ae96101d7fdd26": "2026-11-16T12:07:26.735425+00:00",
-  "256f3a36ee6b018b": "2026-11-16T12:07:26.735425+00:00",
-  "b08d41343216c22d": "2026-11-16T12:07:26.735425+00:00",
-  "6c2b03eced2acfda": "2026-11-16T12:07:26.735425+00:00",
   "2bd9a2245c499efa": "2026-11-16T12:37:38.212110+00:00",
   "5dab3f0243ea1b86": "2026-11-16T12:37:38.212110+00:00",
   "93489cde676affd2": "2026-11-16T12:37:38.212110+00:00",
@@ -1840,13 +1828,19 @@
   "f973344828cafafc": "2026-11-23T11:37:34.072312+00:00",
   "8adc9ea92bfcca75": "2026-11-23T11:37:34.072312+00:00",
   "5d6e8c90fca051fa": "2026-11-23T11:37:34.072312+00:00",
-  "aeb5fde09cba61da": "2026-11-23T11:37:34.072312+00:00"
+  "aeb5fde09cba61da": "2026-11-23T11:37:34.072312+00:00",
+  "7df4d143f820ffe4": "2026-11-23T12:07:23.827714+00:00",
+  "213cd23b5b4e9034": "2026-11-23T12:07:23.827714+00:00",
+  "3c0e5b1f6e7b5def": "2026-11-23T12:07:23.827714+00:00",
+  "1293f2074d0c5618": "2026-11-23T12:07:23.827714+00:00",
+  "a7f166988f283f87": "2026-11-23T12:07:23.827714+00:00",
+  "a3c9fd2891746afc": "2026-11-23T12:07:23.827714+00:00",
+  "2f05d10bbe687af7": "2026-11-23T12:07:23.827714+00:00",
+  "1793f4fe05b13a1c": "2026-11-23T12:07:23.827714+00:00",
+  "381fb9a3b66e910f": "2026-11-23T12:07:23.827714+00:00",
+  "c13c9333e23d7ef3": "2026-11-23T12:07:23.827714+00:00"
  },
  "covered": [
-  {
-   "headline": "Scaler cofounder launches AI training data startup Arcfront",
-   "ts": "2026-11-21T12:07:23.056782+00:00"
-  },
   {
    "headline": "Sarvam AI launches Token Factory platform for model inference",
    "ts": "2026-11-21T12:37:28.200534+00:00"
@@ -1978,11 +1972,15 @@
   {
    "headline": "CERT-In warns of agentic AI used in financial cyberattacks",
    "ts": "2026-11-23T11:37:34.072312+00:00"
+  },
+  {
+   "headline": "Sierra Finalizes Over 1.75 Billion Dollar Funding Round",
+   "ts": "2026-11-23T12:07:23.827714+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4031,9 +4029,43 @@
    "desc": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512195.html": {
+   "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+   "desc": "零Token成本，断网也能自由Vibe Coding",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "8930593fec6bb7a0",
+   "item": {
+    "id": "8930593fec6bb7a0",
+    "title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "Marlowe, a six-month-old startup co-founded by two Microsoft Corp. vice presidents, has raised $277 million to pursue ways to boost computing power from chips that rival Nvidia Corp.’s processors.",
+    "published": "2026-11-23T12:00:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Startup Marlowe Raises 277 Million Dollars for Alternative Chips",
+   "post": "Marlowe, a startup co-founded by two former Microsoft vice presidents, has raised 277 million dollars to develop computing power alternatives to Nvidia processors.",
+   "editor_note": "Check whether specific chip architectures or software stacks were disclosed in the funding announcement.",
+   "support": 0.11,
+   "published_at": "2026-11-23T12:00:00+00:00",
+   "first_seen_at": "2026-11-23T12:07:23.827714+00:00",
+   "expires_at": "2026-11-25T00:00:00+00:00",
+   "decision": 2.01,
+   "priority": 8.666575,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "106e5d1cffec6462",
    "item": {
@@ -4059,8 +4091,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.610744,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.628007,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4087,8 +4119,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.131014,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.148277,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4384,54 +4416,15 @@
   "https://analyticsindiamag.com/ai-startups/bolna-builds-its-own-speech-model-to-catch-what-voice-ai-misses": "2026-11-23T09:09:55.599327+00:00",
   "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus": "2026-11-23T10:39:53.089768+00:00",
   "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes": "2026-11-23T11:09:09.061087+00:00",
-  "https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi": "2026-11-23T11:38:15.334745+00:00"
+  "https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi": "2026-11-23T11:38:15.334745+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round": "2026-11-23T12:08:04.506842+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
-  "14f09cefc5c5cf77": {
-   "imp": 0.19,
-   "ai": 0.11,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "437c9a05119d7ea7": {
-   "imp": 0.44,
-   "ai": null,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "fa1b9f395520374a": {
-   "imp": 1.62,
-   "ai": null,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "675f079919d732de": {
-   "imp": 1.42,
-   "ai": 0.91,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "55019cac39e4be56": {
-   "imp": 1.44,
-   "ai": 0.91,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "25ef49503ab1c2e7": {
-   "imp": 1.11,
-   "ai": 0.81,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "554096dad17c63fc": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
-  "1b5be6036c2f7a44": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-15T12:07:20.871047+00:00"
-  },
   "3effc3d40526c5c7": {
    "imp": 2.05,
    "ai": 0.96,
@@ -24931,6 +24924,126 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-23T11:37:34.072312+00:00"
+  },
+  "1793f4fe05b13a1c": {
+   "imp": 0.68,
+   "ai": null,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "381fb9a3b66e910f": {
+   "imp": 0.23,
+   "ai": null,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "44157bf94e4e2fda": {
+   "imp": 1.61,
+   "ai": 0.96,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "8930593fec6bb7a0": {
+   "imp": 2.01,
+   "ai": 0.97,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "2f05d10bbe687af7": {
+   "imp": 1.66,
+   "ai": 0.87,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "c13c9333e23d7ef3": {
+   "imp": 2.51,
+   "ai": 0.97,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "a7f166988f283f87": {
+   "imp": 1.1,
+   "ai": 0.8,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "3c0e5b1f6e7b5def": {
+   "imp": 1.45,
+   "ai": 0.86,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "213cd23b5b4e9034": {
+   "imp": 1.5,
+   "ai": 0.98,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "1293f2074d0c5618": {
+   "imp": 1.25,
+   "ai": 0.3,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "a3c9fd2891746afc": {
+   "imp": 1.11,
+   "ai": 0.92,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "7df4d143f820ffe4": {
+   "imp": 1.09,
+   "ai": null,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "f59f5078f7d12c3a": {
+   "imp": 0.32,
+   "ai": 0.09,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "63e5562e88df6c85": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "783c1a4c1cceefb1": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "6e464243ed6ec88d": {
+   "imp": 0.33,
+   "ai": 0.08,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "ef903f0cc9ef193d": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "b45c043ebae9418d": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "0c476f1894c9ce87": {
+   "imp": 0.28,
+   "ai": 0.07,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "6ef1679304a4fd60": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "3b04a028a6915b91": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "5aaa48fd7e833646": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "8a9e21bf335225b3": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
+  },
+  "895e98f69abd3c5c": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-23T12:07:23.827714+00:00"
   }
  }
 }
