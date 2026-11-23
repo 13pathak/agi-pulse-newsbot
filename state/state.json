@@ -1,8 +1,5 @@
 {
  "seen": {
-  "a473302cc4f3e375": "2026-11-16T07:07:30.332033+00:00",
-  "49752c957b310721": "2026-11-16T07:07:30.332033+00:00",
-  "611e1b2da41e1326": "2026-11-16T07:07:30.332033+00:00",
   "df89f048193cf636": "2026-11-16T07:37:23.669799+00:00",
   "3e7715aff318b681": "2026-11-16T07:37:23.669799+00:00",
   "d2514a781bda1d5c": "2026-11-16T07:37:23.669799+00:00",
@@ -1837,13 +1834,13 @@
   "cb855fd8fc9c4e10": "2026-11-23T06:37:21.079205+00:00",
   "b21a3c2ba93a6572": "2026-11-23T06:37:21.079205+00:00",
   "46604c542147b700": "2026-11-23T06:37:21.079205+00:00",
-  "b4384770838439d3": "2026-11-23T06:37:21.079205+00:00"
+  "b4384770838439d3": "2026-11-23T06:37:21.079205+00:00",
+  "3e086b70e3c94016": "2026-11-23T07:07:24.707168+00:00",
+  "bed773f55d12b638": "2026-11-23T07:07:24.707168+00:00",
+  "c51aafbdd3725e67": "2026-11-23T07:07:24.707168+00:00",
+  "248d4f9bf83a2408": "2026-11-23T07:07:24.707168+00:00"
  },
  "covered": [
-  {
-   "headline": "Google provides $5 million AI research grant to IIT Kharagpur",
-   "ts": "2026-11-21T07:07:21.444011+00:00"
-  },
   {
    "headline": "OpenAI models help AMD improve GPU design",
    "ts": "2026-11-21T07:37:22.784480+00:00"
@@ -1979,11 +1976,15 @@
   {
    "headline": "Matters.AI raising 110 crore rupees pre-Series A round",
    "ts": "2026-11-23T06:37:21.079205+00:00"
+  },
+  {
+   "headline": "EloElo Group launches Dolphin AI Film Studio",
+   "ts": "2026-11-23T07:07:24.707168+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3988,15 +3989,15 @@
  },
  "pending": [
   {
-   "id": "248d4f9bf83a2408",
+   "id": "1618209fac7b2184",
    "item": {
-    "id": "248d4f9bf83a2408",
-    "title": "EloElo Group launches Dolphin AI Film Studio at IFFI 2026",
-    "url": "https://entrackr.com/snippets/eloelo-group-launches-dolphin-ai-film-studio-at-iffi-2026-12833088",
-    "source": "Entrackr",
-    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/23/dolphin-ai-2026-11-23-10-49-59.png",
-    "snippet": "EloElo Group, the parent company of Story TV, has launched an AI-powered film production platform, Dolphin AI Film Studio, at the 57th International Film Festival of India (IFFI) in Goa. The platform is designed for filmmakers, studios, production houses and independent creators. It brings multiple stages of video production, from script development to finished content, onto a single platform. The…",
-    "published": "2026-11-23T05:23:21+00:00",
+    "id": "1618209fac7b2184",
+    "title": "Karnataka Govt Partners With Pega to Upskill Tech Talent",
+    "url": "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1795415889286-bklyu.webp",
+    "snippet": "Enterprise AI software company Pegasystems, commonly known as Pega, has collaborated with the Karnataka government's Department of IT&BT to develop “Pega-certified” professionals for Karnataka's technology talent ecosystem. The company will train a cohort of 200 candidates with industry-relevant skills and hands-on expertise on the Pega Platform across three to four clusters in Karnataka in 2027. …",
+    "published": "2026-11-23T07:07:05+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -4004,16 +4005,16 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "EloElo Group launches Dolphin AI Film Studio",
-   "post": "EloElo Group launched Dolphin AI Film Studio at the International Film Festival of India in Goa, providing filmmakers with an integrated platform spanning script development to finished video.",
-   "editor_note": "Confirm availability details and pricing for independent creators.",
-   "support": 0.85,
-   "published_at": "2026-11-23T05:23:21+00:00",
-   "first_seen_at": "2026-11-23T05:37:23.121448+00:00",
-   "expires_at": "2026-11-24T17:23:21+00:00",
-   "decision": 1.85,
-   "priority": 7.644871,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "headline": "Karnataka partners with Pega for tech upskilling",
+   "post": "The Karnataka government's Department of IT and BT has partnered with Pegasystems to train 200 candidates across three to four clusters in the state on the Pega Platform in 2027.",
+   "editor_note": "Verify the target number of trainees and the planned 2027 training cluster locations from the Department of IT and BT announcement.",
+   "support": 0.97,
+   "published_at": "2026-11-23T07:07:05+00:00",
+   "first_seen_at": "2026-11-23T07:07:24.707168+00:00",
+   "expires_at": "2026-11-24T19:07:05+00:00",
+   "decision": 1.72,
+   "priority": 7.573181,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "9f83ba81afcd1f19",
@@ -4042,8 +4043,8 @@
    "first_seen_at": "2026-11-23T06:37:21.079205+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.6,
-   "priority": 7.464349,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.490443,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   }
  ],
  "details_queue": [],
@@ -4331,29 +4332,15 @@
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-safety/articleshow/136089421.cms": "2026-11-23T05:09:53.260561+00:00",
   "https://36kr.com/newsflashes/4081896667468676?f=rss": "2026-11-23T05:37:51.698962+00:00",
   "https://36kr.com/newsflashes/4081825111905410?f=rss": "2026-11-23T06:08:02.316052+00:00",
-  "https://entrackr.com/exclusive/exclusive-mattersai-to-raise-rs-110-cr-in-pre-series-a-led-by-tanglin-ventures-12833226": "2026-11-23T06:38:17.829667+00:00"
+  "https://entrackr.com/exclusive/exclusive-mattersai-to-raise-rs-110-cr-in-pre-series-a-led-by-tanglin-ventures-12833226": "2026-11-23T06:38:17.829667+00:00",
+  "https://entrackr.com/snippets/eloelo-group-launches-dolphin-ai-film-studio-at-iffi-2026-12833088": "2026-11-23T07:08:03.196010+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
-  "edd962a0c7c299cd": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-15T07:07:31.513574+00:00"
-  },
-  "d09f90634037e69c": {
-   "imp": 0.24,
-   "ai": 0.17,
-   "ts": "2026-11-15T07:07:31.513574+00:00"
-  },
-  "f28c441878791ba9": {
-   "imp": 0.03,
-   "ai": 0.01,
-   "ts": "2026-11-15T07:07:31.513574+00:00"
-  },
   "bfdb9e95f45221c4": {
    "imp": 0.05,
    "ai": 0.02,
@@ -24368,6 +24355,51 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-23T06:37:21.079205+00:00"
+  },
+  "bed773f55d12b638": {
+   "imp": 1.94,
+   "ai": 0.93,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "ae1ba2a2b9b40ffb": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "675bee94c195e204": {
+   "imp": 0.4,
+   "ai": 0.1,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "1618209fac7b2184": {
+   "imp": 1.72,
+   "ai": 0.87,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "c51aafbdd3725e67": {
+   "imp": 1.09,
+   "ai": 0.25,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "3e086b70e3c94016": {
+   "imp": 1.96,
+   "ai": 0.97,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "090dae11a822a06e": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "a57e7a8cff0d16d2": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
+  },
+  "b26abf0fa7f4401a": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-23T07:07:24.707168+00:00"
   }
  }
 }
