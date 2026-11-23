@@ -1,22 +1,5 @@
 {
  "seen": {
-  "cfcc7acb02e9ca79": "2026-11-16T15:07:24.865392+00:00",
-  "b0ded74e06b06613": "2026-11-16T15:07:24.865392+00:00",
-  "d1737df71af82fe9": "2026-11-16T15:07:24.865392+00:00",
-  "4ad82c3981d88813": "2026-11-16T15:07:24.865392+00:00",
-  "a6be9f34716ee355": "2026-11-16T15:07:24.865392+00:00",
-  "ca1899ca16809729": "2026-11-16T15:07:24.865392+00:00",
-  "772ccdf8e8c79868": "2026-11-16T15:07:24.865392+00:00",
-  "b66ff0c9eab30ed7": "2026-11-16T15:07:24.865392+00:00",
-  "9f91ec73cb844b9e": "2026-11-16T15:07:24.865392+00:00",
-  "2e6aa891cb438356": "2026-11-16T15:07:24.865392+00:00",
-  "ef28afd6608b538d": "2026-11-16T15:07:24.865392+00:00",
-  "89386e25aced84e4": "2026-11-16T15:07:24.865392+00:00",
-  "8c45093a8654f696": "2026-11-16T15:07:24.865392+00:00",
-  "fd739b63a2740a91": "2026-11-16T15:07:24.865392+00:00",
-  "ebdc79e2fc55422f": "2026-11-16T15:07:24.865392+00:00",
-  "5c136724c0dea211": "2026-11-16T15:07:24.865392+00:00",
-  "1c2c9f1fcc320aff": "2026-11-16T15:07:24.865392+00:00",
   "e93fe3acc0cb4b93": "2026-11-16T15:37:23.168630+00:00",
   "851a72a5bbe14594": "2026-11-16T15:37:23.168630+00:00",
   "0f2a855bc6a8fcf2": "2026-11-17T01:07:22.654220+00:00",
@@ -1829,7 +1812,45 @@
   "de15d48e95ea68ee": "2026-11-23T13:37:21.234669+00:00",
   "cde742887754c7bd": "2026-11-23T13:37:21.234669+00:00",
   "5154af66482df5ff": "2026-11-23T13:37:21.234669+00:00",
-  "429920f88e118c47": "2026-11-23T13:37:21.234669+00:00"
+  "429920f88e118c47": "2026-11-23T13:37:21.234669+00:00",
+  "6fd4c32fe34a4cba": "2026-11-23T15:07:24.610166+00:00",
+  "26e93aaa939a1636": "2026-11-23T15:07:24.610166+00:00",
+  "10208a6a3744e666": "2026-11-23T15:07:24.610166+00:00",
+  "c9768c5e255441a3": "2026-11-23T15:07:24.610166+00:00",
+  "bab5470813fe16df": "2026-11-23T15:07:24.610166+00:00",
+  "169eafdcd04a25ce": "2026-11-23T15:07:24.610166+00:00",
+  "0820f724e51efb9c": "2026-11-23T15:07:24.610166+00:00",
+  "341c9475d1b971f0": "2026-11-23T15:07:24.610166+00:00",
+  "66cc673a6baaba00": "2026-11-23T15:07:24.610166+00:00",
+  "74b338c68d71a03f": "2026-11-23T15:07:24.610166+00:00",
+  "e3a79f42fb3c2e50": "2026-11-23T15:07:24.610166+00:00",
+  "3ab1e11a9ac3fec3": "2026-11-23T15:07:24.610166+00:00",
+  "d18a4a759a393556": "2026-11-23T15:07:24.610166+00:00",
+  "836c3a310af66f7c": "2026-11-23T15:07:24.610166+00:00",
+  "d065478b2932063d": "2026-11-23T15:07:24.610166+00:00",
+  "7e93ff39fd333740": "2026-11-23T15:07:24.610166+00:00",
+  "ecab1061c917e910": "2026-11-23T15:07:24.610166+00:00",
+  "36d50c58634f64b1": "2026-11-23T15:07:24.610166+00:00",
+  "09afcc847896cde3": "2026-11-23T15:07:24.610166+00:00",
+  "8ac8fcbca3e9d310": "2026-11-23T15:07:24.610166+00:00",
+  "4082913595ec0e1b": "2026-11-23T15:07:24.610166+00:00",
+  "e7acfaffe63d45a1": "2026-11-23T15:07:24.610166+00:00",
+  "8fe6012ce64814c5": "2026-11-23T15:07:24.610166+00:00",
+  "4d9a1ae90f4b653c": "2026-11-23T15:07:24.610166+00:00",
+  "94e0e3d95053b5f9": "2026-11-23T15:07:24.610166+00:00",
+  "63b227ba4eacc03e": "2026-11-23T15:07:24.610166+00:00",
+  "24ca81dfe135e7a8": "2026-11-23T15:07:24.610166+00:00",
+  "a3fed6f592ebb2cb": "2026-11-23T15:07:24.610166+00:00",
+  "57e4d9bc2d25bc90": "2026-11-23T15:07:24.610166+00:00",
+  "04a76ba4509244ee": "2026-11-23T15:07:24.610166+00:00",
+  "645bbc1336b961a0": "2026-11-23T15:07:24.610166+00:00",
+  "473aed85ad8459b1": "2026-11-23T15:07:24.610166+00:00",
+  "9de1d898bddebeeb": "2026-11-23T15:07:24.610166+00:00",
+  "0736de29a4bba010": "2026-11-23T15:07:24.610166+00:00",
+  "065f4d9c0492f2ca": "2026-11-23T15:07:24.610166+00:00",
+  "2f3bff3ff46776c7": "2026-11-23T15:07:24.610166+00:00",
+  "1a5b0084ce6e0bef": "2026-11-23T15:07:24.610166+00:00",
+  "8ecac1b8cba73934": "2026-11-23T15:07:24.610166+00:00"
  },
  "covered": [
   {
@@ -1963,11 +1984,15 @@
   {
    "headline": "Indian AI funding reaches 1.6 billion dollars in nine months",
    "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  {
+   "headline": "Nvidia board reinstates Jensen Huang as CEO",
+   "ts": "2026-11-23T15:07:24.610166+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4029,9 +4054,43 @@
    "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
    "published": "2026-11-23T00:00:00.776000+00:00",
    "excerpt": "AI evaluations help shape which systems people build, adopt, and trust. An evaluation gives a system tasks, checks its answers or actions, and produces a score. Building and maintaining a useful evaluation therefore takes real work: defining tasks that reflect domain expertise, scoring them reliably, and checking that the results support the claims made. When methods, code, and data stay private, that work is harder for others to scrutinize or build on. Open source offers a means to build stronger, more frequently updated, and more comparable evaluations and the infrastructure around them. Existing tasks, environments, and tools give builders a starting point, so their effort can go to domain expertise and validation. Sharing how an evaluation was built, including what went wrong, lets oth…"
+  },
+  "https://www.sarvam.ai/blogs/sarvam-dictate": {
+   "title": "Sarvam Dictate: fast, accurate dictation | Sarvam AI",
+   "desc": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/3c560e7354a6748a651b0e0a8c48d16a6b105522-3358x1874.png",
+   "published": "2026-11-23T00:00:00+00:00"
   }
  },
  "pending": [
+  {
+   "id": "8588a5abb36b3c45",
+   "item": {
+    "id": "8588a5abb36b3c45",
+    "title": "Sarvam Dictate: fast, accurate dictation | Sarvam AI",
+    "url": "https://www.sarvam.ai/blogs/sarvam-dictate",
+    "source": "Sarvam",
+    "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/3c560e7354a6748a651b0e0a8c48d16a6b105522-3358x1874.png",
+    "snippet": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
+    "published": "2026-11-23T00:00:00+00:00",
+    "images": true,
+    "category": "primary",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Sarvam AI launches Sarvam Dictate API for 22 Indian languages",
+   "post": "Indian AI startup Sarvam AI has launched Sarvam Dictate, a speech-to-text dictation API covering English and 22 Indian languages. Sarvam claims the tool produces text with fewer edits than Gemini and AssemblyAI.",
+   "editor_note": "Verify pricing, API public availability, and Sarvam's comparative benchmark methodology.",
+   "support": 0.88,
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen_at": "2026-11-23T15:07:24.610166+00:00",
+   "expires_at": "2026-11-25T00:00:00+00:00",
+   "decision": 2.07,
+   "priority": 7.874927,
+   "selection_reason": "Editorial importance"
+  },
   {
    "id": "106e5d1cffec6462",
    "item": {
@@ -4057,8 +4116,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.714812,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.732181,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4085,8 +4144,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.235082,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.252451,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
  "details_queue": [],
@@ -4385,44 +4444,15 @@
   "https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi": "2026-11-23T11:38:15.334745+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round": "2026-11-23T12:08:04.506842+00:00",
   "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy": "2026-11-23T12:37:59.765137+00:00",
-  "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn": "2026-11-23T14:38:01.087232+00:00"
+  "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn": "2026-11-23T14:38:01.087232+00:00",
+  "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair": "2026-11-23T15:08:42.966977+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
-  "a5ca565338eb35df": {
-   "imp": 1.08,
-   "ai": 0.54,
-   "ts": "2026-11-15T15:07:26.992150+00:00"
-  },
-  "cd15efc45e405783": {
-   "imp": 1.66,
-   "ai": 0.97,
-   "ts": "2026-11-15T15:07:26.992150+00:00"
-  },
-  "642bd6145e28021c": {
-   "imp": 1.52,
-   "ai": 0.94,
-   "ts": "2026-11-15T15:07:26.992150+00:00"
-  },
-  "a247a40b45bd1ad3": {
-   "imp": 0.73,
-   "ai": 0.47,
-   "ts": "2026-11-15T15:07:26.992150+00:00"
-  },
-  "06e31d163728f938": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-15T15:07:26.992150+00:00"
-  },
-  "2339994ec543634c": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-15T15:07:26.992150+00:00"
-  },
   "2cf2d53f69be205a": {
    "imp": 2.14,
    "ai": 0.93,
@@ -25302,6 +25332,106 @@
    "imp": 0.4,
    "ai": 0.06,
    "ts": "2026-11-23T14:37:23.830452+00:00"
+  },
+  "09afcc847896cde3": {
+   "imp": 2.83,
+   "ai": null,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "57e4d9bc2d25bc90": {
+   "imp": 2.65,
+   "ai": null,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "169eafdcd04a25ce": {
+   "imp": 2.56,
+   "ai": null,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "c4aa81e8683cc017": {
+   "imp": 1.7,
+   "ai": null,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "c9219098dd38f69a": {
+   "imp": 2.13,
+   "ai": 0.91,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "39d4dd573c4fc963": {
+   "imp": 2.35,
+   "ai": 0.94,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "94e0e3d95053b5f9": {
+   "imp": 2.83,
+   "ai": 0.95,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "26e93aaa939a1636": {
+   "imp": 2.39,
+   "ai": 0.61,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "d18a4a759a393556": {
+   "imp": 2.77,
+   "ai": 0.94,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "2f3bff3ff46776c7": {
+   "imp": 2.43,
+   "ai": 0.86,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "d065478b2932063d": {
+   "imp": 2.81,
+   "ai": 0.96,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "4082913595ec0e1b": {
+   "imp": 2.71,
+   "ai": 0.95,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "836c3a310af66f7c": {
+   "imp": 2.78,
+   "ai": 0.94,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "8ac8fcbca3e9d310": {
+   "imp": 2.72,
+   "ai": 0.93,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "8588a5abb36b3c45": {
+   "imp": 2.07,
+   "ai": null,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "ff259332e3b4b00f": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "0e576954858f90ed": {
+   "imp": 0.52,
+   "ai": 0.09,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "e71925171570d79b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "d923056e22ba5499": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "4bea7b0d49c19781": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-23T15:07:24.610166+00:00"
   }
  }
 }
