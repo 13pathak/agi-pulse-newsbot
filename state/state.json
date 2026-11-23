@@ -1,11 +1,5 @@
 {
  "seen": {
-  "c743d52c9bed5c22": "2026-11-16T01:37:29.169421+00:00",
-  "8cf21bf02643f344": "2026-11-16T01:37:29.169421+00:00",
-  "f7214e14d1e100a3": "2026-11-16T01:37:29.169421+00:00",
-  "fe0dd67480278eae": "2026-11-16T01:37:29.169421+00:00",
-  "3be93aee370a9eef": "2026-11-16T01:37:29.169421+00:00",
-  "fc91828979fbf24c": "2026-11-16T01:37:29.169421+00:00",
   "97a84867dfb0ddf1": "2026-11-16T02:07:33.662463+00:00",
   "52e2a7f0ed64237e": "2026-11-16T02:07:33.662463+00:00",
   "09862cd7036c6133": "2026-11-16T02:07:33.662463+00:00",
@@ -1813,13 +1807,19 @@
   "f7259789e47eec31": "2026-11-23T01:07:21.622486+00:00",
   "159bd0662ea7b059": "2026-11-23T01:07:21.622486+00:00",
   "e7090200216ed533": "2026-11-23T01:07:21.622486+00:00",
-  "4235871e0ac7c7d6": "2026-11-23T01:07:21.622486+00:00"
+  "4235871e0ac7c7d6": "2026-11-23T01:07:21.622486+00:00",
+  "c27d36f56bd4dc18": "2026-11-23T01:37:23.022027+00:00",
+  "914bb147d0bf37ce": "2026-11-23T01:37:23.022027+00:00",
+  "bde2efa4ca2a55d9": "2026-11-23T01:37:23.022027+00:00",
+  "e6413f9407b19faa": "2026-11-23T01:37:23.022027+00:00",
+  "de5cd1a6d51dc917": "2026-11-23T01:37:23.022027+00:00",
+  "6dc1e405eaacb48a": "2026-11-23T01:37:23.022027+00:00",
+  "00d330afbdb32020": "2026-11-23T01:37:23.022027+00:00",
+  "9e9bb8bafe687493": "2026-11-23T01:37:23.022027+00:00",
+  "05744626c0d61baf": "2026-11-23T01:37:23.022027+00:00",
+  "ab8f16708f033bcb": "2026-11-23T01:37:23.022027+00:00"
  },
  "covered": [
-  {
-   "headline": "Trump threatens tax on US tech data centers built abroad",
-   "ts": "2026-11-21T01:37:24.288069+00:00"
-  },
   {
    "headline": "Cognition AI in talks for $75 billion valuation",
    "ts": "2026-11-21T02:07:24.087565+00:00"
@@ -1967,11 +1967,15 @@
   {
    "headline": "Ant Group leads $100 million round for Simplexity Robotics",
    "ts": "2026-11-23T01:07:21.622486+00:00"
+  },
+  {
+   "headline": "OpenAI chief scientist proposes industry AI development limits",
+   "ts": "2026-11-23T01:37:23.022027+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3974,98 +3978,7 @@
    "published": "2026-11-20T00:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "de5cd1a6d51dc917",
-   "item": {
-    "id": "de5cd1a6d51dc917",
-    "title": "Perplexity and Intelligence",
-    "url": "https://openai.com/index/perplexity-and-intelligence",
-    "source": "OpenAI",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
-    "snippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-    "published": "2026-11-22T00:00:00+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [
-    {
-     "id": "6dc1e405eaacb48a",
-     "title": "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits",
-     "url": "https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits",
-     "source": "The Information",
-     "image": "",
-     "snippet": "OpenAI’s chief scientist called for leading AI model developers to agree on limits that they won’t cross “until our ability to understand and monitor AI behavior achieve a certain concrete milestone.” “I’d like an industry standard that specifies a first limit on development, measured by some ...",
-     "published": "2026-11-22T21:08:15+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "00d330afbdb32020",
-     "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand and monitor their behavior.",
-     "published": "2026-11-22T19:40:54+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "9e9bb8bafe687493",
-     "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
-     "url": "https://www.livemint.com/technology/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-11795388594716.html",
-     "source": "Mint",
-     "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-     "snippet": "OPENAI-SAFETY/",
-     "published": "2026-11-22T23:03:14+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "05744626c0d61baf",
-     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-     "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-     "published": "2026-11-22T21:14:07+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "ab8f16708f033bcb",
-     "title": "微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议",
-     "url": "https://36kr.com/newsflashes/4081628288881544?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "微软人工智能首席执行官穆斯塔法·苏莱曼转发OpenAI首席科学家雅库布·帕乔茨基的文章，表示微软完全支持OpenAI提高透明度的倡议，并将共同分享预训练进展。苏莱曼透露，经OpenAI许可，微软公布了MAI-2基础模型在OpenAI评估数据集上的对数困惑度为0.819，与GPT-5.6 Sol基础模型处于相近水平。他表示，AI安全与协调应成为行业首要任务，微软承诺推动行业建立共同评估标准和AI发展节奏协调机制。（财联社）",
-     "published": "2026-11-23T00:47:00+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI chief scientist proposes industry AI development limits",
-   "post": "OpenAI Chief Scientist Jakub Pachocki proposed that AI developers agree to limits on creating more powerful models until monitoring capabilities advance, using log perplexity as a standard intelligence metric.",
-   "editor_note": "Verify whether the proposal specifies concrete numerical thresholds for the log perplexity limits.",
-   "support": 0.57,
-   "published_at": "2026-11-22T00:00:00+00:00",
-   "first_seen_at": "2026-11-23T01:07:21.622486+00:00",
-   "expires_at": "2026-11-24T00:00:00+00:00",
-   "decision": 2.56,
-   "priority": 6.829944,
-   "selection_reason": "Editorial importance"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4343,34 +4256,15 @@
   "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment": "2026-11-22T13:40:03.445954+00:00",
   "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog": "2026-11-22T14:39:17.627655+00:00",
   "https://www.sarvam.ai/blogs/sarvam-105b-1711": "2026-11-22T15:39:18.897302+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race": "2026-11-23T01:09:36.120638+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race": "2026-11-23T01:09:36.120638+00:00",
+  "https://openai.com/index/perplexity-and-intelligence": "2026-11-23T01:38:22.476895+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
-  "count": 0,
+  "count": 1,
   "takes": 1
  },
  "triage": {
-  "d325b9b786ea2db7": {
-   "imp": 1.86,
-   "ai": 0.94,
-   "ts": "2026-11-15T01:37:22.765028+00:00"
-  },
-  "2f75bf826b0e1604": {
-   "imp": 0.04,
-   "ai": 0.01,
-   "ts": "2026-11-15T01:37:22.765028+00:00"
-  },
-  "d1e79a87baf89645": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-15T01:37:22.765028+00:00"
-  },
-  "2841b98edc8c0947": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-15T01:37:22.765028+00:00"
-  },
   "9c00ed3409d13ab4": {
    "imp": 2.13,
    "ai": 0.98,
@@ -23855,6 +23749,66 @@
    "imp": 0.1,
    "ai": 0.06,
    "ts": "2026-11-23T01:07:21.622486+00:00"
+  },
+  "914bb147d0bf37ce": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "c27d36f56bd4dc18": {
+   "imp": 1.58,
+   "ai": 0.79,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "d1e377315a163f88": {
+   "imp": 0.53,
+   "ai": 0.12,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "bde2efa4ca2a55d9": {
+   "imp": 0.89,
+   "ai": 0.52,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "67e0cd873aa2ef81": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "c11bfabcfbf29104": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "c98665438b6a913c": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "3b0be6fa7b0ae0f8": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "c1790a0988ae04c0": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "7733d5cbddb3fe20": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "688e43c1b8e902d0": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
+  },
+  "5bdd4d3adcbb6b8f": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-23T01:37:23.022027+00:00"
   }
  }
 }
