@@ -1,12 +1,5 @@
 {
  "seen": {
-  "b353a5fa6121ebc9": "2026-11-16T13:07:26.407580+00:00",
-  "3f0451f8ded9cca3": "2026-11-16T13:07:26.407580+00:00",
-  "2b2bb87b4857660b": "2026-11-16T13:07:26.407580+00:00",
-  "ae8026eb7a7d871d": "2026-11-16T13:07:26.407580+00:00",
-  "cec39e8a1fd8f406": "2026-11-16T13:07:26.407580+00:00",
-  "cd92b346f1d29713": "2026-11-16T13:07:26.407580+00:00",
-  "91cc62e34cf9d162": "2026-11-16T13:07:26.407580+00:00",
   "6452274540d8ef29": "2026-11-16T13:37:38.736503+00:00",
   "12d325c1a2f4fda5": "2026-11-16T13:37:38.736503+00:00",
   "0bc322583e6f0775": "2026-11-16T14:07:22.847927+00:00",
@@ -1831,13 +1824,14 @@
   "3194fb9c9e9c39b3": "2026-11-23T12:37:23.686677+00:00",
   "fe63a83d484ca706": "2026-11-23T12:37:23.686677+00:00",
   "d5ea15dfb0f84fcf": "2026-11-23T12:37:23.686677+00:00",
-  "bc6b513693d3e77e": "2026-11-23T12:37:23.686677+00:00"
+  "bc6b513693d3e77e": "2026-11-23T12:37:23.686677+00:00",
+  "2bd9a2245c499efa": "2026-11-23T13:07:23.722689+00:00",
+  "4a9991244c6bf78a": "2026-11-23T13:07:23.722689+00:00",
+  "948154cfc8af3d26": "2026-11-23T13:07:23.722689+00:00",
+  "a44d3770aa7f06b4": "2026-11-23T13:07:23.722689+00:00",
+  "8930593fec6bb7a0": "2026-11-23T13:07:23.722689+00:00"
  },
  "covered": [
-  {
-   "headline": "China plans token measurement and billing standards",
-   "ts": "2026-11-21T13:07:28.152859+00:00"
-  },
   {
    "headline": "International talks to regulate autonomous weapons collapse",
    "ts": "2026-11-21T13:37:34.981479+00:00"
@@ -1969,11 +1963,15 @@
   {
    "headline": "OpenAI GPT-6.2 Astra solves gap theorem",
    "ts": "2026-11-23T12:37:23.686677+00:00"
+  },
+  {
+   "headline": "Startup Marlowe Raises 277 Million Dollars for Alternative Chips",
+   "ts": "2026-11-23T13:07:23.722689+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4032,34 +4030,6 @@
  },
  "pending": [
   {
-   "id": "8930593fec6bb7a0",
-   "item": {
-    "id": "8930593fec6bb7a0",
-    "title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
-    "source": "Bloomberg",
-    "image": "",
-    "snippet": "Marlowe, a six-month-old startup co-founded by two Microsoft Corp. vice presidents, has raised $277 million to pursue ways to boost computing power from chips that rival Nvidia Corp.’s processors.",
-    "published": "2026-11-23T12:00:00+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Startup Marlowe Raises 277 Million Dollars for Alternative Chips",
-   "post": "Marlowe, a startup co-founded by two former Microsoft vice presidents, has raised 277 million dollars to develop computing power alternatives to Nvidia processors.",
-   "editor_note": "Check whether specific chip architectures or software stacks were disclosed in the funding announcement.",
-   "support": 0.11,
-   "published_at": "2026-11-23T12:00:00+00:00",
-   "first_seen_at": "2026-11-23T12:07:23.827714+00:00",
-   "expires_at": "2026-11-25T00:00:00+00:00",
-   "decision": 2.01,
-   "priority": 8.683935,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "106e5d1cffec6462",
    "item": {
     "id": "106e5d1cffec6462",
@@ -4084,8 +4054,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.645366,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.662728,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4112,11 +4082,21 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.165636,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.182998,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
+   "source": "Bloomberg",
+   "kind": "takes",
+   "title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips",
+   "summary": "Marlowe, a six-month-old startup co-founded by two Microsoft Corp. vice presidents, has raised $277 million to pursue ways to boost computing power from chips that rival Nvidia Corp.’s processors.",
+   "queued_at": "2026-11-23T13:07:23.722689+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4419,41 +4399,6 @@
   "takes": 18
  },
  "triage": {
-  "4c525e5e54fa3645": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
-  "93743783bb08eddc": {
-   "imp": 2.11,
-   "ai": 0.97,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
-  "db28f361ce6dc77e": {
-   "imp": 2.52,
-   "ai": 0.95,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
-  "556f095177f2a410": {
-   "imp": 2.6,
-   "ai": 0.92,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
-  "cb4a2764863dc1a6": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
-  "561d6b28b269d691": {
-   "imp": 0.34,
-   "ai": 0.03,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
-  "e7d4b77c56e0124e": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-15T13:07:20.972232+00:00"
-  },
   "539d58d7e2144e26": {
    "imp": 0.07,
    "ai": 0.03,
@@ -25108,6 +25053,66 @@
    "imp": 0.1,
    "ai": 0.06,
    "ts": "2026-11-23T12:37:23.686677+00:00"
+  },
+  "a44d3770aa7f06b4": {
+   "imp": 0.5,
+   "ai": null,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "4a9991244c6bf78a": {
+   "imp": 1.41,
+   "ai": 0.7,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "948154cfc8af3d26": {
+   "imp": 0.62,
+   "ai": 0.23,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "d12ab7d204d0f3b8": {
+   "imp": 0.91,
+   "ai": 0.12,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "5572df3d731cb9d9": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "95801457023bc535": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "b9a8840224a85b78": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "9a39514581e83744": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "07536dd184fc88c7": {
+   "imp": 0.28,
+   "ai": 0.07,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "d852abc9772063cb": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "8faae5fdd5a39287": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
+  },
+  "eaa0cd315b7abf8f": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-23T13:07:23.722689+00:00"
   }
  }
 }
