@@ -1,9 +1,5 @@
 {
  "seen": {
-  "bbd1c095de3bef80": "2026-11-16T04:37:32.073864+00:00",
-  "39b23301d17613af": "2026-11-16T04:37:32.073864+00:00",
-  "1f9123921f49104e": "2026-11-16T04:37:32.073864+00:00",
-  "793232b845fb16a2": "2026-11-16T04:37:32.073864+00:00",
   "e841119ab8fbe73e": "2026-11-16T05:07:19.850970+00:00",
   "4f4cd81ba46c7560": "2026-11-16T05:07:19.850970+00:00",
   "c15d632bb1c5aeba": "2026-11-16T05:07:19.850970+00:00",
@@ -1816,13 +1812,20 @@
   "f81968bb24759257": "2026-11-23T04:07:21.682620+00:00",
   "961016347938bcfd": "2026-11-23T04:07:21.682620+00:00",
   "602fc25a319520c1": "2026-11-23T04:07:21.682620+00:00",
-  "2fbfa9445081e3e5": "2026-11-23T04:07:21.682620+00:00"
+  "2fbfa9445081e3e5": "2026-11-23T04:07:21.682620+00:00",
+  "f3488a1bcea242d4": "2026-11-23T04:37:23.342347+00:00",
+  "cda7314ad10df3e1": "2026-11-23T04:37:23.342347+00:00",
+  "afe94f9a664d63cc": "2026-11-23T04:37:23.342347+00:00",
+  "1f51d0df9aec50f3": "2026-11-23T04:37:23.342347+00:00",
+  "0f71d74f71e986d3": "2026-11-23T04:37:23.342347+00:00",
+  "9bb1dff88b5b6618": "2026-11-23T04:37:23.342347+00:00",
+  "e57940ea5512e902": "2026-11-23T04:37:23.342347+00:00",
+  "541e38dbb51d8658": "2026-11-23T04:37:23.342347+00:00",
+  "9e0c768d304fc88c": "2026-11-23T04:37:23.342347+00:00",
+  "258d3757af09ec91": "2026-11-23T04:37:23.342347+00:00",
+  "63c7af5aaa175a82": "2026-11-23T04:37:23.342347+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent introduces WeMM-Video omni-modal video models",
-   "ts": "2026-11-21T04:37:20.870444+00:00"
-  },
   {
    "headline": "Databricks in early talks for $225 billion valuation funding",
    "ts": "2026-11-21T05:07:21.248258+00:00"
@@ -1958,11 +1961,15 @@
   {
    "headline": "Agibot deploys Genie G2 robots in JCET semiconductor plant",
    "ts": "2026-11-23T04:07:21.682620+00:00"
+  },
+  {
+   "headline": "Uttar Pradesh tenders statewide AI system linked to Family ID",
+   "ts": "2026-11-23T04:37:23.342347+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -3965,7 +3972,37 @@
    "published": "2026-11-20T00:00:00+00:00"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "839c594fd4b2db07",
+   "item": {
+    "id": "839c594fd4b2db07",
+    "title": "记忆张量发布并开源记忆原生模型MemT-1.0-Pro",
+    "url": "https://36kr.com/newsflashes/4081825111905410?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "11月22日，记忆张量（MemTensor）正式发布并开源与 NVIDIA 联合研发的记忆原生模型MemT-1.0-Pro。MemT 1.0 Pro基于NVIDIA Nemotron 3 Ultra，拥有554B总参数、59B激活参数。继Nano、Flash之后，MemT将记忆原生实践拓展至新的底座与更大参数规模。",
+    "published": "2026-11-23T04:13:15+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "MemTensor releases open 554B parameter model MemT-1.0-Pro",
+   "post": "MemTensor and Nvidia have released and open-sourced MemT-1.0-Pro, a memory-native model built on Nvidia Nemotron 3 Ultra. The model features 554 billion total parameters and 59 billion active parameters.",
+   "editor_note": "Verify the exact open-source license and weight repository details.",
+   "support": 0.96,
+   "published_at": "2026-11-23T04:13:15+00:00",
+   "first_seen_at": "2026-11-23T04:37:23.342347+00:00",
+   "expires_at": "2026-11-24T16:13:15+00:00",
+   "decision": 1.91,
+   "priority": 7.625491,
+   "selection_reason": "Time-sensitive story"
+  }
+ ],
  "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
@@ -4246,19 +4283,15 @@
   "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race": "2026-11-23T01:09:36.120638+00:00",
   "https://openai.com/index/perplexity-and-intelligence": "2026-11-23T01:38:22.476895+00:00",
   "https://36kr.com/newsflashes/4081776064140163?f=rss": "2026-11-23T03:38:00.647957+00:00",
-  "https://36kr.com/newsflashes/4081806680151170?f=rss": "2026-11-23T04:09:44.066322+00:00"
+  "https://36kr.com/newsflashes/4081806680151170?f=rss": "2026-11-23T04:09:44.066322+00:00",
+  "https://www.medianama.com/2026/11/223-up-govt-tender-ai-system-family-id": "2026-11-23T04:39:42.579756+00:00"
  },
  "details_daily": {
   "date": "2026-11-23",
   "count": 1,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
-  "23b1dcc10f3cb3eb": {
-   "imp": 0.02,
-   "ai": 0.01,
-   "ts": "2026-11-15T04:37:22.681163+00:00"
-  },
   "9eaf5401368cfec2": {
    "imp": 1.29,
    "ai": 0.97,
@@ -23988,6 +24021,86 @@
    "imp": 0.6,
    "ai": 0.12,
    "ts": "2026-11-23T04:07:21.682620+00:00"
+  },
+  "afe94f9a664d63cc": {
+   "imp": 1.13,
+   "ai": 0.89,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "cda7314ad10df3e1": {
+   "imp": 1.97,
+   "ai": 0.79,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "0f71d74f71e986d3": {
+   "imp": 1.51,
+   "ai": 0.76,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "541e38dbb51d8658": {
+   "imp": 1.58,
+   "ai": 0.89,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "9bb1dff88b5b6618": {
+   "imp": 1.72,
+   "ai": 0.95,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "258d3757af09ec91": {
+   "imp": 0.3,
+   "ai": 0.22,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "9e0c768d304fc88c": {
+   "imp": 0.41,
+   "ai": 0.35,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "839c594fd4b2db07": {
+   "imp": 1.91,
+   "ai": 0.97,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "b84dbc2c8c101429": {
+   "imp": 1.38,
+   "ai": 0.95,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "e57940ea5512e902": {
+   "imp": 1.0,
+   "ai": 0.85,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "1f51d0df9aec50f3": {
+   "imp": 1.11,
+   "ai": 0.93,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "63c7af5aaa175a82": {
+   "imp": 2.23,
+   "ai": 0.95,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "f3488a1bcea242d4": {
+   "imp": 2.09,
+   "ai": 0.98,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "af47fdd13c78a5fb": {
+   "imp": 0.28,
+   "ai": 0.04,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "dedc1b45a6167635": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
+  },
+  "3664bbf6d77c039e": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-23T04:37:23.342347+00:00"
   }
  }
 }
