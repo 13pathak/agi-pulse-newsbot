@@ -1,7 +1,5 @@
 {
  "seen": {
-  "e93fe3acc0cb4b93": "2026-11-16T15:37:23.168630+00:00",
-  "851a72a5bbe14594": "2026-11-16T15:37:23.168630+00:00",
   "0f2a855bc6a8fcf2": "2026-11-17T01:07:22.654220+00:00",
   "ebd9eb94963902d2": "2026-11-17T01:07:22.654220+00:00",
   "8b70d99b098dc6df": "2026-11-17T01:07:22.654220+00:00",
@@ -1850,7 +1848,20 @@
   "065f4d9c0492f2ca": "2026-11-23T15:07:24.610166+00:00",
   "2f3bff3ff46776c7": "2026-11-23T15:07:24.610166+00:00",
   "1a5b0084ce6e0bef": "2026-11-23T15:07:24.610166+00:00",
-  "8ecac1b8cba73934": "2026-11-23T15:07:24.610166+00:00"
+  "8ecac1b8cba73934": "2026-11-23T15:07:24.610166+00:00",
+  "0f37308bd5d59840": "2026-11-23T15:37:24.801105+00:00",
+  "40a844e7756b642d": "2026-11-23T15:37:24.801105+00:00",
+  "e718ddea3c30b8f8": "2026-11-23T15:37:24.801105+00:00",
+  "be5e01467a77cd19": "2026-11-23T15:37:24.801105+00:00",
+  "a850cc8c4a80e63c": "2026-11-23T15:37:24.801105+00:00",
+  "d8f4bebe9011ea80": "2026-11-23T15:37:24.801105+00:00",
+  "225587cccde11145": "2026-11-23T15:37:24.801105+00:00",
+  "39d4dd573c4fc963": "2026-11-23T15:37:24.801105+00:00",
+  "6bd3b7cb7c2f8660": "2026-11-23T15:37:24.801105+00:00",
+  "c4aa81e8683cc017": "2026-11-23T15:37:24.801105+00:00",
+  "65d4a1babc74a436": "2026-11-23T15:37:24.801105+00:00",
+  "e2e01dfd9df9e91f": "2026-11-23T15:37:24.801105+00:00",
+  "c059a9919df79cc9": "2026-11-23T15:37:24.801105+00:00"
  },
  "covered": [
   {
@@ -1988,11 +1999,15 @@
   {
    "headline": "Nvidia board reinstates Jensen Huang as CEO",
    "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  {
+   "headline": "Z.ai launches GLM-5.4 flagship model using loop architecture",
+   "ts": "2026-11-23T15:37:24.801105+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4088,8 +4103,8 @@
    "first_seen_at": "2026-11-23T15:07:24.610166+00:00",
    "expires_at": "2026-11-25T00:00:00+00:00",
    "decision": 2.07,
-   "priority": 7.874927,
-   "selection_reason": "Editorial importance"
+   "priority": 7.895763,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "106e5d1cffec6462",
@@ -4116,8 +4131,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.732181,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "priority": 7.749544,
+   "selection_reason": "Time-sensitive story; waiting 4.5h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4144,11 +4159,21 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.252451,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.269814,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+   "source": "The Decoder",
+   "kind": "takes",
+   "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+   "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models.…",
+   "queued_at": "2026-11-23T15:37:24.801105+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4453,16 +4478,6 @@
   "takes": 20
  },
  "triage": {
-  "2cf2d53f69be205a": {
-   "imp": 2.14,
-   "ai": 0.93,
-   "ts": "2026-11-15T15:37:20.943043+00:00"
-  },
-  "5d036594fd6c66c5": {
-   "imp": 0.64,
-   "ai": 0.16,
-   "ts": "2026-11-15T15:37:20.943043+00:00"
-  },
   "7366d1903cffa879": {
    "imp": 0.35,
    "ai": 0.16,
@@ -25432,6 +25447,86 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-23T15:07:24.610166+00:00"
+  },
+  "c059a9919df79cc9": {
+   "imp": 2.2,
+   "ai": null,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "40a844e7756b642d": {
+   "imp": 2.56,
+   "ai": 0.91,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "6350815a8d8c0aed": {
+   "imp": 1.8,
+   "ai": 0.87,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "8c04a3a0cb455115": {
+   "imp": 2.2,
+   "ai": 0.91,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "65d4a1babc74a436": {
+   "imp": 2.3,
+   "ai": 0.92,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "be5e01467a77cd19": {
+   "imp": 1.97,
+   "ai": 0.85,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "225587cccde11145": {
+   "imp": 1.12,
+   "ai": 0.83,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "0f37308bd5d59840": {
+   "imp": 2.69,
+   "ai": 0.93,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "e718ddea3c30b8f8": {
+   "imp": 2.49,
+   "ai": 0.92,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "e2e01dfd9df9e91f": {
+   "imp": 1.74,
+   "ai": 0.71,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "6bd3b7cb7c2f8660": {
+   "imp": 2.33,
+   "ai": 0.87,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "547f3218a55f8753": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "cdf852450d55b159": {
+   "imp": 0.04,
+   "ai": 0.03,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "87f47acd51c78b6a": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "680f53fdf1700d54": {
+   "imp": 0.04,
+   "ai": 0.03,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
+  },
+  "827f6714dfc3fcff": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-23T15:37:24.801105+00:00"
   }
  }
 }
