@@ -1877,7 +1877,19 @@
   "749af88c256f3a82": "2026-11-23T16:37:24.886969+00:00",
   "c9219098dd38f69a": "2026-11-23T16:37:24.886969+00:00",
   "0104d4e7c1820519": "2026-11-23T16:37:24.886969+00:00",
-  "106e5d1cffec6462": "2026-11-23T16:37:24.886969+00:00"
+  "106e5d1cffec6462": "2026-11-23T16:37:24.886969+00:00",
+  "39c2da17cef629dc": "2026-11-23T17:07:32.561267+00:00",
+  "61dcf1169479ac82": "2026-11-23T17:07:32.561267+00:00",
+  "4fee0c0f21483873": "2026-11-23T17:07:32.561267+00:00",
+  "6df25ba5c56f4494": "2026-11-23T17:07:32.561267+00:00",
+  "93c63630e637e851": "2026-11-23T17:07:32.561267+00:00",
+  "501b182045a21148": "2026-11-23T17:07:32.561267+00:00",
+  "56a8d986a3218534": "2026-11-23T17:07:32.561267+00:00",
+  "5dc55a044437ee86": "2026-11-23T17:07:32.561267+00:00",
+  "8bc322453602c05d": "2026-11-23T17:07:32.561267+00:00",
+  "6350815a8d8c0aed": "2026-11-23T17:07:32.561267+00:00",
+  "4bf26f28fa7c6297": "2026-11-23T17:07:32.561267+00:00",
+  "219a8ccbe674d162": "2026-11-23T17:07:32.561267+00:00"
  },
  "covered": [
   {
@@ -2027,11 +2039,15 @@
   {
    "headline": "Walmart enables Meta Muse AI agent for Black Friday shopping",
    "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  {
+   "headline": "LTTS launches SDVault AI engineering platform for software vehicles",
+   "ts": "2026-11-23T17:07:32.561267+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-23",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4099,38 +4115,15 @@
    "desc": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
    "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/3c560e7354a6748a651b0e0a8c48d16a6b105522-3358x1874.png",
    "published": "2026-11-23T00:00:00+00:00"
+  },
+  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/": {
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "desc": "How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes.",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+   "published": "2026-11-23T17:00:00+00:00"
   }
  },
- "pending": [
-  {
-   "id": "219a8ccbe674d162",
-   "item": {
-    "id": "219a8ccbe674d162",
-    "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
-    "url": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769092272610-0b2c58c1-cedc-486a-849a-3eb600ebcfa0-0q42cp.webp",
-    "snippet": "L&T Technology Services (LTTS) has launched an AI-powered engineering toolchain designed to support the development and validation of software-defined vehicles (SDVs). Called SDVault.ai, the platform uses more than 250 AI agents across 12 engineering domains, covering requirements, system architecture, functional safety, cybersecurity, software development and testing. Part of LTTS' EI for Enginee…",
-    "published": "2026-11-23T11:00:35+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "LTTS launches SDVault AI engineering platform for software vehicles",
-   "post": "L&T Technology Services launched SDVault.ai, an AI engineering toolchain featuring over 250 AI agents across 12 domains to support the development and testing of software-defined vehicles.",
-   "editor_note": "Verify commercial availability date and client deployment status for SDVault.ai.",
-   "support": 0.96,
-   "published_at": "2026-11-23T11:00:35+00:00",
-   "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
-   "expires_at": "2026-11-24T23:00:35+00:00",
-   "decision": 1.85,
-   "priority": 7.304537,
-   "selection_reason": "Editorial importance; waiting 5.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [
   {
    "url": "https://www.sarvam.ai/blogs/sarvam-dictate",
@@ -4138,7 +4131,8 @@
    "kind": "pack",
    "title": "Sarvam Dictate: fast, accurate dictation | Sarvam AI",
    "summary": "Sarvam Dictate is a dictation API that returns the text people meant to type, in English and 22 Indian languages, with fewer edits than Gemini and AssemblyAI.",
-   "queued_at": "2026-11-23T16:07:27.054964+00:00"
+   "queued_at": "2026-11-23T16:07:27.054964+00:00",
+   "attempts": 1
   },
   {
    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
@@ -4147,6 +4141,14 @@
    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
    "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
    "queued_at": "2026-11-23T16:37:24.886969+00:00"
+  },
+  {
+   "url": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
+   "source": "Analytics India Magazine",
+   "kind": "takes",
+   "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
+   "summary": "L&T Technology Services (LTTS) has launched an AI-powered engineering toolchain designed to support the development and validation of software-defined vehicles (SDVs). Called SDVault.ai, the platform uses more than 250 AI agents across 12 engineering domains, covering requirements, system architecture, functional safety, cybersecurity, software development and testing. Part of LTTS' EI for Enginee…",
+   "queued_at": "2026-11-23T17:07:32.561267+00:00"
   }
  ],
  "details_done": {
@@ -4453,36 +4455,6 @@
   "takes": 20
  },
  "triage": {
-  "70478f62462e65ed": {
-   "imp": 1.18,
-   "ai": 0.51,
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
-  "14abd41674e89d8c": {
-   "imp": 0.52,
-   "ai": 0.52,
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
-  "14d2aa69231d4887": {
-   "imp": 0.82,
-   "ai": 0.6,
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
-  "6ec69c7706ee11d7": {
-   "imp": 0.23,
-   "ai": 0.14,
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
-  "ad6ea6ad10855f96": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
-  "fff5c669c4d1f218": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-15T17:07:23.404767+00:00"
-  },
   "f7632412ff0584a1": {
    "imp": 2.43,
    "ai": 0.9,
@@ -25547,6 +25519,76 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-23T16:37:24.886969+00:00"
+  },
+  "8bc322453602c05d": {
+   "imp": 2.58,
+   "ai": 0.91,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "6df25ba5c56f4494": {
+   "imp": 2.68,
+   "ai": 0.93,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "4fee0c0f21483873": {
+   "imp": 2.67,
+   "ai": null,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "5dc55a044437ee86": {
+   "imp": 2.6,
+   "ai": null,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "501b182045a21148": {
+   "imp": 1.03,
+   "ai": null,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "93c63630e637e851": {
+   "imp": 2.51,
+   "ai": 0.86,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "4528cdb3d2c670d5": {
+   "imp": 1.51,
+   "ai": 0.88,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "61dcf1169479ac82": {
+   "imp": 1.65,
+   "ai": null,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "39c2da17cef629dc": {
+   "imp": 1.97,
+   "ai": null,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "92c3ddba142b0279": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "5b5977c97303f977": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "9a2cc9c388c350b3": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "b7c3b0ae641fde37": {
+   "imp": 0.14,
+   "ai": 0.06,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
+  },
+  "56a8d986a3218534": {
+   "imp": 0.98,
+   "ai": 0.94,
+   "ts": "2026-11-23T17:07:32.561267+00:00"
   }
  }
 }
