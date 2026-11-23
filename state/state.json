@@ -1,11 +1,5 @@
 {
  "seen": {
-  "0bc322583e6f0775": "2026-11-16T14:07:22.847927+00:00",
-  "068cdd590fa526ab": "2026-11-16T14:07:22.847927+00:00",
-  "dd02c35afc864bbe": "2026-11-16T14:07:22.847927+00:00",
-  "29a19e1aacc64ded": "2026-11-16T14:07:22.847927+00:00",
-  "0a1a9bbf6f1b470a": "2026-11-16T14:07:22.847927+00:00",
-  "3310a493ca30e1bf": "2026-11-16T14:07:22.847927+00:00",
   "cfcc7acb02e9ca79": "2026-11-16T15:07:24.865392+00:00",
   "b0ded74e06b06613": "2026-11-16T15:07:24.865392+00:00",
   "d1737df71af82fe9": "2026-11-16T15:07:24.865392+00:00",
@@ -4032,6 +4026,13 @@
    "desc": "零Token成本，断网也能自由Vibe Coding",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/agentic-evals": {
+   "title": "How to build and maintain an agentic evaluation",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+   "published": "2026-11-23T00:00:00.776000+00:00",
+   "excerpt": "AI evaluations help shape which systems people build, adopt, and trust. An evaluation gives a system tasks, checks its answers or actions, and produces a score. Building and maintaining a useful evaluation therefore takes real work: defining tasks that reflect domain expertise, scoring them reliably, and checking that the results support the claims made. When methods, code, and data stay private, that work is harder for others to scrutinize or build on. Open source offers a means to build stronger, more frequently updated, and more comparable evaluations and the infrastructure around them. Existing tasks, environments, and tools give builders a starting point, so their effort can go to domain expertise and validation. Sharing how an evaluation was built, including what went wrong, lets oth…"
   }
  },
  "pending": [
@@ -4060,8 +4061,8 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:00+00:00",
    "decision": 1.79,
-   "priority": 7.680065,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.697464,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "219a8ccbe674d162",
@@ -4088,20 +4089,11 @@
    "first_seen_at": "2026-11-23T11:07:21.386780+00:00",
    "expires_at": "2026-11-24T23:00:35+00:00",
    "decision": 1.85,
-   "priority": 7.200335,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.217734,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
-   "source": "Bloomberg",
-   "kind": "takes",
-   "title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips",
-   "summary": "Marlowe, a six-month-old startup co-founded by two Microsoft Corp. vice presidents, has raised $277 million to pursue ways to boost computing power from chips that rival Nvidia Corp.’s processors.",
-   "queued_at": "2026-11-23T13:07:23.722689+00:00",
-   "attempts": 2
-  },
   {
    "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
    "source": "YourStory",
@@ -4413,31 +4405,6 @@
   "takes": 18
  },
  "triage": {
-  "a39fa7636e6a9150": {
-   "imp": 0.54,
-   "ai": null,
-   "ts": "2026-11-15T14:07:24.765095+00:00"
-  },
-  "72120cb31e6597d5": {
-   "imp": 1.73,
-   "ai": 0.9,
-   "ts": "2026-11-15T14:07:24.765095+00:00"
-  },
-  "7c347ddc214057a5": {
-   "imp": 0.98,
-   "ai": 0.77,
-   "ts": "2026-11-15T14:07:24.765095+00:00"
-  },
-  "93e65adce8bbaa67": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-15T14:07:24.765095+00:00"
-  },
-  "a30989f4f6934fc5": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-15T14:07:24.765095+00:00"
-  },
   "175fc43372c6ed44": {
    "imp": 0.13,
    "ai": 0.03,
@@ -25192,6 +25159,96 @@
    "imp": 0.39,
    "ai": 0.06,
    "ts": "2026-11-23T13:37:21.234669+00:00"
+  },
+  "341c9475d1b971f0": {
+   "imp": 2.03,
+   "ai": null,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "473aed85ad8459b1": {
+   "imp": 2.07,
+   "ai": null,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "bab5470813fe16df": {
+   "imp": 1.07,
+   "ai": null,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "0820f724e51efb9c": {
+   "imp": 2.68,
+   "ai": 0.96,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "24ca81dfe135e7a8": {
+   "imp": 2.71,
+   "ai": 0.94,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "d8f4bebe9011ea80": {
+   "imp": 1.17,
+   "ai": 0.67,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "9de1d898bddebeeb": {
+   "imp": 2.71,
+   "ai": 0.94,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "0736de29a4bba010": {
+   "imp": 2.7,
+   "ai": 0.93,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "645bbc1336b961a0": {
+   "imp": 2.68,
+   "ai": 0.94,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "27d0bdbfdb8dd92b": {
+   "imp": 1.5,
+   "ai": 0.89,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "6fd4c32fe34a4cba": {
+   "imp": 0.51,
+   "ai": null,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "10208a6a3744e666": {
+   "imp": 1.94,
+   "ai": 0.89,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "f4815653ec4c1049": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "0ed357acfd4136e0": {
+   "imp": 0.21,
+   "ai": 0.06,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "be185d82b8e7cb43": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "5a939ccdb541269a": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "324f106019264686": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
+  },
+  "e527d4c7ccdc3a03": {
+   "imp": 0.57,
+   "ai": 0.1,
+   "ts": "2026-11-23T14:07:25.184261+00:00"
   }
  }
 }
