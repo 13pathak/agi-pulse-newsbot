@@ -1,15 +1,5 @@
 {
  "seen": {
-  "d50dc7a2335f6b81": "2026-11-17T05:37:34.818659+00:00",
-  "b8355fd359fa37da": "2026-11-17T05:37:34.818659+00:00",
-  "7ba41246814e3786": "2026-11-17T05:37:34.818659+00:00",
-  "4d6edea879f644a2": "2026-11-17T05:37:34.818659+00:00",
-  "583ed7dae3092711": "2026-11-17T05:37:34.818659+00:00",
-  "db20b62de2b2af3a": "2026-11-17T05:37:34.818659+00:00",
-  "4b3b678dd2d69e9a": "2026-11-17T05:37:34.818659+00:00",
-  "c01ec4e76f05b872": "2026-11-17T05:37:34.818659+00:00",
-  "7fae55d39fd6e14e": "2026-11-17T05:37:34.818659+00:00",
-  "bdc8e7eacc0c5b79": "2026-11-17T05:37:34.818659+00:00",
   "c94b644d8baa0f4d": "2026-11-17T06:07:22.380455+00:00",
   "4e77b606edcdf203": "2026-11-17T06:07:22.380455+00:00",
   "fe451fc663d439f7": "2026-11-17T06:07:22.380455+00:00",
@@ -1898,7 +1888,16 @@
   "5d2136f5d5683013": "2026-11-24T05:07:24.074142+00:00",
   "165f0f74b59e8cf8": "2026-11-24T05:07:24.074142+00:00",
   "74ae2686b36cd7ea": "2026-11-24T05:07:24.074142+00:00",
-  "aaf59c36c8ae22ac": "2026-11-24T05:07:24.074142+00:00"
+  "aaf59c36c8ae22ac": "2026-11-24T05:07:24.074142+00:00",
+  "5308d6cba7ca5ac9": "2026-11-24T05:37:22.030621+00:00",
+  "bae0398da35ccff8": "2026-11-24T05:37:22.030621+00:00",
+  "f22d36f622644f88": "2026-11-24T05:37:22.030621+00:00",
+  "43a3af0872fb9ac9": "2026-11-24T05:37:22.030621+00:00",
+  "2358da39b7fc773d": "2026-11-24T05:37:22.030621+00:00",
+  "48c912d8f2b2529b": "2026-11-24T05:37:22.030621+00:00",
+  "9e8184500c307da9": "2026-11-24T05:37:22.030621+00:00",
+  "c1171bbfaa61bb45": "2026-11-24T05:37:22.030621+00:00",
+  "e4463fe276ea6eac": "2026-11-24T05:37:22.030621+00:00"
  },
  "covered": [
   {
@@ -2072,11 +2071,15 @@
   {
    "headline": "SenseTime releases open-weight SenseNova U1.6 8B model",
    "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  {
+   "headline": "SpaceX rents AI compute to Anthropic and Google",
+   "ts": "2026-11-24T05:37:22.030621+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4230,32 +4233,33 @@
  },
  "pending": [
   {
-   "id": "e4463fe276ea6eac",
+   "id": "0393ac4dd236ada5",
    "item": {
-    "id": "e4463fe276ea6eac",
-    "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
-    "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
-    "source": "The Decoder",
+    "id": "0393ac4dd236ada5",
+    "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+    "url": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
+    "source": "LeiPhone",
     "image": "",
-    "snippet": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts. The article Anthropic's appetite for compute is pushing xAI toward a rent-over-build strateg…",
-    "published": "2026-11-23T18:47:53+00:00",
-    "images": true,
+    "snippet": "AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。 不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。 在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%。即使只使用心电图和胸带呼吸信号两个相对简单的传感器通道，模型对118种疾病仍具备较强的预测能力，接近使用完整睡眠监测设备的外部模型表现。 在其他任务中，LingSante-Pulse也展现出较强的通用性。在覆盖脑电、心电、脉搏波和肌电四大领域的38项单传感器预测任务，以及睡眠分期、睡眠呼吸暂停筛查等多模态任务评测中，模型综合表现领先现有单传感器领域专有模型及多模态生理信号基础模型。 目前，利用AI分析生理信号、开展疾病早期识别和风险预测，已经成为医疗AI领域的重要研究方向。国内外不少研究机构和企业都在探索，从心电、睡眠监测和可穿戴设备数据中发现传统诊疗中不易察觉的健康变化。 据了解，蚂蚁刚刚发布医疗健康模型全家桶，覆盖医疗推理、多模态理解、疾病风险预测、安全防护和实时智能体等多个方向。与此同时，阿福App宣布新一轮升级，解锁AI 实时音视频“望闻问切”功能，升级AI健康管家能力，并扩展无…",
+    "published": "2026-11-24T03:13:00+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "SpaceX rents AI compute to Anthropic and Google",
-   "post": "SpaceX is renting compute capacity to Anthropic for about $3.1 billion a month and Google for $800 million while scaling back its own AI projects, according to The New York Times.",
-   "editor_note": "Verify whether the monthly spending figures were confirmed by Anthropic or SpaceX, and confirm details on the Grok team cuts.",
-   "support": 0.53,
-   "published_at": "2026-11-23T18:47:53+00:00",
-   "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
-   "expires_at": "2026-11-25T06:47:53+00:00",
-   "decision": 1.81,
-   "priority": 7.566514,
-   "selection_reason": "Time-sensitive story; waiting 4.0h"
+   "headline": "Ant Group open-sources LingSante Pulse health risk prediction model",
+   "post": "Ant Group open-sourced LingSante Pulse, a medical prediction model that analyzes physiological signals such as ECG and EEG data to forecast six-year risks for 150 disease phenotypes. It was pretrained on over 150,000 hours of data.",
+   "editor_note": "Verify the open-source repository availability and license details for LingSante Pulse.",
+   "support": 0.95,
+   "published_at": "2026-11-24T03:13:00+00:00",
+   "first_seen_at": "2026-11-24T05:37:22.030621+00:00",
+   "expires_at": "2026-11-25T15:13:00+00:00",
+   "decision": 1.75,
+   "priority": 7.516497,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "49b80d2d054c6f28",
@@ -4282,7 +4286,7 @@
    "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
    "expires_at": "2026-11-25T16:43:00+00:00",
    "decision": 2.27,
-   "priority": 7.24537,
+   "priority": 7.262711,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4311,8 +4315,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.08448,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.101821,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4340,8 +4344,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.026748,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.04409,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4368,8 +4372,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.99317,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.010512,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4396,8 +4400,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.725254,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.742595,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4426,8 +4430,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.665844,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.691856,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4739,84 +4743,15 @@
   "https://36kr.com/newsflashes/4083166753952897?f=rss": "2026-11-24T03:39:36.452130+00:00",
   "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "2026-11-24T04:07:54.785413+00:00",
   "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": "2026-11-24T04:39:52.045842+00:00",
-  "https://36kr.com/newsflashes/4083287879537795?f=rss": "2026-11-24T05:08:33.251952+00:00"
+  "https://36kr.com/newsflashes/4083287879537795?f=rss": "2026-11-24T05:08:33.251952+00:00",
+  "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy": "2026-11-24T05:39:40.744347+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
-  "9baf335f5cb9ef9d": {
-   "imp": 1.96,
-   "ai": 0.95,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "51ff637b11330b6b": {
-   "imp": 1.31,
-   "ai": 0.62,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "750b07b83689f47c": {
-   "imp": 1.12,
-   "ai": 0.51,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "6e9d48136a0b3f97": {
-   "imp": 1.2,
-   "ai": 0.5,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "258f215b8f154751": {
-   "imp": 2.59,
-   "ai": 0.99,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "67ddb54c884384d7": {
-   "imp": 1.32,
-   "ai": null,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "a13cca8421ced4d6": {
-   "imp": 1.17,
-   "ai": 0.21,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "f517ea55b00c0207": {
-   "imp": 0.82,
-   "ai": 0.36,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "704aadd33a833127": {
-   "imp": 0.27,
-   "ai": 0.13,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "17afdc9acb3244ec": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "c16c5eea74179c4f": {
-   "imp": 1.04,
-   "ai": 0.42,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "0a46316a8e8a24bf": {
-   "imp": 1.97,
-   "ai": 0.98,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "45ba19fb32cd23a9": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
-  "3303a7d4eb629c5d": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-16T05:37:29.305094+00:00"
-  },
   "bccfb49cfe87dabf": {
    "imp": 0.51,
    "ai": 0.12,
@@ -26396,6 +26331,96 @@
    "imp": 2.27,
    "ai": 0.87,
    "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "2358da39b7fc773d": {
+   "imp": 1.14,
+   "ai": 0.86,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "c1171bbfaa61bb45": {
+   "imp": 0.73,
+   "ai": 0.53,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "f22d36f622644f88": {
+   "imp": 1.63,
+   "ai": 0.84,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "43a3af0872fb9ac9": {
+   "imp": 1.23,
+   "ai": 0.84,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "5308d6cba7ca5ac9": {
+   "imp": 1.73,
+   "ai": 0.96,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "48c912d8f2b2529b": {
+   "imp": 0.76,
+   "ai": 0.41,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "0393ac4dd236ada5": {
+   "imp": 1.75,
+   "ai": 0.97,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "bae0398da35ccff8": {
+   "imp": 1.56,
+   "ai": 0.85,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "9e8184500c307da9": {
+   "imp": 1.36,
+   "ai": 0.93,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "525af206da2af254": {
+   "imp": 0.35,
+   "ai": 0.08,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "35640700167256a5": {
+   "imp": 1.28,
+   "ai": 0.35,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "aefd977fe1d30902": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "cd8b146e8ba5365d": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "3c413dcf1c7c0b2a": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "266a84514cdb92c0": {
+   "imp": 0.41,
+   "ai": 0.21,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "6c3140b0dbe4604d": {
+   "imp": 0.44,
+   "ai": 0.1,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "3b1f8072ba2915b1": {
+   "imp": 1.02,
+   "ai": 0.52,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "4098dda8930deb19": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-24T05:37:22.030621+00:00"
   }
  }
 }
