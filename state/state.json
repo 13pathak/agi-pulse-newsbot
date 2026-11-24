@@ -4291,6 +4291,12 @@
    "desc": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.sarvam.ai/blogs/extract-api": {
+   "title": "Introducing Sarvam Extract | Sarvam AI",
+   "desc": "Sarvam Extract turns documents of up to 500 pages into structured JSON, with a source page, bounding box and confidence score for every value.",
+   "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/e8c9d10082f9dd9f069c80cc23f898e1e46ce4f4-2752x1536.jpg",
+   "published": "2026-11-24T00:00:00+00:00"
   }
  },
  "pending": [
@@ -4320,8 +4326,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.360035,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.346143,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4348,8 +4354,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.263954,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.250063,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4378,8 +4384,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.212739,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.23871,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4407,8 +4413,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.118496,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.13586,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4435,29 +4441,11 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.996038,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 6.982146,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
-   "source": "Analytics India Magazine",
-   "kind": "takes",
-   "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
-   "summary": "OpenAI and Cisco have introduced Shirudo, an open-source security tool that protects running Linux systems from vulnerabilities without requiring software updates or system restarts. Shirudo uses a Linux technology called extended Berkeley Packet Filter (eBPF) to monitor system activity and block specific malicious behaviour. It does this through small programmes called shields, which target vulne…",
-   "queued_at": "2026-11-24T15:07:24.250622+00:00",
-   "attempts": 1
-  },
-  {
-   "url": "https://36kr.com/newsflashes/4083157108724871?f=rss",
-   "source": "36Kr",
-   "kind": "takes",
-   "title": "豆包旗下AI个人助理“小豆”开启公测",
-   "summary": "36氪获悉，11月24日，豆包旗下AI个人助理产品“小豆”正式开启公测。公测期间，小豆采用邀请制开放，用户凭邀请码即可开启体验，并获赠一定量免费额度。未来，小豆上的能力与体验也将逐步在豆包App上线。",
-   "queued_at": "2026-11-24T15:37:25.500711+00:00"
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4781,114 +4769,16 @@
   "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups": "2026-11-24T12:37:53.446407+00:00",
   "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users": "2026-11-24T13:07:55.321508+00:00",
   "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": "2026-11-24T13:37:54.431674+00:00",
-  "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows": "2026-11-24T15:38:19.247143+00:00"
+  "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows": "2026-11-24T15:38:19.247143+00:00",
+  "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits": "2026-11-24T16:07:52.144351+00:00",
+  "https://36kr.com/newsflashes/4083157108724871?f=rss": "2026-11-24T16:07:52.144351+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 26
+  "takes": 28
  },
  "triage": {
-  "6516c66961953bb6": {
-   "imp": 0.63,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "ddcd7a9ae2443227": {
-   "imp": 1.48,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "4adac3de4d562c11": {
-   "imp": 1.78,
-   "ai": 0.98,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "8c28998bc64ecbc4": {
-   "imp": 0.59,
-   "ai": 0.89,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "a3d0623a59260846": {
-   "imp": 1.68,
-   "ai": 0.89,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "8bee690387004ef0": {
-   "imp": 1.95,
-   "ai": 0.87,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "f9c7f44758ed7ca9": {
-   "imp": 1.67,
-   "ai": 0.98,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "511e529784cb43c0": {
-   "imp": 2.18,
-   "ai": 0.99,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "4ac5210d16d95d6a": {
-   "imp": 2.54,
-   "ai": 0.96,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "aafc20d9f2a085c9": {
-   "imp": 1.21,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "0be2ab6226e78541": {
-   "imp": 1.03,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "0f2a855bc6a8fcf2": {
-   "imp": 1.99,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "8192f1094925b873": {
-   "imp": 1.38,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "f96db6736bc3d96a": {
-   "imp": 1.05,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "6cab091c059af43f": {
-   "imp": 1.97,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "ea6d8f837639032f": {
-   "imp": 1.15,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "f978b1cf70930b8f": {
-   "imp": 0.49,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "c636885b9662b9ce": {
-   "imp": 0.59,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "7381db88317ca659": {
-   "imp": 0.74,
-   "ai": null,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
-  "eb33cb191fdd2451": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-16T16:07:28.417896+00:00"
-  },
   "ea6ee25fa2b6781e": {
    "imp": 1.87,
    "ai": null,
@@ -26413,6 +26303,86 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-24T15:37:25.500711+00:00"
+  },
+  "bbaf6332f2bfb4e9": {
+   "imp": 1.13,
+   "ai": null,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "5845ed4863b49265": {
+   "imp": 2.52,
+   "ai": null,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "7765d9882542ae27": {
+   "imp": 1.03,
+   "ai": null,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "7deb579002e5ae8d": {
+   "imp": 1.59,
+   "ai": null,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "44c724790157dc99": {
+   "imp": 1.93,
+   "ai": 0.92,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "53922f73c63aa13f": {
+   "imp": 1.28,
+   "ai": 0.85,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "ba237a21eb644b16": {
+   "imp": 0.82,
+   "ai": 0.93,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "f14aeac4ebff30c3": {
+   "imp": 2.22,
+   "ai": 0.97,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "1bfe593b04cfff3b": {
+   "imp": 1.28,
+   "ai": 0.71,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "209542604ae48446": {
+   "imp": 1.25,
+   "ai": 0.84,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "e2544bc1aeb2953e": {
+   "imp": 0.84,
+   "ai": null,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "f37210edd15930ff": {
+   "imp": 2.31,
+   "ai": null,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "9b94f8a123fbaca1": {
+   "imp": 0.33,
+   "ai": 0.24,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "70f5aa1fbe4ef47a": {
+   "imp": 0.25,
+   "ai": 0.09,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "6ea41910030449a3": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "36658ae4fa4fbb16": {
+   "imp": 0.03,
+   "ai": 0.03,
+   "ts": "2026-11-24T16:07:25.814283+00:00"
   }
  }
 }
