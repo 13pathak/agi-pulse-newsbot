@@ -1904,7 +1904,11 @@
   "026f4d8990ac07b0": "2026-11-24T14:37:24.392163+00:00",
   "ee3ae02f2750b3a5": "2026-11-24T14:37:24.392163+00:00",
   "2264e4d4e5093a5d": "2026-11-24T14:37:24.392163+00:00",
-  "d657e29b3bccdc8f": "2026-11-24T14:37:24.392163+00:00"
+  "d657e29b3bccdc8f": "2026-11-24T14:37:24.392163+00:00",
+  "f8cdc496b0bc8f98": "2026-11-24T15:07:24.250622+00:00",
+  "2116f73a7761b91a": "2026-11-24T15:07:24.250622+00:00",
+  "a2ddabb626710845": "2026-11-24T15:07:24.250622+00:00",
+  "6cab55a705c100be": "2026-11-24T15:07:24.250622+00:00"
  },
  "covered": [
   {
@@ -2114,11 +2118,15 @@
   {
    "headline": "AidenAI raises 32 million dollars in Series A funding",
    "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  {
+   "headline": "OpenAI and Cisco release open-source security tool Shirudo",
+   "ts": "2026-11-24T15:07:24.250622+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4302,34 +4310,6 @@
  },
  "pending": [
   {
-   "id": "6cab55a705c100be",
-   "item": {
-    "id": "6cab55a705c100be",
-    "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
-    "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243631740-52b615cb-fca5-454a-bb96-5a3f925f8c77-5mf7y.webp",
-    "snippet": "OpenAI and Cisco have introduced Shirudo, an open-source security tool that protects running Linux systems from vulnerabilities without requiring software updates or system restarts. Shirudo uses a Linux technology called extended Berkeley Packet Filter (eBPF) to monitor system activity and block specific malicious behaviour. It does this through small programmes called shields, which target vulne…",
-    "published": "2026-11-24T11:37:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI and Cisco release open-source security tool Shirudo",
-   "post": "OpenAI and Cisco have released Shirudo, an open-source security tool for Linux systems. Shirudo uses extended Berkeley Packet Filter technology to block malicious behavior without requiring system updates or restarts.",
-   "editor_note": "Verify open-source repository details and license terms for Shirudo.",
-   "support": 0.96,
-   "published_at": "2026-11-24T11:37:26+00:00",
-   "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
-   "expires_at": "2026-11-25T23:37:24.571320+00:00",
-   "decision": 1.92,
-   "priority": 7.744165,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
-  },
-  {
    "id": "f1f183cc5ebb7fbc",
    "item": {
     "id": "f1f183cc5ebb7fbc",
@@ -4355,8 +4335,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.414344,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.431665,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4384,8 +4364,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.356613,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.373933,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4412,8 +4392,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.291741,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.277853,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4442,8 +4422,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.16064,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.18668,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4471,8 +4451,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.083763,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.101123,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4499,8 +4479,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 7.023824,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.009936,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   }
  ],
  "details_queue": [
@@ -4511,7 +4491,15 @@
    "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
    "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment firm A91 Partners, as it looks to expand its AI platform and engineering capabilities. The fresh capital will be used to invest in its platform and engineering talent as it looks to scale its global enterprise AI business. “With A91 as our partner, we are excited to invest in our people…",
    "queued_at": "2026-11-24T14:37:24.392163+00:00",
-   "attempts": 1
+   "attempts": 2
+  },
+  {
+   "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
+   "source": "Analytics India Magazine",
+   "kind": "takes",
+   "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+   "summary": "OpenAI and Cisco have introduced Shirudo, an open-source security tool that protects running Linux systems from vulnerabilities without requiring software updates or system restarts. Shirudo uses a Linux technology called extended Berkeley Packet Filter (eBPF) to monitor system activity and block specific malicious behaviour. It does this through small programmes called shields, which target vulne…",
+   "queued_at": "2026-11-24T15:07:24.250622+00:00"
   }
  ],
  "details_done": {
@@ -4844,141 +4832,6 @@
   "takes": 25
  },
  "triage": {
-  "b66ff0c9eab30ed7": {
-   "imp": 2.36,
-   "ai": 0.88,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "8c45093a8654f696": {
-   "imp": 1.48,
-   "ai": 0.92,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "772ccdf8e8c79868": {
-   "imp": 2.44,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "5c136724c0dea211": {
-   "imp": 0.32,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "ef28afd6608b538d": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "ca1899ca16809729": {
-   "imp": 2.5,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "89386e25aced84e4": {
-   "imp": 2.3,
-   "ai": 0.92,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "a6be9f34716ee355": {
-   "imp": 2.48,
-   "ai": 0.98,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "ebdc79e2fc55422f": {
-   "imp": 2.24,
-   "ai": 0.82,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "9f91ec73cb844b9e": {
-   "imp": 2.22,
-   "ai": 0.88,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "4ad82c3981d88813": {
-   "imp": 2.5,
-   "ai": 0.91,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "e6e61d970f7040b2": {
-   "imp": 0.71,
-   "ai": 0.14,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "2e6aa891cb438356": {
-   "imp": 1.56,
-   "ai": 0.97,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "851a72a5bbe14594": {
-   "imp": 1.72,
-   "ai": 0.88,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "fd739b63a2740a91": {
-   "imp": 0.75,
-   "ai": 0.3,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "b0ded74e06b06613": {
-   "imp": 1.93,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "cfcc7acb02e9ca79": {
-   "imp": 2.02,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "c2855811f136cf3a": {
-   "imp": 1.46,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "d1737df71af82fe9": {
-   "imp": 0.65,
-   "ai": null,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "4537559f47446541": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "b0c20f5a96b402dd": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "3b1728aade272332": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "319d5500c9825121": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "eda8144f12dca20c": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "47f4792b245b68c5": {
-   "imp": 0.23,
-   "ai": 0.05,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "168a5c8c545afea8": {
-   "imp": 1.83,
-   "ai": 0.42,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
-  "24c39ce649ca10ed": {
-   "imp": 0.26,
-   "ai": 0.04,
-   "ts": "2026-11-16T15:07:24.865392+00:00"
-  },
   "ab086a66f465eda3": {
    "imp": 1.74,
    "ai": null,
@@ -26593,6 +26446,26 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "f8cdc496b0bc8f98": {
+   "imp": 1.88,
+   "ai": null,
+   "ts": "2026-11-24T15:07:24.250622+00:00"
+  },
+  "2116f73a7761b91a": {
+   "imp": 1.55,
+   "ai": 0.93,
+   "ts": "2026-11-24T15:07:24.250622+00:00"
+  },
+  "a2ddabb626710845": {
+   "imp": 1.47,
+   "ai": 0.66,
+   "ts": "2026-11-24T15:07:24.250622+00:00"
+  },
+  "138b067c687eec88": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-24T15:07:24.250622+00:00"
   }
  }
 }
