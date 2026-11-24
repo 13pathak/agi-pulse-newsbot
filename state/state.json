@@ -1,10 +1,5 @@
 {
  "seen": {
-  "c94b644d8baa0f4d": "2026-11-17T06:07:22.380455+00:00",
-  "4e77b606edcdf203": "2026-11-17T06:07:22.380455+00:00",
-  "fe451fc663d439f7": "2026-11-17T06:07:22.380455+00:00",
-  "5f9e5f6a7327c593": "2026-11-17T06:07:22.380455+00:00",
-  "f0fe9bca996d0e9c": "2026-11-17T06:07:22.380455+00:00",
   "f054a54f8228cfac": "2026-11-17T06:37:26.459931+00:00",
   "d0423e1a0b411f6f": "2026-11-17T06:37:26.459931+00:00",
   "92289fd3f63893d6": "2026-11-17T06:37:26.459931+00:00",
@@ -1897,7 +1892,14 @@
   "48c912d8f2b2529b": "2026-11-24T05:37:22.030621+00:00",
   "9e8184500c307da9": "2026-11-24T05:37:22.030621+00:00",
   "c1171bbfaa61bb45": "2026-11-24T05:37:22.030621+00:00",
-  "e4463fe276ea6eac": "2026-11-24T05:37:22.030621+00:00"
+  "e4463fe276ea6eac": "2026-11-24T05:37:22.030621+00:00",
+  "9ca8a98aa26e839d": "2026-11-24T06:07:22.356294+00:00",
+  "7d6593d8fae040c0": "2026-11-24T06:07:22.356294+00:00",
+  "49bacec4624772e1": "2026-11-24T06:07:22.356294+00:00",
+  "24384649709a5f8a": "2026-11-24T06:07:22.356294+00:00",
+  "34cb78ea1212bbfc": "2026-11-24T06:07:22.356294+00:00",
+  "c945b3d23771c690": "2026-11-24T06:07:22.356294+00:00",
+  "0393ac4dd236ada5": "2026-11-24T06:07:22.356294+00:00"
  },
  "covered": [
   {
@@ -2075,11 +2077,15 @@
   {
    "headline": "SpaceX rents AI compute to Anthropic and Google",
    "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  {
+   "headline": "Ant Group open-sources LingSante Pulse health risk prediction model",
+   "ts": "2026-11-24T06:07:22.356294+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4233,35 +4239,6 @@
  },
  "pending": [
   {
-   "id": "0393ac4dd236ada5",
-   "item": {
-    "id": "0393ac4dd236ada5",
-    "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
-    "url": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。 不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。 在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%。即使只使用心电图和胸带呼吸信号两个相对简单的传感器通道，模型对118种疾病仍具备较强的预测能力，接近使用完整睡眠监测设备的外部模型表现。 在其他任务中，LingSante-Pulse也展现出较强的通用性。在覆盖脑电、心电、脉搏波和肌电四大领域的38项单传感器预测任务，以及睡眠分期、睡眠呼吸暂停筛查等多模态任务评测中，模型综合表现领先现有单传感器领域专有模型及多模态生理信号基础模型。 目前，利用AI分析生理信号、开展疾病早期识别和风险预测，已经成为医疗AI领域的重要研究方向。国内外不少研究机构和企业都在探索，从心电、睡眠监测和可穿戴设备数据中发现传统诊疗中不易察觉的健康变化。 据了解，蚂蚁刚刚发布医疗健康模型全家桶，覆盖医疗推理、多模态理解、疾病风险预测、安全防护和实时智能体等多个方向。与此同时，阿福App宣布新一轮升级，解锁AI 实时音视频“望闻问切”功能，升级AI健康管家能力，并扩展无…",
-    "published": "2026-11-24T03:13:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Ant Group open-sources LingSante Pulse health risk prediction model",
-   "post": "Ant Group open-sourced LingSante Pulse, a medical prediction model that analyzes physiological signals such as ECG and EEG data to forecast six-year risks for 150 disease phenotypes. It was pretrained on over 150,000 hours of data.",
-   "editor_note": "Verify the open-source repository availability and license details for LingSante Pulse.",
-   "support": 0.95,
-   "published_at": "2026-11-24T03:13:00+00:00",
-   "first_seen_at": "2026-11-24T05:37:22.030621+00:00",
-   "expires_at": "2026-11-25T15:13:00+00:00",
-   "decision": 1.75,
-   "priority": 7.516497,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "49b80d2d054c6f28",
    "item": {
     "id": "49b80d2d054c6f28",
@@ -4286,8 +4263,8 @@
    "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
    "expires_at": "2026-11-25T16:43:00+00:00",
    "decision": 2.27,
-   "priority": 7.262711,
-   "selection_reason": "Editorial importance"
+   "priority": 7.280075,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4315,8 +4292,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.101821,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.119185,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4344,8 +4321,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.04409,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.061454,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4372,8 +4349,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.010512,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.027876,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4400,8 +4377,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.742595,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.759959,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4430,8 +4407,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.691856,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.717902,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -4744,89 +4721,15 @@
   "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "2026-11-24T04:07:54.785413+00:00",
   "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": "2026-11-24T04:39:52.045842+00:00",
   "https://36kr.com/newsflashes/4083287879537795?f=rss": "2026-11-24T05:08:33.251952+00:00",
-  "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy": "2026-11-24T05:39:40.744347+00:00"
+  "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy": "2026-11-24T05:39:40.744347+00:00",
+  "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html": "2026-11-24T06:09:53.623592+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
-  "bccfb49cfe87dabf": {
-   "imp": 0.51,
-   "ai": 0.12,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "38eabe1c99dc88b6": {
-   "imp": 1.98,
-   "ai": 0.92,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "dfa1e9da78ae5df2": {
-   "imp": 0.98,
-   "ai": 0.45,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "fd6f47aa9c6182a0": {
-   "imp": 2.66,
-   "ai": 0.97,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "ace4eeb296cb08fe": {
-   "imp": 2.31,
-   "ai": 0.94,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "fba51ab82e788d65": {
-   "imp": 2.69,
-   "ai": 0.98,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "8c987813ee56fdb1": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "50621f8ea927ee88": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "51cbaa9b49f3daff": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "c6406792e7549d68": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "d75db48d38f03184": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "c46a98ffbf2abd2d": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "cbe901d797e912d9": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "bc2e906b7bae5f5a": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
-  "17ce78ee80dfcf97": {
-   "imp": 0.04,
-   "ai": 0.03,
-   "ts": "2026-11-16T06:07:22.214946+00:00"
-  },
   "022551b4aa7642dc": {
    "imp": 0.24,
    "ai": null,
@@ -26421,6 +26324,71 @@
    "imp": 0.21,
    "ai": 0.03,
    "ts": "2026-11-24T05:37:22.030621+00:00"
+  },
+  "c945b3d23771c690": {
+   "imp": 1.45,
+   "ai": null,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "24384649709a5f8a": {
+   "imp": 1.56,
+   "ai": null,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "34cb78ea1212bbfc": {
+   "imp": 1.38,
+   "ai": 0.95,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "49bacec4624772e1": {
+   "imp": 1.68,
+   "ai": 0.9,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "9ca8a98aa26e839d": {
+   "imp": 1.36,
+   "ai": null,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "2aa0f2f60dfe134c": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "55ed28fe38cf1dc5": {
+   "imp": 0.21,
+   "ai": 0.11,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "e2af28d4b4da46de": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "8bf449546984d667": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "1723f9842a3ddc08": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "7d6593d8fae040c0": {
+   "imp": 2.38,
+   "ai": 0.98,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "91ceb6d37deddf12": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "a1559f47573d4eb6": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:07:22.356294+00:00"
   }
  }
 }
