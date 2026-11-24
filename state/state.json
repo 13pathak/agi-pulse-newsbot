@@ -4263,8 +4263,8 @@
    "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
    "expires_at": "2026-11-25T16:43:00+00:00",
    "decision": 2.27,
-   "priority": 7.280075,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.297433,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4292,8 +4292,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.119185,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.136543,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4321,8 +4321,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.061454,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.078811,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4349,8 +4349,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.027876,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.045233,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4377,8 +4377,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.759959,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.777316,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4407,8 +4407,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.717902,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.743938,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -26389,6 +26389,86 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  "9c96a2a8086379fa": {
+   "imp": 2.34,
+   "ai": 0.93,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "8729fc3916d7ace0": {
+   "imp": 0.37,
+   "ai": 0.15,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "fb3bb3dbb16d2e7d": {
+   "imp": 2.33,
+   "ai": 0.99,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "cf4d580baf289f38": {
+   "imp": 2.29,
+   "ai": 0.92,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "dbca43068f5c3e90": {
+   "imp": 1.2,
+   "ai": null,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "15f17f2c34cfe8df": {
+   "imp": 1.01,
+   "ai": 0.55,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "80aea8640f8aa93b": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "694552b8f0bdde9a": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "23cb4469357f9c98": {
+   "imp": 0.28,
+   "ai": 0.05,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "4f4bd6160d98438a": {
+   "imp": 0.26,
+   "ai": 0.06,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "f914fcf8b0b6d30a": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "7eb03969c160c29d": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "beb6ade463418373": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "030a4974fe96102c": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "cbf017790d61273d": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
+  },
+  "f41a15e34c91e1a6": {
+   "imp": 0.26,
+   "ai": 0.07,
+   "ts": "2026-11-24T06:37:21.949214+00:00"
   }
  }
 }
