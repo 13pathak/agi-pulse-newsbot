@@ -1,14 +1,5 @@
 {
  "seen": {
-  "8ea9b4cdf9137dbc": "2026-11-17T05:07:22.328481+00:00",
-  "0c2ac29bc5799073": "2026-11-17T05:07:22.328481+00:00",
-  "25a765dbc1ec2c78": "2026-11-17T05:07:22.328481+00:00",
-  "fc4e336a7f85c224": "2026-11-17T05:07:22.328481+00:00",
-  "16a8435e6ae2548c": "2026-11-17T05:07:22.328481+00:00",
-  "3702b15a70948456": "2026-11-17T05:07:22.328481+00:00",
-  "f170a17209ad03de": "2026-11-17T05:07:22.328481+00:00",
-  "609f4b5b9b9f0b22": "2026-11-17T05:07:22.328481+00:00",
-  "a72d5c1527664561": "2026-11-17T05:07:22.328481+00:00",
   "d50dc7a2335f6b81": "2026-11-17T05:37:34.818659+00:00",
   "b8355fd359fa37da": "2026-11-17T05:37:34.818659+00:00",
   "7ba41246814e3786": "2026-11-17T05:37:34.818659+00:00",
@@ -1899,13 +1890,17 @@
   "01a87669d68c51cc": "2026-11-24T04:37:23.279400+00:00",
   "29b5bbdd22b9afcd": "2026-11-24T04:37:23.279400+00:00",
   "083b81f6346804b7": "2026-11-24T04:37:23.279400+00:00",
-  "9d5ba7119b154d0c": "2026-11-24T04:37:23.279400+00:00"
+  "9d5ba7119b154d0c": "2026-11-24T04:37:23.279400+00:00",
+  "f3f6304a8cca8254": "2026-11-24T05:07:24.074142+00:00",
+  "f3349335f15c963a": "2026-11-24T05:07:24.074142+00:00",
+  "a7589dcbc58702b8": "2026-11-24T05:07:24.074142+00:00",
+  "a9bbbe67167df599": "2026-11-24T05:07:24.074142+00:00",
+  "5d2136f5d5683013": "2026-11-24T05:07:24.074142+00:00",
+  "165f0f74b59e8cf8": "2026-11-24T05:07:24.074142+00:00",
+  "74ae2686b36cd7ea": "2026-11-24T05:07:24.074142+00:00",
+  "aaf59c36c8ae22ac": "2026-11-24T05:07:24.074142+00:00"
  },
  "covered": [
-  {
-   "headline": "South Korea education minister resigns over AI exam cheating scandal",
-   "ts": "2026-11-22T05:07:20.744572+00:00"
-  },
   {
    "headline": "Tech suppliers raise AI server prices by up to 45 percent",
    "ts": "2026-11-22T06:37:24.166283+00:00"
@@ -2073,11 +2068,15 @@
   {
    "headline": "Baidu releases ERNIE-5.5-Flash-Preview on Hugging Face",
    "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  {
+   "headline": "SenseTime releases open-weight SenseNova U1.6 8B model",
+   "ts": "2026-11-24T05:07:24.074142+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4255,8 +4254,36 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.549145,
-   "selection_reason": "Time-sensitive story; waiting 3.5h"
+   "priority": 7.566514,
+   "selection_reason": "Time-sensitive story; waiting 4.0h"
+  },
+  {
+   "id": "49b80d2d054c6f28",
+   "item": {
+    "id": "49b80d2d054c6f28",
+    "title": "Cosine Robots raises Rs 22.36 Cr led by Avaana Capital",
+    "url": "https://entrackr.com/snippets/cosine-robots-raises-rs-2236-cr-led-by-avaana-capital-12836692",
+    "source": "Entrackr",
+    "image": "https://img-cdn.publive.online/fit-in/1280x960/entrackr/media/media_files/2026/11/24/cosine-2026-11-24-10-12-04.png",
+    "snippet": "Bengaluru-based deeptech startup Cosine Robots has raised Rs 22.36 crore ($2.4 million) in a funding round led by Avaana Capital, with participation from WEH Ventures and angel investors. The proceeds will be used to set up a dedicated research and development (R&D) and production facility, expand its engineering team and accelerate the development of its integrated servo actuator portfolio. Found…",
+    "published": "2026-11-24T04:43:00+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Cosine Robots raises 22.36 crore rupees in funding",
+   "post": "Bengaluru-based deeptech startup Cosine Robots raised 22.36 crore rupees ($2.4 million) in a funding round led by Avaana Capital. The startup plans to build an R&D facility and develop its integrated servo actuator portfolio.",
+   "editor_note": "Verify participating investors and timeline for the new production facility.",
+   "support": 0.94,
+   "published_at": "2026-11-24T04:43:00+00:00",
+   "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
+   "expires_at": "2026-11-25T16:43:00+00:00",
+   "decision": 2.27,
+   "priority": 7.24537,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4284,8 +4311,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.067111,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.08448,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4313,8 +4340,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.00938,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.026748,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4341,8 +4368,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.975801,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.99317,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4369,8 +4396,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.707885,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.725254,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4399,8 +4426,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.639791,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.665844,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4711,79 +4738,15 @@
   "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": "2026-11-24T03:08:04.873160+00:00",
   "https://36kr.com/newsflashes/4083166753952897?f=rss": "2026-11-24T03:39:36.452130+00:00",
   "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "2026-11-24T04:07:54.785413+00:00",
-  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": "2026-11-24T04:39:52.045842+00:00"
+  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": "2026-11-24T04:39:52.045842+00:00",
+  "https://36kr.com/newsflashes/4083287879537795?f=rss": "2026-11-24T05:08:33.251952+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
-  "3e24c8e2990b4aa0": {
-   "imp": 1.12,
-   "ai": 0.83,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "4f4cd81ba46c7560": {
-   "imp": 1.58,
-   "ai": 0.49,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "5a440c24cfbb5f55": {
-   "imp": 1.6,
-   "ai": 0.88,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "c15d632bb1c5aeba": {
-   "imp": 1.28,
-   "ai": 0.96,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "e841119ab8fbe73e": {
-   "imp": 1.62,
-   "ai": null,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "404f73dd39f609b3": {
-   "imp": 0.15,
-   "ai": 0.02,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "3b4c64f77c196339": {
-   "imp": 0.35,
-   "ai": 0.04,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "d109ae137e532ccb": {
-   "imp": 0.21,
-   "ai": 0.03,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "98bc17ca751389be": {
-   "imp": 0.15,
-   "ai": 0.01,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "baff2707385700c9": {
-   "imp": 0.96,
-   "ai": 0.09,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "dec3fbb65c35b782": {
-   "imp": 0.15,
-   "ai": 0.01,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "a3bcdbb282cd80fc": {
-   "imp": 0.59,
-   "ai": 0.09,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
-  "97b5c39fadef0894": {
-   "imp": 2.15,
-   "ai": 0.58,
-   "ts": "2026-11-16T05:07:19.850970+00:00"
-  },
   "9baf335f5cb9ef9d": {
    "imp": 1.96,
    "ai": 0.95,
@@ -26368,6 +26331,71 @@
    "imp": 0.14,
    "ai": 0.07,
    "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "165f0f74b59e8cf8": {
+   "imp": 1.28,
+   "ai": null,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "a7589dcbc58702b8": {
+   "imp": 2.52,
+   "ai": 0.95,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "aaf59c36c8ae22ac": {
+   "imp": 1.79,
+   "ai": 0.99,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "74ae2686b36cd7ea": {
+   "imp": 0.43,
+   "ai": 0.29,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "a9bbbe67167df599": {
+   "imp": 2.06,
+   "ai": 0.93,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "5d2136f5d5683013": {
+   "imp": 1.88,
+   "ai": 0.77,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "f3f6304a8cca8254": {
+   "imp": 1.46,
+   "ai": null,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "7f868fc24608adcc": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "6d2a40f34c7e776b": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "8a213de666614eee": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "95d36c9fac8cca32": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "f3349335f15c963a": {
+   "imp": 0.91,
+   "ai": 0.73,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
+  },
+  "49b80d2d054c6f28": {
+   "imp": 2.27,
+   "ai": 0.87,
+   "ts": "2026-11-24T05:07:24.074142+00:00"
   }
  }
 }
