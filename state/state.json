@@ -1912,7 +1912,15 @@
   "bbaf6332f2bfb4e9": "2026-11-24T16:37:21.242363+00:00",
   "53922f73c63aa13f": "2026-11-24T16:37:21.242363+00:00",
   "065b16dad3fdde8c": "2026-11-24T16:37:21.242363+00:00",
-  "f37210edd15930ff": "2026-11-24T16:37:21.242363+00:00"
+  "f37210edd15930ff": "2026-11-24T16:37:21.242363+00:00",
+  "c911eff6ba898863": "2026-11-24T17:07:25.195630+00:00",
+  "9783aa522b987c66": "2026-11-24T17:07:25.195630+00:00",
+  "03938f50d2248332": "2026-11-24T17:07:25.195630+00:00",
+  "a26ee51c2687b475": "2026-11-24T17:07:25.195630+00:00",
+  "1bfe593b04cfff3b": "2026-11-24T17:07:25.195630+00:00",
+  "85ad47dc9b77c65c": "2026-11-24T17:07:25.195630+00:00",
+  "209542604ae48446": "2026-11-24T17:07:25.195630+00:00",
+  "7767689f82c2f397": "2026-11-24T17:07:25.195630+00:00"
  },
  "covered": [
   {
@@ -2130,11 +2138,15 @@
   {
    "headline": "Sarvam AI launches document extraction tool",
    "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  {
+   "headline": "China intelligent computing scale reaches 2592 EFLOPS",
+   "ts": "2026-11-24T17:07:25.195630+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 28
+  "count": 29
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4331,63 +4343,6 @@
  },
  "pending": [
   {
-   "id": "7767689f82c2f397",
-   "item": {
-    "id": "7767689f82c2f397",
-    "title": "工信部：截至9月底，我国智能算力规模达2592EFLOPS，同比增长146%",
-    "url": "https://36kr.com/newsflashes/4083176083788931?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，据工信部消息，截至9月底，已建成5G基站525.4万座，其中5GRedCap基站数达290.9万个，5G-A网络覆盖逐步推进，千兆光网10GPON端口达3340万个，万兆光网在小区、工厂、园区等场景实现试点部署。算力基础设施加快布局。截至9月底，我国智能算力规模达2592EFLOPS，同比增长146%，有力支撑人工智能产业发展。融合应用不断拓展。深入实施5G应用“扬帆”行动，出台《关于推动工业互联网高质量发展的实施意见》，有序开展工业5G独立专网试点，深入推进5G、工业互联网赋能千行百业。目前，5G已融入全部97个国民经济大类，工业互联网已覆盖全部41个工业大类。",
-    "published": "2026-11-24T03:01:30+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "China intelligent computing scale reaches 2592 EFLOPS",
-   "post": "China's Ministry of Industry and Information Technology reported that the country's intelligent computing scale reached 2592 EFLOPS by the end of September, marking a 146 percent year-over-year increase.",
-   "editor_note": "Check whether the Ministry of Industry and Information Technology report specifies the baseline date for the 146 percent year-over-year growth figure.",
-   "support": 0.95,
-   "published_at": "2026-11-24T03:01:30+00:00",
-   "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
-   "expires_at": "2026-11-25T15:01:30+00:00",
-   "decision": 1.38,
-   "priority": 7.33229,
-   "selection_reason": "Editorial importance; waiting 13.5h"
-  },
-  {
-   "id": "588f7b0a1e0d0187",
-   "item": {
-    "id": "588f7b0a1e0d0187",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "published": "2026-11-23T19:14:46+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google Search AI mode integrates Drive and Wallet",
-   "post": "Google Search's AI Mode can now access user data from Google Drive, Wallet, and the Gemini application to provide personalized responses.",
-   "editor_note": "Check rollout availability for the new Drive and Wallet integrations in AI Mode.",
-   "support": 0.96,
-   "published_at": "2026-11-23T19:14:46+00:00",
-   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
-   "expires_at": "2026-11-25T07:14:46+00:00",
-   "decision": 1.74,
-   "priority": 7.23621,
-   "selection_reason": "Editorial importance; waiting 14.5h"
-  },
-  {
    "id": "9965f17ee5bcd8de",
    "item": {
     "id": "9965f17ee5bcd8de",
@@ -4414,8 +4369,36 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.233515,
-   "selection_reason": "Editorial importance; waiting 12.5h"
+   "priority": 7.228295,
+   "selection_reason": "Editorial importance; waiting 13.0h"
+  },
+  {
+   "id": "588f7b0a1e0d0187",
+   "item": {
+    "id": "588f7b0a1e0d0187",
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "published": "2026-11-23T19:14:46+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google Search AI mode integrates Drive and Wallet",
+   "post": "Google Search's AI Mode can now access user data from Google Drive, Wallet, and the Gemini application to provide personalized responses.",
+   "editor_note": "Check rollout availability for the new Drive and Wallet integrations in AI Mode.",
+   "support": 0.96,
+   "published_at": "2026-11-23T19:14:46+00:00",
+   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
+   "expires_at": "2026-11-25T07:14:46+00:00",
+   "decision": 1.74,
+   "priority": 7.22229,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4443,8 +4426,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.153177,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.170576,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4471,21 +4454,11 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.968293,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 6.954373,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.sarvam.ai/blogs/extract-api",
-   "source": "Sarvam",
-   "kind": "pack",
-   "title": "Introducing Sarvam Extract | Sarvam AI",
-   "summary": "Sarvam Extract turns documents of up to 500 pages into structured JSON, with a source page, bounding box and confidence score for every value.",
-   "queued_at": "2026-11-24T16:37:21.242363+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4811,104 +4784,16 @@
   "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": "2026-11-24T13:37:54.431674+00:00",
   "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows": "2026-11-24T15:38:19.247143+00:00",
   "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits": "2026-11-24T16:07:52.144351+00:00",
-  "https://36kr.com/newsflashes/4083157108724871?f=rss": "2026-11-24T16:07:52.144351+00:00"
+  "https://36kr.com/newsflashes/4083157108724871?f=rss": "2026-11-24T16:07:52.144351+00:00",
+  "https://www.sarvam.ai/blogs/extract-api": "2026-11-24T17:07:50.892341+00:00",
+  "https://36kr.com/newsflashes/4083176083788931?f=rss": "2026-11-24T17:07:50.892341+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
-  "count": 1,
-  "takes": 28
+  "count": 2,
+  "takes": 29
  },
  "triage": {
-  "771a013aca12bb1a": {
-   "imp": 1.8,
-   "ai": 0.79,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "99f66f454c3bc11f": {
-   "imp": 1.8,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "8c824024c9147b94": {
-   "imp": 1.24,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "daa2f3055cf909ab": {
-   "imp": 2.65,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "49a1ce094a2bb655": {
-   "imp": 1.58,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "0f9276bcf24a0b7a": {
-   "imp": 1.4,
-   "ai": 0.56,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "313d8cd0b8dc953a": {
-   "imp": 1.68,
-   "ai": 0.95,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "cd74ba6f66dcf8ea": {
-   "imp": 1.18,
-   "ai": 0.94,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "3a56ee56c9535124": {
-   "imp": 1.67,
-   "ai": 0.87,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "853b24ff0d6ecd3f": {
-   "imp": 1.41,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "acd9d81f8120fe3c": {
-   "imp": 0.78,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "7157ce3b54a8a376": {
-   "imp": 0.9,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "669b0798240609c7": {
-   "imp": 1.34,
-   "ai": 0.97,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "708e121d69e5aefb": {
-   "imp": 1.55,
-   "ai": null,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "1e314bf8ab60a8ba": {
-   "imp": 0.18,
-   "ai": 0.03,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "0db853aa06986114": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "18912d197356a4f7": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
-  "6f9bf31605cf1a02": {
-   "imp": 1.87,
-   "ai": 0.7,
-   "ts": "2026-11-16T17:07:24.652706+00:00"
-  },
   "ee07dddd23cf9f93": {
    "imp": 1.62,
    "ai": 0.53,
@@ -26428,6 +26313,51 @@
    "imp": 0.21,
    "ai": 0.04,
    "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "c911eff6ba898863": {
+   "imp": 1.97,
+   "ai": 0.95,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "03938f50d2248332": {
+   "imp": 1.9,
+   "ai": null,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "85ad47dc9b77c65c": {
+   "imp": 1.66,
+   "ai": null,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "9783aa522b987c66": {
+   "imp": 1.96,
+   "ai": 0.97,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "a26ee51c2687b475": {
+   "imp": 1.77,
+   "ai": 0.63,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "ff9223b2ab3f68c5": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "dee7de2223cc5f19": {
+   "imp": 0.05,
+   "ai": 0.04,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "1d27881cf6c44844": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
+  },
+  "ffa18cb2c68ada58": {
+   "imp": 0.05,
+   "ai": 0.07,
+   "ts": "2026-11-24T17:07:25.195630+00:00"
   }
  }
 }
