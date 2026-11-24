@@ -1897,13 +1897,16 @@
   "54b740b0f7039169": "2026-11-24T13:07:25.091835+00:00",
   "dbfcce5e78635338": "2026-11-24T13:07:25.091835+00:00",
   "881bf1f7bf28e2bc": "2026-11-24T13:07:25.091835+00:00",
-  "57145ae59b3f66c9": "2026-11-24T13:07:25.091835+00:00"
+  "57145ae59b3f66c9": "2026-11-24T13:07:25.091835+00:00",
+  "6485c87db02f739d": "2026-11-24T13:37:22.420388+00:00",
+  "f6c1726ea264c0d4": "2026-11-24T13:37:22.420388+00:00",
+  "1afa00aea813a537": "2026-11-24T13:37:22.420388+00:00",
+  "374eafd5e478c4e8": "2026-11-24T13:37:22.420388+00:00",
+  "94831fe1288adcbe": "2026-11-24T13:37:22.420388+00:00",
+  "3926ed22f6864eef": "2026-11-24T13:37:22.420388+00:00",
+  "fb7a1ad02384f987": "2026-11-24T13:37:22.420388+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent evaluates Hy4 open-weight model with third parties",
-   "ts": "2026-11-22T13:37:34.771162+00:00"
-  },
   {
    "headline": "Perplexity launches Monitor API for automated web search alerts",
    "ts": "2026-11-22T14:37:20.646911+00:00"
@@ -2103,11 +2106,15 @@
   {
    "headline": "Cashfree enables AI agents to make wallet payments",
    "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  {
+   "headline": "Amazon reports AI agents found and exploited 0-day vulnerability",
+   "ts": "2026-11-24T13:37:22.420388+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4291,34 +4298,6 @@
  },
  "pending": [
   {
-   "id": "fb7a1ad02384f987",
-   "item": {
-    "id": "fb7a1ad02384f987",
-    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-    "source": "Ars Technica",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
-    "snippet": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a …",
-    "published": "2026-11-24T12:30:05+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Amazon reports AI agents found and exploited 0-day vulnerability",
-   "post": "Amazon reported that AI agents running on the open-source Cairn framework found and exploited a zero-day vulnerability on an East Asian university server with minimal human instruction.",
-   "editor_note": "Verify if Amazon published a technical write-up or CVE details regarding the specific vulnerability exploited.",
-   "support": 0.95,
-   "published_at": "2026-11-24T12:30:05+00:00",
-   "first_seen_at": "2026-11-24T12:37:22.657831+00:00",
-   "expires_at": "2026-11-26T00:30:05+00:00",
-   "decision": 2.21,
-   "priority": 8.750674,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "23846c2eba4dc45e",
    "item": {
     "id": "23846c2eba4dc45e",
@@ -4344,7 +4323,7 @@
    "first_seen_at": "2026-11-24T13:07:25.091835+00:00",
    "expires_at": "2026-11-26T01:00:00+00:00",
    "decision": 1.88,
-   "priority": 8.623232,
+   "priority": 8.640568,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4372,8 +4351,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T22:23:27+00:00",
    "decision": 2.56,
-   "priority": 7.871181,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.888517,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "6cab55a705c100be",
@@ -4400,8 +4379,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T23:37:24.571320+00:00",
    "decision": 1.92,
-   "priority": 7.692088,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.709424,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4429,8 +4408,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.362267,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.379603,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4458,8 +4437,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.304536,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.321871,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4486,8 +4465,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.270958,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.288293,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4516,8 +4495,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.082525,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.108528,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "9313ce90be102217",
@@ -4545,8 +4524,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.031686,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.049022,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4573,8 +4552,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 7.003041,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.020376,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   }
  ],
  "details_queue": [],
@@ -4899,39 +4878,15 @@
   "https://36kr.com/newsflashes/4083638440356233?f=rss": "2026-11-24T11:38:29.890613+00:00",
   "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence": "2026-11-24T12:07:53.307646+00:00",
   "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups": "2026-11-24T12:37:53.446407+00:00",
-  "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users": "2026-11-24T13:07:55.321508+00:00"
+  "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users": "2026-11-24T13:07:55.321508+00:00",
+  "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": "2026-11-24T13:37:54.431674+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 24
+  "takes": 25
  },
  "triage": {
-  "c0c6df2323eb0c08": {
-   "imp": 0.65,
-   "ai": 0.17,
-   "ts": "2026-11-16T13:37:38.736503+00:00"
-  },
-  "4a2af116b8de5e70": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T13:37:38.736503+00:00"
-  },
-  "95c76e4250914591": {
-   "imp": 0.37,
-   "ai": 0.23,
-   "ts": "2026-11-16T13:37:38.736503+00:00"
-  },
-  "44cdf1d92efd091f": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T13:37:38.736503+00:00"
-  },
-  "3ef0767e3e05be85": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-16T13:37:38.736503+00:00"
-  },
   "29a19e1aacc64ded": {
    "imp": 0.51,
    "ai": null,
@@ -26571,6 +26526,71 @@
    "imp": 1.09,
    "ai": 0.11,
    "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "374eafd5e478c4e8": {
+   "imp": 1.5,
+   "ai": null,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "94831fe1288adcbe": {
+   "imp": 1.31,
+   "ai": 0.84,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "1afa00aea813a537": {
+   "imp": 1.57,
+   "ai": 0.86,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "f6c1726ea264c0d4": {
+   "imp": 1.62,
+   "ai": 0.94,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "3926ed22f6864eef": {
+   "imp": 0.91,
+   "ai": 0.53,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "6485c87db02f739d": {
+   "imp": 1.93,
+   "ai": 0.93,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "21da2c2cc4d9060d": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "95f44b99a73dc8dd": {
+   "imp": 0.34,
+   "ai": 0.09,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "8803c91762cd06b7": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "e62fdf486498f6cc": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "2fd4e2c8f6aa6a4c": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "c150cdd331a8998d": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "df1528563c03e6be": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-24T13:37:22.420388+00:00"
   }
  }
 }
