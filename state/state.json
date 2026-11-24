@@ -1888,13 +1888,35 @@
   "7bdc82557174d88c": "2026-11-24T01:07:24.377852+00:00",
   "1340258856067255": "2026-11-24T01:07:24.377852+00:00",
   "801c9686c35d52ea": "2026-11-24T01:07:24.377852+00:00",
-  "fe9a774fba4e4a1b": "2026-11-24T01:07:24.377852+00:00"
+  "fe9a774fba4e4a1b": "2026-11-24T01:07:24.377852+00:00",
+  "77ab3d65a27896e8": "2026-11-24T01:37:20.036585+00:00",
+  "2bd17fa54058efe4": "2026-11-24T01:37:20.036585+00:00",
+  "049542555c2cb3db": "2026-11-24T01:37:20.036585+00:00",
+  "35de67e70b3efb44": "2026-11-24T01:37:20.036585+00:00",
+  "57ec8dfbd86bf26d": "2026-11-24T01:37:20.036585+00:00",
+  "c27ae3929ba19b24": "2026-11-24T01:37:20.036585+00:00",
+  "aa7582161f26ec81": "2026-11-24T01:37:20.036585+00:00",
+  "9b0b258cccd78480": "2026-11-24T01:37:20.036585+00:00",
+  "7020c9c9495f782f": "2026-11-24T01:37:20.036585+00:00",
+  "c4755bdf150f022d": "2026-11-24T01:37:20.036585+00:00",
+  "8ab70d6f89cfc96b": "2026-11-24T01:37:20.036585+00:00",
+  "f465134918db9673": "2026-11-24T01:37:20.036585+00:00",
+  "713143868c9a210f": "2026-11-24T01:37:20.036585+00:00",
+  "2e9c9f453e4b4a08": "2026-11-24T01:37:20.036585+00:00",
+  "1e66ca7836921dae": "2026-11-24T01:37:20.036585+00:00",
+  "c970240297e67c00": "2026-11-24T01:37:20.036585+00:00",
+  "224d5b2a3b04601a": "2026-11-24T01:37:20.036585+00:00",
+  "b7175444dd039d16": "2026-11-24T01:37:20.036585+00:00",
+  "54c8ff329d1db939": "2026-11-24T01:37:20.036585+00:00",
+  "bdcd9d129e59a232": "2026-11-24T01:37:20.036585+00:00",
+  "38afc1d73496d398": "2026-11-24T01:37:20.036585+00:00",
+  "0f7f6757b88184cd": "2026-11-24T01:37:20.036585+00:00",
+  "726eb9e76ea2f73f": "2026-11-24T01:37:20.036585+00:00",
+  "90a5e0c269c5a0b7": "2026-11-24T01:37:20.036585+00:00",
+  "f955d48edeaa52ba": "2026-11-24T01:37:20.036585+00:00",
+  "1a5c8d17c462aaba": "2026-11-24T01:37:20.036585+00:00"
  },
  "covered": [
-  {
-   "headline": "California Nvidia probe examines potential criminal law violations",
-   "ts": "2026-11-22T01:37:22.043227+00:00"
-  },
   {
    "headline": "Tesla begins rolling out FSD v15 in the US",
    "ts": "2026-11-22T03:07:25.355608+00:00"
@@ -2042,11 +2064,15 @@
   {
    "headline": "OpenAI makes GPT-6.2 Sol default ChatGPT model",
    "ts": "2026-11-24T01:07:24.377852+00:00"
+  },
+  {
+   "headline": "Amazon acquires AI startup Decart technology for 7.5 billion dollars",
+   "ts": "2026-11-24T01:37:20.036585+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4167,6 +4193,124 @@
  },
  "pending": [
   {
+   "id": "43b498f2b7e3dbe0",
+   "item": {
+    "id": "43b498f2b7e3dbe0",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "published": "2026-11-23T22:05:50+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "49ef9cf5084cd81b",
+     "title": "Claude AI can review pull requests and ship fixes on its own now",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+     "source": "The Verge",
+     "image": "",
+     "snippet": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+     "published": "2026-11-23T20:00:00+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Anthropic launches Claude Ship to automate code pull request reviews",
+   "post": "Anthropic released Claude Ship, a suite of developer tools that allows AI agents to review, fix, and approve code pull requests.",
+   "editor_note": "Verify if Claude Ship features are available across all plan tiers or limited to enterprise.",
+   "support": 0.91,
+   "published_at": "2026-11-23T20:00:00+00:00",
+   "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
+   "expires_at": "2026-11-25T08:00:00+00:00",
+   "decision": 1.99,
+   "priority": 8.50716,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "5adcf2f196a946dd",
+   "item": {
+    "id": "5adcf2f196a946dd",
+    "title": "US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
+    "source": "Bloomberg",
+    "image": "",
+    "snippet": "The Trump administration put Megaspeed International on a US trade blacklist barring it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job as Nvidia chief executive officer. In a filing Monday, the Commerce Department formally added Megaspeed to its so-called entity list, a designation that bars th…",
+    "published": "2026-11-23T22:01:13+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "f1f7ae156bfaa6d6",
+     "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+     "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+     "source": "The New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
+     "snippet": "Megaspeed’s addition to the list will prevent companies from shipping U.S. technology to the firm without first obtaining a government license.",
+     "published": "2026-11-23T23:18:58+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "44d468f9086a6653",
+     "title": "Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist",
+     "url": "https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist",
+     "source": "The Information",
+     "image": "",
+     "snippet": "The Commerce Department added the Singapore-based cloud computing and AI infrastructure company Megaspeed to its entity list, a trade blacklist that designates organizations as national security risks and limits their ability to access advanced AI chips, according to a filing on Monday. Trump ...",
+     "published": "2026-11-23T21:04:06+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "0fc6a924346430f7",
+     "title": "US Blacklists Megaspeed, Targeting Firm Central to Nvidia Crisis",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "The Trump administration put Megaspeed International on a US trade blacklist that bars it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job as Nvidia Corp. chief executive officer.",
+     "published": "2026-11-23T20:43:55+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "2e1c11a088022f50",
+     "title": "Commerce to blacklist Megaspeed, Nvidia customer at center of spy scandal",
+     "url": "https://www.businessinsider.com/commerce-blacklist-megaspeed-nvidia-customer-at-center-of-spy-scandal-2026-11",
+     "source": "Business Insider",
+     "image": "https://i.insider.com/6b04ba9fd6c5d341c9b4c75d?format=jpeg",
+     "snippet": "The Commerce Department is preparing to blacklist Megaspeed, the Nvidia customer at the center of a chip-smuggling controversy. The update is expected to be published in the Federal Register on Monday, POLITICO reports. The news comes the same day Nvidia's board reinstated Jensen Huang as chief executive at Trump's urging. The Commerce Department is preparing to blacklist Megaspeed, the Singapore-…",
+     "published": "2026-11-23T22:16:19+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "US adds Megaspeed to trade blacklist over AI chip controls",
+   "post": "The US Commerce Department added Singapore-based AI infrastructure company Megaspeed International to its entity list, restricting it from purchasing advanced US AI chips without a government license.",
+   "editor_note": "Verify the effective date of the Commerce Department Entity List filing for Megaspeed.",
+   "support": 0.91,
+   "published_at": "2026-11-23T20:43:55+00:00",
+   "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
+   "expires_at": "2026-11-25T08:43:55+00:00",
+   "decision": 2.47,
+   "priority": 7.687492,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "e4463fe276ea6eac",
    "item": {
     "id": "e4463fe276ea6eac",
@@ -4191,26 +4335,24 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.427628,
+   "priority": 7.444947,
    "selection_reason": "Time-sensitive story"
   }
  ],
  "details_queue": [
   {
-   "url": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
-   "source": "Analytics India Magazine",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "source": "TechCrunch",
    "kind": "takes",
-   "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
-   "summary": "L&T Technology Services (LTTS) has launched an AI-powered engineering toolchain designed to support the development and validation of software-defined vehicles (SDVs). Called SDVault.ai, the platform uses more than 250 AI agents across 12 engineering domains, covering requirements, system architecture, functional safety, cybersecurity, software development and testing. Part of LTTS' EI for Enginee…",
-   "queued_at": "2026-11-23T17:07:32.561267+00:00"
-  },
-  {
-   "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-   "source": "The Decoder",
-   "kind": "takes",
-   "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
-   "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, an…",
-   "queued_at": "2026-11-24T01:07:24.377852+00:00"
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "queued_at": "2026-11-24T01:37:20.036585+00:00",
+   "alternates": [
+    {
+     "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+     "source": "CNBC"
+    }
+   ]
   }
  ],
  "details_done": {
@@ -4511,79 +4653,16 @@
   "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn": "2026-11-23T14:38:01.087232+00:00",
   "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair": "2026-11-23T15:08:42.966977+00:00",
   "https://www.sarvam.ai/blogs/sarvam-dictate": "2026-11-24T01:08:09.201213+00:00",
-  "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday": "2026-11-24T01:08:09.201213+00:00"
+  "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday": "2026-11-24T01:08:09.201213+00:00",
+  "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles": "2026-11-24T01:38:19.191837+00:00",
+  "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably": "2026-11-24T01:38:19.191837+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 1
+  "takes": 3
  },
  "triage": {
-  "f7214e14d1e100a3": {
-   "imp": 1.26,
-   "ai": null,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "fe0dd67480278eae": {
-   "imp": 1.52,
-   "ai": 0.85,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "3be93aee370a9eef": {
-   "imp": 0.94,
-   "ai": 0.94,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "4b4d48f19f03e283": {
-   "imp": 0.66,
-   "ai": 0.05,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "5d59ad4c97f9a751": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "41486b6f4e8b95f8": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "dfaa7bef0fb7be3b": {
-   "imp": 0.42,
-   "ai": 0.18,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "9ddbaebbcc2dd448": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "ddd6bbeb6d7ac3ad": {
-   "imp": 0.28,
-   "ai": 0.09,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "ec3a26bfc8b814c1": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "c45f0a26b01ddda1": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "b43d931d085d1e88": {
-   "imp": 1.03,
-   "ai": 0.42,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
-  "11816da7c213457a": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-16T01:37:29.169421+00:00"
-  },
   "09862cd7036c6133": {
    "imp": 1.31,
    "ai": null,
@@ -25933,6 +26012,201 @@
    "imp": 1.35,
    "ai": 0.27,
    "ts": "2026-11-24T01:07:24.377852+00:00"
+  },
+  "9b0b258cccd78480": {
+   "imp": 2.13,
+   "ai": null,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "bdcd9d129e59a232": {
+   "imp": 1.12,
+   "ai": 0.67,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "7d687f7c0619029f": {
+   "imp": 0.59,
+   "ai": 0.13,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "bf1b713da808f64d": {
+   "imp": 0.33,
+   "ai": 0.06,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "9b38f8de7ef87cc0": {
+   "imp": 0.8,
+   "ai": 0.31,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "18bf36ce1a9307b2": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "342b665e55614e5d": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "4c67d605981d79b1": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "46b936893be5f888": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "aef6d2ee207b793f": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "c19187e6b21c97a5": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "42ec38a0e2b638bf": {
+   "imp": 1.37,
+   "ai": 0.53,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "87d4d96d718b77f3": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "b1806b82cf273558": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "a9aefe4a9575ece4": {
+   "imp": 0.16,
+   "ai": 0.09,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "980818b1198c664e": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "d8face42501e401a": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "eb25f9f76ed002fc": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "99eaae4ccf25f5bd": {
+   "imp": 0.75,
+   "ai": 0.33,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "562484945fd3b60d": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "6246a910c7c38df5": {
+   "imp": 1.1,
+   "ai": 0.57,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "c2fa79e46bd5e198": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "17c9d72a726da629": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "9abda41931e5d3e5": {
+   "imp": 0.87,
+   "ai": 0.17,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "8fd0c6f9c4862ef3": {
+   "imp": 0.14,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "eaa7bfa136b25a75": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "244bdc114f68f4fb": {
+   "imp": 0.16,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "e249e14c95e9b594": {
+   "imp": 0.64,
+   "ai": 0.16,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "bfd8bdf617e15ae1": {
+   "imp": 0.59,
+   "ai": 0.07,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "d4ae2b81657da5dd": {
+   "imp": 0.18,
+   "ai": 0.03,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "1749d7ed6fd0b06c": {
+   "imp": 0.18,
+   "ai": 0.07,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "b95ee67d751c0d43": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "9262c81dd958875a": {
+   "imp": 0.59,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "f44d121ad7a94159": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "f5af95dff8d7b002": {
+   "imp": 0.53,
+   "ai": 0.13,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "3449c474f570c9b4": {
+   "imp": 0.18,
+   "ai": 0.01,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "069e836f796947af": {
+   "imp": 0.27,
+   "ai": 0.12,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "b7fc35d5ccf04588": {
+   "imp": 0.33,
+   "ai": 0.04,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
+  },
+  "77ab3d65a27896e8": {
+   "imp": 1.5,
+   "ai": 0.93,
+   "ts": "2026-11-24T01:37:20.036585+00:00"
   }
  }
 }
