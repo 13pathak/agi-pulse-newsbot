@@ -1,12 +1,5 @@
 {
  "seen": {
-  "42ea8ea09b0e04f5": "2026-11-17T03:37:22.449919+00:00",
-  "db7c7f240fcd6520": "2026-11-17T03:37:22.449919+00:00",
-  "cffcdea203316e35": "2026-11-17T03:37:22.449919+00:00",
-  "3778506668803933": "2026-11-17T03:37:22.449919+00:00",
-  "290fa5044e0f8699": "2026-11-17T03:37:22.449919+00:00",
-  "5e0e4079539992eb": "2026-11-17T03:37:22.449919+00:00",
-  "d61228b9bc67e0e1": "2026-11-17T03:37:22.449919+00:00",
   "d6a44469adf06c1f": "2026-11-17T04:37:23.333248+00:00",
   "ac2502a3ac75b8fc": "2026-11-17T04:37:23.333248+00:00",
   "9692d7cd9d7c3ef7": "2026-11-17T04:37:23.333248+00:00",
@@ -1880,7 +1873,21 @@
   "0fc6a924346430f7": "2026-11-24T03:07:22.002410+00:00",
   "2e1c11a088022f50": "2026-11-24T03:07:22.002410+00:00",
   "d4800e980d0e28a8": "2026-11-24T03:07:22.002410+00:00",
-  "5439b9c20bdd9b26": "2026-11-24T03:07:22.002410+00:00"
+  "5439b9c20bdd9b26": "2026-11-24T03:07:22.002410+00:00",
+  "becdfde17ebfa0a6": "2026-11-24T03:37:22.769501+00:00",
+  "aa121e61a41ae070": "2026-11-24T03:37:22.769501+00:00",
+  "fdbead87f74d8706": "2026-11-24T03:37:22.769501+00:00",
+  "b64437648c895187": "2026-11-24T03:37:22.769501+00:00",
+  "0735fac57b40c531": "2026-11-24T03:37:22.769501+00:00",
+  "ec2b03b0f704eb26": "2026-11-24T03:37:22.769501+00:00",
+  "9bf0c87bc712b4f8": "2026-11-24T03:37:22.769501+00:00",
+  "5e406e175e152390": "2026-11-24T03:37:22.769501+00:00",
+  "91a29e852480bb87": "2026-11-24T03:37:22.769501+00:00",
+  "e25855dd63237483": "2026-11-24T03:37:22.769501+00:00",
+  "1e37608a8d2b2701": "2026-11-24T03:37:22.769501+00:00",
+  "ea5697e56f9c7205": "2026-11-24T03:37:22.769501+00:00",
+  "cae683bdf1f06f42": "2026-11-24T03:37:22.769501+00:00",
+  "d729845624abecd3": "2026-11-24T03:37:22.769501+00:00"
  },
  "covered": [
   {
@@ -2042,11 +2049,15 @@
   {
    "headline": "US adds Megaspeed to trade blacklist over AI chip controls",
    "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  {
+   "headline": "Zhangyou Dynamics raises hundreds of millions in yuan",
+   "ts": "2026-11-24T03:37:22.769501+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4173,35 +4184,6 @@
  },
  "pending": [
   {
-   "id": "d729845624abecd3",
-   "item": {
-    "id": "d729845624abecd3",
-    "title": "“章鱼动力”完成数亿元人民币融资",
-    "url": "https://36kr.com/newsflashes/4083166753952897?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月24日，“章鱼动力”年内再次完成数亿元人民币融资。新增投资方包括芯动能投资、美的资本等投资机构与产业资本；早期股东线性资本、小米集团、Panga Capital持续多轮加注。融资将主要用于灵巧手高端制造产线构建和具身模型的研发投入，进一步加速“脑-手-数据”的软硬件一体化设计（Co-Design），以及“智能-部署-数据”的自进化生产力飞轮构建。",
-    "published": "2026-11-24T02:52:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Zhangyou Dynamics raises hundreds of millions in yuan",
-   "post": "Chinese robotics firm Zhangyou Dynamics raised hundreds of millions of yuan in a funding round backed by Xiaomi, Midea Capital, and other investors to build high-end dexterous hand manufacturing lines and develop embodied AI models.",
-   "editor_note": "Verify the exact funding amount in yuan if available from secondary disclosures, as the source states hundreds of millions.",
-   "support": 0.96,
-   "published_at": "2026-11-24T02:52:00+00:00",
-   "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
-   "expires_at": "2026-11-25T14:52:00+00:00",
-   "decision": 1.8,
-   "priority": 8.592886,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "43b498f2b7e3dbe0",
    "item": {
     "id": "43b498f2b7e3dbe0",
@@ -4239,8 +4221,8 @@
    "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
    "expires_at": "2026-11-25T08:00:00+00:00",
    "decision": 1.99,
-   "priority": 8.559263,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.576631,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "e4463fe276ea6eac",
@@ -4267,8 +4249,8 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.49705,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.514418,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4296,8 +4278,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.015015,
-   "selection_reason": "Editorial importance"
+   "priority": 7.032384,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4325,8 +4307,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 6.957284,
-   "selection_reason": "Editorial importance"
+   "priority": 6.974652,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4353,8 +4335,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.923706,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.941074,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4381,8 +4363,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.655789,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.673158,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4690,39 +4672,15 @@
   "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips": "2026-11-24T02:37:51.799188+00:00",
   "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight": "2026-11-24T02:37:51.799188+00:00",
   "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html": "2026-11-24T03:08:04.873160+00:00",
-  "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": "2026-11-24T03:08:04.873160+00:00"
+  "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": "2026-11-24T03:08:04.873160+00:00",
+  "https://36kr.com/newsflashes/4083166753952897?f=rss": "2026-11-24T03:39:36.452130+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
-  "33c82bd50cdf395a": {
-   "imp": 1.97,
-   "ai": 0.98,
-   "ts": "2026-11-16T03:37:22.393912+00:00"
-  },
-  "257be5aa82fdf8e0": {
-   "imp": 1.79,
-   "ai": 0.95,
-   "ts": "2026-11-16T03:37:22.393912+00:00"
-  },
-  "c57959bef1cbe782": {
-   "imp": 1.25,
-   "ai": 0.87,
-   "ts": "2026-11-16T03:37:22.393912+00:00"
-  },
-  "05acf57d90a0c9aa": {
-   "imp": 0.52,
-   "ai": 0.09,
-   "ts": "2026-11-16T03:37:22.393912+00:00"
-  },
-  "39f145057bc31958": {
-   "imp": 1.15,
-   "ai": 0.51,
-   "ts": "2026-11-16T03:37:22.393912+00:00"
-  },
   "1e304a8c832edaec": {
    "imp": 2.14,
    "ai": 0.97,
@@ -26262,6 +26220,71 @@
    "imp": 0.29,
    "ai": 0.13,
    "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "ec2b03b0f704eb26": {
+   "imp": 1.98,
+   "ai": 0.91,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "fdbead87f74d8706": {
+   "imp": 2.36,
+   "ai": 0.95,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "aa121e61a41ae070": {
+   "imp": 2.54,
+   "ai": 0.96,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "ea5697e56f9c7205": {
+   "imp": 1.09,
+   "ai": 0.93,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "bf8ae9fea1477156": {
+   "imp": 0.46,
+   "ai": 0.12,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "5e406e175e152390": {
+   "imp": 1.74,
+   "ai": 0.93,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "b64437648c895187": {
+   "imp": 2.25,
+   "ai": 0.95,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "0735fac57b40c531": {
+   "imp": 2.22,
+   "ai": 0.96,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "e25855dd63237483": {
+   "imp": 0.98,
+   "ai": 0.76,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "becdfde17ebfa0a6": {
+   "imp": 1.34,
+   "ai": null,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "0090e3f5b4435886": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "830cf517009a6445": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "96b3def210a1c12c": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-24T03:37:22.769501+00:00"
   }
  }
 }
