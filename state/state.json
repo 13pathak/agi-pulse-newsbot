@@ -1887,7 +1887,22 @@
   "1e37608a8d2b2701": "2026-11-24T03:37:22.769501+00:00",
   "ea5697e56f9c7205": "2026-11-24T03:37:22.769501+00:00",
   "cae683bdf1f06f42": "2026-11-24T03:37:22.769501+00:00",
-  "d729845624abecd3": "2026-11-24T03:37:22.769501+00:00"
+  "d729845624abecd3": "2026-11-24T03:37:22.769501+00:00",
+  "35e167b242a4a78f": "2026-11-24T04:07:21.465936+00:00",
+  "7b7e929e1a4b7284": "2026-11-24T04:07:21.465936+00:00",
+  "f74474fe6e22f844": "2026-11-24T04:07:21.465936+00:00",
+  "0d2f0110c732792a": "2026-11-24T04:07:21.465936+00:00",
+  "8dc9facacc6411b2": "2026-11-24T04:07:21.465936+00:00",
+  "384026ec2b91ffe4": "2026-11-24T04:07:21.465936+00:00",
+  "eaa7ca1bc33f807a": "2026-11-24T04:07:21.465936+00:00",
+  "5ccca2a5a7f7c5e8": "2026-11-24T04:07:21.465936+00:00",
+  "d7c0b9908c11137a": "2026-11-24T04:07:21.465936+00:00",
+  "ecbd3dcab78437ad": "2026-11-24T04:07:21.465936+00:00",
+  "66daef5c73517082": "2026-11-24T04:07:21.465936+00:00",
+  "b6b7396fedc7db91": "2026-11-24T04:07:21.465936+00:00",
+  "aa1f85516edabd47": "2026-11-24T04:07:21.465936+00:00",
+  "43b498f2b7e3dbe0": "2026-11-24T04:07:21.465936+00:00",
+  "49ef9cf5084cd81b": "2026-11-24T04:07:21.465936+00:00"
  },
  "covered": [
   {
@@ -2053,11 +2068,15 @@
   {
    "headline": "Zhangyou Dynamics raises hundreds of millions in yuan",
    "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  {
+   "headline": "Anthropic launches Claude Ship to automate code pull request reviews",
+   "ts": "2026-11-24T04:07:21.465936+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4180,49 +4199,65 @@
    "desc": "离职员工：我可能走早了",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": {
+   "card": "ERNIE 5.5 Flash Preview Introduction ERNIE 5.5 Flash Preview is the first post-trained model built on ERNIE 5.5 Flash Base, which we released earlier. It is a Mixture-of-Experts (MoE) language model with 280B total parameters, 14B of them active per token , and a 1M-token context window . It does well at coding, 3D modeling, knowledge work and content creation, scores competitively on major benchmarks, and still decodes quickly. The Preview shares its architecture and tokenizer with ERNIE 5.5 Flash Base. Its new capabilities come from mid-training and post-training, and mid-training also extends the training context length from 128K to 1M tokens. Our blog post shows work the model completed end to end in an agent harness. ERNIE 5.5 Flash Preview is an intermediate checkpoint from post-training. It already performs competitively among models of its size, but some capabilities may still fall short because training is not finished. Post-training is ongoing and ERNIE 5.5 Flash is improving quickly. We will watch how the Preview performs in real use, listen to user feedback, and address what we learn in the official release. Highlights The Preview is trained for the following kinds of w…"
+  },
+  "https://www.qbitai.com/2026/11/512330.html": {
+   "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+   "desc": "中国AI数据平台加速崛起",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512297.html": {
+   "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+   "desc": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512305.html": {
+   "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+   "desc": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512329.html": {
+   "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+   "desc": "12.9 北京，来MEET2027现场",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
   {
-   "id": "43b498f2b7e3dbe0",
+   "id": "9d5ba7119b154d0c",
    "item": {
-    "id": "43b498f2b7e3dbe0",
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "published": "2026-11-23T22:05:50+00:00",
+    "id": "9d5ba7119b154d0c",
+    "title": "baidu releases ERNIE-5.5-Flash-Preview on Hugging Face",
+    "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+    "source": "Hugging Face Models",
+    "kind": "model",
+    "snippet": "Open model baidu/ERNIE-5.5-Flash-Preview by baidu. Task: text-generation. Likes: 108. Model card: ERNIE 5.5 Flash Preview Introduction ERNIE 5.5 Flash Preview is the first post-trained model built on ERNIE 5.5 Flash Base, which we released earlier. It is a Mixture-of-Experts (MoE) language model with 280B total parameters, 14B of them active per token , and a 1M-token context window . It does well at coding, 3D modeling, knowledge work and content creation, scores competitively on major benchmarks, and still decodes quickly. The Preview shares its architecture and tokenizer with ERNIE 5.5 Flash Base. Its new capabilities come from mid-training and post-training, and mid-training also extends the training context length from 128K to 1M tokens. Our blog post shows work the model completed end to end in an agent harness. ERNIE 5.5 Flash Preview is an intermediate checkpoint from post-training. It already performs competitively among models of its size, but some capabilities may still fall short because training is not finished. Post-training is ongoing and ERNIE 5.5 Flash is improving quickly. We will watch how the Preview performs in real use, listen to user feedback, and address what we learn in the official release. Highlights The Preview is trained for the following kinds of w…",
+    "published": "2026-11-23T09:00:29+00:00",
+    "trend": 34,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/baidu/ERNIE-5.5-Flash-Preview.png",
     "images": true,
-    "category": "news",
-    "source_cap": 3
+    "category": "model",
+    "source_cap": 4
    },
-   "related": [
-    {
-     "id": "49ef9cf5084cd81b",
-     "title": "Claude AI can review pull requests and ship fixes on its own now",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-     "source": "The Verge",
-     "image": "",
-     "snippet": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
-     "published": "2026-11-23T20:00:00+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
+   "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "Anthropic launches Claude Ship to automate code pull request reviews",
-   "post": "Anthropic released Claude Ship, a suite of developer tools that allows AI agents to review, fix, and approve code pull requests.",
-   "editor_note": "Verify if Claude Ship features are available across all plan tiers or limited to enterprise.",
-   "support": 0.91,
-   "published_at": "2026-11-23T20:00:00+00:00",
-   "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
-   "expires_at": "2026-11-25T08:00:00+00:00",
-   "decision": 1.99,
-   "priority": 8.576631,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "headline": "Baidu releases ERNIE-5.5-Flash-Preview on Hugging Face",
+   "post": "Baidu has released ERNIE-5.5-Flash-Preview on Hugging Face, an intermediate post-trained Mixture-of-Experts language model featuring 280 billion total parameters, 14 billion active parameters per token, and a 1-million-token context window.",
+   "editor_note": "Check model card parameters: 280B total, 14B active per token, 1M context window.",
+   "support": 0.96,
+   "published_at": "2026-11-23T09:00:29+00:00",
+   "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
+   "expires_at": "2026-11-30T09:00:29+00:00",
+   "decision": 1.6,
+   "priority": 7.919556,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "e4463fe276ea6eac",
@@ -4249,8 +4284,8 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.514418,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.531767,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4278,8 +4313,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.032384,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.049732,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4307,8 +4342,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 6.974652,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.992001,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4335,8 +4370,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.941074,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.958423,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4363,8 +4398,38 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.673158,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.690506,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "9965f17ee5bcd8de",
+   "item": {
+    "id": "9965f17ee5bcd8de",
+    "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+    "url": "https://arxiv.org/abs/2611.27973",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Nanjing University. Upvotes: 20. Abstract: Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear GPU memory growth and quadratic computational complexity as the context expands. In contrast, linear-time architectures compress history into fixed-size states, but struggle to retain fine-grained details. We introduce MemOnce, a foundation architecture that learns scalable memory states for language models. MemOnce is based on two core designs: (a) Memory encoder-decoder: it caches only a small subset of final-layer hidden states as compact memory representations and dynamically decodes them back into KV caches for attention layers; (b) Memory sparse attention: for each continual input, MemOnce adaptively retrieves relevant memory representations, with the sparse indices computed only once across layers. Coupling these two designs enables efficient on-the-fly memory loading and KV cache decoding, drastically reducing the GPU memory footprint and achieving linear-time complexity. We conduct extensive experiments to show that MemOnce outperforms Transformers and other architectures across varying model sizes, context lengths, and training paradigms (pretraining and post-training adaptation). In particular, adapting Qwen3.5-4B with MemOnce reduces memory state cache by 1313times and prefill latency by 6.…",
+    "published": "2026-11-23T00:00:00+00:00",
+    "upvotes": 20,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.27973.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nanjing University introduces MemOnce memory architecture for LLMs",
+   "post": "Researchers at Nanjing University introduce MemOnce, a memory architecture that uses a memory encoder-decoder and sparse attention to cache hidden states. Adapting Qwen3.5-4B with MemOnce reduces memory state cache by 1,313 times and prefill latency by 6 times.",
+   "editor_note": "Verify the exact reduction metrics for Qwen3.5-4B from the abstract.",
+   "support": 0.87,
+   "published_at": "2026-11-23T00:00:00+00:00",
+   "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
+   "expires_at": "2026-11-27T00:00:00+00:00",
+   "decision": 1.22,
+   "priority": 6.613723,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4673,69 +4738,15 @@
   "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight": "2026-11-24T02:37:51.799188+00:00",
   "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html": "2026-11-24T03:08:04.873160+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": "2026-11-24T03:08:04.873160+00:00",
-  "https://36kr.com/newsflashes/4083166753952897?f=rss": "2026-11-24T03:39:36.452130+00:00"
+  "https://36kr.com/newsflashes/4083166753952897?f=rss": "2026-11-24T03:39:36.452130+00:00",
+  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "2026-11-24T04:07:54.785413+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 8
+  "takes": 9
  },
  "triage": {
-  "1e304a8c832edaec": {
-   "imp": 2.14,
-   "ai": 0.97,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "f7056c5e8f2de875": {
-   "imp": 2.6,
-   "ai": 0.98,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "a42b85ea697e3c60": {
-   "imp": 0.67,
-   "ai": 0.17,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "2db80cb79a513177": {
-   "imp": 1.35,
-   "ai": 0.91,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "6b91ce2a41cc1ae2": {
-   "imp": 1.51,
-   "ai": 0.96,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "cabb9743539993eb": {
-   "imp": 1.23,
-   "ai": 0.92,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "e16b1bdceac83c04": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "1e4811b4b07f20ab": {
-   "imp": 0.15,
-   "ai": 0.02,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "8d71b3e2f56daa2a": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "eab1239c804df403": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
-  "cc890f4e1a8664e8": {
-   "imp": 0.22,
-   "ai": 0.07,
-   "ts": "2026-11-16T04:07:33.600024+00:00"
-  },
   "10c73b5ebd01a939": {
    "imp": 0.55,
    "ai": 0.17,
@@ -26285,6 +26296,101 @@
    "imp": 0.19,
    "ai": 0.04,
    "ts": "2026-11-24T03:37:22.769501+00:00"
+  },
+  "384026ec2b91ffe4": {
+   "imp": 1.32,
+   "ai": 0.94,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "35e167b242a4a78f": {
+   "imp": 2.64,
+   "ai": 0.96,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "aa1f85516edabd47": {
+   "imp": 0.21,
+   "ai": 0.84,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "8dc9facacc6411b2": {
+   "imp": 1.55,
+   "ai": 0.95,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "b6b7396fedc7db91": {
+   "imp": 0.49,
+   "ai": 0.62,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "66daef5c73517082": {
+   "imp": 0.62,
+   "ai": 0.9,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "eaa7ca1bc33f807a": {
+   "imp": 1.28,
+   "ai": 0.87,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "5ccca2a5a7f7c5e8": {
+   "imp": 1.03,
+   "ai": 0.95,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "ecbd3dcab78437ad": {
+   "imp": 0.68,
+   "ai": 0.59,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "0d2f0110c732792a": {
+   "imp": 1.95,
+   "ai": 0.65,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "7b7e929e1a4b7284": {
+   "imp": 2.54,
+   "ai": 0.89,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "f74474fe6e22f844": {
+   "imp": 2.47,
+   "ai": 0.88,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "9965f17ee5bcd8de": {
+   "imp": 1.22,
+   "ai": null,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "9d5ba7119b154d0c": {
+   "imp": 1.6,
+   "ai": null,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "d354c2b43026dcee": {
+   "imp": 0.3,
+   "ai": 0.14,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "f3f2e4754733f85e": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "90fff982ce01be29": {
+   "imp": 0.42,
+   "ai": 0.11,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "e77457ee30966489": {
+   "imp": 0.31,
+   "ai": 0.14,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "e55169994ed8264f": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T04:07:21.465936+00:00"
   }
  }
 }
