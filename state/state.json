@@ -1,25 +1,5 @@
 {
  "seen": {
-  "d218f9a95b85493a": "2026-11-17T02:37:39.999182+00:00",
-  "7157ce3b54a8a376": "2026-11-17T02:37:39.999182+00:00",
-  "f978b1cf70930b8f": "2026-11-17T02:37:39.999182+00:00",
-  "ea6d8f837639032f": "2026-11-17T02:37:39.999182+00:00",
-  "cebb296c29e795e3": "2026-11-17T02:37:39.999182+00:00",
-  "40efae4b99bfdc5d": "2026-11-17T02:37:39.999182+00:00",
-  "3c223369d9d85574": "2026-11-17T02:37:39.999182+00:00",
-  "754dc2b7990a183f": "2026-11-17T02:37:39.999182+00:00",
-  "a127dfece4a2b361": "2026-11-17T02:37:39.999182+00:00",
-  "0873131c018e5da5": "2026-11-17T02:37:39.999182+00:00",
-  "87fab3b1b22bbc18": "2026-11-17T02:37:39.999182+00:00",
-  "adc690e60e2014e6": "2026-11-17T02:37:39.999182+00:00",
-  "2fe84d6e3352eeb4": "2026-11-17T02:37:39.999182+00:00",
-  "7801ae3ea920b54d": "2026-11-17T02:37:39.999182+00:00",
-  "e0005e9b0d34fce5": "2026-11-17T02:37:39.999182+00:00",
-  "8608cb9bd3afb255": "2026-11-17T02:37:39.999182+00:00",
-  "d3a67d4f7f1ae331": "2026-11-17T02:37:39.999182+00:00",
-  "ebc31ceccb74c4be": "2026-11-17T02:37:39.999182+00:00",
-  "f397e4d30df8d19f": "2026-11-17T02:37:39.999182+00:00",
-  "ab086a66f465eda3": "2026-11-17T02:37:39.999182+00:00",
   "cc69239e629b14a0": "2026-11-17T03:07:34.188728+00:00",
   "aa9feb2f036b19f6": "2026-11-17T03:07:34.188728+00:00",
   "3a32eda9d7ce6c86": "2026-11-17T03:07:34.188728+00:00",
@@ -1886,7 +1866,21 @@
   "57759f535e154412": "2026-11-24T02:07:21.883787+00:00",
   "5ac119568a5b7c89": "2026-11-24T02:07:21.883787+00:00",
   "b9423ad1b9b89916": "2026-11-24T02:07:21.883787+00:00",
-  "032dde7200e50d3b": "2026-11-24T02:07:21.883787+00:00"
+  "032dde7200e50d3b": "2026-11-24T02:07:21.883787+00:00",
+  "1a984fa9a1bd19a4": "2026-11-24T02:37:21.443172+00:00",
+  "b3ad16cfdb778824": "2026-11-24T02:37:21.443172+00:00",
+  "3eef9d25620e4e64": "2026-11-24T02:37:21.443172+00:00",
+  "b5c12ade71a16d5b": "2026-11-24T02:37:21.443172+00:00",
+  "87de282d4f97794d": "2026-11-24T02:37:21.443172+00:00",
+  "1fe7bf180d5847e5": "2026-11-24T02:37:21.443172+00:00",
+  "10f7634741492852": "2026-11-24T02:37:21.443172+00:00",
+  "9f26bd4b265c72d5": "2026-11-24T02:37:21.443172+00:00",
+  "850759a56665a077": "2026-11-24T02:37:21.443172+00:00",
+  "958da2783ad52555": "2026-11-24T02:37:21.443172+00:00",
+  "59abfa5f17a2f8f2": "2026-11-24T02:37:21.443172+00:00",
+  "97eb84d1bd9ece00": "2026-11-24T02:37:21.443172+00:00",
+  "f05308563db45104": "2026-11-24T02:37:21.443172+00:00",
+  "c001ea324a612d1c": "2026-11-24T02:37:21.443172+00:00"
  },
  "covered": [
   {
@@ -2044,11 +2038,15 @@
   {
    "headline": "Jensen Huang returns as Nvidia chief executive",
    "ts": "2026-11-24T02:07:21.883787+00:00"
+  },
+  {
+   "headline": "OpenAI engineer accused of recording confidential meetings",
+   "ts": "2026-11-24T02:37:21.443172+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4165,50 +4163,15 @@
    "desc": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
    "published": "2026-11-12T12:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/512252.html": {
+   "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+   "desc": "离职员工：我可能走早了",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "f05308563db45104",
-   "item": {
-    "id": "f05308563db45104",
-    "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-    "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-    "source": "The New York Times",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg",
-    "snippet": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
-    "published": "2026-11-24T01:36:36+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "c001ea324a612d1c",
-     "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
-     "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "image": "",
-     "snippet": "Saudi national is also alleged to have photographed confidential documents",
-     "published": "2026-11-24T01:31:42+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "OpenAI engineer accused of recording confidential meetings",
-   "post": "Federal prosecutors state an OpenAI engineer secretly recorded dozens of confidential meetings covering customers, AI safety, and foreign government briefings.",
-   "editor_note": "Check court filing details regarding what specific charges were filed against the engineer.",
-   "support": 0.95,
-   "published_at": "2026-11-24T01:31:42+00:00",
-   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
-   "expires_at": "2026-11-25T13:31:42+00:00",
-   "decision": 2.23,
-   "priority": 8.726822,
-   "selection_reason": "Time-sensitive story"
-  },
   {
    "id": "5adcf2f196a946dd",
    "item": {
@@ -4307,8 +4270,8 @@
    "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
    "expires_at": "2026-11-25T08:43:55+00:00",
    "decision": 2.47,
-   "priority": 8.704871,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.722228,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "43b498f2b7e3dbe0",
@@ -4348,8 +4311,8 @@
    "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
    "expires_at": "2026-11-25T08:00:00+00:00",
    "decision": 1.99,
-   "priority": 8.524539,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 8.541896,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "e4463fe276ea6eac",
@@ -4376,8 +4339,8 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.462326,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.479683,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4404,7 +4367,7 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.888982,
+   "priority": 6.906339,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4432,45 +4395,22 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.621066,
+   "priority": 6.638423,
    "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [
   {
-   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-   "source": "TechCrunch",
+   "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+   "source": "The New York Times",
    "kind": "takes",
-   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-   "queued_at": "2026-11-24T01:37:20.036585+00:00",
+   "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+   "summary": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
+   "queued_at": "2026-11-24T02:37:21.443172+00:00",
    "alternates": [
     {
-     "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-     "source": "CNBC"
-    }
-   ],
-   "attempts": 1
-  },
-  {
-   "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
-   "source": "South China Morning Post",
-   "kind": "takes",
-   "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
-   "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff momentarily drowned out nearly two weeks of corporate turmoil. “I’m going to be a better CEO the second time around,” Huang told the crowd, joking that he would need the IT department to set him up with a computer on his first day back. T…",
-   "queued_at": "2026-11-24T02:07:21.883787+00:00",
-   "alternates": [
-    {
-     "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=rss_Technology",
-     "source": "The Wall Street Journal"
-    },
-    {
-     "url": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
-     "source": "The New York Times"
-    },
-    {
-     "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video",
-     "source": "Bloomberg"
+     "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+     "source": "Financial Times"
     }
    ]
   }
@@ -4775,69 +4715,16 @@
   "https://www.sarvam.ai/blogs/sarvam-dictate": "2026-11-24T01:08:09.201213+00:00",
   "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday": "2026-11-24T01:08:09.201213+00:00",
   "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles": "2026-11-24T01:38:19.191837+00:00",
-  "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably": "2026-11-24T01:38:19.191837+00:00"
+  "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably": "2026-11-24T01:38:19.191837+00:00",
+  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips": "2026-11-24T02:37:51.799188+00:00",
+  "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight": "2026-11-24T02:37:51.799188+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 3
+  "takes": 5
  },
  "triage": {
-  "78d73b7d28d04e4f": {
-   "imp": 2.21,
-   "ai": 0.91,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "7cc69d3a0caee40c": {
-   "imp": 2.16,
-   "ai": 0.94,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "17c3ddce0b3654e6": {
-   "imp": 2.7,
-   "ai": 0.98,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "a25cede273f9641c": {
-   "imp": 2.33,
-   "ai": 0.9,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "2fe4b81bd96707b5": {
-   "imp": 1.61,
-   "ai": 0.94,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "6dcc345236bb8f52": {
-   "imp": 0.42,
-   "ai": 0.09,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "39adbedb31f8ffc1": {
-   "imp": 1.12,
-   "ai": 0.87,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "49b8a3850b5871b7": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "faebd0dcb35af10a": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "c82adcd3a43f770f": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
-  "c63476689730a988": {
-   "imp": 0.41,
-   "ai": 0.17,
-   "ts": "2026-11-16T02:37:33.430548+00:00"
-  },
   "eb61a8fbcc264cfc": {
    "imp": 0.89,
    "ai": 0.21,
@@ -26337,6 +26224,56 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-24T02:07:21.883787+00:00"
+  },
+  "10f7634741492852": {
+   "imp": 1.95,
+   "ai": 0.89,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "b5c12ade71a16d5b": {
+   "imp": 2.32,
+   "ai": 0.91,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "1fe7bf180d5847e5": {
+   "imp": 1.89,
+   "ai": 0.98,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "3eef9d25620e4e64": {
+   "imp": 2.43,
+   "ai": 0.95,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "b3ad16cfdb778824": {
+   "imp": 2.61,
+   "ai": 0.97,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "1a984fa9a1bd19a4": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "9f26bd4b265c72d5": {
+   "imp": 1.83,
+   "ai": 0.88,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "5175ab1ee0f8b014": {
+   "imp": 0.22,
+   "ai": 0.06,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "3ad858eda437d0b8": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "d34003ec69942a41": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-24T02:37:21.443172+00:00"
   }
  }
 }
