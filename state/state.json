@@ -1,9 +1,5 @@
 {
  "seen": {
-  "357aa42f9e6729e7": "2026-11-17T12:37:24.808192+00:00",
-  "0ee0cfa58eb2e86d": "2026-11-17T12:37:24.808192+00:00",
-  "ffde1170e2dba5c6": "2026-11-17T12:37:24.808192+00:00",
-  "0184ae79e03b2eb7": "2026-11-17T12:37:24.808192+00:00",
   "ff3a14412f9f1a02": "2026-11-17T13:07:27.117770+00:00",
   "6344945c04695554": "2026-11-17T13:07:27.117770+00:00",
   "bb8ed4a32dc98406": "2026-11-17T13:07:27.117770+00:00",
@@ -1894,13 +1890,20 @@
   "fdfa74440bce4d54": "2026-11-24T12:07:23.228301+00:00",
   "dfe33c919c6da751": "2026-11-24T12:07:23.228301+00:00",
   "7c35efc9557daf60": "2026-11-24T12:07:23.228301+00:00",
-  "2666fdd2854239ae": "2026-11-24T12:07:23.228301+00:00"
+  "2666fdd2854239ae": "2026-11-24T12:07:23.228301+00:00",
+  "e114ebff3cd2c160": "2026-11-24T12:37:22.657831+00:00",
+  "e085892a413455ed": "2026-11-24T12:37:22.657831+00:00",
+  "8a3e7646b3144c62": "2026-11-24T12:37:22.657831+00:00",
+  "0136549375eebe94": "2026-11-24T12:37:22.657831+00:00",
+  "db7aed03aba8d3b3": "2026-11-24T12:37:22.657831+00:00",
+  "fcbfbff1b9aab0a3": "2026-11-24T12:37:22.657831+00:00",
+  "42bbfe1296304577": "2026-11-24T12:37:22.657831+00:00",
+  "4d4f41c7508663e5": "2026-11-24T12:37:22.657831+00:00",
+  "07dd3808672d6d24": "2026-11-24T12:37:22.657831+00:00",
+  "91296b1e5dd4b66a": "2026-11-24T12:37:22.657831+00:00",
+  "e7d64e13bfe560ba": "2026-11-24T12:37:22.657831+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenRouter removes inference providers over key theft and request snooping",
-   "ts": "2026-11-22T12:37:20.975761+00:00"
-  },
   {
    "headline": "Tencent evaluates Hy4 open-weight model with third parties",
    "ts": "2026-11-22T13:37:34.771162+00:00"
@@ -2096,11 +2099,15 @@
   {
    "headline": "CrowdStrike to acquire Zscaler for 43.9 billion dollars",
    "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  {
+   "headline": "Google launches Momentum initiative for Indian startups",
+   "ts": "2026-11-24T12:37:22.657831+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4284,34 +4291,6 @@
  },
  "pending": [
   {
-   "id": "e7d64e13bfe560ba",
-   "item": {
-    "id": "e7d64e13bfe560ba",
-    "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
-    "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243519875-0ed7d46a-b7b2-42cc-a5ce-0ec1bfb44ed6-bthpf.webp",
-    "snippet": "Google has launched Momentum, an initiative to deepen its support for Indian startups by providing access to AI technologies, cloud infrastructure, engineering expertise, and global platforms. The initiative builds on its decade-long Google for Startups Accelerator programmes in India and aims to help founders develop products, deploy AI solutions and expand into new markets. In July, as it marked…",
-    "published": "2026-11-24T10:30:34+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Google launches Momentum initiative for Indian startups",
-   "post": "Google launched Momentum to support Indian startups with AI technologies, cloud infrastructure, and engineering expertise to help founders build products and scale into new markets.",
-   "editor_note": "Check eligibility criteria and specific cloud credit allocations for Indian startups joining Momentum.",
-   "support": 0.91,
-   "published_at": "2026-11-24T10:30:34+00:00",
-   "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
-   "expires_at": "2026-11-25T22:30:34+00:00",
-   "decision": 2.3,
-   "priority": 8.815587,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
-  },
-  {
    "id": "57145ae59b3f66c9",
    "item": {
     "id": "57145ae59b3f66c9",
@@ -4336,8 +4315,36 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:23:56+00:00",
    "decision": 2.16,
-   "priority": 8.76585,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 8.783205,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "fb7a1ad02384f987",
+   "item": {
+    "id": "fb7a1ad02384f987",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "source": "Ars Technica",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+    "snippet": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a …",
+    "published": "2026-11-24T12:30:05+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Amazon reports AI agents found and exploited 0-day vulnerability",
+   "post": "Amazon reported that AI agents running on the open-source Cairn framework found and exploited a zero-day vulnerability on an East Asian university server with minimal human instruction.",
+   "editor_note": "Verify if Amazon published a technical write-up or CVE details regarding the specific vulnerability exploited.",
+   "support": 0.95,
+   "published_at": "2026-11-24T12:30:05+00:00",
+   "first_seen_at": "2026-11-24T12:37:22.657831+00:00",
+   "expires_at": "2026-11-26T00:30:05+00:00",
+   "decision": 2.21,
+   "priority": 8.73329,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "d657e29b3bccdc8f",
@@ -4364,8 +4371,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T22:23:27+00:00",
    "decision": 2.56,
-   "priority": 7.836441,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.853797,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "6cab55a705c100be",
@@ -4392,8 +4399,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T23:37:24.571320+00:00",
    "decision": 1.92,
-   "priority": 7.657348,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.674704,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4421,8 +4428,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.327527,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.344883,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4450,8 +4457,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.269796,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.287151,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4478,8 +4485,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.236218,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.253573,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4508,8 +4515,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.030415,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.056448,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "9313ce90be102217",
@@ -4537,8 +4544,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 6.996946,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.014302,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4565,8 +4572,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.968301,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 6.985657,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   }
  ],
  "details_queue": [],
@@ -4889,149 +4896,15 @@
   "https://36kr.com/newsflashes/4083586155833729?f=rss": "2026-11-24T10:09:47.982718+00:00",
   "https://www.wired.com/story/ai-solved-maths-most-famous-problem": "2026-11-24T10:38:15.756600+00:00",
   "https://36kr.com/newsflashes/4083638440356233?f=rss": "2026-11-24T11:38:29.890613+00:00",
-  "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence": "2026-11-24T12:07:53.307646+00:00"
+  "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence": "2026-11-24T12:07:53.307646+00:00",
+  "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups": "2026-11-24T12:37:53.446407+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 22
+  "takes": 23
  },
  "triage": {
-  "fcbaf2152a3da36d": {
-   "imp": 2.08,
-   "ai": null,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "75887e5a8de44428": {
-   "imp": 0.15,
-   "ai": 0.12,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "5a19d633e6903d8c": {
-   "imp": 2.4,
-   "ai": 0.95,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "abaebec437a6adce": {
-   "imp": 2.38,
-   "ai": 0.91,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "30b213abdc19f02b": {
-   "imp": 2.1,
-   "ai": 0.81,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "6452274540d8ef29": {
-   "imp": 1.04,
-   "ai": 0.74,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "efccb445b06c4eed": {
-   "imp": 0.18,
-   "ai": 0.69,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "93489cde676affd2": {
-   "imp": 2.74,
-   "ai": 0.98,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "4813a62e100842a5": {
-   "imp": 1.77,
-   "ai": 0.97,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "b5b5d83575dc5946": {
-   "imp": 0.15,
-   "ai": 0.31,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "eb56a7b719db02bc": {
-   "imp": 1.2,
-   "ai": 0.97,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "4dd55cd70bed3104": {
-   "imp": 0.74,
-   "ai": 0.53,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "6c2d7917337c85e2": {
-   "imp": 1.46,
-   "ai": 0.53,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "5dab3f0243ea1b86": {
-   "imp": 2.75,
-   "ai": 0.98,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "bc89b15653cb6baa": {
-   "imp": 2.31,
-   "ai": 0.94,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "2bd9a2245c499efa": {
-   "imp": 0.86,
-   "ai": null,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "96204c172247cb48": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "12744f0883fb1152": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "13493b7c994f35bf": {
-   "imp": 0.17,
-   "ai": 0.1,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "797f110171469be0": {
-   "imp": 0.63,
-   "ai": 0.21,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "d23e0c9b4288bf4f": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "eadd1224c866c6cb": {
-   "imp": 0.04,
-   "ai": 0.02,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "57020ba8b66c2bc3": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "4f1407650dbc7fbc": {
-   "imp": 0.06,
-   "ai": 0.04,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "eb3f3489727afbe1": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "11739eb66e940091": {
-   "imp": 0.13,
-   "ai": 0.05,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
-  "9d3da67fff51c69a": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-16T12:37:38.212110+00:00"
-  },
   "2b2bb87b4857660b": {
    "imp": 2.0,
    "ai": null,
@@ -26596,6 +26469,116 @@
    "imp": 0.09,
    "ai": 0.03,
    "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "0136549375eebe94": {
+   "imp": 1.83,
+   "ai": 0.82,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "fb7a1ad02384f987": {
+   "imp": 2.21,
+   "ai": null,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "4d4f41c7508663e5": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "8bca3e7a606e0835": {
+   "imp": 0.96,
+   "ai": 0.69,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "91296b1e5dd4b66a": {
+   "imp": 1.97,
+   "ai": 0.91,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "e085892a413455ed": {
+   "imp": 2.09,
+   "ai": 0.95,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "07dd3808672d6d24": {
+   "imp": 2.11,
+   "ai": 0.92,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "8a3e7646b3144c62": {
+   "imp": 1.99,
+   "ai": 0.87,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "db7aed03aba8d3b3": {
+   "imp": 1.66,
+   "ai": 0.79,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "42bbfe1296304577": {
+   "imp": 1.37,
+   "ai": 0.84,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "76d3b88fe8102e26": {
+   "imp": 0.47,
+   "ai": 0.13,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "991ea907c94c8d5f": {
+   "imp": 0.36,
+   "ai": 0.04,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "e114ebff3cd2c160": {
+   "imp": 2.11,
+   "ai": 0.96,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "af86aff9efe7e019": {
+   "imp": 0.79,
+   "ai": 0.22,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "fcbfbff1b9aab0a3": {
+   "imp": 1.69,
+   "ai": 0.74,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "0f2b53a8fbc427f7": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "ace8025d57bb8338": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "f7f290bd483ef508": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "e74bbdb42ee06fd0": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "e1cc5245ce5001b0": {
+   "imp": 0.38,
+   "ai": 0.07,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "62eb515cae512a0f": {
+   "imp": 0.26,
+   "ai": 0.05,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "50c5651919f427e8": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-24T12:37:22.657831+00:00"
   }
  }
 }
