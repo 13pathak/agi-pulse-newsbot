@@ -1909,7 +1909,15 @@
   "7b37625c1dc98372": "2026-11-24T10:07:23.475746+00:00",
   "ee932f0b91095eed": "2026-11-24T10:07:23.475746+00:00",
   "493418e0ff037b6e": "2026-11-24T10:07:23.475746+00:00",
-  "a4c3f3ade6692484": "2026-11-24T10:07:23.475746+00:00"
+  "a4c3f3ade6692484": "2026-11-24T10:07:23.475746+00:00",
+  "044b25580b677995": "2026-11-24T10:37:23.513662+00:00",
+  "dcb9e7900904bcbc": "2026-11-24T10:37:23.513662+00:00",
+  "8d178053a42fde67": "2026-11-24T10:37:23.513662+00:00",
+  "42cc80550b05e3b3": "2026-11-24T10:37:23.513662+00:00",
+  "16b64ebf50fa3338": "2026-11-24T10:37:23.513662+00:00",
+  "71cf105812b4132c": "2026-11-24T10:37:23.513662+00:00",
+  "3e789ab06269ad14": "2026-11-24T10:37:23.513662+00:00",
+  "9e6cb3e08e3bfa25": "2026-11-24T10:37:23.513662+00:00"
  },
  "covered": [
   {
@@ -2111,11 +2119,15 @@
   {
    "headline": "NetEase Lingdong and Liugong partner for AI excavators",
    "ts": "2026-11-24T10:07:23.475746+00:00"
+  },
+  {
+   "headline": "Anthropic researcher produces 17-million-line Riemann hypothesis solution",
+   "ts": "2026-11-24T10:37:23.513662+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4277,9 +4289,83 @@
    "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512423.html": {
+   "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+   "desc": "纯代码手搓了一个MV！",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512451.html": {
+   "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+   "desc": "蚂蚁刚刚发布医疗健康模型全家桶",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512383.html": {
+   "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+   "desc": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "e7d64e13bfe560ba",
+   "item": {
+    "id": "e7d64e13bfe560ba",
+    "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
+    "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243519875-0ed7d46a-b7b2-42cc-a5ce-0ec1bfb44ed6-bthpf.webp",
+    "snippet": "Google has launched Momentum, an initiative to deepen its support for Indian startups by providing access to AI technologies, cloud infrastructure, engineering expertise, and global platforms. The initiative builds on its decade-long Google for Startups Accelerator programmes in India and aims to help founders develop products, deploy AI solutions and expand into new markets. In July, as it marked…",
+    "published": "2026-11-24T10:30:34+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Google launches Momentum initiative for Indian startups",
+   "post": "Google launched Momentum to support Indian startups with AI technologies, cloud infrastructure, and engineering expertise to help founders build products and scale into new markets.",
+   "editor_note": "Check eligibility criteria and specific cloud credit allocations for Indian startups joining Momentum.",
+   "support": 0.91,
+   "published_at": "2026-11-24T10:30:34+00:00",
+   "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
+   "expires_at": "2026-11-25T22:30:34+00:00",
+   "decision": 2.3,
+   "priority": 8.763507,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "57145ae59b3f66c9",
+   "item": {
+    "id": "57145ae59b3f66c9",
+    "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
+    "url": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769127949470-e068a9a2-7009-4f16-b471-f49141ac788c-hpgny.webp",
+    "snippet": "Payments platform Cashfree has launched Cashfree Wallet, which lets users authorise their personal AI agents to make payments. Cashfree Wallet lets users choose what budget their AI agents use and the rules they must follow. AI agents can currently only use Cashfree Wallet to pay bills, but the company has planned functionality for travel, food, groceries, and e-commerce payments. Users can link t…",
+    "published": "2026-11-24T10:23:56+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Cashfree enables AI agents to make wallet payments",
+   "post": "Payments platform Cashfree launched Cashfree Wallet, allowing users to authorize personal AI agents to make bill payments under set budget rules, with plans to expand into e-commerce and travel.",
+   "editor_note": "Confirm what security authentication methods users must complete before agents execute wallet transactions.",
+   "support": 0.94,
+   "published_at": "2026-11-24T10:23:56+00:00",
+   "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
+   "expires_at": "2026-11-25T22:23:56+00:00",
+   "decision": 2.16,
+   "priority": 8.713769,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "f1f183cc5ebb7fbc",
    "item": {
@@ -4306,8 +4392,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.258085,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.275447,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4335,8 +4421,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.200354,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.217715,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4363,37 +4449,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.166776,
-   "selection_reason": "Editorial importance; waiting 8.0h"
-  },
-  {
-   "id": "9313ce90be102217",
-   "item": {
-    "id": "9313ce90be102217",
-    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
-    "url": "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。OceanBase正式发布湖库一体AI数据平台OceanLake，并宣布开源其核心引擎AI数据库OceanSeek。OceanBase CTO杨传辉在大会分享中透露了背后的技术思考，他认为，面向AI时代，数据基础设施需要具备湖库一体、在离线一体、Agent友好和多模混合搜索等关键能力，为企业AI应用提供统一的数据底座。 Agent访问量半年增长13倍，传统架构难以支撑 杨传辉的判断来自蚂蚁真实业务及OceanBase自身的AI实践，大会披露的一组数据显示：主要面向Agent调用的MCP访问量，从4月到9月增长约13.36倍，人工页面访问PAGE同期增长约9.86倍。随着AI进一步进入企业业务部门，数据访问方式正在发生变化。蚂蚁部分业务场景从BI转向AI后，数据仓库调用量在半年内提升了一个数量级。 Agent既需要处理海量数据和复杂查询，也需要高并发和实时响应，过去在线数据库与离线分析系统之间的分工，已难以充分满足新的需求。 OceanBase自身的AI coding转型也带来了类似挑战：研发效率显著提升后，研发服务器和测试服务器成为新的瓶颈。为此，OceanBase通过提升Token使用效率、利用数据分支替代新实例创建等方式，降低基础设施成本。杨传辉认为，性价比应成为AI基础设施设计的第一考虑要素。 三个技术判断： 湖库一体 、 Agent友好 与 多模混合搜索 面对这些变化，OceanBase如何构建面向AI的数据基础设施？杨传辉给出三个技术判断。 第一个是湖库一体，实现在离线融合。数据湖提供开放存储格式和海量数据…",
-    "published": "2026-11-24T07:38:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "OceanBase launches OceanLake platform and OceanSeek database",
-   "post": "Ant Group's OceanBase launched the OceanLake lake-warehouse AI data platform and open-sourced its core engine AI database OceanSeek to support enterprise AI application workloads.",
-   "editor_note": "Confirm the open-source license details and core capabilities of the OceanSeek database release.",
-   "support": 0.94,
-   "published_at": "2026-11-24T07:38:00+00:00",
-   "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
-   "expires_at": "2026-11-25T19:38:00+00:00",
-   "decision": 1.49,
-   "priority": 6.927504,
-   "selection_reason": "Editorial importance"
+   "priority": 7.184137,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4422,8 +4479,37 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.926252,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.952294,
+   "selection_reason": "Editorial importance; waiting 6.5h"
+  },
+  {
+   "id": "9313ce90be102217",
+   "item": {
+    "id": "9313ce90be102217",
+    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+    "url": "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。OceanBase正式发布湖库一体AI数据平台OceanLake，并宣布开源其核心引擎AI数据库OceanSeek。OceanBase CTO杨传辉在大会分享中透露了背后的技术思考，他认为，面向AI时代，数据基础设施需要具备湖库一体、在离线一体、Agent友好和多模混合搜索等关键能力，为企业AI应用提供统一的数据底座。 Agent访问量半年增长13倍，传统架构难以支撑 杨传辉的判断来自蚂蚁真实业务及OceanBase自身的AI实践，大会披露的一组数据显示：主要面向Agent调用的MCP访问量，从4月到9月增长约13.36倍，人工页面访问PAGE同期增长约9.86倍。随着AI进一步进入企业业务部门，数据访问方式正在发生变化。蚂蚁部分业务场景从BI转向AI后，数据仓库调用量在半年内提升了一个数量级。 Agent既需要处理海量数据和复杂查询，也需要高并发和实时响应，过去在线数据库与离线分析系统之间的分工，已难以充分满足新的需求。 OceanBase自身的AI coding转型也带来了类似挑战：研发效率显著提升后，研发服务器和测试服务器成为新的瓶颈。为此，OceanBase通过提升Token使用效率、利用数据分支替代新实例创建等方式，降低基础设施成本。杨传辉认为，性价比应成为AI基础设施设计的第一考虑要素。 三个技术判断： 湖库一体 、 Agent友好 与 多模混合搜索 面对这些变化，OceanBase如何构建面向AI的数据基础设施？杨传辉给出三个技术判断。 第一个是湖库一体，实现在离线融合。数据湖提供开放存储格式和海量数据…",
+    "published": "2026-11-24T07:38:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "OceanBase launches OceanLake platform and OceanSeek database",
+   "post": "Ant Group's OceanBase launched the OceanLake lake-warehouse AI data platform and open-sourced its core engine AI database OceanSeek to support enterprise AI application workloads.",
+   "editor_note": "Confirm the open-source license details and core capabilities of the OceanSeek database release.",
+   "support": 0.94,
+   "published_at": "2026-11-24T07:38:00+00:00",
+   "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
+   "expires_at": "2026-11-25T19:38:00+00:00",
+   "decision": 1.49,
+   "priority": 6.944866,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4450,8 +4536,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.898859,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 6.91622,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   }
  ],
  "details_queue": [],
@@ -4771,119 +4857,15 @@
   "https://www.medianama.com/2026/11/223-lenskart-ai-eye-test-drysh-smart-glasses": "2026-11-24T08:38:28.046095+00:00",
   "https://entrackr.com/snippets/cosine-robots-raises-rs-2236-cr-led-by-avaana-capital-12836692": "2026-11-24T09:09:23.909121+00:00",
   "https://36kr.com/newsflashes/4083540399581830?f=rss": "2026-11-24T09:38:05.639013+00:00",
-  "https://36kr.com/newsflashes/4083586155833729?f=rss": "2026-11-24T10:09:47.982718+00:00"
+  "https://36kr.com/newsflashes/4083586155833729?f=rss": "2026-11-24T10:09:47.982718+00:00",
+  "https://www.wired.com/story/ai-solved-maths-most-famous-problem": "2026-11-24T10:38:15.756600+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
-  "d1f8950a3c1083d6": {
-   "imp": 1.74,
-   "ai": 0.92,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "fafd6606eae1a86d": {
-   "imp": 2.14,
-   "ai": 0.93,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "fb8218adfafb9a81": {
-   "imp": 1.75,
-   "ai": 0.87,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "e90bd10ca0e33008": {
-   "imp": 1.37,
-   "ai": 0.43,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "614330da5e1d3f73": {
-   "imp": 1.91,
-   "ai": 0.72,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "7b67a8b641974b3e": {
-   "imp": 0.58,
-   "ai": 0.2,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "e1654024d9d308a4": {
-   "imp": 1.62,
-   "ai": 0.93,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "3dd3a5c7dc0c232b": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "678b05f86afbb1da": {
-   "imp": 0.27,
-   "ai": 0.07,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "e5c5bae4b3d84fde": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "824dbd735cc87b4a": {
-   "imp": 0.22,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "9ffe601c0a021ba3": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "d4c93918c0b70420": {
-   "imp": 0.14,
-   "ai": 0.06,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "03c2c87be95d83b7": {
-   "imp": 0.34,
-   "ai": 0.04,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "be79b0dd69d60aaa": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "1a9cfcd8a4ea68f6": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "5aa3c0015ce95708": {
-   "imp": 0.58,
-   "ai": 0.22,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "0cb09e5aebbb5d52": {
-   "imp": 0.66,
-   "ai": 0.1,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "b4832c44940b3936": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "e2df87e5fbde0f0a": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
-  "45df59a2c77f6aaf": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-16T10:37:24.727172+00:00"
-  },
   "1df21d2e2c7164f7": {
    "imp": 1.83,
    "ai": null,
@@ -26513,6 +26495,131 @@
    "imp": 0.13,
    "ai": 0.04,
    "ts": "2026-11-24T10:07:23.475746+00:00"
+  },
+  "dcb9e7900904bcbc": {
+   "imp": 1.54,
+   "ai": 0.92,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "9e6cb3e08e3bfa25": {
+   "imp": 2.35,
+   "ai": null,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "42cc80550b05e3b3": {
+   "imp": 1.18,
+   "ai": 0.36,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "685a1d8b549dfdae": {
+   "imp": 0.27,
+   "ai": 0.06,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "174e3abb3788f1af": {
+   "imp": 0.49,
+   "ai": 0.11,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "044b25580b677995": {
+   "imp": 2.19,
+   "ai": 0.97,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "3e789ab06269ad14": {
+   "imp": 1.44,
+   "ai": 0.93,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "dbf18c88f309868f": {
+   "imp": 0.27,
+   "ai": 0.13,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "8d178053a42fde67": {
+   "imp": 1.34,
+   "ai": 0.86,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "e7d64e13bfe560ba": {
+   "imp": 2.3,
+   "ai": 0.95,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "57145ae59b3f66c9": {
+   "imp": 2.16,
+   "ai": 0.95,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "16b64ebf50fa3338": {
+   "imp": 0.92,
+   "ai": 0.62,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "47ebcc6f07c2f27d": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "be164f3ba161b3f0": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "8d9ff4c178918bb8": {
+   "imp": 0.99,
+   "ai": 0.23,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "71cf105812b4132c": {
+   "imp": 1.92,
+   "ai": 0.98,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "c90805c93431a854": {
+   "imp": 0.33,
+   "ai": 0.58,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "a3340972b502da21": {
+   "imp": 0.25,
+   "ai": 0.07,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "999c43ca19878d11": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "3926d4804b882571": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "58238b5f85696b18": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "85fe0490b7243f1f": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "a290e862092807ca": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "48709e3eb0e0d9e3": {
+   "imp": 1.56,
+   "ai": 0.32,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "f58fcddcf41a4354": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-24T10:37:23.513662+00:00"
   }
  }
 }
