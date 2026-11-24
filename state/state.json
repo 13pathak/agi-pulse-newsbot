@@ -1893,7 +1893,26 @@
   "448008a0bef1cf82": "2026-11-24T15:37:25.500711+00:00",
   "0d4e79dfde5ce050": "2026-11-24T15:37:25.500711+00:00",
   "9d29ef4c50897b54": "2026-11-24T15:37:25.500711+00:00",
-  "f1f183cc5ebb7fbc": "2026-11-24T15:37:25.500711+00:00"
+  "f1f183cc5ebb7fbc": "2026-11-24T15:37:25.500711+00:00",
+  "16565a3f5dc091b0": "2026-11-24T16:37:21.242363+00:00",
+  "e2544bc1aeb2953e": "2026-11-24T16:37:21.242363+00:00",
+  "5845ed4863b49265": "2026-11-24T16:37:21.242363+00:00",
+  "f14aeac4ebff30c3": "2026-11-24T16:37:21.242363+00:00",
+  "b4aa4dce7919c3ff": "2026-11-24T16:37:21.242363+00:00",
+  "a80b129c68390b76": "2026-11-24T16:37:21.242363+00:00",
+  "34b3f1ac3b90d464": "2026-11-24T16:37:21.242363+00:00",
+  "7deb579002e5ae8d": "2026-11-24T16:37:21.242363+00:00",
+  "dc69597abec1a000": "2026-11-24T16:37:21.242363+00:00",
+  "7765d9882542ae27": "2026-11-24T16:37:21.242363+00:00",
+  "70f3d3a6344923f9": "2026-11-24T16:37:21.242363+00:00",
+  "44c724790157dc99": "2026-11-24T16:37:21.242363+00:00",
+  "1d54e16e67e76b99": "2026-11-24T16:37:21.242363+00:00",
+  "932077ed19feade3": "2026-11-24T16:37:21.242363+00:00",
+  "c82ab5c574080217": "2026-11-24T16:37:21.242363+00:00",
+  "bbaf6332f2bfb4e9": "2026-11-24T16:37:21.242363+00:00",
+  "53922f73c63aa13f": "2026-11-24T16:37:21.242363+00:00",
+  "065b16dad3fdde8c": "2026-11-24T16:37:21.242363+00:00",
+  "f37210edd15930ff": "2026-11-24T16:37:21.242363+00:00"
  },
  "covered": [
   {
@@ -2107,11 +2126,15 @@
   {
    "headline": "Doubao launches Xiaodou AI assistant public test",
    "ts": "2026-11-24T15:37:25.500711+00:00"
+  },
+  {
+   "headline": "Sarvam AI launches document extraction tool",
+   "ts": "2026-11-24T16:37:21.242363+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4297,6 +4320,13 @@
    "desc": "Sarvam Extract turns documents of up to 500 pages into structured JSON, with a source page, bounding box and confidence score for every value.",
    "image": "https://assets.sarvam.ai/tr:w-1600,q-90,f-auto,dpr-auto/images/03117ysv/production/e8c9d10082f9dd9f069c80cc23f898e1e46ce4f4-2752x1536.jpg",
    "published": "2026-11-24T00:00:00+00:00"
+  },
+  "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "desc": "A Blog post by NVIDIA on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
+   "published": "2026-11-24T16:34:13.127000+00:00",
+   "excerpt": "Add local obstacle avoidance to Microduck while keeping its walking policy fixed. Build varied courses with reusable SimReady assets, model ToF sensing with Newton’s raycaster, and train a controller in Isaac Lab to adjust gamepad velocity commands around obstacles. This tutorial covers simulation training, evaluation, export, and real-robot deployment. A walking policy can keep Microduck balanced, but it does not tell the robot how to steer around an obstacle in its path. In this workflow, we reuse the walking policy from our first Microduck tutorial and keep its weights fixed. This follow-up trains a separate avoidance controller using time-of-flight (ToF) sensing. You choose a direction with a gamepad; the controller adjusts the velocity command before passing it to the walking policy. …"
   }
  },
  "pending": [
@@ -4326,8 +4356,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.346143,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.33229,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4354,8 +4384,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.250063,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 7.23621,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4384,8 +4414,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.23871,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.233515,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "9313ce90be102217",
@@ -4413,8 +4443,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.13586,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.153177,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4441,11 +4471,21 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.982146,
-   "selection_reason": "Editorial importance; waiting 14.0h"
+   "priority": 6.968293,
+   "selection_reason": "Editorial importance; waiting 14.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.sarvam.ai/blogs/extract-api",
+   "source": "Sarvam",
+   "kind": "pack",
+   "title": "Introducing Sarvam Extract | Sarvam AI",
+   "summary": "Sarvam Extract turns documents of up to 500 pages into structured JSON, with a source page, bounding box and confidence score for every value.",
+   "queued_at": "2026-11-24T16:37:21.242363+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4779,86 +4819,6 @@
   "takes": 28
  },
  "triage": {
-  "ea6ee25fa2b6781e": {
-   "imp": 1.87,
-   "ai": null,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "7026b06cbdceb5af": {
-   "imp": 2.47,
-   "ai": null,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "8806a70ae484f167": {
-   "imp": 1.79,
-   "ai": null,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "6a77fa320c0f3378": {
-   "imp": 1.62,
-   "ai": 0.86,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "bb6c5d45e9e5b4a7": {
-   "imp": 2.5,
-   "ai": 0.9,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "bb03d60fa1561225": {
-   "imp": 1.44,
-   "ai": 0.93,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "dbc77ae1b602890d": {
-   "imp": 1.72,
-   "ai": 0.89,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "7d59dcca8dde8023": {
-   "imp": 0.18,
-   "ai": 0.27,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "30d7891eee087a0c": {
-   "imp": 2.14,
-   "ai": 0.95,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "cc69239e629b14a0": {
-   "imp": 0.82,
-   "ai": null,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "3b21fcf5de906fd9": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "cfa8196f22956a3a": {
-   "imp": 1.03,
-   "ai": 0.2,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "aa2584aecf599e11": {
-   "imp": 0.03,
-   "ai": 0.03,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "a3387203f89855b1": {
-   "imp": 0.04,
-   "ai": 0.01,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "07ef26681f432148": {
-   "imp": 1.29,
-   "ai": 0.13,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
-  "19f971b749d316d5": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-16T16:37:36.133030+00:00"
-  },
   "771a013aca12bb1a": {
    "imp": 1.8,
    "ai": 0.79,
@@ -26383,6 +26343,91 @@
    "imp": 0.03,
    "ai": 0.03,
    "ts": "2026-11-24T16:07:25.814283+00:00"
+  },
+  "c82ab5c574080217": {
+   "imp": 1.23,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "dc69597abec1a000": {
+   "imp": 1.39,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "70f3d3a6344923f9": {
+   "imp": 1.25,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "065b16dad3fdde8c": {
+   "imp": 1.72,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "a80b129c68390b76": {
+   "imp": 2.14,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "1d54e16e67e76b99": {
+   "imp": 1.89,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "b4aa4dce7919c3ff": {
+   "imp": 2.22,
+   "ai": 0.93,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "932077ed19feade3": {
+   "imp": 1.73,
+   "ai": 0.94,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "34b3f1ac3b90d464": {
+   "imp": 2.06,
+   "ai": 0.87,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "16565a3f5dc091b0": {
+   "imp": 1.11,
+   "ai": null,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "9b68c2a8938175d9": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "e74ef935803e7c45": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "44bbba50d547691a": {
+   "imp": 0.23,
+   "ai": 0.15,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "aa416d7dd01b96e5": {
+   "imp": 0.33,
+   "ai": 0.06,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "1d6f7ead7d5c9466": {
+   "imp": 0.28,
+   "ai": 0.1,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "83b4b107161cb62d": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
+  },
+  "67c4da7cfa572b59": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-24T16:37:21.242363+00:00"
   }
  }
 }
