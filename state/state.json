@@ -1900,7 +1900,16 @@
   "70ed9b153ba23286": "2026-11-24T08:07:21.465978+00:00",
   "3da1a42b3a7242f7": "2026-11-24T08:07:21.465978+00:00",
   "fb3bb3dbb16d2e7d": "2026-11-24T08:07:21.465978+00:00",
-  "e5443a2519486806": "2026-11-24T08:07:21.465978+00:00"
+  "e5443a2519486806": "2026-11-24T08:07:21.465978+00:00",
+  "3e6ca327908906fa": "2026-11-24T08:37:22.424714+00:00",
+  "6eb2f60fa428e30c": "2026-11-24T08:37:22.424714+00:00",
+  "c1b6b93bb474b8ab": "2026-11-24T08:37:22.424714+00:00",
+  "d6fe6e5c985de5fa": "2026-11-24T08:37:22.424714+00:00",
+  "2428dce964ee5eea": "2026-11-24T08:37:22.424714+00:00",
+  "0d5ffa1e4e79d26d": "2026-11-24T08:37:22.424714+00:00",
+  "bb59e0c1821cf1ca": "2026-11-24T08:37:22.424714+00:00",
+  "5abf1ecb112a0333": "2026-11-24T08:37:22.424714+00:00",
+  "b5079f907171dbe7": "2026-11-24T08:37:22.424714+00:00"
  },
  "covered": [
   {
@@ -2086,11 +2095,15 @@
   {
    "headline": "Baidu open-sources ERNIE 5.5 Flash Preview model",
    "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  {
+   "headline": "Lenskart pilots AI eye test Drysh and expands smart glasses",
+   "ts": "2026-11-24T08:37:22.424714+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4280,8 +4293,8 @@
    "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
    "expires_at": "2026-11-25T16:43:00+00:00",
    "decision": 2.27,
-   "priority": 7.349511,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.366882,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4309,8 +4322,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.188621,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.205992,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4338,8 +4351,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.13089,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.14826,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4366,36 +4379,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.097312,
-   "selection_reason": "Editorial importance; waiting 6.0h"
-  },
-  {
-   "id": "44fe677fd46c23c4",
-   "item": {
-    "id": "44fe677fd46c23c4",
-    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-    "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
-    "published": "2026-11-23T19:04:52+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Nothing announces Ear Note earbuds with AI transcription",
-   "post": "Nothing announced the Ear Note, a pair of earbuds and a charging case equipped with microphones that record, transcribe, and summarize conversations via an app.",
-   "editor_note": "Verify pricing and release date details for the Ear Note device if available.",
-   "support": 0.87,
-   "published_at": "2026-11-23T19:04:52+00:00",
-   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
-   "expires_at": "2026-11-25T07:04:52+00:00",
-   "decision": 0.95,
-   "priority": 6.829395,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.114682,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4424,27 +4409,39 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.822056,
-   "selection_reason": "Editorial importance; waiting 4.0h"
-  }
- ],
- "details_queue": [
+   "priority": 6.848111,
+   "selection_reason": "Editorial importance; waiting 4.5h"
+  },
   {
-   "url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
-   "source": "LeiPhone",
-   "kind": "takes",
-   "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-   "summary": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。 文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、AutomationBench等多项基准测试中，文心5.5 Flash Preview 取得了具有竞争力的得分，并保持极致的解码速度。在CodeArena WebDev 榜单中，文心 5.5 Flash Preview以1668分位列开源模型第二、国产模型第四，紧随Kimi K3.1 Pro、Qwen3.8-Max等大参数国产模型之后。 随着模型权重开放，全球开发者可基于文心 5.5 Flash Preview 开展领域微调、工具链适配与部署优化，进一步探索模型在不同业务场景中的应用。 模型下载地址： Hugging Face https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview ModelScope https://www.modelscope.cn/models/baidu/ERNIE-5.5-Flash-Preview",
-   "queued_at": "2026-11-24T08:07:21.465978+00:00",
-   "alternates": [
-    {
-     "url": "https://www.qbitai.com/2026/11/512354.html",
-     "source": "QbitAI"
-    }
-   ],
-   "attempts": 1
+   "id": "44fe677fd46c23c4",
+   "item": {
+    "id": "44fe677fd46c23c4",
+    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+    "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
+    "published": "2026-11-23T19:04:52+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Nothing announces Ear Note earbuds with AI transcription",
+   "post": "Nothing announced the Ear Note, a pair of earbuds and a charging case equipped with microphones that record, transcribe, and summarize conversations via an app.",
+   "editor_note": "Verify pricing and release date details for the Ear Note device if available.",
+   "support": 0.87,
+   "published_at": "2026-11-23T19:04:52+00:00",
+   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
+   "expires_at": "2026-11-25T07:04:52+00:00",
+   "decision": 0.95,
+   "priority": 6.846765,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   }
  ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4756,194 +4753,16 @@
   "https://36kr.com/newsflashes/4083287879537795?f=rss": "2026-11-24T05:08:33.251952+00:00",
   "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy": "2026-11-24T05:39:40.744347+00:00",
   "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html": "2026-11-24T06:09:53.623592+00:00",
-  "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund": "2026-11-24T07:39:38.124191+00:00"
+  "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund": "2026-11-24T07:39:38.124191+00:00",
+  "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html": "2026-11-24T08:38:28.046095+00:00",
+  "https://www.medianama.com/2026/11/223-lenskart-ai-eye-test-drysh-smart-glasses": "2026-11-24T08:38:28.046095+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 14
+  "takes": 16
  },
  "triage": {
-  "4093c8cb3ff7122a": {
-   "imp": 1.32,
-   "ai": 0.93,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "c6d5cf34d416991e": {
-   "imp": 0.59,
-   "ai": 0.23,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "6ca824da22d364dd": {
-   "imp": 1.13,
-   "ai": 0.67,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "08eb5473815b633c": {
-   "imp": 0.51,
-   "ai": 0.58,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "103312e1f01c4677": {
-   "imp": 2.48,
-   "ai": 0.96,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "43f7614319e89f6e": {
-   "imp": 1.03,
-   "ai": 0.13,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "10d514efa8c98f65": {
-   "imp": 0.41,
-   "ai": 0.06,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "54905cfb9e83aaa5": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "7d588d9fdcbe3d88": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "a586a76d3ca7a558": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "edcb66cf256d1453": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "ec07f7e248c74213": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "df2fe26db0a3fbde": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "ece66cfc0c4e4177": {
-   "imp": 0.64,
-   "ai": 0.07,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "a69b9a8887b71a21": {
-   "imp": 0.51,
-   "ai": 0.15,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "2b885b78842a7556": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "140a9bde2363cd2e": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "49c6623123ca0c68": {
-   "imp": 0.21,
-   "ai": 0.04,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "7ded8a1a72a2d837": {
-   "imp": 0.19,
-   "ai": 0.05,
-   "ts": "2026-11-16T08:12:37.753754+00:00"
-  },
-  "b554ad0482f5ebce": {
-   "imp": 0.32,
-   "ai": 0.15,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "4a1a01292c1ff897": {
-   "imp": 0.79,
-   "ai": 0.42,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "8240bfc4f0c8551b": {
-   "imp": 1.5,
-   "ai": 0.89,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "2c910f3a42c866cd": {
-   "imp": 1.43,
-   "ai": 0.84,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "58901d978ff73045": {
-   "imp": 0.64,
-   "ai": 0.78,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "3ce1308f5020e123": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "0f21c4aa65fa7805": {
-   "imp": 0.75,
-   "ai": 0.36,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "cda129c8f0308c31": {
-   "imp": 0.19,
-   "ai": 0.04,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "e064ed41992bcd0d": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "5bda17cd1094f282": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "59137a9c0d111418": {
-   "imp": 0.23,
-   "ai": 0.07,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "83d5b2a5658e8ba5": {
-   "imp": 0.17,
-   "ai": 0.05,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "d742ec5977aed308": {
-   "imp": 1.12,
-   "ai": 0.54,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "0da44e474deac491": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "2be49c43efccf00a": {
-   "imp": 0.44,
-   "ai": 0.16,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "999ea5d654da075d": {
-   "imp": 1.64,
-   "ai": 0.87,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
-  "43e1a03bd6e5515c": {
-   "imp": 1.54,
-   "ai": 0.32,
-   "ts": "2026-11-16T08:37:31.370913+00:00"
-  },
   "439cc1655ead7f3c": {
    "imp": 1.11,
    "ai": 0.35,
@@ -26543,6 +26362,91 @@
    "imp": 0.16,
    "ai": 0.03,
    "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "0d5ffa1e4e79d26d": {
+   "imp": 2.21,
+   "ai": 0.93,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "3e6ca327908906fa": {
+   "imp": 2.46,
+   "ai": 0.95,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "5abf1ecb112a0333": {
+   "imp": 0.49,
+   "ai": 0.28,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "c1b6b93bb474b8ab": {
+   "imp": 2.14,
+   "ai": 0.91,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "bb59e0c1821cf1ca": {
+   "imp": 1.35,
+   "ai": 0.68,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "6eb2f60fa428e30c": {
+   "imp": 2.07,
+   "ai": 0.97,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "d6fe6e5c985de5fa": {
+   "imp": 2.14,
+   "ai": 0.97,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "b5079f907171dbe7": {
+   "imp": 1.87,
+   "ai": 0.9,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "2428dce964ee5eea": {
+   "imp": 1.38,
+   "ai": 0.87,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "f4ffacd40a86c45c": {
+   "imp": 0.32,
+   "ai": 0.07,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "407baed004a3a552": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "bfa3df10d17e7018": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "399de84cf93eedfd": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "ebecd16b2994f44d": {
+   "imp": 0.21,
+   "ai": 0.11,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "edafc801999dadbf": {
+   "imp": 0.66,
+   "ai": 0.19,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "fe612a3954f23e4e": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
+  },
+  "76b086eb7131bc7a": {
+   "imp": 1.8,
+   "ai": 0.52,
+   "ts": "2026-11-24T08:37:22.424714+00:00"
   }
  }
 }
