@@ -1,13 +1,5 @@
 {
  "seen": {
-  "36754e618e209ea1": "2026-11-17T08:07:21.757559+00:00",
-  "62a03bbfd34866cf": "2026-11-17T08:07:21.757559+00:00",
-  "154f1e300781b09b": "2026-11-17T08:07:21.757559+00:00",
-  "f45fb4080bd1b1a1": "2026-11-17T08:07:21.757559+00:00",
-  "3bba813f2b605aed": "2026-11-17T08:07:21.757559+00:00",
-  "8884e1d9470f6d1c": "2026-11-17T08:07:21.757559+00:00",
-  "6b0aba9f3480e5c4": "2026-11-17T08:07:21.757559+00:00",
-  "c19a3ced4c197eac": "2026-11-17T08:07:21.757559+00:00",
   "fdf7cbb6cbccd1c5": "2026-11-17T09:07:46.687086+00:00",
   "5dae0f7dddd9b9be": "2026-11-17T09:07:46.687086+00:00",
   "a923fd9b70a1aed5": "2026-11-17T09:07:46.687086+00:00",
@@ -1898,7 +1890,17 @@
   "b02e5d7aa184a667": "2026-11-24T07:37:21.824116+00:00",
   "c09b15d481c96d25": "2026-11-24T07:37:21.824116+00:00",
   "2d3982cdac417e68": "2026-11-24T07:37:21.824116+00:00",
-  "cf4d580baf289f38": "2026-11-24T07:37:21.824116+00:00"
+  "cf4d580baf289f38": "2026-11-24T07:37:21.824116+00:00",
+  "da1074eebe14fbc8": "2026-11-24T08:07:21.465978+00:00",
+  "c8efe7c3e842ae78": "2026-11-24T08:07:21.465978+00:00",
+  "5707f4f4d41ec92d": "2026-11-24T08:07:21.465978+00:00",
+  "ac585245f7163d32": "2026-11-24T08:07:21.465978+00:00",
+  "708783e47f9c1011": "2026-11-24T08:07:21.465978+00:00",
+  "8210816cf36b85e3": "2026-11-24T08:07:21.465978+00:00",
+  "70ed9b153ba23286": "2026-11-24T08:07:21.465978+00:00",
+  "3da1a42b3a7242f7": "2026-11-24T08:07:21.465978+00:00",
+  "fb3bb3dbb16d2e7d": "2026-11-24T08:07:21.465978+00:00",
+  "e5443a2519486806": "2026-11-24T08:07:21.465978+00:00"
  },
  "covered": [
   {
@@ -2080,11 +2082,15 @@
   {
    "headline": "CortexSpark Ventures launches 1,000 crore rupee deeptech fund",
    "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  {
+   "headline": "Baidu open-sources ERNIE 5.5 Flash Preview model",
+   "ts": "2026-11-24T08:07:21.465978+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4250,49 +4256,6 @@
  },
  "pending": [
   {
-   "id": "fb3bb3dbb16d2e7d",
-   "item": {
-    "id": "fb3bb3dbb16d2e7d",
-    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-    "url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。 文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、AutomationBench等多项基准测试中，文心5.5 Flash Preview 取得了具有竞争力的得分，并保持极致的解码速度。在CodeArena WebDev 榜单中，文心 5.5 Flash Preview以1668分位列开源模型第二、国产模型第四，紧随Kimi K3.1 Pro、Qwen3.8-Max等大参数国产模型之后。 随着模型权重开放，全球开发者可基于文心 5.5 Flash Preview 开展领域微调、工具链适配与部署优化，进一步探索模型在不同业务场景中的应用。 模型下载地址： Hugging Face https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview ModelScope https://www.modelscope.cn/models/baidu/ERNIE-5.5-Flash-Preview",
-    "published": "2026-11-24T04:10:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "e5443a2519486806",
-     "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-     "url": "https://www.qbitai.com/2026/11/512354.html",
-     "source": "QbitAI",
-     "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
-     "snippet": "",
-     "published": "2026-11-24T06:22:28+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Baidu open-sources ERNIE 5.5 Flash Preview model",
-   "post": "Baidu has open-sourced the ERNIE 5.5 Flash Preview under the Apache 2.0 license, featuring 280 billion total parameters and a 1-million-token context window on Hugging Face and ModelScope.",
-   "editor_note": "Verify token activation count (14 billion per token) and model repository availability on Hugging Face and ModelScope.",
-   "support": 0.97,
-   "published_at": "2026-11-24T04:10:00+00:00",
-   "first_seen_at": "2026-11-24T07:37:21.824116+00:00",
-   "expires_at": "2026-11-25T16:10:00+00:00",
-   "decision": 2.33,
-   "priority": 8.680665,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "49b80d2d054c6f28",
    "item": {
     "id": "49b80d2d054c6f28",
@@ -4317,8 +4280,8 @@
    "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
    "expires_at": "2026-11-25T16:43:00+00:00",
    "decision": 2.27,
-   "priority": 7.332154,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.349511,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4346,8 +4309,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.171264,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.188621,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4375,8 +4338,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.113532,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.13089,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4403,8 +4366,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.079954,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.097312,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4431,8 +4394,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.812037,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.829395,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4461,11 +4424,27 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.796019,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.822056,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+   "source": "LeiPhone",
+   "kind": "takes",
+   "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+   "summary": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。 文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、AutomationBench等多项基准测试中，文心5.5 Flash Preview 取得了具有竞争力的得分，并保持极致的解码速度。在CodeArena WebDev 榜单中，文心 5.5 Flash Preview以1668分位列开源模型第二、国产模型第四，紧随Kimi K3.1 Pro、Qwen3.8-Max等大参数国产模型之后。 随着模型权重开放，全球开发者可基于文心 5.5 Flash Preview 开展领域微调、工具链适配与部署优化，进一步探索模型在不同业务场景中的应用。 模型下载地址： Hugging Face https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview ModelScope https://www.modelscope.cn/models/baidu/ERNIE-5.5-Flash-Preview",
+   "queued_at": "2026-11-24T08:07:21.465978+00:00",
+   "alternates": [
+    {
+     "url": "https://www.qbitai.com/2026/11/512354.html",
+     "source": "QbitAI"
+    }
+   ],
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -26489,6 +26468,81 @@
    "imp": 0.07,
    "ai": 0.03,
    "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "3da1a42b3a7242f7": {
+   "imp": 1.96,
+   "ai": 0.65,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "70ed9b153ba23286": {
+   "imp": 2.08,
+   "ai": 0.93,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "c8efe7c3e842ae78": {
+   "imp": 2.19,
+   "ai": 0.78,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "5707f4f4d41ec92d": {
+   "imp": 1.57,
+   "ai": 0.89,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "8210816cf36b85e3": {
+   "imp": 1.99,
+   "ai": 0.96,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "da1074eebe14fbc8": {
+   "imp": 2.21,
+   "ai": 0.92,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "708783e47f9c1011": {
+   "imp": 0.85,
+   "ai": 0.87,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "7faddbcbad5759d7": {
+   "imp": 0.83,
+   "ai": 0.16,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "1e7b11800335082d": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "ac585245f7163d32": {
+   "imp": 1.36,
+   "ai": 0.96,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "8062eb211f27ff76": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "ea35a23b9999923d": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "363a83d42cc3f883": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "dceb3854e4183eb0": {
+   "imp": 0.71,
+   "ai": 0.09,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
+  },
+  "31c8ca634f041287": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-24T08:07:21.465978+00:00"
   }
  }
 }
