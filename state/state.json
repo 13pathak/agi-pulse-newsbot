@@ -1,17 +1,5 @@
 {
  "seen": {
-  "d6a44469adf06c1f": "2026-11-17T04:37:23.333248+00:00",
-  "ac2502a3ac75b8fc": "2026-11-17T04:37:23.333248+00:00",
-  "9692d7cd9d7c3ef7": "2026-11-17T04:37:23.333248+00:00",
-  "b5f399c32c81ac83": "2026-11-17T04:37:23.333248+00:00",
-  "881e8225f9e486ac": "2026-11-17T04:37:23.333248+00:00",
-  "5d0027306d41109a": "2026-11-17T04:37:23.333248+00:00",
-  "1fb395b886399ee9": "2026-11-17T04:37:23.333248+00:00",
-  "63888bf92e20fb0e": "2026-11-17T04:37:23.333248+00:00",
-  "245e194e7c1f246e": "2026-11-17T04:37:23.333248+00:00",
-  "267d8b342ecc48bc": "2026-11-17T04:37:23.333248+00:00",
-  "bd831cf23ee2ff38": "2026-11-17T04:37:23.333248+00:00",
-  "8d78b8dffd93785d": "2026-11-17T04:37:23.333248+00:00",
   "8ea9b4cdf9137dbc": "2026-11-17T05:07:22.328481+00:00",
   "0c2ac29bc5799073": "2026-11-17T05:07:22.328481+00:00",
   "25a765dbc1ec2c78": "2026-11-17T05:07:22.328481+00:00",
@@ -1902,7 +1890,16 @@
   "b6b7396fedc7db91": "2026-11-24T04:07:21.465936+00:00",
   "aa1f85516edabd47": "2026-11-24T04:07:21.465936+00:00",
   "43b498f2b7e3dbe0": "2026-11-24T04:07:21.465936+00:00",
-  "49ef9cf5084cd81b": "2026-11-24T04:07:21.465936+00:00"
+  "49ef9cf5084cd81b": "2026-11-24T04:07:21.465936+00:00",
+  "50bbe0428a67ea46": "2026-11-24T04:37:23.279400+00:00",
+  "8098756a6e6d3c11": "2026-11-24T04:37:23.279400+00:00",
+  "ec5d8d042f2b5da6": "2026-11-24T04:37:23.279400+00:00",
+  "f88d5c104679834c": "2026-11-24T04:37:23.279400+00:00",
+  "b9337311f2ed162d": "2026-11-24T04:37:23.279400+00:00",
+  "01a87669d68c51cc": "2026-11-24T04:37:23.279400+00:00",
+  "29b5bbdd22b9afcd": "2026-11-24T04:37:23.279400+00:00",
+  "083b81f6346804b7": "2026-11-24T04:37:23.279400+00:00",
+  "9d5ba7119b154d0c": "2026-11-24T04:37:23.279400+00:00"
  },
  "covered": [
   {
@@ -2072,11 +2069,15 @@
   {
    "headline": "Anthropic launches Claude Ship to automate code pull request reviews",
    "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  {
+   "headline": "Baidu releases ERNIE-5.5-Flash-Preview on Hugging Face",
+   "ts": "2026-11-24T04:37:23.279400+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4230,36 +4231,6 @@
  },
  "pending": [
   {
-   "id": "9d5ba7119b154d0c",
-   "item": {
-    "id": "9d5ba7119b154d0c",
-    "title": "baidu releases ERNIE-5.5-Flash-Preview on Hugging Face",
-    "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
-    "source": "Hugging Face Models",
-    "kind": "model",
-    "snippet": "Open model baidu/ERNIE-5.5-Flash-Preview by baidu. Task: text-generation. Likes: 108. Model card: ERNIE 5.5 Flash Preview Introduction ERNIE 5.5 Flash Preview is the first post-trained model built on ERNIE 5.5 Flash Base, which we released earlier. It is a Mixture-of-Experts (MoE) language model with 280B total parameters, 14B of them active per token , and a 1M-token context window . It does well at coding, 3D modeling, knowledge work and content creation, scores competitively on major benchmarks, and still decodes quickly. The Preview shares its architecture and tokenizer with ERNIE 5.5 Flash Base. Its new capabilities come from mid-training and post-training, and mid-training also extends the training context length from 128K to 1M tokens. Our blog post shows work the model completed end to end in an agent harness. ERNIE 5.5 Flash Preview is an intermediate checkpoint from post-training. It already performs competitively among models of its size, but some capabilities may still fall short because training is not finished. Post-training is ongoing and ERNIE 5.5 Flash is improving quickly. We will watch how the Preview performs in real use, listen to user feedback, and address what we learn in the official release. Highlights The Preview is trained for the following kinds of w…",
-    "published": "2026-11-23T09:00:29+00:00",
-    "trend": 34,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/baidu/ERNIE-5.5-Flash-Preview.png",
-    "images": true,
-    "category": "model",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Baidu releases ERNIE-5.5-Flash-Preview on Hugging Face",
-   "post": "Baidu has released ERNIE-5.5-Flash-Preview on Hugging Face, an intermediate post-trained Mixture-of-Experts language model featuring 280 billion total parameters, 14 billion active parameters per token, and a 1-million-token context window.",
-   "editor_note": "Check model card parameters: 280B total, 14B active per token, 1M context window.",
-   "support": 0.96,
-   "published_at": "2026-11-23T09:00:29+00:00",
-   "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
-   "expires_at": "2026-11-30T09:00:29+00:00",
-   "decision": 1.6,
-   "priority": 7.919556,
-   "selection_reason": "Editorial importance"
-  },
-  {
    "id": "e4463fe276ea6eac",
    "item": {
     "id": "e4463fe276ea6eac",
@@ -4284,8 +4255,8 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.531767,
-   "selection_reason": "Time-sensitive story; waiting 3.0h"
+   "priority": 7.549145,
+   "selection_reason": "Time-sensitive story; waiting 3.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4313,8 +4284,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.049732,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.067111,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4342,8 +4313,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 6.992001,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.00938,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4370,8 +4341,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.958423,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.975801,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4398,8 +4369,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.690506,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.707885,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4428,8 +4399,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.613723,
-   "selection_reason": "Editorial importance"
+   "priority": 6.639791,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   }
  ],
  "details_queue": [],
@@ -4739,74 +4710,15 @@
   "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html": "2026-11-24T03:08:04.873160+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": "2026-11-24T03:08:04.873160+00:00",
   "https://36kr.com/newsflashes/4083166753952897?f=rss": "2026-11-24T03:39:36.452130+00:00",
-  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "2026-11-24T04:07:54.785413+00:00"
+  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": "2026-11-24T04:07:54.785413+00:00",
+  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": "2026-11-24T04:39:52.045842+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
-  "10c73b5ebd01a939": {
-   "imp": 0.55,
-   "ai": 0.17,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "39b23301d17613af": {
-   "imp": 0.92,
-   "ai": 0.92,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "793232b845fb16a2": {
-   "imp": 0.9,
-   "ai": 0.91,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "1f9123921f49104e": {
-   "imp": 0.87,
-   "ai": 0.91,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "d97d03117faa6e8b": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "947af0c706dc8fb9": {
-   "imp": 0.47,
-   "ai": 0.27,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "438cc284d4dac02c": {
-   "imp": 0.21,
-   "ai": 0.02,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "fcbf3aab993e74c8": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "a0d1e886ddff1be2": {
-   "imp": 0.18,
-   "ai": 0.01,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "971a937a714c1245": {
-   "imp": 0.2,
-   "ai": 0.04,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "bbd1c095de3bef80": {
-   "imp": 1.35,
-   "ai": 0.78,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
-  "3f74b6daad7dc437": {
-   "imp": 1.85,
-   "ai": 0.4,
-   "ts": "2026-11-16T04:37:32.073864+00:00"
-  },
   "3e24c8e2990b4aa0": {
    "imp": 1.12,
    "ai": 0.83,
@@ -26391,6 +26303,71 @@
    "imp": 0.11,
    "ai": 0.02,
    "ts": "2026-11-24T04:07:21.465936+00:00"
+  },
+  "b9337311f2ed162d": {
+   "imp": 1.53,
+   "ai": 0.96,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "083b81f6346804b7": {
+   "imp": 1.33,
+   "ai": 0.88,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "8098756a6e6d3c11": {
+   "imp": 1.99,
+   "ai": 0.77,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "01a87669d68c51cc": {
+   "imp": 1.05,
+   "ai": 0.77,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "ec5d8d042f2b5da6": {
+   "imp": 1.89,
+   "ai": 0.95,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "29b5bbdd22b9afcd": {
+   "imp": 1.67,
+   "ai": 0.87,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "50bbe0428a67ea46": {
+   "imp": 1.34,
+   "ai": null,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "f88d5c104679834c": {
+   "imp": 1.71,
+   "ai": 0.7,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "1003434e5a30af3e": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "c485c9dc56a40cdb": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "807c08447aadead1": {
+   "imp": 0.32,
+   "ai": 0.08,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "06a20d1b93ecec4e": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
+  },
+  "9e70c9e6de0fc71d": {
+   "imp": 0.14,
+   "ai": 0.07,
+   "ts": "2026-11-24T04:37:23.279400+00:00"
   }
  }
 }
