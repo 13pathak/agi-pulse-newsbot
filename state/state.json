@@ -1,17 +1,5 @@
 {
  "seen": {
-  "cc69239e629b14a0": "2026-11-17T03:07:34.188728+00:00",
-  "aa9feb2f036b19f6": "2026-11-17T03:07:34.188728+00:00",
-  "3a32eda9d7ce6c86": "2026-11-17T03:07:34.188728+00:00",
-  "2db00d3c22d7cd3a": "2026-11-17T03:07:34.188728+00:00",
-  "8c824024c9147b94": "2026-11-17T03:07:34.188728+00:00",
-  "e8be3a5399e01c2c": "2026-11-17T03:07:34.188728+00:00",
-  "2b1fdc36f787a31a": "2026-11-17T03:07:34.188728+00:00",
-  "2404565dea18720e": "2026-11-17T03:07:34.188728+00:00",
-  "ff4a8524ce31a335": "2026-11-17T03:07:34.188728+00:00",
-  "718d68e733720195": "2026-11-17T03:07:34.188728+00:00",
-  "e7d67d163eea8f8e": "2026-11-17T03:07:34.188728+00:00",
-  "c5cb67a9a739abfa": "2026-11-17T03:07:34.188728+00:00",
   "42ea8ea09b0e04f5": "2026-11-17T03:37:22.449919+00:00",
   "db7c7f240fcd6520": "2026-11-17T03:37:22.449919+00:00",
   "cffcdea203316e35": "2026-11-17T03:37:22.449919+00:00",
@@ -1880,13 +1868,21 @@
   "59abfa5f17a2f8f2": "2026-11-24T02:37:21.443172+00:00",
   "97eb84d1bd9ece00": "2026-11-24T02:37:21.443172+00:00",
   "f05308563db45104": "2026-11-24T02:37:21.443172+00:00",
-  "c001ea324a612d1c": "2026-11-24T02:37:21.443172+00:00"
+  "c001ea324a612d1c": "2026-11-24T02:37:21.443172+00:00",
+  "208ab39a624837b7": "2026-11-24T03:07:22.002410+00:00",
+  "bfcbbc5c448428da": "2026-11-24T03:07:22.002410+00:00",
+  "e3f8aad982530400": "2026-11-24T03:07:22.002410+00:00",
+  "0f3e2d2e1f72dab7": "2026-11-24T03:07:22.002410+00:00",
+  "76d00ea609bc6843": "2026-11-24T03:07:22.002410+00:00",
+  "5adcf2f196a946dd": "2026-11-24T03:07:22.002410+00:00",
+  "f1f7ae156bfaa6d6": "2026-11-24T03:07:22.002410+00:00",
+  "44d468f9086a6653": "2026-11-24T03:07:22.002410+00:00",
+  "0fc6a924346430f7": "2026-11-24T03:07:22.002410+00:00",
+  "2e1c11a088022f50": "2026-11-24T03:07:22.002410+00:00",
+  "d4800e980d0e28a8": "2026-11-24T03:07:22.002410+00:00",
+  "5439b9c20bdd9b26": "2026-11-24T03:07:22.002410+00:00"
  },
  "covered": [
-  {
-   "headline": "Tesla begins rolling out FSD v15 in the US",
-   "ts": "2026-11-22T03:07:25.355608+00:00"
-  },
   {
    "headline": "South Korea education minister resigns over AI exam cheating scandal",
    "ts": "2026-11-22T05:07:20.744572+00:00"
@@ -2042,11 +2038,15 @@
   {
    "headline": "OpenAI engineer accused of recording confidential meetings",
    "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  {
+   "headline": "US adds Megaspeed to trade blacklist over AI chip controls",
+   "ts": "2026-11-24T03:07:22.002410+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4173,105 +4173,33 @@
  },
  "pending": [
   {
-   "id": "5adcf2f196a946dd",
+   "id": "d729845624abecd3",
    "item": {
-    "id": "5adcf2f196a946dd",
-    "title": "US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis",
-    "source": "Bloomberg",
+    "id": "d729845624abecd3",
+    "title": "“章鱼动力”完成数亿元人民币融资",
+    "url": "https://36kr.com/newsflashes/4083166753952897?f=rss",
+    "source": "36Kr",
     "image": "",
-    "snippet": "The Trump administration put Megaspeed International on a US trade blacklist barring it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job as Nvidia chief executive officer. In a filing Monday, the Commerce Department formally added Megaspeed to its so-called entity list, a designation that bars th…",
-    "published": "2026-11-23T22:01:13+00:00",
-    "images": true,
+    "snippet": "36氪获悉，11月24日，“章鱼动力”年内再次完成数亿元人民币融资。新增投资方包括芯动能投资、美的资本等投资机构与产业资本；早期股东线性资本、小米集团、Panga Capital持续多轮加注。融资将主要用于灵巧手高端制造产线构建和具身模型的研发投入，进一步加速“脑-手-数据”的软硬件一体化设计（Co-Design），以及“智能-部署-数据”的自进化生产力飞轮构建。",
+    "published": "2026-11-24T02:52:00+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
-   "related": [
-    {
-     "id": "f1f7ae156bfaa6d6",
-     "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-     "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-     "source": "The New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
-     "snippet": "Megaspeed’s addition to the list will prevent companies from shipping U.S. technology to the firm without first obtaining a government license.",
-     "published": "2026-11-23T23:18:58+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "44d468f9086a6653",
-     "title": "Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist",
-     "url": "https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist",
-     "source": "The Information",
-     "image": "",
-     "snippet": "The Commerce Department added the Singapore-based cloud computing and AI infrastructure company Megaspeed to its entity list, a trade blacklist that designates organizations as national security risks and limits their ability to access advanced AI chips, according to a filing on Monday. Trump ...",
-     "published": "2026-11-23T21:04:06+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "0fc6a924346430f7",
-     "title": "US Blacklists Megaspeed, Targeting Firm Central to Nvidia Crisis",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "The Trump administration put Megaspeed International on a US trade blacklist that bars it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job as Nvidia Corp. chief executive officer.",
-     "published": "2026-11-23T20:43:55+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "2e1c11a088022f50",
-     "title": "Commerce to blacklist Megaspeed, Nvidia customer at center of spy scandal",
-     "url": "https://www.businessinsider.com/commerce-blacklist-megaspeed-nvidia-customer-at-center-of-spy-scandal-2026-11",
-     "source": "Business Insider",
-     "image": "https://i.insider.com/6b04ba9fd6c5d341c9b4c75d?format=jpeg",
-     "snippet": "The Commerce Department is preparing to blacklist Megaspeed, the Nvidia customer at the center of a chip-smuggling controversy. The update is expected to be published in the Federal Register on Monday, POLITICO reports. The news comes the same day Nvidia's board reinstated Jensen Huang as chief executive at Trump's urging. The Commerce Department is preparing to blacklist Megaspeed, the Singapore-…",
-     "published": "2026-11-23T22:16:19+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "d4800e980d0e28a8",
-     "title": "US blacklists Megaspeed chip firm linked to Nvidia scandal",
-     "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal/articleshow/136117347.cms",
-     "source": "The Economic Times",
-     "image": "https://img.etimg.com/photo/msid-136117347,imgsize-96644.cms",
-     "snippet": "The addition of the company follows revelations that Nvidia CEO Jensen Huang had a relationship with Alice Huang, a Chinese businesswoman and Megaspeed's controlling shareholder who is reportedly alleged to be a spy for Beijing.",
-     "published": "2026-11-24T02:01:21+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "5439b9c20bdd9b26",
-     "title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "The Trump administration blacklisted a Singaporean subsidiary of Alibaba Group Holding Ltd. along with several entities affiliated with Megaspeed International, the firm at the heart of a scandal that briefly cost Jensen Huang his job as Nvidia Corp. chief executive officer.",
-     "published": "2026-11-24T01:45:36+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
+   "related": [],
    "importance": 8,
    "urgency": "timely",
-   "headline": "US adds Megaspeed to trade blacklist over AI chip controls",
-   "post": "The US Commerce Department added Singapore-based AI infrastructure company Megaspeed International to its entity list, restricting it from purchasing advanced US AI chips without a government license.",
-   "editor_note": "Verify the effective date of the Commerce Department Entity List filing for Megaspeed.",
-   "support": 0.91,
-   "published_at": "2026-11-23T20:43:55+00:00",
-   "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
-   "expires_at": "2026-11-25T08:43:55+00:00",
-   "decision": 2.47,
-   "priority": 8.722228,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "headline": "Zhangyou Dynamics raises hundreds of millions in yuan",
+   "post": "Chinese robotics firm Zhangyou Dynamics raised hundreds of millions of yuan in a funding round backed by Xiaomi, Midea Capital, and other investors to build high-end dexterous hand manufacturing lines and develop embodied AI models.",
+   "editor_note": "Verify the exact funding amount in yuan if available from secondary disclosures, as the source states hundreds of millions.",
+   "support": 0.96,
+   "published_at": "2026-11-24T02:52:00+00:00",
+   "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
+   "expires_at": "2026-11-25T14:52:00+00:00",
+   "decision": 1.8,
+   "priority": 8.592886,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "43b498f2b7e3dbe0",
@@ -4311,8 +4239,8 @@
    "first_seen_at": "2026-11-24T01:37:20.036585+00:00",
    "expires_at": "2026-11-25T08:00:00+00:00",
    "decision": 1.99,
-   "priority": 8.541896,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.559263,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "e4463fe276ea6eac",
@@ -4339,8 +4267,66 @@
    "first_seen_at": "2026-11-24T01:07:24.377852+00:00",
    "expires_at": "2026-11-25T06:47:53+00:00",
    "decision": 1.81,
-   "priority": 7.479683,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.49705,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "f1f183cc5ebb7fbc",
+   "item": {
+    "id": "f1f183cc5ebb7fbc",
+    "title": "豆包旗下AI个人助理“小豆”开启公测",
+    "url": "https://36kr.com/newsflashes/4083157108724871?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月24日，豆包旗下AI个人助理产品“小豆”正式开启公测。公测期间，小豆采用邀请制开放，用户凭邀请码即可开启体验，并获赠一定量免费额度。未来，小豆上的能力与体验也将逐步在豆包App上线。",
+    "published": "2026-11-24T02:42:12+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Doubao launches Xiaodou AI assistant public test",
+   "post": "ByteDance's Doubao launched a public test for its personal AI assistant Xiaodou using an invitation-only system that grants participants trial access and free usage quotas before a wider app release.",
+   "editor_note": "Confirm whether the invitation code requirement applies to all users during the initial public test phase.",
+   "support": 0.67,
+   "published_at": "2026-11-24T02:42:12+00:00",
+   "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
+   "expires_at": "2026-11-25T14:42:12+00:00",
+   "decision": 1.58,
+   "priority": 7.015015,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "7767689f82c2f397",
+   "item": {
+    "id": "7767689f82c2f397",
+    "title": "工信部：截至9月底，我国智能算力规模达2592EFLOPS，同比增长146%",
+    "url": "https://36kr.com/newsflashes/4083176083788931?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，据工信部消息，截至9月底，已建成5G基站525.4万座，其中5GRedCap基站数达290.9万个，5G-A网络覆盖逐步推进，千兆光网10GPON端口达3340万个，万兆光网在小区、工厂、园区等场景实现试点部署。算力基础设施加快布局。截至9月底，我国智能算力规模达2592EFLOPS，同比增长146%，有力支撑人工智能产业发展。融合应用不断拓展。深入实施5G应用“扬帆”行动，出台《关于推动工业互联网高质量发展的实施意见》，有序开展工业5G独立专网试点，深入推进5G、工业互联网赋能千行百业。目前，5G已融入全部97个国民经济大类，工业互联网已覆盖全部41个工业大类。",
+    "published": "2026-11-24T03:01:30+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "China intelligent computing scale reaches 2592 EFLOPS",
+   "post": "China's Ministry of Industry and Information Technology reported that the country's intelligent computing scale reached 2592 EFLOPS by the end of September, marking a 146 percent year-over-year increase.",
+   "editor_note": "Check whether the Ministry of Industry and Information Technology report specifies the baseline date for the 146 percent year-over-year growth figure.",
+   "support": 0.95,
+   "published_at": "2026-11-24T03:01:30+00:00",
+   "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
+   "expires_at": "2026-11-25T15:01:30+00:00",
+   "decision": 1.38,
+   "priority": 6.957284,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4367,8 +4353,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.906339,
-   "selection_reason": "Editorial importance"
+   "priority": 6.923706,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4395,26 +4381,11 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.638423,
-   "selection_reason": "Editorial importance"
+   "priority": 6.655789,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-   "source": "The New York Times",
-   "kind": "takes",
-   "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-   "summary": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
-   "queued_at": "2026-11-24T02:37:21.443172+00:00",
-   "alternates": [
-    {
-     "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
-     "source": "Financial Times"
-    }
-   ]
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -4717,49 +4688,16 @@
   "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles": "2026-11-24T01:38:19.191837+00:00",
   "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably": "2026-11-24T01:38:19.191837+00:00",
   "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips": "2026-11-24T02:37:51.799188+00:00",
-  "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight": "2026-11-24T02:37:51.799188+00:00"
+  "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight": "2026-11-24T02:37:51.799188+00:00",
+  "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html": "2026-11-24T03:08:04.873160+00:00",
+  "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": "2026-11-24T03:08:04.873160+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 5
+  "takes": 7
  },
  "triage": {
-  "eb61a8fbcc264cfc": {
-   "imp": 0.89,
-   "ai": 0.21,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
-  "a713d91e852d4cdd": {
-   "imp": 2.01,
-   "ai": 0.95,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
-  "2df67b84e1204359": {
-   "imp": 2.68,
-   "ai": 0.98,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
-  "de96e48032dfa859": {
-   "imp": 0.13,
-   "ai": 0.09,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
-  "b8b3c708c8e6e3a6": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
-  "6e8ba28c0570ce39": {
-   "imp": 0.42,
-   "ai": 0.14,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
-  "214c43e551611f0b": {
-   "imp": 1.07,
-   "ai": 0.42,
-   "ts": "2026-11-16T03:07:21.874616+00:00"
-  },
   "33c82bd50cdf395a": {
    "imp": 1.97,
    "ai": 0.98,
@@ -26274,6 +26212,56 @@
    "imp": 0.1,
    "ai": 0.01,
    "ts": "2026-11-24T02:37:21.443172+00:00"
+  },
+  "7767689f82c2f397": {
+   "imp": 1.38,
+   "ai": 0.58,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "91a29e852480bb87": {
+   "imp": 1.44,
+   "ai": 0.71,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "5dd8f38da7b89541": {
+   "imp": 0.64,
+   "ai": 0.11,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "f1f183cc5ebb7fbc": {
+   "imp": 1.58,
+   "ai": 0.97,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "e3f8aad982530400": {
+   "imp": 0.98,
+   "ai": 0.41,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "bfcbbc5c448428da": {
+   "imp": 1.51,
+   "ai": 0.92,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "ef96d1533c2a0a97": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "e9905b6b8b166e99": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "d729845624abecd3": {
+   "imp": 1.8,
+   "ai": 0.93,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
+  },
+  "e12d92ddc8ead84f": {
+   "imp": 0.29,
+   "ai": 0.13,
+   "ts": "2026-11-24T03:07:22.002410+00:00"
   }
  }
 }
