@@ -1,10 +1,5 @@
 {
  "seen": {
-  "590cb0b9c5dd23f2": "2026-11-17T07:37:24.209227+00:00",
-  "9e17b930531659cf": "2026-11-17T07:37:24.209227+00:00",
-  "e0912a6cf8de6bbd": "2026-11-17T07:37:24.209227+00:00",
-  "131b9cc885974e5c": "2026-11-17T07:37:24.209227+00:00",
-  "069f0c8fc41d6ebd": "2026-11-17T07:37:24.209227+00:00",
   "36754e618e209ea1": "2026-11-17T08:07:21.757559+00:00",
   "62a03bbfd34866cf": "2026-11-17T08:07:21.757559+00:00",
   "154f1e300781b09b": "2026-11-17T08:07:21.757559+00:00",
@@ -1884,7 +1879,26 @@
   "24384649709a5f8a": "2026-11-24T06:07:22.356294+00:00",
   "34cb78ea1212bbfc": "2026-11-24T06:07:22.356294+00:00",
   "c945b3d23771c690": "2026-11-24T06:07:22.356294+00:00",
-  "0393ac4dd236ada5": "2026-11-24T06:07:22.356294+00:00"
+  "0393ac4dd236ada5": "2026-11-24T06:07:22.356294+00:00",
+  "6ec0e6bf1c376a60": "2026-11-24T07:37:21.824116+00:00",
+  "dbca43068f5c3e90": "2026-11-24T07:37:21.824116+00:00",
+  "5862fe6cf17ff658": "2026-11-24T07:37:21.824116+00:00",
+  "9c96a2a8086379fa": "2026-11-24T07:37:21.824116+00:00",
+  "070091f3ebdcf680": "2026-11-24T07:37:21.824116+00:00",
+  "285373b393ac7d1e": "2026-11-24T07:37:21.824116+00:00",
+  "807800e9890b9ee2": "2026-11-24T07:37:21.824116+00:00",
+  "737af8d9428c6d9d": "2026-11-24T07:37:21.824116+00:00",
+  "f64fcaa21302efb6": "2026-11-24T07:37:21.824116+00:00",
+  "70bd7ea5345bc256": "2026-11-24T07:37:21.824116+00:00",
+  "2d31b96646a86d88": "2026-11-24T07:37:21.824116+00:00",
+  "2adc951bf32106a9": "2026-11-24T07:37:21.824116+00:00",
+  "0a65cbd71bc52a1a": "2026-11-24T07:37:21.824116+00:00",
+  "46b776f35cd6017c": "2026-11-24T07:37:21.824116+00:00",
+  "31a369c076412ab9": "2026-11-24T07:37:21.824116+00:00",
+  "b02e5d7aa184a667": "2026-11-24T07:37:21.824116+00:00",
+  "c09b15d481c96d25": "2026-11-24T07:37:21.824116+00:00",
+  "2d3982cdac417e68": "2026-11-24T07:37:21.824116+00:00",
+  "cf4d580baf289f38": "2026-11-24T07:37:21.824116+00:00"
  },
  "covered": [
   {
@@ -2062,11 +2076,15 @@
   {
    "headline": "Ant Group open-sources LingSante Pulse health risk prediction model",
    "ts": "2026-11-24T06:07:22.356294+00:00"
+  },
+  {
+   "headline": "CortexSpark Ventures launches 1,000 crore rupee deeptech fund",
+   "ts": "2026-11-24T07:37:21.824116+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4216,9 +4234,64 @@
    "desc": "12.9 北京，来MEET2027现场",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512354.html": {
+   "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+   "desc": "",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512362.html": {
+   "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+   "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
+  {
+   "id": "fb3bb3dbb16d2e7d",
+   "item": {
+    "id": "fb3bb3dbb16d2e7d",
+    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+    "url": "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。 文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、AutomationBench等多项基准测试中，文心5.5 Flash Preview 取得了具有竞争力的得分，并保持极致的解码速度。在CodeArena WebDev 榜单中，文心 5.5 Flash Preview以1668分位列开源模型第二、国产模型第四，紧随Kimi K3.1 Pro、Qwen3.8-Max等大参数国产模型之后。 随着模型权重开放，全球开发者可基于文心 5.5 Flash Preview 开展领域微调、工具链适配与部署优化，进一步探索模型在不同业务场景中的应用。 模型下载地址： Hugging Face https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview ModelScope https://www.modelscope.cn/models/baidu/ERNIE-5.5-Flash-Preview",
+    "published": "2026-11-24T04:10:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "e5443a2519486806",
+     "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+     "url": "https://www.qbitai.com/2026/11/512354.html",
+     "source": "QbitAI",
+     "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+     "snippet": "",
+     "published": "2026-11-24T06:22:28+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "Baidu open-sources ERNIE 5.5 Flash Preview model",
+   "post": "Baidu has open-sourced the ERNIE 5.5 Flash Preview under the Apache 2.0 license, featuring 280 billion total parameters and a 1-million-token context window on Hugging Face and ModelScope.",
+   "editor_note": "Verify token activation count (14 billion per token) and model repository availability on Hugging Face and ModelScope.",
+   "support": 0.97,
+   "published_at": "2026-11-24T04:10:00+00:00",
+   "first_seen_at": "2026-11-24T07:37:21.824116+00:00",
+   "expires_at": "2026-11-25T16:10:00+00:00",
+   "decision": 2.33,
+   "priority": 8.680665,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "49b80d2d054c6f28",
    "item": {
@@ -4244,8 +4317,8 @@
    "first_seen_at": "2026-11-24T05:07:24.074142+00:00",
    "expires_at": "2026-11-25T16:43:00+00:00",
    "decision": 2.27,
-   "priority": 7.314878,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.332154,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4273,8 +4346,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.153988,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.171264,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4302,8 +4375,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.096257,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.113532,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4330,8 +4403,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.062679,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.079954,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4358,8 +4431,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.794762,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.812037,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4388,8 +4461,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.770107,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.796019,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
@@ -4703,114 +4776,15 @@
   "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": "2026-11-24T04:39:52.045842+00:00",
   "https://36kr.com/newsflashes/4083287879537795?f=rss": "2026-11-24T05:08:33.251952+00:00",
   "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy": "2026-11-24T05:39:40.744347+00:00",
-  "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html": "2026-11-24T06:09:53.623592+00:00"
+  "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html": "2026-11-24T06:09:53.623592+00:00",
+  "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund": "2026-11-24T07:39:38.124191+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
-  "df89f048193cf636": {
-   "imp": 2.16,
-   "ai": 0.91,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "d2514a781bda1d5c": {
-   "imp": 1.86,
-   "ai": 0.76,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "3e7715aff318b681": {
-   "imp": 2.0,
-   "ai": 0.98,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "549804a438edb20a": {
-   "imp": 1.52,
-   "ai": 0.94,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "1eb1f3b8847740f4": {
-   "imp": 1.06,
-   "ai": 0.92,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "4718c7cab24dd1ac": {
-   "imp": 1.48,
-   "ai": 0.95,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "69dcc624e903d451": {
-   "imp": 1.92,
-   "ai": 0.95,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "c4789cc3abe53ce4": {
-   "imp": 0.2,
-   "ai": 0.03,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "3f2e7ee85d74ffb0": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "80d3c6b8e81ace07": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "8d7ff9771ea17d70": {
-   "imp": 0.55,
-   "ai": 0.11,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "1a0faf988bd3d054": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "015ab67b0a7fa14c": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "a2817b5781e7cdcd": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "6e7c3f071b1aeaf4": {
-   "imp": 0.59,
-   "ai": 0.07,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "a5ab42abfb4e536b": {
-   "imp": 0.26,
-   "ai": 0.05,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "c4139afe9bd059ec": {
-   "imp": 0.6,
-   "ai": 0.07,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "1ed9d0eeb35b6eca": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "517bc61bdb51cbd1": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
-  "39af99a84c5bdb7a": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-16T07:37:23.669799+00:00"
-  },
   "4093c8cb3ff7122a": {
    "imp": 1.32,
    "ai": 0.93,
@@ -26395,6 +26369,126 @@
    "imp": 0.13,
    "ai": 0.04,
    "ts": "2026-11-24T07:07:30.730941+00:00"
+  },
+  "2adc951bf32106a9": {
+   "imp": 1.98,
+   "ai": 0.98,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "b02e5d7aa184a667": {
+   "imp": 1.27,
+   "ai": 0.94,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "46b776f35cd6017c": {
+   "imp": 1.87,
+   "ai": 0.95,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "807800e9890b9ee2": {
+   "imp": 2.01,
+   "ai": 0.98,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "c09b15d481c96d25": {
+   "imp": 1.57,
+   "ai": 0.61,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "285373b393ac7d1e": {
+   "imp": 2.02,
+   "ai": 0.94,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "31a369c076412ab9": {
+   "imp": 1.22,
+   "ai": 0.3,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "5862fe6cf17ff658": {
+   "imp": 2.26,
+   "ai": 0.99,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "2d31b96646a86d88": {
+   "imp": 1.17,
+   "ai": 0.71,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "6ec0e6bf1c376a60": {
+   "imp": 1.45,
+   "ai": null,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "1a1bfb1e7c44f4a1": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "a4fe6efab229e6f8": {
+   "imp": 1.47,
+   "ai": 0.68,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "5d4293c836cff193": {
+   "imp": 0.32,
+   "ai": 0.45,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "e5443a2519486806": {
+   "imp": 2.01,
+   "ai": 0.98,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "c8797e845f1c7690": {
+   "imp": 0.27,
+   "ai": 0.08,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "e757621f3f4a657b": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "d2d1a8945aff618c": {
+   "imp": 0.24,
+   "ai": 0.09,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "62927bf4e7ff564d": {
+   "imp": 0.24,
+   "ai": 0.07,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "d932bfa5502d05d0": {
+   "imp": 0.75,
+   "ai": 0.09,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "289f291fbf7136fd": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "12a8f36e1952fc67": {
+   "imp": 0.63,
+   "ai": 0.18,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "ed4b5c555784d13d": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "ce0f7e608e142238": {
+   "imp": 0.29,
+   "ai": 0.1,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
+  },
+  "a526af408b6ef977": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-24T07:37:21.824116+00:00"
   }
  }
 }
