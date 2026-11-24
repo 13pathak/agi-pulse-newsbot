@@ -1,44 +1,5 @@
 {
  "seen": {
-  "b95791744e5c9319": "2026-11-17T11:07:23.266719+00:00",
-  "35e0894e52f89ef0": "2026-11-17T11:07:23.266719+00:00",
-  "0c786859dcb8b253": "2026-11-17T11:07:23.266719+00:00",
-  "836da8d1dcb93bcc": "2026-11-17T11:07:23.266719+00:00",
-  "b6953bc8cc8804ad": "2026-11-17T11:07:23.266719+00:00",
-  "1b45c62cb4f9b4d4": "2026-11-17T11:07:23.266719+00:00",
-  "6c7ede5aa0a30c78": "2026-11-17T11:07:23.266719+00:00",
-  "a7b4a5c38fe56596": "2026-11-17T11:07:23.266719+00:00",
-  "c7fadd9bc3372b3a": "2026-11-17T11:07:23.266719+00:00",
-  "6ccd6024d7a69413": "2026-11-17T11:07:23.266719+00:00",
-  "a234b7889c5bff1c": "2026-11-17T11:07:23.266719+00:00",
-  "417e52afc41bf5a2": "2026-11-17T11:07:23.266719+00:00",
-  "556dc0f29464f771": "2026-11-17T11:07:23.266719+00:00",
-  "3d74fd1c6c0aab44": "2026-11-17T11:07:23.266719+00:00",
-  "844f2945dfec04b3": "2026-11-17T11:07:23.266719+00:00",
-  "b2a6a9322dd3027e": "2026-11-17T11:07:23.266719+00:00",
-  "a347a6ea8eee308f": "2026-11-17T11:07:23.266719+00:00",
-  "e4e59f960ee245cb": "2026-11-17T11:07:23.266719+00:00",
-  "ee288c8acb3fd8a7": "2026-11-17T11:07:23.266719+00:00",
-  "d9741dd16d40c910": "2026-11-17T11:07:23.266719+00:00",
-  "65a290afdbae3413": "2026-11-17T11:07:23.266719+00:00",
-  "70c29550f3d8b705": "2026-11-17T11:07:23.266719+00:00",
-  "0db154ae9b6e664e": "2026-11-17T11:07:23.266719+00:00",
-  "5985af2e2b959446": "2026-11-17T11:07:23.266719+00:00",
-  "94343c90bc3eea2f": "2026-11-17T11:07:23.266719+00:00",
-  "518c47915c16d025": "2026-11-17T11:07:23.266719+00:00",
-  "fe504120c5fe3670": "2026-11-17T11:37:25.215311+00:00",
-  "e3a3b503e36bcf2c": "2026-11-17T11:37:25.215311+00:00",
-  "ea67658b3ad270d5": "2026-11-17T11:37:25.215311+00:00",
-  "9633aadebe72ed0a": "2026-11-17T11:37:25.215311+00:00",
-  "85f370fbe3b55a8f": "2026-11-17T11:37:25.215311+00:00",
-  "534d3d4fef184d11": "2026-11-17T11:37:25.215311+00:00",
-  "80bef6fbbfff98f0": "2026-11-17T11:37:25.215311+00:00",
-  "6cc0f68d4b78bff1": "2026-11-17T11:37:25.215311+00:00",
-  "313d8cd0b8dc953a": "2026-11-17T11:37:25.215311+00:00",
-  "40bf3f947e78c5c1": "2026-11-17T11:37:25.215311+00:00",
-  "fc341a48cfdd15e3": "2026-11-17T11:37:25.215311+00:00",
-  "70d643106690dbe0": "2026-11-17T11:37:25.215311+00:00",
-  "adbc5af1f29ee55a": "2026-11-17T11:37:25.215311+00:00",
   "193d743a0575fc50": "2026-11-17T12:07:30.221051+00:00",
   "470e621e806da0a5": "2026-11-17T12:07:30.221051+00:00",
   "f8ffe1c373335642": "2026-11-17T12:07:30.221051+00:00",
@@ -1917,17 +1878,27 @@
   "16b64ebf50fa3338": "2026-11-24T10:37:23.513662+00:00",
   "71cf105812b4132c": "2026-11-24T10:37:23.513662+00:00",
   "3e789ab06269ad14": "2026-11-24T10:37:23.513662+00:00",
-  "9e6cb3e08e3bfa25": "2026-11-24T10:37:23.513662+00:00"
+  "9e6cb3e08e3bfa25": "2026-11-24T10:37:23.513662+00:00",
+  "5a38f0936b0cee5d": "2026-11-24T11:37:24.571320+00:00",
+  "d1e60be0c017038c": "2026-11-24T11:37:24.571320+00:00",
+  "9be8998bee5af7f5": "2026-11-24T11:37:24.571320+00:00",
+  "be7f5e068d8b06fd": "2026-11-24T11:37:24.571320+00:00",
+  "aef0ac93c6649062": "2026-11-24T11:37:24.571320+00:00",
+  "a358f127da43d41f": "2026-11-24T11:37:24.571320+00:00",
+  "92c709b4dedffefa": "2026-11-24T11:37:24.571320+00:00",
+  "198650faf15cdedb": "2026-11-24T11:37:24.571320+00:00",
+  "25650fc4a3fbf5c8": "2026-11-24T11:37:24.571320+00:00",
+  "4f9778b19b198df5": "2026-11-24T11:37:24.571320+00:00",
+  "a0cfb675bb201f40": "2026-11-24T11:37:24.571320+00:00",
+  "0870abeeb8e6032b": "2026-11-24T11:37:24.571320+00:00",
+  "849d28956ef1cdb0": "2026-11-24T11:37:24.571320+00:00",
+  "68e68f5653839839": "2026-11-24T11:37:24.571320+00:00",
+  "c004639907713f66": "2026-11-24T11:37:24.571320+00:00",
+  "d58a89935a448d69": "2026-11-24T11:37:24.571320+00:00",
+  "f22746f4ee9739d5": "2026-11-24T11:37:24.571320+00:00",
+  "9a85e94153118326": "2026-11-24T11:37:24.571320+00:00"
  },
  "covered": [
-  {
-   "headline": "US banks ban third-party AI agents from customer accounts",
-   "ts": "2026-11-22T11:07:23.420225+00:00"
-  },
-  {
-   "headline": "Lean community formally verifies Riemann hypothesis proof",
-   "ts": "2026-11-22T11:37:20.699993+00:00"
-  },
   {
    "headline": "Lenders back 43 billion dollar Nvidia GPU deal for SpaceX",
    "ts": "2026-11-22T12:07:24.123610+00:00"
@@ -2123,11 +2094,15 @@
   {
    "headline": "Anthropic researcher produces 17-million-line Riemann hypothesis solution",
    "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  {
+   "headline": "OpenAI and Anthropic researchers voice internal AI safety concerns",
+   "ts": "2026-11-24T11:37:24.571320+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4335,8 +4310,8 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:30:34+00:00",
    "decision": 2.3,
-   "priority": 8.780857,
-   "selection_reason": "Time-sensitive story"
+   "priority": 8.798239,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "57145ae59b3f66c9",
@@ -4363,7 +4338,35 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:23:56+00:00",
    "decision": 2.16,
-   "priority": 8.73112,
+   "priority": 8.748502,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
+  },
+  {
+   "id": "d657e29b3bccdc8f",
+   "item": {
+    "id": "d657e29b3bccdc8f",
+    "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+    "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment firm A91 Partners, as it looks to expand its AI platform and engineering capabilities. The fresh capital will be used to invest in its platform and engineering talent as it looks to scale its global enterprise AI business. “With A91 as our partner, we are excited to invest in our people…",
+    "published": "2026-11-24T10:23:27+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "AidenAI raises 32 million dollars in Series A funding",
+   "post": "Enterprise AI platform AidenAI has raised $32 million in a Series A funding round led by A91 Partners. The company plans to use the funds to expand its global enterprise platform and engineering team.",
+   "editor_note": "Confirm AidenAI operating locations and product availability.",
+   "support": 0.96,
+   "published_at": "2026-11-24T10:23:27+00:00",
+   "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
+   "expires_at": "2026-11-25T22:23:27+00:00",
+   "decision": 2.56,
+   "priority": 7.819093,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4392,8 +4395,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.292797,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.310179,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4421,8 +4424,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.235066,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.252448,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4449,8 +4452,36 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.201488,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.218869,
+   "selection_reason": "Editorial importance; waiting 9.5h"
+  },
+  {
+   "id": "6cab55a705c100be",
+   "item": {
+    "id": "6cab55a705c100be",
+    "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+    "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243631740-52b615cb-fca5-454a-bb96-5a3f925f8c77-5mf7y.webp",
+    "snippet": "OpenAI and Cisco have introduced Shirudo, an open-source security tool that protects running Linux systems from vulnerabilities without requiring software updates or system restarts. Shirudo uses a Linux technology called extended Berkeley Packet Filter (eBPF) to monitor system activity and block specific malicious behaviour. It does this through small programmes called shields, which target vulne…",
+    "published": "2026-11-24T11:37:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "OpenAI and Cisco release open-source security tool Shirudo",
+   "post": "OpenAI and Cisco have released Shirudo, an open-source security tool for Linux systems. Shirudo uses extended Berkeley Packet Filter technology to block malicious behavior without requiring system updates or restarts.",
+   "editor_note": "Verify open-source repository details and license terms for Shirudo.",
+   "support": 0.96,
+   "published_at": "2026-11-24T11:37:26+00:00",
+   "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
+   "expires_at": "2026-11-25T23:37:24.571320+00:00",
+   "decision": 1.92,
+   "priority": 7.14,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4479,8 +4510,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.97832,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.004393,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "9313ce90be102217",
@@ -4508,8 +4539,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 6.962216,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.979598,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4536,8 +4567,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.933571,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 6.950953,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   }
  ],
  "details_queue": [],
@@ -4858,234 +4889,15 @@
   "https://entrackr.com/snippets/cosine-robots-raises-rs-2236-cr-led-by-avaana-capital-12836692": "2026-11-24T09:09:23.909121+00:00",
   "https://36kr.com/newsflashes/4083540399581830?f=rss": "2026-11-24T09:38:05.639013+00:00",
   "https://36kr.com/newsflashes/4083586155833729?f=rss": "2026-11-24T10:09:47.982718+00:00",
-  "https://www.wired.com/story/ai-solved-maths-most-famous-problem": "2026-11-24T10:38:15.756600+00:00"
+  "https://www.wired.com/story/ai-solved-maths-most-famous-problem": "2026-11-24T10:38:15.756600+00:00",
+  "https://36kr.com/newsflashes/4083638440356233?f=rss": "2026-11-24T11:38:29.890613+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
-  "1df21d2e2c7164f7": {
-   "imp": 1.83,
-   "ai": null,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "60684b1def093ff6": {
-   "imp": 1.62,
-   "ai": 0.85,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "aa382646f25613fd": {
-   "imp": 1.95,
-   "ai": 0.96,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "57546c4df8e7441f": {
-   "imp": 1.52,
-   "ai": 0.97,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "3f3f5e08244a8e3c": {
-   "imp": 2.24,
-   "ai": 0.95,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "87ae7de26888c577": {
-   "imp": 1.31,
-   "ai": 0.5,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "e9f76ec6a800f653": {
-   "imp": 1.84,
-   "ai": 0.44,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "6f1bc1e81c0e22ba": {
-   "imp": 1.78,
-   "ai": 0.97,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "36f0d7e931101aa2": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "b8bcc4fcd95feedd": {
-   "imp": 1.21,
-   "ai": 0.44,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "3fcdb8ad629207fa": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "e47c88dd7e21e46a": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "19401180ed6ef5bc": {
-   "imp": 0.16,
-   "ai": 0.05,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "e67243b1ff91cda3": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "fd3ca38fbd7389d6": {
-   "imp": 0.04,
-   "ai": 0.01,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "0249e48cc0095b88": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "304456d1c47afc3d": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "1cfa7a4cd04c8dc7": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "823f933f0545af19": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "e38eeca735ce6f98": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "cd39a31d8e0379a3": {
-   "imp": 0.18,
-   "ai": 0.07,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "d264c8b43cf7d6e9": {
-   "imp": 0.08,
-   "ai": 0.05,
-   "ts": "2026-11-16T11:07:24.483187+00:00"
-  },
-  "c5b9a0813eb76466": {
-   "imp": 0.21,
-   "ai": 0.03,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "0c42798b56f50024": {
-   "imp": 1.82,
-   "ai": 0.92,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "823e860ffedf5e1a": {
-   "imp": 1.98,
-   "ai": 0.85,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "993af7da125461d1": {
-   "imp": 0.81,
-   "ai": 0.8,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "256f3a36ee6b018b": {
-   "imp": 1.77,
-   "ai": 0.89,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "6041acbe9a03f175": {
-   "imp": 1.71,
-   "ai": 0.92,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "dcf50a49c0dff196": {
-   "imp": 1.77,
-   "ai": 0.93,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "12d325c1a2f4fda5": {
-   "imp": 1.9,
-   "ai": 0.99,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "dca70450b7915a01": {
-   "imp": 1.35,
-   "ai": 0.87,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "7f741cf47c7d0251": {
-   "imp": 0.54,
-   "ai": 0.08,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "19ee656bafd8b637": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "4b25c29524b34655": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "f6970c9412601ea7": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "14321a0b890ed9b1": {
-   "imp": 0.46,
-   "ai": 0.14,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "e058b6a0d8a712e0": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "62e7184c07e92bd0": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "8b89f021fd5877f2": {
-   "imp": 1.31,
-   "ai": 0.88,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "b37c3be89f15268e": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "41fdda098d6717a3": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "d21221e3d2f0784b": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "bcfb8622c2da0e8b": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
-  "f1783908cf3f7de6": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-16T11:37:21.233983+00:00"
-  },
   "f6095ec9588d0423": {
    "imp": 0.99,
    "ai": 0.6,
@@ -26725,6 +26537,126 @@
    "imp": 1.52,
    "ai": 0.55,
    "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "92c709b4dedffefa": {
+   "imp": 1.9,
+   "ai": null,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "d58a89935a448d69": {
+   "imp": 1.13,
+   "ai": 0.34,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "198650faf15cdedb": {
+   "imp": 1.59,
+   "ai": 0.9,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "68e68f5653839839": {
+   "imp": 1.58,
+   "ai": 0.95,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "c004639907713f66": {
+   "imp": 1.62,
+   "ai": 0.93,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "0870abeeb8e6032b": {
+   "imp": 1.69,
+   "ai": 0.96,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "64a7b8d0dd6e7556": {
+   "imp": 0.43,
+   "ai": 0.15,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "6cab55a705c100be": {
+   "imp": 1.92,
+   "ai": 0.94,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "d657e29b3bccdc8f": {
+   "imp": 2.56,
+   "ai": 0.97,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "aef0ac93c6649062": {
+   "imp": 1.99,
+   "ai": 0.89,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "e80fe171cc20a0a5": {
+   "imp": 0.23,
+   "ai": 0.08,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "10316285b3c6c183": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "f9ea22cdbed36b48": {
+   "imp": 0.8,
+   "ai": 0.17,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "81c653892d231194": {
+   "imp": 0.73,
+   "ai": 0.14,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "9a3139b3a027a4a2": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "066d528bb276a3a2": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "7462d756a97274f4": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "2459c957c17ce0b5": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "13c92fee890973d4": {
+   "imp": 0.39,
+   "ai": 0.07,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "92aeb635fd351aa5": {
+   "imp": 0.41,
+   "ai": 0.1,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "7f97297da772b8ae": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "e27f4e8fc17f1df1": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "0e7820e69796a40e": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "870c185031c024f5": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:37:24.571320+00:00"
   }
  }
 }
