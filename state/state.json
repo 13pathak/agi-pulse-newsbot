@@ -4335,7 +4335,7 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:30:34+00:00",
    "decision": 2.3,
-   "priority": 8.763507,
+   "priority": 8.780857,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4363,7 +4363,7 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:23:56+00:00",
    "decision": 2.16,
-   "priority": 8.713769,
+   "priority": 8.73112,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4392,8 +4392,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.275447,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.292797,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4421,8 +4421,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.217715,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.235066,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4449,8 +4449,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.184137,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.201488,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4479,8 +4479,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 6.952294,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.97832,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4508,8 +4508,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 6.944866,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.962216,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4536,8 +4536,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.91622,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 6.933571,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   }
  ],
  "details_queue": [],
@@ -26620,6 +26620,111 @@
    "imp": 0.12,
    "ai": 0.04,
    "ts": "2026-11-24T10:37:23.513662+00:00"
+  },
+  "d1e60be0c017038c": {
+   "imp": 2.34,
+   "ai": 0.79,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "f22746f4ee9739d5": {
+   "imp": 0.4,
+   "ai": null,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "a358f127da43d41f": {
+   "imp": 2.04,
+   "ai": null,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "9be8998bee5af7f5": {
+   "imp": 2.22,
+   "ai": 0.89,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "4f9778b19b198df5": {
+   "imp": 1.48,
+   "ai": 0.75,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "9a85e94153118326": {
+   "imp": 2.67,
+   "ai": 0.98,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "a0cfb675bb201f40": {
+   "imp": 1.31,
+   "ai": 0.53,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "be7f5e068d8b06fd": {
+   "imp": 2.13,
+   "ai": 0.95,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "25650fc4a3fbf5c8": {
+   "imp": 1.62,
+   "ai": 0.92,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "5a38f0936b0cee5d": {
+   "imp": 1.05,
+   "ai": null,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "849d28956ef1cdb0": {
+   "imp": 1.75,
+   "ai": 0.79,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "f71525bddae39bb9": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "a7973906be9462c8": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "f18f892de94ff297": {
+   "imp": 0.19,
+   "ai": 0.09,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "30ef74c56287aac7": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "3ad92889acf07b92": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "20077f6150a4c1e8": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "84b029a418e6b583": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "b468064604e5891f": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "c0d120c8929c842b": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
+  },
+  "75310770f8a9e297": {
+   "imp": 1.52,
+   "ai": 0.55,
+   "ts": "2026-11-24T11:07:22.425469+00:00"
   }
  }
 }
