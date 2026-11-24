@@ -1893,13 +1893,20 @@
   "ad9313f26332310c": "2026-11-24T14:07:24.274751+00:00",
   "0de59fac9bdb910e": "2026-11-24T14:07:24.274751+00:00",
   "bb92e2858aafe09a": "2026-11-24T14:07:24.274751+00:00",
-  "23846c2eba4dc45e": "2026-11-24T14:07:24.274751+00:00"
+  "23846c2eba4dc45e": "2026-11-24T14:07:24.274751+00:00",
+  "4f2a19111d34eb8b": "2026-11-24T14:37:24.392163+00:00",
+  "0dbe2676599485d9": "2026-11-24T14:37:24.392163+00:00",
+  "2b8b0d157081ae6b": "2026-11-24T14:37:24.392163+00:00",
+  "fee6509f2b6ccdfc": "2026-11-24T14:37:24.392163+00:00",
+  "2dd73fac17815771": "2026-11-24T14:37:24.392163+00:00",
+  "17f5857e2ae67ba4": "2026-11-24T14:37:24.392163+00:00",
+  "1bae32077498df66": "2026-11-24T14:37:24.392163+00:00",
+  "026f4d8990ac07b0": "2026-11-24T14:37:24.392163+00:00",
+  "ee3ae02f2750b3a5": "2026-11-24T14:37:24.392163+00:00",
+  "2264e4d4e5093a5d": "2026-11-24T14:37:24.392163+00:00",
+  "d657e29b3bccdc8f": "2026-11-24T14:37:24.392163+00:00"
  },
  "covered": [
-  {
-   "headline": "Perplexity launches Monitor API for automated web search alerts",
-   "ts": "2026-11-22T14:37:20.646911+00:00"
-  },
   {
    "headline": "Sarvam AI releases Sarvam-105B-1711 model checkpoint",
    "ts": "2026-11-22T15:37:27.426323+00:00"
@@ -2103,11 +2110,15 @@
   {
    "headline": "XPeng releases WorldGPT action model",
    "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  {
+   "headline": "AidenAI raises 32 million dollars in Series A funding",
+   "ts": "2026-11-24T14:37:24.392163+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4291,34 +4302,6 @@
  },
  "pending": [
   {
-   "id": "d657e29b3bccdc8f",
-   "item": {
-    "id": "d657e29b3bccdc8f",
-    "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
-    "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment firm A91 Partners, as it looks to expand its AI platform and engineering capabilities. The fresh capital will be used to invest in its platform and engineering talent as it looks to scale its global enterprise AI business. “With A91 as our partner, we are excited to invest in our people…",
-    "published": "2026-11-24T10:23:27+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "AidenAI raises 32 million dollars in Series A funding",
-   "post": "Enterprise AI platform AidenAI has raised $32 million in a Series A funding round led by A91 Partners. The company plans to use the funds to expand its global enterprise platform and engineering team.",
-   "editor_note": "Confirm AidenAI operating locations and product availability.",
-   "support": 0.96,
-   "published_at": "2026-11-24T10:23:27+00:00",
-   "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
-   "expires_at": "2026-11-25T22:23:27+00:00",
-   "decision": 2.56,
-   "priority": 7.905896,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
-  {
    "id": "6cab55a705c100be",
    "item": {
     "id": "6cab55a705c100be",
@@ -4343,8 +4326,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T23:37:24.571320+00:00",
    "decision": 1.92,
-   "priority": 7.726803,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
+   "priority": 7.744165,
+   "selection_reason": "Time-sensitive story; waiting 3.0h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4372,8 +4355,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.396982,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.414344,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4401,8 +4384,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.33925,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.356613,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4429,8 +4412,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.305631,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.291741,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4459,8 +4442,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.134597,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.16064,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "9313ce90be102217",
@@ -4488,8 +4471,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.066401,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.083763,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4516,11 +4499,21 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 7.037714,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.023824,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+   "source": "Inc42",
+   "kind": "takes",
+   "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+   "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment firm A91 Partners, as it looks to expand its AI platform and engineering capabilities. The fresh capital will be used to invest in its platform and engineering talent as it looks to scale its global enterprise AI business. “With A91 as our partner, we are excited to invest in our people…",
+   "queued_at": "2026-11-24T14:37:24.392163+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration": "2026-11-11T01:39:46.794215+00:00",
   "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1": "2026-11-11T01:39:46.794215+00:00",
@@ -26510,6 +26503,96 @@
    "imp": 0.09,
    "ai": 0.04,
    "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  "ee3ae02f2750b3a5": {
+   "imp": 1.39,
+   "ai": null,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "4f2a19111d34eb8b": {
+   "imp": 2.41,
+   "ai": null,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "17f5857e2ae67ba4": {
+   "imp": 1.71,
+   "ai": null,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "026f4d8990ac07b0": {
+   "imp": 1.65,
+   "ai": 0.91,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "1bae32077498df66": {
+   "imp": 1.63,
+   "ai": 0.74,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "2b8b0d157081ae6b": {
+   "imp": 2.33,
+   "ai": 0.92,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "2dd73fac17815771": {
+   "imp": 1.99,
+   "ai": 0.76,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "0dbe2676599485d9": {
+   "imp": 2.3,
+   "ai": 0.93,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "2264e4d4e5093a5d": {
+   "imp": 2.09,
+   "ai": 0.82,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "fee6509f2b6ccdfc": {
+   "imp": 2.27,
+   "ai": 0.94,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "023b75f152c4ec47": {
+   "imp": 0.47,
+   "ai": 0.08,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "ac32491921585a73": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "41d522ec7aa8a689": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "be695fd06b79df6e": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "6dde406edfaf8d4d": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "40cdf4e43c9b81b4": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "de9287240d4f6c54": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
+  },
+  "bea88f3b15aa7098": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-24T14:37:24.392163+00:00"
   }
  }
 }
