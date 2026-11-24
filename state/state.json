@@ -1,12 +1,5 @@
 {
  "seen": {
-  "193d743a0575fc50": "2026-11-17T12:07:30.221051+00:00",
-  "470e621e806da0a5": "2026-11-17T12:07:30.221051+00:00",
-  "f8ffe1c373335642": "2026-11-17T12:07:30.221051+00:00",
-  "a2bbbe5d8a449775": "2026-11-17T12:07:30.221051+00:00",
-  "c90119e6ab0d70b9": "2026-11-17T12:07:30.221051+00:00",
-  "8da944b86576ac64": "2026-11-17T12:07:30.221051+00:00",
-  "5362371a3dfac3a7": "2026-11-17T12:07:30.221051+00:00",
   "357aa42f9e6729e7": "2026-11-17T12:37:24.808192+00:00",
   "0ee0cfa58eb2e86d": "2026-11-17T12:37:24.808192+00:00",
   "ffde1170e2dba5c6": "2026-11-17T12:37:24.808192+00:00",
@@ -1896,13 +1889,14 @@
   "c004639907713f66": "2026-11-24T11:37:24.571320+00:00",
   "d58a89935a448d69": "2026-11-24T11:37:24.571320+00:00",
   "f22746f4ee9739d5": "2026-11-24T11:37:24.571320+00:00",
-  "9a85e94153118326": "2026-11-24T11:37:24.571320+00:00"
+  "9a85e94153118326": "2026-11-24T11:37:24.571320+00:00",
+  "1a5058e6eb20b5d2": "2026-11-24T12:07:23.228301+00:00",
+  "fdfa74440bce4d54": "2026-11-24T12:07:23.228301+00:00",
+  "dfe33c919c6da751": "2026-11-24T12:07:23.228301+00:00",
+  "7c35efc9557daf60": "2026-11-24T12:07:23.228301+00:00",
+  "2666fdd2854239ae": "2026-11-24T12:07:23.228301+00:00"
  },
  "covered": [
-  {
-   "headline": "Lenders back 43 billion dollar Nvidia GPU deal for SpaceX",
-   "ts": "2026-11-22T12:07:24.123610+00:00"
-  },
   {
    "headline": "OpenRouter removes inference providers over key theft and request snooping",
    "ts": "2026-11-22T12:37:20.975761+00:00"
@@ -2098,11 +2092,15 @@
   {
    "headline": "OpenAI and Anthropic researchers voice internal AI safety concerns",
    "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  {
+   "headline": "CrowdStrike to acquire Zscaler for 43.9 billion dollars",
+   "ts": "2026-11-24T12:07:23.228301+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4310,8 +4308,8 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:30:34+00:00",
    "decision": 2.3,
-   "priority": 8.798239,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.815587,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "57145ae59b3f66c9",
@@ -4338,8 +4336,8 @@
    "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
    "expires_at": "2026-11-25T22:23:56+00:00",
    "decision": 2.16,
-   "priority": 8.748502,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.76585,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "d657e29b3bccdc8f",
@@ -4366,7 +4364,35 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T22:23:27+00:00",
    "decision": 2.56,
-   "priority": 7.819093,
+   "priority": 7.836441,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "6cab55a705c100be",
+   "item": {
+    "id": "6cab55a705c100be",
+    "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+    "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243631740-52b615cb-fca5-454a-bb96-5a3f925f8c77-5mf7y.webp",
+    "snippet": "OpenAI and Cisco have introduced Shirudo, an open-source security tool that protects running Linux systems from vulnerabilities without requiring software updates or system restarts. Shirudo uses a Linux technology called extended Berkeley Packet Filter (eBPF) to monitor system activity and block specific malicious behaviour. It does this through small programmes called shields, which target vulne…",
+    "published": "2026-11-24T11:37:26+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "OpenAI and Cisco release open-source security tool Shirudo",
+   "post": "OpenAI and Cisco have released Shirudo, an open-source security tool for Linux systems. Shirudo uses extended Berkeley Packet Filter technology to block malicious behavior without requiring system updates or restarts.",
+   "editor_note": "Verify open-source repository details and license terms for Shirudo.",
+   "support": 0.96,
+   "published_at": "2026-11-24T11:37:26+00:00",
+   "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
+   "expires_at": "2026-11-25T23:37:24.571320+00:00",
+   "decision": 1.92,
+   "priority": 7.657348,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4395,8 +4421,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.310179,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.327527,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4424,8 +4450,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.252448,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.269796,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4452,36 +4478,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.218869,
-   "selection_reason": "Editorial importance; waiting 9.5h"
-  },
-  {
-   "id": "6cab55a705c100be",
-   "item": {
-    "id": "6cab55a705c100be",
-    "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
-    "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243631740-52b615cb-fca5-454a-bb96-5a3f925f8c77-5mf7y.webp",
-    "snippet": "OpenAI and Cisco have introduced Shirudo, an open-source security tool that protects running Linux systems from vulnerabilities without requiring software updates or system restarts. Shirudo uses a Linux technology called extended Berkeley Packet Filter (eBPF) to monitor system activity and block specific malicious behaviour. It does this through small programmes called shields, which target vulne…",
-    "published": "2026-11-24T11:37:26+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "OpenAI and Cisco release open-source security tool Shirudo",
-   "post": "OpenAI and Cisco have released Shirudo, an open-source security tool for Linux systems. Shirudo uses extended Berkeley Packet Filter technology to block malicious behavior without requiring system updates or restarts.",
-   "editor_note": "Verify open-source repository details and license terms for Shirudo.",
-   "support": 0.96,
-   "published_at": "2026-11-24T11:37:26+00:00",
-   "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
-   "expires_at": "2026-11-25T23:37:24.571320+00:00",
-   "decision": 1.92,
-   "priority": 7.14,
-   "selection_reason": "Editorial importance"
+   "priority": 7.236218,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4510,8 +4508,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.004393,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.030415,
+   "selection_reason": "Editorial importance; waiting 8.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4539,8 +4537,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 6.979598,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.996946,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4567,8 +4565,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.950953,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 6.968301,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   }
  ],
  "details_queue": [],
@@ -4890,129 +4888,15 @@
   "https://36kr.com/newsflashes/4083540399581830?f=rss": "2026-11-24T09:38:05.639013+00:00",
   "https://36kr.com/newsflashes/4083586155833729?f=rss": "2026-11-24T10:09:47.982718+00:00",
   "https://www.wired.com/story/ai-solved-maths-most-famous-problem": "2026-11-24T10:38:15.756600+00:00",
-  "https://36kr.com/newsflashes/4083638440356233?f=rss": "2026-11-24T11:38:29.890613+00:00"
+  "https://36kr.com/newsflashes/4083638440356233?f=rss": "2026-11-24T11:38:29.890613+00:00",
+  "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence": "2026-11-24T12:07:53.307646+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 21
+  "takes": 22
  },
  "triage": {
-  "f6095ec9588d0423": {
-   "imp": 0.99,
-   "ai": 0.6,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "b08d41343216c22d": {
-   "imp": 1.71,
-   "ai": 0.94,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "6c2b03eced2acfda": {
-   "imp": 1.62,
-   "ai": 0.86,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "d41b976617e6c158": {
-   "imp": 1.31,
-   "ai": 0.91,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "014367e3742faae3": {
-   "imp": 0.91,
-   "ai": 0.59,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "af820f9ec68dd0f3": {
-   "imp": 1.92,
-   "ai": 0.97,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "c0adf6f16c58d022": {
-   "imp": 1.27,
-   "ai": 0.8,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "b79b9dcea8829427": {
-   "imp": 1.58,
-   "ai": 0.95,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "fbecbfc2ab77434e": {
-   "imp": 2.07,
-   "ai": 0.97,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "34ae96101d7fdd26": {
-   "imp": 0.71,
-   "ai": 0.48,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "e3915f7e4cf071c4": {
-   "imp": 1.33,
-   "ai": null,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "45cfbf7c778a9703": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "37e0f1153b0e55cc": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "ed48f39783469721": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "cb3ae19ffae7cff6": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "2375a5cf3e3d989d": {
-   "imp": 1.16,
-   "ai": 0.2,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "a9e99c7193147c54": {
-   "imp": 0.38,
-   "ai": 0.1,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "6ee042668ccf4378": {
-   "imp": 0.3,
-   "ai": 0.07,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "3a0851e1953dfbc3": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "cbf7c302cb751bba": {
-   "imp": 0.15,
-   "ai": 0.05,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "084924e8474bb225": {
-   "imp": 0.52,
-   "ai": 0.08,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "18dfa70930055692": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
-  "6af4a142defcfe00": {
-   "imp": 0.3,
-   "ai": 0.05,
-   "ts": "2026-11-16T12:07:26.735425+00:00"
-  },
   "fcbaf2152a3da36d": {
    "imp": 2.08,
    "ai": null,
@@ -26657,6 +26541,61 @@
    "imp": 0.09,
    "ai": 0.02,
    "ts": "2026-11-24T11:37:24.571320+00:00"
+  },
+  "7c35efc9557daf60": {
+   "imp": 0.99,
+   "ai": 0.95,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "fdfa74440bce4d54": {
+   "imp": 1.32,
+   "ai": 0.9,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "dfe33c919c6da751": {
+   "imp": 1.07,
+   "ai": 0.92,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "2666fdd2854239ae": {
+   "imp": 2.2,
+   "ai": 0.66,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "1a5058e6eb20b5d2": {
+   "imp": 1.26,
+   "ai": null,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "ec9ff4decf56b841": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "a98d77c6a6ecbf81": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "111eae1f81c6ca7c": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "683cd891b8c82efa": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "8894c018d4842fa4": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
+  },
+  "c6f6e08f5b6c593f": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-24T12:07:23.228301+00:00"
   }
  }
 }
