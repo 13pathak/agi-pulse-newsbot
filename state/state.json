@@ -1,20 +1,5 @@
 {
  "seen": {
-  "58da9c66b1456ac9": "2026-11-17T14:07:26.008233+00:00",
-  "d93081553b9b4583": "2026-11-17T14:07:26.008233+00:00",
-  "306e2fbc2202adf7": "2026-11-17T14:07:26.008233+00:00",
-  "9f3cf43c36ff7ccc": "2026-11-17T14:07:26.008233+00:00",
-  "2a8f3e96bb721abc": "2026-11-17T14:07:26.008233+00:00",
-  "aa21b3ba6af1b610": "2026-11-17T14:07:26.008233+00:00",
-  "f4e397fe33d7dfe4": "2026-11-17T14:07:26.008233+00:00",
-  "41132f79f252d7e4": "2026-11-17T14:07:26.008233+00:00",
-  "c2ee8493490a8057": "2026-11-17T14:07:26.008233+00:00",
-  "059a57273e09bea5": "2026-11-17T14:07:26.008233+00:00",
-  "2f0718683799d367": "2026-11-17T14:07:26.008233+00:00",
-  "47464bcdd529060b": "2026-11-17T14:07:26.008233+00:00",
-  "a5d715af014e9607": "2026-11-17T14:07:26.008233+00:00",
-  "f66c77188052f635": "2026-11-17T14:07:26.008233+00:00",
-  "bac4a619fb3c6fd1": "2026-11-17T14:07:26.008233+00:00",
   "5c3a37d25e002808": "2026-11-17T15:37:39.393037+00:00",
   "13af9aa1fa9c8072": "2026-11-17T15:37:39.393037+00:00",
   "e8a32e5f6965cfa2": "2026-11-17T15:37:39.393037+00:00",
@@ -1904,7 +1889,11 @@
   "374eafd5e478c4e8": "2026-11-24T13:37:22.420388+00:00",
   "94831fe1288adcbe": "2026-11-24T13:37:22.420388+00:00",
   "3926ed22f6864eef": "2026-11-24T13:37:22.420388+00:00",
-  "fb7a1ad02384f987": "2026-11-24T13:37:22.420388+00:00"
+  "fb7a1ad02384f987": "2026-11-24T13:37:22.420388+00:00",
+  "ad9313f26332310c": "2026-11-24T14:07:24.274751+00:00",
+  "0de59fac9bdb910e": "2026-11-24T14:07:24.274751+00:00",
+  "bb92e2858aafe09a": "2026-11-24T14:07:24.274751+00:00",
+  "23846c2eba4dc45e": "2026-11-24T14:07:24.274751+00:00"
  },
  "covered": [
   {
@@ -2110,11 +2099,15 @@
   {
    "headline": "Amazon reports AI agents found and exploited 0-day vulnerability",
    "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  {
+   "headline": "XPeng releases WorldGPT action model",
+   "ts": "2026-11-24T14:07:24.274751+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4298,35 +4291,6 @@
  },
  "pending": [
   {
-   "id": "23846c2eba4dc45e",
-   "item": {
-    "id": "23846c2eba4dc45e",
-    "title": "小鹏发布图灵世界模型 WorldGPT",
-    "url": "https://36kr.com/newsflashes/4083764431776385?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，据小鹏汽车官微，近日，小鹏图灵世界模型家族新添一员——世界动作模型 WorldGPT。它在小鹏物理AI体系中作为云端teacher model，依托基座模型实现跨本体能力蒸馏和迁移，降低新本体的开发边际成本。同时，给它历史画面和指令，它会规划动作，预演世界随之发生的变化，看懂场景的语义与结构并用语言进行推理决策。据目前所知，这是首个能够在水、陆、空三栖六类本体完成预测与行动规划的世界模型。",
-    "published": "2026-11-24T13:00:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "XPeng releases WorldGPT action model",
-   "post": "XPeng has launched WorldGPT, a world action model designed to serve as a cloud teacher model across water, land, and air robotic platforms.",
-   "editor_note": "Verify if WorldGPT is currently deployed or still in testing phase.",
-   "support": 0.95,
-   "published_at": "2026-11-24T13:00:00+00:00",
-   "first_seen_at": "2026-11-24T13:07:25.091835+00:00",
-   "expires_at": "2026-11-26T01:00:00+00:00",
-   "decision": 1.88,
-   "priority": 8.640568,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "d657e29b3bccdc8f",
    "item": {
     "id": "d657e29b3bccdc8f",
@@ -4351,8 +4315,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T22:23:27+00:00",
    "decision": 2.56,
-   "priority": 7.888517,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.905896,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "6cab55a705c100be",
@@ -4379,8 +4343,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T23:37:24.571320+00:00",
    "decision": 1.92,
-   "priority": 7.709424,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 7.726803,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4408,8 +4372,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.379603,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.396982,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4437,8 +4401,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.321871,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.33925,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4465,8 +4429,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.288293,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.305631,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4495,8 +4459,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.108528,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.134597,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4524,8 +4488,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.049022,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.066401,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4552,8 +4516,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 7.020376,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.037714,
+   "selection_reason": "Editorial importance; waiting 12.0h"
   }
  ],
  "details_queue": [],
@@ -4887,81 +4851,6 @@
   "takes": 25
  },
  "triage": {
-  "29a19e1aacc64ded": {
-   "imp": 0.51,
-   "ai": null,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "dd02c35afc864bbe": {
-   "imp": 1.35,
-   "ai": null,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "0a1a9bbf6f1b470a": {
-   "imp": 2.28,
-   "ai": 0.98,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "1c2c9f1fcc320aff": {
-   "imp": 2.48,
-   "ai": 0.98,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "0bc322583e6f0775": {
-   "imp": 1.09,
-   "ai": null,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "068cdd590fa526ab": {
-   "imp": 2.0,
-   "ai": 0.95,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "3310a493ca30e1bf": {
-   "imp": 2.26,
-   "ai": 0.92,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "bbb3b0a369d26add": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "012c257504c88b14": {
-   "imp": 0.52,
-   "ai": 0.15,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "a968274ed2e40f9e": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "7b954a1481c125bb": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "64df064e17bc07f7": {
-   "imp": 0.18,
-   "ai": 0.04,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "6ae28f28d147edf6": {
-   "imp": 0.22,
-   "ai": 0.09,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "678133a22d884c3a": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
-  "585d5a44e772a103": {
-   "imp": 0.16,
-   "ai": 0.05,
-   "ts": "2026-11-16T14:07:22.847927+00:00"
-  },
   "b66ff0c9eab30ed7": {
    "imp": 2.36,
    "ai": 0.88,
@@ -26591,6 +26480,36 @@
    "imp": 0.12,
    "ai": 0.04,
    "ts": "2026-11-24T13:37:22.420388+00:00"
+  },
+  "0de59fac9bdb910e": {
+   "imp": 1.88,
+   "ai": 0.87,
+   "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  "bb92e2858aafe09a": {
+   "imp": 1.76,
+   "ai": 0.84,
+   "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  "ad9313f26332310c": {
+   "imp": 2.18,
+   "ai": 0.88,
+   "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  "2b6adff4ef555278": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  "6425b99ec7efd9e2": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-24T14:07:24.274751+00:00"
+  },
+  "0ff73eff7f6d5364": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-24T14:07:24.274751+00:00"
   }
  }
 }
