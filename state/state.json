@@ -1,16 +1,5 @@
 {
  "seen": {
-  "ff3a14412f9f1a02": "2026-11-17T13:07:27.117770+00:00",
-  "6344945c04695554": "2026-11-17T13:07:27.117770+00:00",
-  "bb8ed4a32dc98406": "2026-11-17T13:07:27.117770+00:00",
-  "0e99676a63ec5372": "2026-11-17T13:07:27.117770+00:00",
-  "68702b9d51dbca99": "2026-11-17T13:07:27.117770+00:00",
-  "8e3b07fd9f47da16": "2026-11-17T13:07:27.117770+00:00",
-  "d0237e60f42717d8": "2026-11-17T13:07:27.117770+00:00",
-  "2e92777af3f5b283": "2026-11-17T13:07:27.117770+00:00",
-  "81b0d3860e77689d": "2026-11-17T13:07:27.117770+00:00",
-  "31e0b12526468f2b": "2026-11-17T13:07:27.117770+00:00",
-  "8d86fa1cf0212392": "2026-11-17T13:07:27.117770+00:00",
   "58da9c66b1456ac9": "2026-11-17T14:07:26.008233+00:00",
   "d93081553b9b4583": "2026-11-17T14:07:26.008233+00:00",
   "306e2fbc2202adf7": "2026-11-17T14:07:26.008233+00:00",
@@ -1901,7 +1890,14 @@
   "4d4f41c7508663e5": "2026-11-24T12:37:22.657831+00:00",
   "07dd3808672d6d24": "2026-11-24T12:37:22.657831+00:00",
   "91296b1e5dd4b66a": "2026-11-24T12:37:22.657831+00:00",
-  "e7d64e13bfe560ba": "2026-11-24T12:37:22.657831+00:00"
+  "e7d64e13bfe560ba": "2026-11-24T12:37:22.657831+00:00",
+  "bd235dd9703f225e": "2026-11-24T13:07:25.091835+00:00",
+  "1816844b35faca27": "2026-11-24T13:07:25.091835+00:00",
+  "8bca3e7a606e0835": "2026-11-24T13:07:25.091835+00:00",
+  "54b740b0f7039169": "2026-11-24T13:07:25.091835+00:00",
+  "dbfcce5e78635338": "2026-11-24T13:07:25.091835+00:00",
+  "881bf1f7bf28e2bc": "2026-11-24T13:07:25.091835+00:00",
+  "57145ae59b3f66c9": "2026-11-24T13:07:25.091835+00:00"
  },
  "covered": [
   {
@@ -2103,11 +2099,15 @@
   {
    "headline": "Google launches Momentum initiative for Indian startups",
    "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  {
+   "headline": "Cashfree enables AI agents to make wallet payments",
+   "ts": "2026-11-24T13:07:25.091835+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-24",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4291,34 +4291,6 @@
  },
  "pending": [
   {
-   "id": "57145ae59b3f66c9",
-   "item": {
-    "id": "57145ae59b3f66c9",
-    "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
-    "url": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769127949470-e068a9a2-7009-4f16-b471-f49141ac788c-hpgny.webp",
-    "snippet": "Payments platform Cashfree has launched Cashfree Wallet, which lets users authorise their personal AI agents to make payments. Cashfree Wallet lets users choose what budget their AI agents use and the rules they must follow. AI agents can currently only use Cashfree Wallet to pay bills, but the company has planned functionality for travel, food, groceries, and e-commerce payments. Users can link t…",
-    "published": "2026-11-24T10:23:56+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Cashfree enables AI agents to make wallet payments",
-   "post": "Payments platform Cashfree launched Cashfree Wallet, allowing users to authorize personal AI agents to make bill payments under set budget rules, with plans to expand into e-commerce and travel.",
-   "editor_note": "Confirm what security authentication methods users must complete before agents execute wallet transactions.",
-   "support": 0.94,
-   "published_at": "2026-11-24T10:23:56+00:00",
-   "first_seen_at": "2026-11-24T10:37:23.513662+00:00",
-   "expires_at": "2026-11-25T22:23:56+00:00",
-   "decision": 2.16,
-   "priority": 8.783205,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "fb7a1ad02384f987",
    "item": {
     "id": "fb7a1ad02384f987",
@@ -4343,7 +4315,36 @@
    "first_seen_at": "2026-11-24T12:37:22.657831+00:00",
    "expires_at": "2026-11-26T00:30:05+00:00",
    "decision": 2.21,
-   "priority": 8.73329,
+   "priority": 8.750674,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
+  },
+  {
+   "id": "23846c2eba4dc45e",
+   "item": {
+    "id": "23846c2eba4dc45e",
+    "title": "小鹏发布图灵世界模型 WorldGPT",
+    "url": "https://36kr.com/newsflashes/4083764431776385?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，据小鹏汽车官微，近日，小鹏图灵世界模型家族新添一员——世界动作模型 WorldGPT。它在小鹏物理AI体系中作为云端teacher model，依托基座模型实现跨本体能力蒸馏和迁移，降低新本体的开发边际成本。同时，给它历史画面和指令，它会规划动作，预演世界随之发生的变化，看懂场景的语义与结构并用语言进行推理决策。据目前所知，这是首个能够在水、陆、空三栖六类本体完成预测与行动规划的世界模型。",
+    "published": "2026-11-24T13:00:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "XPeng releases WorldGPT action model",
+   "post": "XPeng has launched WorldGPT, a world action model designed to serve as a cloud teacher model across water, land, and air robotic platforms.",
+   "editor_note": "Verify if WorldGPT is currently deployed or still in testing phase.",
+   "support": 0.95,
+   "published_at": "2026-11-24T13:00:00+00:00",
+   "first_seen_at": "2026-11-24T13:07:25.091835+00:00",
+   "expires_at": "2026-11-26T01:00:00+00:00",
+   "decision": 1.88,
+   "priority": 8.623232,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4371,8 +4372,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T22:23:27+00:00",
    "decision": 2.56,
-   "priority": 7.853797,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.871181,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "6cab55a705c100be",
@@ -4399,8 +4400,8 @@
    "first_seen_at": "2026-11-24T11:37:24.571320+00:00",
    "expires_at": "2026-11-25T23:37:24.571320+00:00",
    "decision": 1.92,
-   "priority": 7.674704,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 7.692088,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "f1f183cc5ebb7fbc",
@@ -4428,8 +4429,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T14:42:12+00:00",
    "decision": 1.58,
-   "priority": 7.344883,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.362267,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "7767689f82c2f397",
@@ -4457,8 +4458,8 @@
    "first_seen_at": "2026-11-24T03:07:22.002410+00:00",
    "expires_at": "2026-11-25T15:01:30+00:00",
    "decision": 1.38,
-   "priority": 7.287151,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.304536,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4485,8 +4486,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.253573,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.270958,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4515,8 +4516,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.056448,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 7.082525,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   },
   {
    "id": "9313ce90be102217",
@@ -4544,8 +4545,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.014302,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.031686,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4572,8 +4573,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.985657,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.003041,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   }
  ],
  "details_queue": [],
@@ -4897,89 +4898,15 @@
   "https://www.wired.com/story/ai-solved-maths-most-famous-problem": "2026-11-24T10:38:15.756600+00:00",
   "https://36kr.com/newsflashes/4083638440356233?f=rss": "2026-11-24T11:38:29.890613+00:00",
   "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence": "2026-11-24T12:07:53.307646+00:00",
-  "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups": "2026-11-24T12:37:53.446407+00:00"
+  "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups": "2026-11-24T12:37:53.446407+00:00",
+  "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users": "2026-11-24T13:07:55.321508+00:00"
  },
  "details_daily": {
   "date": "2026-11-24",
   "count": 1,
-  "takes": 23
+  "takes": 24
  },
  "triage": {
-  "2b2bb87b4857660b": {
-   "imp": 2.0,
-   "ai": null,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "cec39e8a1fd8f406": {
-   "imp": 1.21,
-   "ai": 0.84,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "3f0451f8ded9cca3": {
-   "imp": 2.11,
-   "ai": 0.9,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "33d5a68782af8d56": {
-   "imp": 0.5,
-   "ai": 0.18,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "cd92b346f1d29713": {
-   "imp": 1.31,
-   "ai": 0.89,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "b353a5fa6121ebc9": {
-   "imp": 1.23,
-   "ai": null,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "91cc62e34cf9d162": {
-   "imp": 1.78,
-   "ai": 0.88,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "a17072a65e8a3308": {
-   "imp": 0.04,
-   "ai": 0.02,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "e98eac5295b72021": {
-   "imp": 0.5,
-   "ai": 0.11,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "a0e3c6a9de736fd4": {
-   "imp": 0.37,
-   "ai": 0.07,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "30502cde36393f79": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "6327a9202a75c225": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "ae8026eb7a7d871d": {
-   "imp": 1.46,
-   "ai": 0.78,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "ec167febd7cd520d": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
-  "d779cc79414aa3a5": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-16T13:07:26.407580+00:00"
-  },
   "c0c6df2323eb0c08": {
    "imp": 0.65,
    "ai": 0.17,
@@ -26579,6 +26506,71 @@
    "imp": 0.08,
    "ai": 0.03,
    "ts": "2026-11-24T12:37:22.657831+00:00"
+  },
+  "bd235dd9703f225e": {
+   "imp": 1.35,
+   "ai": null,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "1816844b35faca27": {
+   "imp": 1.31,
+   "ai": 0.92,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "54b740b0f7039169": {
+   "imp": 1.45,
+   "ai": 0.95,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "23846c2eba4dc45e": {
+   "imp": 1.88,
+   "ai": 0.96,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "dbfcce5e78635338": {
+   "imp": 0.59,
+   "ai": 0.58,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "881bf1f7bf28e2bc": {
+   "imp": 0.43,
+   "ai": 0.54,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "5848965c06abea93": {
+   "imp": 1.55,
+   "ai": 0.62,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "8b348366f538c898": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "e0462aaf3421e4e0": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "930d7420f2f61ad2": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "5451bbdb794bc5f2": {
+   "imp": 0.15,
+   "ai": 0.05,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "9a1b5ae84fcf1532": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
+  },
+  "1097d0e4222739a8": {
+   "imp": 1.09,
+   "ai": 0.11,
+   "ts": "2026-11-24T13:07:25.091835+00:00"
   }
  }
 }
