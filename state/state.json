@@ -1,9 +1,5 @@
 {
  "seen": {
-  "0d1b11d2d19921a7": "2026-11-18T12:37:24.202073+00:00",
-  "82df8b1098237927": "2026-11-18T12:37:24.202073+00:00",
-  "32bff37675d6f2cf": "2026-11-18T12:37:24.202073+00:00",
-  "07e36cf36e9d0810": "2026-11-18T12:37:24.202073+00:00",
   "9c0a1db7310df6bb": "2026-11-18T13:37:25.451880+00:00",
   "af5921fb19f009a4": "2026-11-18T13:37:25.451880+00:00",
   "bd9ac483b6a32d30": "2026-11-18T13:37:25.451880+00:00",
@@ -1845,13 +1841,19 @@
   "39c30e708963a87b": "2026-11-25T12:07:23.352201+00:00",
   "6e48e4ac6ad0ac25": "2026-11-25T12:07:23.352201+00:00",
   "86256bf77bd056fd": "2026-11-25T12:07:23.352201+00:00",
-  "6466df4b564d9072": "2026-11-25T12:07:23.352201+00:00"
+  "6466df4b564d9072": "2026-11-25T12:07:23.352201+00:00",
+  "0170a0f23e6d5b97": "2026-11-25T12:37:23.202578+00:00",
+  "1848fef936efeea6": "2026-11-25T12:37:23.202578+00:00",
+  "6069ebc63820d2ba": "2026-11-25T12:37:23.202578+00:00",
+  "03b1cffc0306fc61": "2026-11-25T12:37:23.202578+00:00",
+  "b4817ec40d9dcf2e": "2026-11-25T12:37:23.202578+00:00",
+  "e3875802d3ff9f5c": "2026-11-25T12:37:23.202578+00:00",
+  "32c88bb7de856ddb": "2026-11-25T12:37:23.202578+00:00",
+  "45d6d14cd9d6d7f5": "2026-11-25T12:37:23.202578+00:00",
+  "f1e879198cf3f2ec": "2026-11-25T12:37:23.202578+00:00",
+  "bbd6b86593133d27": "2026-11-25T12:37:23.202578+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI GPT-6.2 Astra solves gap theorem",
-   "ts": "2026-11-23T12:37:23.686677+00:00"
-  },
   {
    "headline": "Startup Marlowe Raises 277 Million Dollars for Alternative Chips",
    "ts": "2026-11-23T13:07:23.722689+00:00"
@@ -2079,11 +2081,15 @@
   {
    "headline": "16-year-old founder raises 4 crore rupees from Y Combinator",
    "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  {
+   "headline": "DeepMind engineers mathematically prove Signal encryption protocol",
+   "ts": "2026-11-25T12:37:23.202578+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4355,19 +4361,25 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
    "published": "2026-11-25T10:22:09.644000+00:00",
    "excerpt": "Most useful knowledge is written and digitized in English. Most of the people who need it speak, and think, in their own regional languages like Hindi, Tamil, Telugu, Gujarati, Marathi and many others. Many would rather talk than type. We built a small voice agent to close that gap, using CUGA as the agent harness. This post explains the use case and what we learned. You can try it yourself in CUGA Apps. A farmer asks a question aloud, in their own language: how do I tell good seed from bad? The agent: If someone asks about cricket or coding, it politely steers them back to farming instead of making something up. CUGA (ConfigUrable Generalist Agent) is IBM Research's open-source agent harness. It handles the model wiring, tool management, state and guardrails, so you write tools and a prom…"
+  },
+  "https://www.qbitai.com/2026/11/512565.html": {
+   "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+   "desc": "揭秘General Looped Model",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
   {
-   "id": "bbd6b86593133d27",
+   "id": "e2ab686ef363227a",
    "item": {
-    "id": "bbd6b86593133d27",
-    "title": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work",
-    "source": "Tom's Hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZZNtLfjyEWc5zZUk4vJ8ED-1920-80.png",
-    "snippet": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
-    "published": "2026-11-25T12:00:00+00:00",
+    "id": "e2ab686ef363227a",
+    "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+    "source": "South China Morning Post",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/e97778f9-b61d-459e-8846-bc8d1c5c3edb_08f9b1bb.jpg?itok=YP_mCtqs&v=1795609970",
+    "snippet": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content, following media reports that its AI-generated characters had allegedly sent inappropriate messages to minors. The development marks the latest controversy to hit the embattled Hong Kong-listed firm, which has seen its stock pric…",
+    "published": "2026-11-25T12:32:51+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -4375,15 +4387,15 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "DeepMind engineers mathematically prove Signal encryption protocol",
-   "post": "Google DeepMind engineers used the AlphaProof Code framework to construct a mathematical proof of the Signal encryption protocol via human-bot collaboration.",
-   "editor_note": "Check whether DeepMind published the full formal proof codebase publicly.",
-   "support": 0.96,
-   "published_at": "2026-11-25T12:00:00+00:00",
-   "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
-   "expires_at": "2026-11-27T00:00:00+00:00",
-   "decision": 1.79,
-   "priority": 7.593246,
+   "headline": "Apple removes MiniMax AI app Talkie globally over content concerns",
+   "post": "Apple has removed Talkie, an AI companion app developed by Chinese AI startup MiniMax, from its App Store worldwide. The removal follows media reports that AI characters sent inappropriate content to minors.",
+   "editor_note": "Confirm whether the removal applies to Google Play Store and check for MiniMax statement.",
+   "support": 0.9,
+   "published_at": "2026-11-25T12:32:51+00:00",
+   "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
+   "expires_at": "2026-11-27T00:32:51+00:00",
+   "decision": 1.68,
+   "priority": 7.5579,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4412,8 +4424,36 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.276158,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.293517,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "fc509d5dcb94321f",
+   "item": {
+    "id": "fc509d5dcb94321f",
+    "title": "Wipro to Onboard BP's 3,000-Member Finance Team in AI Transformation Deal",
+    "url": "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243360721-4e32a5c5-3f19-4006-ba27-a95eedff7327-6u69uo.webp",
+    "snippet": "BP has signed a supplier partnership with Wipro to transform its finance operations, with around 3,000 employees in India, Hungary, and Malaysia set to move to the Indian IT services company. The new operating model is expected to take effect in 2027, subject to applicable conditions. The transfer reflects a growing trend of Indian IT services firms taking over existing enterprise teams and operat…",
+    "published": "2026-11-25T12:37:08+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Wipro to absorb 3,000 BP finance staff in AI transformation deal",
+   "post": "BP has signed an AI transformation agreement with Wipro that will transfer around 3,000 finance operations employees in India, Hungary, and Malaysia to the Indian IT firm starting in 2027.",
+   "editor_note": "Verify effective date and whether local labor consultations are required for transferred staff.",
+   "support": 0.83,
+   "published_at": "2026-11-25T12:37:08+00:00",
+   "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
+   "expires_at": "2026-11-27T00:37:08+00:00",
+   "decision": 1.72,
+   "priority": 7.073216,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4440,7 +4480,7 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.036124,
+   "priority": 7.053483,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4469,14 +4509,12 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.671713,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.689073,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00",
   "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11": "2026-11-11T13:09:27.185558+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems": "2026-11-11T13:38:02.174146+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center": "2026-11-11T14:08:09.130075+00:00",
@@ -4802,84 +4840,15 @@
   "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T10:40:28.745195+00:00",
   "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india": "2026-11-25T11:07:58.667541+00:00",
   "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25": "2026-11-25T11:38:00.789777+00:00",
-  "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25": "2026-11-25T12:09:30.798423+00:00"
+  "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25": "2026-11-25T12:09:30.798423+00:00",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work": "2026-11-25T12:38:15.657443+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 2,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
-  "ffde1170e2dba5c6": {
-   "imp": 1.33,
-   "ai": 0.46,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "0184ae79e03b2eb7": {
-   "imp": 2.51,
-   "ai": 0.94,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "357aa42f9e6729e7": {
-   "imp": 1.83,
-   "ai": 0.9,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "0ee0cfa58eb2e86d": {
-   "imp": 1.32,
-   "ai": 0.84,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "3decd8b5d05673e4": {
-   "imp": 2.23,
-   "ai": 0.97,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "11364f549a51dac9": {
-   "imp": 0.18,
-   "ai": 0.01,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "eb5b411f7e90fdeb": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "8bb42fe1bcdf5cc2": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "9d96d568386a7289": {
-   "imp": 1.53,
-   "ai": 0.47,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "21e5f6d7ce3ffe91": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "d0f880c4f9d2b065": {
-   "imp": 0.87,
-   "ai": 0.2,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "53f08a956184db1c": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "ec3170fa02d4e70e": {
-   "imp": 0.58,
-   "ai": 0.09,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
-  "18663335af9ea668": {
-   "imp": 1.45,
-   "ai": 0.18,
-   "ts": "2026-11-17T12:37:24.808192+00:00"
-  },
   "bb8ed4a32dc98406": {
    "imp": 2.15,
    "ai": 0.92,
@@ -26194,6 +26163,106 @@
    "imp": 0.09,
    "ai": 0.03,
    "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "0170a0f23e6d5b97": {
+   "imp": 2.08,
+   "ai": 0.91,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "6069ebc63820d2ba": {
+   "imp": 1.91,
+   "ai": 0.75,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "03b1cffc0306fc61": {
+   "imp": 1.82,
+   "ai": 0.45,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "e2ab686ef363227a": {
+   "imp": 1.68,
+   "ai": 0.97,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "1848fef936efeea6": {
+   "imp": 2.0,
+   "ai": 0.94,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "f1e879198cf3f2ec": {
+   "imp": 0.66,
+   "ai": 0.58,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "32c88bb7de856ddb": {
+   "imp": 1.18,
+   "ai": 0.94,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "45d6d14cd9d6d7f5": {
+   "imp": 1.2,
+   "ai": 0.62,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "fc509d5dcb94321f": {
+   "imp": 1.72,
+   "ai": 0.65,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "21a31ecf29dc22e3": {
+   "imp": 0.58,
+   "ai": 0.14,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "8d8f654c4b697240": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "b4817ec40d9dcf2e": {
+   "imp": 1.67,
+   "ai": 0.97,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "e3875802d3ff9f5c": {
+   "imp": 1.39,
+   "ai": 0.97,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "cfe55fae6809d56b": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "515013794ce1622b": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "874b96c58d5bbd8a": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "6c69ca3682c7a60a": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "38600e99b3d39e53": {
+   "imp": 0.13,
+   "ai": 0.07,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "5eb507959faf7b89": {
+   "imp": 0.49,
+   "ai": 0.06,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "cdbc53b2d9d44dd4": {
+   "imp": 0.44,
+   "ai": 0.08,
+   "ts": "2026-11-25T12:37:23.202578+00:00"
   }
  }
 }
