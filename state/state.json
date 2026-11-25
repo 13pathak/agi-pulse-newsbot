@@ -1,14 +1,5 @@
 {
  "seen": {
-  "efa75184cae29886": "2026-11-18T11:37:23.301342+00:00",
-  "52a552a79ca15465": "2026-11-18T11:37:23.301342+00:00",
-  "ccd68f4483c4364e": "2026-11-18T11:37:23.301342+00:00",
-  "42162d1676a956fa": "2026-11-18T11:37:23.301342+00:00",
-  "7ba817349e1597d3": "2026-11-18T11:37:23.301342+00:00",
-  "d1699bb1c7a2d19e": "2026-11-18T11:37:23.301342+00:00",
-  "f838ce9f4561d336": "2026-11-18T11:37:23.301342+00:00",
-  "231a189cb27a66f1": "2026-11-18T11:37:23.301342+00:00",
-  "55dde3921be9b1d7": "2026-11-18T11:37:23.301342+00:00",
   "45f86b19440576fc": "2026-11-18T12:07:25.036261+00:00",
   "7bbaa8f8edafb298": "2026-11-18T12:07:25.036261+00:00",
   "74b926ce1c843400": "2026-11-18T12:07:25.036261+00:00",
@@ -1849,13 +1840,17 @@
   "cece8cd9272f881b": "2026-11-25T11:07:24.352931+00:00",
   "c8a7a11c2a980e51": "2026-11-25T11:07:24.352931+00:00",
   "dd390125b4c42002": "2026-11-25T11:07:24.352931+00:00",
-  "6b0e667a74b4ec51": "2026-11-25T11:07:24.352931+00:00"
+  "6b0e667a74b4ec51": "2026-11-25T11:07:24.352931+00:00",
+  "e11f0fdacfef6df3": "2026-11-25T11:37:24.071864+00:00",
+  "63d3b91ac76de411": "2026-11-25T11:37:24.071864+00:00",
+  "c781e5669986b7ea": "2026-11-25T11:37:24.071864+00:00",
+  "88b49d90ca726ac4": "2026-11-25T11:37:24.071864+00:00",
+  "4096f28df95d7e9d": "2026-11-25T11:37:24.071864+00:00",
+  "0c537a30d7f31acc": "2026-11-25T11:37:24.071864+00:00",
+  "916dac60732a0481": "2026-11-25T11:37:24.071864+00:00",
+  "b707bf66a455676b": "2026-11-25T11:37:24.071864+00:00"
  },
  "covered": [
-  {
-   "headline": "CERT-In warns of agentic AI used in financial cyberattacks",
-   "ts": "2026-11-23T11:37:34.072312+00:00"
-  },
   {
    "headline": "Sierra Finalizes Over 1.75 Billion Dollar Funding Round",
    "ts": "2026-11-23T12:07:23.827714+00:00"
@@ -2083,11 +2078,15 @@
   {
    "headline": "Anthropic expands Claude Duet AI agent preview to India",
    "ts": "2026-11-25T11:07:24.352931+00:00"
+  },
+  {
+   "headline": "OpenAI adds GPT-6.2 to ChatGPT Chat tab for paid tiers",
+   "ts": "2026-11-25T11:37:24.071864+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4363,6 +4362,34 @@
  },
  "pending": [
   {
+   "id": "6466df4b564d9072",
+   "item": {
+    "id": "6466df4b564d9072",
+    "title": "16-yr-old drops out of school to launch AI startup, gets Rs 4 crore from Y Combinator",
+    "url": "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25?utm_source=rss",
+    "source": "India Today",
+    "image": "",
+    "snippet": "16-yr-old drops out of school to launch AI startup, gets Rs 4 crore from Y Combinator",
+    "published": "2026-11-25T11:28:40+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "16-year-old founder raises 4 crore rupees from Y Combinator",
+   "post": "A 16-year-old founder has dropped out of school to launch an AI startup after securing 4 crore rupees in funding from startup accelerator Y Combinator.",
+   "editor_note": "Verify the startup's name and core AI product offer.",
+   "support": 0.91,
+   "published_at": "2026-11-25T11:28:40+00:00",
+   "first_seen_at": "2026-11-25T11:37:24.071864+00:00",
+   "expires_at": "2026-11-26T23:28:40+00:00",
+   "decision": 1.78,
+   "priority": 7.58929,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "c6e2db1a7602b2f1",
    "item": {
     "id": "c6e2db1a7602b2f1",
@@ -4388,8 +4415,8 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.241445,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.258803,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4417,14 +4444,12 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.637001,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.654359,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00",
   "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap": "2026-11-11T12:38:06.162795+00:00",
   "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11": "2026-11-11T13:09:27.185558+00:00",
@@ -4750,139 +4775,15 @@
   "https://inc42.com/buzz/openai-spacex-backer-vu-venture-partners-enters-indian-startup-market": "2026-11-25T09:38:31.444565+00:00",
   "https://yourstory.com/2026/11/rodic-consultants-proposes-rs-200-cr-fund-ai-infrastructure": "2026-11-25T10:08:24.094280+00:00",
   "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T10:40:28.745195+00:00",
-  "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india": "2026-11-25T11:07:58.667541+00:00"
+  "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india": "2026-11-25T11:07:58.667541+00:00",
+  "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25": "2026-11-25T11:38:00.789777+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 2,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
-  "adbc5af1f29ee55a": {
-   "imp": 2.19,
-   "ai": 0.97,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "4086d13a78d22826": {
-   "imp": 1.92,
-   "ai": 0.95,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "8da944b86576ac64": {
-   "imp": 1.22,
-   "ai": 0.83,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "e3a3b503e36bcf2c": {
-   "imp": 2.04,
-   "ai": 0.94,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "534d3d4fef184d11": {
-   "imp": 0.89,
-   "ai": 0.48,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "fc341a48cfdd15e3": {
-   "imp": 0.62,
-   "ai": 0.27,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "ea67658b3ad270d5": {
-   "imp": 1.36,
-   "ai": 0.84,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "5deb3005f6ba4730": {
-   "imp": 1.74,
-   "ai": 0.91,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "5b2442ff172e2cc3": {
-   "imp": 1.47,
-   "ai": 0.78,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "80bef6fbbfff98f0": {
-   "imp": 1.29,
-   "ai": 0.89,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "fe504120c5fe3670": {
-   "imp": 2.22,
-   "ai": 0.93,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "40bf3f947e78c5c1": {
-   "imp": 0.7,
-   "ai": 0.31,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "70d643106690dbe0": {
-   "imp": 0.37,
-   "ai": 0.5,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "9633aadebe72ed0a": {
-   "imp": 1.38,
-   "ai": 0.87,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "85f370fbe3b55a8f": {
-   "imp": 1.31,
-   "ai": 0.78,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "dfbd237e6a45ace4": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "7aa2b6ea7fa16da5": {
-   "imp": 1.16,
-   "ai": 0.31,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "3f669344df6a3fc0": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "408b8e18ebb7d3d2": {
-   "imp": 1.4,
-   "ai": 0.36,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "4e8d4f9258418a38": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "616053e517ca7199": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "d7aa8f0ac3de107a": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "55fa9463e20cf040": {
-   "imp": 0.27,
-   "ai": 0.06,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "4f648825991f6c3c": {
-   "imp": 0.72,
-   "ai": 0.13,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
-  "72f9bd460b4af723": {
-   "imp": 0.59,
-   "ai": 0.18,
-   "ts": "2026-11-17T11:37:25.215311+00:00"
-  },
   "5362371a3dfac3a7": {
    "imp": 2.67,
    "ai": 0.98,
@@ -26157,6 +26058,136 @@
    "imp": 0.39,
    "ai": 0.06,
    "ts": "2026-11-25T11:07:24.352931+00:00"
+  },
+  "c781e5669986b7ea": {
+   "imp": 0.9,
+   "ai": null,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "916dac60732a0481": {
+   "imp": 0.91,
+   "ai": 0.51,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "e11f0fdacfef6df3": {
+   "imp": 1.5,
+   "ai": 0.84,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "0c537a30d7f31acc": {
+   "imp": 1.35,
+   "ai": 0.99,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "63d3b91ac76de411": {
+   "imp": 1.26,
+   "ai": 0.67,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "2c9ebeae46e075d4": {
+   "imp": 0.19,
+   "ai": 0.13,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "452bcee328ffd4ae": {
+   "imp": 0.86,
+   "ai": 0.14,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "88b49d90ca726ac4": {
+   "imp": 0.95,
+   "ai": 0.68,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "4096f28df95d7e9d": {
+   "imp": 1.83,
+   "ai": 0.95,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "6466df4b564d9072": {
+   "imp": 1.78,
+   "ai": 0.94,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "b707bf66a455676b": {
+   "imp": 1.86,
+   "ai": 0.94,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "57a50e4435627fb1": {
+   "imp": 0.21,
+   "ai": 0.06,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "473692109617e2bf": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "7a295ee99125279d": {
+   "imp": 0.9,
+   "ai": 0.21,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "0048c68f7160e043": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "4ebedd36fae4c212": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "34cbc00d03b2eb56": {
+   "imp": 0.58,
+   "ai": 0.14,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "9fcfa1b5cc763cf4": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "fc33c3505e01ddbe": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "02102bf19623034f": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "e56cf5544d8bce03": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "b678cf6fa9ded08e": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "85978929c83daf52": {
+   "imp": 1.0,
+   "ai": 0.12,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "d6bee78241df38d1": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "0c4600740fd4d4ca": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "495125451e4c972f": {
+   "imp": 0.22,
+   "ai": 0.14,
+   "ts": "2026-11-25T11:37:24.071864+00:00"
   }
  }
 }
