@@ -4523,17 +4523,7 @@
    "selection_reason": "Editorial importance; waiting 6.0h"
   }
  ],
- "details_queue": [
-  {
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-   "source": "South China Morning Post",
-   "kind": "takes",
-   "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
-   "summary": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content, following media reports that its AI-generated characters had allegedly sent inappropriate messages to minors. The development marks the latest controversy to hit the embattled Hong Kong-listed firm, which has seen its stock pric…",
-   "queued_at": "2026-11-25T14:07:23.121669+00:00",
-   "attempts": 1
-  }
- ],
+ "details_queue": [],
  "details_done": {
   "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00",
@@ -4860,64 +4850,15 @@
   "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25": "2026-11-25T12:09:30.798423+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work": "2026-11-25T12:38:15.657443+00:00",
   "https://yourstory.com/2026/11/nexent-capital-launches-1-billion-fund-focused-on-ai-data-centres-investments": "2026-11-25T13:07:57.134599+00:00",
-  "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant": "2026-11-25T13:38:02.662566+00:00"
+  "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant": "2026-11-25T13:38:02.662566+00:00",
+  "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content": "2026-11-25T14:38:00.716499+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 2,
-  "takes": 22
+  "takes": 23
  },
  "triage": {
-  "6755813e5cbe36f0": {
-   "imp": 1.66,
-   "ai": null,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "eec60496fb330930": {
-   "imp": 2.5,
-   "ai": 0.96,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "9dd240a07684a29c": {
-   "imp": 2.08,
-   "ai": 0.9,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "60e0f4479d535f85": {
-   "imp": 1.61,
-   "ai": 0.79,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "347b6a04b15629f7": {
-   "imp": 2.49,
-   "ai": 0.96,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "01a55254756a0ec1": {
-   "imp": 1.37,
-   "ai": 0.88,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "3a7b93e66c01f2b2": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "16ce5a94792b7b41": {
-   "imp": 1.78,
-   "ai": 0.91,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "04c9063b8edeae91": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
-  "03b61f8e321db271": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-17T14:37:24.218299+00:00"
-  },
   "0b7ed92d40f784c3": {
    "imp": 0.61,
    "ai": 0.26,
