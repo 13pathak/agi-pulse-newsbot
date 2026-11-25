@@ -1,20 +1,5 @@
 {
  "seen": {
-  "2c0a64e08e41f662": "2026-11-18T03:07:23.998117+00:00",
-  "1796857b9a1b2f79": "2026-11-18T03:07:23.998117+00:00",
-  "a1e600c78049ff29": "2026-11-18T03:07:23.998117+00:00",
-  "218842c4258fe4c9": "2026-11-18T03:07:23.998117+00:00",
-  "e650fcb0108b1917": "2026-11-18T03:07:23.998117+00:00",
-  "48c46304656078a6": "2026-11-18T03:07:23.998117+00:00",
-  "83a62a4e1ebc1b89": "2026-11-18T03:07:23.998117+00:00",
-  "4de68361c2bf0413": "2026-11-18T03:07:23.998117+00:00",
-  "440e4351192497c1": "2026-11-18T03:07:23.998117+00:00",
-  "4582de2c778af58b": "2026-11-18T03:07:23.998117+00:00",
-  "6ab4eb3121ad6e12": "2026-11-18T03:07:23.998117+00:00",
-  "7737f0bdbbad9d9b": "2026-11-18T03:07:23.998117+00:00",
-  "1c1649dd2529293f": "2026-11-18T03:07:23.998117+00:00",
-  "3a4b135687e309c5": "2026-11-18T03:07:23.998117+00:00",
-  "d1cd519b758ab31f": "2026-11-18T03:07:23.998117+00:00",
   "692230a9d797ddbd": "2026-11-18T03:37:22.679504+00:00",
   "5b0b199a3f155cec": "2026-11-18T03:37:22.679504+00:00",
   "f67da9654c4ba219": "2026-11-18T03:37:22.679504+00:00",
@@ -1879,7 +1864,15 @@
   "38ff2e3cdb077a15": "2026-11-25T02:37:21.167932+00:00",
   "c2ea7b3219fb5f58": "2026-11-25T02:37:21.167932+00:00",
   "3681debc837c15f6": "2026-11-25T02:37:21.167932+00:00",
-  "49205cf6fc0d9a44": "2026-11-25T02:37:21.167932+00:00"
+  "49205cf6fc0d9a44": "2026-11-25T02:37:21.167932+00:00",
+  "efaeab98abc44656": "2026-11-25T03:07:23.170825+00:00",
+  "bbb010d1205fc03e": "2026-11-25T03:07:23.170825+00:00",
+  "f2e6ae36d31a08b0": "2026-11-25T03:07:23.170825+00:00",
+  "85f228052cf0b0c9": "2026-11-25T03:07:23.170825+00:00",
+  "870bc2e5c8ee453f": "2026-11-25T03:07:23.170825+00:00",
+  "06e3e1964d691295": "2026-11-25T03:07:23.170825+00:00",
+  "7d7da45ef2d28a6d": "2026-11-25T03:07:23.170825+00:00",
+  "aac3bee5a44130a4": "2026-11-25T03:07:23.170825+00:00"
  },
  "covered": [
   {
@@ -2105,11 +2098,15 @@
   {
    "headline": "KPMG report finds 59 percent of Indian firms use AI agents",
    "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  {
+   "headline": "Dell raises annual forecasts following record quarterly AI server demand",
+   "ts": "2026-11-25T03:07:23.170825+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4374,36 +4371,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.129348,
-   "selection_reason": "Editorial importance; waiting 22.5h"
-  },
-  {
-   "id": "588f7b0a1e0d0187",
-   "item": {
-    "id": "588f7b0a1e0d0187",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "source": "TechCrunch",
-    "image": "",
-    "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "published": "2026-11-23T19:14:46+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Google Search AI mode integrates Drive and Wallet",
-   "post": "Google Search's AI Mode can now access user data from Google Drive, Wallet, and the Gemini application to provide personalized responses.",
-   "editor_note": "Check rollout availability for the new Drive and Wallet integrations in AI Mode.",
-   "support": 0.96,
-   "published_at": "2026-11-23T19:14:46+00:00",
-   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
-   "expires_at": "2026-11-25T07:14:46+00:00",
-   "decision": 1.74,
-   "priority": 6.958432,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 7.124134,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "c7d2da5c582fe3f0",
@@ -4455,8 +4424,36 @@
    "first_seen_at": "2026-11-25T01:07:23.087505+00:00",
    "expires_at": "2026-11-26T05:17:09+00:00",
    "decision": 1.86,
-   "priority": 6.954364,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.971744,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "588f7b0a1e0d0187",
+   "item": {
+    "id": "588f7b0a1e0d0187",
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "source": "TechCrunch",
+    "image": "",
+    "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "published": "2026-11-23T19:14:46+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google Search AI mode integrates Drive and Wallet",
+   "post": "Google Search's AI Mode can now access user data from Google Drive, Wallet, and the Gemini application to provide personalized responses.",
+   "editor_note": "Check rollout availability for the new Drive and Wallet integrations in AI Mode.",
+   "support": 0.96,
+   "published_at": "2026-11-23T19:14:46+00:00",
+   "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
+   "expires_at": "2026-11-25T07:14:46+00:00",
+   "decision": 1.74,
+   "priority": 6.944528,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4483,13 +4480,12 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.690516,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.676611,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00",
   "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00",
   "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00",
   "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled": "2026-11-11T04:38:43.121111+00:00",
@@ -4814,94 +4810,15 @@
   "https://36kr.com/newsflashes/4083176083788931?f=rss": "2026-11-24T17:07:50.892341+00:00",
   "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": "2026-11-25T01:08:40.490209+00:00",
   "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html": "2026-11-25T02:08:17.726136+00:00",
-  "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html": "2026-11-25T02:38:38.592369+00:00"
+  "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html": "2026-11-25T02:38:38.592369+00:00",
+  "https://economictimes.indiatimes.com/tech/technology/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand/articleshow/136146169.cms": "2026-11-25T03:07:55.991781+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
-  "2b1fdc36f787a31a": {
-   "imp": 1.4,
-   "ai": 0.93,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "b6439abf8438a9f8": {
-   "imp": 0.2,
-   "ai": 0.09,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "aa9feb2f036b19f6": {
-   "imp": 2.52,
-   "ai": 0.94,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "718d68e733720195": {
-   "imp": 0.92,
-   "ai": 0.61,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "609f4b5b9b9f0b22": {
-   "imp": 1.95,
-   "ai": 0.97,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "3a32eda9d7ce6c86": {
-   "imp": 2.49,
-   "ai": 0.98,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "c5cb67a9a739abfa": {
-   "imp": 2.12,
-   "ai": 0.95,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "2404565dea18720e": {
-   "imp": 2.46,
-   "ai": 0.97,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "e50a68596d1694bf": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "7b102246c4a39291": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "bcd9f69720f435c7": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "cc03460ceff38d79": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "40afaff5312a2240": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "9276448d61ddf64c": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "73135b6d0eb5837e": {
-   "imp": 0.35,
-   "ai": 0.04,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
-  "e5a0e2c2402b558a": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-17T03:07:34.188728+00:00"
-  },
   "3778506668803933": {
    "imp": 1.06,
    "ai": 0.87,
@@ -26356,6 +26273,71 @@
    "imp": 0.7,
    "ai": 0.09,
    "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "f2e6ae36d31a08b0": {
+   "imp": 1.57,
+   "ai": 0.9,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "06e3e1964d691295": {
+   "imp": 1.42,
+   "ai": 0.86,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "efaeab98abc44656": {
+   "imp": 1.83,
+   "ai": 0.95,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "bbb010d1205fc03e": {
+   "imp": 1.66,
+   "ai": 0.9,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "85f228052cf0b0c9": {
+   "imp": 1.51,
+   "ai": 0.67,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "aac3bee5a44130a4": {
+   "imp": 1.26,
+   "ai": 0.9,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "3ef816f444a353b3": {
+   "imp": 0.4,
+   "ai": 0.08,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "73dd9f880abae6b1": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "474025155a1fc1d6": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "0095c8a704755eb7": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "537b6abc941c9b22": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "d38ff58b7f979b04": {
+   "imp": 0.18,
+   "ai": 0.07,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
+  },
+  "06cb78cbd25dbaf5": {
+   "imp": 0.34,
+   "ai": 0.15,
+   "ts": "2026-11-25T03:07:23.170825+00:00"
   }
  }
 }
