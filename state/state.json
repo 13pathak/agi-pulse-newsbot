@@ -1,14 +1,5 @@
 {
  "seen": {
-  "6cab9c8cd38347e3": "2026-11-18T09:37:22.634048+00:00",
-  "e03db331c376317a": "2026-11-18T09:37:22.634048+00:00",
-  "d1c7ca312226eefe": "2026-11-18T09:37:22.634048+00:00",
-  "122be7afae8bdeb5": "2026-11-18T09:37:22.634048+00:00",
-  "133e6b7b44a804d0": "2026-11-18T09:37:22.634048+00:00",
-  "67067bb101e49cb2": "2026-11-18T09:37:22.634048+00:00",
-  "9f1ef97889b505da": "2026-11-18T09:37:22.634048+00:00",
-  "574f499b55a7cf42": "2026-11-18T09:37:22.634048+00:00",
-  "5f83aea8a1584693": "2026-11-18T09:37:22.634048+00:00",
   "ef28fb89fd521d19": "2026-11-18T10:07:25.145656+00:00",
   "8c9575f79b4730c2": "2026-11-18T10:07:25.145656+00:00",
   "6bc86b0de0d5c935": "2026-11-18T10:07:25.145656+00:00",
@@ -1864,7 +1855,9 @@
   "65208459aecc4949": "2026-11-25T09:07:22.417990+00:00",
   "c5b94746a28c260e": "2026-11-25T09:07:22.417990+00:00",
   "73f6548d644bef93": "2026-11-25T09:07:22.417990+00:00",
-  "e834a496d7d9029c": "2026-11-25T09:07:22.417990+00:00"
+  "e834a496d7d9029c": "2026-11-25T09:07:22.417990+00:00",
+  "28b9653ad4f0a3f5": "2026-11-25T09:37:23.630805+00:00",
+  "163d440768eec00f": "2026-11-25T09:37:23.630805+00:00"
  },
  "covered": [
   {
@@ -2090,11 +2083,15 @@
   {
    "headline": "OpenAI and AMD use AI to optimize GPU chip circuit designs",
    "ts": "2026-11-25T09:07:22.417990+00:00"
+  },
+  {
+   "headline": "VU Venture Partners enters India to invest in early-stage AI startups",
+   "ts": "2026-11-25T09:37:23.630805+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4363,6 +4360,35 @@
  },
  "pending": [
   {
+   "id": "c6e2db1a7602b2f1",
+   "item": {
+    "id": "c6e2db1a7602b2f1",
+    "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
+    "url": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Google DeepMind 抛出了一套从 AGI 迈向 ASI 的技术演进框架，其中有个相当大胆的设想： 未来 AI 的能力增长，可能要靠它自己学会组建公司，甚至不断重写公司的组织架构。 这套框架提出了 Cooperative RSI（合作式递归自我改进）机制。设想一下，成千上万个 AI Agent 可以自行分工、积累专业经验、调整协作关系，再把节省下来的算力投入新一轮研发。随着组织效率提高，系统又获得更多资源来改造自身，形成持续迭代的增长循环。 这意味着，未来 AI 的进化单位可能从单个模型扩展为整个研发组织，连任务分配、专业分工和知识传递机制也会成为可优化的技术变量。不过，增加 Agent 容易，让一个组织持续创造超出资源消耗的能力增益却困难得多。 Cooperative RSI 究竟怎样形成递归增长，组织效率能否像模型能力一样被规模化扩展，以及谁来判断 AI 对自身的改造确实有效？ 这些问题构成了这套框架中颇有研究空间的技术核心。 01 从模型扩展到组织扩展 过去，AI 能力增长主要依赖模型架构、训练数据和计算规模。当多个 Agent 开始共同承担复杂研发任务时，计算资源与能力之间的关系就没有那么直接了。 问题出在任务依赖和协调成本上。复杂研发通常包含大量相互依赖的环节，上游结果决定下游工作能否继续。增加 Agent 可以提高独立任务的并行吞吐，却无法直接缩短任务依赖图中的关键路径。 随着成员规模扩大，中间结果传递、上下文同步和…",
+    "published": "2026-11-25T07:12:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Google DeepMind proposes Cooperative RSI framework for multi-agent AI evolution",
+   "post": "Researchers at Google DeepMind proposed Cooperative Recursive Self-Improvement, a framework where networks of AI agents form structured organizations and reallocate compute to scale technical capabilities from AGI toward ASI.",
+   "editor_note": "Verify paper details and official publication title on Cooperative RSI from Google DeepMind.",
+   "support": 0.95,
+   "published_at": "2026-11-25T07:12:00+00:00",
+   "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
+   "expires_at": "2026-11-26T19:12:00+00:00",
+   "decision": 2.27,
+   "priority": 7.189355,
+   "selection_reason": "Editorial importance"
+  },
+  {
    "id": "7b0c1eaef85d0c98",
    "item": {
     "id": "7b0c1eaef85d0c98",
@@ -4388,15 +4414,12 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.567538,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.584911,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
-  "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00",
-  "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00",
   "https://36kr.com/newsflashes/4064873704297602?f=rss": "2026-11-11T10:07:39.891605+00:00",
   "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00",
   "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
@@ -4722,79 +4745,15 @@
   "https://analyticsindiamag.com/ai-news/can-ai-predict-the-future-former-xai-team-build-ai-time-machine-in-hopes-of-just-that": "2026-11-25T07:08:09.518585+00:00",
   "https://www.qbitai.com/2026/11/512478.html": "2026-11-25T08:08:22.662852+00:00",
   "https://36kr.com/newsflashes/4084860684757379?f=rss": "2026-11-25T08:38:16.959003+00:00",
-  "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html": "2026-11-25T09:08:06.676918+00:00"
+  "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html": "2026-11-25T09:08:06.676918+00:00",
+  "https://inc42.com/buzz/openai-spacex-backer-vu-venture-partners-enters-indian-startup-market": "2026-11-25T09:38:31.444565+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
-  "b85340a45a89181b": {
-   "imp": 1.89,
-   "ai": 0.9,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "df40b77d3d237010": {
-   "imp": 1.0,
-   "ai": 0.61,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "5f9ed380641fdbcd": {
-   "imp": 1.22,
-   "ai": 0.91,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "ef202e7f01fc1e8a": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "38c923a1638a1d79": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "dc101725366f789c": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "ed2b587ce7c7ae69": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "3d3614ef9eacca0d": {
-   "imp": 0.82,
-   "ai": 0.15,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "234c7bbe45483331": {
-   "imp": 1.13,
-   "ai": 0.6,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "1e0d6d0d026083dd": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "69fbdf77d933d5e1": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "dc2b2d7bf3614a47": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
-  "5218f3ab0f7a5e1c": {
-   "imp": 0.36,
-   "ai": 0.06,
-   "ts": "2026-11-17T09:37:24.524929+00:00"
-  },
   "6d0c63fb754b9fe7": {
    "imp": 1.6,
    "ai": 0.76,
@@ -26129,6 +26088,111 @@
    "imp": 0.16,
    "ai": 0.07,
    "ts": "2026-11-25T09:07:22.417990+00:00"
+  },
+  "c6e2db1a7602b2f1": {
+   "imp": 2.27,
+   "ai": 0.98,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "28b9653ad4f0a3f5": {
+   "imp": 2.08,
+   "ai": 0.93,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "163d440768eec00f": {
+   "imp": 1.83,
+   "ai": 0.33,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "027698b6e19bb41d": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "ff369cfaa4633d70": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "82b2824b3e863100": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "e9104361e9f7007e": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "d6bf42c3a76801aa": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "a7fd9de87515e38c": {
+   "imp": 0.21,
+   "ai": 0.07,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "6762c233d6115779": {
+   "imp": 0.24,
+   "ai": 0.08,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "6f27a6f300daa88f": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "8e42c5efe6dbfb29": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "4447cfff6c41e71e": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "d157b1087b83bc21": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "cd78d1e59d4f87bf": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "e049357fcd9669a9": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "da00b9d608608d57": {
+   "imp": 0.78,
+   "ai": 0.08,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "094bd8d94b48f797": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "a4c7a1f102d04002": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "bfe4ed16afe37fdd": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
+  },
+  "661df22c8712ac7e": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-25T09:37:23.630805+00:00"
   }
  }
 }
