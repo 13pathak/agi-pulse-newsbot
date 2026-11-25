@@ -1,17 +1,5 @@
 {
  "seen": {
-  "f9c7f44758ed7ca9": "2026-11-18T04:07:23.199644+00:00",
-  "091c8d58a82d7414": "2026-11-18T04:07:23.199644+00:00",
-  "12bfa638a2c94ce3": "2026-11-18T04:07:23.199644+00:00",
-  "5442c44eeb4b92aa": "2026-11-18T04:07:23.199644+00:00",
-  "9ea30026d38a4dbd": "2026-11-18T04:07:23.199644+00:00",
-  "75499b8e4188fbfd": "2026-11-18T04:07:23.199644+00:00",
-  "fbe54dc5882c1f22": "2026-11-18T04:07:23.199644+00:00",
-  "1072bde0c935d7dd": "2026-11-18T04:07:23.199644+00:00",
-  "edef605ba981d41d": "2026-11-18T04:07:23.199644+00:00",
-  "8a34bad4fe6b3632": "2026-11-18T04:07:23.199644+00:00",
-  "a64bf86d357e960f": "2026-11-18T04:07:23.199644+00:00",
-  "72284a47c9d975a2": "2026-11-18T04:07:23.199644+00:00",
   "3d174cfa1a2e220e": "2026-11-18T04:37:22.731449+00:00",
   "d63b9cff00dcba5a": "2026-11-18T04:37:22.731449+00:00",
   "b092fe705570e275": "2026-11-18T04:37:22.731449+00:00",
@@ -1865,13 +1853,14 @@
   "84b69d93d7c5c637": "2026-11-25T03:37:31.789538+00:00",
   "ca2e0c53490189b4": "2026-11-25T03:37:31.789538+00:00",
   "00a79dc4106f69d7": "2026-11-25T03:37:31.789538+00:00",
-  "9965f17ee5bcd8de": "2026-11-25T03:37:31.789538+00:00"
+  "9965f17ee5bcd8de": "2026-11-25T03:37:31.789538+00:00",
+  "ed8bd6c18d1ee80d": "2026-11-25T04:07:21.543328+00:00",
+  "144ea93b11753653": "2026-11-25T04:07:21.543328+00:00",
+  "c7d2da5c582fe3f0": "2026-11-25T04:07:21.543328+00:00",
+  "fdd5f51e8fafafb3": "2026-11-25T04:07:21.543328+00:00",
+  "e1ad855d0eab4e39": "2026-11-25T04:07:21.543328+00:00"
  },
  "covered": [
-  {
-   "headline": "Agibot deploys Genie G2 robots in JCET semiconductor plant",
-   "ts": "2026-11-23T04:07:21.682620+00:00"
-  },
   {
    "headline": "Uttar Pradesh tenders statewide AI system linked to Family ID",
    "ts": "2026-11-23T04:37:23.342347+00:00"
@@ -2095,11 +2084,15 @@
   {
    "headline": "Nanjing University introduces MemOnce memory architecture for LLMs",
    "ts": "2026-11-25T03:37:31.789538+00:00"
+  },
+  {
+   "headline": "Tidal to ban AI-generated music and delete 29 million tracks",
+   "ts": "2026-11-25T04:07:21.543328+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4338,59 +4331,6 @@
  },
  "pending": [
   {
-   "id": "c7d2da5c582fe3f0",
-   "item": {
-    "id": "c7d2da5c582fe3f0",
-    "title": "Tidal will start banning AI-generated music next month",
-    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
-    "published": "2026-11-24T17:17:09+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "fdd5f51e8fafafb3",
-     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-     "source": "Ars Technica",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
-     "snippet": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists. Tidal debuted its initial AI policy in July 2026, which included labeling and demonetizing all songs…",
-     "published": "2026-11-24T17:34:34+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "e1ad855d0eab4e39",
-     "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
-     "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/b8638ee431643455ce8b3251c145e5241b067c0a/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=adb674c128e535ccd805c3ca0c4f6c35",
-     "snippet": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence The music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams and royalties away from the artists, and confuses fans”. “To ensure Tidal remains the best place for artists to share t…",
-     "published": "2026-11-25T02:12:22+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Tidal to ban AI-generated music and delete 29 million tracks",
-   "post": "Music streaming service Tidal announced it will ban AI-generated music starting December 9, 2026. The company plans to remove about 29 million existing AI tracks and reject up to 85,000 new submissions daily.",
-   "editor_note": "Verify the exact detection methods Tidal uses to identify and screen out AI-generated content.",
-   "support": 0.53,
-   "published_at": "2026-11-24T17:17:09+00:00",
-   "first_seen_at": "2026-11-25T01:07:23.087505+00:00",
-   "expires_at": "2026-11-26T05:17:09+00:00",
-   "decision": 1.86,
-   "priority": 6.989188,
-   "selection_reason": "Editorial importance; waiting 2.5h"
-  },
-  {
    "id": "588f7b0a1e0d0187",
    "item": {
     "id": "588f7b0a1e0d0187",
@@ -4415,8 +4355,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.930573,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.916763,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4443,8 +4383,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.662656,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.648846,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   }
  ],
  "details_queue": [],
@@ -4774,84 +4714,15 @@
   "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html": "2026-11-25T02:08:17.726136+00:00",
   "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html": "2026-11-25T02:38:38.592369+00:00",
   "https://economictimes.indiatimes.com/tech/technology/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand/articleshow/136146169.cms": "2026-11-25T03:07:55.991781+00:00",
-  "https://arxiv.org/abs/2611.27973": "2026-11-25T03:38:56.936238+00:00"
+  "https://arxiv.org/abs/2611.27973": "2026-11-25T03:38:56.936238+00:00",
+  "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban": "2026-11-25T04:07:53.711286+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
-  "d6a44469adf06c1f": {
-   "imp": 2.02,
-   "ai": 0.97,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "3702b15a70948456": {
-   "imp": 1.38,
-   "ai": 0.87,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "b5f399c32c81ac83": {
-   "imp": 1.61,
-   "ai": 0.95,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "245e194e7c1f246e": {
-   "imp": 1.48,
-   "ai": 0.88,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "ac2502a3ac75b8fc": {
-   "imp": 1.81,
-   "ai": 0.96,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "79b9f7b1b39151ff": {
-   "imp": 0.12,
-   "ai": 0.05,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "1cdfe84243c19664": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "2456faa4578db9b1": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "45f841f4bcea37d0": {
-   "imp": 0.17,
-   "ai": 0.05,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "ba6056963dd0841f": {
-   "imp": 0.2,
-   "ai": 0.04,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "d3b2c0502373283a": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "ca983216ff9c970d": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "febdac0795483a45": {
-   "imp": 0.63,
-   "ai": 0.2,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
-  "3eecacf2e10ef6a9": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-17T04:07:21.744246+00:00"
-  },
   "63888bf92e20fb0e": {
    "imp": 1.74,
    "ai": 0.93,
@@ -26266,6 +26137,51 @@
    "imp": 0.22,
    "ai": 0.06,
    "ts": "2026-11-25T03:37:31.789538+00:00"
+  },
+  "144ea93b11753653": {
+   "imp": 0.61,
+   "ai": 0.74,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "ed8bd6c18d1ee80d": {
+   "imp": 1.1,
+   "ai": 0.87,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "3b3424de1bb19c2f": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "623894334e054101": {
+   "imp": 0.22,
+   "ai": 0.03,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "31d954833ecbbde6": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "ee0df69a321facb4": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "392e712d7d627d6d": {
+   "imp": 0.33,
+   "ai": 0.05,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "23b22370023b3a11": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
+  },
+  "e31910076350890a": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T04:07:21.543328+00:00"
   }
  }
 }
