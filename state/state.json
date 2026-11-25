@@ -1,22 +1,5 @@
 {
  "seen": {
-  "6dbfd2c16f1d581a": "2026-11-18T02:37:35.781113+00:00",
-  "3a6ddd65cb94a929": "2026-11-18T02:37:35.781113+00:00",
-  "d514caaccab314c2": "2026-11-18T02:37:35.781113+00:00",
-  "129d2c32c10ee749": "2026-11-18T02:37:35.781113+00:00",
-  "0df5cce8cc5bffe0": "2026-11-18T02:37:35.781113+00:00",
-  "3aa0c6065ac07d71": "2026-11-18T02:37:35.781113+00:00",
-  "565e81b83ed077e8": "2026-11-18T02:37:35.781113+00:00",
-  "b07761c01d391bd0": "2026-11-18T02:37:35.781113+00:00",
-  "b64d6d7944567a41": "2026-11-18T02:37:35.781113+00:00",
-  "1dbad22c9dbd282d": "2026-11-18T02:37:35.781113+00:00",
-  "ca141c17b77fff5a": "2026-11-18T02:37:35.781113+00:00",
-  "0235dde57b409f00": "2026-11-18T02:37:35.781113+00:00",
-  "549a77347d5e1e5f": "2026-11-18T02:37:35.781113+00:00",
-  "5cbc55e1b429d883": "2026-11-18T02:37:35.781113+00:00",
-  "e9eb84ae1298a7fa": "2026-11-18T02:37:35.781113+00:00",
-  "09ff886529bbad01": "2026-11-18T02:37:35.781113+00:00",
-  "eea4039d51a0b325": "2026-11-18T02:37:35.781113+00:00",
   "2c0a64e08e41f662": "2026-11-18T03:07:23.998117+00:00",
   "1796857b9a1b2f79": "2026-11-18T03:07:23.998117+00:00",
   "a1e600c78049ff29": "2026-11-18T03:07:23.998117+00:00",
@@ -1883,7 +1866,20 @@
   "dd9641ab20f437b0": "2026-11-25T02:07:22.841473+00:00",
   "bb6185761afebf1e": "2026-11-25T02:07:22.841473+00:00",
   "4d83f53e63e2d3da": "2026-11-25T02:07:22.841473+00:00",
-  "9313ce90be102217": "2026-11-25T02:07:22.841473+00:00"
+  "9313ce90be102217": "2026-11-25T02:07:22.841473+00:00",
+  "5fa6095275dc4f07": "2026-11-25T02:37:21.167932+00:00",
+  "6cb08513073f7c06": "2026-11-25T02:37:21.167932+00:00",
+  "b1e5839c1dc50666": "2026-11-25T02:37:21.167932+00:00",
+  "80a5acb9a1770104": "2026-11-25T02:37:21.167932+00:00",
+  "9fc346e1bd37a82e": "2026-11-25T02:37:21.167932+00:00",
+  "3f1799e77805dd41": "2026-11-25T02:37:21.167932+00:00",
+  "5aa23c863eb7e37f": "2026-11-25T02:37:21.167932+00:00",
+  "ef2ea07a8f962a95": "2026-11-25T02:37:21.167932+00:00",
+  "2ffc1293395e7d64": "2026-11-25T02:37:21.167932+00:00",
+  "38ff2e3cdb077a15": "2026-11-25T02:37:21.167932+00:00",
+  "c2ea7b3219fb5f58": "2026-11-25T02:37:21.167932+00:00",
+  "3681debc837c15f6": "2026-11-25T02:37:21.167932+00:00",
+  "49205cf6fc0d9a44": "2026-11-25T02:37:21.167932+00:00"
  },
  "covered": [
   {
@@ -2105,11 +2101,15 @@
   {
    "headline": "OceanBase launches OceanLake platform and OceanSeek database",
    "ts": "2026-11-25T02:07:22.841473+00:00"
+  },
+  {
+   "headline": "KPMG report finds 59 percent of Indian firms use AI agents",
+   "ts": "2026-11-25T02:37:21.167932+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4374,8 +4374,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.134552,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.129348,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4402,8 +4402,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.972308,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.958432,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   },
   {
    "id": "c7d2da5c582fe3f0",
@@ -4431,6 +4431,18 @@
      "images": true,
      "category": "news",
      "source_cap": 3
+    },
+    {
+     "id": "e1ad855d0eab4e39",
+     "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+     "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b8638ee431643455ce8b3251c145e5241b067c0a/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=adb674c128e535ccd805c3ca0c4f6c35",
+     "snippet": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence The music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams and royalties away from the artists, and confuses fans”. “To ensure Tidal remains the best place for artists to share t…",
+     "published": "2026-11-25T02:12:22+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
     }
    ],
    "importance": 7,
@@ -4442,9 +4454,9 @@
    "published_at": "2026-11-24T17:17:09+00:00",
    "first_seen_at": "2026-11-25T01:07:23.087505+00:00",
    "expires_at": "2026-11-26T05:17:09+00:00",
-   "decision": 1.78,
-   "priority": 6.910352,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "decision": 1.86,
+   "priority": 6.954364,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4471,13 +4483,12 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.704392,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 6.690516,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter": "2026-11-11T02:38:18.956197+00:00",
   "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms": "2026-11-11T03:07:48.657577+00:00",
   "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore": "2026-11-11T03:38:08.267130+00:00",
   "https://www.theinformation.com/briefings/openai-acquires-ai-travel-agent-odessia": "2026-11-11T04:09:19.749220+00:00",
@@ -4802,89 +4813,15 @@
   "https://www.sarvam.ai/blogs/extract-api": "2026-11-24T17:07:50.892341+00:00",
   "https://36kr.com/newsflashes/4083176083788931?f=rss": "2026-11-24T17:07:50.892341+00:00",
   "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": "2026-11-25T01:08:40.490209+00:00",
-  "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html": "2026-11-25T02:08:17.726136+00:00"
+  "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html": "2026-11-25T02:08:17.726136+00:00",
+  "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html": "2026-11-25T02:38:38.592369+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
-  "a127dfece4a2b361": {
-   "imp": 1.4,
-   "ai": 0.66,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "e0005e9b0d34fce5": {
-   "imp": 1.34,
-   "ai": 0.8,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "e7d67d163eea8f8e": {
-   "imp": 1.67,
-   "ai": 0.93,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "754dc2b7990a183f": {
-   "imp": 1.55,
-   "ai": 0.41,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "99e47c9091111334": {
-   "imp": 0.5,
-   "ai": 0.09,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "7801ae3ea920b54d": {
-   "imp": 1.1,
-   "ai": 0.6,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "cebb296c29e795e3": {
-   "imp": 1.15,
-   "ai": null,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "2687255e6cc03853": {
-   "imp": 0.51,
-   "ai": 0.08,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "cea08ebb87ea36e3": {
-   "imp": 0.2,
-   "ai": 0.02,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "ea240ae7a344080c": {
-   "imp": 0.43,
-   "ai": 0.08,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "538dd78740c61b2b": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "00d8a641361818dc": {
-   "imp": 0.38,
-   "ai": 0.05,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "942dd13a702e2ea5": {
-   "imp": 0.87,
-   "ai": 0.2,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "1a8cb8bc51abd6a6": {
-   "imp": 1.31,
-   "ai": 0.23,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
-  "0fe47f9f873e1f43": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-17T02:37:39.999182+00:00"
-  },
   "2b1fdc36f787a31a": {
    "imp": 1.4,
    "ai": 0.93,
@@ -26344,6 +26281,81 @@
    "imp": 0.36,
    "ai": 0.08,
    "ts": "2026-11-25T02:07:22.841473+00:00"
+  },
+  "e1ad855d0eab4e39": {
+   "imp": 1.86,
+   "ai": null,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "870bc2e5c8ee453f": {
+   "imp": 0.96,
+   "ai": 0.8,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "2ffc1293395e7d64": {
+   "imp": 1.34,
+   "ai": 0.55,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "5fa6095275dc4f07": {
+   "imp": 1.67,
+   "ai": 0.82,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "3f1799e77805dd41": {
+   "imp": 1.62,
+   "ai": 0.6,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "49205cf6fc0d9a44": {
+   "imp": 2.15,
+   "ai": 0.95,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "60aee75d626d31ce": {
+   "imp": 0.31,
+   "ai": 0.06,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "8bf5925d6a979395": {
+   "imp": 0.25,
+   "ai": 0.13,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "895f2186e0c4070e": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "9b7167105b102817": {
+   "imp": 1.5,
+   "ai": 0.64,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "6b158806ff8198b4": {
+   "imp": 0.33,
+   "ai": 0.14,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "9f2550dbe494ff78": {
+   "imp": 1.32,
+   "ai": 0.52,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "70e67def340cd2be": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "54d6582a4aa30b97": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
+  },
+  "4a9ae23c1ef001ae": {
+   "imp": 0.7,
+   "ai": 0.09,
+   "ts": "2026-11-25T02:37:21.167932+00:00"
   }
  }
 }
