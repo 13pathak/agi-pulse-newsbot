@@ -1,13 +1,5 @@
 {
  "seen": {
-  "e11b1d6b0fa70bc4": "2026-11-18T05:37:22.266436+00:00",
-  "910f03b29e5723d7": "2026-11-18T05:37:22.266436+00:00",
-  "c2dd9c47308467c1": "2026-11-18T05:37:22.266436+00:00",
-  "4b26565b197598e5": "2026-11-18T05:37:22.266436+00:00",
-  "c36c6bd43214f09b": "2026-11-18T05:37:22.266436+00:00",
-  "c0e3184bca4822b0": "2026-11-18T05:37:22.266436+00:00",
-  "c25d76f51e2c0126": "2026-11-18T05:37:22.266436+00:00",
-  "89d3f37d71cb1e38": "2026-11-18T05:37:22.266436+00:00",
   "c82788cf566f6174": "2026-11-18T06:07:29.542809+00:00",
   "74d4f687270513b1": "2026-11-18T06:07:29.542809+00:00",
   "d601bb5a7283cd23": "2026-11-18T06:07:29.542809+00:00",
@@ -1851,13 +1843,16 @@
   "6593de16618ce456": "2026-11-25T05:07:25.964686+00:00",
   "790b21f8b422234a": "2026-11-25T05:07:25.964686+00:00",
   "d9bdda7d793390c6": "2026-11-25T05:07:25.964686+00:00",
-  "fa5252ed684258f6": "2026-11-25T05:07:25.964686+00:00"
+  "fa5252ed684258f6": "2026-11-25T05:07:25.964686+00:00",
+  "3dab70958802fdf3": "2026-11-25T05:37:22.042693+00:00",
+  "fd863aeb90c931db": "2026-11-25T05:37:22.042693+00:00",
+  "99ebd6cd56f9ecc5": "2026-11-25T05:37:22.042693+00:00",
+  "e822456765743260": "2026-11-25T05:37:22.042693+00:00",
+  "4e5fe1731768859d": "2026-11-25T05:37:22.042693+00:00",
+  "3d296b524248e0f3": "2026-11-25T05:37:22.042693+00:00",
+  "6673a3951e117bd5": "2026-11-25T05:37:22.042693+00:00"
  },
  "covered": [
-  {
-   "headline": "Ant Group launches international version of Afu",
-   "ts": "2026-11-23T05:37:23.121448+00:00"
-  },
   {
    "headline": "MemTensor releases open 554B parameter model MemT-1.0-Pro",
    "ts": "2026-11-23T06:07:22.714488+00:00"
@@ -2081,11 +2076,15 @@
   {
    "headline": "Entire partners with Sarvam AI for local AI coding agents in India",
    "ts": "2026-11-25T05:07:25.964686+00:00"
+  },
+  {
+   "headline": "India calls for inclusive AI governance at the UN",
+   "ts": "2026-11-25T05:37:22.042693+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4324,6 +4323,34 @@
  },
  "pending": [
   {
+   "id": "dc45c2d9b60e2477",
+   "item": {
+    "id": "dc45c2d9b60e2477",
+    "title": "EU plans €50bn tech fund to challenge US and China",
+    "url": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "image": "",
+    "snippet": "Brussels plans to take stakes in AI and quantum computing companies to try to bolster Europe’s technological independence",
+    "published": "2026-11-25T05:00:22+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "EU plans 50 billion euro tech fund",
+   "post": "Brussels plans a 50 billion euro tech fund to take stakes in artificial intelligence and quantum computing companies to bolster technological independence.",
+   "editor_note": "Confirm the 50 billion euro figure and target sectors from Financial Times report.",
+   "support": 0.96,
+   "published_at": "2026-11-25T05:00:22+00:00",
+   "first_seen_at": "2026-11-25T05:37:22.042693+00:00",
+   "expires_at": "2026-11-26T17:00:22+00:00",
+   "decision": 1.59,
+   "priority": 8.51287,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "588f7b0a1e0d0187",
    "item": {
     "id": "588f7b0a1e0d0187",
@@ -4348,8 +4375,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.888951,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.875092,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4376,13 +4403,12 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.621034,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.607176,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.wsj.com/tech/ai/tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai-3e4b4997?mod=rss_Technology": "2026-11-11T05:37:51.468629+00:00",
   "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00",
   "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00",
   "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00",
@@ -4708,74 +4734,15 @@
   "https://arxiv.org/abs/2611.27973": "2026-11-25T03:38:56.936238+00:00",
   "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban": "2026-11-25T04:07:53.711286+00:00",
   "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html": "2026-11-25T04:38:11.225558+00:00",
-  "https://analyticsindiamag.com/ai-news/thomas-dohmkes-entire-partners-with-sarvam-to-bring-ai-coding-agents-to-india": "2026-11-25T05:08:07.420133+00:00"
+  "https://analyticsindiamag.com/ai-news/thomas-dohmkes-entire-partners-with-sarvam-to-bring-ai-coding-agents-to-india": "2026-11-25T05:08:07.420133+00:00",
+  "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece": "2026-11-25T05:37:52.108806+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
-  "4b3b678dd2d69e9a": {
-   "imp": 0.93,
-   "ai": 0.85,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "d50dc7a2335f6b81": {
-   "imp": 2.35,
-   "ai": 0.97,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "db20b62de2b2af3a": {
-   "imp": 1.84,
-   "ai": 0.61,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "b8355fd359fa37da": {
-   "imp": 2.0,
-   "ai": 0.96,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "583ed7dae3092711": {
-   "imp": 1.34,
-   "ai": 0.72,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "f1295f5480827f60": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "01364f65eb9e74dd": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "c72da67367eb2456": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "7ba41246814e3786": {
-   "imp": 1.9,
-   "ai": 0.9,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "6e822afb2994aacb": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "cfc447f527c2b07e": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
-  "b8669b3e1d9481b6": {
-   "imp": 0.34,
-   "ai": 0.09,
-   "ts": "2026-11-17T05:37:34.818659+00:00"
-  },
   "49a752c63bbc9f3d": {
    "imp": 0.57,
    "ai": 0.09,
@@ -26135,6 +26102,121 @@
    "imp": 0.14,
    "ai": 0.02,
    "ts": "2026-11-25T05:07:25.964686+00:00"
+  },
+  "3d296b524248e0f3": {
+   "imp": 0.1,
+   "ai": null,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "99ebd6cd56f9ecc5": {
+   "imp": 1.07,
+   "ai": 0.78,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "4e5fe1731768859d": {
+   "imp": 1.03,
+   "ai": 0.91,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "dc45c2d9b60e2477": {
+   "imp": 1.59,
+   "ai": 0.47,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "40ca5b165ca0ab70": {
+   "imp": 0.83,
+   "ai": 0.93,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "d346243ade10ca70": {
+   "imp": 1.02,
+   "ai": 0.66,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "6673a3951e117bd5": {
+   "imp": 2.23,
+   "ai": 0.91,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "fd863aeb90c931db": {
+   "imp": 1.36,
+   "ai": 0.92,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "956023fbe14c1f7d": {
+   "imp": 1.18,
+   "ai": 0.31,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "3dab70958802fdf3": {
+   "imp": 2.31,
+   "ai": 0.96,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "e822456765743260": {
+   "imp": 1.3,
+   "ai": 0.95,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "da9e1ef85a1e771a": {
+   "imp": 0.16,
+   "ai": 0.07,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "d138b2be4f1a2edb": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "54216ef64b935bbb": {
+   "imp": 0.3,
+   "ai": 0.08,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "1290aef51e2cfbed": {
+   "imp": 0.23,
+   "ai": 0.13,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "fc8dd1ac284782ed": {
+   "imp": 0.16,
+   "ai": 0.13,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "6b7e135e62a2423b": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "56d66fd0b7e18c58": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "6f2c034ce2543c1d": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "a9758eaffdc13e3a": {
+   "imp": 1.15,
+   "ai": 0.29,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "3209abba46736294": {
+   "imp": 0.96,
+   "ai": 0.52,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "f55ff020388c6fc7": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
+  },
+  "99ee7e4f60c58fc2": {
+   "imp": 0.21,
+   "ai": 0.06,
+   "ts": "2026-11-25T05:37:22.042693+00:00"
   }
  }
 }
