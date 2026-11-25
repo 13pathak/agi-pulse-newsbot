@@ -1,11 +1,5 @@
 {
  "seen": {
-  "43ef4d889aa2f332": "2026-11-18T16:37:24.404829+00:00",
-  "319e08473b4aa091": "2026-11-18T16:37:24.404829+00:00",
-  "5e38471ad78cac8c": "2026-11-18T16:37:24.404829+00:00",
-  "dfaea249bd21fefb": "2026-11-18T16:37:24.404829+00:00",
-  "d726734c4135941e": "2026-11-18T16:37:24.404829+00:00",
-  "ce416493dbd77e39": "2026-11-18T16:37:24.404829+00:00",
   "af1852b4c46dc30e": "2026-11-18T17:07:25.031903+00:00",
   "2d5a3de817461fab": "2026-11-18T17:07:25.031903+00:00",
   "d0d64858e5a46e79": "2026-11-18T17:07:25.031903+00:00",
@@ -1828,13 +1822,28 @@
   "1a2ba39f716f9281": "2026-11-25T15:07:25.006854+00:00",
   "e878493b7fa7ccfb": "2026-11-25T15:07:25.006854+00:00",
   "858a5eb89ced91dd": "2026-11-25T15:07:25.006854+00:00",
-  "c6e2db1a7602b2f1": "2026-11-25T15:07:25.006854+00:00"
+  "c6e2db1a7602b2f1": "2026-11-25T15:07:25.006854+00:00",
+  "336fa4df7cce74b3": "2026-11-25T16:37:26.354749+00:00",
+  "8e1c50f85748d1d6": "2026-11-25T16:37:26.354749+00:00",
+  "18a8a68d9d101536": "2026-11-25T16:37:26.354749+00:00",
+  "8e879d8edc50a6c5": "2026-11-25T16:37:26.354749+00:00",
+  "f6730ac844fe22d8": "2026-11-25T16:37:26.354749+00:00",
+  "556fdd1785a906b6": "2026-11-25T16:37:26.354749+00:00",
+  "7a254c518578f165": "2026-11-25T16:37:26.354749+00:00",
+  "cc4a36db5b4e0a18": "2026-11-25T16:37:26.354749+00:00",
+  "45e2e7f383aa17ac": "2026-11-25T16:37:26.354749+00:00",
+  "1ede0b009052071c": "2026-11-25T16:37:26.354749+00:00",
+  "6b1c4ab3d056003c": "2026-11-25T16:37:26.354749+00:00",
+  "4fc90829b474e1f8": "2026-11-25T16:37:26.354749+00:00",
+  "132a1c505ee0ddee": "2026-11-25T16:37:26.354749+00:00",
+  "2203f5966aa27828": "2026-11-25T16:37:26.354749+00:00",
+  "a4dc5ba9ae8f1c2b": "2026-11-25T16:37:26.354749+00:00",
+  "78121cc62c1e6a02": "2026-11-25T16:37:26.354749+00:00",
+  "3cb2871a2da45aad": "2026-11-25T16:37:26.354749+00:00",
+  "1e9e0fbcc7b99cd5": "2026-11-25T16:37:26.354749+00:00",
+  "16e4a7d7fbb202a3": "2026-11-25T16:37:26.354749+00:00"
  },
  "covered": [
-  {
-   "headline": "Walmart enables Meta Muse AI agent for Black Friday shopping",
-   "ts": "2026-11-23T16:37:24.886969+00:00"
-  },
   {
    "headline": "LTTS launches SDVault AI engineering platform for software vehicles",
    "ts": "2026-11-23T17:07:32.561267+00:00"
@@ -2058,11 +2067,15 @@
   {
    "headline": "Google DeepMind proposes Cooperative RSI framework for multi-agent AI evolution",
    "ts": "2026-11-25T15:07:25.006854+00:00"
+  },
+  {
+   "headline": "New York passes five-year ban on AI-powered toys",
+   "ts": "2026-11-25T16:37:26.354749+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 26
+  "count": 27
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4392,8 +4405,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.194778,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.212135,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4420,8 +4433,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.175046,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.192403,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4448,8 +4461,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.984413,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.00177,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4477,11 +4490,21 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.810635,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 6.827992,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+   "source": "The Guardian",
+   "kind": "takes",
+   "title": "New York bans AI toys, including those using internet to talk to children",
+   "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The recently …",
+   "queued_at": "2026-11-25T16:37:26.354749+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
   "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00",
@@ -4818,96 +4841,6 @@
   "takes": 24
  },
  "triage": {
-  "0129ad58649038c8": {
-   "imp": 2.57,
-   "ai": 0.84,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "cb8293f821d94f0d": {
-   "imp": 2.37,
-   "ai": null,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "e0185595ee6eb2db": {
-   "imp": 2.7,
-   "ai": null,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "9073920a14eae64d": {
-   "imp": 1.26,
-   "ai": null,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "7d94b2ada4dcd17c": {
-   "imp": 1.33,
-   "ai": 0.9,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "f8789bd524c59850": {
-   "imp": 2.69,
-   "ai": 0.94,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "959d585652d1212b": {
-   "imp": 1.47,
-   "ai": 0.78,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "3468483cc66ab657": {
-   "imp": 1.07,
-   "ai": 0.48,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "a7682db1d76eeee5": {
-   "imp": 2.7,
-   "ai": 0.89,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "cd100b735815ae3f": {
-   "imp": 2.65,
-   "ai": 0.89,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "36176228914527d8": {
-   "imp": 2.64,
-   "ai": 0.89,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "66dd259e66eeb07f": {
-   "imp": 2.67,
-   "ai": 0.9,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "e561862ab3766fd6": {
-   "imp": 2.29,
-   "ai": 0.76,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "bf9c3e0a3483d49f": {
-   "imp": 2.32,
-   "ai": 0.95,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "dec08682255b4b65": {
-   "imp": 2.17,
-   "ai": null,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "522e08e489b1635a": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "849c739d46d07fcf": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
-  "236aa1e94fd5d37b": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-17T16:37:25.616866+00:00"
-  },
   "ce29990362094ed7": {
    "imp": 1.68,
    "ai": 0.85,
@@ -26222,6 +26155,41 @@
    "imp": 0.1,
    "ai": 0.02,
    "ts": "2026-11-25T16:07:26.776593+00:00"
+  },
+  "78121cc62c1e6a02": {
+   "imp": 1.26,
+   "ai": 0.69,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "18a8a68d9d101536": {
+   "imp": 2.04,
+   "ai": 0.95,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "8e879d8edc50a6c5": {
+   "imp": 1.78,
+   "ai": 0.95,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "48dbdcb1c7a2941e": {
+   "imp": 0.38,
+   "ai": 0.17,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "a4dc5ba9ae8f1c2b": {
+   "imp": 1.23,
+   "ai": 0.91,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "d27e0d2955f6380b": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "704d7a8b0cc3a3eb": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-25T16:37:26.354749+00:00"
   }
  }
 }
