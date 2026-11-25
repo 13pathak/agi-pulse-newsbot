@@ -4386,6 +4386,12 @@
    "desc": "",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Ts7RsLLSU4iEOxQwBkGgg/cbf56c075004a9ae2c41af4d5f7b428b/ifood-customer-story-social.png?w=1600&h=900&fit=fill",
    "published": "2026-05-27T11:00:00+00:00"
+  },
+  "https://openai.com/business/customer-stories/intentful-dots": {
+   "title": "How Intentful uses dots to make more time for growth",
+   "desc": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
+   "published": "2025-10-27T00:00:00+00:00"
   }
  },
  "pending": [
@@ -4415,8 +4421,8 @@
    "first_seen_at": "2026-11-24T10:07:23.475746+00:00",
    "expires_at": "2026-11-25T19:38:00+00:00",
    "decision": 1.49,
-   "priority": 7.26084,
-   "selection_reason": "Editorial importance; waiting 15.0h"
+   "priority": 7.246958,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "9965f17ee5bcd8de",
@@ -4445,8 +4451,8 @@
    "first_seen_at": "2026-11-24T04:07:21.465936+00:00",
    "expires_at": "2026-11-27T00:00:00+00:00",
    "decision": 1.22,
-   "priority": 7.144968,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.139762,
+   "selection_reason": "Editorial importance; waiting 21.5h"
   },
   {
    "id": "588f7b0a1e0d0187",
@@ -4473,8 +4479,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 7.000084,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.986201,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "c7d2da5c582fe3f0",
@@ -4514,7 +4520,7 @@
    "first_seen_at": "2026-11-25T01:07:23.087505+00:00",
    "expires_at": "2026-11-26T05:17:09+00:00",
    "decision": 1.78,
-   "priority": 6.875632,
+   "priority": 6.892985,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4542,8 +4548,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.732168,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.718285,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   }
  ],
  "details_queue": [],
@@ -26442,6 +26448,146 @@
    "imp": 0.11,
    "ai": 0.01,
    "ts": "2026-11-25T01:07:23.087505+00:00"
+  },
+  "dd9641ab20f437b0": {
+   "imp": 1.44,
+   "ai": 0.95,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "be63cf16beb4f0fb": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "470b9c004cd6f4f3": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "18f64f4bb4217a73": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "a1b4e4cabea43ce1": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "af557a78dc6110e7": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "f33a7e5ab35f8264": {
+   "imp": 0.68,
+   "ai": 0.18,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "aa8bda0d22bcdc9a": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "8e1aae73048a0f14": {
+   "imp": 0.78,
+   "ai": 0.31,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "778b6371e427f03e": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "f69e26f320fefd8a": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "225f9dadf25eaac0": {
+   "imp": 1.45,
+   "ai": 0.44,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "f0efa6cb4b5d6c0d": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "ab67a8485cbd14eb": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "3447bced206ce5b5": {
+   "imp": 0.21,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "aab31b103ae90ed2": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "06c9e924ab11b786": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "8676645457661875": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "b5b83cdde811542c": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "c73a558a73186103": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "1d989e5646bc06f7": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "c0f8769f9d6fd171": {
+   "imp": 0.16,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "d6429426214b8a4a": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "d8168a1c35fbd959": {
+   "imp": 0.46,
+   "ai": 0.06,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "5a13a0796939a6a9": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "23ed2c3ec55cabf1": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "5266878b0e186dea": {
+   "imp": 0.63,
+   "ai": 0.07,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
+  },
+  "f796e127a00ba54d": {
+   "imp": 1.56,
+   "ai": 0.95,
+   "ts": "2026-11-25T01:37:22.287494+00:00"
   }
  }
 }
