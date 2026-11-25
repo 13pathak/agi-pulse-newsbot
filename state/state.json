@@ -1,19 +1,5 @@
 {
  "seen": {
-  "9c0a1db7310df6bb": "2026-11-18T13:37:25.451880+00:00",
-  "af5921fb19f009a4": "2026-11-18T13:37:25.451880+00:00",
-  "bd9ac483b6a32d30": "2026-11-18T13:37:25.451880+00:00",
-  "083251a67bf4adea": "2026-11-18T13:37:25.451880+00:00",
-  "5e888bac8f86cebe": "2026-11-18T13:37:25.451880+00:00",
-  "4bb745bf3ff56fb7": "2026-11-18T13:37:25.451880+00:00",
-  "c33ace0d92791701": "2026-11-18T13:37:25.451880+00:00",
-  "21b6886a42be8e1f": "2026-11-18T13:37:25.451880+00:00",
-  "4e7369e1579face7": "2026-11-18T13:37:25.451880+00:00",
-  "a7dcb3eddfeef2ef": "2026-11-18T13:37:25.451880+00:00",
-  "8a2685ec9405afa8": "2026-11-18T13:37:25.451880+00:00",
-  "014bf46a0b343c36": "2026-11-18T13:37:25.451880+00:00",
-  "b0ca23f3753a09a6": "2026-11-18T13:37:25.451880+00:00",
-  "a2c57daa21667a6b": "2026-11-18T13:37:25.451880+00:00",
   "679cee5ea1466f1f": "2026-11-18T15:07:22.879384+00:00",
   "1c3eaf246b725d75": "2026-11-18T15:07:22.879384+00:00",
   "05a651b8e79432f4": "2026-11-18T15:07:22.879384+00:00",
@@ -1858,13 +1844,18 @@
   "929f2b2360df7688": "2026-11-25T13:07:25.190462+00:00",
   "2077e05eb9721ade": "2026-11-25T13:07:25.190462+00:00",
   "a53914f27be96e5f": "2026-11-25T13:07:25.190462+00:00",
-  "85881ba37f622444": "2026-11-25T13:07:25.190462+00:00"
+  "85881ba37f622444": "2026-11-25T13:07:25.190462+00:00",
+  "da684a9caaef1f8e": "2026-11-25T13:37:25.106913+00:00",
+  "e897fbcd3abf8702": "2026-11-25T13:37:25.106913+00:00",
+  "2303794324b5a21f": "2026-11-25T13:37:25.106913+00:00",
+  "4b20f6e91f8f3f73": "2026-11-25T13:37:25.106913+00:00",
+  "6a0714a89a888735": "2026-11-25T13:37:25.106913+00:00",
+  "9edbb62c9bcf9b95": "2026-11-25T13:37:25.106913+00:00",
+  "0a0a941bd6ca9b05": "2026-11-25T13:37:25.106913+00:00",
+  "8625dd519ff72f7d": "2026-11-25T13:37:25.106913+00:00",
+  "6bac70b0e1802a36": "2026-11-25T13:37:25.106913+00:00"
  },
  "covered": [
-  {
-   "headline": "Indian AI funding reaches 1.6 billion dollars in nine months",
-   "ts": "2026-11-23T13:37:21.234669+00:00"
-  },
   {
    "headline": "Nvidia board reinstates Jensen Huang as CEO",
    "ts": "2026-11-23T15:07:24.610166+00:00"
@@ -2092,11 +2083,15 @@
   {
    "headline": "Nexent Capital launches $1 billion fund for AI infrastructure",
    "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  {
+   "headline": "Google DeepMind uses AI agents for Gemini training experiments",
+   "ts": "2026-11-25T13:37:25.106913+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4402,8 +4397,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:32:51+00:00",
    "decision": 1.68,
-   "priority": 7.57528,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.59264,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "c6e2db1a7602b2f1",
@@ -4431,8 +4426,8 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.310898,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.328258,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "fc509d5dcb94321f",
@@ -4459,8 +4454,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.090596,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.107957,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4487,8 +4482,36 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.070864,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.088224,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "ca6d641a2bb7646a",
+   "item": {
+    "id": "ca6d641a2bb7646a",
+    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
+    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
+    "published": "2026-11-25T12:49:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
+   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
+   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
+   "support": 0.95,
+   "published_at": "2026-11-25T12:49:01+00:00",
+   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
+   "expires_at": "2026-11-27T00:49:01+00:00",
+   "decision": 1.26,
+   "priority": 6.897592,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4516,14 +4539,12 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.706453,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 6.723814,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.indiatoday.in/technology/news/story/chatgpt-go-available-to-some-users-for-as-little-as-rs-99-but-there-is-a-catch-3036725-2026-11-11": "2026-11-11T13:09:27.185558+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems": "2026-11-11T13:38:02.174146+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center": "2026-11-11T14:08:09.130075+00:00",
   "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00",
@@ -4849,79 +4870,15 @@
   "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25": "2026-11-25T11:38:00.789777+00:00",
   "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25": "2026-11-25T12:09:30.798423+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work": "2026-11-25T12:38:15.657443+00:00",
-  "https://yourstory.com/2026/11/nexent-capital-launches-1-billion-fund-focused-on-ai-data-centres-investments": "2026-11-25T13:07:57.134599+00:00"
+  "https://yourstory.com/2026/11/nexent-capital-launches-1-billion-fund-focused-on-ai-data-centres-investments": "2026-11-25T13:07:57.134599+00:00",
+  "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant": "2026-11-25T13:38:02.662566+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 2,
-  "takes": 21
+  "takes": 22
  },
  "triage": {
-  "f66c77188052f635": {
-   "imp": 1.47,
-   "ai": 0.63,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "306e2fbc2202adf7": {
-   "imp": 2.17,
-   "ai": 0.9,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "f4e397fe33d7dfe4": {
-   "imp": 1.96,
-   "ai": 0.85,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "01ccb47fede430d7": {
-   "imp": 0.38,
-   "ai": 0.15,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "bac4a619fb3c6fd1": {
-   "imp": 2.45,
-   "ai": 0.97,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "9f3cf43c36ff7ccc": {
-   "imp": 2.16,
-   "ai": 0.88,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "d93081553b9b4583": {
-   "imp": 1.26,
-   "ai": null,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "71c1b9f9d048e9ae": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "cb030dd068bc7a53": {
-   "imp": 0.33,
-   "ai": 0.07,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "95623656f25bfb57": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "db5b54d14d9e81a6": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "a483f3d4fe9feb3a": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
-  "cbfec0e5237327b2": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:37:25.189173+00:00"
-  },
   "0b27db5afea169d0": {
    "imp": 2.2,
    "ai": 0.84,
@@ -26291,6 +26248,91 @@
    "imp": 0.12,
    "ai": 0.04,
    "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "9edbb62c9bcf9b95": {
+   "imp": 1.22,
+   "ai": null,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "6bac70b0e1802a36": {
+   "imp": 1.9,
+   "ai": null,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "8625dd519ff72f7d": {
+   "imp": 1.44,
+   "ai": null,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "0a0a941bd6ca9b05": {
+   "imp": 1.83,
+   "ai": null,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "4b20f6e91f8f3f73": {
+   "imp": 1.38,
+   "ai": 0.86,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "6a0714a89a888735": {
+   "imp": 1.25,
+   "ai": 0.29,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "2303794324b5a21f": {
+   "imp": 1.54,
+   "ai": 0.75,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "ca6d641a2bb7646a": {
+   "imp": 1.26,
+   "ai": 0.27,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "e897fbcd3abf8702": {
+   "imp": 1.64,
+   "ai": 0.96,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "da684a9caaef1f8e": {
+   "imp": 1.3,
+   "ai": null,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "d2158d4a8be3acb3": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "94a329105f5a5740": {
+   "imp": 0.27,
+   "ai": 0.09,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "0cab77010ae80e16": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "ab6b264feec654d6": {
+   "imp": 0.52,
+   "ai": 0.09,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "64b8821e1307c816": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "164ad045ac7360a9": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "9d07f1e4396fea9a": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:37:25.106913+00:00"
   }
  }
 }
