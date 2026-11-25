@@ -1847,10 +1847,6 @@
  },
  "covered": [
   {
-   "headline": "Z.ai launches GLM-5.4 flagship model using loop architecture",
-   "ts": "2026-11-23T15:37:24.801105+00:00"
-  },
-  {
    "headline": "Sarvam AI launches Sarvam Dictate API for 22 Indian languages",
    "ts": "2026-11-23T16:07:27.054964+00:00"
   },
@@ -4363,6 +4359,24 @@
    "desc": "揭秘General Looped Model",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512715.html": {
+   "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+   "desc": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512582.html": {
+   "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+   "desc": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512683.html": {
+   "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+   "desc": "贯通具⾝智能研发流程",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4391,8 +4405,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.160039,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.177382,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4419,8 +4433,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.140306,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.157649,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4447,8 +4461,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.949674,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.967017,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4476,8 +4490,8 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.775896,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 6.793239,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   }
  ],
  "details_queue": [
@@ -4488,7 +4502,7 @@
    "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
    "summary": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Google DeepMind 抛出了一套从 AGI 迈向 ASI 的技术演进框架，其中有个相当大胆的设想： 未来 AI 的能力增长，可能要靠它自己学会组建公司，甚至不断重写公司的组织架构。 这套框架提出了 Cooperative RSI（合作式递归自我改进）机制。设想一下，成千上万个 AI Agent 可以自行分工、积累专业经验、调整协作关系，再把节省下来的算力投入新一轮研发。随着组织效率提高，系统又获得更多资源来改造自身，形成持续迭代的增长循环。 这意味着，未来 AI 的进化单位可能从单个模型扩展为整个研发组织，连任务分配、专业分工和知识传递机制也会成为可优化的技术变量。不过，增加 Agent 容易，让一个组织持续创造超出资源消耗的能力增益却困难得多。 Cooperative RSI 究竟怎样形成递归增长，组织效率能否像模型能力一样被规模化扩展，以及谁来判断 AI 对自身的改造确实有效？ 这些问题构成了这套框架中颇有研究空间的技术核心。 01 从模型扩展到组织扩展 过去，AI 能力增长主要依赖模型架构、训练数据和计算规模。当多个 Agent 开始共同承担复杂研发任务时，计算资源与能力之间的关系就没有那么直接了。 问题出在任务依赖和协调成本上。复杂研发通常包含大量相互依赖的环节，上游结果决定下游工作能否继续。增加 Agent 可以提高独立任务的并行吞吐，却无法直接缩短任务依赖图中的关键路径。 随着成员规模扩大，中间结果传递、上下文同步和…",
    "queued_at": "2026-11-25T15:07:25.006854+00:00",
-   "attempts": 1
+   "attempts": 2
   }
  ],
  "details_done": {
@@ -4826,46 +4840,6 @@
   "takes": 23
  },
  "triage": {
-  "a127bdd6bea974b0": {
-   "imp": 0.19,
-   "ai": null,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "fb63fafb53503920": {
-   "imp": 2.08,
-   "ai": 0.98,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "77fdc390142972d8": {
-   "imp": 1.91,
-   "ai": 0.95,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "d2c1528594894389": {
-   "imp": 1.48,
-   "ai": 0.88,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "5c3a37d25e002808": {
-   "imp": 1.3,
-   "ai": null,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "d8305b7490d2ee8b": {
-   "imp": 1.59,
-   "ai": null,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "d344ff06316820b0": {
-   "imp": 0.04,
-   "ai": 0.01,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
-  "c0a06ff7374e5443": {
-   "imp": 0.02,
-   "ai": 0.02,
-   "ts": "2026-11-17T15:37:39.393037+00:00"
-  },
   "cf2d9252b5511afe": {
    "imp": 2.3,
    "ai": 0.86,
@@ -26195,6 +26169,81 @@
    "imp": 0.13,
    "ai": 0.03,
    "ts": "2026-11-25T15:07:25.006854+00:00"
+  },
+  "16e4a7d7fbb202a3": {
+   "imp": 1.75,
+   "ai": null,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "132a1c505ee0ddee": {
+   "imp": 1.04,
+   "ai": null,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "556fdd1785a906b6": {
+   "imp": 1.48,
+   "ai": 0.86,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "45e2e7f383aa17ac": {
+   "imp": 1.4,
+   "ai": 0.96,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "2203f5966aa27828": {
+   "imp": 1.4,
+   "ai": 0.93,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "b59a8f2fd288436a": {
+   "imp": 1.24,
+   "ai": 0.95,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "6075649ae415be5f": {
+   "imp": 0.3,
+   "ai": 0.14,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "336fa4df7cce74b3": {
+   "imp": 2.4,
+   "ai": 0.97,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "0709b96742c5a32a": {
+   "imp": 0.18,
+   "ai": 0.06,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "4aeb77826e674534": {
+   "imp": 0.27,
+   "ai": 0.06,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "44bc5e1a955e20a8": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "262f9e1d4efd7f9e": {
+   "imp": 0.03,
+   "ai": 0.02,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "671298c24537bbcd": {
+   "imp": 0.85,
+   "ai": 0.12,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "d47bb03c725fb67f": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
+  },
+  "47aecbafbc09ae6e": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-25T15:37:23.104451+00:00"
   }
  }
 }
