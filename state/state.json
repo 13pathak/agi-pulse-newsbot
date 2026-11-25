@@ -1,9 +1,5 @@
 {
  "seen": {
-  "7cd204ece6218b90": "2026-11-18T08:07:23.551626+00:00",
-  "95c4ec37c9a4eb2b": "2026-11-18T08:07:23.551626+00:00",
-  "b24d4488acc7fefb": "2026-11-18T08:07:23.551626+00:00",
-  "0145fb90b8379117": "2026-11-18T08:07:23.551626+00:00",
   "dc8e46ad8c796395": "2026-11-18T08:37:32.820431+00:00",
   "d189655d18895b1e": "2026-11-18T08:37:32.820431+00:00",
   "1c7bbc65b034423d": "2026-11-18T08:37:32.820431+00:00",
@@ -1853,13 +1849,17 @@
   "e11bbee53a7b1bd1": "2026-11-25T07:07:21.400274+00:00",
   "648f8f976fcd6082": "2026-11-25T07:07:21.400274+00:00",
   "0a2a5bd8a39431b3": "2026-11-25T07:07:21.400274+00:00",
-  "588f7b0a1e0d0187": "2026-11-25T07:37:33.157399+00:00"
+  "588f7b0a1e0d0187": "2026-11-25T07:37:33.157399+00:00",
+  "a4a11be9388879b4": "2026-11-25T08:07:34.279941+00:00",
+  "7b29081c7b2ab2e8": "2026-11-25T08:07:34.279941+00:00",
+  "b1d3d41803ca951a": "2026-11-25T08:07:34.279941+00:00",
+  "23e87897897a6c22": "2026-11-25T08:07:34.279941+00:00",
+  "fdb5221adb11cfd9": "2026-11-25T08:07:34.279941+00:00",
+  "44100d5ba39a4df2": "2026-11-25T08:07:34.279941+00:00",
+  "c6020767ca994103": "2026-11-25T08:07:34.279941+00:00",
+  "b19e9ea0a3070f1c": "2026-11-25T08:07:34.279941+00:00"
  },
  "covered": [
-  {
-   "headline": "Karnataka partners with Pega for tech upskilling",
-   "ts": "2026-11-23T08:07:24.100242+00:00"
-  },
   {
    "headline": "Diffuspace presents Clover-35B-A3B diffusion language model paper",
    "ts": "2026-11-23T08:37:29.658636+00:00"
@@ -2079,11 +2079,15 @@
   {
    "headline": "Former xAI team members launch Epochal with $100M funding",
    "ts": "2026-11-25T07:07:21.400274+00:00"
+  },
+  {
+   "headline": "Anthropic tests Claude Opus 5.6 with increased efficiency",
+   "ts": "2026-11-25T08:07:34.279941+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4318,12 +4322,88 @@
    "desc": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
    "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
    "published": "2025-10-27T00:00:00+00:00"
+  },
+  "https://www.qbitai.com/2026/11/512478.html": {
+   "title": "Claude Opus 5.6灰测效果来了",
+   "desc": "整体效率大约是此前Opus版本的2到3倍。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512454.html": {
+   "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+   "desc": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512498.html": {
+   "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+   "desc": "复杂场景三维建模成本降至10美元以内",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "id": "73b03602b61258e0",
+   "item": {
+    "id": "73b03602b61258e0",
+    "title": "腾讯混元发布Hy4 flash本地部署",
+    "url": "https://36kr.com/newsflashes/4084860684757379?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，腾讯混元通过大模型压缩加速工具箱AngelSlim开源Hy4 flash GGUF量化权重及配套推理代码。经过压缩和运行优化，Hy4 flash这款总参数量为224B的模型可以部署到个人设备上——体积最小的版本，权重仅约为原始版本的 30%。此外，借助优化后的Strata offload框架，模型也可以在64 GB的Mac mini等设备上运行。实测数据显示，在配备48GB显存的设备上，模型生成速度最高可达每秒89个token。",
+    "published": "2026-11-25T07:42:03+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Tencent open-sources Hy4 Flash model weights for local deployment",
+   "post": "Tencent Hunyuan open-sourced GGUF quantized weights for its 224-billion parameter Hy4 Flash model. The smallest compressed version is 30 percent of original size, generating up to 89 tokens per second on 48GB VRAM.",
+   "editor_note": "Confirm whether token generation speeds were tested under standard evaluation benchmarks or internal hardware setups.",
+   "support": 0.92,
+   "published_at": "2026-11-25T07:42:03+00:00",
+   "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
+   "expires_at": "2026-11-26T19:42:03+00:00",
+   "decision": 1.79,
+   "priority": 7.084851,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "7b0c1eaef85d0c98",
+   "item": {
+    "id": "7b0c1eaef85d0c98",
+    "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+    "url": "https://www.qbitai.com/2026/11/512454.html",
+    "source": "QbitAI",
+    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+    "snippet": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+    "published": "2026-11-24T10:30:42+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Amap releases ABot-World 0.5 interactive world model",
+   "post": "Alibaba subsidiary Amap released ABot-World 0.5, an interactive world model capable of real-time physical environment simulation with synchronized audio and video.",
+   "editor_note": "Check whether ABot-World 0.5 code, model weights, or API access are publicly available.",
+   "support": 0.88,
+   "published_at": "2026-11-24T10:30:42+00:00",
+   "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
+   "expires_at": "2026-11-25T22:30:42+00:00",
+   "decision": 1.9,
+   "priority": 6.53293,
+   "selection_reason": "Editorial importance"
+  }
+ ],
  "details_queue": [],
  "details_done": {
-  "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00",
   "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
   "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00",
@@ -4650,94 +4730,15 @@
   "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece": "2026-11-25T05:37:52.108806+00:00",
   "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1": "2026-11-25T06:07:55.227199+00:00",
   "https://36kr.com/newsflashes/4084767820311168?f=rss": "2026-11-25T06:38:01.678748+00:00",
-  "https://analyticsindiamag.com/ai-news/can-ai-predict-the-future-former-xai-team-build-ai-time-machine-in-hopes-of-just-that": "2026-11-25T07:08:09.518585+00:00"
+  "https://analyticsindiamag.com/ai-news/can-ai-predict-the-future-former-xai-team-build-ai-time-machine-in-hopes-of-just-that": "2026-11-25T07:08:09.518585+00:00",
+  "https://www.qbitai.com/2026/11/512478.html": "2026-11-25T08:08:22.662852+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
-  "3bba813f2b605aed": {
-   "imp": 1.86,
-   "ai": 0.94,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "36754e618e209ea1": {
-   "imp": 2.21,
-   "ai": 0.94,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "8884e1d9470f6d1c": {
-   "imp": 1.1,
-   "ai": 0.62,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "6b0aba9f3480e5c4": {
-   "imp": 0.45,
-   "ai": 0.24,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "154f1e300781b09b": {
-   "imp": 1.35,
-   "ai": 0.91,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "f45fb4080bd1b1a1": {
-   "imp": 1.11,
-   "ai": 0.31,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "62a03bbfd34866cf": {
-   "imp": 1.81,
-   "ai": 0.9,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "5e111780e5ba7929": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "80a8cfde29eba8b6": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "2093f186f012f14c": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "c935aed246bcbd6c": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "f8ad246e5c4dbe35": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "607d195c96519e3b": {
-   "imp": 0.15,
-   "ai": 0.05,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "4bb66063b38a6a71": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "b5deecef22572057": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
-  "d0bfdc898228a7cd": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-17T08:07:21.757559+00:00"
-  },
   "5dae0f7dddd9b9be": {
    "imp": 2.37,
    "ai": 0.96,
@@ -26077,6 +26078,81 @@
    "imp": 0.44,
    "ai": 0.05,
    "ts": "2026-11-25T07:37:33.157399+00:00"
+  },
+  "23e87897897a6c22": {
+   "imp": 1.44,
+   "ai": 0.96,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "a4a11be9388879b4": {
+   "imp": 1.76,
+   "ai": 0.86,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "44100d5ba39a4df2": {
+   "imp": 1.63,
+   "ai": 0.96,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "b19e9ea0a3070f1c": {
+   "imp": 2.01,
+   "ai": 0.97,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "7b0c1eaef85d0c98": {
+   "imp": 1.9,
+   "ai": 0.99,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "73b03602b61258e0": {
+   "imp": 1.79,
+   "ai": 0.98,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "12db493797b60948": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "f5c8216c32a6820e": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "14314b471594b5af": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "f7015eb93dc7b2e0": {
+   "imp": 0.46,
+   "ai": 0.05,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "25a3a43321ca81a2": {
+   "imp": 0.31,
+   "ai": 0.06,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "40dd879f7ac16d49": {
+   "imp": 1.4,
+   "ai": 0.38,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "e2222802622f386e": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "6a8dbfdf6110e104": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "4dd1f6affe7dcdb3": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T08:07:34.279941+00:00"
   }
  }
 }
