@@ -1,11 +1,5 @@
 {
  "seen": {
-  "dc8e46ad8c796395": "2026-11-18T08:37:32.820431+00:00",
-  "d189655d18895b1e": "2026-11-18T08:37:32.820431+00:00",
-  "1c7bbc65b034423d": "2026-11-18T08:37:32.820431+00:00",
-  "6d360bef5d6fcf70": "2026-11-18T08:37:32.820431+00:00",
-  "813e302ccb617cc1": "2026-11-18T08:37:32.820431+00:00",
-  "0b27db5afea169d0": "2026-11-18T08:37:32.820431+00:00",
   "d6f42481b3d3db4c": "2026-11-18T09:07:23.938680+00:00",
   "728d5761c63a84e6": "2026-11-18T09:07:23.938680+00:00",
   "502688bdb5c3a95e": "2026-11-18T09:07:23.938680+00:00",
@@ -1857,13 +1851,18 @@
   "fdb5221adb11cfd9": "2026-11-25T08:07:34.279941+00:00",
   "44100d5ba39a4df2": "2026-11-25T08:07:34.279941+00:00",
   "c6020767ca994103": "2026-11-25T08:07:34.279941+00:00",
-  "b19e9ea0a3070f1c": "2026-11-25T08:07:34.279941+00:00"
+  "b19e9ea0a3070f1c": "2026-11-25T08:07:34.279941+00:00",
+  "e2dc72dcad151e27": "2026-11-25T08:37:24.211236+00:00",
+  "93088d659b6b5c9d": "2026-11-25T08:37:24.211236+00:00",
+  "2889c020194bec4b": "2026-11-25T08:37:24.211236+00:00",
+  "34ef7e55cf92599f": "2026-11-25T08:37:24.211236+00:00",
+  "f58ed86b627b50b7": "2026-11-25T08:37:24.211236+00:00",
+  "36229718724a873b": "2026-11-25T08:37:24.211236+00:00",
+  "10b33a9eab30bbcf": "2026-11-25T08:37:24.211236+00:00",
+  "472f88b7c3fcecc1": "2026-11-25T08:37:24.211236+00:00",
+  "73b03602b61258e0": "2026-11-25T08:37:24.211236+00:00"
  },
  "covered": [
-  {
-   "headline": "Diffuspace presents Clover-35B-A3B diffusion language model paper",
-   "ts": "2026-11-23T08:37:29.658636+00:00"
-  },
   {
    "headline": "Bolna builds speech model for short Indian conversational phrases",
    "ts": "2026-11-23T09:07:24.380155+00:00"
@@ -2083,11 +2082,15 @@
   {
    "headline": "Anthropic tests Claude Opus 5.6 with increased efficiency",
    "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  {
+   "headline": "Tencent open-sources Hy4 Flash model weights for local deployment",
+   "ts": "2026-11-25T08:37:24.211236+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4344,35 +4347,6 @@
  },
  "pending": [
   {
-   "id": "73b03602b61258e0",
-   "item": {
-    "id": "73b03602b61258e0",
-    "title": "腾讯混元发布Hy4 flash本地部署",
-    "url": "https://36kr.com/newsflashes/4084860684757379?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，腾讯混元通过大模型压缩加速工具箱AngelSlim开源Hy4 flash GGUF量化权重及配套推理代码。经过压缩和运行优化，Hy4 flash这款总参数量为224B的模型可以部署到个人设备上——体积最小的版本，权重仅约为原始版本的 30%。此外，借助优化后的Strata offload框架，模型也可以在64 GB的Mac mini等设备上运行。实测数据显示，在配备48GB显存的设备上，模型生成速度最高可达每秒89个token。",
-    "published": "2026-11-25T07:42:03+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Tencent open-sources Hy4 Flash model weights for local deployment",
-   "post": "Tencent Hunyuan open-sourced GGUF quantized weights for its 224-billion parameter Hy4 Flash model. The smallest compressed version is 30 percent of original size, generating up to 89 tokens per second on 48GB VRAM.",
-   "editor_note": "Confirm whether token generation speeds were tested under standard evaluation benchmarks or internal hardware setups.",
-   "support": 0.92,
-   "published_at": "2026-11-25T07:42:03+00:00",
-   "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
-   "expires_at": "2026-11-26T19:42:03+00:00",
-   "decision": 1.79,
-   "priority": 7.084851,
-   "selection_reason": "Editorial importance"
-  },
-  {
    "id": "7b0c1eaef85d0c98",
    "item": {
     "id": "7b0c1eaef85d0c98",
@@ -4398,13 +4372,12 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.53293,
+   "priority": 6.550194,
    "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00",
   "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
   "https://www.indiatoday.in/technology/news/story/nobel-laureate-validates-openais-ai-generated-yang-mills-proof-but-1-million-problem-remains-open-3036638-2026-11-11": "2026-11-11T09:10:52.474403+00:00",
   "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities": "2026-11-11T09:37:39.640591+00:00",
@@ -4731,119 +4704,15 @@
   "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1": "2026-11-25T06:07:55.227199+00:00",
   "https://36kr.com/newsflashes/4084767820311168?f=rss": "2026-11-25T06:38:01.678748+00:00",
   "https://analyticsindiamag.com/ai-news/can-ai-predict-the-future-former-xai-team-build-ai-time-machine-in-hopes-of-just-that": "2026-11-25T07:08:09.518585+00:00",
-  "https://www.qbitai.com/2026/11/512478.html": "2026-11-25T08:08:22.662852+00:00"
+  "https://www.qbitai.com/2026/11/512478.html": "2026-11-25T08:08:22.662852+00:00",
+  "https://36kr.com/newsflashes/4084860684757379?f=rss": "2026-11-25T08:38:16.959003+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
-  "5dae0f7dddd9b9be": {
-   "imp": 2.37,
-   "ai": 0.96,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "7add97706cb7bb56": {
-   "imp": 1.81,
-   "ai": 0.98,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "d5a4d45c40c1c25e": {
-   "imp": 1.03,
-   "ai": 0.56,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "0e130217634b8621": {
-   "imp": 2.37,
-   "ai": 0.95,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "f3c942e06b7da750": {
-   "imp": 2.12,
-   "ai": 0.87,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "a923fd9b70a1aed5": {
-   "imp": 2.21,
-   "ai": 0.94,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "fdf7cbb6cbccd1c5": {
-   "imp": 1.21,
-   "ai": null,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "04dbd24f71495b14": {
-   "imp": 0.12,
-   "ai": 0.08,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "8528712fea3cb1ba": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "809a5cf60a6d43b9": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "cd71f17d32503b0a": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "96f1bba9c4901ec2": {
-   "imp": 1.75,
-   "ai": 0.96,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "27ed239e873757e6": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "b3a6c2f844812696": {
-   "imp": 0.59,
-   "ai": 0.1,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "bdd37cad1a036098": {
-   "imp": 0.4,
-   "ai": 0.08,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "8d6a2afd51d831d8": {
-   "imp": 0.34,
-   "ai": 0.1,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "498e0da318b99598": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "a889d01af019d658": {
-   "imp": 0.17,
-   "ai": 0.09,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "dc234a73a7b9bc03": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "bebb381688ec667a": {
-   "imp": 1.09,
-   "ai": 0.12,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
-  "420152505c712e60": {
-   "imp": 0.22,
-   "ai": 0.1,
-   "ts": "2026-11-17T08:37:22.731778+00:00"
-  },
   "696a1e498fca797f": {
    "imp": 1.46,
    "ai": null,
@@ -26153,6 +26022,91 @@
    "imp": 0.13,
    "ai": 0.03,
    "ts": "2026-11-25T08:07:34.279941+00:00"
+  },
+  "f58ed86b627b50b7": {
+   "imp": 0.86,
+   "ai": 0.35,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "36229718724a873b": {
+   "imp": 0.78,
+   "ai": 0.82,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "e2dc72dcad151e27": {
+   "imp": 2.47,
+   "ai": 0.94,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "10b33a9eab30bbcf": {
+   "imp": 1.08,
+   "ai": 0.81,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "472f88b7c3fcecc1": {
+   "imp": 0.78,
+   "ai": 0.27,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "93088d659b6b5c9d": {
+   "imp": 1.79,
+   "ai": 0.98,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "34ef7e55cf92599f": {
+   "imp": 1.5,
+   "ai": 0.89,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "b5bd75c3c8a33c4e": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "bf3b1a3cbe6b03e2": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "f2a8760b19eb87b7": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "41fb66c1e5f88051": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "308b83d9fa988d0c": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "d9009118953fe998": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "2889c020194bec4b": {
+   "imp": 1.68,
+   "ai": 0.9,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "e1db623655046b90": {
+   "imp": 0.56,
+   "ai": 0.17,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "16dacb1f3925e771": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
+  },
+  "211c073f705c6f95": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-25T08:37:24.211236+00:00"
   }
  }
 }
