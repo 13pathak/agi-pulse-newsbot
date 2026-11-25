@@ -1,12 +1,5 @@
 {
  "seen": {
-  "d660f4c51e8d929b": "2026-11-18T06:37:21.744958+00:00",
-  "a4bf1e5b707f99f4": "2026-11-18T06:37:21.744958+00:00",
-  "eaeeeaef9f221651": "2026-11-18T06:37:21.744958+00:00",
-  "37fe55018d531733": "2026-11-18T06:37:21.744958+00:00",
-  "3a97091b35f5ccd9": "2026-11-18T06:37:21.744958+00:00",
-  "a7c45978609d523f": "2026-11-18T06:37:21.744958+00:00",
-  "92122528d189b74f": "2026-11-18T06:37:21.744958+00:00",
   "ebff97034b293e5f": "2026-11-18T07:07:22.056639+00:00",
   "b0caaac8b4105660": "2026-11-18T07:07:22.056639+00:00",
   "00d9c1f9b3e48bae": "2026-11-18T07:07:22.056639+00:00",
@@ -1852,13 +1845,14 @@
   "956023fbe14c1f7d": "2026-11-25T06:07:22.355988+00:00",
   "d346243ade10ca70": "2026-11-25T06:07:22.355988+00:00",
   "40ca5b165ca0ab70": "2026-11-25T06:07:22.355988+00:00",
-  "dc45c2d9b60e2477": "2026-11-25T06:07:22.355988+00:00"
+  "dc45c2d9b60e2477": "2026-11-25T06:07:22.355988+00:00",
+  "94fb45fef5901aaf": "2026-11-25T06:37:29.240366+00:00",
+  "41716cf91008dadb": "2026-11-25T06:37:29.240366+00:00",
+  "dc0f3e545a5ffe1f": "2026-11-25T06:37:29.240366+00:00",
+  "72c0ef09bab89387": "2026-11-25T06:37:29.240366+00:00",
+  "bcbbc3ee348659a2": "2026-11-25T06:37:29.240366+00:00"
  },
  "covered": [
-  {
-   "headline": "Matters.AI raising 110 crore rupees pre-Series A round",
-   "ts": "2026-11-23T06:37:21.079205+00:00"
-  },
   {
    "headline": "EloElo Group launches Dolphin AI Film Studio",
    "ts": "2026-11-23T07:07:24.707168+00:00"
@@ -2082,11 +2076,15 @@
   {
    "headline": "EU plans 50 billion euro tech fund",
    "ts": "2026-11-25T06:07:22.355988+00:00"
+  },
+  {
+   "headline": "Sand.ai releases MAGI-2 video generation model",
+   "ts": "2026-11-25T06:37:29.240366+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4325,35 +4323,6 @@
  },
  "pending": [
   {
-   "id": "bcbbc3ee348659a2",
-   "item": {
-    "id": "bcbbc3ee348659a2",
-    "title": "Sand.ai正式发布新一代视频生成模型MAGI-2",
-    "url": "https://36kr.com/newsflashes/4084767820311168?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，Sand.ai正式发布新一代视频生成模型MAGI-2，在Artificial Analysis（AA）榜单中登顶全球第一。支持原生30秒的1080P视频及音频生成，定价为每秒0.5元。Sand.ai宣布，将尽快开放MAGI-2模型权重。",
-    "published": "2026-11-25T06:00:42+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Sand.ai releases MAGI-2 video generation model",
-   "post": "Sand.ai has released its MAGI-2 video generation model, which produces native 30-second 1080p video with audio. The company priced generation at 0.5 yuan per second and announced plans to release the model weights.",
-   "editor_note": "Verify model weight availability and Artificial Analysis leaderboard ranking details.",
-   "support": 0.91,
-   "published_at": "2026-11-25T06:00:42+00:00",
-   "first_seen_at": "2026-11-25T06:07:22.355988+00:00",
-   "expires_at": "2026-11-26T18:00:42+00:00",
-   "decision": 2.26,
-   "priority": 7.750244,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "588f7b0a1e0d0187",
    "item": {
     "id": "588f7b0a1e0d0187",
@@ -4378,8 +4347,8 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:14:46+00:00",
    "decision": 1.74,
-   "priority": 6.861201,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.847259,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   },
   {
    "id": "44fe677fd46c23c4",
@@ -4406,14 +4375,12 @@
    "first_seen_at": "2026-11-24T02:07:21.883787+00:00",
    "expires_at": "2026-11-25T07:04:52+00:00",
    "decision": 0.95,
-   "priority": 6.593284,
-   "selection_reason": "Editorial importance; waiting 28.0h"
+   "priority": 6.579342,
+   "selection_reason": "Editorial importance; waiting 28.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india": "2026-11-11T06:08:32.019132+00:00",
-  "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": "2026-11-11T06:37:51.654049+00:00",
   "https://36kr.com/newsflashes/4064719784711043?f=rss": "2026-11-11T07:39:25.667667+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-aims-for-3-billion-to-3-5-billion-in-japan-offering": "2026-11-11T08:10:59.368316+00:00",
   "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir": "2026-11-11T09:10:52.474403+00:00",
@@ -4739,104 +4706,15 @@
   "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html": "2026-11-25T04:38:11.225558+00:00",
   "https://analyticsindiamag.com/ai-news/thomas-dohmkes-entire-partners-with-sarvam-to-bring-ai-coding-agents-to-india": "2026-11-25T05:08:07.420133+00:00",
   "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece": "2026-11-25T05:37:52.108806+00:00",
-  "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1": "2026-11-25T06:07:55.227199+00:00"
+  "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1": "2026-11-25T06:07:55.227199+00:00",
+  "https://36kr.com/newsflashes/4084767820311168?f=rss": "2026-11-25T06:38:01.678748+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 1,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
-  "ae45ea232af21655": {
-   "imp": 0.94,
-   "ai": 0.92,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "92289fd3f63893d6": {
-   "imp": 1.32,
-   "ai": 0.97,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "d0423e1a0b411f6f": {
-   "imp": 1.98,
-   "ai": 0.91,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "7f1c7dcee7942956": {
-   "imp": 1.56,
-   "ai": 0.66,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "1655597f39280d1a": {
-   "imp": 1.96,
-   "ai": 0.94,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "b5112d852d82b2c7": {
-   "imp": 2.57,
-   "ai": 0.98,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "f054a54f8228cfac": {
-   "imp": 1.35,
-   "ai": null,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "a87973f03c7f97d1": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "cdd0ec21a49bff38": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "c5761328c14aeaa2": {
-   "imp": 0.08,
-   "ai": 0.05,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "fb6bdf33e1db1e20": {
-   "imp": 0.22,
-   "ai": 0.06,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "e7cbf49b010218df": {
-   "imp": 0.55,
-   "ai": 0.15,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "663887b0a8e7dc1b": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "6e4e6c5aa61ca140": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "b49699e86d39e015": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "b3472f457dc934a8": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "ae3ee0f483ed9177": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
-  "11dd9c909d4e4b00": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-17T06:37:26.459931+00:00"
-  },
   "71566e5ba7c129a7": {
    "imp": 1.04,
    "ai": null,
@@ -26216,6 +26094,81 @@
    "imp": 0.22,
    "ai": 0.03,
    "ts": "2026-11-25T06:07:22.355988+00:00"
+  },
+  "94fb45fef5901aaf": {
+   "imp": 1.52,
+   "ai": 0.86,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "72c0ef09bab89387": {
+   "imp": 0.7,
+   "ai": 0.57,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "63a459d4ef177b34": {
+   "imp": 0.23,
+   "ai": 0.1,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "6b3b34750da2d28f": {
+   "imp": 0.23,
+   "ai": 0.15,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "dc0f3e545a5ffe1f": {
+   "imp": 1.45,
+   "ai": 0.9,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "41716cf91008dadb": {
+   "imp": 1.48,
+   "ai": 0.95,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "bb185d65774b5dff": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "28eb98fc6133ff3b": {
+   "imp": 1.23,
+   "ai": 0.52,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "0bca81d848f08362": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "5b981cc4fca111ac": {
+   "imp": 0.23,
+   "ai": 0.12,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "242f8fe15452293d": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "8137f8af87904e5f": {
+   "imp": 1.62,
+   "ai": 0.34,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "1d1723e3d47f3a0b": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "1bbb7ed8fdcff964": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
+  },
+  "275f027485eb3e98": {
+   "imp": 0.58,
+   "ai": 0.09,
+   "ts": "2026-11-25T06:37:29.240366+00:00"
   }
  }
 }
