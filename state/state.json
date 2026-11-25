@@ -1851,13 +1851,16 @@
   "32c88bb7de856ddb": "2026-11-25T12:37:23.202578+00:00",
   "45d6d14cd9d6d7f5": "2026-11-25T12:37:23.202578+00:00",
   "f1e879198cf3f2ec": "2026-11-25T12:37:23.202578+00:00",
-  "bbd6b86593133d27": "2026-11-25T12:37:23.202578+00:00"
+  "bbd6b86593133d27": "2026-11-25T12:37:23.202578+00:00",
+  "011fdd78bedb36d1": "2026-11-25T13:07:25.190462+00:00",
+  "9099c1af907e2abc": "2026-11-25T13:07:25.190462+00:00",
+  "bb246a3f102f5b95": "2026-11-25T13:07:25.190462+00:00",
+  "929f2b2360df7688": "2026-11-25T13:07:25.190462+00:00",
+  "2077e05eb9721ade": "2026-11-25T13:07:25.190462+00:00",
+  "a53914f27be96e5f": "2026-11-25T13:07:25.190462+00:00",
+  "85881ba37f622444": "2026-11-25T13:07:25.190462+00:00"
  },
  "covered": [
-  {
-   "headline": "Startup Marlowe Raises 277 Million Dollars for Alternative Chips",
-   "ts": "2026-11-23T13:07:23.722689+00:00"
-  },
   {
    "headline": "Indian AI funding reaches 1.6 billion dollars in nine months",
    "ts": "2026-11-23T13:37:21.234669+00:00"
@@ -2085,11 +2088,15 @@
   {
    "headline": "DeepMind engineers mathematically prove Signal encryption protocol",
    "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  {
+   "headline": "Nexent Capital launches $1 billion fund for AI infrastructure",
+   "ts": "2026-11-25T13:07:25.190462+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4395,8 +4402,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:32:51+00:00",
    "decision": 1.68,
-   "priority": 7.5579,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.57528,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "c6e2db1a7602b2f1",
@@ -4424,8 +4431,8 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.293517,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.310898,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "fc509d5dcb94321f",
@@ -4452,8 +4459,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.073216,
-   "selection_reason": "Editorial importance"
+   "priority": 7.090596,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4480,8 +4487,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.053483,
-   "selection_reason": "Editorial importance"
+   "priority": 7.070864,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4509,8 +4516,8 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.689073,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 6.706453,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   }
  ],
  "details_queue": [],
@@ -4841,109 +4848,15 @@
   "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india": "2026-11-25T11:07:58.667541+00:00",
   "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25": "2026-11-25T11:38:00.789777+00:00",
   "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25": "2026-11-25T12:09:30.798423+00:00",
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work": "2026-11-25T12:38:15.657443+00:00"
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work": "2026-11-25T12:38:15.657443+00:00",
+  "https://yourstory.com/2026/11/nexent-capital-launches-1-billion-fund-focused-on-ai-data-centres-investments": "2026-11-25T13:07:57.134599+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 2,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
-  "bb8ed4a32dc98406": {
-   "imp": 2.15,
-   "ai": 0.92,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "6344945c04695554": {
-   "imp": 2.17,
-   "ai": null,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "81b0d3860e77689d": {
-   "imp": 1.38,
-   "ai": 0.94,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "d0237e60f42717d8": {
-   "imp": 1.54,
-   "ai": 0.84,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "68702b9d51dbca99": {
-   "imp": 1.16,
-   "ai": 0.71,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "8e3b07fd9f47da16": {
-   "imp": 1.12,
-   "ai": 0.59,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "31e0b12526468f2b": {
-   "imp": 0.5,
-   "ai": 0.22,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "2e92777af3f5b283": {
-   "imp": 0.96,
-   "ai": 0.34,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "ff3a14412f9f1a02": {
-   "imp": 2.36,
-   "ai": 0.97,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "d2aa597aa1829567": {
-   "imp": 0.24,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "0e99676a63ec5372": {
-   "imp": 1.5,
-   "ai": 0.95,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "030e8eb331897334": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "30da8882a8d09b35": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "4cfe4c042de20495": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "9f036d016f3427c8": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "bc6d7e902f5a1570": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "3a503a65d9a180f6": {
-   "imp": 0.98,
-   "ai": 0.08,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "51fd76a54eee02bb": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
-  "a165b06b8a7238fe": {
-   "imp": 0.16,
-   "ai": 0.05,
-   "ts": "2026-11-17T13:07:27.117770+00:00"
-  },
   "f66c77188052f635": {
    "imp": 1.47,
    "ai": 0.63,
@@ -26263,6 +26176,121 @@
    "imp": 0.44,
    "ai": 0.08,
    "ts": "2026-11-25T12:37:23.202578+00:00"
+  },
+  "929f2b2360df7688": {
+   "imp": 1.07,
+   "ai": null,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "bb246a3f102f5b95": {
+   "imp": 1.41,
+   "ai": null,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "2077e05eb9721ade": {
+   "imp": 0.95,
+   "ai": 0.44,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "a53914f27be96e5f": {
+   "imp": 0.89,
+   "ai": 0.4,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "9099c1af907e2abc": {
+   "imp": 1.72,
+   "ai": 0.92,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "df95d5c552d39155": {
+   "imp": 0.56,
+   "ai": 0.12,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "85881ba37f622444": {
+   "imp": 1.91,
+   "ai": 0.89,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "011fdd78bedb36d1": {
+   "imp": 2.08,
+   "ai": 0.96,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "8832dfdab5d4912f": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "16293f09d90d2d1c": {
+   "imp": 1.18,
+   "ai": 0.25,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "db953fd913e9a6de": {
+   "imp": 0.56,
+   "ai": 0.07,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "3673bee4f6411a89": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "a9a60ec3b4d24b75": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "c23b0a463bd25fe8": {
+   "imp": 0.3,
+   "ai": 0.09,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "f5455016abaf20d9": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "c512bbf629e84eec": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "e1902d4e6666a165": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "311556882cbbc551": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "0a64d424c74a1625": {
+   "imp": 0.28,
+   "ai": 0.04,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "04bae8eeec20148e": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "23c38c0e7c6a1a39": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "953bc25995a968f9": {
+   "imp": 0.22,
+   "ai": 0.03,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
+  },
+  "3d5bacf18df5f91a": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-25T13:07:25.190462+00:00"
   }
  }
 }
