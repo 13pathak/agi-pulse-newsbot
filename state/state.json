@@ -1,13 +1,5 @@
 {
  "seen": {
-  "45f86b19440576fc": "2026-11-18T12:07:25.036261+00:00",
-  "7bbaa8f8edafb298": "2026-11-18T12:07:25.036261+00:00",
-  "74b926ce1c843400": "2026-11-18T12:07:25.036261+00:00",
-  "da6c827addce47a1": "2026-11-18T12:07:25.036261+00:00",
-  "14b67dddb8073b5b": "2026-11-18T12:07:25.036261+00:00",
-  "a9c49e3c7bc61fcf": "2026-11-18T12:07:25.036261+00:00",
-  "98cab08b1670a3e9": "2026-11-18T12:07:25.036261+00:00",
-  "f4f94579258154b8": "2026-11-18T12:07:25.036261+00:00",
   "0d1b11d2d19921a7": "2026-11-18T12:37:24.202073+00:00",
   "82df8b1098237927": "2026-11-18T12:37:24.202073+00:00",
   "32bff37675d6f2cf": "2026-11-18T12:37:24.202073+00:00",
@@ -1848,13 +1840,14 @@
   "4096f28df95d7e9d": "2026-11-25T11:37:24.071864+00:00",
   "0c537a30d7f31acc": "2026-11-25T11:37:24.071864+00:00",
   "916dac60732a0481": "2026-11-25T11:37:24.071864+00:00",
-  "b707bf66a455676b": "2026-11-25T11:37:24.071864+00:00"
+  "b707bf66a455676b": "2026-11-25T11:37:24.071864+00:00",
+  "f5bb5e8a9ad3e428": "2026-11-25T12:07:23.352201+00:00",
+  "39c30e708963a87b": "2026-11-25T12:07:23.352201+00:00",
+  "6e48e4ac6ad0ac25": "2026-11-25T12:07:23.352201+00:00",
+  "86256bf77bd056fd": "2026-11-25T12:07:23.352201+00:00",
+  "6466df4b564d9072": "2026-11-25T12:07:23.352201+00:00"
  },
  "covered": [
-  {
-   "headline": "Sierra Finalizes Over 1.75 Billion Dollar Funding Round",
-   "ts": "2026-11-23T12:07:23.827714+00:00"
-  },
   {
    "headline": "OpenAI GPT-6.2 Astra solves gap theorem",
    "ts": "2026-11-23T12:37:23.686677+00:00"
@@ -2082,11 +2075,15 @@
   {
    "headline": "OpenAI adds GPT-6.2 to ChatGPT Chat tab for paid tiers",
    "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  {
+   "headline": "16-year-old founder raises 4 crore rupees from Y Combinator",
+   "ts": "2026-11-25T12:07:23.352201+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4362,15 +4359,15 @@
  },
  "pending": [
   {
-   "id": "6466df4b564d9072",
+   "id": "bbd6b86593133d27",
    "item": {
-    "id": "6466df4b564d9072",
-    "title": "16-yr-old drops out of school to launch AI startup, gets Rs 4 crore from Y Combinator",
-    "url": "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25?utm_source=rss",
-    "source": "India Today",
-    "image": "",
-    "snippet": "16-yr-old drops out of school to launch AI startup, gets Rs 4 crore from Y Combinator",
-    "published": "2026-11-25T11:28:40+00:00",
+    "id": "bbd6b86593133d27",
+    "title": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work",
+    "source": "Tom's Hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ZZNtLfjyEWc5zZUk4vJ8ED-1920-80.png",
+    "snippet": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
+    "published": "2026-11-25T12:00:00+00:00",
     "images": true,
     "category": "news",
     "source_cap": 3
@@ -4378,15 +4375,15 @@
    "related": [],
    "importance": 7,
    "urgency": "timely",
-   "headline": "16-year-old founder raises 4 crore rupees from Y Combinator",
-   "post": "A 16-year-old founder has dropped out of school to launch an AI startup after securing 4 crore rupees in funding from startup accelerator Y Combinator.",
-   "editor_note": "Verify the startup's name and core AI product offer.",
-   "support": 0.91,
-   "published_at": "2026-11-25T11:28:40+00:00",
-   "first_seen_at": "2026-11-25T11:37:24.071864+00:00",
-   "expires_at": "2026-11-26T23:28:40+00:00",
-   "decision": 1.78,
-   "priority": 7.58929,
+   "headline": "DeepMind engineers mathematically prove Signal encryption protocol",
+   "post": "Google DeepMind engineers used the AlphaProof Code framework to construct a mathematical proof of the Signal encryption protocol via human-bot collaboration.",
+   "editor_note": "Check whether DeepMind published the full formal proof codebase publicly.",
+   "support": 0.96,
+   "published_at": "2026-11-25T12:00:00+00:00",
+   "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
+   "expires_at": "2026-11-27T00:00:00+00:00",
+   "decision": 1.79,
+   "priority": 7.593246,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4415,8 +4412,36 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.258803,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.276158,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "b678a9f766b4b394",
+   "item": {
+    "id": "b678a9f766b4b394",
+    "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+    "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+    "source": "The Decoder",
+    "image": "",
+    "snippet": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder .",
+    "published": "2026-11-25T11:51:49+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "PrismML releases Ternary Bonsai 2.5 27B model",
+   "post": "Startup PrismML released Ternary Bonsai 2.5 27B, an updated language model compressed from 54 GB to 5.9 GB by reducing weights to ternary values.",
+   "editor_note": "Check if PrismML published benchmark accuracy metrics alongside the model.",
+   "support": 0.94,
+   "published_at": "2026-11-25T11:51:49+00:00",
+   "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
+   "expires_at": "2026-11-26T23:51:49+00:00",
+   "decision": 1.63,
+   "priority": 7.036124,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4444,8 +4469,8 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.654359,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 6.671713,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   }
  ],
  "details_queue": [],
@@ -4776,109 +4801,15 @@
   "https://yourstory.com/2026/11/rodic-consultants-proposes-rs-200-cr-fund-ai-infrastructure": "2026-11-25T10:08:24.094280+00:00",
   "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T10:40:28.745195+00:00",
   "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india": "2026-11-25T11:07:58.667541+00:00",
-  "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25": "2026-11-25T11:38:00.789777+00:00"
+  "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25": "2026-11-25T11:38:00.789777+00:00",
+  "https://www.indiatoday.in/technology/news/story/16-yr-old-drops-out-of-school-to-launch-ai-startup-gets-rs-4-crore-from-y-combinator-3046614-2026-11-25": "2026-11-25T12:09:30.798423+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
   "count": 2,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
-  "5362371a3dfac3a7": {
-   "imp": 2.67,
-   "ai": 0.98,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "a2bbbe5d8a449775": {
-   "imp": 2.27,
-   "ai": 0.96,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "470e621e806da0a5": {
-   "imp": 2.49,
-   "ai": 0.96,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "c90119e6ab0d70b9": {
-   "imp": 1.3,
-   "ai": 0.6,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "f8ffe1c373335642": {
-   "imp": 0.94,
-   "ai": 0.67,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "193d743a0575fc50": {
-   "imp": 1.49,
-   "ai": null,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "225cd39ffb464f0a": {
-   "imp": 0.39,
-   "ai": 0.39,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "d5407ce8fa260693": {
-   "imp": 0.21,
-   "ai": 0.12,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "c4344ff7ba9a27de": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "684263f3ef3efc54": {
-   "imp": 0.83,
-   "ai": 0.12,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "ef50b40f65205ba3": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "289b98f66f4e9002": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "dc0ea38dbe20c881": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "423f77cd4edb5e41": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "7a082735f13e41df": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "cb1657537516a4dc": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "b82e7120f193bc1e": {
-   "imp": 0.13,
-   "ai": 0.05,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "5488ce336def2214": {
-   "imp": 0.19,
-   "ai": 0.04,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
-  "c1d610d5bf6207b6": {
-   "imp": 0.35,
-   "ai": 0.07,
-   "ts": "2026-11-17T12:07:30.221051+00:00"
-  },
   "ffde1170e2dba5c6": {
    "imp": 1.33,
    "ai": 0.46,
@@ -26188,6 +26119,81 @@
    "imp": 0.22,
    "ai": 0.14,
    "ts": "2026-11-25T11:37:24.071864+00:00"
+  },
+  "f5bb5e8a9ad3e428": {
+   "imp": 1.85,
+   "ai": null,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "b678a9f766b4b394": {
+   "imp": 1.63,
+   "ai": null,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "bbd6b86593133d27": {
+   "imp": 1.79,
+   "ai": 0.98,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "39c30e708963a87b": {
+   "imp": 1.53,
+   "ai": 0.95,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "86256bf77bd056fd": {
+   "imp": 0.88,
+   "ai": 0.28,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "180c9824972a9739": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "5f6770b346c5334f": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "79e6b5371a36f347": {
+   "imp": 0.03,
+   "ai": 0.01,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "2d84007357207ad8": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "45bf6af38f924849": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "a10c82133beb6b7d": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "ce916f4d31818aa8": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "6e48e4ac6ad0ac25": {
+   "imp": 0.99,
+   "ai": 0.79,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "d3268fad3f867497": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
+  },
+  "1f84a88acf10ac1d": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-25T12:07:23.352201+00:00"
   }
  }
 }
