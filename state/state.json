@@ -1853,7 +1853,11 @@
   "9edbb62c9bcf9b95": "2026-11-25T13:37:25.106913+00:00",
   "0a0a941bd6ca9b05": "2026-11-25T13:37:25.106913+00:00",
   "8625dd519ff72f7d": "2026-11-25T13:37:25.106913+00:00",
-  "6bac70b0e1802a36": "2026-11-25T13:37:25.106913+00:00"
+  "6bac70b0e1802a36": "2026-11-25T13:37:25.106913+00:00",
+  "16e7c6df8701bdbc": "2026-11-25T14:07:23.121669+00:00",
+  "75faac97eac3dcad": "2026-11-25T14:07:23.121669+00:00",
+  "576ece26031d029f": "2026-11-25T14:07:23.121669+00:00",
+  "e2ab686ef363227a": "2026-11-25T14:07:23.121669+00:00"
  },
  "covered": [
   {
@@ -2087,11 +2091,15 @@
   {
    "headline": "Google DeepMind uses AI agents for Gemini training experiments",
    "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  {
+   "headline": "Apple removes MiniMax AI app Talkie globally over content concerns",
+   "ts": "2026-11-25T14:07:23.121669+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4373,34 +4381,6 @@
  },
  "pending": [
   {
-   "id": "e2ab686ef363227a",
-   "item": {
-    "id": "e2ab686ef363227a",
-    "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-    "source": "South China Morning Post",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/e97778f9-b61d-459e-8846-bc8d1c5c3edb_08f9b1bb.jpg?itok=YP_mCtqs&v=1795609970",
-    "snippet": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content, following media reports that its AI-generated characters had allegedly sent inappropriate messages to minors. The development marks the latest controversy to hit the embattled Hong Kong-listed firm, which has seen its stock pric…",
-    "published": "2026-11-25T12:32:51+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Apple removes MiniMax AI app Talkie globally over content concerns",
-   "post": "Apple has removed Talkie, an AI companion app developed by Chinese AI startup MiniMax, from its App Store worldwide. The removal follows media reports that AI characters sent inappropriate content to minors.",
-   "editor_note": "Confirm whether the removal applies to Google Play Store and check for MiniMax statement.",
-   "support": 0.9,
-   "published_at": "2026-11-25T12:32:51+00:00",
-   "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
-   "expires_at": "2026-11-27T00:32:51+00:00",
-   "decision": 1.68,
-   "priority": 7.59264,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "c6e2db1a7602b2f1",
    "item": {
     "id": "c6e2db1a7602b2f1",
@@ -4426,8 +4406,8 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.328258,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.3456,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "fc509d5dcb94321f",
@@ -4454,8 +4434,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.107957,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.125299,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4482,8 +4462,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.088224,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.105566,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4510,7 +4490,7 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.897592,
+   "priority": 6.914934,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4539,13 +4519,22 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.723814,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.741156,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   }
  ],
- "details_queue": [],
+ "details_queue": [
+  {
+   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+   "source": "South China Morning Post",
+   "kind": "takes",
+   "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
+   "summary": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content, following media reports that its AI-generated characters had allegedly sent inappropriate messages to minors. The development marks the latest controversy to hit the embattled Hong Kong-listed firm, which has seen its stock pric…",
+   "queued_at": "2026-11-25T14:07:23.121669+00:00",
+   "attempts": 1
+  }
+ ],
  "details_done": {
-  "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center": "2026-11-11T14:08:09.130075+00:00",
   "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs": "2026-11-12T01:08:29.497043+00:00",
@@ -4879,76 +4868,6 @@
   "takes": 22
  },
  "triage": {
-  "0b27db5afea169d0": {
-   "imp": 2.2,
-   "ai": 0.84,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "2a8f3e96bb721abc": {
-   "imp": 2.13,
-   "ai": null,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "47464bcdd529060b": {
-   "imp": 1.57,
-   "ai": null,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "82a0f3f376656399": {
-   "imp": 2.0,
-   "ai": null,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "059a57273e09bea5": {
-   "imp": 1.24,
-   "ai": null,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "41132f79f252d7e4": {
-   "imp": 1.71,
-   "ai": 0.72,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "aa21b3ba6af1b610": {
-   "imp": 2.12,
-   "ai": 0.95,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "a5d715af014e9607": {
-   "imp": 1.72,
-   "ai": 0.79,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "c2ee8493490a8057": {
-   "imp": 1.23,
-   "ai": 0.48,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "58da9c66b1456ac9": {
-   "imp": 1.55,
-   "ai": null,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "2f0718683799d367": {
-   "imp": 1.19,
-   "ai": null,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "db7ad9d46bce54e4": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "1c8b296263835688": {
-   "imp": 0.53,
-   "ai": 0.07,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
-  "c350e8facec4a3d3": {
-   "imp": 0.71,
-   "ai": 0.19,
-   "ts": "2026-11-17T14:07:26.008233+00:00"
-  },
   "6755813e5cbe36f0": {
    "imp": 1.66,
    "ai": null,
@@ -26333,6 +26252,46 @@
    "imp": 0.1,
    "ai": 0.02,
    "ts": "2026-11-25T13:37:25.106913+00:00"
+  },
+  "576ece26031d029f": {
+   "imp": 0.84,
+   "ai": null,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "75faac97eac3dcad": {
+   "imp": 2.24,
+   "ai": 0.98,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "6d68ebdd8d78032e": {
+   "imp": 0.43,
+   "ai": 0.05,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "16e7c6df8701bdbc": {
+   "imp": 2.29,
+   "ai": 0.94,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "2486db0c4e4a7484": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "3e0d3c40e047485e": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "600752659034a14d": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
+  },
+  "080ffae5ddf0e832": {
+   "imp": 0.18,
+   "ai": 0.08,
+   "ts": "2026-11-25T14:07:23.121669+00:00"
   }
  }
 }
