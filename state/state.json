@@ -1,10 +1,5 @@
 {
  "seen": {
-  "af1852b4c46dc30e": "2026-11-18T17:07:25.031903+00:00",
-  "2d5a3de817461fab": "2026-11-18T17:07:25.031903+00:00",
-  "d0d64858e5a46e79": "2026-11-18T17:07:25.031903+00:00",
-  "62e8ffa146a17447": "2026-11-18T17:07:25.031903+00:00",
-  "cd11067986e4eaf0": "2026-11-18T17:07:25.031903+00:00",
   "5deb3005f6ba4730": "2026-11-19T01:07:39.579218+00:00",
   "4086d13a78d22826": "2026-11-19T01:07:39.579218+00:00",
   "5b2442ff172e2cc3": "2026-11-19T01:07:39.579218+00:00",
@@ -1841,13 +1836,19 @@
   "78121cc62c1e6a02": "2026-11-25T16:37:26.354749+00:00",
   "3cb2871a2da45aad": "2026-11-25T16:37:26.354749+00:00",
   "1e9e0fbcc7b99cd5": "2026-11-25T16:37:26.354749+00:00",
-  "16e4a7d7fbb202a3": "2026-11-25T16:37:26.354749+00:00"
+  "16e4a7d7fbb202a3": "2026-11-25T16:37:26.354749+00:00",
+  "2ce97f7a9d07baf4": "2026-11-25T17:07:23.082592+00:00",
+  "5d64940e6f2a4779": "2026-11-25T17:07:23.082592+00:00",
+  "3043f56e6b391599": "2026-11-25T17:07:23.082592+00:00",
+  "3fd6b3fbbf6d76a3": "2026-11-25T17:07:23.082592+00:00",
+  "7b7cb44d5be86a31": "2026-11-25T17:07:23.082592+00:00",
+  "367c805c1b6a380b": "2026-11-25T17:07:23.082592+00:00",
+  "b59a8f2fd288436a": "2026-11-25T17:07:23.082592+00:00",
+  "828cf8a276808946": "2026-11-25T17:07:23.082592+00:00",
+  "02839285a4d24ca3": "2026-11-25T17:07:23.082592+00:00",
+  "3a2027e2694465cf": "2026-11-25T17:07:23.082592+00:00"
  },
  "covered": [
-  {
-   "headline": "LTTS launches SDVault AI engineering platform for software vehicles",
-   "ts": "2026-11-23T17:07:32.561267+00:00"
-  },
   {
    "headline": "OpenAI makes GPT-6.2 Sol default ChatGPT model",
    "ts": "2026-11-24T01:07:24.377852+00:00"
@@ -2071,11 +2072,15 @@
   {
    "headline": "New York passes five-year ban on AI-powered toys",
    "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  {
+   "headline": "Amazon and Meta negotiate return of Meta's Muse AI shopping agent",
+   "ts": "2026-11-25T17:07:23.082592+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4377,6 +4382,12 @@
    "desc": "",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512748.html": {
+   "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+   "desc": "商汤SenseNova U1.6",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4405,8 +4416,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.212135,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.229465,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4433,8 +4444,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.192403,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.209732,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4461,8 +4472,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.00177,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.0191,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4490,8 +4501,8 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.827992,
-   "selection_reason": "Editorial importance; waiting 8.5h"
+   "priority": 6.845322,
+   "selection_reason": "Editorial importance; waiting 9.0h"
   }
  ],
  "details_queue": [
@@ -4502,12 +4513,18 @@
    "title": "New York bans AI toys, including those using internet to talk to children",
    "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The recently …",
    "queued_at": "2026-11-25T16:37:26.354749+00:00",
-   "attempts": 1
+   "attempts": 2
+  },
+  {
+   "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+   "source": "The Decoder",
+   "kind": "takes",
+   "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+   "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and Muse already commands 51 percent of all agentic shopping orders. The article Amazon and Meta are in talks to end the blo…",
+   "queued_at": "2026-11-25T17:07:23.082592+00:00"
   }
  ],
  "details_done": {
-  "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease": "2026-11-11T16:38:06.083871+00:00",
-  "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline": "2026-11-11T16:38:06.083871+00:00",
   "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs": "2026-11-12T01:08:29.497043+00:00",
   "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well": "2026-11-12T01:08:29.497043+00:00",
   "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai": "2026-11-12T02:09:18.398428+00:00",
@@ -4841,101 +4858,6 @@
   "takes": 24
  },
  "triage": {
-  "ce29990362094ed7": {
-   "imp": 1.68,
-   "ai": 0.85,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "757a469161fbcb6a": {
-   "imp": 2.0,
-   "ai": 0.9,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "950a39f90ba9c1a9": {
-   "imp": 2.35,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "bfe144881fd661a3": {
-   "imp": 1.37,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "c45e75136865f95a": {
-   "imp": 1.87,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "5a76136e8f2d5ccb": {
-   "imp": 2.06,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "9775fff4b2849085": {
-   "imp": 2.27,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "33e07114af2c0e90": {
-   "imp": 1.2,
-   "ai": 0.85,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "6434233740b567b7": {
-   "imp": 2.24,
-   "ai": 0.89,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "b07761c01d391bd0": {
-   "imp": 1.72,
-   "ai": 0.93,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "cb1d8f8bc84f7e6a": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "fa2d79e8a491ed5a": {
-   "imp": 0.67,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "692230a9d797ddbd": {
-   "imp": 0.76,
-   "ai": null,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "6ecfc769821732b6": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "da1a0c3e18d614f0": {
-   "imp": 1.31,
-   "ai": 0.53,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "13d5a1a2a9d92faa": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "c5dcce2ec04e3ca4": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "7c5c97d5524dce50": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
-  "5b158888670aa71b": {
-   "imp": 0.39,
-   "ai": 0.03,
-   "ts": "2026-11-17T17:07:24.222245+00:00"
-  },
   "cd8fd6636979b64b": {
    "imp": 1.54,
    "ai": 0.96,
@@ -26190,6 +26112,56 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-25T16:37:26.354749+00:00"
+  },
+  "7b7cb44d5be86a31": {
+   "imp": 1.04,
+   "ai": null,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "3a2027e2694465cf": {
+   "imp": 1.34,
+   "ai": null,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "828cf8a276808946": {
+   "imp": 1.06,
+   "ai": 0.57,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "5d64940e6f2a4779": {
+   "imp": 1.69,
+   "ai": 0.93,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "918120f4e3e22063": {
+   "imp": 0.18,
+   "ai": 0.11,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "3043f56e6b391599": {
+   "imp": 1.65,
+   "ai": 0.96,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "43ecda78bfcf97fc": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "88ce0dfd16e24dca": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "9991e42cd175de90": {
+   "imp": 0.44,
+   "ai": 0.1,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "2ce97f7a9d07baf4": {
+   "imp": 2.14,
+   "ai": 0.97,
+   "ts": "2026-11-25T17:07:23.082592+00:00"
   }
  }
 }
