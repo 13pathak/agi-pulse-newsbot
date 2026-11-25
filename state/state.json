@@ -1,20 +1,5 @@
 {
  "seen": {
-  "082a0b3ce7d30b20": "2026-11-18T10:37:26.075554+00:00",
-  "e6c45f97bb5cf66f": "2026-11-18T10:37:26.075554+00:00",
-  "a6378e500f75f84d": "2026-11-18T10:37:26.075554+00:00",
-  "760773db88c051de": "2026-11-18T10:37:26.075554+00:00",
-  "20c4aa4e38b8ecbf": "2026-11-18T10:37:26.075554+00:00",
-  "2bacfaffee5a24fa": "2026-11-18T10:37:26.075554+00:00",
-  "bf3d5c701c2eba57": "2026-11-18T10:37:26.075554+00:00",
-  "bf00fa1753251851": "2026-11-18T10:37:26.075554+00:00",
-  "1365fe0218babfff": "2026-11-18T10:37:26.075554+00:00",
-  "38f88b1583445c18": "2026-11-18T10:37:26.075554+00:00",
-  "b3ba9f8841152db7": "2026-11-18T10:37:26.075554+00:00",
-  "55e8cba7ef81c14e": "2026-11-18T10:37:26.075554+00:00",
-  "4f6a7d489b8ac936": "2026-11-18T10:37:26.075554+00:00",
-  "52140d40d012eee4": "2026-11-18T10:37:26.075554+00:00",
-  "edd55e44ca983db9": "2026-11-18T10:37:26.075554+00:00",
   "a57d55122b0b573b": "2026-11-18T11:07:31.469280+00:00",
   "4ac852a1e8faad59": "2026-11-18T11:07:31.469280+00:00",
   "c38beb9bd9c36a36": "2026-11-18T11:07:31.469280+00:00",
@@ -1853,13 +1838,20 @@
   "af59b3fc9b773287": "2026-11-25T10:07:25.457270+00:00",
   "6149dfc508814c1a": "2026-11-25T10:07:25.457270+00:00",
   "6561960315992124": "2026-11-25T10:07:25.457270+00:00",
-  "5c2d7e2733eb5e46": "2026-11-25T10:07:25.457270+00:00"
+  "5c2d7e2733eb5e46": "2026-11-25T10:07:25.457270+00:00",
+  "4e4690a77ae9fcb0": "2026-11-25T10:37:36.091192+00:00",
+  "9528aedc90b3296d": "2026-11-25T10:37:36.091192+00:00",
+  "dd7e780d66ba295c": "2026-11-25T10:37:36.091192+00:00",
+  "aeb959b9d1c90a6b": "2026-11-25T10:37:36.091192+00:00",
+  "0bc5eadec27a6ff2": "2026-11-25T10:37:36.091192+00:00",
+  "570b39bfa866a172": "2026-11-25T10:37:36.091192+00:00",
+  "3e7a6c1fafdd9675": "2026-11-25T10:37:36.091192+00:00",
+  "c532c0fed7d3887b": "2026-11-25T10:37:36.091192+00:00",
+  "7a6b3b41cbeff325": "2026-11-25T10:37:36.091192+00:00",
+  "bca523541b999132": "2026-11-25T10:37:36.091192+00:00",
+  "d0a3a7f662b58965": "2026-11-25T10:37:36.091192+00:00"
  },
  "covered": [
-  {
-   "headline": "Sarvam AI Clarifies Token Factory GPU Sourcing Following Criticism",
-   "ts": "2026-11-23T10:37:25.995452+00:00"
-  },
   {
    "headline": "Oregon and Virginia sue Musk companies over Grok deepfakes",
    "ts": "2026-11-23T11:07:21.386780+00:00"
@@ -2087,11 +2079,15 @@
   {
    "headline": "Rodic Consultants proposes 200 crore rupee infrastructure AI fund",
    "ts": "2026-11-25T10:07:25.457270+00:00"
+  },
+  {
+   "headline": "Indic voice agent built using IBM CUGA framework",
+   "ts": "2026-11-25T10:37:36.091192+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-25",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4356,6 +4352,13 @@
    "desc": "Fable5.2已经很旧了。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": {
+   "title": "An Indic Voice Agent with CUGA",
+   "desc": "A Blog post by IBM Research on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+   "published": "2026-11-25T10:22:09.644000+00:00",
+   "excerpt": "Most useful knowledge is written and digitized in English. Most of the people who need it speak, and think, in their own regional languages like Hindi, Tamil, Telugu, Gujarati, Marathi and many others. Many would rather talk than type. We built a small voice agent to close that gap, using CUGA as the agent harness. This post explains the use case and what we learned. You can try it yourself in CUGA Apps. A farmer asks a question aloud, in their own language: how do I tell good seed from bad? The agent: If someone asks about cricket or coding, it politely steers them back to farming instead of making something up. CUGA (ConfigUrable Generalist Agent) is IBM Research's open-source agent harness. It handles the model wiring, tool management, state and guardrails, so you write tools and a prom…"
   }
  },
  "pending": [
@@ -4385,8 +4388,8 @@
    "first_seen_at": "2026-11-25T09:37:23.630805+00:00",
    "expires_at": "2026-11-26T19:12:00+00:00",
    "decision": 2.27,
-   "priority": 7.206733,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.224197,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "7b0c1eaef85d0c98",
@@ -4414,13 +4417,12 @@
    "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
    "expires_at": "2026-11-25T22:30:42+00:00",
    "decision": 1.9,
-   "priority": 6.602289,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.619753,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables": "2026-11-11T10:38:14.226889+00:00",
   "https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html": "2026-11-11T11:08:00.783003+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms": "2026-11-11T11:37:50.754850+00:00",
   "https://36kr.com/newsflashes/4064940199547779?f=rss": "2026-11-11T12:11:13.374806+00:00",
@@ -4746,134 +4748,15 @@
   "https://36kr.com/newsflashes/4084860684757379?f=rss": "2026-11-25T08:38:16.959003+00:00",
   "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html": "2026-11-25T09:08:06.676918+00:00",
   "https://inc42.com/buzz/openai-spacex-backer-vu-venture-partners-enters-indian-startup-market": "2026-11-25T09:38:31.444565+00:00",
-  "https://yourstory.com/2026/11/rodic-consultants-proposes-rs-200-cr-fund-ai-infrastructure": "2026-11-25T10:08:24.094280+00:00"
+  "https://yourstory.com/2026/11/rodic-consultants-proposes-rs-200-cr-fund-ai-infrastructure": "2026-11-25T10:08:24.094280+00:00",
+  "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T10:40:28.745195+00:00"
  },
  "details_daily": {
   "date": "2026-11-25",
-  "count": 1,
+  "count": 2,
   "takes": 16
  },
  "triage": {
-  "3d74fd1c6c0aab44": {
-   "imp": 1.93,
-   "ai": 0.89,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "94343c90bc3eea2f": {
-   "imp": 0.15,
-   "ai": 0.33,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "844f2945dfec04b3": {
-   "imp": 0.97,
-   "ai": 0.46,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "ee288c8acb3fd8a7": {
-   "imp": 1.32,
-   "ai": 0.96,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "6ccd6024d7a69413": {
-   "imp": 1.54,
-   "ai": 0.97,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "6cc0f68d4b78bff1": {
-   "imp": 1.04,
-   "ai": 0.95,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "65a290afdbae3413": {
-   "imp": 1.27,
-   "ai": 0.93,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "417e52afc41bf5a2": {
-   "imp": 0.93,
-   "ai": 0.55,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "518c47915c16d025": {
-   "imp": 2.41,
-   "ai": 0.98,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "a234b7889c5bff1c": {
-   "imp": 1.3,
-   "ai": 0.85,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "5985af2e2b959446": {
-   "imp": 0.3,
-   "ai": 0.32,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "b6953bc8cc8804ad": {
-   "imp": 1.87,
-   "ai": 0.93,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "0145fb90b8379117": {
-   "imp": 1.88,
-   "ai": null,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "67db62de0cb733ab": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "038a4da11e365c78": {
-   "imp": 1.36,
-   "ai": 0.58,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "c948ba5fb8f105d2": {
-   "imp": 0.22,
-   "ai": 0.09,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "e121c419ba56ce9e": {
-   "imp": 0.5,
-   "ai": 0.13,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "099efb6263477886": {
-   "imp": 0.17,
-   "ai": 0.06,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "390e8dfb3a35feda": {
-   "imp": 0.11,
-   "ai": 0.05,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "37dd668923df7b15": {
-   "imp": 0.77,
-   "ai": 0.21,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "c7b067bfc5a02f33": {
-   "imp": 0.28,
-   "ai": 0.12,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "f75bfe22661566ab": {
-   "imp": 0.1,
-   "ai": 0.05,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "3478d1e9a484053f": {
-   "imp": 0.17,
-   "ai": 0.05,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
-  "96ce6f1857dc00c9": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-17T10:37:24.673003+00:00"
-  },
   "d9741dd16d40c910": {
    "imp": 0.96,
    "ai": null,
@@ -26238,6 +26121,106 @@
    "imp": 0.17,
    "ai": 0.04,
    "ts": "2026-11-25T10:07:25.457270+00:00"
+  },
+  "bca523541b999132": {
+   "imp": 0.4,
+   "ai": 0.68,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "570b39bfa866a172": {
+   "imp": 1.04,
+   "ai": null,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "dd7e780d66ba295c": {
+   "imp": 1.72,
+   "ai": 0.84,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "9528aedc90b3296d": {
+   "imp": 1.93,
+   "ai": 0.96,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "aeb959b9d1c90a6b": {
+   "imp": 1.33,
+   "ai": 0.89,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "7a6b3b41cbeff325": {
+   "imp": 0.51,
+   "ai": 0.26,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "3e7a6c1fafdd9675": {
+   "imp": 0.77,
+   "ai": 0.81,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "0bc5eadec27a6ff2": {
+   "imp": 1.26,
+   "ai": 0.91,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "c532c0fed7d3887b": {
+   "imp": 0.77,
+   "ai": 0.43,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "d0a3a7f662b58965": {
+   "imp": 1.8,
+   "ai": null,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "4e4690a77ae9fcb0": {
+   "imp": 1.2,
+   "ai": null,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "158a97a238aca3c9": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "f8ee5a78fb716e7e": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "8e2aca6748f2a2be": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "0515b5645a20d93f": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "6dbed549875d0577": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "a03f45fefd1bf76b": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "5ff5cd9f531e04e0": {
+   "imp": 0.87,
+   "ai": 0.12,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "1611f63d0f9a245e": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
+  },
+  "b1e9395721340d45": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-25T10:37:36.091192+00:00"
   }
  }
 }
