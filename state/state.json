@@ -1,31 +1,5 @@
 {
  "seen": {
-  "57e0afd476e7c800": "2026-11-19T17:07:25.807675+00:00",
-  "448d198a6d06442b": "2026-11-19T17:07:25.807675+00:00",
-  "1993e3871a4476a3": "2026-11-19T17:07:25.807675+00:00",
-  "331d14b1ca5c160b": "2026-11-19T17:07:25.807675+00:00",
-  "e71232150b493ed5": "2026-11-19T17:07:25.807675+00:00",
-  "d0946e26531ae61b": "2026-11-19T17:07:25.807675+00:00",
-  "c5ca2c2a6b424301": "2026-11-19T17:07:25.807675+00:00",
-  "81a2941da20e74e6": "2026-11-19T17:07:25.807675+00:00",
-  "23e4229d8f3b72b7": "2026-11-19T17:07:25.807675+00:00",
-  "41781a90db53c79c": "2026-11-19T17:07:25.807675+00:00",
-  "26cfb2b5bc2a9b03": "2026-11-19T17:07:25.807675+00:00",
-  "cd00fa8b48fb734d": "2026-11-19T17:07:25.807675+00:00",
-  "2773c380ad929d32": "2026-11-19T17:07:25.807675+00:00",
-  "1d814fe00b8aee35": "2026-11-19T17:07:25.807675+00:00",
-  "24589a057854a6d6": "2026-11-19T17:07:25.807675+00:00",
-  "2a1647ac742a0e6f": "2026-11-19T17:07:25.807675+00:00",
-  "936b7cd9a7286075": "2026-11-19T17:07:25.807675+00:00",
-  "3e5d1a7c85bc41a5": "2026-11-19T17:07:25.807675+00:00",
-  "2600860578f34aa5": "2026-11-19T17:07:25.807675+00:00",
-  "109674b961b32b9d": "2026-11-19T17:07:25.807675+00:00",
-  "ce0cd35319c37e6e": "2026-11-19T17:07:25.807675+00:00",
-  "7345045cb04082a9": "2026-11-19T17:07:25.807675+00:00",
-  "1a9185981d92cd00": "2026-11-19T17:07:25.807675+00:00",
-  "d966aeb09c88dea1": "2026-11-19T17:07:25.807675+00:00",
-  "88ae40f036329419": "2026-11-19T17:07:25.807675+00:00",
-  "60a93afcfb6fc481": "2026-11-19T17:07:25.807675+00:00",
   "3bb219d5733618b3": "2026-11-20T01:07:24.013813+00:00",
   "aff1ec2a43dfe4ce": "2026-11-20T01:07:24.013813+00:00",
   "794b4d45b46c626a": "2026-11-20T01:07:24.013813+00:00",
@@ -1739,13 +1713,13 @@
   "5320f5d21a0968a3": "2026-11-26T16:07:24.987187+00:00",
   "ec74e9ba21876128": "2026-11-26T16:07:24.987187+00:00",
   "c8a9ac36cda6e381": "2026-11-26T16:07:24.987187+00:00",
-  "6567ed95c801ee98": "2026-11-26T16:37:22.979658+00:00"
+  "6567ed95c801ee98": "2026-11-26T16:37:22.979658+00:00",
+  "5b0dabb5fcca4d47": "2026-11-26T17:07:24.559618+00:00",
+  "e0bd58b9ea33778c": "2026-11-26T17:07:24.559618+00:00",
+  "6d461eaccbb82e34": "2026-11-26T17:07:24.559618+00:00",
+  "c0f2de19f05669ce": "2026-11-26T17:07:24.559618+00:00"
  },
  "covered": [
-  {
-   "headline": "China intelligent computing scale reaches 2592 EFLOPS",
-   "ts": "2026-11-24T17:07:25.195630+00:00"
-  },
   {
    "headline": "OpenAI GPT-6 models demonstrate protein-design capabilities",
    "ts": "2026-11-25T01:07:23.087505+00:00"
@@ -1957,11 +1931,15 @@
   {
    "headline": "SAP considers cutting at least 10,000 positions for AI restructuring",
    "ts": "2026-11-26T16:37:22.979658+00:00"
+  },
+  {
+   "headline": "State attorneys general oppose Character.AI data sale",
+   "ts": "2026-11-26T17:07:24.559618+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4374,34 +4352,6 @@
  },
  "pending": [
   {
-   "id": "c0f2de19f05669ce",
-   "item": {
-    "id": "c0f2de19f05669ce",
-    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-    "source": "The Verge",
-    "image": "",
-    "snippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
-    "published": "2026-11-26T09:54:40+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "State attorneys general oppose Character.AI data sale",
-   "post": "A coalition of 42 state attorneys general is attempting to prevent Character.AI from selling private chat histories of over 21 million US accounts during bankruptcy proceedings.",
-   "editor_note": "Confirm which court is handling the Chapter 11 proceedings regarding the data auction.",
-   "support": 0.95,
-   "published_at": "2026-11-26T09:54:40+00:00",
-   "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
-   "expires_at": "2026-11-27T21:54:40+00:00",
-   "decision": 1.73,
-   "priority": 7.233965,
-   "selection_reason": "Editorial importance; waiting 5.5h"
-  },
-  {
    "id": "242edb948acd8745",
    "item": {
     "id": "242edb948acd8745",
@@ -4427,8 +4377,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.168862,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.186238,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4456,8 +4406,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.147835,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.165212,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4486,8 +4436,8 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 7.118065,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.144129,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4514,8 +4464,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.897608,
-   "selection_reason": "Editorial importance; waiting 27.0h"
+   "priority": 6.883707,
+   "selection_reason": "Editorial importance; waiting 27.5h"
   },
   {
    "id": "a9a0d77b488e5aa9",
@@ -4543,8 +4493,8 @@
    "first_seen_at": "2026-11-26T16:07:24.987187+00:00",
    "expires_at": "2026-11-28T01:45:00+00:00",
    "decision": 0.89,
-   "priority": 6.748075,
-   "selection_reason": "Editorial importance"
+   "priority": 6.765451,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4874,49 +4824,15 @@
   "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html": "2026-11-26T15:08:31.294886+00:00",
   "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt": "2026-11-26T15:38:04.253170+00:00",
   "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11": "2026-11-26T16:07:54.685515+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring": "2026-11-26T16:37:52.737031+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring": "2026-11-26T16:37:52.737031+00:00",
+  "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": "2026-11-26T17:07:52.908810+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 26
+  "takes": 27
  },
  "triage": {
-  "d0d64858e5a46e79": {
-   "imp": 1.38,
-   "ai": 0.96,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
-  "2d5a3de817461fab": {
-   "imp": 1.5,
-   "ai": null,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
-  "62e8ffa146a17447": {
-   "imp": 1.42,
-   "ai": null,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
-  "8e6075d168e06821": {
-   "imp": 0.84,
-   "ai": null,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
-  "af1852b4c46dc30e": {
-   "imp": 1.19,
-   "ai": null,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
-  "59e0d89df07c65f4": {
-   "imp": 0.19,
-   "ai": 0.04,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
-  "af036f88df988da1": {
-   "imp": 0.21,
-   "ai": 0.05,
-   "ts": "2026-11-18T17:07:25.031903+00:00"
-  },
   "7f74d49d11a17676": {
    "imp": 2.05,
    "ai": 0.95,
@@ -25806,6 +25722,26 @@
    "imp": 0.8,
    "ai": 0.2,
    "ts": "2026-11-26T16:37:22.979658+00:00"
+  },
+  "6d461eaccbb82e34": {
+   "imp": 0.38,
+   "ai": 0.21,
+   "ts": "2026-11-26T17:07:24.559618+00:00"
+  },
+  "e0bd58b9ea33778c": {
+   "imp": 1.08,
+   "ai": 0.77,
+   "ts": "2026-11-26T17:07:24.559618+00:00"
+  },
+  "5b0dabb5fcca4d47": {
+   "imp": 1.52,
+   "ai": 0.89,
+   "ts": "2026-11-26T17:07:24.559618+00:00"
+  },
+  "48b5c3ec90917dca": {
+   "imp": 0.28,
+   "ai": 0.08,
+   "ts": "2026-11-26T17:07:24.559618+00:00"
   }
  }
 }
