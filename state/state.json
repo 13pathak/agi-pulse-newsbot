@@ -1743,13 +1743,19 @@
   "d83656b6ab082a6a": "2026-11-26T13:37:24.902620+00:00",
   "5cb26631b6a3eeda": "2026-11-26T13:37:24.902620+00:00",
   "f6cdcc5fc98b7ede": "2026-11-26T13:37:24.902620+00:00",
-  "80788bc9cb776030": "2026-11-26T13:37:24.902620+00:00"
+  "80788bc9cb776030": "2026-11-26T13:37:24.902620+00:00",
+  "ff7c1d6266671ba9": "2026-11-26T14:37:23.285936+00:00",
+  "a72a6281d079c05a": "2026-11-26T14:37:23.285936+00:00",
+  "bde07cc51df593ce": "2026-11-26T14:37:23.285936+00:00",
+  "9fb5216f2b04b481": "2026-11-26T14:37:23.285936+00:00",
+  "ce7382d8a686ec9c": "2026-11-26T14:37:23.285936+00:00",
+  "da6f8f093613909c": "2026-11-26T14:37:23.285936+00:00",
+  "1297af264570ecdd": "2026-11-26T14:37:23.285936+00:00",
+  "d5bf32fe1c075819": "2026-11-26T14:37:23.285936+00:00",
+  "ddd5c43af563ecc5": "2026-11-26T14:37:23.285936+00:00",
+  "d20ffddf55f2207c": "2026-11-26T14:37:23.285936+00:00"
  },
  "covered": [
-  {
-   "headline": "AidenAI raises 32 million dollars in Series A funding",
-   "ts": "2026-11-24T14:37:24.392163+00:00"
-  },
   {
    "headline": "OpenAI and Cisco release open-source security tool Shirudo",
    "ts": "2026-11-24T15:07:24.250622+00:00"
@@ -1957,11 +1963,15 @@
   {
    "headline": "Boden Intelligent raises hundreds of millions in B round",
    "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  {
+   "headline": "Chariot AI launches Chariot-1 LLM and speech models",
+   "ts": "2026-11-26T14:37:23.285936+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 20
+  "count": 21
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4387,7 +4397,20 @@
     "category": "news",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "59f78d93f08fcd49",
+     "title": "IndiaMART Settles Legal Dispute With OpenAI",
+     "url": "https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/",
+     "source": "Inc42",
+     "image": "",
+     "snippet": "B2B ecommerce company IndiaMART InterMESH has settled its legal dispute with OpenAI pertaining to alleged exclusion of its website and seller listings from ChatGPT-generated responses out of court. The out-of-court settlement of the matter, which was listed in front of the Calcutta High Court, brings the matter to a close after about two years of proceedings. In an order dated November 17, a divis…",
+     "published": "2026-11-26T13:18:55+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
    "importance": 7,
    "urgency": "routine",
    "headline": "IndiaMART and OpenAI settle dispute out of court",
@@ -4397,9 +4420,9 @@
    "published_at": "2026-11-26T08:13:14+00:00",
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
-   "decision": 1.7,
-   "priority": 7.215232,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "decision": 1.72,
+   "priority": 7.239227,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4426,8 +4449,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.173005,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.190333,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4454,8 +4477,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.147195,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.164523,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "242edb948acd8745",
@@ -4483,8 +4506,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.082092,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.09942,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4512,8 +4535,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.061066,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.078394,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4542,8 +4565,8 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 6.98791,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.013902,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4570,15 +4593,12 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.967024,
-   "selection_reason": "Editorial importance; waiting 24.5h"
+   "priority": 6.953161,
+   "selection_reason": "Editorial importance; waiting 25.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00",
-  "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal": "2026-11-12T14:38:02.388631+00:00",
-  "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00",
   "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents": "2026-11-13T01:08:58.806600+00:00",
   "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00",
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00",
@@ -4899,94 +4919,15 @@
   "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": "2026-11-26T12:08:17.995374+00:00",
   "https://36kr.com/newsflashes/4086514623723652?f=rss": "2026-11-26T12:37:51.561567+00:00",
   "https://36kr.com/newsflashes/4086568088156549?f=rss": "2026-11-26T13:09:34.004013+00:00",
-  "https://36kr.com/newsflashes/4086248989485446?f=rss": "2026-11-26T13:37:55.900498+00:00"
+  "https://36kr.com/newsflashes/4086248989485446?f=rss": "2026-11-26T13:37:55.900498+00:00",
+  "https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models": "2026-11-26T14:40:14.342766+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 21
+  "takes": 22
  },
  "triage": {
-  "4dbd12c7c88e43c3": {
-   "imp": 1.54,
-   "ai": 0.9,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "5875bfe14d0e6f3d": {
-   "imp": 2.04,
-   "ai": null,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "c03e81705a98074a": {
-   "imp": 1.32,
-   "ai": null,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "e048bddcfd41ab36": {
-   "imp": 1.63,
-   "ai": null,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "f602a860cb9d7416": {
-   "imp": 2.55,
-   "ai": 0.96,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "ac31746ebecb99a6": {
-   "imp": 2.39,
-   "ai": 0.95,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "2ce2699463b49ae8": {
-   "imp": 1.54,
-   "ai": 0.76,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "e388753f59c900e8": {
-   "imp": 2.19,
-   "ai": 0.84,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "ca2dbd6a1065d15d": {
-   "imp": 2.45,
-   "ai": 0.92,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "0e4d9a1dd248dc47": {
-   "imp": 1.49,
-   "ai": 0.94,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "1c3eaf246b725d75": {
-   "imp": 1.31,
-   "ai": null,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "bdb8300b34537105": {
-   "imp": 0.94,
-   "ai": 0.53,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "b08156e76b123d17": {
-   "imp": 0.88,
-   "ai": 0.34,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "a7b9cb96af98a125": {
-   "imp": 2.01,
-   "ai": 0.75,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "df74651f7687c676": {
-   "imp": 0.04,
-   "ai": 0.02,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
-  "fe2839300cd43f9f": {
-   "imp": 0.14,
-   "ai": 0.05,
-   "ts": "2026-11-18T14:37:24.673193+00:00"
-  },
   "5bc1e71da05ad4f5": {
    "imp": 0.43,
    "ai": null,
@@ -25971,6 +25912,56 @@
    "imp": 0.07,
    "ai": 0.02,
    "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "ddd5c43af563ecc5": {
+   "imp": 0.44,
+   "ai": 0.31,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "d5bf32fe1c075819": {
+   "imp": 0.6,
+   "ai": 0.66,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "d20ffddf55f2207c": {
+   "imp": 2.56,
+   "ai": 0.97,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "59f78d93f08fcd49": {
+   "imp": 1.72,
+   "ai": 0.9,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "8b25adb6af66edc6": {
+   "imp": 0.53,
+   "ai": 0.15,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "d0181b81d8d518fb": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "c36ccf9babef4574": {
+   "imp": 0.11,
+   "ai": 0.05,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "da6f8f093613909c": {
+   "imp": 2.12,
+   "ai": 0.97,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "3a19ce33c998f6d7": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
+  },
+  "fe5b75391b5aaa87": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-26T14:37:23.285936+00:00"
   }
  }
 }
