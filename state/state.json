@@ -1747,10 +1747,6 @@
  },
  "covered": [
   {
-   "headline": "XPeng releases WorldGPT action model",
-   "ts": "2026-11-24T14:07:24.274751+00:00"
-  },
-  {
    "headline": "AidenAI raises 32 million dollars in Series A funding",
    "ts": "2026-11-24T14:37:24.392163+00:00"
   },
@@ -4368,6 +4364,12 @@
    "desc": "还得是科班尖子生",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513021.html": {
+   "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+   "desc": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4396,8 +4398,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.197854,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.215232,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4424,8 +4426,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.155627,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.173005,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4452,8 +4454,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.129817,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.147195,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "242edb948acd8745",
@@ -4481,8 +4483,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.064714,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.082092,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4510,36 +4512,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.043687,
-   "selection_reason": "Editorial importance; waiting 4.0h"
-  },
-  {
-   "id": "ca6d641a2bb7646a",
-   "item": {
-    "id": "ca6d641a2bb7646a",
-    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
-    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
-    "published": "2026-11-25T12:49:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
-   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
-   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
-   "support": 0.95,
-   "published_at": "2026-11-25T12:49:01+00:00",
-   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
-   "expires_at": "2026-11-27T00:49:01+00:00",
-   "decision": 1.26,
-   "priority": 6.980927,
-   "selection_reason": "Editorial importance; waiting 24.0h"
+   "priority": 7.061066,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4568,8 +4542,36 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 6.961842,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.98791,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "ca6d641a2bb7646a",
+   "item": {
+    "id": "ca6d641a2bb7646a",
+    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
+    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
+    "published": "2026-11-25T12:49:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
+   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
+   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
+   "support": 0.95,
+   "published_at": "2026-11-25T12:49:01+00:00",
+   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
+   "expires_at": "2026-11-27T00:49:01+00:00",
+   "decision": 1.26,
+   "priority": 6.967024,
+   "selection_reason": "Editorial importance; waiting 24.5h"
   }
  ],
  "details_queue": [],
@@ -4905,56 +4907,6 @@
   "takes": 21
  },
  "triage": {
-  "84d2fa603ef696ee": {
-   "imp": 1.19,
-   "ai": null,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "996cedf31573e6ea": {
-   "imp": 1.55,
-   "ai": null,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "fc709e1b2fdc603a": {
-   "imp": 0.55,
-   "ai": 0.12,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "41693b326eabc69e": {
-   "imp": 2.42,
-   "ai": 0.98,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "46ed1b706b9946ac": {
-   "imp": 0.9,
-   "ai": null,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "d300c1dd29d6e357": {
-   "imp": 0.27,
-   "ai": 0.12,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "25a13f7758963368": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "ef176d8474feef56": {
-   "imp": 0.04,
-   "ai": 0.01,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "f441bc103667c208": {
-   "imp": 0.03,
-   "ai": 0.02,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
-  "b0cbd213ecb472fb": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-18T14:07:22.117883+00:00"
-  },
   "4dbd12c7c88e43c3": {
    "imp": 1.54,
    "ai": 0.9,
@@ -25964,6 +25916,61 @@
    "imp": 0.11,
    "ai": 0.04,
    "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "a72a6281d079c05a": {
+   "imp": 1.89,
+   "ai": null,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "ce7382d8a686ec9c": {
+   "imp": 0.76,
+   "ai": null,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "bde07cc51df593ce": {
+   "imp": 1.68,
+   "ai": 0.93,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "1297af264570ecdd": {
+   "imp": 0.86,
+   "ai": 0.87,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "9fb5216f2b04b481": {
+   "imp": 1.6,
+   "ai": 0.96,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "ff7c1d6266671ba9": {
+   "imp": 0.12,
+   "ai": null,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "b79921ccd6bcb384": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "9f5650160ec3351a": {
+   "imp": 0.25,
+   "ai": 0.05,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "d8547743f2a6e6a9": {
+   "imp": 0.44,
+   "ai": 0.08,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "5240bd51b9cd89db": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
+  },
+  "20a39262fd069e1d": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T14:07:26.687909+00:00"
   }
  }
 }
