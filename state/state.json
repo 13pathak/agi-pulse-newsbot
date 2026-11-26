@@ -1,12 +1,5 @@
 {
  "seen": {
-  "66831b4cb9812f3b": "2026-11-19T03:37:23.586248+00:00",
-  "bd130a46a6ffcdca": "2026-11-19T03:37:23.586248+00:00",
-  "1f3557556ce86619": "2026-11-19T03:37:23.586248+00:00",
-  "afcb578f81e09653": "2026-11-19T03:37:23.586248+00:00",
-  "b898a1b2127c5756": "2026-11-19T03:37:23.586248+00:00",
-  "f66b9cb4f8f55a87": "2026-11-19T03:37:23.586248+00:00",
-  "335389d60da62f8b": "2026-11-19T03:37:23.586248+00:00",
   "bf9c3e0a3483d49f": "2026-11-19T04:07:23.650343+00:00",
   "ff7b1c1c3906c736": "2026-11-19T04:07:23.650343+00:00",
   "e8b58c39212f2d0c": "2026-11-19T04:07:23.650343+00:00",
@@ -1791,13 +1784,17 @@
   "4820802c6f890da0": "2026-11-26T03:07:21.485326+00:00",
   "a11ec7fdb0e6d622": "2026-11-26T03:07:21.485326+00:00",
   "9256bb2cdaa4472c": "2026-11-26T03:07:21.485326+00:00",
-  "fc509d5dcb94321f": "2026-11-26T03:07:21.485326+00:00"
+  "fc509d5dcb94321f": "2026-11-26T03:07:21.485326+00:00",
+  "f366c6bb46f76965": "2026-11-26T03:37:21.902766+00:00",
+  "a83811b0105de87d": "2026-11-26T03:37:21.902766+00:00",
+  "a3e2147af71ea982": "2026-11-26T03:37:21.902766+00:00",
+  "9a8ea3491fbdcd6d": "2026-11-26T03:37:21.902766+00:00",
+  "976c1396cf3bd52e": "2026-11-26T03:37:21.902766+00:00",
+  "af26812640896d71": "2026-11-26T03:37:21.902766+00:00",
+  "095ccea1dfb06737": "2026-11-26T03:37:21.902766+00:00",
+  "b678a9f766b4b394": "2026-11-26T03:37:21.902766+00:00"
  },
  "covered": [
-  {
-   "headline": "Zhangyou Dynamics raises hundreds of millions in yuan",
-   "ts": "2026-11-24T03:37:22.769501+00:00"
-  },
   {
    "headline": "Anthropic launches Claude Ship to automate code pull request reviews",
    "ts": "2026-11-24T04:07:21.465936+00:00"
@@ -2021,11 +2018,15 @@
   {
    "headline": "Wipro to absorb 3,000 BP finance staff in AI transformation deal",
    "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  {
+   "headline": "PrismML releases Ternary Bonsai 2.5 27B model",
+   "ts": "2026-11-26T03:37:21.902766+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4365,37 +4366,15 @@
    "desc": "合着全让A➗揽了",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512828.html": {
+   "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+   "desc": "叠满海淀最强AI Buff。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "b678a9f766b4b394",
-   "item": {
-    "id": "b678a9f766b4b394",
-    "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
-    "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
-    "source": "The Decoder",
-    "image": "",
-    "snippet": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder .",
-    "published": "2026-11-25T11:51:49+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "PrismML releases Ternary Bonsai 2.5 27B model",
-   "post": "Startup PrismML released Ternary Bonsai 2.5 27B, an updated language model compressed from 54 GB to 5.9 GB by reducing weights to ternary values.",
-   "editor_note": "Check if PrismML published benchmark accuracy metrics alongside the model.",
-   "support": 0.94,
-   "published_at": "2026-11-25T11:51:49+00:00",
-   "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
-   "expires_at": "2026-11-26T23:51:49+00:00",
-   "decision": 1.63,
-   "priority": 7.369472,
-   "selection_reason": "Editorial importance; waiting 15.0h"
-  },
   {
    "id": "ca6d641a2bb7646a",
    "item": {
@@ -4421,14 +4400,12 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.27262,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.258728,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule": "2026-11-12T03:37:48.246078+00:00",
-  "https://36kr.com/newsflashes/4066188005692289?f=rss": "2026-11-12T03:37:48.246078+00:00",
   "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-working-with-outside-firm-to-identify-ceo-candidates/articleshow/135753825.cms": "2026-11-12T04:07:55.965330+00:00",
   "https://36kr.com/newsflashes/4066240518034311?f=rss": "2026-11-12T04:37:47.440128+00:00",
   "https://36kr.com/newsflashes/4066258760340615?f=rss": "2026-11-12T05:37:49.903588+00:00",
@@ -4754,39 +4731,15 @@
   "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": "2026-11-26T01:37:58.840083+00:00",
   "https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks": "2026-11-26T02:07:48.403328+00:00",
   "https://36kr.com/newsflashes/4085954054695555?f=rss": "2026-11-26T02:38:06.660141+00:00",
-  "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership": "2026-11-26T03:07:50.388891+00:00"
+  "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership": "2026-11-26T03:07:50.388891+00:00",
+  "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb": "2026-11-26T03:37:52.509043+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 0,
-  "takes": 7
+  "takes": 8
  },
  "triage": {
-  "f67da9654c4ba219": {
-   "imp": 2.32,
-   "ai": 0.98,
-   "ts": "2026-11-18T03:37:22.679504+00:00"
-  },
-  "3fd98c85d36222b8": {
-   "imp": 1.32,
-   "ai": 0.8,
-   "ts": "2026-11-18T03:37:22.679504+00:00"
-  },
-  "a64d8f6f24e9bacc": {
-   "imp": 0.19,
-   "ai": 0.04,
-   "ts": "2026-11-18T03:37:22.679504+00:00"
-  },
-  "6317374ad3ae5201": {
-   "imp": 1.47,
-   "ai": 0.83,
-   "ts": "2026-11-18T03:37:22.679504+00:00"
-  },
-  "cc24505c45086c43": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-18T03:37:22.679504+00:00"
-  },
   "75499b8e4188fbfd": {
    "imp": 1.61,
    "ai": 0.92,
@@ -25841,6 +25794,81 @@
    "imp": 1.37,
    "ai": 0.57,
    "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "9a8ea3491fbdcd6d": {
+   "imp": 1.73,
+   "ai": 0.87,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "a3e2147af71ea982": {
+   "imp": 1.67,
+   "ai": 0.91,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "a83811b0105de87d": {
+   "imp": 2.11,
+   "ai": 0.72,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "095ccea1dfb06737": {
+   "imp": 1.04,
+   "ai": 0.92,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "976c1396cf3bd52e": {
+   "imp": 1.51,
+   "ai": 0.39,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "f366c6bb46f76965": {
+   "imp": 2.21,
+   "ai": 0.93,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "107a0726ca1f40e1": {
+   "imp": 0.34,
+   "ai": 0.16,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "3772e4d3974c1226": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "1cc053946b620b2d": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "af26812640896d71": {
+   "imp": 1.4,
+   "ai": 0.83,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "905e466d64c7144e": {
+   "imp": 0.2,
+   "ai": 0.05,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "a799a0b1e5458eb0": {
+   "imp": 0.52,
+   "ai": 0.18,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "447e236c465329d2": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "2fc3584bb10eafab": {
+   "imp": 0.23,
+   "ai": 0.05,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
+  },
+  "28817120b1a5a344": {
+   "imp": 1.37,
+   "ai": 0.66,
+   "ts": "2026-11-26T03:37:21.902766+00:00"
   }
  }
 }
