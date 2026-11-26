@@ -1,10 +1,5 @@
 {
  "seen": {
-  "2b8784d0dd7924c0": "2026-11-19T11:37:23.655791+00:00",
-  "07e0472dae202e5c": "2026-11-19T11:37:23.655791+00:00",
-  "922d229bfefd9bc9": "2026-11-19T11:37:23.655791+00:00",
-  "2c7f5d5f32a8d70d": "2026-11-19T11:37:23.655791+00:00",
-  "0dfe5377d56d78f3": "2026-11-19T11:37:23.655791+00:00",
   "b22006398e4d6532": "2026-11-19T12:07:23.170783+00:00",
   "576d950a58a68b6f": "2026-11-19T12:07:23.170783+00:00",
   "884e4442a40a2084": "2026-11-19T12:07:23.170783+00:00",
@@ -4355,6 +4350,19 @@
    "desc": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": {
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "desc": "A Blog post by ggml-org on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+   "published": "2026-11-26T11:37:17.440000+00:00",
+   "excerpt": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face. It lets you track prompt processing and text generation performance across llama.cpp builds, models, and quantizations, so you can explore how local inference performs on AMD Ryzen and Radeon hardware. Local inference performance changes as models, kernels, and builds evolve. We want those changes to be easy to inspect for any AMD developer: pick a hardware, a model and a build, compare quantizations, and follow performance over time. The benchmark workflow and underlying results are public, so you can also inspect how we benchmark inference performance. You can choose Hardware, Model, and llama.cpp build in the Configuration sidebar. The current hardware choices are Radeon 8060S (gfx1151) and Radeon AI Pro R9700S (gfx12…"
+  },
+  "https://www.qbitai.com/2026/11/512972.html": {
+   "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+   "desc": "全栈方案破解工业机器人连续作业难题",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4384,8 +4392,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.122035,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.139398,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4412,8 +4420,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.111035,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.128398,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4440,36 +4448,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.068808,
-   "selection_reason": "Editorial importance"
-  },
-  {
-   "id": "ca6d641a2bb7646a",
-   "item": {
-    "id": "ca6d641a2bb7646a",
-    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
-    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
-    "published": "2026-11-25T12:49:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
-   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
-   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
-   "support": 0.95,
-   "published_at": "2026-11-25T12:49:01+00:00",
-   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
-   "expires_at": "2026-11-27T00:49:01+00:00",
-   "decision": 1.26,
-   "priority": 7.050382,
-   "selection_reason": "Editorial importance; waiting 21.5h"
+   "priority": 7.086171,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4496,8 +4476,36 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.042998,
-   "selection_reason": "Editorial importance"
+   "priority": 7.060361,
+   "selection_reason": "Editorial importance; waiting 0.5h"
+  },
+  {
+   "id": "ca6d641a2bb7646a",
+   "item": {
+    "id": "ca6d641a2bb7646a",
+    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
+    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
+    "published": "2026-11-25T12:49:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
+   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
+   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
+   "support": 0.95,
+   "published_at": "2026-11-25T12:49:01+00:00",
+   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
+   "expires_at": "2026-11-27T00:49:01+00:00",
+   "decision": 1.26,
+   "priority": 7.036491,
+   "selection_reason": "Editorial importance; waiting 22.0h"
   },
   {
    "id": "242edb948acd8745",
@@ -4525,8 +4533,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 6.977895,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.995258,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4554,8 +4562,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 6.956868,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.974231,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -4891,141 +4899,6 @@
   "takes": 17
  },
  "triage": {
-  "42162d1676a956fa": {
-   "imp": 1.51,
-   "ai": 0.76,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "55dde3921be9b1d7": {
-   "imp": 2.29,
-   "ai": null,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "231a189cb27a66f1": {
-   "imp": 0.57,
-   "ai": null,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "efa75184cae29886": {
-   "imp": 2.07,
-   "ai": 0.91,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "97729a1864dffb88": {
-   "imp": 0.24,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "d1699bb1c7a2d19e": {
-   "imp": 1.68,
-   "ai": 0.73,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "52a552a79ca15465": {
-   "imp": 1.9,
-   "ai": 0.93,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "f838ce9f4561d336": {
-   "imp": 1.92,
-   "ai": 0.92,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "ccd68f4483c4364e": {
-   "imp": 1.79,
-   "ai": 0.86,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "3bb219d5733618b3": {
-   "imp": 2.2,
-   "ai": 0.97,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "b9d863f026e84a16": {
-   "imp": 0.36,
-   "ai": 0.07,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "094f2e019aaed61a": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "f46cfa11937d0aca": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "5e0513be269c1f7f": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "3e56c3b4006dd5f3": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "6fbd1bb07b7a4537": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "5eb31bdd06e1a567": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "99e14a6062fa8a0a": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "f3cb7195195ee047": {
-   "imp": 0.25,
-   "ai": 0.07,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "e040417dab96f8e4": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "c1a1f115fa91d06e": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "9c97d24609b0bbc7": {
-   "imp": 0.24,
-   "ai": 0.09,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "cad19e1fc465bf1c": {
-   "imp": 0.35,
-   "ai": 0.09,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "6e668a0992d1758c": {
-   "imp": 0.97,
-   "ai": 0.16,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "54837f6f8e834609": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "6de452f276e33c02": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
-  "3a5ba3e80496a07a": {
-   "imp": 0.24,
-   "ai": 0.05,
-   "ts": "2026-11-18T11:37:23.301342+00:00"
-  },
   "a9c49e3c7bc61fcf": {
    "imp": 1.24,
    "ai": 0.68,
@@ -26050,6 +25923,111 @@
    "imp": 0.08,
    "ai": 0.04,
    "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "fa2f0df7cd764ef2": {
+   "imp": 2.12,
+   "ai": null,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "19fd120ee363e12f": {
+   "imp": 2.25,
+   "ai": null,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "14b311d8c98d5d2c": {
+   "imp": 1.45,
+   "ai": null,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "bd23cbf77a36445d": {
+   "imp": 1.61,
+   "ai": 0.81,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "f54f157e39a3b44b": {
+   "imp": 1.35,
+   "ai": 0.74,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "2a9ecf8432095540": {
+   "imp": 0.97,
+   "ai": 0.59,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "f6c0fe666712477e": {
+   "imp": 0.45,
+   "ai": 0.07,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "a73488cf4e91eaad": {
+   "imp": 0.95,
+   "ai": 0.87,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "02a088434703556c": {
+   "imp": 0.87,
+   "ai": null,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "09d9e4445ef2d9b1": {
+   "imp": 1.53,
+   "ai": null,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "ea398a4678e04651": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "f611fa26b52cc843": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "4d81703e8ec04fbb": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "4aac7f5a7e5631ba": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "d50f343a3bf6a067": {
+   "imp": 0.44,
+   "ai": 0.06,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "3d88b19dd621602f": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "ff006c30eca9387b": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "0996423b600a6b92": {
+   "imp": 0.14,
+   "ai": 0.06,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "3bb7c89824e64d72": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "60ad6a1e3f58a1c0": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "fa8f0b8e3bc1aa9c": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-26T11:37:23.704044+00:00"
   }
  }
 }
