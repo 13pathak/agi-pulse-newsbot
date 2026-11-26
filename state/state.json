@@ -1,18 +1,5 @@
 {
  "seen": {
-  "e5fa51b75c6dacaf": "2026-11-19T10:07:23.477122+00:00",
-  "7377e6f77e06d5d3": "2026-11-19T10:07:23.477122+00:00",
-  "7e1c15465762e1fd": "2026-11-19T10:07:23.477122+00:00",
-  "ab196dc93b9e80d3": "2026-11-19T10:07:23.477122+00:00",
-  "3f8a3cf0e05149eb": "2026-11-19T10:07:23.477122+00:00",
-  "f31f39c0e9078859": "2026-11-19T10:07:23.477122+00:00",
-  "a5203edeaa746295": "2026-11-19T10:07:23.477122+00:00",
-  "d21398f0a33fa2b7": "2026-11-19T10:07:23.477122+00:00",
-  "9c12441c042bf1a6": "2026-11-19T10:07:23.477122+00:00",
-  "9f990a9453793075": "2026-11-19T10:07:23.477122+00:00",
-  "858cedd0664ca22c": "2026-11-19T10:07:23.477122+00:00",
-  "30f6e1ce772cfb77": "2026-11-19T10:07:23.477122+00:00",
-  "0c778e96251b796f": "2026-11-19T10:07:23.477122+00:00",
   "2ea14e17b7c3f4ce": "2026-11-19T10:37:29.788570+00:00",
   "92adff525e09cbfe": "2026-11-19T10:37:29.788570+00:00",
   "a11f019a8898a489": "2026-11-19T10:37:29.788570+00:00",
@@ -1777,14 +1764,6 @@
   "18e327543dd0fa2d": "2026-11-26T09:37:24.112523+00:00"
  },
  "covered": [
-  {
-   "headline": "NetEase Lingdong and Liugong partner for AI excavators",
-   "ts": "2026-11-24T10:07:23.475746+00:00"
-  },
-  {
-   "headline": "Anthropic researcher produces 17-million-line Riemann hypothesis solution",
-   "ts": "2026-11-24T10:37:23.513662+00:00"
-  },
   {
    "headline": "OpenAI and Anthropic researchers voice internal AI safety concerns",
    "ts": "2026-11-24T11:37:24.571320+00:00"
@@ -4424,8 +4403,8 @@
    "first_seen_at": "2026-11-26T08:37:21.187796+00:00",
    "expires_at": "2026-11-27T20:14:44+00:00",
    "decision": 1.54,
-   "priority": 7.554945,
-   "selection_reason": "Time-sensitive story; waiting 1.5h"
+   "priority": 7.572333,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4453,36 +4432,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.087291,
-   "selection_reason": "Editorial importance; waiting 3.0h"
-  },
-  {
-   "id": "ca6d641a2bb7646a",
-   "item": {
-    "id": "ca6d641a2bb7646a",
-    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
-    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
-    "published": "2026-11-25T12:49:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
-   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
-   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
-   "support": 0.95,
-   "published_at": "2026-11-25T12:49:01+00:00",
-   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
-   "expires_at": "2026-11-27T00:49:01+00:00",
-   "decision": 1.26,
-   "priority": 7.078177,
-   "selection_reason": "Editorial importance; waiting 20.5h"
+   "priority": 7.104679,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4509,8 +4460,36 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.076291,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.093678,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "ca6d641a2bb7646a",
+   "item": {
+    "id": "ca6d641a2bb7646a",
+    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
+    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
+    "published": "2026-11-25T12:49:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
+   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
+   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
+   "support": 0.95,
+   "published_at": "2026-11-25T12:49:01+00:00",
+   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
+   "expires_at": "2026-11-27T00:49:01+00:00",
+   "decision": 1.26,
+   "priority": 7.064267,
+   "selection_reason": "Editorial importance; waiting 21.0h"
   },
   {
    "id": "242edb948acd8745",
@@ -4538,8 +4517,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 6.943151,
-   "selection_reason": "Editorial importance"
+   "priority": 6.960538,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4567,8 +4546,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 6.922124,
-   "selection_reason": "Editorial importance"
+   "priority": 6.939512,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4905,121 +4884,6 @@
   "takes": 16
  },
  "triage": {
-  "4c6a388046f44d33": {
-   "imp": 1.11,
-   "ai": null,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "62db59d665185f43": {
-   "imp": 1.55,
-   "ai": 0.86,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "8c9575f79b4730c2": {
-   "imp": 2.01,
-   "ai": 0.94,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "ef28fb89fd521d19": {
-   "imp": 2.02,
-   "ai": 0.92,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "6bc86b0de0d5c935": {
-   "imp": 1.71,
-   "ai": 0.89,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "6584fb1c553fffdd": {
-   "imp": 1.34,
-   "ai": 0.81,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "80c1d3e4c64bee1d": {
-   "imp": 1.16,
-   "ai": 0.96,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "35c94b1e46eae45b": {
-   "imp": 0.38,
-   "ai": 0.19,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "c97a8d700527227b": {
-   "imp": 1.05,
-   "ai": 0.93,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "97057ad8db748848": {
-   "imp": 1.86,
-   "ai": 0.97,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "81a0f8f36b1d58e9": {
-   "imp": 1.67,
-   "ai": 0.72,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "edd55e44ca983db9": {
-   "imp": 1.84,
-   "ai": 0.97,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "dd42147fd7b62b88": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "4776a88890323817": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "0d269f05ce8d3aed": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "1712b493a9eb4448": {
-   "imp": 0.4,
-   "ai": 0.12,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "52fd9ab2cb735e12": {
-   "imp": 0.2,
-   "ai": 0.06,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "a709ef9507189301": {
-   "imp": 0.24,
-   "ai": 0.1,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "0de8f03a7c323b68": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "0f10fb6142bbabe8": {
-   "imp": 1.22,
-   "ai": 0.82,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "198b8e92813186ed": {
-   "imp": 0.14,
-   "ai": 0.05,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "c0da51bd68fd2621": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
-  "d08d3e79f89ad2b9": {
-   "imp": 0.22,
-   "ai": 0.08,
-   "ts": "2026-11-18T10:07:25.145656+00:00"
-  },
   "a6378e500f75f84d": {
    "imp": 1.9,
    "ai": 0.87,
@@ -26229,6 +26093,121 @@
    "imp": 0.27,
    "ai": 0.05,
    "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "1818dd40d576d025": {
+   "imp": 0.35,
+   "ai": 0.15,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "880e33c672337a97": {
+   "imp": 0.88,
+   "ai": 0.89,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "3a0534fa65bb6cdd": {
+   "imp": 0.44,
+   "ai": 0.28,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "779f309db1df9f8d": {
+   "imp": 1.21,
+   "ai": 0.92,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "58b6fcac2c6ffc13": {
+   "imp": 1.39,
+   "ai": 0.23,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "07891f29af810774": {
+   "imp": 1.25,
+   "ai": null,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "d57365cb97c9dcb3": {
+   "imp": 0.31,
+   "ai": 0.08,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "8b7b0b49be7671f0": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "13c0ef2096033c16": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "40fbc2e02e5a984e": {
+   "imp": 1.17,
+   "ai": 0.41,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "79b96f10759ec4bf": {
+   "imp": 1.34,
+   "ai": 0.45,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "ef7b05038401c765": {
+   "imp": 0.48,
+   "ai": 0.22,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "4600f0023800b140": {
+   "imp": 0.32,
+   "ai": 0.07,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "9942af95469d33b4": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "00fd116d89d9f32a": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "c478439f215d933a": {
+   "imp": 0.36,
+   "ai": 0.07,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "688c2b9224af97c4": {
+   "imp": 0.5,
+   "ai": 0.4,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "0e08afcd1af38f33": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "78d847cd83d87506": {
+   "imp": 0.18,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "4da1f1dae7e81ce7": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "2a21343a752d6200": {
+   "imp": 0.25,
+   "ai": 0.07,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "79ada9991852668a": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "c0c44ab2e349ac45": {
+   "imp": 0.49,
+   "ai": 0.06,
+   "ts": "2026-11-26T10:37:23.992884+00:00"
   }
  }
 }
