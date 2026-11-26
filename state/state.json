@@ -1,31 +1,5 @@
 {
  "seen": {
-  "2ea14e17b7c3f4ce": "2026-11-19T10:37:29.788570+00:00",
-  "92adff525e09cbfe": "2026-11-19T10:37:29.788570+00:00",
-  "a11f019a8898a489": "2026-11-19T10:37:29.788570+00:00",
-  "12214793035f8043": "2026-11-19T10:37:29.788570+00:00",
-  "8b259f6365b3b595": "2026-11-19T10:37:29.788570+00:00",
-  "c4d077949325851b": "2026-11-19T10:37:29.788570+00:00",
-  "5b9ed1d420ef2ece": "2026-11-19T10:37:29.788570+00:00",
-  "e52f2502e27aaa06": "2026-11-19T10:37:29.788570+00:00",
-  "a64d39853da0fc23": "2026-11-19T10:37:29.788570+00:00",
-  "e63363d23c4e9429": "2026-11-19T10:37:29.788570+00:00",
-  "b175db1dbb4adc4c": "2026-11-19T10:37:29.788570+00:00",
-  "d25121d422ff58e4": "2026-11-19T10:37:29.788570+00:00",
-  "c10f025d55636d2c": "2026-11-19T10:37:29.788570+00:00",
-  "06eb25d8bc9d2c4e": "2026-11-19T10:37:29.788570+00:00",
-  "7070b18287506acd": "2026-11-19T10:37:29.788570+00:00",
-  "03b14489ed8fece5": "2026-11-19T11:07:22.417173+00:00",
-  "d5ba42fbe1ea9112": "2026-11-19T11:07:22.417173+00:00",
-  "0aabb3d60c3a9697": "2026-11-19T11:07:22.417173+00:00",
-  "a12d8ce34a1ae5cc": "2026-11-19T11:07:22.417173+00:00",
-  "4fbc02245f26665f": "2026-11-19T11:07:22.417173+00:00",
-  "39e613a0a15792b3": "2026-11-19T11:07:22.417173+00:00",
-  "7a472f90daa194f3": "2026-11-19T11:07:22.417173+00:00",
-  "2c4cba7482f3f6af": "2026-11-19T11:07:22.417173+00:00",
-  "d6eb2ba64e0f58a8": "2026-11-19T11:07:22.417173+00:00",
-  "4376100ec1e1baab": "2026-11-19T11:07:22.417173+00:00",
-  "922cc9edad19e56f": "2026-11-19T11:07:22.417173+00:00",
   "2b8784d0dd7924c0": "2026-11-19T11:37:23.655791+00:00",
   "07e0472dae202e5c": "2026-11-19T11:37:23.655791+00:00",
   "922d229bfefd9bc9": "2026-11-19T11:37:23.655791+00:00",
@@ -1761,7 +1735,24 @@
   "9c24e45509d837db": "2026-11-26T09:37:24.112523+00:00",
   "1b019289d66a9acd": "2026-11-26T09:37:24.112523+00:00",
   "8d43b42fec6955c9": "2026-11-26T09:37:24.112523+00:00",
-  "18e327543dd0fa2d": "2026-11-26T09:37:24.112523+00:00"
+  "18e327543dd0fa2d": "2026-11-26T09:37:24.112523+00:00",
+  "07891f29af810774": "2026-11-26T11:07:23.515086+00:00",
+  "20d9450511bb0b4e": "2026-11-26T11:07:23.515086+00:00",
+  "64380d45336b9ea3": "2026-11-26T11:07:23.515086+00:00",
+  "4a218a47efce6d99": "2026-11-26T11:07:23.515086+00:00",
+  "bc66c35111aa5786": "2026-11-26T11:07:23.515086+00:00",
+  "df5a157635989242": "2026-11-26T11:07:23.515086+00:00",
+  "8b3180ce06516d67": "2026-11-26T11:07:23.515086+00:00",
+  "58b6fcac2c6ffc13": "2026-11-26T11:07:23.515086+00:00",
+  "83aa9296c540c830": "2026-11-26T11:07:23.515086+00:00",
+  "880e33c672337a97": "2026-11-26T11:07:23.515086+00:00",
+  "779f309db1df9f8d": "2026-11-26T11:07:23.515086+00:00",
+  "b81dcad6c420fdf0": "2026-11-26T11:07:23.515086+00:00",
+  "cba62b3be5f3e4ce": "2026-11-26T11:07:23.515086+00:00",
+  "b76fc7f338264189": "2026-11-26T11:07:23.515086+00:00",
+  "3a0534fa65bb6cdd": "2026-11-26T11:07:23.515086+00:00",
+  "c102192519a01c46": "2026-11-26T11:07:23.515086+00:00",
+  "1fe6be4156148b9a": "2026-11-26T11:07:23.515086+00:00"
  },
  "covered": [
   {
@@ -1979,11 +1970,15 @@
   {
    "headline": "Alibaba founder visits T-Head as new chip volume production nears",
    "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  {
+   "headline": "Guangdong targets 1,000 EFLOPS AI computing capacity by 2028",
+   "ts": "2026-11-26T11:07:23.515086+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4364,49 +4359,6 @@
  },
  "pending": [
   {
-   "id": "c102192519a01c46",
-   "item": {
-    "id": "c102192519a01c46",
-    "title": "广东：到2028年 智算规模突破1000EFlops（FP16）",
-    "url": "https://36kr.com/newsflashes/4086315160349313?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，广东省政务服务和数据管理局和广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。到2028年，广东算力发展取得重要阶段性成效，智算规模突破1000EFlops（FP16），全省数据中心绿电使用占比超80%，新建大型及以上数据中心电能利用效率（PUE）小于1.2，存量数据中心能效显著提升，绿色低碳发展达到全国先进水平，边缘智算深入推进，算力设施建设布局持续优化，算力网络时延进一步降低，数算电网一体化协同建设水平显著提升，基本建成国际一流、国内领先的算力高地。",
-    "published": "2026-11-26T08:14:44+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "1fe6be4156148b9a",
-     "title": "广东：鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模",
-     "url": "https://36kr.com/newsflashes/4086315974388361?f=rss",
-     "source": "36Kr",
-     "image": "",
-     "snippet": "36氪获悉，广东省政务服务和数据管理局和广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。发挥国家新兴产业创新中心、国家产业技术工程化中心、国家制造业创新中心等平台的带动作用，积极推进粤港澳大湾区国家技术创新中心、前海深港技术转移转化中心、粤港澳国际量子科学中心建设，加大产业共性技术供给，加快科技成果转化应用。集中力量突破产业技术短板，着力缩小与国际领先水平在单芯片算力性能上的代际差距，同时加强芯片异构融合与协同适配，推动多元算力芯片高效互联、优势互补。鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模。发挥超节点产品架构创新、开放解耦、多芯协同优化与高速互联技术优势，释放算力芯片效能。",
-     "published": "2026-11-26T08:15:33+00:00",
-     "images": false,
-     "category": "news",
-     "language": "zh",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Guangdong targets 1,000 EFLOPS AI computing capacity by 2028",
-   "post": "Guangdong Province released its 15th Five-Year Plan for computing power, targeting an intelligent computing capacity of over 1,000 EFLOPS (FP16) by 2028. The plan also encourages computing centers to prioritize domestic AI chips.",
-   "editor_note": "Verify FP16 precision specification and domestic chip preference details in official provincial release.",
-   "support": 0.93,
-   "published_at": "2026-11-26T08:14:44+00:00",
-   "first_seen_at": "2026-11-26T08:37:21.187796+00:00",
-   "expires_at": "2026-11-27T20:14:44+00:00",
-   "decision": 1.54,
-   "priority": 7.572333,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
-  },
-  {
    "id": "80788bc9cb776030",
    "item": {
     "id": "80788bc9cb776030",
@@ -4432,8 +4384,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.104679,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.122035,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4460,8 +4412,36 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.093678,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.111035,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "c8a9ac36cda6e381",
+   "item": {
+    "id": "c8a9ac36cda6e381",
+    "title": "Thomson Reuters is using both American and Chinese AI for its next model",
+    "url": "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11",
+    "source": "Business Insider",
+    "image": "https://i.insider.com/6b075a85d6c5d341c9b4d669?format=jpeg",
+    "snippet": "Forget the AI race: Thomson Reuters wants the best of both worlds. The company's next AI model is built off Google's Gemma and Z.ai's GLM, it tells Business Insider. The data and legal giant has spent $40 million so far building its own chatbots. As China and the US race to compete on AI, Thomson Reuters, the Canadian data and legal giant, is having it both ways. The company is launching a new AI …",
+    "published": "2026-11-26T10:00:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Thomson Reuters builds AI model using Google and Z.ai",
+   "post": "Thomson Reuters is using Google's Gemma and Z.ai's GLM for its next AI model, following $40 million in chatbot development spending.",
+   "editor_note": "Verify Thomson Reuters' specific distribution plans for this dual-origin model.",
+   "support": 0.93,
+   "published_at": "2026-11-26T10:00:01+00:00",
+   "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
+   "expires_at": "2026-11-27T22:00:01+00:00",
+   "decision": 1.8,
+   "priority": 7.068808,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4488,8 +4468,36 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.064267,
-   "selection_reason": "Editorial importance; waiting 21.0h"
+   "priority": 7.050382,
+   "selection_reason": "Editorial importance; waiting 21.5h"
+  },
+  {
+   "id": "c0f2de19f05669ce",
+   "item": {
+    "id": "c0f2de19f05669ce",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+    "published": "2026-11-26T09:54:40+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "State attorneys general oppose Character.AI data sale",
+   "post": "A coalition of 42 state attorneys general is attempting to prevent Character.AI from selling private chat histories of over 21 million US accounts during bankruptcy proceedings.",
+   "editor_note": "Confirm which court is handling the Chapter 11 proceedings regarding the data auction.",
+   "support": 0.95,
+   "published_at": "2026-11-26T09:54:40+00:00",
+   "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
+   "expires_at": "2026-11-27T21:54:40+00:00",
+   "decision": 1.73,
+   "priority": 7.042998,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "242edb948acd8745",
@@ -4517,8 +4525,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 6.960538,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.977895,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4546,14 +4554,12 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 6.939512,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.956868,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1": "2026-11-12T09:40:59.936706+00:00",
-  "https://analyticsindiamag.com/ai-news/chariot-launches-multilingual-tts-model-with-support-for-11-indian-languages": "2026-11-12T10:09:36.991416+00:00",
   "https://36kr.com/newsflashes/4066584261022849?f=rss": "2026-11-12T11:08:11.530315+00:00",
   "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub": "2026-11-12T11:38:57.801512+00:00",
   "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network": "2026-11-12T13:07:56.949623+00:00",
@@ -4876,249 +4882,15 @@
   "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html": "2026-11-26T08:09:53.502708+00:00",
   "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns": "2026-11-26T08:38:09.721694+00:00",
   "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia": "2026-11-26T09:08:35.898816+00:00",
-  "https://36kr.com/newsflashes/4086392240990857?f=rss": "2026-11-26T09:37:59.229607+00:00"
+  "https://36kr.com/newsflashes/4086392240990857?f=rss": "2026-11-26T09:37:59.229607+00:00",
+  "https://36kr.com/newsflashes/4086315160349313?f=rss": "2026-11-26T11:07:57.964031+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
-  "a6378e500f75f84d": {
-   "imp": 1.9,
-   "ai": 0.87,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "b3ba9f8841152db7": {
-   "imp": 1.44,
-   "ai": 0.84,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "2bacfaffee5a24fa": {
-   "imp": 1.46,
-   "ai": null,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "1365fe0218babfff": {
-   "imp": 1.11,
-   "ai": null,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "bf3d5c701c2eba57": {
-   "imp": 1.38,
-   "ai": 0.73,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "e6c45f97bb5cf66f": {
-   "imp": 2.14,
-   "ai": 0.95,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "082a0b3ce7d30b20": {
-   "imp": 2.1,
-   "ai": 0.93,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "20c4aa4e38b8ecbf": {
-   "imp": 1.65,
-   "ai": 0.98,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "52140d40d012eee4": {
-   "imp": 0.61,
-   "ai": 0.37,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "4f6a7d489b8ac936": {
-   "imp": 1.63,
-   "ai": 0.89,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "59f6c6e58008fe2a": {
-   "imp": 1.16,
-   "ai": 0.81,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "9162001826d50396": {
-   "imp": 1.48,
-   "ai": 0.96,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "bf00fa1753251851": {
-   "imp": 1.29,
-   "ai": 0.96,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "38f88b1583445c18": {
-   "imp": 1.07,
-   "ai": 0.45,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "370eeb4b58da4d12": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "7193ffaabbb439a5": {
-   "imp": 0.45,
-   "ai": 0.04,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "760773db88c051de": {
-   "imp": 1.81,
-   "ai": 0.76,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "406b0575618ba662": {
-   "imp": 0.51,
-   "ai": 0.21,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "55e8cba7ef81c14e": {
-   "imp": 1.56,
-   "ai": 0.92,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "e271c3c4c6271eb5": {
-   "imp": 0.18,
-   "ai": 0.04,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "a8705c200858d441": {
-   "imp": 0.37,
-   "ai": 0.07,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "9a14d4a549822232": {
-   "imp": 1.27,
-   "ai": 0.64,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "21d67778cb1093db": {
-   "imp": 0.37,
-   "ai": 0.05,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "f6d49a427f5a7571": {
-   "imp": 1.45,
-   "ai": 0.74,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "addc529812caac97": {
-   "imp": 0.22,
-   "ai": 0.04,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "ff1f4eed32e775e3": {
-   "imp": 0.98,
-   "ai": 0.24,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "2bc9d8eb10d35eeb": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "0d914cc202e8f074": {
-   "imp": 1.33,
-   "ai": 0.23,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "f293b336da85bf61": {
-   "imp": 0.19,
-   "ai": 0.04,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "301e0a59c13211c9": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-18T10:37:26.075554+00:00"
-  },
-  "c38beb9bd9c36a36": {
-   "imp": 1.4,
-   "ai": null,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "c10c085de4eb152c": {
-   "imp": 0.66,
-   "ai": 0.44,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "a57d55122b0b573b": {
-   "imp": 2.3,
-   "ai": 0.93,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "7ba817349e1597d3": {
-   "imp": 1.0,
-   "ai": 0.93,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "b0a917fd54f3dec3": {
-   "imp": 2.37,
-   "ai": 0.98,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "4ac852a1e8faad59": {
-   "imp": 1.6,
-   "ai": 0.52,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "b2f2054ae2616e3d": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "b669c234b6af3cbf": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "d808cfae5c579b8c": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "7dea756eae0dd8ea": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "0c916abfbf8f42e5": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "374c3b18dc4b4699": {
-   "imp": 0.22,
-   "ai": 0.05,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "5affb7b38df7a24c": {
-   "imp": 0.51,
-   "ai": 0.2,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "22cfe040cd8cd25b": {
-   "imp": 0.36,
-   "ai": 0.11,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "900e0bf9efd965fd": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "2c9fe8d09c059677": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
-  "1a65d57189b7120a": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-18T11:07:31.469280+00:00"
-  },
   "42162d1676a956fa": {
    "imp": 1.51,
    "ai": 0.76,
@@ -26208,6 +25980,76 @@
    "imp": 0.49,
    "ai": 0.06,
    "ts": "2026-11-26T10:37:23.992884+00:00"
+  },
+  "bc66c35111aa5786": {
+   "imp": 1.6,
+   "ai": null,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "78b9fbb43fef57b4": {
+   "imp": 0.81,
+   "ai": 0.87,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "df5a157635989242": {
+   "imp": 1.49,
+   "ai": 0.89,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "b81dcad6c420fdf0": {
+   "imp": 1.52,
+   "ai": 0.93,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "83aa9296c540c830": {
+   "imp": 1.55,
+   "ai": 0.82,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "04369b4797e6152b": {
+   "imp": 1.18,
+   "ai": 0.94,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "64380d45336b9ea3": {
+   "imp": 1.88,
+   "ai": 0.97,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "490e6c52168a0ae5": {
+   "imp": 0.04,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "b41b56117ed85831": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "4877d3e9c34ed079": {
+   "imp": 0.11,
+   "ai": 0.08,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "38987e5ba5a6c0ae": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "33ed05cc8ce7c7a0": {
+   "imp": 0.27,
+   "ai": 0.07,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "1904fc41c9a85dfc": {
+   "imp": 0.06,
+   "ai": 0.04,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  "0d3e76dcc16ae359": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-26T11:07:23.515086+00:00"
   }
  }
 }
