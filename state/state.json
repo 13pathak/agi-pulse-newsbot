@@ -1,6 +1,5 @@
 {
  "seen": {
-  "82a0f3f376656399": "2026-11-19T02:07:34.212668+00:00",
   "1980ba70462d640e": "2026-11-19T02:37:31.986009+00:00",
   "6f8f17530b912bd5": "2026-11-19T02:37:31.986009+00:00",
   "a8eb0ed9ef435798": "2026-11-19T02:37:31.986009+00:00",
@@ -1803,13 +1802,20 @@
   "b8e65de04b89ed80": "2026-11-26T01:37:30.210649+00:00",
   "d63283ce25048c2b": "2026-11-26T01:37:30.210649+00:00",
   "8f3b3158a1a6dcf7": "2026-11-26T01:37:30.210649+00:00",
-  "a3c473ac1eeb94ab": "2026-11-26T01:37:30.210649+00:00"
+  "a3c473ac1eeb94ab": "2026-11-26T01:37:30.210649+00:00",
+  "4c9ca9be29ed4305": "2026-11-26T02:07:21.568825+00:00",
+  "0975eae3b3b1ea4d": "2026-11-26T02:07:21.568825+00:00",
+  "1b33fc4c906ba5a0": "2026-11-26T02:07:21.568825+00:00",
+  "5bfa4d5f1dbdbb23": "2026-11-26T02:07:21.568825+00:00",
+  "fda2281226e77251": "2026-11-26T02:07:21.568825+00:00",
+  "27452a5a59137715": "2026-11-26T02:07:21.568825+00:00",
+  "650d000f9f835dc2": "2026-11-26T02:07:21.568825+00:00",
+  "c05c2ff946f72a50": "2026-11-26T02:07:21.568825+00:00",
+  "f27e0de9d097fe05": "2026-11-26T02:07:21.568825+00:00",
+  "89e2b5dc87c4b0ba": "2026-11-26T02:07:21.568825+00:00",
+  "9f6f68c376e8c4f2": "2026-11-26T02:07:21.568825+00:00"
  },
  "covered": [
-  {
-   "headline": "Jensen Huang returns as Nvidia chief executive",
-   "ts": "2026-11-24T02:07:21.883787+00:00"
-  },
   {
    "headline": "OpenAI engineer accused of recording confidential meetings",
    "ts": "2026-11-24T02:37:21.443172+00:00"
@@ -2033,11 +2039,15 @@
   {
    "headline": "SpaceX receives FCC approval for 1 million orbital data centers",
    "ts": "2026-11-26T01:37:30.210649+00:00"
+  },
+  {
+   "headline": "S&P places Nvidia on CreditWatch Negative over governance risks",
+   "ts": "2026-11-26T02:07:21.568825+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4381,71 +4391,6 @@
  },
  "pending": [
   {
-   "id": "c05c2ff946f72a50",
-   "item": {
-    "id": "c05c2ff946f72a50",
-    "title": "S&P Global Puts Nvidia on ‘CreditWatch Negative’ Due to Governance Risks",
-    "url": "https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks",
-    "source": "The Information",
-    "image": "",
-    "snippet": "S&P Global, one of the three big credit rating agencies, placed Nvidia’s credit rating on “CreditWatch Negative” on Wednesday, citing rising management and governance risks. The action means the agency will review Nvidia’s credit rating and could downgrade it in the next 90 days. S&P ...",
-    "published": "2026-11-25T19:27:40+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "f27e0de9d097fe05",
-     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-     "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-     "source": "TechCrunch",
-     "image": "",
-     "snippet": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-     "published": "2026-11-25T22:44:32+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "89e2b5dc87c4b0ba",
-     "title": "S&P Discovers Nvidia’s Governance Lapses",
-     "url": "https://www.theinformation.com/articles/s-p-discovers-nvidias-governance-lapses",
-     "source": "The Information",
-     "image": "",
-     "snippet": "Credit agencies aren’t known for being ahead of the pack when it comes to spotting weaknesses at companies. (If you don’t believe me, check out their role in the 2008 financial crisis .) But S&P’s note on Wednesday , alerting the market to the possibility it could downgrade Nvidia’s credit rating, sets new standards in stating the obvious. S&P declared that the recent drama surrounding CEO Jensen …",
-     "published": "2026-11-25T22:31:16+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    },
-    {
-     "id": "9f6f68c376e8c4f2",
-     "title": "S&P Says It May Downgrade Nvidia’s Ratings on Governance Worries",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
-     "source": "Bloomberg",
-     "image": "",
-     "snippet": "S&P Global Ratings is looking at cutting Nvidia Corp.’s credit by one notch, citing concerns over the company’s management and governance following the departure, and then the return, of Chief Executive Officer Jensen Huang.",
-     "published": "2026-11-25T18:56:21+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "S&P places Nvidia on CreditWatch Negative over governance risks",
-   "post": "S&P Global placed Nvidia on CreditWatch Negative, citing management and governance risks following recent executive changes.",
-   "editor_note": "Check the 90-day window specified by S&P for the potential credit rating review.",
-   "support": 0.93,
-   "published_at": "2026-11-25T18:56:21+00:00",
-   "first_seen_at": "2026-11-26T01:07:23.478784+00:00",
-   "expires_at": "2026-11-27T06:56:21+00:00",
-   "decision": 2.08,
-   "priority": 8.538981,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
-  },
-  {
    "id": "fc509d5dcb94321f",
    "item": {
     "id": "fc509d5dcb94321f",
@@ -4470,8 +4415,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.462051,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.448229,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4498,8 +4443,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.411071,
-   "selection_reason": "Editorial importance; waiting 13.5h"
+   "priority": 7.397249,
+   "selection_reason": "Editorial importance; waiting 14.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4526,8 +4471,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.314219,
-   "selection_reason": "Editorial importance; waiting 12.0h"
+   "priority": 7.300397,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   }
  ],
  "details_queue": [],
@@ -4859,94 +4804,15 @@
   "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys": "2026-11-26T01:07:50.336575+00:00",
   "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store": "2026-11-26T01:07:50.336575+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value": "2026-11-26T01:37:58.840083+00:00",
-  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": "2026-11-26T01:37:58.840083+00:00"
+  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": "2026-11-26T01:37:58.840083+00:00",
+  "https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks": "2026-11-26T02:07:48.403328+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 0,
-  "takes": 4
+  "takes": 5
  },
  "triage": {
-  "bc1083d540d97a0c": {
-   "imp": 2.08,
-   "ai": null,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "1a2a1d7ac2893c01": {
-   "imp": 2.02,
-   "ai": 0.95,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "3f6098aabd8eb664": {
-   "imp": 1.73,
-   "ai": 0.95,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "42cab5ea23d45f3a": {
-   "imp": 1.29,
-   "ai": 0.8,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "7dc6954b4a034546": {
-   "imp": 1.61,
-   "ai": 0.91,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "b58c487061ec7173": {
-   "imp": 2.06,
-   "ai": 0.96,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "7fcfb79e30de0a30": {
-   "imp": 1.62,
-   "ai": 0.54,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "1a5388b7e9c53113": {
-   "imp": 0.3,
-   "ai": 0.11,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "03e3d2ba1689f4f9": {
-   "imp": 1.11,
-   "ai": 0.38,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "fc6e4b817a047168": {
-   "imp": 2.25,
-   "ai": 0.96,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "8104f6b81c1ffc64": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "e4daeedb2bca8dc2": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "7dc3bc779eeda561": {
-   "imp": 0.08,
-   "ai": 0.05,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "7f280d15296b6460": {
-   "imp": 0.13,
-   "ai": 0.06,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "6ed26259d5612bb7": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
-  "0d717ef5af0a6fa8": {
-   "imp": 0.4,
-   "ai": 0.07,
-   "ts": "2026-11-18T02:07:29.124189+00:00"
-  },
   "0df5cce8cc5bffe0": {
    "imp": 1.91,
    "ai": 0.95,
@@ -25951,6 +25817,61 @@
    "imp": 0.19,
    "ai": 0.03,
    "ts": "2026-11-26T01:37:30.210649+00:00"
+  },
+  "1b33fc4c906ba5a0": {
+   "imp": 0.89,
+   "ai": 0.77,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "5bfa4d5f1dbdbb23": {
+   "imp": 0.89,
+   "ai": 0.49,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "0975eae3b3b1ea4d": {
+   "imp": 1.45,
+   "ai": 0.92,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "27452a5a59137715": {
+   "imp": 1.02,
+   "ai": 0.76,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "27937ee3ace45b77": {
+   "imp": 0.88,
+   "ai": 0.23,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "52458f73abd4a311": {
+   "imp": 1.29,
+   "ai": 0.2,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "5438e3e14b829f15": {
+   "imp": 0.18,
+   "ai": 0.09,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "ec787ee20ea90792": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "4d428bda2f5d3794": {
+   "imp": 0.18,
+   "ai": 0.06,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "7ff9b818a1d281fe": {
+   "imp": 0.18,
+   "ai": 0.06,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
+  },
+  "d0d5841b0f1adc9c": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-26T02:07:21.568825+00:00"
   }
  }
 }
