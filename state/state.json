@@ -1,11 +1,5 @@
 {
  "seen": {
-  "3c4fcc55a7d22c8b": "2026-11-19T08:37:26.861287+00:00",
-  "273d336d37591ea3": "2026-11-19T08:37:26.861287+00:00",
-  "5ce2be25f920ad27": "2026-11-19T08:37:26.861287+00:00",
-  "d335a3c2600d085e": "2026-11-19T08:37:26.861287+00:00",
-  "eb2431c8565ed21a": "2026-11-19T08:37:26.861287+00:00",
-  "56de1218e3455f64": "2026-11-19T08:37:26.861287+00:00",
   "f8f19df2493f100c": "2026-11-19T09:07:24.974402+00:00",
   "cffa83add41d5d2f": "2026-11-19T09:07:24.974402+00:00",
   "13485ae4006664fe": "2026-11-19T09:07:24.974402+00:00",
@@ -1774,13 +1768,14 @@
   "3297d6504997aba0": "2026-11-26T08:07:36.120825+00:00",
   "be49b5911a18ca81": "2026-11-26T08:07:36.120825+00:00",
   "2fd4a3c62c671462": "2026-11-26T08:07:36.120825+00:00",
-  "b03b1415345931f4": "2026-11-26T08:07:36.120825+00:00"
+  "b03b1415345931f4": "2026-11-26T08:07:36.120825+00:00",
+  "324f5a1e0a41f5c4": "2026-11-26T08:37:21.187796+00:00",
+  "b0134747a9e4c617": "2026-11-26T08:37:21.187796+00:00",
+  "c95932322ee014f6": "2026-11-26T08:37:21.187796+00:00",
+  "cb4ef3217ddca8af": "2026-11-26T08:37:21.187796+00:00",
+  "cec666d0421e8d1d": "2026-11-26T08:37:21.187796+00:00"
  },
  "covered": [
-  {
-   "headline": "Lenskart pilots AI eye test Drysh and expands smart glasses",
-   "ts": "2026-11-24T08:37:22.424714+00:00"
-  },
   {
    "headline": "Cosine Robots raises 22.36 crore rupees in funding",
    "ts": "2026-11-24T09:07:23.360194+00:00"
@@ -2000,11 +1995,15 @@
   {
    "headline": "Nothing unveils Ear note AI earbuds with physical buttons",
    "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  {
+   "headline": "Pine Labs launches merchant app AI agents",
+   "ts": "2026-11-26T08:37:21.187796+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 12
+  "count": 13
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4385,32 +4384,47 @@
  },
  "pending": [
   {
-   "id": "cec666d0421e8d1d",
+   "id": "c102192519a01c46",
    "item": {
-    "id": "cec666d0421e8d1d",
-    "title": "Pine Labs Adds AI Agents To Merchant App For Sales Insights, Ad Campaigns",
-    "url": "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1772165223589-ew432e.webp",
-    "snippet": "Bengaluru-based fintech company Pine Labs has launched two AI agents on its merchant operating app, Pine Labs One, to help small businesses analyse transaction data and manage digital advertising campaigns. The tools, Guide and Marketer Agent, are the first in a series of agents being developed under the company’s Agentic Org platform. Pine Labs said they would be rolled out to millions of merchan…",
-    "published": "2026-11-26T05:39:30+00:00",
-    "images": true,
+    "id": "c102192519a01c46",
+    "title": "广东：到2028年 智算规模突破1000EFlops（FP16）",
+    "url": "https://36kr.com/newsflashes/4086315160349313?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，广东省政务服务和数据管理局和广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。到2028年，广东算力发展取得重要阶段性成效，智算规模突破1000EFlops（FP16），全省数据中心绿电使用占比超80%，新建大型及以上数据中心电能利用效率（PUE）小于1.2，存量数据中心能效显著提升，绿色低碳发展达到全国先进水平，边缘智算深入推进，算力设施建设布局持续优化，算力网络时延进一步降低，数算电网一体化协同建设水平显著提升，基本建成国际一流、国内领先的算力高地。",
+    "published": "2026-11-26T08:14:44+00:00",
+    "images": false,
     "category": "news",
+    "language": "zh",
     "source_cap": 3
    },
-   "related": [],
+   "related": [
+    {
+     "id": "1fe6be4156148b9a",
+     "title": "广东：鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模",
+     "url": "https://36kr.com/newsflashes/4086315974388361?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "36氪获悉，广东省政务服务和数据管理局和广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。发挥国家新兴产业创新中心、国家产业技术工程化中心、国家制造业创新中心等平台的带动作用，积极推进粤港澳大湾区国家技术创新中心、前海深港技术转移转化中心、粤港澳国际量子科学中心建设，加大产业共性技术供给，加快科技成果转化应用。集中力量突破产业技术短板，着力缩小与国际领先水平在单芯片算力性能上的代际差距，同时加强芯片异构融合与协同适配，推动多元算力芯片高效互联、优势互补。鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模。发挥超节点产品架构创新、开放解耦、多芯协同优化与高速互联技术优势，释放算力芯片效能。",
+     "published": "2026-11-26T08:15:33+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    }
+   ],
    "importance": 7,
    "urgency": "timely",
-   "headline": "Pine Labs launches merchant app AI agents",
-   "post": "Bengaluru-based fintech company Pine Labs has launched two AI agents, Guide and Marketer Agent, on its Pine Labs One app to assist small businesses with transaction analysis and ad campaigns.",
-   "editor_note": "Confirm the planned rollout timeline and availability across merchant tiers in India.",
-   "support": 0.96,
-   "published_at": "2026-11-26T05:39:30+00:00",
-   "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
-   "expires_at": "2026-11-27T17:39:30+00:00",
-   "decision": 1.9,
-   "priority": 7.627288,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "headline": "Guangdong targets 1,000 EFLOPS AI computing capacity by 2028",
+   "post": "Guangdong Province released its 15th Five-Year Plan for computing power, targeting an intelligent computing capacity of over 1,000 EFLOPS (FP16) by 2028. The plan also encourages computing centers to prioritize domestic AI chips.",
+   "editor_note": "Verify FP16 precision specification and domestic chip preference details in official provincial release.",
+   "support": 0.93,
+   "published_at": "2026-11-26T08:14:44+00:00",
+   "first_seen_at": "2026-11-26T08:37:21.187796+00:00",
+   "expires_at": "2026-11-27T20:14:44+00:00",
+   "decision": 1.54,
+   "priority": 7.502861,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4437,8 +4451,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.133618,
-   "selection_reason": "Editorial importance; waiting 18.5h"
+   "priority": 7.119844,
+   "selection_reason": "Editorial importance; waiting 19.0h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4466,8 +4480,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.01799,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.035207,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4795,94 +4809,15 @@
   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T05:37:46.582769+00:00",
   "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1": "2026-11-26T07:08:01.442876+00:00",
   "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing": "2026-11-26T07:37:52.466258+00:00",
-  "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html": "2026-11-26T08:09:53.502708+00:00"
+  "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html": "2026-11-26T08:09:53.502708+00:00",
+  "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns": "2026-11-26T08:38:09.721694+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
-  "813e302ccb617cc1": {
-   "imp": 1.16,
-   "ai": null,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "d189655d18895b1e": {
-   "imp": 1.73,
-   "ai": 0.95,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "dc8e46ad8c796395": {
-   "imp": 1.92,
-   "ai": 0.96,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "6d360bef5d6fcf70": {
-   "imp": 1.49,
-   "ai": 0.88,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "1c7bbc65b034423d": {
-   "imp": 1.52,
-   "ai": 0.95,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "e8da409b4252eca1": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "6c39d2c4135fe5b1": {
-   "imp": 1.31,
-   "ai": 0.24,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "ef4899b917273c11": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "eec2baf82a2fcd9f": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "5efc26da386ffae3": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "15f847a9ae3c4f50": {
-   "imp": 0.2,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "b8db1dc5825751ad": {
-   "imp": 0.77,
-   "ai": 0.14,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "a48b9b6ae396677a": {
-   "imp": 0.34,
-   "ai": 0.06,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "7934a43db4d623c3": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "b8679593b1fae41e": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
-  "99804b38a5d017ef": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-18T08:37:32.820431+00:00"
-  },
   "74baad58c9e1658c": {
    "imp": 1.01,
    "ai": 0.7,
@@ -26062,6 +25997,101 @@
    "imp": 0.1,
    "ai": 0.02,
    "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "c95932322ee014f6": {
+   "imp": 1.22,
+   "ai": 0.9,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "cb4ef3217ddca8af": {
+   "imp": 0.91,
+   "ai": 0.65,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "b0134747a9e4c617": {
+   "imp": 1.8,
+   "ai": 0.98,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "324f5a1e0a41f5c4": {
+   "imp": 2.14,
+   "ai": 0.88,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "bc1d4d8c10f76937": {
+   "imp": 0.61,
+   "ai": 0.22,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "f2aecb4cd2e160a1": {
+   "imp": 0.64,
+   "ai": 0.09,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "741eeb8bf26cca70": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "afb2b7d3a0cee87a": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "2c9473a3b8ac8344": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "b5b6bc96e2711335": {
+   "imp": 0.39,
+   "ai": 0.07,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "d9f3e60980beeb3a": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "1727d82d95dbde99": {
+   "imp": 0.36,
+   "ai": 0.05,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "1fe6be4156148b9a": {
+   "imp": 1.54,
+   "ai": 0.94,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "c102192519a01c46": {
+   "imp": 1.36,
+   "ai": 0.91,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "f53e76f3d39c46a8": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "7d35666640407087": {
+   "imp": 0.24,
+   "ai": 0.05,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "62f468a8f0ad0f35": {
+   "imp": 0.24,
+   "ai": 0.06,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "3b7c3a3c052c1e2e": {
+   "imp": 0.19,
+   "ai": 0.05,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "6a1ec70fedeab222": {
+   "imp": 0.19,
+   "ai": 0.06,
+   "ts": "2026-11-26T08:37:21.187796+00:00"
   }
  }
 }
