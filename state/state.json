@@ -1,13 +1,5 @@
 {
  "seen": {
-  "776157cf22e3ea27": "2026-11-19T07:37:25.120830+00:00",
-  "d6a200a2e77b006b": "2026-11-19T07:37:25.120830+00:00",
-  "cfab8334273a4f92": "2026-11-19T07:37:25.120830+00:00",
-  "d29f1ef205af416f": "2026-11-19T07:37:25.120830+00:00",
-  "ce61a181a54a7795": "2026-11-19T07:37:25.120830+00:00",
-  "f6fdf1dfa9f83895": "2026-11-19T07:37:25.120830+00:00",
-  "e4339b95eaca7255": "2026-11-19T07:37:25.120830+00:00",
-  "6f3e4fa75823b031": "2026-11-19T07:37:25.120830+00:00",
   "8ea62b1fb64a9c75": "2026-11-19T08:07:26.994967+00:00",
   "8ef4e478dd656ae4": "2026-11-19T08:07:26.994967+00:00",
   "5ff3427df281e03e": "2026-11-19T08:07:26.994967+00:00",
@@ -1770,13 +1762,20 @@
   "7dc525128d2ba760": "2026-11-26T07:07:34.939374+00:00",
   "b63ff3c4fd000724": "2026-11-26T07:07:34.939374+00:00",
   "5d94a8a5295652da": "2026-11-26T07:07:34.939374+00:00",
-  "0629f92915a85a0b": "2026-11-26T07:07:34.939374+00:00"
+  "0629f92915a85a0b": "2026-11-26T07:07:34.939374+00:00",
+  "d6cdc21e2d730f4f": "2026-11-26T07:37:22.344860+00:00",
+  "e55362f3820b925c": "2026-11-26T07:37:22.344860+00:00",
+  "ff7ce96d66edfa57": "2026-11-26T07:37:22.344860+00:00",
+  "e1c9028ead43b7b7": "2026-11-26T07:37:22.344860+00:00",
+  "82df8cf3961a7682": "2026-11-26T07:37:22.344860+00:00",
+  "e5d2e1bd4ef1d2da": "2026-11-26T07:37:22.344860+00:00",
+  "e674864bf5dc3d90": "2026-11-26T07:37:22.344860+00:00",
+  "6d1c85ee1ef72c2c": "2026-11-26T07:37:22.344860+00:00",
+  "22e29f6ad6e73845": "2026-11-26T07:37:22.344860+00:00",
+  "28ff61e64ba3a50e": "2026-11-26T07:37:22.344860+00:00",
+  "a9e589eb2ddb89fe": "2026-11-26T07:37:22.344860+00:00"
  },
  "covered": [
-  {
-   "headline": "CortexSpark Ventures launches 1,000 crore rupee deeptech fund",
-   "ts": "2026-11-24T07:37:21.824116+00:00"
-  },
   {
    "headline": "Baidu open-sources ERNIE 5.5 Flash Preview model",
    "ts": "2026-11-24T08:07:21.465978+00:00"
@@ -1996,11 +1995,15 @@
   {
    "headline": "Nvidia halts chip shipments to Southeast Asia",
    "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  {
+   "headline": "BharatGen launches Patram 1.5 vision-language model",
+   "ts": "2026-11-26T07:37:22.344860+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4365,6 +4368,12 @@
    "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
    "published": "2026-11-26T05:05:36.737000+00:00",
    "excerpt": "We recently released NVIDIA Nemotron 3.5 Parse, a compact document model that turns page images into structured data for retrieval-augmented generation (RAG) and agents. Now we’re building on that release with synthetic training datasets, a fine-tuning recipe, and a DFlash2 speculator for faster inference. We’re also sharing how we trained Parse 3.5: first teaching document understanding through supervised fine-tuning, then using reinforcement learning to improve accuracy, consistency, and reliable completion. Parse extracts content from pages of documents into reading order, assigns content classes such as headings, paragraphs, tables, and charts, and returns bounding boxes that locate the content. Tables and charts become structured records that can power downstream document processing a…"
+  },
+  "https://www.qbitai.com/2026/11/512916.html": {
+   "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+   "desc": "30秒一镜到底，可自动编排镜头",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4393,8 +4402,8 @@
    "first_seen_at": "2026-11-26T05:07:26.458046+00:00",
    "expires_at": "2026-11-27T16:26:32+00:00",
    "decision": 1.22,
-   "priority": 8.457254,
-   "selection_reason": "Time-sensitive story; waiting 2.0h"
+   "priority": 8.474494,
+   "selection_reason": "Time-sensitive story; waiting 2.5h"
   },
   {
    "id": "cec666d0421e8d1d",
@@ -4421,7 +4430,7 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T17:39:30+00:00",
    "decision": 1.9,
-   "priority": 7.592554,
+   "priority": 7.609794,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4449,8 +4458,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.161405,
-   "selection_reason": "Editorial importance; waiting 17.5h"
+   "priority": 7.147613,
+   "selection_reason": "Editorial importance; waiting 18.0h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4478,13 +4487,12 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 6.983257,
+   "priority": 7.000496,
    "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html": "2026-11-12T07:08:40.163727+00:00",
   "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors": "2026-11-12T07:37:55.447846+00:00",
   "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india": "2026-11-12T08:08:22.501020+00:00",
   "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html": "2026-11-12T08:41:48.567861+00:00",
@@ -4808,129 +4816,15 @@
   "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount": "2026-11-26T04:08:19.111766+00:00",
   "https://36kr.com/newsflashes/4086093032417669?f=rss": "2026-11-26T05:07:52.832933+00:00",
   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T05:37:46.582769+00:00",
-  "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1": "2026-11-26T07:08:01.442876+00:00"
+  "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1": "2026-11-26T07:08:01.442876+00:00",
+  "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing": "2026-11-26T07:37:52.466258+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 11
+  "takes": 12
  },
  "triage": {
-  "eea45d967dc1ee28": {
-   "imp": 1.68,
-   "ai": 0.87,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "7f95e6ca6c164f2d": {
-   "imp": 1.6,
-   "ai": 0.95,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "d930ebd0b69d2f07": {
-   "imp": 2.09,
-   "ai": 0.96,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "2688400db71d94f9": {
-   "imp": 2.3,
-   "ai": 0.97,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "943c94605ec0510a": {
-   "imp": 0.2,
-   "ai": 0.04,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "50a767b28b44f485": {
-   "imp": 0.83,
-   "ai": 0.13,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "2bf4e9af71bb2fa6": {
-   "imp": 0.34,
-   "ai": 0.08,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "74c3b78141d36eb8": {
-   "imp": 0.36,
-   "ai": 0.17,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "07f1ffee0dc8a212": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "5bb64efca007cedb": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "bba960efc84acbfb": {
-   "imp": 0.37,
-   "ai": 0.09,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "c4b3c4b6cc9e9ecb": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "31500449cf997ad2": {
-   "imp": 0.18,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "8cb9e09cdbeb4808": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "65d8105804a7940f": {
-   "imp": 0.79,
-   "ai": 0.21,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "c829389f21cc110e": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "93d51cd28c9f1069": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "70f230639df77a45": {
-   "imp": 0.39,
-   "ai": 0.05,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "145bc000f6671f52": {
-   "imp": 0.17,
-   "ai": 0.01,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "dcd610274d204600": {
-   "imp": 0.26,
-   "ai": 0.07,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "b42d149dac0bad1e": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "5f1bb1157ea646fa": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
-  "8ed5094d4756a2b8": {
-   "imp": 0.22,
-   "ai": 0.05,
-   "ts": "2026-11-18T07:37:23.152335+00:00"
-  },
   "95c4ec37c9a4eb2b": {
    "imp": 0.99,
    "ai": 0.92,
@@ -26100,6 +25994,76 @@
    "imp": 0.6,
    "ai": 0.05,
    "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "e5d2e1bd4ef1d2da": {
+   "imp": 0.95,
+   "ai": 0.59,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "e55362f3820b925c": {
+   "imp": 1.83,
+   "ai": 0.98,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "1a4eee00cd6eea50": {
+   "imp": 0.35,
+   "ai": 0.05,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "d6cdc21e2d730f4f": {
+   "imp": 2.16,
+   "ai": 0.98,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "e674864bf5dc3d90": {
+   "imp": 2.13,
+   "ai": 0.96,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "ff7ce96d66edfa57": {
+   "imp": 1.69,
+   "ai": 0.97,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "53c2e141bb426ffb": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "c0b55ae0c92e7812": {
+   "imp": 0.32,
+   "ai": 0.08,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "5b4466b596f0d962": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "517e1e3e5f2ca502": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "d8e055b4d3f3c1e6": {
+   "imp": 0.21,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "a9e589eb2ddb89fe": {
+   "imp": 2.44,
+   "ai": 0.99,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "2a8cedbec54ba7cf": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "e1b2862b9a374818": {
+   "imp": 1.79,
+   "ai": 0.17,
+   "ts": "2026-11-26T07:37:22.344860+00:00"
   }
  }
 }
