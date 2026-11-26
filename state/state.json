@@ -1,11 +1,5 @@
 {
  "seen": {
-  "f8f19df2493f100c": "2026-11-19T09:07:24.974402+00:00",
-  "cffa83add41d5d2f": "2026-11-19T09:07:24.974402+00:00",
-  "13485ae4006664fe": "2026-11-19T09:07:24.974402+00:00",
-  "ad8a9f6346609ba9": "2026-11-19T09:07:24.974402+00:00",
-  "b0e862b3b87c0a67": "2026-11-19T09:07:24.974402+00:00",
-  "6f06a2856d598e84": "2026-11-19T09:07:24.974402+00:00",
   "e5fa51b75c6dacaf": "2026-11-19T10:07:23.477122+00:00",
   "7377e6f77e06d5d3": "2026-11-19T10:07:23.477122+00:00",
   "7e1c15465762e1fd": "2026-11-19T10:07:23.477122+00:00",
@@ -1773,13 +1767,12 @@
   "b0134747a9e4c617": "2026-11-26T08:37:21.187796+00:00",
   "c95932322ee014f6": "2026-11-26T08:37:21.187796+00:00",
   "cb4ef3217ddca8af": "2026-11-26T08:37:21.187796+00:00",
-  "cec666d0421e8d1d": "2026-11-26T08:37:21.187796+00:00"
+  "cec666d0421e8d1d": "2026-11-26T08:37:21.187796+00:00",
+  "1788d62bb9127ffe": "2026-11-26T09:07:23.688973+00:00",
+  "9b26263f8340ea9d": "2026-11-26T09:07:23.688973+00:00",
+  "81722883f22ceb2d": "2026-11-26T09:07:23.688973+00:00"
  },
  "covered": [
-  {
-   "headline": "Cosine Robots raises 22.36 crore rupees in funding",
-   "ts": "2026-11-24T09:07:23.360194+00:00"
-  },
   {
    "headline": "Tencent open-sources Hy MT3 translation model",
    "ts": "2026-11-24T09:37:21.574191+00:00"
@@ -1999,11 +1992,15 @@
   {
    "headline": "Pine Labs launches merchant app AI agents",
    "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  {
+   "headline": "Huawei and partner announce domestic chip design tool progress",
+   "ts": "2026-11-26T09:07:23.688973+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 13
+  "count": 14
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4423,8 +4420,8 @@
    "first_seen_at": "2026-11-26T08:37:21.187796+00:00",
    "expires_at": "2026-11-27T20:14:44+00:00",
    "decision": 1.54,
-   "priority": 7.502861,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.520246,
+   "selection_reason": "Time-sensitive story; waiting 0.5h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4451,8 +4448,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.119844,
-   "selection_reason": "Editorial importance; waiting 19.0h"
+   "priority": 7.105936,
+   "selection_reason": "Editorial importance; waiting 19.5h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4480,14 +4477,40 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.035207,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.052593,
+   "selection_reason": "Editorial importance; waiting 2.0h"
+  },
+  {
+   "id": "f373a24898da7d32",
+   "item": {
+    "id": "f373a24898da7d32",
+    "title": "IndiaMART settles dispute with OpenAI outside court over exclusion from ChatGPT results",
+    "url": "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "A division bench recorded that IndiaMART was no longer willing to pursue the appeal. The post IndiaMART settles dispute with OpenAI outside court over exclusion from ChatGPT results appeared first on MEDIANAMA .",
+    "published": "2026-11-26T08:13:14+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "IndiaMART and OpenAI settle dispute out of court",
+   "post": "IndiaMART settled an out-of-court dispute with OpenAI after a division bench recorded that the company was no longer pursuing its appeal regarding ChatGPT exclusion.",
+   "editor_note": "Check exact court division and original dispute terms if available.",
+   "support": 0.92,
+   "published_at": "2026-11-26T08:13:14+00:00",
+   "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
+   "expires_at": "2026-11-27T20:13:14+00:00",
+   "decision": 1.7,
+   "priority": 7.041592,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html": "2026-11-12T08:41:48.567861+00:00",
-  "https://elevenlabs.io/blog/nvidia": "2026-11-12T09:08:26.946706+00:00",
   "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1": "2026-11-12T09:40:59.936706+00:00",
   "https://analyticsindiamag.com/ai-news/chariot-launches-multilingual-tts-model-with-support-for-11-indian-languages": "2026-11-12T10:09:36.991416+00:00",
   "https://36kr.com/newsflashes/4066584261022849?f=rss": "2026-11-12T11:08:11.530315+00:00",
@@ -4810,109 +4833,15 @@
   "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1": "2026-11-26T07:08:01.442876+00:00",
   "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing": "2026-11-26T07:37:52.466258+00:00",
   "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html": "2026-11-26T08:09:53.502708+00:00",
-  "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns": "2026-11-26T08:38:09.721694+00:00"
+  "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns": "2026-11-26T08:38:09.721694+00:00",
+  "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia": "2026-11-26T09:08:35.898816+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
-  "74baad58c9e1658c": {
-   "imp": 1.01,
-   "ai": 0.7,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "502688bdb5c3a95e": {
-   "imp": 1.48,
-   "ai": 0.74,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "728d5761c63a84e6": {
-   "imp": 1.48,
-   "ai": 0.92,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "d6f42481b3d3db4c": {
-   "imp": 1.83,
-   "ai": 0.93,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "adb20ae36e8eb8c3": {
-   "imp": 0.83,
-   "ai": 0.09,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "df2ac5661a9d402d": {
-   "imp": 1.83,
-   "ai": 0.84,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "0d6b309196ae5d03": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "0fe0b417cb20828d": {
-   "imp": 0.22,
-   "ai": 0.05,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "6b19a47847f5f1c8": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "1255ca216bc65073": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "be4bd11bbb886459": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "adadf9d1614c8d19": {
-   "imp": 1.53,
-   "ai": 0.71,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "03263f9225e0326c": {
-   "imp": 0.27,
-   "ai": 0.09,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "50395d5b68dee75e": {
-   "imp": 0.74,
-   "ai": 0.25,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "1050de327b97abe7": {
-   "imp": 0.27,
-   "ai": 0.07,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "4c238c052ff07116": {
-   "imp": 0.18,
-   "ai": 0.06,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "6b029c27a5930953": {
-   "imp": 0.18,
-   "ai": 0.05,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "50a6ed5b75602b15": {
-   "imp": 0.16,
-   "ai": 0.06,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
-  "e2de448ca04451c4": {
-   "imp": 1.76,
-   "ai": 0.75,
-   "ts": "2026-11-18T09:07:23.938680+00:00"
-  },
   "122be7afae8bdeb5": {
    "imp": 1.18,
    "ai": 0.8,
@@ -26092,6 +26021,81 @@
    "imp": 0.19,
    "ai": 0.06,
    "ts": "2026-11-26T08:37:21.187796+00:00"
+  },
+  "81722883f22ceb2d": {
+   "imp": 1.79,
+   "ai": 0.89,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "9b26263f8340ea9d": {
+   "imp": 1.47,
+   "ai": 0.7,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "f373a24898da7d32": {
+   "imp": 1.7,
+   "ai": 0.87,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "1788d62bb9127ffe": {
+   "imp": 2.51,
+   "ai": 0.97,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "8e8f7a1ee54dbf93": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "2c605e196bd07a21": {
+   "imp": 0.2,
+   "ai": 0.27,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "1cd3e853d261ed9d": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "a9f7212348013204": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "e5a5681f21ecef94": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "3a86f40f9442f622": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "7fb0a5db38e5e2ba": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "ee88e3e70bbee5ce": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "ba549e83e95854f6": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "04d734b9dcc8f9e4": {
+   "imp": 0.22,
+   "ai": 0.04,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "4e467a9dbbe38abb": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:07:23.688973+00:00"
   }
  }
 }
