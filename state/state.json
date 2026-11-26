@@ -1,16 +1,5 @@
 {
  "seen": {
-  "b22006398e4d6532": "2026-11-19T12:07:23.170783+00:00",
-  "576d950a58a68b6f": "2026-11-19T12:07:23.170783+00:00",
-  "884e4442a40a2084": "2026-11-19T12:07:23.170783+00:00",
-  "b030f13bfd0f9705": "2026-11-19T12:07:23.170783+00:00",
-  "b35d28ae1b82bf6d": "2026-11-19T12:07:23.170783+00:00",
-  "fffcffd3dd757ef9": "2026-11-19T12:07:23.170783+00:00",
-  "97b20df2e79d5109": "2026-11-19T12:07:23.170783+00:00",
-  "94c87cf8fbeb5f1b": "2026-11-19T12:07:23.170783+00:00",
-  "ed125c570e4f6ebf": "2026-11-19T12:07:23.170783+00:00",
-  "57d6e0f9adf7ae63": "2026-11-19T12:07:23.170783+00:00",
-  "0191361613981656": "2026-11-19T12:07:23.170783+00:00",
   "fab0875185d3cf10": "2026-11-19T12:37:24.282971+00:00",
   "3683917047df98fc": "2026-11-19T12:37:24.282971+00:00",
   "dd42bb79c10d48ce": "2026-11-19T12:37:24.282971+00:00",
@@ -1747,17 +1736,24 @@
   "b76fc7f338264189": "2026-11-26T11:07:23.515086+00:00",
   "3a0534fa65bb6cdd": "2026-11-26T11:07:23.515086+00:00",
   "c102192519a01c46": "2026-11-26T11:07:23.515086+00:00",
-  "1fe6be4156148b9a": "2026-11-26T11:07:23.515086+00:00"
+  "1fe6be4156148b9a": "2026-11-26T11:07:23.515086+00:00",
+  "02a088434703556c": "2026-11-26T12:07:24.634480+00:00",
+  "73ba92bcafe8b59f": "2026-11-26T12:07:24.634480+00:00",
+  "19fd120ee363e12f": "2026-11-26T12:07:24.634480+00:00",
+  "4dab5a880595770c": "2026-11-26T12:07:24.634480+00:00",
+  "bd23cbf77a36445d": "2026-11-26T12:07:24.634480+00:00",
+  "2ad532c32486600a": "2026-11-26T12:07:24.634480+00:00",
+  "14b311d8c98d5d2c": "2026-11-26T12:07:24.634480+00:00",
+  "2a9ecf8432095540": "2026-11-26T12:07:24.634480+00:00",
+  "a73488cf4e91eaad": "2026-11-26T12:07:24.634480+00:00",
+  "857c9fba13fccb9e": "2026-11-26T12:07:24.634480+00:00",
+  "78b9fbb43fef57b4": "2026-11-26T12:07:24.634480+00:00",
+  "2aeafe11d7c379e4": "2026-11-26T12:07:24.634480+00:00",
+  "f54f157e39a3b44b": "2026-11-26T12:07:24.634480+00:00",
+  "47792f1d01309c90": "2026-11-26T12:07:24.634480+00:00",
+  "fa2f0df7cd764ef2": "2026-11-26T12:07:24.634480+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI and Anthropic researchers voice internal AI safety concerns",
-   "ts": "2026-11-24T11:37:24.571320+00:00"
-  },
-  {
-   "headline": "CrowdStrike to acquire Zscaler for 43.9 billion dollars",
-   "ts": "2026-11-24T12:07:23.228301+00:00"
-  },
   {
    "headline": "Google launches Momentum initiative for Indian startups",
    "ts": "2026-11-24T12:37:22.657831+00:00"
@@ -1969,11 +1965,15 @@
   {
    "headline": "Guangdong targets 1,000 EFLOPS AI computing capacity by 2028",
    "ts": "2026-11-26T11:07:23.515086+00:00"
+  },
+  {
+   "headline": "Microsoft details ARTEX AI framework used in automated cyberattacks",
+   "ts": "2026-11-26T12:07:24.634480+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4367,6 +4367,35 @@
  },
  "pending": [
   {
+   "id": "79781da1c5cf2705",
+   "item": {
+    "id": "79781da1c5cf2705",
+    "title": "腾讯以第一单位首登《Nature》，AI从头设计双靶点多肽",
+    "url": "https://36kr.com/newsflashes/4086514623723652?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "11月26日，国际顶刊《Nature》主刊正式刊发腾讯生命科学实验室主导完成的最新研究论文《De novo design of high-potency dual-target therapeutic peptides with ORIDTP》。该研究构建的高活性双靶点治疗性多肽AI从头设计平台ORIDTP，为破解双靶点药物研发“创新空间窄、靶点平衡难、筛选效率低”三大难题，提供了有效解决方案。这是腾讯生命科学实验室首次以第一单位登上《Nature》主刊，标志着团队在AI双靶点治疗性多肽从头设计方向取得重要进展。",
+    "published": "2026-11-26T11:53:35+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Tencent publishes Nature paper on AI dual-target peptide design",
+   "post": "Tencent Life Science Laboratory published a study in Nature detailing ORIDTP, an AI platform designed for the de novo generation of high-potency dual-target therapeutic peptides.",
+   "editor_note": "Verify paper title 'De novo design of high-potency dual-target therapeutic peptides with ORIDTP' and publication date in Nature.",
+   "support": 0.96,
+   "published_at": "2026-11-26T11:53:35+00:00",
+   "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
+   "expires_at": "2026-11-27T23:53:35+00:00",
+   "decision": 1.88,
+   "priority": 7.620265,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
    "id": "80788bc9cb776030",
    "item": {
     "id": "80788bc9cb776030",
@@ -4392,8 +4421,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.139398,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.156768,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4420,8 +4449,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.128398,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.145768,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4448,8 +4477,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.086171,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.103541,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4476,8 +4505,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.060361,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.077731,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4504,8 +4533,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.036491,
-   "selection_reason": "Editorial importance; waiting 22.0h"
+   "priority": 7.022595,
+   "selection_reason": "Editorial importance; waiting 22.5h"
   },
   {
    "id": "242edb948acd8745",
@@ -4533,8 +4562,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 6.995258,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.012628,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4562,14 +4591,42 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 6.974231,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.991601,
+   "selection_reason": "Editorial importance; waiting 2.5h"
+  },
+  {
+   "id": "09d9e4445ef2d9b1",
+   "item": {
+    "id": "09d9e4445ef2d9b1",
+    "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+    "url": "https://arxiv.org/abs/2611.34575",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 75. Abstract: Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we introduce Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters, built by combining stage-specific curation over 322.7 million candidate records with a progressive training curriculum spanning medical pretraining, staged supervised fine-tuning, and adaptive reinforcement learning. Across this curriculum, progressive supervised refinement and adaptive reinforcement learning yield consistent stage-wise gains, substantially advancing both specialized visual understanding and medical language capabilities. Evaluated against 77 competing models across 238 clinical tasks spanning 61 public and 13 private multi-center benchmarks in more than 40 modalities, Sage-Med-Preview achieves an average score of 58.26% on the 31 public multimodal benchmarks. It outperforms the state-of-the-art open-source medical model Hulu-Med-235B-A22B at 50.99% and the general scientific model Intern-S2-Preview at 52.24%, and approaches the advanced proprietary model GP…",
+    "published": "2026-11-26T00:00:00+00:00",
+    "upvotes": 75,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34575.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Shanghai AI Lab introduces Sage-Med-Preview medical AI model",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters that scored 58.26% across 31 public multimodal benchmarks.",
+   "editor_note": "Verify benchmark score comparison against Hulu-Med-235B-A22B (50.99%) and Intern-S2-Preview (52.24%).",
+   "support": 0.94,
+   "published_at": "2026-11-26T00:00:00+00:00",
+   "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
+   "expires_at": "2026-11-30T00:00:00+00:00",
+   "decision": 1.53,
+   "priority": 6.883713,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://36kr.com/newsflashes/4066584261022849?f=rss": "2026-11-12T11:08:11.530315+00:00",
-  "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub": "2026-11-12T11:38:57.801512+00:00",
   "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network": "2026-11-12T13:07:56.949623+00:00",
   "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": "2026-11-12T13:07:56.949623+00:00",
   "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00",
@@ -4891,139 +4948,15 @@
   "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns": "2026-11-26T08:38:09.721694+00:00",
   "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia": "2026-11-26T09:08:35.898816+00:00",
   "https://36kr.com/newsflashes/4086392240990857?f=rss": "2026-11-26T09:37:59.229607+00:00",
-  "https://36kr.com/newsflashes/4086315160349313?f=rss": "2026-11-26T11:07:57.964031+00:00"
+  "https://36kr.com/newsflashes/4086315160349313?f=rss": "2026-11-26T11:07:57.964031+00:00",
+  "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": "2026-11-26T12:08:17.995374+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
-  "a9c49e3c7bc61fcf": {
-   "imp": 1.24,
-   "ai": 0.68,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "da6c827addce47a1": {
-   "imp": 1.54,
-   "ai": null,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "45f86b19440576fc": {
-   "imp": 2.04,
-   "ai": 0.96,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "98cab08b1670a3e9": {
-   "imp": 1.48,
-   "ai": 0.95,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "74b926ce1c843400": {
-   "imp": 1.72,
-   "ai": 0.86,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "f4f94579258154b8": {
-   "imp": 1.85,
-   "ai": 0.94,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "7bbaa8f8edafb298": {
-   "imp": 1.78,
-   "ai": 0.93,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "14b67dddb8073b5b": {
-   "imp": 1.41,
-   "ai": null,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "fd15aae6c679792f": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "be5746a939de82fd": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "b16175a6efe4a960": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "b287e80c0dd61620": {
-   "imp": 0.32,
-   "ai": 0.11,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "5bca8be2bbf24d80": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "3c33c7066645adb5": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "ab1cf3a40c1876dc": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "429f21b3d4a01375": {
-   "imp": 0.22,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "f69020f9c1bfdd72": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "ad1f76620fbdd8c2": {
-   "imp": 0.25,
-   "ai": 0.05,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "3c2c83bc4cde686c": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "3de6dd19a12bcd9d": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "b868cd3688014f11": {
-   "imp": 0.58,
-   "ai": 0.11,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "e2597f111ac3d77e": {
-   "imp": 1.29,
-   "ai": 0.14,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "092a1123ec394eba": {
-   "imp": 0.18,
-   "ai": 0.04,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "8f851b8c244c5176": {
-   "imp": 0.52,
-   "ai": 0.13,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
-  "2dffe05ec4e9199a": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-18T12:07:25.036261+00:00"
-  },
   "82df8b1098237927": {
    "imp": 1.6,
    "ai": null,
@@ -26028,6 +25961,96 @@
    "imp": 0.13,
    "ai": 0.04,
    "ts": "2026-11-26T11:37:23.704044+00:00"
+  },
+  "73ba92bcafe8b59f": {
+   "imp": 2.45,
+   "ai": 0.96,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "2ad532c32486600a": {
+   "imp": 1.37,
+   "ai": 0.96,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "4dab5a880595770c": {
+   "imp": 1.95,
+   "ai": 0.9,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "79781da1c5cf2705": {
+   "imp": 1.88,
+   "ai": 0.97,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "857c9fba13fccb9e": {
+   "imp": 0.82,
+   "ai": 0.75,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "7fc8eafed4117ba1": {
+   "imp": 0.31,
+   "ai": 0.08,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "05fcdc291c3ffc0f": {
+   "imp": 0.13,
+   "ai": 0.06,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "71ab089016f06912": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "e7829bf86b3dbd65": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "9c87837dbc9b5dac": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "1af7829685856c40": {
+   "imp": 0.1,
+   "ai": 0.05,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "2aeafe11d7c379e4": {
+   "imp": 1.42,
+   "ai": 0.7,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "7625391c7135e19b": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "d5c4a18f74c515b0": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "95faa4325f6b4d02": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "f1d6485971ebf185": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "3b403b905ea3fc1a": {
+   "imp": 0.1,
+   "ai": 0.05,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "b4c37e37f9d565d8": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T12:07:24.634480+00:00"
   }
  }
 }
