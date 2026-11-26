@@ -4424,36 +4424,8 @@
    "first_seen_at": "2026-11-26T08:37:21.187796+00:00",
    "expires_at": "2026-11-27T20:14:44+00:00",
    "decision": 1.54,
-   "priority": 7.537612,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
-   "id": "ca6d641a2bb7646a",
-   "item": {
-    "id": "ca6d641a2bb7646a",
-    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
-    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
-    "published": "2026-11-25T12:49:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
-   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
-   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
-   "support": 0.95,
-   "published_at": "2026-11-25T12:49:01+00:00",
-   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
-   "expires_at": "2026-11-27T00:49:01+00:00",
-   "decision": 1.26,
-   "priority": 7.092044,
-   "selection_reason": "Editorial importance; waiting 20.0h"
+   "priority": 7.554945,
+   "selection_reason": "Time-sensitive story; waiting 1.5h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4481,8 +4453,36 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.069958,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.087291,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "ca6d641a2bb7646a",
+   "item": {
+    "id": "ca6d641a2bb7646a",
+    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
+    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
+    "published": "2026-11-25T12:49:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
+   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
+   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
+   "support": 0.95,
+   "published_at": "2026-11-25T12:49:01+00:00",
+   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
+   "expires_at": "2026-11-27T00:49:01+00:00",
+   "decision": 1.26,
+   "priority": 7.078177,
+   "selection_reason": "Editorial importance; waiting 20.5h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4509,8 +4509,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.058957,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.076291,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "242edb948acd8745",
@@ -4538,7 +4538,7 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 6.925817,
+   "priority": 6.943151,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4567,7 +4567,7 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 6.904791,
+   "priority": 6.922124,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -26149,6 +26149,86 @@
    "imp": 0.47,
    "ai": 0.08,
    "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "c0f2de19f05669ce": {
+   "imp": 1.73,
+   "ai": null,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "4a218a47efce6d99": {
+   "imp": 1.7,
+   "ai": null,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "b76fc7f338264189": {
+   "imp": 0.74,
+   "ai": 0.87,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "cba62b3be5f3e4ce": {
+   "imp": 0.95,
+   "ai": 0.58,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "c8a9ac36cda6e381": {
+   "imp": 1.8,
+   "ai": 0.96,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "47792f1d01309c90": {
+   "imp": 1.0,
+   "ai": 0.84,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "8b3180ce06516d67": {
+   "imp": 1.48,
+   "ai": 0.95,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "20d9450511bb0b4e": {
+   "imp": 2.0,
+   "ai": 0.95,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "d1af6e5ba1376c26": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "7e4f75d5d5066347": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "a32b84550cdc043a": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "93e382623ac5514c": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "0fd77e28252c65c5": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "fd47e76dbf3f3439": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "bfcfc60f0369c3d5": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
+  },
+  "9f59eee8948023fe": {
+   "imp": 0.27,
+   "ai": 0.05,
+   "ts": "2026-11-26T10:07:21.250534+00:00"
   }
  }
 }
