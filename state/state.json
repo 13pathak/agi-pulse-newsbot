@@ -1728,13 +1728,13 @@
   "ddd5c43af563ecc5": "2026-11-26T14:37:23.285936+00:00",
   "d20ffddf55f2207c": "2026-11-26T14:37:23.285936+00:00",
   "51665dc4dd626ab8": "2026-11-26T15:07:22.700193+00:00",
-  "158dc1e62be2210a": "2026-11-26T15:07:22.700193+00:00"
+  "158dc1e62be2210a": "2026-11-26T15:07:22.700193+00:00",
+  "4faaa3acd738f3c5": "2026-11-26T15:37:22.228345+00:00",
+  "069f94445fa0f593": "2026-11-26T15:37:22.228345+00:00",
+  "f373a24898da7d32": "2026-11-26T15:37:22.228345+00:00",
+  "59f78d93f08fcd49": "2026-11-26T15:37:22.228345+00:00"
  },
  "covered": [
-  {
-   "headline": "Doubao launches Xiaodou AI assistant public test",
-   "ts": "2026-11-24T15:37:25.500711+00:00"
-  },
   {
    "headline": "Sarvam AI launches document extraction tool",
    "ts": "2026-11-24T16:37:21.242363+00:00"
@@ -1942,11 +1942,15 @@
   {
    "headline": "Vidu releases Motubrain 2.0 world action model",
    "ts": "2026-11-26T15:07:22.700193+00:00"
+  },
+  {
+   "headline": "IndiaMART and OpenAI settle dispute out of court",
+   "ts": "2026-11-26T15:37:22.228345+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4359,47 +4363,6 @@
  },
  "pending": [
   {
-   "id": "f373a24898da7d32",
-   "item": {
-    "id": "f373a24898da7d32",
-    "title": "IndiaMART settles dispute with OpenAI outside court over exclusion from ChatGPT results",
-    "url": "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "A division bench recorded that IndiaMART was no longer willing to pursue the appeal. The post IndiaMART settles dispute with OpenAI outside court over exclusion from ChatGPT results appeared first on MEDIANAMA .",
-    "published": "2026-11-26T08:13:14+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [
-    {
-     "id": "59f78d93f08fcd49",
-     "title": "IndiaMART Settles Legal Dispute With OpenAI",
-     "url": "https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/",
-     "source": "Inc42",
-     "image": "",
-     "snippet": "B2B ecommerce company IndiaMART InterMESH has settled its legal dispute with OpenAI pertaining to alleged exclusion of its website and seller listings from ChatGPT-generated responses out of court. The out-of-court settlement of the matter, which was listed in front of the Calcutta High Court, brings the matter to a close after about two years of proceedings. In an order dated November 17, a divis…",
-     "published": "2026-11-26T13:18:55+00:00",
-     "images": true,
-     "category": "news",
-     "source_cap": 3
-    }
-   ],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "IndiaMART and OpenAI settle dispute out of court",
-   "post": "IndiaMART settled an out-of-court dispute with OpenAI after a division bench recorded that the company was no longer pursuing its appeal regarding ChatGPT exclusion.",
-   "editor_note": "Check exact court division and original dispute terms if available.",
-   "support": 0.92,
-   "published_at": "2026-11-26T08:13:14+00:00",
-   "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
-   "expires_at": "2026-11-27T20:13:14+00:00",
-   "decision": 1.72,
-   "priority": 7.256582,
-   "selection_reason": "Editorial importance; waiting 6.0h"
-  },
-  {
    "id": "c8a9ac36cda6e381",
    "item": {
     "id": "c8a9ac36cda6e381",
@@ -4424,8 +4387,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.207689,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.225045,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4452,8 +4415,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.181879,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.199235,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "242edb948acd8745",
@@ -4481,8 +4444,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.116776,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.134132,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4510,8 +4473,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.095749,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.113106,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4540,8 +4503,8 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 7.039935,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.06597,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4568,8 +4531,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.939277,
-   "selection_reason": "Editorial importance; waiting 25.5h"
+   "priority": 6.925392,
+   "selection_reason": "Editorial importance; waiting 26.0h"
   }
  ],
  "details_queue": [],
@@ -4896,49 +4859,15 @@
   "https://36kr.com/newsflashes/4086568088156549?f=rss": "2026-11-26T13:09:34.004013+00:00",
   "https://36kr.com/newsflashes/4086248989485446?f=rss": "2026-11-26T13:37:55.900498+00:00",
   "https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models": "2026-11-26T14:40:14.342766+00:00",
-  "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html": "2026-11-26T15:08:31.294886+00:00"
+  "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html": "2026-11-26T15:08:31.294886+00:00",
+  "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt": "2026-11-26T15:38:04.253170+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 23
+  "takes": 24
  },
  "triage": {
-  "c8026fd3ff39ed4e": {
-   "imp": 1.52,
-   "ai": 0.93,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
-  "794b4d45b46c626a": {
-   "imp": 1.8,
-   "ai": 0.97,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
-  "dbd5dd4088cdd04a": {
-   "imp": 1.87,
-   "ai": 0.95,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
-  "911832c4dd3cacb9": {
-   "imp": 0.29,
-   "ai": 0.79,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
-  "a4162fb762fd5d5b": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
-  "13ea2c2d0871797a": {
-   "imp": 1.41,
-   "ai": 0.86,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
-  "4ef9b34a8af968fc": {
-   "imp": 0.16,
-   "ai": 0.28,
-   "ts": "2026-11-18T15:37:25.567615+00:00"
-  },
   "d4ec4820484976f5": {
    "imp": 2.19,
    "ai": null,
@@ -25888,6 +25817,31 @@
    "imp": 0.42,
    "ai": 0.08,
    "ts": "2026-11-26T15:07:22.700193+00:00"
+  },
+  "069f94445fa0f593": {
+   "imp": 0.37,
+   "ai": 0.89,
+   "ts": "2026-11-26T15:37:22.228345+00:00"
+  },
+  "4faaa3acd738f3c5": {
+   "imp": 0.87,
+   "ai": 0.85,
+   "ts": "2026-11-26T15:37:22.228345+00:00"
+  },
+  "6cd463d080759cb4": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-26T15:37:22.228345+00:00"
+  },
+  "cdb93677ed737f6e": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-26T15:37:22.228345+00:00"
+  },
+  "a94df4f7d68436d8": {
+   "imp": 0.63,
+   "ai": 0.11,
+   "ts": "2026-11-26T15:37:22.228345+00:00"
   }
  }
 }
