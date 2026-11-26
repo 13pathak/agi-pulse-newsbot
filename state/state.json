@@ -1770,13 +1770,13 @@
   "cec666d0421e8d1d": "2026-11-26T08:37:21.187796+00:00",
   "1788d62bb9127ffe": "2026-11-26T09:07:23.688973+00:00",
   "9b26263f8340ea9d": "2026-11-26T09:07:23.688973+00:00",
-  "81722883f22ceb2d": "2026-11-26T09:07:23.688973+00:00"
+  "81722883f22ceb2d": "2026-11-26T09:07:23.688973+00:00",
+  "9c24e45509d837db": "2026-11-26T09:37:24.112523+00:00",
+  "1b019289d66a9acd": "2026-11-26T09:37:24.112523+00:00",
+  "8d43b42fec6955c9": "2026-11-26T09:37:24.112523+00:00",
+  "18e327543dd0fa2d": "2026-11-26T09:37:24.112523+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent open-sources Hy MT3 translation model",
-   "ts": "2026-11-24T09:37:21.574191+00:00"
-  },
   {
    "headline": "NetEase Lingdong and Liugong partner for AI excavators",
    "ts": "2026-11-24T10:07:23.475746+00:00"
@@ -1996,11 +1996,15 @@
   {
    "headline": "Huawei and partner announce domestic chip design tool progress",
    "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  {
+   "headline": "Alibaba founder visits T-Head as new chip volume production nears",
+   "ts": "2026-11-26T09:37:24.112523+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 14
+  "count": 15
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4420,8 +4424,8 @@
    "first_seen_at": "2026-11-26T08:37:21.187796+00:00",
    "expires_at": "2026-11-27T20:14:44+00:00",
    "decision": 1.54,
-   "priority": 7.520246,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.537612,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4448,8 +4452,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.105936,
-   "selection_reason": "Editorial importance; waiting 19.5h"
+   "priority": 7.092044,
+   "selection_reason": "Editorial importance; waiting 20.0h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4477,8 +4481,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.052593,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.069958,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4505,7 +4509,65 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.041592,
+   "priority": 7.058957,
+   "selection_reason": "Editorial importance; waiting 0.5h"
+  },
+  {
+   "id": "242edb948acd8745",
+   "item": {
+    "id": "242edb948acd8745",
+    "title": "千曙科技引入战略投资方盘毂动力，完成逾两亿元增资",
+    "url": "https://36kr.com/newsflashes/4086394631170692?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月26日，北京千曙科技有限公司完成新一轮增资，合计金额逾2亿元人民币。浙江盘毂动力科技有限公司作为外部战略投资方以现金方式注资，控股股东千方科技同步完成对千曙科技的增资。本轮增资将进一步加速千曙科技自动驾驶系统迭代与车队规模扩充。公司表示，下一步将把成渝干线的验证经验复制到更多线路与场景，推动物流无人化从单一线路走向网络化运营，构建覆盖干线到末端的无人化运力平台。",
+    "published": "2026-11-26T09:35:34+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Qianshu Technology raises over 200 million yuan in funding",
+   "post": "Autonomous driving firm Qianshu Technology raised over 200 million yuan in a new funding round backed by Pangu Dynamics and Kftop. The company will use the capital to scale its autonomous driving systems and expand automated logistics fleet operations.",
+   "editor_note": "Confirm the exact funding amounts and participating investors for Qianshu Technology.",
+   "support": 0.87,
+   "published_at": "2026-11-26T09:35:34+00:00",
+   "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
+   "expires_at": "2026-11-27T21:35:34+00:00",
+   "decision": 1.28,
+   "priority": 6.925817,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "31156cbb2f5e8b4a",
+   "item": {
+    "id": "31156cbb2f5e8b4a",
+    "title": "微盟集团签署GPU采购协议，AI战略向算力基础设施延伸",
+    "url": "https://36kr.com/newsflashes/4086378294421893?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，11月26日，微盟集团旗下全资附属公司微盟智算与英迈电子、上海赋欣签署GPU算力设备采购协议，将分批采购高性能推理GPU及配套算力设备，以满足AI业务快速增长的算力需求，并把握多模态AI及算力服务市场的发展机遇，协议总金额约4.3亿元人民币。这是微盟集团首次披露大规模GPU采购安排，标志着微盟在AI应用层之外，正式向算力基础设施层延伸。",
+    "published": "2026-11-26T09:18:57+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Weimob commits 430 million yuan to GPU hardware procurement",
+   "post": "Weimob subsidiary Weimob Zhisuan signed agreements to procure high-performance inference GPUs and supporting hardware worth approximately 430 million yuan. The purchase marks the company's expansion into AI computing infrastructure.",
+   "editor_note": "Verify Weimob's GPU procurement agreement details and vendor partners Ingram Micro and Shanghai Fuxin.",
+   "support": 0.96,
+   "published_at": "2026-11-26T09:18:57+00:00",
+   "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
+   "expires_at": "2026-11-27T21:18:57+00:00",
+   "decision": 1.24,
+   "priority": 6.904791,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -4834,94 +4896,15 @@
   "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing": "2026-11-26T07:37:52.466258+00:00",
   "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html": "2026-11-26T08:09:53.502708+00:00",
   "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns": "2026-11-26T08:38:09.721694+00:00",
-  "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia": "2026-11-26T09:08:35.898816+00:00"
+  "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia": "2026-11-26T09:08:35.898816+00:00",
+  "https://36kr.com/newsflashes/4086392240990857?f=rss": "2026-11-26T09:37:59.229607+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
-  "122be7afae8bdeb5": {
-   "imp": 1.18,
-   "ai": 0.8,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "67067bb101e49cb2": {
-   "imp": 0.55,
-   "ai": 0.86,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "d1c7ca312226eefe": {
-   "imp": 1.3,
-   "ai": 0.93,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "e03db331c376317a": {
-   "imp": 1.57,
-   "ai": 0.74,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "133e6b7b44a804d0": {
-   "imp": 1.34,
-   "ai": 0.95,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "6cab9c8cd38347e3": {
-   "imp": 1.47,
-   "ai": null,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "d302a8e5d4c56910": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "73c08954b31b4d03": {
-   "imp": 0.35,
-   "ai": 0.1,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "27ac37975ac31bc8": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "eb627f6fdffcda04": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "e069052025be8444": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "6c50a053323eb0eb": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "ef0dc423ce6eaa52": {
-   "imp": 0.36,
-   "ai": 0.04,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "07d88db38f3da266": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "5347d81c49a83c51": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
-  "f4bf7271aabbb260": {
-   "imp": 0.05,
-   "ai": 0.01,
-   "ts": "2026-11-18T09:37:22.634048+00:00"
-  },
   "4c6a388046f44d33": {
    "imp": 1.11,
    "ai": null,
@@ -26096,6 +26079,76 @@
    "imp": 0.14,
    "ai": 0.02,
    "ts": "2026-11-26T09:07:23.688973+00:00"
+  },
+  "d88f84b37130b9a7": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "1b019289d66a9acd": {
+   "imp": 0.99,
+   "ai": 0.68,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "8d43b42fec6955c9": {
+   "imp": 0.51,
+   "ai": 0.84,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "242edb948acd8745": {
+   "imp": 1.28,
+   "ai": 0.69,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "18e327543dd0fa2d": {
+   "imp": 1.76,
+   "ai": 0.97,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "31156cbb2f5e8b4a": {
+   "imp": 1.24,
+   "ai": 0.96,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "9c24e45509d837db": {
+   "imp": 1.84,
+   "ai": 0.8,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "0a6be981fc0cb539": {
+   "imp": 0.13,
+   "ai": 0.05,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "620d75c1188b741f": {
+   "imp": 1.78,
+   "ai": 0.35,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "3f6dc7b2fcca5726": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "c04734512f3376ee": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "6c836c86ae0b3ace": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "8adb58981ebe10f2": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
+  },
+  "fe67acda28d0796c": {
+   "imp": 0.47,
+   "ai": 0.08,
+   "ts": "2026-11-26T09:37:24.112523+00:00"
   }
  }
 }
