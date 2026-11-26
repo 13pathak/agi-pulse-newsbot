@@ -1,56 +1,5 @@
 {
  "seen": {
-  "5deb3005f6ba4730": "2026-11-19T01:07:39.579218+00:00",
-  "4086d13a78d22826": "2026-11-19T01:07:39.579218+00:00",
-  "5b2442ff172e2cc3": "2026-11-19T01:07:39.579218+00:00",
-  "2ca4066c8014e29d": "2026-11-19T01:07:39.579218+00:00",
-  "3decd8b5d05673e4": "2026-11-19T01:07:39.579218+00:00",
-  "1336358d761ba076": "2026-11-19T01:07:39.579218+00:00",
-  "909b75797cd1319b": "2026-11-19T01:07:39.579218+00:00",
-  "c7d3ecb006439a13": "2026-11-19T01:07:39.579218+00:00",
-  "5dbbce44001a69bf": "2026-11-19T01:07:39.579218+00:00",
-  "3107113245e39d0c": "2026-11-19T01:07:39.579218+00:00",
-  "f3cfa8572ac8ce0e": "2026-11-19T01:07:39.579218+00:00",
-  "9fa731b0ef6c1da9": "2026-11-19T01:07:39.579218+00:00",
-  "568782698f4b9cb3": "2026-11-19T01:07:39.579218+00:00",
-  "037978009f803b44": "2026-11-19T01:07:39.579218+00:00",
-  "53f2a14376dda94d": "2026-11-19T01:07:39.579218+00:00",
-  "8b6ac2940fdc0d0e": "2026-11-19T01:07:39.579218+00:00",
-  "5003b4d69f1ca113": "2026-11-19T01:07:39.579218+00:00",
-  "bc4b1b28005d4ed1": "2026-11-19T01:07:39.579218+00:00",
-  "0320994d1ef7294c": "2026-11-19T01:07:39.579218+00:00",
-  "879c59d879df20bf": "2026-11-19T01:07:39.579218+00:00",
-  "81962bfb8a2b5b06": "2026-11-19T01:07:39.579218+00:00",
-  "eafe765dc7b1769d": "2026-11-19T01:07:39.579218+00:00",
-  "dad98a146398db05": "2026-11-19T01:07:39.579218+00:00",
-  "98b5ffb826de08cd": "2026-11-19T01:07:39.579218+00:00",
-  "0cefd4c68688efb5": "2026-11-19T01:07:39.579218+00:00",
-  "b429cb510b698793": "2026-11-19T01:07:39.579218+00:00",
-  "4b835e60b6c65815": "2026-11-19T01:07:39.579218+00:00",
-  "f58aac49692ddcf7": "2026-11-19T01:07:39.579218+00:00",
-  "d2cb25e8bf7044cb": "2026-11-19T01:07:39.579218+00:00",
-  "74ced337548159bc": "2026-11-19T01:07:39.579218+00:00",
-  "ef97da9bd159e4a8": "2026-11-19T01:07:39.579218+00:00",
-  "b11abcb189598157": "2026-11-19T01:07:39.579218+00:00",
-  "ab9779574333a7b5": "2026-11-19T01:07:39.579218+00:00",
-  "a19f9e7086b4fb8d": "2026-11-19T01:07:39.579218+00:00",
-  "cfca34e70c82dd58": "2026-11-19T01:07:39.579218+00:00",
-  "7f74d49d11a17676": "2026-11-19T01:07:39.579218+00:00",
-  "1ae1397a5cd846dc": "2026-11-19T01:07:39.579218+00:00",
-  "a4e8f88d34d09a44": "2026-11-19T01:07:39.579218+00:00",
-  "ab19112d85005e9c": "2026-11-19T01:07:39.579218+00:00",
-  "246fea28a78903d1": "2026-11-19T01:07:39.579218+00:00",
-  "be8b727b149731d8": "2026-11-19T01:07:39.579218+00:00",
-  "4712e713fcc62778": "2026-11-19T01:07:39.579218+00:00",
-  "93a241d236469b64": "2026-11-19T01:07:39.579218+00:00",
-  "64d4bb67d42a1972": "2026-11-19T01:07:39.579218+00:00",
-  "be4269a6ee4d31f6": "2026-11-19T01:07:39.579218+00:00",
-  "2c4246748c22097b": "2026-11-19T01:07:39.579218+00:00",
-  "2a7ed7ee18a084fe": "2026-11-19T01:07:39.579218+00:00",
-  "b7121aa7617648f3": "2026-11-19T01:07:39.579218+00:00",
-  "352d5eef159817a4": "2026-11-19T01:07:39.579218+00:00",
-  "20bc03e10a52f5ac": "2026-11-19T01:07:39.579218+00:00",
-  "c6f8be1de7b9bd8b": "2026-11-19T01:07:39.579218+00:00",
   "881783ef802b37af": "2026-11-19T01:37:25.956206+00:00",
   "e683d40fba103b5f": "2026-11-19T01:37:25.956206+00:00",
   "2ab4deb8d86920bc": "2026-11-19T01:37:25.956206+00:00",
@@ -1846,13 +1795,39 @@
   "b59a8f2fd288436a": "2026-11-25T17:07:23.082592+00:00",
   "828cf8a276808946": "2026-11-25T17:07:23.082592+00:00",
   "02839285a4d24ca3": "2026-11-25T17:07:23.082592+00:00",
-  "3a2027e2694465cf": "2026-11-25T17:07:23.082592+00:00"
+  "3a2027e2694465cf": "2026-11-25T17:07:23.082592+00:00",
+  "7b0c1eaef85d0c98": "2026-11-26T01:07:23.478784+00:00",
+  "f14a6f6dfd19f4ca": "2026-11-26T01:07:23.478784+00:00",
+  "2f5dad3dc0fcb96a": "2026-11-26T01:07:23.478784+00:00",
+  "37b5c9ba93266751": "2026-11-26T01:07:23.478784+00:00",
+  "4398de60e3fab685": "2026-11-26T01:07:23.478784+00:00",
+  "d8d6777ecf090783": "2026-11-26T01:07:23.478784+00:00",
+  "022420567f757b9f": "2026-11-26T01:07:23.478784+00:00",
+  "d30492bd6b56d160": "2026-11-26T01:07:23.478784+00:00",
+  "e2ee4ad335699ba8": "2026-11-26T01:07:23.478784+00:00",
+  "82b551504ca020e0": "2026-11-26T01:07:23.478784+00:00",
+  "e99bede8482e441e": "2026-11-26T01:07:23.478784+00:00",
+  "911a08998f126e60": "2026-11-26T01:07:23.478784+00:00",
+  "5ff5143f1c0cd768": "2026-11-26T01:07:23.478784+00:00",
+  "cb78c13a330959ed": "2026-11-26T01:07:23.478784+00:00",
+  "dcd69f5c3f655836": "2026-11-26T01:07:23.478784+00:00",
+  "3a57b760f4b73f78": "2026-11-26T01:07:23.478784+00:00",
+  "fb8a335a5a6e4499": "2026-11-26T01:07:23.478784+00:00",
+  "5c66fb23aae39388": "2026-11-26T01:07:23.478784+00:00",
+  "ac22be8de91566cc": "2026-11-26T01:07:23.478784+00:00",
+  "ceecf9e348f1c1f1": "2026-11-26T01:07:23.478784+00:00",
+  "32865a30877055f1": "2026-11-26T01:07:23.478784+00:00",
+  "355530704a3ceaf0": "2026-11-26T01:07:23.478784+00:00",
+  "372ac891332249b4": "2026-11-26T01:07:23.478784+00:00",
+  "f0f7d8e31212926b": "2026-11-26T01:07:23.478784+00:00",
+  "ceac9567d207fad7": "2026-11-26T01:07:23.478784+00:00",
+  "9656a61fb78e3b65": "2026-11-26T01:07:23.478784+00:00",
+  "8115664b711e899c": "2026-11-26T01:07:23.478784+00:00",
+  "4c44ce30146b120b": "2026-11-26T01:07:23.478784+00:00",
+  "0f31c91ab11fe00c": "2026-11-26T01:07:23.478784+00:00",
+  "bcd13a48d9ebda24": "2026-11-26T01:07:23.478784+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI makes GPT-6.2 Sol default ChatGPT model",
-   "ts": "2026-11-24T01:07:24.377852+00:00"
-  },
   {
    "headline": "Amazon acquires AI startup Decart technology for 7.5 billion dollars",
    "ts": "2026-11-24T01:37:20.036585+00:00"
@@ -2076,11 +2051,15 @@
   {
    "headline": "Amazon and Meta negotiate return of Meta's Muse AI shopping agent",
    "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  {
+   "headline": "ElevenLabs discusses funding round at 33 billion dollar valuation",
+   "ts": "2026-11-26T01:07:23.478784+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-25",
-  "count": 28
+  "date": "2026-11-26",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4388,9 +4367,190 @@
    "desc": "商汤SenseNova U1.6",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://artificialanalysis.ai/articles/aa-robotics-sim": {
+   "title": "Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1",
+   "desc": "AA-Robotics-Sim v0.1 gives frontier language models control of a simulated Unitree G1 humanoid robot across ten household and industrial tasks. Today’s research preview of our simulation benchmark follows last month’s preview of AA-Robotics v0.1, our work with physical robot arms in our lab. In AA-Robotics-Sim v0.1, each model practices five episodes per task, keeps only the notes and code it wrote, and is then scored on ten new evaluation scenes with different rooms, lighting and task details.",
+   "image": "https://artificialanalysiscdn.com/article-assets/2026/aa-robotics-sim.jpg",
+   "published": "2026-11-25T00:00:00+00:00"
+  },
+  "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
+   "title": "Identifying Molecules with Mass Spec Skills for Antigravity",
+   "desc": "Mass Spec Skills for Google Antigravity pairs Geminiâs chemical reasoning with established mass spectrometry tools to interpret tandem mass spectra at scale.",
+   "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w1200-h630-n-nu-rw",
+   "published": "2026-11-25T17:00:00+00:00"
+  },
+  "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+   "title": "Where scientists draw the line on AI agents",
+   "desc": "A Blog post by Ai2 on Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+   "published": "2026-11-25T18:52:55.409000+00:00",
+   "excerpt": "Delegating research tasks to AI does not remove scientists’ responsibility for how the work is accomplished. For example, a researcher using AI to review the literature needs to check whether the system overlooks conflicting evidence or makes claims the cited papers don’t support. Someone handing off data analysis to an agentic system needs to understand which methods it used, which files it accessed, and whether the results can be successfully reproduced. A researcher automating part of a lab protocol needs confidence that the system respects physical safety constraints, such as temperature limits or material toxicity, while a researcher working with human-participant data needs assurance that a system protects participants' privacy and limits who can access their information. Researchers…"
+  },
+  "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
+   "published": "2026-11-25T00:00:00.777000+00:00",
+   "excerpt": "Inkling 2 Mini came out last week and sets a new state of the art for local AI and smaller open-source models. With ~26B total parameters (3B active per token), multimodal inputs, and a 1M-token context window, it leads its weight class on the Artificial Analysis Intelligence Index v5 and across 32 of 48 benchmarks against models like Gemma 4 31B and Qwen3.8-27B, making it a strong open option for coding, tool use, and reasoning on modest hardware. We wrote an extensive blog post on how you can use it within the Hugging Face ecosystem here. One of the interesting aspects of Inkling 2 Mini that might explain its great performance is its unusual architecture. Inkling 2 Mini is a looped Mixture-of-Experts (MoE) model with 24 physical layers where the middle 12 layers run three times, so every…"
   }
  },
  "pending": [
+  {
+   "id": "6359c2ce09004373",
+   "item": {
+    "id": "6359c2ce09004373",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "source": "The Verge",
+    "image": "",
+    "snippet": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+    "published": "2026-11-25T17:44:51+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "714964547fd3a5c2",
+     "title": "美国联邦通信委员会授权SpaceX为数据中心部署100万颗卫星以开展AI计算",
+     "url": "https://36kr.com/newsflashes/4085830041430657?f=rss",
+     "source": "36Kr",
+     "image": "",
+     "snippet": "美国联邦通信委员会（FCC）授权SpaceX为数据中心部署100万颗卫星以开展AI计算。（财联社）",
+     "published": "2026-11-26T00:33:03+00:00",
+     "images": false,
+     "category": "news",
+     "language": "zh",
+     "source_cap": 3
+    },
+    {
+     "id": "b8e65de04b89ed80",
+     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+     "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+     "source": "CNBC",
+     "image": "",
+     "snippet": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+     "published": "2026-11-25T19:52:47+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "d63283ce25048c2b",
+     "title": "Musk's SpaceX gets FCC nod for 1 million satellites to power orbital data centres",
+     "url": "https://economictimes.indiatimes.com/tech/technology/musks-spacex-gets-fcc-nod-for-1-million-satellites-to-power-orbital-data-centres/articleshow/136170225.cms",
+     "source": "The Economic Times",
+     "image": "https://img.etimg.com/photo/msid-136170225,imgsize-59402.cms",
+     "snippet": "SpaceX earlier this year sought permission to deploy up to 1 million orbital compute modules to process massive amounts of data to be used on Earth. The FCC said it was approving the SpaceX “Starmind” constellation to help meet rapidly growing demand for AI computing.",
+     "published": "2026-11-25T17:05:58+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "8f3b3158a1a6dcf7",
+     "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+     "url": "https://www.livemint.com/technology/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-11795650335512.html",
+     "source": "Mint",
+     "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+     "snippet": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+     "published": "2026-11-25T23:45:34+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "a3c473ac1eeb94ab",
+     "title": "SpaceX Wins Government Approval to Launch Space Data Centers",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites for the creation of a network of data centers in orbit for complex artificial intelligence computing.",
+     "published": "2026-11-25T18:05:26+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 9,
+   "urgency": "timely",
+   "headline": "SpaceX receives FCC approval for 1 million orbital data centers",
+   "post": "The Federal Communications Commission has authorized SpaceX to deploy up to 1 million AI chip-equipped satellites for its orbital data center initiative.",
+   "editor_note": "Verify the FCC's stated scope and capacity limits for the Starmind constellation authorization.",
+   "support": 0.96,
+   "published_at": "2026-11-25T17:05:58+00:00",
+   "first_seen_at": "2026-11-26T01:07:23.478784+00:00",
+   "expires_at": "2026-11-27T05:05:58+00:00",
+   "decision": 2.24,
+   "priority": 9.523785,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "c05c2ff946f72a50",
+   "item": {
+    "id": "c05c2ff946f72a50",
+    "title": "S&P Global Puts Nvidia on ‘CreditWatch Negative’ Due to Governance Risks",
+    "url": "https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks",
+    "source": "The Information",
+    "image": "",
+    "snippet": "S&P Global, one of the three big credit rating agencies, placed Nvidia’s credit rating on “CreditWatch Negative” on Wednesday, citing rising management and governance risks. The action means the agency will review Nvidia’s credit rating and could downgrade it in the next 90 days. S&P ...",
+    "published": "2026-11-25T19:27:40+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [
+    {
+     "id": "f27e0de9d097fe05",
+     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+     "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+     "source": "TechCrunch",
+     "image": "",
+     "snippet": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+     "published": "2026-11-25T22:44:32+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "89e2b5dc87c4b0ba",
+     "title": "S&P Discovers Nvidia’s Governance Lapses",
+     "url": "https://www.theinformation.com/articles/s-p-discovers-nvidias-governance-lapses",
+     "source": "The Information",
+     "image": "",
+     "snippet": "Credit agencies aren’t known for being ahead of the pack when it comes to spotting weaknesses at companies. (If you don’t believe me, check out their role in the 2008 financial crisis .) But S&P’s note on Wednesday , alerting the market to the possibility it could downgrade Nvidia’s credit rating, sets new standards in stating the obvious. S&P declared that the recent drama surrounding CEO Jensen …",
+     "published": "2026-11-25T22:31:16+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    },
+    {
+     "id": "9f6f68c376e8c4f2",
+     "title": "S&P Says It May Downgrade Nvidia’s Ratings on Governance Worries",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
+     "source": "Bloomberg",
+     "image": "",
+     "snippet": "S&P Global Ratings is looking at cutting Nvidia Corp.’s credit by one notch, citing concerns over the company’s management and governance following the departure, and then the return, of Chief Executive Officer Jensen Huang.",
+     "published": "2026-11-25T18:56:21+00:00",
+     "images": true,
+     "category": "news",
+     "source_cap": 3
+    }
+   ],
+   "importance": 8,
+   "urgency": "timely",
+   "headline": "S&P places Nvidia on CreditWatch Negative over governance risks",
+   "post": "S&P Global placed Nvidia on CreditWatch Negative, citing management and governance risks following recent executive changes.",
+   "editor_note": "Check the 90-day window specified by S&P for the potential credit rating review.",
+   "support": 0.93,
+   "published_at": "2026-11-25T18:56:21+00:00",
+   "first_seen_at": "2026-11-26T01:07:23.478784+00:00",
+   "expires_at": "2026-11-27T06:56:21+00:00",
+   "decision": 2.08,
+   "priority": 8.521555,
+   "selection_reason": "Time-sensitive story"
+  },
   {
    "id": "fc509d5dcb94321f",
    "item": {
@@ -4416,8 +4576,8 @@
    "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
    "expires_at": "2026-11-27T00:37:08+00:00",
    "decision": 1.72,
-   "priority": 7.229465,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.475992,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "b678a9f766b4b394",
@@ -4444,8 +4604,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.209732,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.425012,
+   "selection_reason": "Editorial importance; waiting 13.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4472,56 +4632,18 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.0191,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
-  {
-   "id": "7b0c1eaef85d0c98",
-   "item": {
-    "id": "7b0c1eaef85d0c98",
-    "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
-    "url": "https://www.qbitai.com/2026/11/512454.html",
-    "source": "QbitAI",
-    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
-    "snippet": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
-    "published": "2026-11-24T10:30:42+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Amap releases ABot-World 0.5 interactive world model",
-   "post": "Alibaba subsidiary Amap released ABot-World 0.5, an interactive world model capable of real-time physical environment simulation with synchronized audio and video.",
-   "editor_note": "Check whether ABot-World 0.5 code, model weights, or API access are publicly available.",
-   "support": 0.88,
-   "published_at": "2026-11-24T10:30:42+00:00",
-   "first_seen_at": "2026-11-25T08:07:34.279941+00:00",
-   "expires_at": "2026-11-25T22:30:42+00:00",
-   "decision": 1.9,
-   "priority": 6.845322,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.296882,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   }
  ],
  "details_queue": [
   {
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-   "source": "The Guardian",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+   "source": "Bloomberg",
    "kind": "takes",
-   "title": "New York bans AI toys, including those using internet to talk to children",
-   "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The recently …",
-   "queued_at": "2026-11-25T16:37:26.354749+00:00",
-   "attempts": 2
-  },
-  {
-   "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
-   "source": "The Decoder",
-   "kind": "takes",
-   "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-   "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and Muse already commands 51 percent of all agentic shopping orders. The article Amazon and Meta are in talks to end the blo…",
-   "queued_at": "2026-11-25T17:07:23.082592+00:00"
+   "title": "ElevenLabs in Early Talks for Funding at $33 Billion Value",
+   "summary": "ElevenLabs, a company building artificial intelligence voice models and agents, is in early discussions for a funding round at a target valuation of $33 billion, according to people familiar with the matter.",
+   "queued_at": "2026-11-26T01:07:23.478784+00:00"
   }
  ],
  "details_done": {
@@ -4850,614 +4972,16 @@
   "https://yourstory.com/2026/11/nexent-capital-launches-1-billion-fund-focused-on-ai-data-centres-investments": "2026-11-25T13:07:57.134599+00:00",
   "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant": "2026-11-25T13:38:02.662566+00:00",
   "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content": "2026-11-25T14:38:00.716499+00:00",
-  "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html": "2026-11-25T16:07:51.658466+00:00"
+  "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html": "2026-11-25T16:07:51.658466+00:00",
+  "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys": "2026-11-26T01:07:50.336575+00:00",
+  "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store": "2026-11-26T01:07:50.336575+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 0,
-  "takes": 0
+  "takes": 2
  },
  "triage": {
-  "cd8fd6636979b64b": {
-   "imp": 1.54,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "911c8647ba89ceaa": {
-   "imp": 2.68,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "197aaf879be58354": {
-   "imp": 0.67,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "d4cd750a67f2378a": {
-   "imp": 0.9,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "c2f9a8f3c86c9980": {
-   "imp": 1.18,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "19bce111d0ee6096": {
-   "imp": 1.41,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "7465bbc4c963251d": {
-   "imp": 2.32,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "859fe7425ca0830b": {
-   "imp": 1.12,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "72284a47c9d975a2": {
-   "imp": 2.04,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "9f7286d0bf416b1a": {
-   "imp": 2.28,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "8239fbdc6243950a": {
-   "imp": 2.41,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "8f07365d378cd3fa": {
-   "imp": 2.1,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "01ad01e5cd4126d0": {
-   "imp": 2.49,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b397f013e77fa481": {
-   "imp": 2.34,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "28fff23dec51a9bb": {
-   "imp": 2.47,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "f378d4ace0f37459": {
-   "imp": 0.29,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "776157cf22e3ea27": {
-   "imp": 1.58,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "3aa0c6065ac07d71": {
-   "imp": 1.81,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "3a4b135687e309c5": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "027b06d66aa2428c": {
-   "imp": 1.07,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "48c46304656078a6": {
-   "imp": 1.47,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "6ab4eb3121ad6e12": {
-   "imp": 1.45,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b20533735bac1c5f": {
-   "imp": 1.6,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "bccee91cf8115d86": {
-   "imp": 2.13,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "407420f377abe1ed": {
-   "imp": 1.89,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "96341578a31ff5b0": {
-   "imp": 2.58,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "eea4039d51a0b325": {
-   "imp": 2.71,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "56e4daaf37dfc891": {
-   "imp": 1.16,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "daa9959cb12cf974": {
-   "imp": 2.7,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "574f499b55a7cf42": {
-   "imp": 2.48,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "d08f8789e3269284": {
-   "imp": 2.52,
-   "ai": 0.93,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "4582de2c778af58b": {
-   "imp": 0.85,
-   "ai": 0.57,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "55a1c91e65e8cc6f": {
-   "imp": 2.53,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "66a7e2dd2648ec03": {
-   "imp": 2.43,
-   "ai": 0.98,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "a82f29b7236a00bc": {
-   "imp": 2.12,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "de190bc0e7e6082f": {
-   "imp": 2.63,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b64d6d7944567a41": {
-   "imp": 1.66,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "354615968a5f5f03": {
-   "imp": 0.19,
-   "ai": 0.11,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "0235dde57b409f00": {
-   "imp": 1.61,
-   "ai": 0.94,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "3048c8347b1ec221": {
-   "imp": 2.31,
-   "ai": 0.94,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "6ce0ad9e69fca148": {
-   "imp": 2.51,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "3bf7d7b9e064ad1d": {
-   "imp": 2.56,
-   "ai": 0.93,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "cee08f9a3fa7ce4a": {
-   "imp": 1.87,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "2605c01e6d5214df": {
-   "imp": 1.45,
-   "ai": 0.8,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "88c202caa782d636": {
-   "imp": 1.43,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "32c2628ba7ee7805": {
-   "imp": 0.85,
-   "ai": 0.39,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "8b7f77b800e70d3d": {
-   "imp": 1.29,
-   "ai": 0.91,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "25772a56bd8fbb34": {
-   "imp": 0.65,
-   "ai": 0.57,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "552590f72bc3842b": {
-   "imp": 0.75,
-   "ai": 0.38,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "4064a6f4957505cb": {
-   "imp": 1.38,
-   "ai": 0.67,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "c37a597fae703371": {
-   "imp": 1.79,
-   "ai": 0.93,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "d6a200a2e77b006b": {
-   "imp": 1.24,
-   "ai": 0.93,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "f1a2864397f21492": {
-   "imp": 1.56,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "5455ba866bf5d91e": {
-   "imp": 0.23,
-   "ai": 0.08,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "e9edb7a3067e9f28": {
-   "imp": 2.44,
-   "ai": 0.94,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "440e4351192497c1": {
-   "imp": 1.64,
-   "ai": 0.9,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "2e9572791464823e": {
-   "imp": 2.56,
-   "ai": 0.92,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "63ec1046010f7806": {
-   "imp": 1.33,
-   "ai": 0.94,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "e4eea805dcaebf4f": {
-   "imp": 2.38,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "6c56b08ac5d2fdf0": {
-   "imp": 1.14,
-   "ai": 0.29,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "110925d375f65296": {
-   "imp": 2.19,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "1c1649dd2529293f": {
-   "imp": 1.47,
-   "ai": 0.99,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "fba6a675f7f31bd3": {
-   "imp": 1.9,
-   "ai": 0.98,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "862b4c03c86841db": {
-   "imp": 1.85,
-   "ai": 0.99,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "7e85ba503f9aaf0f": {
-   "imp": 2.13,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "19fb9c8be9bbba25": {
-   "imp": 2.62,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "1cc49772113a983f": {
-   "imp": 1.89,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "ca2c2127c345a3c8": {
-   "imp": 2.76,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "f8e9566cc8a8c293": {
-   "imp": 1.5,
-   "ai": 0.86,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "ab0676cf6917bd60": {
-   "imp": 1.21,
-   "ai": 0.83,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "08dab1bd624e1825": {
-   "imp": 1.21,
-   "ai": 0.14,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "19348d542e0e8da3": {
-   "imp": 2.62,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b0dff6dc5c2ead9b": {
-   "imp": 1.85,
-   "ai": 0.52,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "bf3fe9a79ef25d8b": {
-   "imp": 2.29,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "d1cd519b758ab31f": {
-   "imp": 2.08,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "ea13cb5ac695e237": {
-   "imp": 2.28,
-   "ai": 0.99,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "e6a553819e60e547": {
-   "imp": 1.87,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "84b7bc339a075e83": {
-   "imp": 1.14,
-   "ai": 0.99,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "fc3ba88e28ab6657": {
-   "imp": 1.43,
-   "ai": 0.51,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "f2579ef4879ef0a5": {
-   "imp": 2.48,
-   "ai": 0.94,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "cf0e815fce595f3a": {
-   "imp": 1.35,
-   "ai": 0.9,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "a64bf86d357e960f": {
-   "imp": 2.24,
-   "ai": 0.98,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "4327ae71539d69f2": {
-   "imp": 2.4,
-   "ai": 0.95,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "549a77347d5e1e5f": {
-   "imp": 2.76,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "c6c361c53bc4ce2d": {
-   "imp": 1.68,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "0604bc2b50fc0c3b": {
-   "imp": 1.58,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b64337d2f902f92d": {
-   "imp": 1.13,
-   "ai": 0.96,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "2adb42fb63722b0a": {
-   "imp": 1.85,
-   "ai": 0.98,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b1402410d1be6681": {
-   "imp": 0.48,
-   "ai": 0.91,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "c60558e98558e0e7": {
-   "imp": 1.02,
-   "ai": 0.97,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "5cbc55e1b429d883": {
-   "imp": 2.48,
-   "ai": 0.98,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "6f06a2856d598e84": {
-   "imp": 1.39,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "2f7ff3d5ef40d974": {
-   "imp": 1.73,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "3574711074a43e57": {
-   "imp": 0.91,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "9729e350f38fe129": {
-   "imp": 0.63,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b9fccc282f81f674": {
-   "imp": 0.13,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b22006398e4d6532": {
-   "imp": 0.91,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "206b86c970ea91d6": {
-   "imp": 1.08,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "2c0a64e08e41f662": {
-   "imp": 0.92,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "6dbfd2c16f1d581a": {
-   "imp": 0.98,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "8e21326b778b59c3": {
-   "imp": 1.09,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "1796857b9a1b2f79": {
-   "imp": 0.89,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "3a6ddd65cb94a929": {
-   "imp": 1.02,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "2052af3031ae30d9": {
-   "imp": 1.12,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "1e308b5aafc025fe": {
-   "imp": 0.65,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "dfdee5b6b2fccda4": {
-   "imp": 1.13,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "0f81d901dab588c1": {
-   "imp": 1.14,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "38c4a38bd61908e3": {
-   "imp": 1.37,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "09ff886529bbad01": {
-   "imp": 1.7,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "e9eb84ae1298a7fa": {
-   "imp": 2.07,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "41930dc761537485": {
-   "imp": 0.45,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "bab2f7f079c6fd0e": {
-   "imp": 1.38,
-   "ai": null,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "70c1fe99c892c174": {
-   "imp": 0.19,
-   "ai": 0.08,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "0351d459f29d6d16": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "9dd3309482da94b4": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b1c55aef66ee94c2": {
-   "imp": 0.27,
-   "ai": 0.04,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "b85052fb0db59ed3": {
-   "imp": 0.1,
-   "ai": 0.04,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "7409d0d03da56e3b": {
-   "imp": 0.73,
-   "ai": 0.19,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "72544306b870ac7d": {
-   "imp": 0.4,
-   "ai": 0.09,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
-  "59ea53487185be63": {
-   "imp": 0.16,
-   "ai": 0.08,
-   "ts": "2026-11-18T01:07:23.150510+00:00"
-  },
   "95fdf62b26a03d8c": {
    "imp": 0.58,
    "ai": 0.9,
@@ -26162,6 +25686,576 @@
    "imp": 2.14,
    "ai": 0.97,
    "ts": "2026-11-25T17:07:23.082592+00:00"
+  },
+  "ceecf9e348f1c1f1": {
+   "imp": 1.23,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "6359c2ce09004373": {
+   "imp": 2.19,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f27e0de9d097fe05": {
+   "imp": 1.89,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "4c44ce30146b120b": {
+   "imp": 1.71,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "e7d7a2ca3b37ef50": {
+   "imp": 1.72,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "372ac891332249b4": {
+   "imp": 1.82,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "c2211ba4f6cde58c": {
+   "imp": 1.7,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "92419877312e3e17": {
+   "imp": 1.74,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "e99bede8482e441e": {
+   "imp": 2.0,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "9656a61fb78e3b65": {
+   "imp": 1.79,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "32865a30877055f1": {
+   "imp": 1.88,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "9f6f68c376e8c4f2": {
+   "imp": 2.04,
+   "ai": 0.95,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "5a827d2dd498706d": {
+   "imp": 1.3,
+   "ai": 0.96,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "dcfa71a016c91948": {
+   "imp": 1.2,
+   "ai": 0.78,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "bcd13a48d9ebda24": {
+   "imp": 2.25,
+   "ai": 0.96,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "13045188e96c5230": {
+   "imp": 1.76,
+   "ai": 0.96,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "b3dd6880fa390b46": {
+   "imp": 1.91,
+   "ai": 0.93,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "fda2281226e77251": {
+   "imp": 1.68,
+   "ai": 0.81,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "a11ec7fdb0e6d622": {
+   "imp": 1.19,
+   "ai": 0.44,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "a3c473ac1eeb94ab": {
+   "imp": 2.14,
+   "ai": 0.9,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "124823690ba21ee5": {
+   "imp": 1.42,
+   "ai": 0.92,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "4c9ca9be29ed4305": {
+   "imp": 1.76,
+   "ai": 0.93,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "87ad8263ba58cb71": {
+   "imp": 1.92,
+   "ai": 0.96,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "650d000f9f835dc2": {
+   "imp": 1.66,
+   "ai": 0.89,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "3071d1437af62710": {
+   "imp": 1.75,
+   "ai": 0.85,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f0f7d8e31212926b": {
+   "imp": 1.26,
+   "ai": 0.81,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "5ff5143f1c0cd768": {
+   "imp": 1.49,
+   "ai": 0.85,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "640cd5b86c4dc4ac": {
+   "imp": 1.05,
+   "ai": 0.72,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "0f31c91ab11fe00c": {
+   "imp": 1.16,
+   "ai": 0.65,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "35ce48e126bd4f02": {
+   "imp": 1.25,
+   "ai": 0.63,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "fb8a335a5a6e4499": {
+   "imp": 2.16,
+   "ai": 0.96,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "ac22be8de91566cc": {
+   "imp": 1.62,
+   "ai": 0.92,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "8115664b711e899c": {
+   "imp": 1.72,
+   "ai": 0.98,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "355530704a3ceaf0": {
+   "imp": 1.8,
+   "ai": 0.93,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "8e118e2ca0096ac8": {
+   "imp": 1.44,
+   "ai": 0.89,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "911a08998f126e60": {
+   "imp": 1.96,
+   "ai": 0.95,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "5a391a97bd6c44fe": {
+   "imp": 0.8,
+   "ai": 0.88,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "89e2b5dc87c4b0ba": {
+   "imp": 1.89,
+   "ai": 0.91,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "c05c2ff946f72a50": {
+   "imp": 2.08,
+   "ai": 0.95,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "ceac9567d207fad7": {
+   "imp": 1.29,
+   "ai": 0.7,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "dcd69f5c3f655836": {
+   "imp": 1.03,
+   "ai": 0.68,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "5c66fb23aae39388": {
+   "imp": 1.51,
+   "ai": 0.91,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "9b029048110aa1b4": {
+   "imp": 1.36,
+   "ai": 0.58,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "66c0de57c5869bc9": {
+   "imp": 0.96,
+   "ai": 0.76,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "3a57b760f4b73f78": {
+   "imp": 1.81,
+   "ai": 0.93,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "98034fe163a84bd1": {
+   "imp": 1.11,
+   "ai": 0.93,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "714964547fd3a5c2": {
+   "imp": 2.2,
+   "ai": 0.87,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f5573338cf169f1c": {
+   "imp": 1.49,
+   "ai": 0.75,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "450989adc11d22d0": {
+   "imp": 1.31,
+   "ai": 0.89,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "e803d9237e220cd3": {
+   "imp": 1.34,
+   "ai": 0.73,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "d63283ce25048c2b": {
+   "imp": 2.11,
+   "ai": 0.92,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "82b551504ca020e0": {
+   "imp": 2.04,
+   "ai": 0.96,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f14a6f6dfd19f4ca": {
+   "imp": 1.54,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "37b5c9ba93266751": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "d8d6777ecf090783": {
+   "imp": 0.98,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "2f5dad3dc0fcb96a": {
+   "imp": 1.36,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "022420567f757b9f": {
+   "imp": 0.95,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "4398de60e3fab685": {
+   "imp": 1.13,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "d30492bd6b56d160": {
+   "imp": 1.64,
+   "ai": null,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "e2ee4ad335699ba8": {
+   "imp": 1.45,
+   "ai": 0.97,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "cb78c13a330959ed": {
+   "imp": 1.33,
+   "ai": 0.98,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "1b18ea57f9252df4": {
+   "imp": 0.66,
+   "ai": 0.31,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "8b0f88bdc7019a2a": {
+   "imp": 0.59,
+   "ai": 0.32,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f9fba26717caad15": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "90479a4663a2a8c0": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "3086cf51e7859492": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "0dde5fb1d7d363c1": {
+   "imp": 0.58,
+   "ai": 0.23,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "00d4d0b790d71ecd": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "a5aef30379977376": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "62bdeb72533b2d8c": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "a26b51ba227a6222": {
+   "imp": 1.64,
+   "ai": 0.7,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "00e68d185acbfd8f": {
+   "imp": 0.31,
+   "ai": 0.06,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "b8e65de04b89ed80": {
+   "imp": 2.24,
+   "ai": 0.89,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "3649a598cfc09c3b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "0615cca86cba7057": {
+   "imp": 0.3,
+   "ai": 0.06,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "2a78d240a7a7e839": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "2b6f947f9c5eacf6": {
+   "imp": 0.11,
+   "ai": 0.19,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f825958bff239788": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "30aa89561144ecbe": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "9d0d5e26fc95b805": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "a0c590a2468a4afd": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "1d0b4d87e67fb0bd": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f350d96555689775": {
+   "imp": 0.3,
+   "ai": 0.05,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "14f43b6169f7b190": {
+   "imp": 0.23,
+   "ai": 0.04,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "bf4adf31c689f283": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "0a824e449922735f": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "00122a957f24c2ab": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "311e68901f1b6245": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "dbb0acaed611c054": {
+   "imp": 0.34,
+   "ai": 0.13,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "42d1a0512ac09c37": {
+   "imp": 0.17,
+   "ai": 0.06,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "3beb23652c749255": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "62eb3cea7c2c0ad4": {
+   "imp": 0.09,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "37494e9ffc3239be": {
+   "imp": 0.53,
+   "ai": 0.32,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "c4fb115905ad5db5": {
+   "imp": 0.35,
+   "ai": 0.19,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "424903b59eaff8c7": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "7cf1f12d8fd52534": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "1bdafa458f611413": {
+   "imp": 0.15,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "4d9e2460f3b7ed47": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "2f4612142195937f": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "6ee2cb9f556452eb": {
+   "imp": 0.2,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "0921b105cb0489ff": {
+   "imp": 1.25,
+   "ai": 0.27,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "7576d5546c4e5fdf": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "caad35efd4e51827": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "f8d7793d9c79cec8": {
+   "imp": 1.19,
+   "ai": 0.13,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "67ccdb39f01b1369": {
+   "imp": 1.38,
+   "ai": 0.35,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "10aaec517f16a73c": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "9237f5e8f1a9dfdf": {
+   "imp": 0.24,
+   "ai": 0.12,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "8f3b3158a1a6dcf7": {
+   "imp": 1.97,
+   "ai": 0.87,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "dd6efe479dc0b5ab": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "2f191bc6fc69a688": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "49acbfc135a21aef": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "5a6d3adb1b372d84": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "04a9805dfa556873": {
+   "imp": 1.37,
+   "ai": 0.47,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
+  },
+  "d5b664b8cb4ca734": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T01:07:23.478784+00:00"
   }
  }
 }
