@@ -1,7 +1,5 @@
 {
  "seen": {
-  "3f6098aabd8eb664": "2026-11-19T13:37:25.966801+00:00",
-  "e9b6576af8849a79": "2026-11-19T13:37:25.966801+00:00",
   "baa754261624350f": "2026-11-19T15:07:24.543623+00:00",
   "33cec2d3f6e4f18c": "2026-11-19T15:07:24.543623+00:00",
   "1f4f7904707e085c": "2026-11-19T15:07:24.543623+00:00",
@@ -1739,13 +1737,15 @@
   "ba42b3beb6b06cf0": "2026-11-26T13:07:22.413899+00:00",
   "9d4216d97ef5f7c9": "2026-11-26T13:07:22.413899+00:00",
   "85c2c528ad4288e4": "2026-11-26T13:07:22.413899+00:00",
-  "409521d3f35469b0": "2026-11-26T13:07:22.413899+00:00"
+  "409521d3f35469b0": "2026-11-26T13:07:22.413899+00:00",
+  "2e5447c7c5cff867": "2026-11-26T13:37:24.902620+00:00",
+  "620c989ebbb5eb59": "2026-11-26T13:37:24.902620+00:00",
+  "d83656b6ab082a6a": "2026-11-26T13:37:24.902620+00:00",
+  "5cb26631b6a3eeda": "2026-11-26T13:37:24.902620+00:00",
+  "f6cdcc5fc98b7ede": "2026-11-26T13:37:24.902620+00:00",
+  "80788bc9cb776030": "2026-11-26T13:37:24.902620+00:00"
  },
  "covered": [
-  {
-   "headline": "Amazon reports AI agents found and exploited 0-day vulnerability",
-   "ts": "2026-11-24T13:37:22.420388+00:00"
-  },
   {
    "headline": "XPeng releases WorldGPT action model",
    "ts": "2026-11-24T14:07:24.274751+00:00"
@@ -1957,11 +1957,15 @@
   {
    "headline": "Apple faces South Korean regulatory review over iPhone 16 AI features",
    "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  {
+   "headline": "Boden Intelligent raises hundreds of millions in B round",
+   "ts": "2026-11-26T13:37:24.902620+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4368,35 +4372,6 @@
  },
  "pending": [
   {
-   "id": "80788bc9cb776030",
-   "item": {
-    "id": "80788bc9cb776030",
-    "title": "“博登智能”完成数亿元B轮融资",
-    "url": "https://36kr.com/newsflashes/4086248989485446?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，近日，“博登智能”宣布完成数亿元 B 轮融资。本轮融资由金雨茂物、甬元基金、粤科创投、招商致远资本、招证投资、宁波高新区科创基金共同参与。本轮资金将重点用于评测验证生态共建、全模态采集体系持续迭代、数据生产平台工程化升级，加速真实世界人工智能基础设施落地。",
-    "published": "2026-11-26T07:07:25+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Boden Intelligent raises hundreds of millions in B round",
-   "post": "Chinese startup Boden Intelligent has raised hundreds of millions of yuan in a Series B funding round to support multimodal data collection and real-world AI infrastructure development.",
-   "editor_note": "Translate 'hundreds of millions of yuan' accurately based on the exact funding figures if disclosed.",
-   "support": 0.93,
-   "published_at": "2026-11-26T07:07:25+00:00",
-   "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
-   "expires_at": "2026-11-27T19:07:25+00:00",
-   "decision": 1.45,
-   "priority": 7.191469,
-   "selection_reason": "Editorial importance; waiting 6.0h"
-  },
-  {
    "id": "f373a24898da7d32",
    "item": {
     "id": "f373a24898da7d32",
@@ -4421,8 +4396,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.180468,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.197854,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4449,8 +4424,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.138242,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.155627,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4477,8 +4452,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.112431,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.129817,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "242edb948acd8745",
@@ -4506,8 +4481,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.047328,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.064714,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4535,8 +4510,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.026302,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.043687,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4563,8 +4538,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.994835,
-   "selection_reason": "Editorial importance; waiting 23.5h"
+   "priority": 6.980927,
+   "selection_reason": "Editorial importance; waiting 24.0h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4593,8 +4568,8 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 6.935765,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.961842,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
@@ -4921,99 +4896,15 @@
   "https://36kr.com/newsflashes/4086315160349313?f=rss": "2026-11-26T11:07:57.964031+00:00",
   "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": "2026-11-26T12:08:17.995374+00:00",
   "https://36kr.com/newsflashes/4086514623723652?f=rss": "2026-11-26T12:37:51.561567+00:00",
-  "https://36kr.com/newsflashes/4086568088156549?f=rss": "2026-11-26T13:09:34.004013+00:00"
+  "https://36kr.com/newsflashes/4086568088156549?f=rss": "2026-11-26T13:09:34.004013+00:00",
+  "https://36kr.com/newsflashes/4086248989485446?f=rss": "2026-11-26T13:37:55.900498+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
-  "9c0a1db7310df6bb": {
-   "imp": 2.06,
-   "ai": null,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "bd9ac483b6a32d30": {
-   "imp": 1.86,
-   "ai": 0.93,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "8a2685ec9405afa8": {
-   "imp": 1.73,
-   "ai": 0.95,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "e2ef47ddfa40b674": {
-   "imp": 0.8,
-   "ai": 0.8,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "4c594b71509016d9": {
-   "imp": 1.49,
-   "ai": 0.89,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "587857579371a214": {
-   "imp": 0.96,
-   "ai": 0.83,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "55727f6d1c808246": {
-   "imp": 1.89,
-   "ai": 0.97,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "4bb745bf3ff56fb7": {
-   "imp": 1.56,
-   "ai": 0.8,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "21b6886a42be8e1f": {
-   "imp": 1.01,
-   "ai": 0.71,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "014bf46a0b343c36": {
-   "imp": 0.68,
-   "ai": 0.32,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "c33ace0d92791701": {
-   "imp": 1.12,
-   "ai": 0.71,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "af5921fb19f009a4": {
-   "imp": 2.05,
-   "ai": 0.88,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "4e7369e1579face7": {
-   "imp": 2.03,
-   "ai": 0.94,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "5ec0464744e33a2a": {
-   "imp": 0.75,
-   "ai": 0.11,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "81a754985947b0d2": {
-   "imp": 0.23,
-   "ai": 0.04,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "9600a08f203c70a6": {
-   "imp": 0.05,
-   "ai": 0.01,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
-  "cd74bbdd494f5d2a": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-18T13:37:25.451880+00:00"
-  },
   "84d2fa603ef696ee": {
    "imp": 1.19,
    "ai": null,
@@ -26008,6 +25899,71 @@
    "imp": 0.16,
    "ai": 0.05,
    "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "620c989ebbb5eb59": {
+   "imp": 1.81,
+   "ai": 0.97,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "2e5447c7c5cff867": {
+   "imp": 1.75,
+   "ai": 0.95,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "f6cdcc5fc98b7ede": {
+   "imp": 1.66,
+   "ai": 0.79,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "d83656b6ab082a6a": {
+   "imp": 1.15,
+   "ai": 0.4,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "462ae4ad04f6c99a": {
+   "imp": 0.35,
+   "ai": 0.1,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "5cb26631b6a3eeda": {
+   "imp": 1.13,
+   "ai": 0.86,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "1a540f0af440f406": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "821917c366ae573e": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "a2ab9d066dd82fdf": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "56affcd90307bcc8": {
+   "imp": 1.2,
+   "ai": 0.62,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "4f58bf96d99e85c9": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "ee6b6ba9b0f61172": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
+  },
+  "cb056280e763ce5a": {
+   "imp": 0.11,
+   "ai": 0.04,
+   "ts": "2026-11-26T13:37:24.902620+00:00"
   }
  }
 }
