@@ -1,19 +1,5 @@
 {
  "seen": {
-  "ac547cb1cef4db8e": "2026-11-19T13:07:37.274771+00:00",
-  "1fe5fdadb1357fb8": "2026-11-19T13:07:37.274771+00:00",
-  "d91e07b92af7c4cc": "2026-11-19T13:07:37.274771+00:00",
-  "029ded4e9a8f172f": "2026-11-19T13:07:37.274771+00:00",
-  "232bfbe7637942ed": "2026-11-19T13:07:37.274771+00:00",
-  "50a5a499604da53a": "2026-11-19T13:07:37.274771+00:00",
-  "2ae305dbea6ba60c": "2026-11-19T13:07:37.274771+00:00",
-  "48381412c5954447": "2026-11-19T13:07:37.274771+00:00",
-  "fea67cf9c7eff96e": "2026-11-19T13:07:37.274771+00:00",
-  "c59302fc83ad9b4e": "2026-11-19T13:07:37.274771+00:00",
-  "2fb16e90da33e6f3": "2026-11-19T13:07:37.274771+00:00",
-  "8214829797b20206": "2026-11-19T13:07:37.274771+00:00",
-  "7c83913719c6fafb": "2026-11-19T13:07:37.274771+00:00",
-  "9f55741bb31cb1de": "2026-11-19T13:07:37.274771+00:00",
   "3f6098aabd8eb664": "2026-11-19T13:37:25.966801+00:00",
   "e9b6576af8849a79": "2026-11-19T13:37:25.966801+00:00",
   "baa754261624350f": "2026-11-19T15:07:24.543623+00:00",
@@ -1748,13 +1734,14 @@
   "0ebe4636389841ae": "2026-11-26T12:37:24.269704+00:00",
   "e5f82a532fcfa1d3": "2026-11-26T12:37:24.269704+00:00",
   "f920c098d5975096": "2026-11-26T12:37:24.269704+00:00",
-  "79781da1c5cf2705": "2026-11-26T12:37:24.269704+00:00"
+  "79781da1c5cf2705": "2026-11-26T12:37:24.269704+00:00",
+  "c01600d4160315a4": "2026-11-26T13:07:22.413899+00:00",
+  "ba42b3beb6b06cf0": "2026-11-26T13:07:22.413899+00:00",
+  "9d4216d97ef5f7c9": "2026-11-26T13:07:22.413899+00:00",
+  "85c2c528ad4288e4": "2026-11-26T13:07:22.413899+00:00",
+  "409521d3f35469b0": "2026-11-26T13:07:22.413899+00:00"
  },
  "covered": [
-  {
-   "headline": "Cashfree enables AI agents to make wallet payments",
-   "ts": "2026-11-24T13:07:25.091835+00:00"
-  },
   {
    "headline": "Amazon reports AI agents found and exploited 0-day vulnerability",
    "ts": "2026-11-24T13:37:22.420388+00:00"
@@ -1966,11 +1953,15 @@
   {
    "headline": "Tencent publishes Nature paper on AI dual-target peptide design",
    "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  {
+   "headline": "Apple faces South Korean regulatory review over iPhone 16 AI features",
+   "ts": "2026-11-26T13:07:22.413899+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4360,6 +4351,19 @@
    "desc": "全栈方案破解工业机器人连续作业难题",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/training-swarms": {
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png",
+   "published": "2026-11-26T00:00:00.778000+00:00",
+   "excerpt": "This is an aspirational blog series for aspirational readers. We (us, the community, you) want to build our own agent swarms because they're exciting, challenging, and increasingly capable. Furthermore, it would be extremely cool if we could train our own agents to work in a swarm. And exponentially cool if those swarms used small and affordable models. That's what we'll do in this series! Each blog post will include some context on building swarms, alongside reproducible examples that you can run on Hugging Face Jobs. This post's example takes about five hours on two H200s, which costs roughly $50. Multi-Agent Systems are hard to get working. Adding agents changes the agent's context, the budget, and in turn the complexity of the whole system. Mixing agents' context together through commu…"
+  },
+  "https://www.qbitai.com/2026/11/512981.html": {
+   "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+   "desc": "还得是科班尖子生",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4389,8 +4393,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.174126,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.191469,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4417,8 +4421,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.163125,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.180468,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4445,8 +4449,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.120898,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.138242,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4473,8 +4477,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.095088,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.112431,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "242edb948acd8745",
@@ -4502,8 +4506,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.029985,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.047328,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4531,8 +4535,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.008959,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.026302,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4559,8 +4563,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.008709,
-   "selection_reason": "Editorial importance; waiting 23.0h"
+   "priority": 6.994835,
+   "selection_reason": "Editorial importance; waiting 23.5h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4589,14 +4593,12 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 6.90975,
-   "selection_reason": "Editorial importance"
+   "priority": 6.935765,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network": "2026-11-12T13:07:56.949623+00:00",
-  "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2": "2026-11-12T13:07:56.949623+00:00",
   "https://www.leiphone.com/category/ai/3vRqaeAILJdgRlhL.html": "2026-11-12T13:38:13.109176+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal": "2026-11-12T14:38:02.388631+00:00",
   "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology": "2026-11-12T14:38:02.388631+00:00",
@@ -4918,124 +4920,15 @@
   "https://36kr.com/newsflashes/4086392240990857?f=rss": "2026-11-26T09:37:59.229607+00:00",
   "https://36kr.com/newsflashes/4086315160349313?f=rss": "2026-11-26T11:07:57.964031+00:00",
   "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": "2026-11-26T12:08:17.995374+00:00",
-  "https://36kr.com/newsflashes/4086514623723652?f=rss": "2026-11-26T12:37:51.561567+00:00"
+  "https://36kr.com/newsflashes/4086514623723652?f=rss": "2026-11-26T12:37:51.561567+00:00",
+  "https://36kr.com/newsflashes/4086568088156549?f=rss": "2026-11-26T13:09:34.004013+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
-  "ce416493dbd77e39": {
-   "imp": 2.49,
-   "ai": null,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "5e888bac8f86cebe": {
-   "imp": 1.62,
-   "ai": null,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "54533d6803c95bca": {
-   "imp": 1.21,
-   "ai": 0.9,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "b0ca23f3753a09a6": {
-   "imp": 0.63,
-   "ai": 0.7,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "a2c57daa21667a6b": {
-   "imp": 2.59,
-   "ai": 0.97,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "3c060170ebdaf151": {
-   "imp": 1.01,
-   "ai": 0.11,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "aff1ec2a43dfe4ce": {
-   "imp": 1.81,
-   "ai": 0.96,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "5466129a01e4cb8b": {
-   "imp": 0.34,
-   "ai": 0.16,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "a7dcb3eddfeef2ef": {
-   "imp": 1.51,
-   "ai": 0.91,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "cd11067986e4eaf0": {
-   "imp": 1.99,
-   "ai": 0.94,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "083251a67bf4adea": {
-   "imp": 1.8,
-   "ai": null,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "7ceec50630a597f6": {
-   "imp": 2.57,
-   "ai": 0.97,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "2500d1d8ef133c76": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "d004af092ebf758b": {
-   "imp": 0.05,
-   "ai": 0.03,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "e93c5dc537d388ce": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "6a15a18cd08bcc0d": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "b8d20afe1336f02b": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "69b615cd01d434dd": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "c5a3b8023df91136": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "7668512623aab7a0": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "58ddbbe7769f80ef": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
-  "481c3ce318c449c1": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-18T13:07:24.716251+00:00"
-  },
   "9c0a1db7310df6bb": {
    "imp": 2.06,
    "ai": null,
@@ -26030,6 +25923,91 @@
    "imp": 0.18,
    "ai": 0.1,
    "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "85c2c528ad4288e4": {
+   "imp": 0.76,
+   "ai": 0.29,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "9d4216d97ef5f7c9": {
+   "imp": 1.47,
+   "ai": 0.95,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "409521d3f35469b0": {
+   "imp": 1.45,
+   "ai": 0.88,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "ba42b3beb6b06cf0": {
+   "imp": 2.19,
+   "ai": 0.97,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "c01600d4160315a4": {
+   "imp": 1.17,
+   "ai": null,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "8af34dbb38980ca3": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "d91ccee17dff0bb4": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "66877a836009fbcf": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "076160b16ae5c833": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "84e2117a560c66f4": {
+   "imp": 1.29,
+   "ai": 0.43,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "488468bbb4778393": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "2334bf35aaf87546": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "2d2a6af3aa057d98": {
+   "imp": 0.26,
+   "ai": 0.07,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "452a17d9a29b7f08": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "f1822072db483f43": {
+   "imp": 0.21,
+   "ai": 0.05,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "a5ded3a2ebd0588e": {
+   "imp": 1.4,
+   "ai": 0.46,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
+  },
+  "4db0503d68d630d2": {
+   "imp": 0.16,
+   "ai": 0.05,
+   "ts": "2026-11-26T13:07:22.413899+00:00"
   }
  }
 }
