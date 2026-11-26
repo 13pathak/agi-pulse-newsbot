@@ -1732,7 +1732,13 @@
   "4faaa3acd738f3c5": "2026-11-26T15:37:22.228345+00:00",
   "069f94445fa0f593": "2026-11-26T15:37:22.228345+00:00",
   "f373a24898da7d32": "2026-11-26T15:37:22.228345+00:00",
-  "59f78d93f08fcd49": "2026-11-26T15:37:22.228345+00:00"
+  "59f78d93f08fcd49": "2026-11-26T15:37:22.228345+00:00",
+  "71794be21f2cba90": "2026-11-26T16:07:24.987187+00:00",
+  "84279315ce6baa68": "2026-11-26T16:07:24.987187+00:00",
+  "0168d37e92dae009": "2026-11-26T16:07:24.987187+00:00",
+  "5320f5d21a0968a3": "2026-11-26T16:07:24.987187+00:00",
+  "ec74e9ba21876128": "2026-11-26T16:07:24.987187+00:00",
+  "c8a9ac36cda6e381": "2026-11-26T16:07:24.987187+00:00"
  },
  "covered": [
   {
@@ -1946,11 +1952,15 @@
   {
    "headline": "IndiaMART and OpenAI settle dispute out of court",
    "ts": "2026-11-26T15:37:22.228345+00:00"
+  },
+  {
+   "headline": "Thomson Reuters builds AI model using Google and Z.ai",
+   "ts": "2026-11-26T16:07:24.987187+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4363,34 +4373,6 @@
  },
  "pending": [
   {
-   "id": "c8a9ac36cda6e381",
-   "item": {
-    "id": "c8a9ac36cda6e381",
-    "title": "Thomson Reuters is using both American and Chinese AI for its next model",
-    "url": "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11",
-    "source": "Business Insider",
-    "image": "https://i.insider.com/6b075a85d6c5d341c9b4d669?format=jpeg",
-    "snippet": "Forget the AI race: Thomson Reuters wants the best of both worlds. The company's next AI model is built off Google's Gemma and Z.ai's GLM, it tells Business Insider. The data and legal giant has spent $40 million so far building its own chatbots. As China and the US race to compete on AI, Thomson Reuters, the Canadian data and legal giant, is having it both ways. The company is launching a new AI …",
-    "published": "2026-11-26T10:00:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Thomson Reuters builds AI model using Google and Z.ai",
-   "post": "Thomson Reuters is using Google's Gemma and Z.ai's GLM for its next AI model, following $40 million in chatbot development spending.",
-   "editor_note": "Verify Thomson Reuters' specific distribution plans for this dual-origin model.",
-   "support": 0.93,
-   "published_at": "2026-11-26T10:00:01+00:00",
-   "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
-   "expires_at": "2026-11-27T22:00:01+00:00",
-   "decision": 1.8,
-   "priority": 7.225045,
-   "selection_reason": "Editorial importance; waiting 4.5h"
-  },
-  {
    "id": "c0f2de19f05669ce",
    "item": {
     "id": "c0f2de19f05669ce",
@@ -4415,8 +4397,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.199235,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.216623,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "242edb948acd8745",
@@ -4444,8 +4426,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.134132,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.15152,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4473,8 +4455,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.113106,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 7.130494,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4503,8 +4485,8 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 7.06597,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.092052,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4531,8 +4513,37 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 6.925392,
-   "selection_reason": "Editorial importance; waiting 26.0h"
+   "priority": 6.911482,
+   "selection_reason": "Editorial importance; waiting 26.5h"
+  },
+  {
+   "id": "a9a0d77b488e5aa9",
+   "item": {
+    "id": "a9a0d77b488e5aa9",
+    "title": "深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效",
+    "url": "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html",
+    "source": "LeiPhone",
+    "image": "",
+    "snippet": "近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。 当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。头部、手臂、腰部等部位空间有限，对关节的轴向尺寸提出了更高要求；多关节带来的复杂线束，也增加了走线与装配难度。关节模组的轻量化并非“减配”，而是通过结构设计优化与集成度提升，在更小的体积内实现同等的控制精度与可靠性。 结构设计：轴向长度较上代至多缩短22.5% 据介绍，该系列采用驱控板与编码器一体化集成，整机部件精简至6个，内部排布更紧凑。同外径尺寸下，关节轴向长度较上代产品至多缩短22.5%；侧出线设计减少线束转弯，使带线轴向安装空间节省多达30%，为人形机器人头部、手腕等部位留出更大设计余量，助力整机外形更贴近人形比例。 驱感一体：兼顾控制精度与运行稳定 集成带来的收益不止于结构层：信号走线更短、链路干扰更低，可支撑整机高频控制与快速响应。关节输出线性度高，搭配双编码器架构，位置反馈更稳定，实现全场景0跳变，运动更平稳精细；低温升特性减少长时间连续运行中的热衰减，为高负载工况下的可靠性与持久性提供支撑。 多规格布局：外径覆盖40至80毫米 该系列提供5种规格，外径覆盖40毫米至80毫米，可适配…",
+    "published": "2026-11-26T13:45:00+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Tihu Robot launches Lite-1 lightweight joint modules",
+   "post": "Tihu Robot released the Lite-1 series of lightweight joint modules for humanoid robots, featuring a streamlined structure that reduces axial length by up to 22.5 percent.",
+   "editor_note": "Verify the external dimensions and specifications across the 40 to 80 millimeter range stated in the source.",
+   "support": 0.95,
+   "published_at": "2026-11-26T13:45:00+00:00",
+   "first_seen_at": "2026-11-26T16:07:24.987187+00:00",
+   "expires_at": "2026-11-28T01:45:00+00:00",
+   "decision": 0.89,
+   "priority": 6.730733,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4860,84 +4871,15 @@
   "https://36kr.com/newsflashes/4086248989485446?f=rss": "2026-11-26T13:37:55.900498+00:00",
   "https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models": "2026-11-26T14:40:14.342766+00:00",
   "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html": "2026-11-26T15:08:31.294886+00:00",
-  "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt": "2026-11-26T15:38:04.253170+00:00"
+  "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt": "2026-11-26T15:38:04.253170+00:00",
+  "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11": "2026-11-26T16:07:54.685515+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 24
+  "takes": 25
  },
  "triage": {
-  "d4ec4820484976f5": {
-   "imp": 2.19,
-   "ai": null,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "a710894bbeff5598": {
-   "imp": 2.06,
-   "ai": null,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "f21f255fd91ab703": {
-   "imp": 1.91,
-   "ai": null,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "f98424e18d94d4c1": {
-   "imp": 1.81,
-   "ai": 0.94,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "92cdbaff4de0991d": {
-   "imp": 2.51,
-   "ai": 0.94,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "4b90e4f32538d25f": {
-   "imp": 0.77,
-   "ai": 0.85,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "695b50eb98d3e987": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "3dcab0eeebded0b2": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "bca666580c353f60": {
-   "imp": 1.11,
-   "ai": 0.14,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "d525b207a49ba5ce": {
-   "imp": 0.22,
-   "ai": 0.07,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "db140e1350667017": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "9f6c8b8486f4c711": {
-   "imp": 0.7,
-   "ai": 0.68,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "569017a70fd8b933": {
-   "imp": 1.7,
-   "ai": 0.85,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
-  "0d5ab9d7147d7203": {
-   "imp": 0.24,
-   "ai": 0.05,
-   "ts": "2026-11-18T16:07:26.312474+00:00"
-  },
   "319e08473b4aa091": {
    "imp": 2.04,
    "ai": null,
@@ -25842,6 +25784,61 @@
    "imp": 0.63,
    "ai": 0.11,
    "ts": "2026-11-26T15:37:22.228345+00:00"
+  },
+  "71794be21f2cba90": {
+   "imp": 2.17,
+   "ai": 0.93,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "ec74e9ba21876128": {
+   "imp": 1.34,
+   "ai": null,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "5320f5d21a0968a3": {
+   "imp": 1.72,
+   "ai": null,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "84279315ce6baa68": {
+   "imp": 2.08,
+   "ai": 0.93,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "0168d37e92dae009": {
+   "imp": 1.82,
+   "ai": 0.92,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "a9a0d77b488e5aa9": {
+   "imp": 0.89,
+   "ai": 0.33,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "964aec50090d1f10": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "5bd5f36004d8a909": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "99f52b4e0ccc9825": {
+   "imp": 0.87,
+   "ai": 0.16,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "8e2b090e5751ec3e": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
+  },
+  "5db65e4bd01148a4": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-26T16:07:24.987187+00:00"
   }
  }
 }
