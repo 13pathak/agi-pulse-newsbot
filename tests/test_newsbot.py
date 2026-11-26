@@ -253,6 +253,95 @@ def test_picture_check_drops_only_pictures_judged_unhelpful(monkeypatch):
     assert newsbot.picture_helps({**pick, "picture": None}, "https://x.test/page", "k", "m") and len(asked) == 2
 
 
+def replacement_setup(monkeypatch, verdicts, article_images=(), article_error=None):
+    """Fake article page, picture downloads and decision model for the replacement search."""
+    import article_details as ad
+    big = b"\x89PNG\r\n\x1a\n" + b"0" * 20_000
+    small = b"\x89PNG\r\n\x1a\n" + b"0" * 100
+    asked = []
+
+    def fetch_article(url):
+        if article_error:
+            raise ad.DetailsError(article_error)
+        return {"images": [{"url": u} for u in article_images]}
+
+    def get(url, **kw):
+        asked.append(url)
+        if url.startswith("https://other.test/story"):
+            return Resp(content=b'<meta property="og:image" content="https://other.test/product.jpg">')
+        return Resp(content=small if "tiny" in url else big)
+
+    def decisions(content, questions, key, model):   # judges the picture downloaded last
+        return {"picture": {"noul": verdicts[asked[-1]]}}
+
+    monkeypatch.setattr(ad, "fetch_article", fetch_article)
+    monkeypatch.setattr(newsbot.requests, "get", get)
+    monkeypatch.setattr(newsbot, "call_decisions", decisions)
+    pick = {"headline": "Google opens preorders for smartglasses", "post": "Google opened preorders.",
+            "item": {"url": "https://verge.test/glasses", "source": "The Verge"},
+            "related": [{"url": "https://other.test/story", "source": "Other News", "images": True},
+                        {"url": "https://nopics.test/story", "source": "No Pictures", "images": False}]}
+    return pick, asked
+
+
+def test_rejected_picture_is_replaced_by_one_from_inside_the_article(monkeypatch):
+    verdicts = {"https://cdn.test/hero.jpg?w=1200": 0.1, "https://cdn.test/stock.jpg": 0.2,
+                "https://cdn.test/chart.png": 0.8}
+    pick, asked = replacement_setup(monkeypatch, verdicts, article_images=[
+        "https://cdn.test/hero.jpg?w=600",          # the rejected picture at another size: skipped
+        "https://cdn.test/tiny.png",                # too small to be worth showing
+        "https://cdn.test/stock.jpg", "https://cdn.test/chart.png"])
+    assert not newsbot.picture_helps(pick, "https://cdn.test/hero.jpg?w=1200", "k", "m")
+    found = newsbot.find_replacement(pick, "https://cdn.test/hero.jpg?w=1200", "k", "m", tries=4)
+    assert found == ("https://cdn.test/chart.png", "the article")
+    assert [u for u in asked if u in verdicts] == list(verdicts)              # each picture asked once
+    assert pick["picture_checks"] == verdicts
+
+
+def test_replacement_falls_back_to_other_outlets_and_respects_the_limit(monkeypatch):
+    verdicts = {"https://other.test/product.jpg": 0.7}
+    pick, asked = replacement_setup(monkeypatch, verdicts, article_error="Too little readable text")
+    found = newsbot.find_replacement(pick, "https://verge.test/hero.jpg", "k", "m", tries=4)
+    assert found == ("https://other.test/product.jpg", "Other News's coverage")
+    assert not any("nopics" in u for u in asked)          # that source's pictures are not offered
+
+    verdicts = {"https://cdn.test/a.jpg": 0.1, "https://cdn.test/b.jpg": 0.1, "https://cdn.test/c.jpg": 0.9}
+    pick, asked = replacement_setup(monkeypatch, verdicts, article_images=list(verdicts))
+    assert newsbot.find_replacement(pick, "https://verge.test/hero.jpg", "k", "m", tries=2) == ("", "")
+    assert len(pick["picture_checks"]) == 2                                      # stopped after two
+    assert newsbot.find_replacement(pick, "https://verge.test/hero.jpg", "k", "m", tries=0) == ("", "")
+
+
+def test_replacement_search_stops_when_the_model_is_busy(monkeypatch):
+    pick, _ = replacement_setup(monkeypatch, {"https://cdn.test/a.jpg": 0.9},
+                                article_images=["https://cdn.test/a.jpg", "https://cdn.test/b.jpg"])
+    calls = []
+
+    def busy(*a):
+        calls.append(1)
+        raise newsbot.GeminiUnavailable("m: HTTP 503")
+
+    monkeypatch.setattr(newsbot, "call_decisions", busy)
+    assert newsbot.find_replacement(pick, "https://verge.test/hero.jpg", "k", "m", tries=4) == ("", "")
+    assert len(calls) == 1                         # an unchecked picture is never attached
+
+
+def test_more_stories_cards_on_the_page_are_not_replacement_candidates():
+    story = newsbot.story_words("SpaceX receives FCC approval for orbital data centers")
+    assert newsbot.about_another_story({"alt": "The loneliest peptide party in New York"}, story)
+    assert not newsbot.about_another_story({"alt": "SpaceX Starship on the launch pad"}, story)
+    assert not newsbot.about_another_story({"alt": ""}, story)                    # no alt: let the model judge
+    assert not newsbot.about_another_story({"alt": "Benchmark results by task", "caption": "Chart"}, story)
+
+
+def test_telegram_note_names_where_a_replacement_picture_came_from():
+    pick = {"item": {"source": "The Verge", "title": "t"}, "related": [], "importance": 7,
+            "headline": "h", "photo_from": "the article"}
+    text = newsbot.telegram_message(pick, "post", has_photo=True)
+    assert "Picture from the article (the source's preview picture added nothing)" in text
+    assert "Picture from" not in newsbot.telegram_message(pick, "post", has_photo=False)
+
+
 def test_cerebras_writes_the_draft_when_every_gemini_model_is_busy(env, monkeypatch):
     import yaml
     cfg = yaml.safe_load(env["cfg"].read_text())

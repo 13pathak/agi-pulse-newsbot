@@ -1134,6 +1134,7 @@ def fact_check(picks: list[dict], api_key: str, model: str) -> None:
 
 PICTURE_MIN = 0.5            # below this probability the picture is not attached
 PICTURE_MAX_BYTES = 15_000_000
+REPLACEMENT_MIN_BYTES = 10_000   # a smaller replacement is an icon or a thumbnail
 IMAGE_SIGNATURES = ((b"\xff\xd8\xff", "image/jpeg"), (b"\x89PNG\r\n\x1a\n", "image/png"),
                     (b"GIF8", "image/gif"))
 
@@ -1145,38 +1146,129 @@ def image_mime(data: bytes) -> str:
     return next((mime for magic, mime in IMAGE_SIGNATURES if data.startswith(magic)), "")
 
 
+def picture_chance(pick: dict, photo: str, api_key: str, model: str, min_bytes: int = 0) -> float | None:
+    """The decision model's probability that `photo` helps a reader understand the story.
+    None when the file cannot be read as a picture (or is smaller than `min_bytes`).
+    Raises GeminiUnavailable when the model cannot be asked. Every answer is remembered
+    on the pick, so a retried delivery does not ask again."""
+    checks = pick.setdefault("picture_checks", {})
+    older = pick.get("picture") or {}          # queue entries from before kept one verdict
+    if older.get("url") and older["url"] not in checks:
+        checks[older["url"]] = older["helps"]
+    if photo in checks:
+        return checks[photo]
+    try:
+        r = requests.get(photo, headers={"User-Agent": USER_AGENT}, timeout=10)
+    except requests.RequestException as e:
+        log.info("picture check skipped (%s)", e)
+        return None
+    mime = image_mime(r.content) if r.ok else ""
+    if not mime or not min_bytes <= len(r.content) <= PICTURE_MAX_BYTES:
+        log.info("picture check skipped (HTTP %s, %s, %d bytes): %s", r.status_code,
+                 mime or "not a JPEG, PNG, GIF or WebP", len(r.content), photo)
+        return None
+    content = [
+        {"type": "text", "text": f"STORY: {pick['headline']}\nDRAFT POST: {pick['post']}\n"},
+        {"type": "image", "data": base64.b64encode(r.content).decode(), "mime_type": mime,
+         "resolution": "low"}]
+    question = {"picture": {
+        "type": "noul",
+        "instructions": "Would this picture help a reader understand the story? Yes for a chart, "
+                        "table, diagram, screenshot, or a photo of the product, device, place or "
+                        "event in the story. No for generic artwork, a logo, a stock photo or a "
+                        "portrait."}}
+    try:
+        chance = round(float(call_decisions(content, question, api_key, model)["picture"]["noul"]), 2)
+    except (KeyError, TypeError, ValueError) as e:
+        raise GeminiUnavailable(f"{model}: unreadable answer ({e})") from e
+    checks[photo] = chance
+    log.info("picture check %.2f: %s", chance, photo)
+    return chance
+
+
 def picture_helps(pick: dict, photo: str, api_key: str, model: str) -> bool:
     """Ask the decision model whether the source picture tells the reader anything.
-    False only when it answers no; if it cannot be asked, the picture is kept.
-    The answer is remembered on the pick, so a retried delivery does not ask again."""
+    False only when it answers no; if it cannot be asked, the picture is kept."""
     if not (photo and api_key and model):
         return True
-    known = pick.get("picture") or {}
-    if known.get("url") != photo:
+    try:
+        chance = picture_chance(pick, photo, api_key, model)
+    except GeminiUnavailable as e:
+        log.warning("picture check skipped (%s)", e)
+        return True
+    return chance is None or chance >= PICTURE_MIN
+
+
+def story_words(text: str) -> set[str]:
+    """Words of four or more letters, lower-cased: enough to tell two stories apart."""
+    return {w for w in re.findall(r"[a-z0-9]{4,}", text.casefold())} - {
+        "that", "this", "with", "from", "have", "will", "into", "their", "about", "after", "over",
+        "more", "than", "what", "when", "says", "said", "could", "would", "new", "news"}
+
+
+def about_another_story(image: dict, story: set[str]) -> bool:
+    """A picture whose alt text is a headline of some other article (a "more stories" card
+    that sits inside the article's page). Pictures with a caption are kept."""
+    if image.get("caption"):
+        return False
+    alt = story_words(image.get("alt") or "")
+    return len(alt) >= 3 and not alt & story
+
+
+def replacement_pictures(pick: dict, rejected: str):
+    """Other pictures of the story, best first, as (url, where it came from): pictures
+    inside the article itself (charts, screenshots, product photos), then the preview
+    pictures of other outlets covering the same story. Fetched lazily, as they are needed."""
+    import article_details as ad   # imported here: article_details imports this module
+    seen = {ad.image_key(rejected)} if rejected else set()
+
+    def new(url: str) -> bool:
+        key = ad.image_key(url) if url else ""
+        if not key or key in seen:
+            return False
+        seen.add(key)
+        return True
+
+    it = pick["item"]
+    try:
+        images = ad.fetch_article(it["url"])["images"]
+    except Exception as e:   # paywall, too little text, network: go on to other outlets
+        log.info("no pictures read from the article (%s)", e)
+        images = []
+    story = story_words(" ".join([pick.get("headline", ""), it.get("title", ""), pick.get("post", "")]))
+    for image in images:
+        if about_another_story(image, story):
+            continue
+        if new(image["url"]):
+            yield image["url"], "the article"
+    for other in pick.get("related") or []:
+        if other.get("images"):
+            url = other.get("image") or og_image(other["url"])
+            if new(url):
+                yield url, f"{other['source']}'s coverage"
+
+
+def find_replacement(pick: dict, rejected: str, api_key: str, model: str, tries: int) -> tuple[str, str]:
+    """After the picture check turns down the source picture, look for one that helps.
+    At most `tries` pictures are shown to the model. Returns (url, origin) or ("", "")."""
+    if tries <= 0 or not (api_key and model):
+        return "", ""
+    asked = 0
+    for url, origin in replacement_pictures(pick, rejected):
+        if asked >= tries:
+            break
+        if url not in pick.get("picture_checks", {}):
+            asked += 1   # remembered verdicts cost nothing
         try:
-            r = requests.get(photo, headers={"User-Agent": USER_AGENT}, timeout=10)
-            mime = image_mime(r.content) if r.ok else ""
-            if not mime or len(r.content) > PICTURE_MAX_BYTES:
-                log.info("picture check skipped (HTTP %s, %s, %d bytes)", r.status_code,
-                         mime or "not a JPEG, PNG, GIF or WebP", len(r.content))
-                return True
-            content = [
-                {"type": "text", "text": f"STORY: {pick['headline']}\nDRAFT POST: {pick['post']}\n"},
-                {"type": "image", "data": base64.b64encode(r.content).decode(), "mime_type": mime,
-                 "resolution": "low"}]
-            question = {"picture": {
-                "type": "noul",
-                "instructions": "Would this picture help a reader understand the story? Yes for a chart, "
-                                "table, diagram, screenshot, or a photo of the product, device, place or "
-                                "event in the story. No for generic artwork, a logo, a stock photo or a "
-                                "portrait."}}
-            chance = round(float(call_decisions(content, question, api_key, model)["picture"]["noul"]), 2)
-        except (requests.RequestException, GeminiUnavailable, KeyError, TypeError, ValueError) as e:
-            log.warning("picture check skipped (%s)", e)
-            return True
-        known = pick["picture"] = {"url": photo, "helps": chance}
-        log.info("picture check %.2f: %s", chance, photo)
-    return known["helps"] >= PICTURE_MIN
+            chance = picture_chance(pick, url, api_key, model, min_bytes=REPLACEMENT_MIN_BYTES)
+        except GeminiUnavailable as e:
+            log.warning("picture search stopped (%s)", e)
+            break
+        if chance is not None and chance >= PICTURE_MIN:
+            log.info("picture replaced with one from %s: %s", origin, url)
+            return url, origin
+    log.info("no better picture found (%d checked): %s", asked, pick["headline"])
+    return "", ""
 
 
 class TranslationIncomplete(ValueError):
@@ -1422,7 +1514,10 @@ def telegram_message(pick: dict, post: str, has_photo: bool = False) -> str:
         lines.append("Why now: " + html.escape(pick["selection_reason"]))
     if others:
         lines.append("Also covered by: " + html.escape(", ".join(others)))
-    if has_photo:
+    if has_photo and pick.get("photo_from"):
+        lines.append(f"🖼 Picture from {html.escape(pick['photo_from'])} (the source's preview picture added "
+                     "nothing). For X, prefer your own visual; check rights before reuse.")
+    elif has_photo:
         lines.append("🖼 Source image for reference. For X, prefer your own visual; check rights before reuse.")
     return "\n".join(lines)
 
@@ -1652,11 +1747,16 @@ def run(dry_run: bool = False, now: datetime | None = None,
                             s.get("show_source", True))
         photo = ""
         if s.get("attach_images", False) and it.get("images") and not pick.get("text_only"):
-            photo = it.get("image") or og_image(it["url"])
-            if s.get("picture_check", True) and not picture_helps(
-                    pick, photo, os.environ.get("GEMINI_API_KEY", ""), s.get("decision_model") or ""):
-                log.info("picture left out (adds nothing to the story): %s", pick["headline"])
-                photo = ""
+            if "photo" in pick:   # a replacement search already ran on an earlier attempt
+                photo = pick["photo"]
+            else:
+                photo = it.get("image") or og_image(it["url"])
+                api_key, model = os.environ.get("GEMINI_API_KEY", ""), s.get("decision_model") or ""
+                if s.get("picture_check", True) and not picture_helps(pick, photo, api_key, model):
+                    log.info("picture left out (adds nothing to the story): %s", pick["headline"])
+                    photo, origin = find_replacement(pick, photo, api_key, model,
+                                                     int(s.get("picture_search_tries", 4)))
+                    pick["photo"], pick["photo_from"] = photo, origin
         if dry_run:
             print("─" * 60)
             print(f"[{pick['importance']}/10] {it['source']}: {pick.get('headline') or it['title']}")
@@ -1670,7 +1770,7 @@ def run(dry_run: bool = False, now: datetime | None = None,
             if pick.get("written_by"):
                 print(fallback_note(pick["written_by"]))
             if photo:
-                print(f"image: {photo}")
+                print(f"image: {photo}" + (f" (from {pick['photo_from']})" if pick.get("photo_from") else ""))
             delivered += 1
             continue
         buttons = [[{"text": "✅ Post on X", "url": intent_url(post)}],
