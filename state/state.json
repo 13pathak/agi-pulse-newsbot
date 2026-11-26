@@ -1,18 +1,5 @@
 {
  "seen": {
-  "b20533735bac1c5f": "2026-11-19T05:37:24.960091+00:00",
-  "a710894bbeff5598": "2026-11-19T05:37:24.960091+00:00",
-  "644d8e4496760211": "2026-11-19T05:37:24.960091+00:00",
-  "f8c86923639313c9": "2026-11-19T05:37:24.960091+00:00",
-  "979cc66a9cbe2003": "2026-11-19T05:37:24.960091+00:00",
-  "3b25a58f6782810d": "2026-11-19T05:37:24.960091+00:00",
-  "315e7a932943d2c2": "2026-11-19T05:37:24.960091+00:00",
-  "24fda455ebbba77b": "2026-11-19T05:37:24.960091+00:00",
-  "5920bbbacbf9fd20": "2026-11-19T05:37:24.960091+00:00",
-  "29c02b9972e20864": "2026-11-19T05:37:24.960091+00:00",
-  "b2f80c308225c5c9": "2026-11-19T05:37:24.960091+00:00",
-  "8bd7714bdadab698": "2026-11-19T05:37:24.960091+00:00",
-  "ca0841e944a11a2f": "2026-11-19T05:37:24.960091+00:00",
   "2ff6443dd4315fd9": "2026-11-19T06:07:23.026772+00:00",
   "f57a7cb9dae2e1cc": "2026-11-19T06:07:23.026772+00:00",
   "2b7cd1ebb74256da": "2026-11-19T06:07:23.026772+00:00",
@@ -1784,13 +1771,12 @@
   "88570fc3e9d8896e": "2026-11-26T05:07:26.458046+00:00",
   "376febc71c88a751": "2026-11-26T05:07:26.458046+00:00",
   "77ed195883f88f6c": "2026-11-26T05:07:26.458046+00:00",
-  "7ba6d5f9ae854026": "2026-11-26T05:07:26.458046+00:00"
+  "7ba6d5f9ae854026": "2026-11-26T05:07:26.458046+00:00",
+  "f6fb6761521759d3": "2026-11-26T05:37:21.103906+00:00",
+  "f1c36cafce2f47c3": "2026-11-26T05:37:21.103906+00:00",
+  "d3aa48daa62df585": "2026-11-26T05:37:21.103906+00:00"
  },
  "covered": [
-  {
-   "headline": "SpaceX rents AI compute to Anthropic and Google",
-   "ts": "2026-11-24T05:37:22.030621+00:00"
-  },
   {
    "headline": "Ant Group open-sources LingSante Pulse health risk prediction model",
    "ts": "2026-11-24T06:07:22.356294+00:00"
@@ -2010,11 +1996,15 @@
   {
    "headline": "Kioxia and Nvidia partner to expand GPU memory capacity",
    "ts": "2026-11-26T05:07:26.458046+00:00"
+  },
+  {
+   "headline": "Nvidia releases training datasets and fine-tuning recipe for Nemotron",
+   "ts": "2026-11-26T05:37:21.103906+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 8
+  "count": 9
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4407,35 +4397,7 @@
    "first_seen_at": "2026-11-26T05:07:26.458046+00:00",
    "expires_at": "2026-11-27T16:26:32+00:00",
    "decision": 1.22,
-   "priority": 8.387728,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
-   "id": "d3aa48daa62df585",
-   "item": {
-    "id": "d3aa48daa62df585",
-    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-    "source": "Hugging Face",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
-    "snippet": "We recently released NVIDIA Nemotron 3.5 Parse, a compact document model that turns page images into structured data for retrieval-augmented generation (RAG) and agents. Now we’re building on that release with synthetic training datasets, a fine-tuning recipe, and a DFlash2 speculator for faster inference. We’re also sharing how we trained Parse 3.5: first teaching document understanding through supervised fine-tuning, then using reinforcement learning to improve accuracy, consistency, and reliable completion. Parse extracts content from pages of documents into reading order, assigns content classes such as headings, paragraphs, tables, and charts, and returns bounding boxes that locate the content. Tables and charts become structured records that can power downstream document processing a…",
-    "published": "2026-11-26T05:05:36+00:00",
-    "images": true,
-    "category": "primary",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Nvidia releases training datasets and fine-tuning recipe for Nemotron",
-   "post": "Nvidia released synthetic training datasets, a fine-tuning recipe, and a DFlash2 speculator for its Nemotron 3.5 Parse document understanding model to improve structured data extraction.",
-   "editor_note": "Check license terms for the synthetic datasets and fine-tuning code.",
-   "support": 0.96,
-   "published_at": "2026-11-26T05:05:36+00:00",
-   "first_seen_at": "2026-11-26T05:07:26.458046+00:00",
-   "expires_at": "2026-11-28T05:05:36+00:00",
-   "decision": 1.16,
-   "priority": 8.386027,
+   "priority": 8.405037,
    "selection_reason": "Time-sensitive story"
   },
   {
@@ -4463,8 +4425,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.217026,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.203178,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   }
  ],
  "details_queue": [],
@@ -4795,94 +4757,15 @@
   "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership": "2026-11-26T03:07:50.388891+00:00",
   "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb": "2026-11-26T03:37:52.509043+00:00",
   "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount": "2026-11-26T04:08:19.111766+00:00",
-  "https://36kr.com/newsflashes/4086093032417669?f=rss": "2026-11-26T05:07:52.832933+00:00"
+  "https://36kr.com/newsflashes/4086093032417669?f=rss": "2026-11-26T05:07:52.832933+00:00",
+  "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T05:37:46.582769+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
-  "count": 0,
+  "count": 1,
   "takes": 10
  },
  "triage": {
-  "4b26565b197598e5": {
-   "imp": 1.61,
-   "ai": 0.9,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "c2dd9c47308467c1": {
-   "imp": 2.07,
-   "ai": 0.87,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "c0e3184bca4822b0": {
-   "imp": 0.5,
-   "ai": 0.86,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "c36c6bd43214f09b": {
-   "imp": 1.45,
-   "ai": 0.93,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "c25d76f51e2c0126": {
-   "imp": 0.4,
-   "ai": 0.85,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "cffeccf9af16ab93": {
-   "imp": 0.23,
-   "ai": 0.08,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "e11b1d6b0fa70bc4": {
-   "imp": 2.23,
-   "ai": 0.95,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "910f03b29e5723d7": {
-   "imp": 2.06,
-   "ai": 0.93,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "b4f1a99333cf7b25": {
-   "imp": 1.19,
-   "ai": null,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "73f53f2d949e6b46": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "69e8363ef10e83d9": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "c3df5a832a992a0e": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "0451b92d5a2d718b": {
-   "imp": 0.62,
-   "ai": 0.21,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "1dbfe7161e87cfc8": {
-   "imp": 0.93,
-   "ai": 0.38,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "8f8d6ad42ae6d99d": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
-  "a924f6c7936e9246": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-18T05:37:22.266436+00:00"
-  },
   "101074e9d29448f1": {
    "imp": 0.45,
    "ai": 0.03,
@@ -25952,6 +25835,66 @@
    "imp": 0.13,
    "ai": 0.03,
    "ts": "2026-11-26T05:07:26.458046+00:00"
+  },
+  "f1c36cafce2f47c3": {
+   "imp": 2.05,
+   "ai": 0.94,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "f6fb6761521759d3": {
+   "imp": 2.28,
+   "ai": 0.83,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "13879f4b345e8b73": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "7495007ac118b060": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "1f546d7dca315fab": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "d61940e5eff6e1c9": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "17ca8f4c72fa534e": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "c0e963ef0a305025": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "4a007c76a0ec802e": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "0cfc33d04c2b2503": {
+   "imp": 0.4,
+   "ai": 0.08,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "098f0c9b4ed5d5e8": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  "c401156373567fdc": {
+   "imp": 1.1,
+   "ai": 0.09,
+   "ts": "2026-11-26T05:37:21.103906+00:00"
   }
  }
 }
