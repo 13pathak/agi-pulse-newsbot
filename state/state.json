@@ -1,16 +1,5 @@
 {
  "seen": {
-  "eacbd26a911f6855": "2026-11-19T03:07:24.283530+00:00",
-  "44013fe75393f221": "2026-11-19T03:07:24.283530+00:00",
-  "2a1f0dfea65b6e1f": "2026-11-19T03:07:24.283530+00:00",
-  "1636eb7285b469c2": "2026-11-19T03:07:24.283530+00:00",
-  "2597f0770d1d3abc": "2026-11-19T03:07:24.283530+00:00",
-  "53520e5f841a2239": "2026-11-19T03:07:24.283530+00:00",
-  "1feb5e787ef08752": "2026-11-19T03:07:24.283530+00:00",
-  "61a25aea71886a4b": "2026-11-19T03:07:24.283530+00:00",
-  "bef803c735fed0d0": "2026-11-19T03:07:24.283530+00:00",
-  "2f277485244a55e7": "2026-11-19T03:07:24.283530+00:00",
-  "dbd5dd4088cdd04a": "2026-11-19T03:07:24.283530+00:00",
   "66831b4cb9812f3b": "2026-11-19T03:37:23.586248+00:00",
   "bd130a46a6ffcdca": "2026-11-19T03:37:23.586248+00:00",
   "1f3557556ce86619": "2026-11-19T03:37:23.586248+00:00",
@@ -1792,13 +1781,19 @@
   "fe4abc560f0a68d4": "2026-11-26T02:37:22.945067+00:00",
   "5a827d2dd498706d": "2026-11-26T02:37:22.945067+00:00",
   "dcfa71a016c91948": "2026-11-26T02:37:22.945067+00:00",
-  "9dae65f29927adc3": "2026-11-26T02:37:22.945067+00:00"
+  "9dae65f29927adc3": "2026-11-26T02:37:22.945067+00:00",
+  "5725805983580780": "2026-11-26T03:07:21.485326+00:00",
+  "c79000149a2e6b41": "2026-11-26T03:07:21.485326+00:00",
+  "c569bc411236abfe": "2026-11-26T03:07:21.485326+00:00",
+  "29c0e18e1a1ed635": "2026-11-26T03:07:21.485326+00:00",
+  "1f465765c1e89ed4": "2026-11-26T03:07:21.485326+00:00",
+  "cee332037157bbe1": "2026-11-26T03:07:21.485326+00:00",
+  "4820802c6f890da0": "2026-11-26T03:07:21.485326+00:00",
+  "a11ec7fdb0e6d622": "2026-11-26T03:07:21.485326+00:00",
+  "9256bb2cdaa4472c": "2026-11-26T03:07:21.485326+00:00",
+  "fc509d5dcb94321f": "2026-11-26T03:07:21.485326+00:00"
  },
  "covered": [
-  {
-   "headline": "US adds Megaspeed to trade blacklist over AI chip controls",
-   "ts": "2026-11-24T03:07:22.002410+00:00"
-  },
   {
    "headline": "Zhangyou Dynamics raises hundreds of millions in yuan",
    "ts": "2026-11-24T03:37:22.769501+00:00"
@@ -2022,11 +2017,15 @@
   {
    "headline": "China issues guidelines promoting global expansion of AI models",
    "ts": "2026-11-26T02:37:22.945067+00:00"
+  },
+  {
+   "headline": "Wipro to absorb 3,000 BP finance staff in AI transformation deal",
+   "ts": "2026-11-26T03:07:21.485326+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 4
+  "count": 5
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4370,34 +4369,6 @@
  },
  "pending": [
   {
-   "id": "fc509d5dcb94321f",
-   "item": {
-    "id": "fc509d5dcb94321f",
-    "title": "Wipro to Onboard BP's 3,000-Member Finance Team in AI Transformation Deal",
-    "url": "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243360721-4e32a5c5-3f19-4006-ba27-a95eedff7327-6u69uo.webp",
-    "snippet": "BP has signed a supplier partnership with Wipro to transform its finance operations, with around 3,000 employees in India, Hungary, and Malaysia set to move to the Indian IT services company. The new operating model is expected to take effect in 2027, subject to applicable conditions. The transfer reflects a growing trend of Indian IT services firms taking over existing enterprise teams and operat…",
-    "published": "2026-11-25T12:37:08+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Wipro to absorb 3,000 BP finance staff in AI transformation deal",
-   "post": "BP has signed an AI transformation agreement with Wipro that will transfer around 3,000 finance operations employees in India, Hungary, and Malaysia to the Indian IT firm starting in 2027.",
-   "editor_note": "Verify effective date and whether local labor consultations are required for transferred staff.",
-   "support": 0.83,
-   "published_at": "2026-11-25T12:37:08+00:00",
-   "first_seen_at": "2026-11-25T12:37:23.202578+00:00",
-   "expires_at": "2026-11-27T00:37:08+00:00",
-   "decision": 1.72,
-   "priority": 7.434329,
-   "selection_reason": "Editorial importance; waiting 14.0h"
-  },
-  {
    "id": "b678a9f766b4b394",
    "item": {
     "id": "b678a9f766b4b394",
@@ -4422,8 +4393,8 @@
    "first_seen_at": "2026-11-25T12:07:23.352201+00:00",
    "expires_at": "2026-11-26T23:51:49+00:00",
    "decision": 1.63,
-   "priority": 7.383349,
-   "selection_reason": "Editorial importance; waiting 14.5h"
+   "priority": 7.369472,
+   "selection_reason": "Editorial importance; waiting 15.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4450,8 +4421,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.286497,
-   "selection_reason": "Editorial importance; waiting 13.0h"
+   "priority": 7.27262,
+   "selection_reason": "Editorial importance; waiting 13.5h"
   }
  ],
  "details_queue": [],
@@ -4782,74 +4753,15 @@
   "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value": "2026-11-26T01:37:58.840083+00:00",
   "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": "2026-11-26T01:37:58.840083+00:00",
   "https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks": "2026-11-26T02:07:48.403328+00:00",
-  "https://36kr.com/newsflashes/4085954054695555?f=rss": "2026-11-26T02:38:06.660141+00:00"
+  "https://36kr.com/newsflashes/4085954054695555?f=rss": "2026-11-26T02:38:06.660141+00:00",
+  "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership": "2026-11-26T03:07:50.388891+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 0,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
-  "e650fcb0108b1917": {
-   "imp": 1.56,
-   "ai": 0.85,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "218842c4258fe4c9": {
-   "imp": 1.99,
-   "ai": 0.89,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "83a62a4e1ebc1b89": {
-   "imp": 1.44,
-   "ai": 0.75,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "eb1572c43f96fc2e": {
-   "imp": 1.61,
-   "ai": 0.16,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "a1e600c78049ff29": {
-   "imp": 2.47,
-   "ai": 0.95,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "648cc0788f68503f": {
-   "imp": 2.12,
-   "ai": 0.96,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "1d563f2e18321b00": {
-   "imp": 1.79,
-   "ai": 0.93,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "4de68361c2bf0413": {
-   "imp": 2.18,
-   "ai": 0.93,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "7737f0bdbbad9d9b": {
-   "imp": 2.22,
-   "ai": 0.9,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "0866c2759159dc88": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "03bdf36905245c10": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
-  "cf84387796a27521": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-18T03:07:23.998117+00:00"
-  },
   "f67da9654c4ba219": {
    "imp": 2.32,
    "ai": 0.98,
@@ -25844,6 +25756,91 @@
    "imp": 0.16,
    "ai": 0.04,
    "ts": "2026-11-26T02:37:22.945067+00:00"
+  },
+  "c569bc411236abfe": {
+   "imp": 1.72,
+   "ai": 0.92,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "1f465765c1e89ed4": {
+   "imp": 0.94,
+   "ai": 0.65,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "29c0e18e1a1ed635": {
+   "imp": 1.42,
+   "ai": 0.92,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "71f328a8b5d816fa": {
+   "imp": 0.26,
+   "ai": 0.11,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "9256bb2cdaa4472c": {
+   "imp": 0.82,
+   "ai": 0.24,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "4820802c6f890da0": {
+   "imp": 1.59,
+   "ai": 0.9,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "c79000149a2e6b41": {
+   "imp": 1.81,
+   "ai": 0.87,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "5725805983580780": {
+   "imp": 1.8,
+   "ai": 0.96,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "cee332037157bbe1": {
+   "imp": 1.31,
+   "ai": 0.86,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "9ea8e2ce7fe8c176": {
+   "imp": 0.44,
+   "ai": 0.14,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "539421e05867a65d": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "dfe690d32ee9064d": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "27b5ac7c3a486173": {
+   "imp": 0.64,
+   "ai": 0.16,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "251f1f91d86547ec": {
+   "imp": 0.89,
+   "ai": 0.2,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "287e73caa2e48c1d": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "b0581b44e46590d5": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
+  },
+  "cfb5f281ab2cf114": {
+   "imp": 1.37,
+   "ai": 0.57,
+   "ts": "2026-11-26T03:07:21.485326+00:00"
   }
  }
 }
