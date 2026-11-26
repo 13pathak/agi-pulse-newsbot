@@ -1,25 +1,5 @@
 {
  "seen": {
-  "2ff6443dd4315fd9": "2026-11-19T06:07:23.026772+00:00",
-  "f57a7cb9dae2e1cc": "2026-11-19T06:07:23.026772+00:00",
-  "2b7cd1ebb74256da": "2026-11-19T06:07:23.026772+00:00",
-  "68858cad06c816e5": "2026-11-19T06:07:23.026772+00:00",
-  "c97523b0c0b867f1": "2026-11-19T06:07:23.026772+00:00",
-  "daf003fd90447b3d": "2026-11-19T06:07:23.026772+00:00",
-  "36d10970375f73af": "2026-11-19T06:07:23.026772+00:00",
-  "c3c7756f62d48d7a": "2026-11-19T06:37:26.587502+00:00",
-  "27a1dd641c14877b": "2026-11-19T06:37:26.587502+00:00",
-  "9ff7dce899f2ed3d": "2026-11-19T06:37:26.587502+00:00",
-  "449f7ec58fff55e6": "2026-11-19T07:07:22.128660+00:00",
-  "f543638b4117e617": "2026-11-19T07:07:22.128660+00:00",
-  "68f802bce4257242": "2026-11-19T07:07:22.128660+00:00",
-  "543782a143b5457c": "2026-11-19T07:07:22.128660+00:00",
-  "c861de055a763d9e": "2026-11-19T07:07:22.128660+00:00",
-  "25493c18b09c26f8": "2026-11-19T07:07:22.128660+00:00",
-  "053666f7c23e1d91": "2026-11-19T07:07:22.128660+00:00",
-  "9bc559f0dc193545": "2026-11-19T07:07:22.128660+00:00",
-  "eced480806a155a5": "2026-11-19T07:07:22.128660+00:00",
-  "1b00c6c971d2a745": "2026-11-19T07:07:22.128660+00:00",
   "776157cf22e3ea27": "2026-11-19T07:37:25.120830+00:00",
   "d6a200a2e77b006b": "2026-11-19T07:37:25.120830+00:00",
   "cfab8334273a4f92": "2026-11-19T07:37:25.120830+00:00",
@@ -1774,13 +1754,25 @@
   "7ba6d5f9ae854026": "2026-11-26T05:07:26.458046+00:00",
   "f6fb6761521759d3": "2026-11-26T05:37:21.103906+00:00",
   "f1c36cafce2f47c3": "2026-11-26T05:37:21.103906+00:00",
-  "d3aa48daa62df585": "2026-11-26T05:37:21.103906+00:00"
+  "d3aa48daa62df585": "2026-11-26T05:37:21.103906+00:00",
+  "22d53daf477426db": "2026-11-26T07:07:34.939374+00:00",
+  "66484e078ca0d3e6": "2026-11-26T07:07:34.939374+00:00",
+  "18b543321115c18f": "2026-11-26T07:07:34.939374+00:00",
+  "abeb7830ab9000d0": "2026-11-26T07:07:34.939374+00:00",
+  "bbe57857620ece67": "2026-11-26T07:07:34.939374+00:00",
+  "1750991a5b02eb09": "2026-11-26T07:07:34.939374+00:00",
+  "063fb992ec86b9e8": "2026-11-26T07:07:34.939374+00:00",
+  "9506ea8f3385d37b": "2026-11-26T07:07:34.939374+00:00",
+  "0769f64cce62a11f": "2026-11-26T07:07:34.939374+00:00",
+  "001774997188ec43": "2026-11-26T07:07:34.939374+00:00",
+  "20c69d1ef61b5e76": "2026-11-26T07:07:34.939374+00:00",
+  "6056e2563a4fa3f0": "2026-11-26T07:07:34.939374+00:00",
+  "7dc525128d2ba760": "2026-11-26T07:07:34.939374+00:00",
+  "b63ff3c4fd000724": "2026-11-26T07:07:34.939374+00:00",
+  "5d94a8a5295652da": "2026-11-26T07:07:34.939374+00:00",
+  "0629f92915a85a0b": "2026-11-26T07:07:34.939374+00:00"
  },
  "covered": [
-  {
-   "headline": "Ant Group open-sources LingSante Pulse health risk prediction model",
-   "ts": "2026-11-24T06:07:22.356294+00:00"
-  },
   {
    "headline": "CortexSpark Ventures launches 1,000 crore rupee deeptech fund",
    "ts": "2026-11-24T07:37:21.824116+00:00"
@@ -2000,11 +1992,15 @@
   {
    "headline": "Nvidia releases training datasets and fine-tuning recipe for Nemotron",
    "ts": "2026-11-26T05:37:21.103906+00:00"
+  },
+  {
+   "headline": "Nvidia halts chip shipments to Southeast Asia",
+   "ts": "2026-11-26T07:07:34.939374+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 9
+  "count": 10
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4397,8 +4393,36 @@
    "first_seen_at": "2026-11-26T05:07:26.458046+00:00",
    "expires_at": "2026-11-27T16:26:32+00:00",
    "decision": 1.22,
-   "priority": 8.422397,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
+   "priority": 8.457254,
+   "selection_reason": "Time-sensitive story; waiting 2.0h"
+  },
+  {
+   "id": "cec666d0421e8d1d",
+   "item": {
+    "id": "cec666d0421e8d1d",
+    "title": "Pine Labs Adds AI Agents To Merchant App For Sales Insights, Ad Campaigns",
+    "url": "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1772165223589-ew432e.webp",
+    "snippet": "Bengaluru-based fintech company Pine Labs has launched two AI agents on its merchant operating app, Pine Labs One, to help small businesses analyse transaction data and manage digital advertising campaigns. The tools, Guide and Marketer Agent, are the first in a series of agents being developed under the company’s Agentic Org platform. Pine Labs said they would be rolled out to millions of merchan…",
+    "published": "2026-11-26T05:39:30+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Pine Labs launches merchant app AI agents",
+   "post": "Bengaluru-based fintech company Pine Labs has launched two AI agents, Guide and Marketer Agent, on its Pine Labs One app to assist small businesses with transaction analysis and ad campaigns.",
+   "editor_note": "Confirm the planned rollout timeline and availability across merchant tiers in India.",
+   "support": 0.96,
+   "published_at": "2026-11-26T05:39:30+00:00",
+   "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
+   "expires_at": "2026-11-27T17:39:30+00:00",
+   "decision": 1.9,
+   "priority": 7.592554,
+   "selection_reason": "Time-sensitive story"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4425,16 +4449,41 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.189291,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.161405,
+   "selection_reason": "Editorial importance; waiting 17.5h"
+  },
+  {
+   "id": "80788bc9cb776030",
+   "item": {
+    "id": "80788bc9cb776030",
+    "title": "“博登智能”完成数亿元B轮融资",
+    "url": "https://36kr.com/newsflashes/4086248989485446?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，近日，“博登智能”宣布完成数亿元 B 轮融资。本轮融资由金雨茂物、甬元基金、粤科创投、招商致远资本、招证投资、宁波高新区科创基金共同参与。本轮资金将重点用于评测验证生态共建、全模态采集体系持续迭代、数据生产平台工程化升级，加速真实世界人工智能基础设施落地。",
+    "published": "2026-11-26T07:07:25+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Boden Intelligent raises hundreds of millions in B round",
+   "post": "Chinese startup Boden Intelligent has raised hundreds of millions of yuan in a Series B funding round to support multimodal data collection and real-world AI infrastructure development.",
+   "editor_note": "Translate 'hundreds of millions of yuan' accurately based on the exact funding figures if disclosed.",
+   "support": 0.93,
+   "published_at": "2026-11-26T07:07:25+00:00",
+   "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
+   "expires_at": "2026-11-27T19:07:25+00:00",
+   "decision": 1.45,
+   "priority": 6.983257,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://36kr.com/newsflashes/4066258760340615?f=rss": "2026-11-12T05:37:49.903588+00:00",
-  "https://36kr.com/p/4066338158695304?f=rss": "2026-11-12T05:37:49.903588+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan": "2026-11-12T06:07:48.804570+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push": "2026-11-12T06:37:56.695764+00:00",
   "https://www.leiphone.com/category/ai/b3ASOkGmqznTQWCH.html": "2026-11-12T07:08:40.163727+00:00",
   "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors": "2026-11-12T07:37:55.447846+00:00",
   "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india": "2026-11-12T08:08:22.501020+00:00",
@@ -4758,174 +4807,15 @@
   "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb": "2026-11-26T03:37:52.509043+00:00",
   "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount": "2026-11-26T04:08:19.111766+00:00",
   "https://36kr.com/newsflashes/4086093032417669?f=rss": "2026-11-26T05:07:52.832933+00:00",
-  "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T05:37:46.582769+00:00"
+  "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T05:37:46.582769+00:00",
+  "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1": "2026-11-26T07:08:01.442876+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 10
+  "takes": 11
  },
  "triage": {
-  "101074e9d29448f1": {
-   "imp": 0.45,
-   "ai": 0.03,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "4920d00e28ac4511": {
-   "imp": 1.52,
-   "ai": null,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "c82788cf566f6174": {
-   "imp": 1.07,
-   "ai": null,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "df43ff2e85ac97f4": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "96fdeabc83032dbc": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "53d452bfcc9ce670": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "d601bb5a7283cd23": {
-   "imp": 1.05,
-   "ai": 0.95,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "98ed3d24034e0815": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "7cc08f64ea44be9b": {
-   "imp": 0.2,
-   "ai": 0.01,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "74d4f687270513b1": {
-   "imp": 1.6,
-   "ai": 0.78,
-   "ts": "2026-11-18T06:07:29.542809+00:00"
-  },
-  "37fe55018d531733": {
-   "imp": 1.82,
-   "ai": 0.66,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "eaeeeaef9f221651": {
-   "imp": 1.89,
-   "ai": 0.93,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "92122528d189b74f": {
-   "imp": 1.98,
-   "ai": 0.99,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "d660f4c51e8d929b": {
-   "imp": 2.06,
-   "ai": 0.83,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "3a97091b35f5ccd9": {
-   "imp": 1.43,
-   "ai": 0.87,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "a4bf1e5b707f99f4": {
-   "imp": 1.86,
-   "ai": 0.96,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "a7c45978609d523f": {
-   "imp": 1.42,
-   "ai": 0.96,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "3b054b6bc9455595": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "caa7b4c210c6171f": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "51991764ed6a5be2": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "e1867cafd3df8553": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-18T06:37:21.744958+00:00"
-  },
-  "00d9c1f9b3e48bae": {
-   "imp": 1.31,
-   "ai": 0.82,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "4544e1a0a66d3e56": {
-   "imp": 0.39,
-   "ai": 0.06,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "9727643803e6dbd2": {
-   "imp": 1.29,
-   "ai": 0.96,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "1d9b9d9f1a2f5df6": {
-   "imp": 0.31,
-   "ai": 0.04,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "b0caaac8b4105660": {
-   "imp": 1.45,
-   "ai": 0.74,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "9c147e603400f18f": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "7a4d124930ea4ce9": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "ed5cd0f4ea129f41": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "34e6c257057c1901": {
-   "imp": 0.26,
-   "ai": 0.06,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "82c992b9b81a0c0e": {
-   "imp": 1.13,
-   "ai": 0.53,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
-  "793abd73d80c5d71": {
-   "imp": 0.54,
-   "ai": 0.06,
-   "ts": "2026-11-18T07:07:22.056639+00:00"
-  },
   "eea45d967dc1ee28": {
    "imp": 1.68,
    "ai": 0.87,
@@ -26010,6 +25900,206 @@
    "imp": 0.13,
    "ai": 0.03,
    "ts": "2026-11-26T06:07:20.946477+00:00"
+  },
+  "7dc525128d2ba760": {
+   "imp": 0.6,
+   "ai": null,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "28ff61e64ba3a50e": {
+   "imp": 1.32,
+   "ai": 0.78,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "80788bc9cb776030": {
+   "imp": 1.45,
+   "ai": 0.91,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "6d1c85ee1ef72c2c": {
+   "imp": 1.42,
+   "ai": 0.69,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "18b543321115c18f": {
+   "imp": 1.62,
+   "ai": 0.89,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "11b760bc9b06ff8a": {
+   "imp": 0.81,
+   "ai": 0.31,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "20c69d1ef61b5e76": {
+   "imp": 0.69,
+   "ai": 0.59,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "bbe57857620ece67": {
+   "imp": 1.46,
+   "ai": 0.97,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "001774997188ec43": {
+   "imp": 1.91,
+   "ai": 0.98,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "063fb992ec86b9e8": {
+   "imp": 2.05,
+   "ai": 0.95,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "22d53daf477426db": {
+   "imp": 1.92,
+   "ai": 0.96,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "1750991a5b02eb09": {
+   "imp": 1.35,
+   "ai": 0.96,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "78a6941e072e4b6c": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "81a4c0f939066de4": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "075d43774b96c7b4": {
+   "imp": 0.35,
+   "ai": 0.04,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "45ae6dba965c37f7": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "66484e078ca0d3e6": {
+   "imp": 1.75,
+   "ai": 0.7,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "e1c9028ead43b7b7": {
+   "imp": 1.44,
+   "ai": 0.98,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "a15714f0a9cce685": {
+   "imp": 0.45,
+   "ai": 0.13,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "f1b5bbb483283f45": {
+   "imp": 0.24,
+   "ai": 0.05,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "037ea20fa460a5cc": {
+   "imp": 0.3,
+   "ai": 0.09,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "0b979c00d560a969": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "79bfdf102b1ba60b": {
+   "imp": 0.58,
+   "ai": 0.17,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "2cad959c9842c092": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "ba4315a363e71ec8": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "160a0658c96cadc6": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "30d5241175f9f66f": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "f53392a84dcd89e3": {
+   "imp": 0.19,
+   "ai": 0.03,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "57d0b727f5c9811e": {
+   "imp": 0.72,
+   "ai": 0.12,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "d2e9714075bc23a8": {
+   "imp": 0.54,
+   "ai": 0.07,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "f013a86e6c5d6fde": {
+   "imp": 0.32,
+   "ai": 0.1,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "355e030387a4d881": {
+   "imp": 0.29,
+   "ai": 0.07,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "abeb7830ab9000d0": {
+   "imp": 1.57,
+   "ai": 0.73,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "a0484c720781ced2": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "487b786b8e721612": {
+   "imp": 0.18,
+   "ai": 0.03,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "79ca892a8618e98d": {
+   "imp": 0.27,
+   "ai": 0.03,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "0963c7df97885021": {
+   "imp": 0.37,
+   "ai": 0.08,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "18a19a6822973aae": {
+   "imp": 0.68,
+   "ai": 0.09,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "f0b6aa6d0801b2e6": {
+   "imp": 0.39,
+   "ai": 0.11,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
+  },
+  "7fcbebbe6634ec84": {
+   "imp": 0.6,
+   "ai": 0.05,
+   "ts": "2026-11-26T07:07:34.939374+00:00"
   }
  }
 }
