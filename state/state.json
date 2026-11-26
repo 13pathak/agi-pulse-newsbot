@@ -1,14 +1,5 @@
 {
  "seen": {
-  "fab0875185d3cf10": "2026-11-19T12:37:24.282971+00:00",
-  "3683917047df98fc": "2026-11-19T12:37:24.282971+00:00",
-  "dd42bb79c10d48ce": "2026-11-19T12:37:24.282971+00:00",
-  "fdfefb89d61360e3": "2026-11-19T12:37:24.282971+00:00",
-  "fff5db86de3b8775": "2026-11-19T12:37:24.282971+00:00",
-  "bd1fc6d49a286a92": "2026-11-19T12:37:24.282971+00:00",
-  "ac350395ded242de": "2026-11-19T12:37:24.282971+00:00",
-  "dd0fceef45fef495": "2026-11-19T12:37:24.282971+00:00",
-  "0250765af6030c2e": "2026-11-19T12:37:24.282971+00:00",
   "ac547cb1cef4db8e": "2026-11-19T13:07:37.274771+00:00",
   "1fe5fdadb1357fb8": "2026-11-19T13:07:37.274771+00:00",
   "d91e07b92af7c4cc": "2026-11-19T13:07:37.274771+00:00",
@@ -1751,13 +1742,15 @@
   "2aeafe11d7c379e4": "2026-11-26T12:07:24.634480+00:00",
   "f54f157e39a3b44b": "2026-11-26T12:07:24.634480+00:00",
   "47792f1d01309c90": "2026-11-26T12:07:24.634480+00:00",
-  "fa2f0df7cd764ef2": "2026-11-26T12:07:24.634480+00:00"
+  "fa2f0df7cd764ef2": "2026-11-26T12:07:24.634480+00:00",
+  "d6cc2ba679b985b9": "2026-11-26T12:37:24.269704+00:00",
+  "9c508e8f7f59a3b7": "2026-11-26T12:37:24.269704+00:00",
+  "0ebe4636389841ae": "2026-11-26T12:37:24.269704+00:00",
+  "e5f82a532fcfa1d3": "2026-11-26T12:37:24.269704+00:00",
+  "f920c098d5975096": "2026-11-26T12:37:24.269704+00:00",
+  "79781da1c5cf2705": "2026-11-26T12:37:24.269704+00:00"
  },
  "covered": [
-  {
-   "headline": "Google launches Momentum initiative for Indian startups",
-   "ts": "2026-11-24T12:37:22.657831+00:00"
-  },
   {
    "headline": "Cashfree enables AI agents to make wallet payments",
    "ts": "2026-11-24T13:07:25.091835+00:00"
@@ -1969,11 +1962,15 @@
   {
    "headline": "Microsoft details ARTEX AI framework used in automated cyberattacks",
    "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  {
+   "headline": "Tencent publishes Nature paper on AI dual-target peptide design",
+   "ts": "2026-11-26T12:37:24.269704+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4367,35 +4364,6 @@
  },
  "pending": [
   {
-   "id": "79781da1c5cf2705",
-   "item": {
-    "id": "79781da1c5cf2705",
-    "title": "腾讯以第一单位首登《Nature》，AI从头设计双靶点多肽",
-    "url": "https://36kr.com/newsflashes/4086514623723652?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "11月26日，国际顶刊《Nature》主刊正式刊发腾讯生命科学实验室主导完成的最新研究论文《De novo design of high-potency dual-target therapeutic peptides with ORIDTP》。该研究构建的高活性双靶点治疗性多肽AI从头设计平台ORIDTP，为破解双靶点药物研发“创新空间窄、靶点平衡难、筛选效率低”三大难题，提供了有效解决方案。这是腾讯生命科学实验室首次以第一单位登上《Nature》主刊，标志着团队在AI双靶点治疗性多肽从头设计方向取得重要进展。",
-    "published": "2026-11-26T11:53:35+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Tencent publishes Nature paper on AI dual-target peptide design",
-   "post": "Tencent Life Science Laboratory published a study in Nature detailing ORIDTP, an AI platform designed for the de novo generation of high-potency dual-target therapeutic peptides.",
-   "editor_note": "Verify paper title 'De novo design of high-potency dual-target therapeutic peptides with ORIDTP' and publication date in Nature.",
-   "support": 0.96,
-   "published_at": "2026-11-26T11:53:35+00:00",
-   "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
-   "expires_at": "2026-11-27T23:53:35+00:00",
-   "decision": 1.88,
-   "priority": 7.620265,
-   "selection_reason": "Time-sensitive story"
-  },
-  {
    "id": "80788bc9cb776030",
    "item": {
     "id": "80788bc9cb776030",
@@ -4421,8 +4389,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.156768,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.174126,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "f373a24898da7d32",
@@ -4449,8 +4417,8 @@
    "first_seen_at": "2026-11-26T09:07:23.688973+00:00",
    "expires_at": "2026-11-27T20:13:14+00:00",
    "decision": 1.7,
-   "priority": 7.145768,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.163125,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "c8a9ac36cda6e381",
@@ -4477,8 +4445,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T22:00:01+00:00",
    "decision": 1.8,
-   "priority": 7.103541,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.120898,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "c0f2de19f05669ce",
@@ -4505,36 +4473,8 @@
    "first_seen_at": "2026-11-26T11:07:23.515086+00:00",
    "expires_at": "2026-11-27T21:54:40+00:00",
    "decision": 1.73,
-   "priority": 7.077731,
-   "selection_reason": "Editorial importance; waiting 1.0h"
-  },
-  {
-   "id": "ca6d641a2bb7646a",
-   "item": {
-    "id": "ca6d641a2bb7646a",
-    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
-    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
-    "published": "2026-11-25T12:49:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
-   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
-   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
-   "support": 0.95,
-   "published_at": "2026-11-25T12:49:01+00:00",
-   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
-   "expires_at": "2026-11-27T00:49:01+00:00",
-   "decision": 1.26,
-   "priority": 7.022595,
-   "selection_reason": "Editorial importance; waiting 22.5h"
+   "priority": 7.095088,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "242edb948acd8745",
@@ -4562,8 +4502,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.012628,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.029985,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4591,8 +4531,36 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 6.991601,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.008959,
+   "selection_reason": "Editorial importance; waiting 3.0h"
+  },
+  {
+   "id": "ca6d641a2bb7646a",
+   "item": {
+    "id": "ca6d641a2bb7646a",
+    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
+    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
+    "source": "Inc42",
+    "image": "",
+    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
+    "published": "2026-11-25T12:49:01+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
+   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
+   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
+   "support": 0.95,
+   "published_at": "2026-11-25T12:49:01+00:00",
+   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
+   "expires_at": "2026-11-27T00:49:01+00:00",
+   "decision": 1.26,
+   "priority": 7.008709,
+   "selection_reason": "Editorial importance; waiting 23.0h"
   },
   {
    "id": "09d9e4445ef2d9b1",
@@ -4621,7 +4589,7 @@
    "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.53,
-   "priority": 6.883713,
+   "priority": 6.90975,
    "selection_reason": "Editorial importance"
   }
  ],
@@ -4949,109 +4917,15 @@
   "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia": "2026-11-26T09:08:35.898816+00:00",
   "https://36kr.com/newsflashes/4086392240990857?f=rss": "2026-11-26T09:37:59.229607+00:00",
   "https://36kr.com/newsflashes/4086315160349313?f=rss": "2026-11-26T11:07:57.964031+00:00",
-  "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": "2026-11-26T12:08:17.995374+00:00"
+  "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks": "2026-11-26T12:08:17.995374+00:00",
+  "https://36kr.com/newsflashes/4086514623723652?f=rss": "2026-11-26T12:37:51.561567+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 18
+  "takes": 19
  },
  "triage": {
-  "82df8b1098237927": {
-   "imp": 1.6,
-   "ai": null,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "07e36cf36e9d0810": {
-   "imp": 2.71,
-   "ai": 0.95,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "32bff37675d6f2cf": {
-   "imp": 1.5,
-   "ai": 0.75,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "e89cb5a1f1366e8c": {
-   "imp": 2.37,
-   "ai": 0.86,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "0d1b11d2d19921a7": {
-   "imp": 1.62,
-   "ai": 0.8,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "2ca4066c8014e29d": {
-   "imp": 1.42,
-   "ai": null,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "72f4dae2912c23a9": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "bf35e281a9cbdc1b": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "9965eecd6d7d79e3": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "69950f6e2425ad22": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "29450b85ff3aedd0": {
-   "imp": 0.24,
-   "ai": 0.1,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "45538863e91593df": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "1522dcec10ff13e6": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "0e2d1e5225ac9d44": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "e7994a7921c0d7b5": {
-   "imp": 1.05,
-   "ai": 0.13,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "c4eca6b9e0ee48eb": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "7cb9bc8457283c93": {
-   "imp": 0.24,
-   "ai": 0.05,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "24e6150f14e42994": {
-   "imp": 0.21,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
-  "2d06f05406226513": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-18T12:37:24.202073+00:00"
-  },
   "ce416493dbd77e39": {
    "imp": 2.49,
    "ai": null,
@@ -26051,6 +25925,111 @@
    "imp": 0.11,
    "ai": 0.03,
    "ts": "2026-11-26T12:07:24.634480+00:00"
+  },
+  "d6cc2ba679b985b9": {
+   "imp": 2.28,
+   "ai": 0.96,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "0ebe4636389841ae": {
+   "imp": 1.23,
+   "ai": 0.5,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "e5f82a532fcfa1d3": {
+   "imp": 1.25,
+   "ai": 0.4,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "f920c098d5975096": {
+   "imp": 0.28,
+   "ai": 0.42,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "9c508e8f7f59a3b7": {
+   "imp": 1.31,
+   "ai": 0.89,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "6cddbe5ef50b3ee5": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "0ad431acfcd68e7f": {
+   "imp": 1.73,
+   "ai": 0.44,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "86a440a8b98a9446": {
+   "imp": 1.21,
+   "ai": 0.43,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "96af22bbb5fa65ea": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "52447bcacd6b97cf": {
+   "imp": 0.37,
+   "ai": 0.04,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "9ec509370c4f68c2": {
+   "imp": 0.54,
+   "ai": 0.13,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "8c3be7874eab837f": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "41049a6f7d899061": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "ee57792040403b18": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "6357e716f51407ca": {
+   "imp": 0.13,
+   "ai": 0.04,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "16c5687a765ac083": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "a84b41beff87323f": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "d7f3b7473a48b0bf": {
+   "imp": 0.27,
+   "ai": 0.06,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "d6b36377a3f004fa": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "1bbe78a0baf113ff": {
+   "imp": 0.22,
+   "ai": 0.05,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
+  },
+  "fbf4635c72a6ea20": {
+   "imp": 0.18,
+   "ai": 0.1,
+   "ts": "2026-11-26T12:37:24.269704+00:00"
   }
  }
 }
