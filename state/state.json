@@ -1,11 +1,5 @@
 {
  "seen": {
-  "8ea62b1fb64a9c75": "2026-11-19T08:07:26.994967+00:00",
-  "8ef4e478dd656ae4": "2026-11-19T08:07:26.994967+00:00",
-  "5ff3427df281e03e": "2026-11-19T08:07:26.994967+00:00",
-  "8d1318dddeb53ec9": "2026-11-19T08:07:26.994967+00:00",
-  "50e3ea47cbae988d": "2026-11-19T08:07:26.994967+00:00",
-  "02cad8eaae446dc5": "2026-11-19T08:07:26.994967+00:00",
   "3c4fcc55a7d22c8b": "2026-11-19T08:37:26.861287+00:00",
   "273d336d37591ea3": "2026-11-19T08:37:26.861287+00:00",
   "5ce2be25f920ad27": "2026-11-19T08:37:26.861287+00:00",
@@ -1773,13 +1767,16 @@
   "6d1c85ee1ef72c2c": "2026-11-26T07:37:22.344860+00:00",
   "22e29f6ad6e73845": "2026-11-26T07:37:22.344860+00:00",
   "28ff61e64ba3a50e": "2026-11-26T07:37:22.344860+00:00",
-  "a9e589eb2ddb89fe": "2026-11-26T07:37:22.344860+00:00"
+  "a9e589eb2ddb89fe": "2026-11-26T07:37:22.344860+00:00",
+  "afbe8a1dfcf0b92e": "2026-11-26T08:07:36.120825+00:00",
+  "9327a647c67dd591": "2026-11-26T08:07:36.120825+00:00",
+  "2c7105604d30b145": "2026-11-26T08:07:36.120825+00:00",
+  "3297d6504997aba0": "2026-11-26T08:07:36.120825+00:00",
+  "be49b5911a18ca81": "2026-11-26T08:07:36.120825+00:00",
+  "2fd4a3c62c671462": "2026-11-26T08:07:36.120825+00:00",
+  "b03b1415345931f4": "2026-11-26T08:07:36.120825+00:00"
  },
  "covered": [
-  {
-   "headline": "Baidu open-sources ERNIE 5.5 Flash Preview model",
-   "ts": "2026-11-24T08:07:21.465978+00:00"
-  },
   {
    "headline": "Lenskart pilots AI eye test Drysh and expands smart glasses",
    "ts": "2026-11-24T08:37:22.424714+00:00"
@@ -1999,11 +1996,15 @@
   {
    "headline": "BharatGen launches Patram 1.5 vision-language model",
    "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  {
+   "headline": "Nothing unveils Ear note AI earbuds with physical buttons",
+   "ts": "2026-11-26T08:07:36.120825+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-26",
-  "count": 11
+  "count": 12
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4374,37 +4375,15 @@
    "desc": "30秒一镜到底，可自动编排镜头",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/512942.html": {
+   "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+   "desc": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "b03b1415345931f4",
-   "item": {
-    "id": "b03b1415345931f4",
-    "title": "Nothing Ear (note) design revealed ahead of 8 December launch: AI recording, transcription and TALK buttons confirmed",
-    "url": "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html",
-    "source": "Mint",
-    "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/jsw1_1795667076785_MWWL_1795667080818_AWOH_bffdac37-a318-416a-9e89-afad64aaa788_znmY.png",
-    "snippet": "Nothing has revealed the design of its Ear (note) AI earbuds ahead of the 8 December launch, showing a metallic charging case with dedicated TALK and RECORD buttons. The earbuds are expected to support AI-powered call recording, meeting transcription, summaries and Hi-Res Audio.",
-    "published": "2026-11-26T04:26:32+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 8,
-   "urgency": "timely",
-   "headline": "Nothing unveils Ear note AI earbuds with physical buttons",
-   "post": "Nothing revealed the design of its upcoming Ear note earbuds, featuring dedicated talk and record buttons designed to support AI call recording, transcription, and meeting summaries.",
-   "editor_note": "Confirm software availability and specific regional rollout plans for the AI features.",
-   "support": 0.94,
-   "published_at": "2026-11-26T04:26:32+00:00",
-   "first_seen_at": "2026-11-26T05:07:26.458046+00:00",
-   "expires_at": "2026-11-27T16:26:32+00:00",
-   "decision": 1.22,
-   "priority": 8.474494,
-   "selection_reason": "Time-sensitive story; waiting 2.5h"
-  },
   {
    "id": "cec666d0421e8d1d",
    "item": {
@@ -4430,8 +4409,8 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T17:39:30+00:00",
    "decision": 1.9,
-   "priority": 7.609794,
-   "selection_reason": "Time-sensitive story"
+   "priority": 7.627288,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "ca6d641a2bb7646a",
@@ -4458,8 +4437,8 @@
    "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
    "expires_at": "2026-11-27T00:49:01+00:00",
    "decision": 1.26,
-   "priority": 7.147613,
-   "selection_reason": "Editorial importance; waiting 18.0h"
+   "priority": 7.133618,
+   "selection_reason": "Editorial importance; waiting 18.5h"
   },
   {
    "id": "80788bc9cb776030",
@@ -4487,14 +4466,12 @@
    "first_seen_at": "2026-11-26T07:07:34.939374+00:00",
    "expires_at": "2026-11-27T19:07:25+00:00",
    "decision": 1.45,
-   "priority": 7.000496,
-   "selection_reason": "Editorial importance"
+   "priority": 7.01799,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors": "2026-11-12T07:37:55.447846+00:00",
-  "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india": "2026-11-12T08:08:22.501020+00:00",
   "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html": "2026-11-12T08:41:48.567861+00:00",
   "https://elevenlabs.io/blog/nvidia": "2026-11-12T09:08:26.946706+00:00",
   "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1": "2026-11-12T09:40:59.936706+00:00",
@@ -4817,49 +4794,15 @@
   "https://36kr.com/newsflashes/4086093032417669?f=rss": "2026-11-26T05:07:52.832933+00:00",
   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": "2026-11-26T05:37:46.582769+00:00",
   "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1": "2026-11-26T07:08:01.442876+00:00",
-  "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing": "2026-11-26T07:37:52.466258+00:00"
+  "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing": "2026-11-26T07:37:52.466258+00:00",
+  "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html": "2026-11-26T08:09:53.502708+00:00"
  },
  "details_daily": {
   "date": "2026-11-26",
   "count": 1,
-  "takes": 12
+  "takes": 13
  },
  "triage": {
-  "95c4ec37c9a4eb2b": {
-   "imp": 0.99,
-   "ai": 0.92,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
-  "b24d4488acc7fefb": {
-   "imp": 0.71,
-   "ai": 0.93,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
-  "7cd204ece6218b90": {
-   "imp": 1.22,
-   "ai": 0.83,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
-  "4abdf96f08b0fa67": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
-  "e49fddbc2059e8ae": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
-  "e744a645f6f102c2": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
-  "e023766c56f85e3d": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-18T08:07:23.551626+00:00"
-  },
   "813e302ccb617cc1": {
    "imp": 1.16,
    "ai": null,
@@ -26064,6 +26007,61 @@
    "imp": 1.79,
    "ai": 0.17,
    "ts": "2026-11-26T07:37:22.344860+00:00"
+  },
+  "3297d6504997aba0": {
+   "imp": 0.52,
+   "ai": 0.8,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "be49b5911a18ca81": {
+   "imp": 0.23,
+   "ai": 0.69,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "afbe8a1dfcf0b92e": {
+   "imp": 1.5,
+   "ai": 0.91,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "2c7105604d30b145": {
+   "imp": 0.66,
+   "ai": 0.91,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "2fd4a3c62c671462": {
+   "imp": 0.66,
+   "ai": 0.63,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "9327a647c67dd591": {
+   "imp": 1.14,
+   "ai": 0.84,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "50437eaed7f055dd": {
+   "imp": 0.83,
+   "ai": 0.61,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "e3ebec94a6e71df7": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "6a031c5eedc820ca": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "f5ae8c8ac35a4f67": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
+  },
+  "7f438c406446749a": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-26T08:07:36.120825+00:00"
   }
  }
 }
