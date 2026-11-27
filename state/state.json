@@ -1,9 +1,5 @@
 {
  "seen": {
-  "c35555aac72b9172": "2026-11-20T09:07:32.634470+00:00",
-  "f29b9e3c6ef27371": "2026-11-20T09:07:32.634470+00:00",
-  "5bf7961dcfca4bb4": "2026-11-20T09:07:32.634470+00:00",
-  "809d99b8090393ab": "2026-11-20T09:07:32.634470+00:00",
   "ab2e536226fee276": "2026-11-20T09:37:21.973186+00:00",
   "90a7bf9e8ca4369d": "2026-11-20T09:37:21.973186+00:00",
   "234b0febc4b0189b": "2026-11-20T09:37:21.973186+00:00",
@@ -1647,13 +1643,11 @@
   "4d9d55e7b3932311": "2026-11-27T08:37:22.505437+00:00",
   "c055c469a1dcfa79": "2026-11-27T08:37:22.505437+00:00",
   "72c6939bba924002": "2026-11-27T08:37:22.505437+00:00",
-  "979537701aab32eb": "2026-11-27T08:37:22.505437+00:00"
+  "979537701aab32eb": "2026-11-27T08:37:22.505437+00:00",
+  "f76f0ca06a7157bf": "2026-11-27T09:07:23.521383+00:00",
+  "b382bfc93d4ee724": "2026-11-27T09:07:23.521383+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI and AMD use AI to optimize GPU chip circuit designs",
-   "ts": "2026-11-25T09:07:22.417990+00:00"
-  },
   {
    "headline": "VU Venture Partners enters India to invest in early-stage AI startups",
    "ts": "2026-11-25T09:37:23.630805+00:00"
@@ -1873,11 +1867,15 @@
   {
    "headline": "China National Bureau of Statistics reports AI computing demand growth",
    "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  {
+   "headline": "Alipay launches Car Assistant 3.0 in-car AI agent",
+   "ts": "2026-11-27T09:07:23.521383+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 16
+  "count": 17
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4375,8 +4373,8 @@
    "first_seen_at": "2026-11-27T05:07:24.732633+00:00",
    "expires_at": "2026-11-28T14:58:00+00:00",
    "decision": 1.44,
-   "priority": 7.041593,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.058964,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "ce2e0603d85ba78e",
@@ -4404,8 +4402,8 @@
    "first_seen_at": "2026-11-27T06:37:21.405182+00:00",
    "expires_at": "2026-11-28T18:09:07+00:00",
    "decision": 1.45,
-   "priority": 7.039714,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.057085,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4432,8 +4430,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.025904,
-   "selection_reason": "Editorial importance"
+   "priority": 7.043275,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "81c7402b92ff6c29",
@@ -4462,8 +4460,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.006396,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.032453,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4492,8 +4490,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 6.95854,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.984596,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4522,13 +4520,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.92854,
-   "selection_reason": "Editorial importance; waiting 6.0h"
+   "priority": 6.954596,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer": "2026-11-13T08:39:46.781857+00:00",
   "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00",
   "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "2026-11-13T09:38:30.404318+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
@@ -4854,79 +4851,15 @@
   "https://entrackr.com/news/swiggys-instamart-to-cut-340-roles-amid-restructuring-and-genai-push-12845148": "2026-11-27T07:08:11.325263+00:00",
   "https://36kr.com/newsflashes/4087393174141577?f=rss": "2026-11-27T07:37:46.826079+00:00",
   "https://36kr.com/newsflashes/4087704722061960?f=rss": "2026-11-27T08:08:25.135045+00:00",
-  "https://36kr.com/newsflashes/4087340087753090?f=rss": "2026-11-27T08:39:43.939974+00:00"
+  "https://36kr.com/newsflashes/4087340087753090?f=rss": "2026-11-27T08:39:43.939974+00:00",
+  "https://36kr.com/newsflashes/4087760611178888?f=rss": "2026-11-27T09:10:06.741273+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 14
+  "takes": 15
  },
  "triage": {
-  "cffa83add41d5d2f": {
-   "imp": 1.29,
-   "ai": null,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "c5dada3180d6f9a2": {
-   "imp": 0.49,
-   "ai": 0.1,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "f8f19df2493f100c": {
-   "imp": 2.23,
-   "ai": 0.9,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "0b26d6c31cc5bb9f": {
-   "imp": 0.14,
-   "ai": 0.05,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "ad8a9f6346609ba9": {
-   "imp": 1.34,
-   "ai": 0.96,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "92d434f9d3482e6d": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "b0e862b3b87c0a67": {
-   "imp": 1.59,
-   "ai": 0.93,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "09d1c221f98cb092": {
-   "imp": 0.45,
-   "ai": 0.11,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "db250979562e999a": {
-   "imp": 1.84,
-   "ai": 0.95,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "13485ae4006664fe": {
-   "imp": 1.34,
-   "ai": 0.82,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "840f8a376243392e": {
-   "imp": 0.69,
-   "ai": 0.37,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "b0fc4fdfa1e3e251": {
-   "imp": 0.69,
-   "ai": 0.3,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
-  "a6fc293878cbf881": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-19T09:07:24.974402+00:00"
-  },
   "922cc9edad19e56f": {
    "imp": 2.13,
    "ai": 0.98,
@@ -25301,6 +25234,71 @@
    "imp": 0.12,
    "ai": 0.02,
    "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "9cd85674dd48295b": {
+   "imp": 0.89,
+   "ai": 0.08,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "b382bfc93d4ee724": {
+   "imp": 1.38,
+   "ai": 0.94,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "f76f0ca06a7157bf": {
+   "imp": 1.21,
+   "ai": 0.48,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "81764a4fe5171b61": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "3e7f11d2b1af3ba4": {
+   "imp": 0.12,
+   "ai": 0.05,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "35790f051e0da12f": {
+   "imp": 0.12,
+   "ai": 0.08,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "c04245d13d552c95": {
+   "imp": 0.3,
+   "ai": 0.08,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "13cf8c61a58af051": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "2b721653720f9a55": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "81da451de88ed322": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "c43aee78eaa544f8": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "87ad997165b72a88": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "ababfaf7b178f7c0": {
+   "imp": 0.19,
+   "ai": 0.08,
+   "ts": "2026-11-27T09:07:23.521383+00:00"
   }
  }
 }
