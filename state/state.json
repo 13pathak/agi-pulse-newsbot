@@ -1,12 +1,5 @@
 {
  "seen": {
-  "6491dffe540665fa": "2026-11-20T14:37:27.350385+00:00",
-  "d48a1c5f809916b7": "2026-11-20T14:37:27.350385+00:00",
-  "4533e5810a89cb6f": "2026-11-20T14:37:27.350385+00:00",
-  "558c358b1b9ea815": "2026-11-20T14:37:27.350385+00:00",
-  "6dc73a3f2d804f8a": "2026-11-20T14:37:27.350385+00:00",
-  "299291fdd5181a56": "2026-11-20T14:37:27.350385+00:00",
-  "5fe0efb0a285ee7f": "2026-11-20T14:37:27.350385+00:00",
   "05d97431e50b773a": "2026-11-20T15:07:25.281663+00:00",
   "a0c9f9809359fa81": "2026-11-20T15:07:25.281663+00:00",
   "f0e77c900b9f7797": "2026-11-20T15:07:25.281663+00:00",
@@ -1615,7 +1608,8 @@
   "a70c041fb75e2c52": "2026-11-27T13:37:21.921287+00:00",
   "0f99575864156ade": "2026-11-27T14:07:22.720233+00:00",
   "24644713102c0e39": "2026-11-27T14:07:22.720233+00:00",
-  "81c7402b92ff6c29": "2026-11-27T14:07:22.720233+00:00"
+  "81c7402b92ff6c29": "2026-11-27T14:07:22.720233+00:00",
+  "0701b6365593a13f": "2026-11-27T14:37:24.285755+00:00"
  },
  "covered": [
   {
@@ -1837,11 +1831,15 @@
   {
    "headline": "Touchstone AI introduces OS-Omni cross-platform agent benchmark",
    "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  {
+   "headline": "ByteDance Seed researchers introduce Mixture-of-Loops Transformer",
+   "ts": "2026-11-27T14:37:24.285755+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 26
+  "count": 27
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4327,64 +4325,6 @@
  },
  "pending": [
   {
-   "id": "0701b6365593a13f",
-   "item": {
-    "id": "0701b6365593a13f",
-    "title": "Mixture-of-Loops Transformer",
-    "url": "https://arxiv.org/abs/2611.34923",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: ByteDance Seed. Upvotes: 65. Abstract: Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings and reads current-loop local KV with preceding-loop memory KV at earlier positions for efficiency. MoLT-KV eliminates same-position cross-loop dependence and, paired with loop forcing for parallel training, unlocks single-traversal Mixture-of-Loops (MoL) decoding beyond the training loop horizon. To balance efficiency and quality, we introduce U-shaped MoLT (U-MoLT), which separates memory construction from prediction readout and skips unused decoder traversals without changing predictions. In 400B-token pretraining, U-MoLT outperforms OLMo3 across 700M/1.5B dense and 3B MoE models, achieving 1.7x validation cross-entropy (CE) token efficiency at 700M while improving 3B MoE 10-domain perplexity by 0.75 and 10-task accuracy by 2.1 percentage points. In 100B-token continued pretraining of Qwen3.5-0.8B-Base, our U-MoLT adaptation lowers CE on all 11 domains over the matched baseline with 1…",
-    "published": "2026-11-26T00:00:00+00:00",
-    "upvotes": 65,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34923.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "ByteDance Seed researchers introduce Mixture-of-Loops Transformer",
-   "post": "Researchers at ByteDance Seed introduce the Mixture-of-Loops Transformer, which uses keys and values as memory for selective reuse across depths to improve token efficiency.",
-   "editor_note": "Check pretraining token scale (400B tokens) and baseline comparisons mentioned in the abstract.",
-   "support": 0.97,
-   "published_at": "2026-11-26T00:00:00+00:00",
-   "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
-   "expires_at": "2026-11-30T00:00:00+00:00",
-   "decision": 1.27,
-   "priority": 7.245002,
-   "selection_reason": "Editorial importance; waiting 11.5h"
-  },
-  {
-   "id": "0f316b663c9a5e45",
-   "item": {
-    "id": "0f316b663c9a5e45",
-    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
-    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
-    "published": "2026-11-27T07:28:15+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "UK regulator warns AI agents must maintain user control",
-   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
-   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
-   "support": 0.56,
-   "published_at": "2026-11-27T07:28:15+00:00",
-   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
-   "expires_at": "2026-11-28T19:28:15+00:00",
-   "decision": 1.58,
-   "priority": 7.216878,
-   "selection_reason": "Editorial importance; waiting 6.0h"
-  },
-  {
    "id": "ce17b50be0053c86",
    "item": {
     "id": "ce17b50be0053c86",
@@ -4411,8 +4351,36 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.215002,
-   "selection_reason": "Editorial importance; waiting 11.5h"
+   "priority": 7.241006,
+   "selection_reason": "Editorial importance; waiting 12.0h"
+  },
+  {
+   "id": "0f316b663c9a5e45",
+   "item": {
+    "id": "0f316b663c9a5e45",
+    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
+    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
+    "published": "2026-11-27T07:28:15+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "UK regulator warns AI agents must maintain user control",
+   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
+   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
+   "support": 0.56,
+   "published_at": "2026-11-27T07:28:15+00:00",
+   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
+   "expires_at": "2026-11-28T19:28:15+00:00",
+   "decision": 1.58,
+   "priority": 7.234254,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "63bc89be998f9e5d",
@@ -4439,8 +4407,8 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 7.059183,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.076559,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   }
  ],
  "details_queue": [],
@@ -4770,64 +4738,15 @@
   "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": "2026-11-27T12:38:38.620301+00:00",
   "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform": "2026-11-27T13:08:15.803898+00:00",
   "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services": "2026-11-27T13:38:02.371149+00:00",
-  "https://arxiv.org/abs/2611.34232": "2026-11-27T14:08:13.535182+00:00"
+  "https://arxiv.org/abs/2611.34232": "2026-11-27T14:08:13.535182+00:00",
+  "https://arxiv.org/abs/2611.34923": "2026-11-27T14:37:34.111222+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 24
+  "takes": 25
  },
  "triage": {
-  "a832dcdff6380954": {
-   "imp": 0.93,
-   "ai": 0.93,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "1a9185981d92cd00": {
-   "imp": 0.82,
-   "ai": 0.94,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "c062398e04ced1f6": {
-   "imp": 0.98,
-   "ai": 0.13,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "936b7cd9a7286075": {
-   "imp": 1.24,
-   "ai": 0.95,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "baa754261624350f": {
-   "imp": 0.13,
-   "ai": null,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "b4502e48bff795da": {
-   "imp": 0.25,
-   "ai": 0.06,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "494b30ee53328423": {
-   "imp": 0.18,
-   "ai": 0.05,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "368ef3a0e33a48d0": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "b99c8f81e608e805": {
-   "imp": 1.29,
-   "ai": 0.47,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
-  "1b30995288ab4bf9": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-19T14:37:25.442559+00:00"
-  },
   "0b3a38ae0a194f39": {
    "imp": 2.85,
    "ai": null,
@@ -25102,6 +25021,31 @@
    "imp": 0.14,
    "ai": 0.04,
    "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "53b14ba6ffdc7e1d": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-27T14:37:24.285755+00:00"
+  },
+  "a2c362d5d3e3ef62": {
+   "imp": 0.96,
+   "ai": 0.68,
+   "ts": "2026-11-27T14:37:24.285755+00:00"
+  },
+  "09d0f878e5ab2d48": {
+   "imp": 0.13,
+   "ai": 0.01,
+   "ts": "2026-11-27T14:37:24.285755+00:00"
+  },
+  "fff576cea6ac4ebf": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-27T14:37:24.285755+00:00"
+  },
+  "dfbc05772ce2e117": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-27T14:37:24.285755+00:00"
   }
  }
 }
