@@ -1,15 +1,5 @@
 {
  "seen": {
-  "ab2e536226fee276": "2026-11-20T09:37:21.973186+00:00",
-  "90a7bf9e8ca4369d": "2026-11-20T09:37:21.973186+00:00",
-  "234b0febc4b0189b": "2026-11-20T09:37:21.973186+00:00",
-  "0416252daf0d5956": "2026-11-20T09:37:21.973186+00:00",
-  "b268c324f6e6fefc": "2026-11-20T09:37:21.973186+00:00",
-  "2fa6c67f9efa6993": "2026-11-20T09:37:21.973186+00:00",
-  "15741ab6630915a1": "2026-11-20T09:37:21.973186+00:00",
-  "87d492c290f6326d": "2026-11-20T09:37:21.973186+00:00",
-  "3d03a242d4b840e5": "2026-11-20T09:37:21.973186+00:00",
-  "fa99769b497af56c": "2026-11-20T09:37:21.973186+00:00",
   "fd2811614640e90d": "2026-11-20T10:07:27.760801+00:00",
   "bd9ef799e681f3e1": "2026-11-20T10:07:27.760801+00:00",
   "7a8afe98ed9f7077": "2026-11-20T10:07:27.760801+00:00",
@@ -1645,13 +1635,12 @@
   "72c6939bba924002": "2026-11-27T08:37:22.505437+00:00",
   "979537701aab32eb": "2026-11-27T08:37:22.505437+00:00",
   "f76f0ca06a7157bf": "2026-11-27T09:07:23.521383+00:00",
-  "b382bfc93d4ee724": "2026-11-27T09:07:23.521383+00:00"
+  "b382bfc93d4ee724": "2026-11-27T09:07:23.521383+00:00",
+  "f41ca0f95fc32099": "2026-11-27T09:37:35.287154+00:00",
+  "6ef866bf4749b6f9": "2026-11-27T09:37:35.287154+00:00",
+  "1ae1eb8bc35b2a79": "2026-11-27T09:37:35.287154+00:00"
  },
  "covered": [
-  {
-   "headline": "VU Venture Partners enters India to invest in early-stage AI startups",
-   "ts": "2026-11-25T09:37:23.630805+00:00"
-  },
   {
    "headline": "Rodic Consultants proposes 200 crore rupee infrastructure AI fund",
    "ts": "2026-11-25T10:07:25.457270+00:00"
@@ -1871,11 +1860,15 @@
   {
    "headline": "Alipay launches Car Assistant 3.0 in-car AI agent",
    "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  {
+   "headline": "Former xAI executives launch predictive AI startup Epochal",
+   "ts": "2026-11-27T09:37:35.287154+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 17
+  "count": 18
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4348,35 +4341,6 @@
  },
  "pending": [
   {
-   "id": "1ae1eb8bc35b2a79",
-   "item": {
-    "id": "1ae1eb8bc35b2a79",
-    "title": "xAI 三杰造了台「互联网时光机」：AI 能预测未来，才是真正的智能？",
-    "url": "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "90 天搭出万亿级历史索引，他们先做出 AI 预测“训练场” 作者丨 高允毅 编辑丨岑 峰 达里奥又被人骂“虚伪”了。 先是前 Meta 首席 AI 科学家杨立昆指责 Anthropic CEO 达里奥炒作 AI 危险论，并直言他当年离开 OpenAI，不过是因为无法掌握控制权。昨天，达里奥在 X 发万字长文回应，称“向 AI 交出人类自由意志”的指控纯属荒谬，并再次表明态度：写代码、搞研发可以交给 AI，但政治决策、社会治理和 AI 自我进化的决定权，必须牢牢握在人类手里。 虽然这篇长文大方向好像没啥毛病，但结合 Anthropic 长期以来“说一套做一套”的操作，网友并不买账。其实，关于“ AI 加速”的争议由来已久，本质上都在争论同一个问题：当 AI 越来越强，人类到底该用它做什么？ 就在大佬们吵得不可开交之时，三位从 xAI 出走的联创提供了一个新思路： 与其争论如何限制 AI，不如让 AI 学会预测未来。 昨天，消失已久的前 xAI 联创张国栋、戴子航和 Manuel Kroiss 正式官宣新公司 Epochal ，目标是 “打造预测能力超越人类的 AI” 。张国栋个人出资 1 亿美元，团队更是集结了来自 OpenAI、Anthropic 和 Google DeepMind 的一众顶尖人才。 这门“预测未来”的生意到底是什么？他们造的“时光机”技术成色如何？为什么AI能预测才是真正智能的体现？ 01 AI 预测也是门生意？ 在 Epochal 团队眼中，AI 预测不仅是一门好生意，更是衡量 AI 是不是真智能的最佳标准。 如今的大模型通晓古今，早就知道了每一个故事的结…",
-    "published": "2026-11-27T02:58:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Former xAI executives launch predictive AI startup Epochal",
-   "post": "Former xAI executives Guodong Zhang, Zihang Dai, and Manuel Kroiss have launched a new company named Epochal to build predictive AI systems, backed by a 100 million dollar personal investment from Zhang.",
-   "editor_note": "Confirm funding structure and founding team details from the official company launch announcement.",
-   "support": 0.95,
-   "published_at": "2026-11-27T02:58:00+00:00",
-   "first_seen_at": "2026-11-27T05:07:24.732633+00:00",
-   "expires_at": "2026-11-28T14:58:00+00:00",
-   "decision": 1.44,
-   "priority": 7.058964,
-   "selection_reason": "Editorial importance; waiting 4.0h"
-  },
-  {
    "id": "ce2e0603d85ba78e",
    "item": {
     "id": "ce2e0603d85ba78e",
@@ -4402,8 +4366,8 @@
    "first_seen_at": "2026-11-27T06:37:21.405182+00:00",
    "expires_at": "2026-11-28T18:09:07+00:00",
    "decision": 1.45,
-   "priority": 7.057085,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.07456,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4430,8 +4394,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.043275,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.060749,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "81c7402b92ff6c29",
@@ -4460,8 +4424,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.032453,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.058665,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4490,8 +4454,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 6.984596,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.010808,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4520,14 +4484,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.954596,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 6.980808,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://36kr.com/newsflashes/4067936963187591?f=rss": "2026-11-13T09:10:56.502340+00:00",
-  "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron": "2026-11-13T09:38:30.404318+00:00",
   "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
   "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
@@ -4852,114 +4814,15 @@
   "https://36kr.com/newsflashes/4087393174141577?f=rss": "2026-11-27T07:37:46.826079+00:00",
   "https://36kr.com/newsflashes/4087704722061960?f=rss": "2026-11-27T08:08:25.135045+00:00",
   "https://36kr.com/newsflashes/4087340087753090?f=rss": "2026-11-27T08:39:43.939974+00:00",
-  "https://36kr.com/newsflashes/4087760611178888?f=rss": "2026-11-27T09:10:06.741273+00:00"
+  "https://36kr.com/newsflashes/4087760611178888?f=rss": "2026-11-27T09:10:06.741273+00:00",
+  "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html": "2026-11-27T09:38:50.448745+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 15
+  "takes": 16
  },
  "triage": {
-  "922cc9edad19e56f": {
-   "imp": 2.13,
-   "ai": 0.98,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "ab196dc93b9e80d3": {
-   "imp": 1.19,
-   "ai": null,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "c10f025d55636d2c": {
-   "imp": 0.89,
-   "ai": 0.75,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "e9b6576af8849a79": {
-   "imp": 1.72,
-   "ai": 0.94,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "858cedd0664ca22c": {
-   "imp": 0.74,
-   "ai": 0.38,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "b030f13bfd0f9705": {
-   "imp": 2.41,
-   "ai": 0.98,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "ed125c570e4f6ebf": {
-   "imp": 1.46,
-   "ai": 0.93,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "e89d2657aca67cef": {
-   "imp": 2.13,
-   "ai": 0.99,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "8b259f6365b3b595": {
-   "imp": 1.68,
-   "ai": 0.98,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "30f6e1ce772cfb77": {
-   "imp": 0.24,
-   "ai": 0.9,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "6dc8261d7fb32626": {
-   "imp": 0.33,
-   "ai": 0.23,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "b389883013093616": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "e52f9ac445854cb2": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "6e9a6cdc0ba81cad": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "11c5fa4090c2c421": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "9f65acad286ee1f0": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "d01f305c400c5a62": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "df924addfc6421e3": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "3c00c261c6ae0278": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
-  "31a60aeef9751afe": {
-   "imp": 0.2,
-   "ai": 0.03,
-   "ts": "2026-11-19T09:37:27.533315+00:00"
-  },
   "7377e6f77e06d5d3": {
    "imp": 2.34,
    "ai": 0.95,
@@ -25299,6 +25162,96 @@
    "imp": 0.19,
    "ai": 0.08,
    "ts": "2026-11-27T09:07:23.521383+00:00"
+  },
+  "6ef866bf4749b6f9": {
+   "imp": 0.91,
+   "ai": 0.93,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "6803928be9d6f17f": {
+   "imp": 0.27,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "f41ca0f95fc32099": {
+   "imp": 1.01,
+   "ai": 0.87,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "477e284e01e1af9b": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "281ed284c2a23676": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "ef43144cb262f8b1": {
+   "imp": 0.91,
+   "ai": 0.41,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "1c2d965f37bd727d": {
+   "imp": 0.08,
+   "ai": 0.01,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "8855f4ecd4988f47": {
+   "imp": 0.25,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "1cece13cf52b1c9c": {
+   "imp": 0.33,
+   "ai": 0.16,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "b86c50e7c71cb113": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "05be372d2ee6d843": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "8407cba0a2638884": {
+   "imp": 0.82,
+   "ai": 0.33,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "2ee0b0ef7f3bcf06": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "642eb789b39cd163": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "4cd3031148dc55b7": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "afee4ca0ec181146": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "2d570dd56a89a9bc": {
+   "imp": 0.1,
+   "ai": 0.01,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "8a3e3b1f2fe7c7ef": {
+   "imp": 0.28,
+   "ai": 0.03,
+   "ts": "2026-11-27T09:37:35.287154+00:00"
   }
  }
 }
