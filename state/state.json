@@ -1,8 +1,5 @@
 {
  "seen": {
-  "5ac8cfe6f518b6d7": "2026-11-20T08:37:23.809740+00:00",
-  "fe2c2dd670a2586f": "2026-11-20T08:37:23.809740+00:00",
-  "2413252bf25da0b0": "2026-11-20T08:37:23.809740+00:00",
   "c35555aac72b9172": "2026-11-20T09:07:32.634470+00:00",
   "f29b9e3c6ef27371": "2026-11-20T09:07:32.634470+00:00",
   "5bf7961dcfca4bb4": "2026-11-20T09:07:32.634470+00:00",
@@ -1644,13 +1641,15 @@
   "28940328fc53174e": "2026-11-27T08:07:23.121605+00:00",
   "dca863377ecc8003": "2026-11-27T08:07:23.121605+00:00",
   "ef4e5f63c7d59443": "2026-11-27T08:07:23.121605+00:00",
-  "9c508a6a269fe1a5": "2026-11-27T08:07:23.121605+00:00"
+  "9c508a6a269fe1a5": "2026-11-27T08:07:23.121605+00:00",
+  "1255731c7e7eeec0": "2026-11-27T08:37:22.505437+00:00",
+  "dd4e3860c7614c89": "2026-11-27T08:37:22.505437+00:00",
+  "4d9d55e7b3932311": "2026-11-27T08:37:22.505437+00:00",
+  "c055c469a1dcfa79": "2026-11-27T08:37:22.505437+00:00",
+  "72c6939bba924002": "2026-11-27T08:37:22.505437+00:00",
+  "979537701aab32eb": "2026-11-27T08:37:22.505437+00:00"
  },
  "covered": [
-  {
-   "headline": "Tencent open-sources Hy4 Flash model weights for local deployment",
-   "ts": "2026-11-25T08:37:24.211236+00:00"
-  },
   {
    "headline": "OpenAI and AMD use AI to optimize GPU chip circuit designs",
    "ts": "2026-11-25T09:07:22.417990+00:00"
@@ -1870,11 +1869,15 @@
   {
    "headline": "JERA negotiating with US tech firms on Japanese data centers",
    "ts": "2026-11-27T08:07:23.121605+00:00"
+  },
+  {
+   "headline": "China National Bureau of Statistics reports AI computing demand growth",
+   "ts": "2026-11-27T08:37:22.505437+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 15
+  "count": 16
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4337,38 +4340,15 @@
    "desc": "地图能随时修，记忆能跨任务用",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513305.html": {
+   "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+   "desc": "网页App双端亮出聊天账单",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "979537701aab32eb",
-   "item": {
-    "id": "979537701aab32eb",
-    "title": "国家统计局：人工智能算力需求持续增加，带动存储芯片和周边制造等相关行业利润持续增长",
-    "url": "https://36kr.com/newsflashes/4087340087753090?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，国家统计局工业司首席统计师于卫宁解读2026年1—10月份工业企业利润数据表示，电子行业对利润增长支撑作用明显。人工智能算力需求持续增加，带动存储芯片和周边制造等相关行业利润持续增长。1—10月份，电子行业利润同比增长1.0倍，拉动全部规模以上工业企业利润增长9.7个百分点，是规模以上工业企业利润较快增长的重要支撑。从细分领域看，计算机制造中，计算机整机制造、计算机外围设备制造行业利润分别增长4.1倍、2.0倍；电子元件及电子专用材料制造中，电子专用材料制造、电子电路制造行业利润分别增长2.2倍、81.6%；电子器件制造中，光电子器件制造、半导体分立器件制造行业利润分别增长69.7%、57.5%。",
-    "published": "2026-11-27T01:37:20+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "China National Bureau of Statistics reports AI computing demand growth",
-   "post": "China's National Bureau of Statistics reported that increased demand for AI computing drove profit growth in storage chips and peripheral manufacturing between January and October.",
-   "editor_note": "Verify bureau statistics cite 1.0 times year-on-year profit growth for the electronics sector.",
-   "support": 0.9,
-   "published_at": "2026-11-27T01:37:20+00:00",
-   "first_seen_at": "2026-11-27T01:37:22.221989+00:00",
-   "expires_at": "2026-11-28T13:37:20+00:00",
-   "decision": 0.93,
-   "priority": 7.035686,
-   "selection_reason": "Editorial importance; waiting 6.5h"
-  },
   {
    "id": "1ae1eb8bc35b2a79",
    "item": {
@@ -4395,8 +4375,8 @@
    "first_seen_at": "2026-11-27T05:07:24.732633+00:00",
    "expires_at": "2026-11-28T14:58:00+00:00",
    "decision": 1.44,
-   "priority": 7.024238,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.041593,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ce2e0603d85ba78e",
@@ -4424,8 +4404,8 @@
    "first_seen_at": "2026-11-27T06:37:21.405182+00:00",
    "expires_at": "2026-11-28T18:09:07+00:00",
    "decision": 1.45,
-   "priority": 7.022359,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.039714,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4452,7 +4432,7 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.008548,
+   "priority": 7.025904,
    "selection_reason": "Editorial importance"
   },
   {
@@ -4482,8 +4462,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 6.980364,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 7.006396,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4512,8 +4492,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 6.932507,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.95854,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4542,8 +4522,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.902507,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 6.92854,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   }
  ],
  "details_queue": [],
@@ -4873,94 +4853,15 @@
   "https://36kr.com/newsflashes/4087580880337287?f=rss": "2026-11-27T06:07:55.191602+00:00",
   "https://entrackr.com/news/swiggys-instamart-to-cut-340-roles-amid-restructuring-and-genai-push-12845148": "2026-11-27T07:08:11.325263+00:00",
   "https://36kr.com/newsflashes/4087393174141577?f=rss": "2026-11-27T07:37:46.826079+00:00",
-  "https://36kr.com/newsflashes/4087704722061960?f=rss": "2026-11-27T08:08:25.135045+00:00"
+  "https://36kr.com/newsflashes/4087704722061960?f=rss": "2026-11-27T08:08:25.135045+00:00",
+  "https://36kr.com/newsflashes/4087340087753090?f=rss": "2026-11-27T08:39:43.939974+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 13
+  "takes": 14
  },
  "triage": {
-  "273d336d37591ea3": {
-   "imp": 1.55,
-   "ai": 0.97,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "c394c275dda9fd8b": {
-   "imp": 0.45,
-   "ai": 0.05,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "710bd80a52bae75f": {
-   "imp": 0.19,
-   "ai": 0.02,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "eb2431c8565ed21a": {
-   "imp": 1.41,
-   "ai": 0.91,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "d335a3c2600d085e": {
-   "imp": 1.49,
-   "ai": 0.96,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "56de1218e3455f64": {
-   "imp": 1.93,
-   "ai": 0.96,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "5ce2be25f920ad27": {
-   "imp": 1.49,
-   "ai": 0.76,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "3c4fcc55a7d22c8b": {
-   "imp": 1.31,
-   "ai": null,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "4bc4cadcc57b3185": {
-   "imp": 1.66,
-   "ai": 0.95,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "e155c5f4bdb6e45a": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "abf0f4ede37d9217": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "14cb954778d12b54": {
-   "imp": 0.16,
-   "ai": 0.02,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "112fb25995b7cd43": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "e9ffed6fe8bdca79": {
-   "imp": 0.23,
-   "ai": 0.09,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "b4e31afb0263056f": {
-   "imp": 0.36,
-   "ai": 0.06,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
-  "f01d412015c98696": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-19T08:37:26.861287+00:00"
-  },
   "cffa83add41d5d2f": {
    "imp": 1.29,
    "ai": null,
@@ -25320,6 +25221,86 @@
    "imp": 0.16,
    "ai": 0.04,
    "ts": "2026-11-27T08:07:23.121605+00:00"
+  },
+  "dd4e3860c7614c89": {
+   "imp": 1.13,
+   "ai": 0.84,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "4d9d55e7b3932311": {
+   "imp": 1.1,
+   "ai": 0.93,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "1255731c7e7eeec0": {
+   "imp": 1.13,
+   "ai": 0.79,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "9b66c3f529eb0275": {
+   "imp": 0.58,
+   "ai": 0.12,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "72c6939bba924002": {
+   "imp": 0.55,
+   "ai": 0.83,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "1c8edd8700f2c21d": {
+   "imp": 0.6,
+   "ai": 0.09,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "c055c469a1dcfa79": {
+   "imp": 0.75,
+   "ai": 0.51,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "cc54ca76b8852d20": {
+   "imp": 0.33,
+   "ai": 0.05,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "6148e7b915e07d96": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "4426fe3ee690b782": {
+   "imp": 0.22,
+   "ai": 0.02,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "98d91b545ad6cdff": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "5ac12ee2aecc6541": {
+   "imp": 0.83,
+   "ai": 0.47,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "1b6244673d314620": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "4ac8c1e34d8ad0a3": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "26d0b6f0fa3d1a16": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
+  },
+  "a3e3fd30722bc40b": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-27T08:37:22.505437+00:00"
   }
  }
 }
