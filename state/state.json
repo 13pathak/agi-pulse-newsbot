@@ -1,10 +1,5 @@
 {
  "seen": {
-  "5edbac8e96376665": "2026-11-20T13:37:23.217389+00:00",
-  "fd3deff7466808c0": "2026-11-20T13:37:23.217389+00:00",
-  "7ad6582a8b24f753": "2026-11-20T13:37:23.217389+00:00",
-  "f3bba61c80cccf42": "2026-11-20T13:37:23.217389+00:00",
-  "91df8d95aed0930f": "2026-11-20T13:37:23.217389+00:00",
   "211fbe8009a45ecd": "2026-11-20T14:07:22.748837+00:00",
   "aafc6ce12cd4d6f9": "2026-11-20T14:07:22.748837+00:00",
   "1eecf80fadac4c5d": "2026-11-20T14:07:22.748837+00:00",
@@ -1621,13 +1616,11 @@
   "b2b22398ee8b7af0": "2026-11-27T13:07:21.532732+00:00",
   "005b7c4e65ee5311": "2026-11-27T13:07:21.532732+00:00",
   "f6ded91f4ad1dcb1": "2026-11-27T13:07:21.532732+00:00",
-  "d7c1e3a649d0ef5a": "2026-11-27T13:07:21.532732+00:00"
+  "d7c1e3a649d0ef5a": "2026-11-27T13:07:21.532732+00:00",
+  "a61fb0d29dd95c12": "2026-11-27T13:37:21.921287+00:00",
+  "a70c041fb75e2c52": "2026-11-27T13:37:21.921287+00:00"
  },
  "covered": [
-  {
-   "headline": "Google DeepMind uses AI agents for Gemini training experiments",
-   "ts": "2026-11-25T13:37:25.106913+00:00"
-  },
   {
    "headline": "Apple removes MiniMax AI app Talkie globally over content concerns",
    "ts": "2026-11-25T14:07:23.121669+00:00"
@@ -1843,11 +1836,15 @@
   {
    "headline": "Jio launches and withdraws AI astrology platform",
    "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  {
+   "headline": "India plans common AI platform for citizen services",
+   "ts": "2026-11-27T13:37:21.921287+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 24
+  "count": 25
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4333,34 +4330,6 @@
  },
  "pending": [
   {
-   "id": "a70c041fb75e2c52",
-   "item": {
-    "id": "a70c041fb75e2c52",
-    "title": "The Government is planning a common AI platform to automate citizen services",
-    "url": "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "DIC seeks an AI-enabled platform to manage citizen interactions, automate workflows and track grievances across government clients, leaving data retention and consent arrangements to individual orders. The post The Government is planning a common AI platform to automate citizen services appeared first on MEDIANAMA .",
-    "published": "2026-11-27T10:31:25+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "India plans common AI platform for citizen services",
-   "post": "The Digital India Corporation is seeking an AI-enabled platform to automate citizen interactions, manage workflows, and track grievances across government clients, while leaving data retention to individual orders.",
-   "editor_note": "Confirm the timeline for the DIC tender or RFP release.",
-   "support": 0.73,
-   "published_at": "2026-11-27T10:31:25+00:00",
-   "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
-   "expires_at": "2026-11-28T22:31:25+00:00",
-   "decision": 2.25,
-   "priority": 7.302781,
-   "selection_reason": "Editorial importance; waiting 2.0h"
-  },
-  {
    "id": "81c7402b92ff6c29",
    "item": {
     "id": "81c7402b92ff6c29",
@@ -4387,8 +4356,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.240757,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.266805,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4417,8 +4386,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.192901,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.218948,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4445,8 +4414,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.182144,
-   "selection_reason": "Editorial importance; waiting 5.0h"
+   "priority": 7.199509,
+   "selection_reason": "Editorial importance; waiting 5.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4475,8 +4444,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.162901,
-   "selection_reason": "Editorial importance; waiting 10.5h"
+   "priority": 7.188948,
+   "selection_reason": "Editorial importance; waiting 11.0h"
   },
   {
    "id": "63bc89be998f9e5d",
@@ -4503,14 +4472,12 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 7.02445,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.041814,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00",
-  "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri": "2026-11-13T13:37:54.419334+00:00",
   "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00",
   "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
@@ -4834,69 +4801,15 @@
   "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global": "2026-11-27T11:39:30.672677+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang": "2026-11-27T12:11:13.715686+00:00",
   "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": "2026-11-27T12:38:38.620301+00:00",
-  "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform": "2026-11-27T13:08:15.803898+00:00"
+  "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform": "2026-11-27T13:08:15.803898+00:00",
+  "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services": "2026-11-27T13:38:02.371149+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 22
+  "takes": 23
  },
  "triage": {
-  "bb25daab1f924307": {
-   "imp": 1.67,
-   "ai": null,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "4e0b5e8dec9c3fbf": {
-   "imp": 2.63,
-   "ai": 0.96,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "2f7a2445c4288673": {
-   "imp": 1.74,
-   "ai": 0.83,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "0a06f28bc7e0cce4": {
-   "imp": 1.51,
-   "ai": 0.92,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "33cec2d3f6e4f18c": {
-   "imp": 2.42,
-   "ai": 0.97,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "855e7a0ae60b0637": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "05f50bf7cbe5947f": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "f25e5010c13ab62e": {
-   "imp": 0.86,
-   "ai": 0.18,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "35eee71e1e6f34c1": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "e0b5f0de35e5c2a1": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
-  "334166090f5705e1": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-19T13:37:25.966801+00:00"
-  },
   "606fd647b62dcacf": {
    "imp": 1.96,
    "ai": 0.97,
@@ -25241,6 +25154,36 @@
    "imp": 0.14,
    "ai": 0.03,
    "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "a61fb0d29dd95c12": {
+   "imp": 1.09,
+   "ai": 0.96,
+   "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  "d2330e0318deedb7": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  "5ab4f0725a5766b1": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  "dbbfa159efc5af90": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  "9c9752a4d779cd76": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  "4eb988cec4d036cd": {
+   "imp": 0.2,
+   "ai": 0.06,
+   "ts": "2026-11-27T13:37:21.921287+00:00"
   }
  }
 }
