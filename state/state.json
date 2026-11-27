@@ -1,17 +1,5 @@
 {
  "seen": {
-  "6b9dccbf573f188e": "2026-11-20T12:37:23.904607+00:00",
-  "56880aa47234b65c": "2026-11-20T12:37:23.904607+00:00",
-  "5bfe8bac3bf0a622": "2026-11-20T12:37:23.904607+00:00",
-  "eb01f984bc0d90c0": "2026-11-20T12:37:23.904607+00:00",
-  "ece128a558ab96f1": "2026-11-20T12:37:23.904607+00:00",
-  "6969f8d6a05190d0": "2026-11-20T12:37:23.904607+00:00",
-  "779ccf54081cfd88": "2026-11-20T12:37:23.904607+00:00",
-  "9b3bd8fc2ee08d5c": "2026-11-20T12:37:23.904607+00:00",
-  "c89059a3750750b9": "2026-11-20T12:37:23.904607+00:00",
-  "79bb76b7bef37ba6": "2026-11-20T12:37:23.904607+00:00",
-  "40cc30f1dedae871": "2026-11-20T12:37:23.904607+00:00",
-  "d05eedcf28c7812c": "2026-11-20T12:37:23.904607+00:00",
   "9afed0143cc7325c": "2026-11-20T13:07:25.783540+00:00",
   "f94b516639b4fc03": "2026-11-20T13:07:25.783540+00:00",
   "532279bc1bfd4530": "2026-11-20T13:07:25.783540+00:00",
@@ -1625,13 +1613,19 @@
   "a42017c91feac68a": "2026-11-27T12:07:37.445339+00:00",
   "15495bc32015e578": "2026-11-27T12:07:37.445339+00:00",
   "97d8feb475bcf427": "2026-11-27T12:07:37.445339+00:00",
-  "440a596a64e0f066": "2026-11-27T12:07:37.445339+00:00"
+  "440a596a64e0f066": "2026-11-27T12:07:37.445339+00:00",
+  "0fa5095bd78352fb": "2026-11-27T12:37:26.223573+00:00",
+  "b323bfdb9ebac095": "2026-11-27T12:37:26.223573+00:00",
+  "954782265fd1dd94": "2026-11-27T12:37:26.223573+00:00",
+  "c74de9a8546d8294": "2026-11-27T12:37:26.223573+00:00",
+  "4f2609f9fec8df40": "2026-11-27T12:37:26.223573+00:00",
+  "dcf9162e5162c383": "2026-11-27T12:37:26.223573+00:00",
+  "cac552ba2dbd27e4": "2026-11-27T12:37:26.223573+00:00",
+  "4ef970468c9b3799": "2026-11-27T12:37:26.223573+00:00",
+  "30193b021b5aa9a6": "2026-11-27T12:37:26.223573+00:00",
+  "3bd879b42b4e7a9d": "2026-11-27T12:37:26.223573+00:00"
  },
  "covered": [
-  {
-   "headline": "DeepMind engineers mathematically prove Signal encryption protocol",
-   "ts": "2026-11-25T12:37:23.202578+00:00"
-  },
   {
    "headline": "Nexent Capital launches $1 billion fund for AI infrastructure",
    "ts": "2026-11-25T13:07:25.190462+00:00"
@@ -1847,11 +1841,15 @@
   {
    "headline": "Nvidia Blackwell chips installed at Shanghai data center",
    "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  {
+   "headline": "Apple pulls MiniMax chatbot Talkie from App Store",
+   "ts": "2026-11-27T12:37:26.223573+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 22
+  "count": 23
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4331,34 +4329,6 @@
  },
  "pending": [
   {
-   "id": "3bd879b42b4e7a9d",
-   "item": {
-    "id": "3bd879b42b4e7a9d",
-    "title": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
-    "url": "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content",
-    "source": "The Information",
-    "image": "",
-    "snippet": "Apple has pulled popular chatbot app Talkie, developed by Chinese AI company MiniMax, from its App Store worldwide after a media report alleged the product was using sexualized content to hook young users. MiniMax’s Talkie is an AI companion service that allows users to talk or text with a range ...",
-    "published": "2026-11-27T10:27:17+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Apple pulls MiniMax chatbot Talkie from App Store",
-   "post": "Apple removed the AI companion app Talkie, developed by Chinese firm MiniMax, from its global App Store following a media report alleging the use of sexualized content to target young users.",
-   "editor_note": "Check whether MiniMax has issued an official response regarding the App Store removal.",
-   "support": 0.94,
-   "published_at": "2026-11-27T10:27:17+00:00",
-   "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
-   "expires_at": "2026-11-28T22:27:17+00:00",
-   "decision": 1.79,
-   "priority": 7.612965,
-   "selection_reason": "Time-sensitive story; waiting 1.0h"
-  },
-  {
    "id": "a70c041fb75e2c52",
    "item": {
     "id": "a70c041fb75e2c52",
@@ -4383,8 +4353,8 @@
    "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
    "expires_at": "2026-11-28T22:31:25+00:00",
    "decision": 2.25,
-   "priority": 7.268212,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.285465,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "81c7402b92ff6c29",
@@ -4413,36 +4383,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.188904,
-   "selection_reason": "Editorial importance; waiting 6.0h"
-  },
-  {
-   "id": "0f316b663c9a5e45",
-   "item": {
-    "id": "0f316b663c9a5e45",
-    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
-    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
-    "published": "2026-11-27T07:28:15+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "UK regulator warns AI agents must maintain user control",
-   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
-   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
-   "support": 0.56,
-   "published_at": "2026-11-27T07:28:15+00:00",
-   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
-   "expires_at": "2026-11-28T19:28:15+00:00",
-   "decision": 1.58,
-   "priority": 7.147575,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 7.214783,
+   "selection_reason": "Editorial importance; waiting 6.5h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4471,8 +4413,36 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.141048,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.166927,
+   "selection_reason": "Editorial importance; waiting 10.0h"
+  },
+  {
+   "id": "0f316b663c9a5e45",
+   "item": {
+    "id": "0f316b663c9a5e45",
+    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
+    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
+    "published": "2026-11-27T07:28:15+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "UK regulator warns AI agents must maintain user control",
+   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
+   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
+   "support": 0.56,
+   "published_at": "2026-11-27T07:28:15+00:00",
+   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
+   "expires_at": "2026-11-28T19:28:15+00:00",
+   "decision": 1.58,
+   "priority": 7.164828,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4501,8 +4471,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.111048,
-   "selection_reason": "Editorial importance; waiting 9.5h"
+   "priority": 7.136927,
+   "selection_reason": "Editorial importance; waiting 10.0h"
   },
   {
    "id": "63bc89be998f9e5d",
@@ -4529,13 +4499,12 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 6.989881,
+   "priority": 7.007134,
    "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00",
   "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00",
   "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri": "2026-11-13T13:37:54.419334+00:00",
   "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00",
@@ -4859,129 +4828,15 @@
   "https://36kr.com/p/4086249473534598?f=rss": "2026-11-27T10:08:38.044592+00:00",
   "https://www.medianama.com/2026/11/223-ai-author-indian-copyright-law-delhi-hc": "2026-11-27T11:11:50.056798+00:00",
   "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global": "2026-11-27T11:39:30.672677+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang": "2026-11-27T12:11:13.715686+00:00"
+  "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang": "2026-11-27T12:11:13.715686+00:00",
+  "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": "2026-11-27T12:38:38.620301+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 20
+  "takes": 21
  },
  "triage": {
-  "fdfefb89d61360e3": {
-   "imp": 0.79,
-   "ai": null,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "a9ee9723453f9960": {
-   "imp": 1.62,
-   "ai": 0.8,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "c13d075741cf194b": {
-   "imp": 1.77,
-   "ai": 0.97,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "2ae305dbea6ba60c": {
-   "imp": 1.27,
-   "ai": 0.72,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "dd0fceef45fef495": {
-   "imp": 1.64,
-   "ai": 0.97,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "ee3cf1a9435226b0": {
-   "imp": 1.71,
-   "ai": 0.81,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "bd1fc6d49a286a92": {
-   "imp": 1.47,
-   "ai": 0.97,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "ac350395ded242de": {
-   "imp": 1.82,
-   "ai": 0.94,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "fab0875185d3cf10": {
-   "imp": 2.63,
-   "ai": 0.98,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "fff5db86de3b8775": {
-   "imp": 2.09,
-   "ai": 0.95,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "76a3d0a2887be92e": {
-   "imp": 0.26,
-   "ai": 0.04,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "dd42bb79c10d48ce": {
-   "imp": 1.71,
-   "ai": 0.78,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "3683917047df98fc": {
-   "imp": 1.99,
-   "ai": 0.97,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "f8d22a17da90473c": {
-   "imp": 1.21,
-   "ai": 0.36,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "bd4ef4bf379e7031": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "3993e3fc3dc37afe": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "6c30773a5cae258a": {
-   "imp": 0.21,
-   "ai": 0.03,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "5581340221ecff38": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "4477ea650784769e": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "81bf3ba59e63fe4b": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "5b5e7ced6cffcb6d": {
-   "imp": 0.24,
-   "ai": 0.07,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "345fa3dce4b65842": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
-  "d963ed53cffbb8be": {
-   "imp": 0.09,
-   "ai": 0.01,
-   "ts": "2026-11-19T12:37:24.282971+00:00"
-  },
   "ac547cb1cef4db8e": {
    "imp": 1.8,
    "ai": 0.94,
@@ -25291,6 +25146,136 @@
    "imp": 0.06,
    "ai": 0.02,
    "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "dcf9162e5162c383": {
+   "imp": 1.13,
+   "ai": null,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "4ef970468c9b3799": {
+   "imp": 1.08,
+   "ai": 0.88,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "0fa5095bd78352fb": {
+   "imp": 2.1,
+   "ai": 0.96,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "954782265fd1dd94": {
+   "imp": 1.94,
+   "ai": 0.97,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "cac552ba2dbd27e4": {
+   "imp": 1.09,
+   "ai": 0.92,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "b323bfdb9ebac095": {
+   "imp": 1.92,
+   "ai": 0.96,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "4f2609f9fec8df40": {
+   "imp": 1.42,
+   "ai": 0.82,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "30193b021b5aa9a6": {
+   "imp": 1.22,
+   "ai": 0.64,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "2df10afe339beef9": {
+   "imp": 0.71,
+   "ai": 0.17,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "c74de9a8546d8294": {
+   "imp": 1.46,
+   "ai": 0.84,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "adc41dcaa7b6bec0": {
+   "imp": 0.15,
+   "ai": 0.07,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "d0681e6df9ac1aff": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "2a8bd297ef4d81b7": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "14dbd2ed0f8db3b7": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "33383b93b4c367be": {
+   "imp": 0.13,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "9b1c5017712d2a21": {
+   "imp": 0.29,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "5e9f862141d182b6": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "fe41e1deddb1dcef": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "9b07bf7226c0f2f6": {
+   "imp": 0.23,
+   "ai": 0.06,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "725d7a25135f9417": {
+   "imp": 0.14,
+   "ai": 0.05,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "4c2c90374f8ad78c": {
+   "imp": 0.2,
+   "ai": 0.06,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "c478ccc50edf2479": {
+   "imp": 0.15,
+   "ai": 0.06,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "ab384b94f4e6b716": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "802b330bd167b604": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "ebd19ed7bb0c0f18": {
+   "imp": 0.28,
+   "ai": 0.06,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "3dae3839cd1f041e": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:37:26.223573+00:00"
   }
  }
 }
