@@ -1,11 +1,5 @@
 {
  "seen": {
-  "b8e1839046bc97c6": "2026-11-20T16:37:21.914235+00:00",
-  "dfa5bae648aafd67": "2026-11-20T16:37:21.914235+00:00",
-  "3f23871144f33361": "2026-11-20T16:37:21.914235+00:00",
-  "3116f89aeeaf19c8": "2026-11-20T16:37:21.914235+00:00",
-  "f8ac4b85a5a42dde": "2026-11-20T16:37:21.914235+00:00",
-  "cf24727037c82e27": "2026-11-20T16:37:21.914235+00:00",
   "8e6075d168e06821": "2026-11-20T17:07:23.512351+00:00",
   "6668009dbad52efc": "2026-11-20T17:07:23.512351+00:00",
   "db40ade6fdb7d0a6": "2026-11-20T17:07:23.512351+00:00",
@@ -1603,13 +1597,10 @@
   "81b97ad62cf00926": "2026-11-27T16:07:24.910320+00:00",
   "bbc0807bea8e6884": "2026-11-27T16:07:24.910320+00:00",
   "aced9ea9d06e7c1d": "2026-11-27T16:07:24.910320+00:00",
-  "63bc89be998f9e5d": "2026-11-27T16:07:24.910320+00:00"
+  "63bc89be998f9e5d": "2026-11-27T16:07:24.910320+00:00",
+  "6aa339a9d53659f7": "2026-11-27T16:37:22.822072+00:00"
  },
  "covered": [
-  {
-   "headline": "New York passes five-year ban on AI-powered toys",
-   "ts": "2026-11-25T16:37:26.354749+00:00"
-  },
   {
    "headline": "Amazon and Meta negotiate return of Meta's Muse AI shopping agent",
    "ts": "2026-11-25T17:07:23.082592+00:00"
@@ -1837,11 +1828,15 @@
   {
    "headline": "Anthropic rewrites Messages API in Rust, reducing CPU usage 70%",
    "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  {
+   "headline": "EngineAI opens humanoid control systems, unveils ecosystem support plan",
+   "ts": "2026-11-27T16:37:22.822072+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 30
+  "count": 31
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4331,37 +4326,7 @@
    "published": ""
   }
  },
- "pending": [
-  {
-   "id": "6aa339a9d53659f7",
-   "item": {
-    "id": "6aa339a9d53659f7",
-    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-    "url": "https://www.qbitai.com/2026/11/513352.html",
-    "source": "QbitAI",
-    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
-    "snippet": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
-    "published": "2026-11-27T14:07:33+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "EngineAI opens humanoid control systems, unveils ecosystem support plan",
-   "post": "Humanoid robotics startup EngineAI has opened its high- and low-level control architectures to developers and announced a 1 billion yuan ecosystem support initiative to enable teams to build on hardware-verified results.",
-   "editor_note": "Verify whether the 1 billion yuan support consists of direct venture funding, hardware subsidies, or partner credits.",
-   "support": 0.81,
-   "published_at": "2026-11-27T14:07:33+00:00",
-   "first_seen_at": "2026-11-27T15:37:22.541851+00:00",
-   "expires_at": "2026-11-29T02:07:33+00:00",
-   "decision": 1.29,
-   "priority": 6.905798,
-   "selection_reason": "Editorial importance; waiting 0.5h"
-  }
- ],
+ "pending": [],
  "details_queue": [],
  "details_done": {
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
@@ -4691,12 +4656,13 @@
   "https://arxiv.org/abs/2611.34923": "2026-11-27T14:37:34.111222+00:00",
   "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch": "2026-11-27T15:11:00.875097+00:00",
   "https://arxiv.org/abs/2611.30844": "2026-11-27T15:38:03.416404+00:00",
-  "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80": "2026-11-27T16:09:24.082888+00:00"
+  "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80": "2026-11-27T16:09:24.082888+00:00",
+  "https://www.qbitai.com/2026/11/513352.html": "2026-11-27T16:37:31.999321+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 28
+  "takes": 29
  },
  "triage": {
   "3e5d1a7c85bc41a5": {
@@ -24963,6 +24929,11 @@
    "imp": 0.14,
    "ai": 0.03,
    "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "00efe3fd373b9ad1": {
+   "imp": 0.01,
+   "ai": 0.02,
+   "ts": "2026-11-27T16:37:22.822072+00:00"
   }
  }
 }
