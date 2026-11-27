@@ -1,66 +1,5 @@
 {
  "seen": {
-  "3bb219d5733618b3": "2026-11-20T01:07:24.013813+00:00",
-  "aff1ec2a43dfe4ce": "2026-11-20T01:07:24.013813+00:00",
-  "794b4d45b46c626a": "2026-11-20T01:07:24.013813+00:00",
-  "81a0f8f36b1d58e9": "2026-11-20T01:07:24.013813+00:00",
-  "9162001826d50396": "2026-11-20T01:07:24.013813+00:00",
-  "adadf9d1614c8d19": "2026-11-20T01:07:24.013813+00:00",
-  "c2855811f136cf3a": "2026-11-20T01:07:24.013813+00:00",
-  "59f6c6e58008fe2a": "2026-11-20T01:07:24.013813+00:00",
-  "9727643803e6dbd2": "2026-11-20T01:07:24.013813+00:00",
-  "1a7867b3a729efa2": "2026-11-20T01:07:24.013813+00:00",
-  "b00f82b6db94c2e5": "2026-11-20T01:07:24.013813+00:00",
-  "58ab887d6a72b8c8": "2026-11-20T01:07:24.013813+00:00",
-  "b94a8ee76ae3dc25": "2026-11-20T01:07:24.013813+00:00",
-  "1112027d5901b6f1": "2026-11-20T01:07:24.013813+00:00",
-  "e2069ba493c3ca46": "2026-11-20T01:07:24.013813+00:00",
-  "745a96bce666dec7": "2026-11-20T01:07:24.013813+00:00",
-  "0f531b5b0f649592": "2026-11-20T01:07:24.013813+00:00",
-  "4b08ec50268e04a4": "2026-11-20T01:07:24.013813+00:00",
-  "acdbbdc59718c521": "2026-11-20T01:07:24.013813+00:00",
-  "2adef6bfeca022c8": "2026-11-20T01:07:24.013813+00:00",
-  "e04b4e930bcdca98": "2026-11-20T01:07:24.013813+00:00",
-  "a2fb00344062975f": "2026-11-20T01:07:24.013813+00:00",
-  "e29ac258c013c12c": "2026-11-20T01:07:24.013813+00:00",
-  "6687f7be62c34e4a": "2026-11-20T01:07:24.013813+00:00",
-  "4ba1303d2ee21d77": "2026-11-20T01:07:24.013813+00:00",
-  "942f3c449d272da4": "2026-11-20T01:07:24.013813+00:00",
-  "4896cc81f3fa0f07": "2026-11-20T01:07:24.013813+00:00",
-  "5174075156583f93": "2026-11-20T01:07:24.013813+00:00",
-  "4460d2fd5d32a093": "2026-11-20T01:07:24.013813+00:00",
-  "67016be5003fa61f": "2026-11-20T01:07:24.013813+00:00",
-  "4aacf31011a35eda": "2026-11-20T01:07:24.013813+00:00",
-  "10dd703d65892ec4": "2026-11-20T01:07:24.013813+00:00",
-  "8db2f7ef15769ab1": "2026-11-20T01:07:24.013813+00:00",
-  "ce9fd7efc3bca49c": "2026-11-20T01:07:24.013813+00:00",
-  "f1b9eaa5143f7c9f": "2026-11-20T01:07:24.013813+00:00",
-  "bb6b6641eeedf278": "2026-11-20T01:07:24.013813+00:00",
-  "3fcfb20d697d024c": "2026-11-20T01:07:24.013813+00:00",
-  "e63fea43dcbf5070": "2026-11-20T01:07:24.013813+00:00",
-  "8e6e8cc4c0d83ae2": "2026-11-20T01:07:24.013813+00:00",
-  "bde5d897ccc86ea5": "2026-11-20T01:07:24.013813+00:00",
-  "657ef583101daf75": "2026-11-20T01:07:24.013813+00:00",
-  "d339066c29a9064c": "2026-11-20T01:07:24.013813+00:00",
-  "9c1b4a1b921cc27c": "2026-11-20T01:07:24.013813+00:00",
-  "e22812a5ccc93667": "2026-11-20T01:07:24.013813+00:00",
-  "0911d83ee1a918d9": "2026-11-20T01:07:24.013813+00:00",
-  "ab107cfc887ac163": "2026-11-20T01:07:24.013813+00:00",
-  "4df4b105d63b8212": "2026-11-20T01:07:24.013813+00:00",
-  "08a3ff5c616da013": "2026-11-20T01:07:24.013813+00:00",
-  "049a7d6a1b527c2e": "2026-11-20T01:07:24.013813+00:00",
-  "8c7916a206b21ee3": "2026-11-20T01:07:24.013813+00:00",
-  "4fa5517f66193d6d": "2026-11-20T01:07:24.013813+00:00",
-  "2fc737ddb9957593": "2026-11-20T01:07:24.013813+00:00",
-  "0f631801d3ae20b6": "2026-11-20T01:07:24.013813+00:00",
-  "552848e212e5f963": "2026-11-20T01:07:24.013813+00:00",
-  "6900f6014b2aa0cd": "2026-11-20T01:07:24.013813+00:00",
-  "6dd2ec3981ff138f": "2026-11-20T01:07:24.013813+00:00",
-  "e64d4a6c0d33359d": "2026-11-20T01:07:24.013813+00:00",
-  "8cfda65b8c9583b3": "2026-11-20T01:07:24.013813+00:00",
-  "f19e211d05f9e470": "2026-11-20T01:07:24.013813+00:00",
-  "f6e15f5626ee24c0": "2026-11-20T01:07:24.013813+00:00",
-  "ba66cb81d653444d": "2026-11-20T01:07:24.013813+00:00",
   "5590d4d47ed2184b": "2026-11-20T01:37:24.042985+00:00",
   "7e9fc57c134e72d2": "2026-11-20T01:37:24.042985+00:00",
   "cb99e2baa62e7866": "2026-11-20T01:37:24.042985+00:00",
@@ -1717,13 +1656,30 @@
   "5b0dabb5fcca4d47": "2026-11-26T17:07:24.559618+00:00",
   "e0bd58b9ea33778c": "2026-11-26T17:07:24.559618+00:00",
   "6d461eaccbb82e34": "2026-11-26T17:07:24.559618+00:00",
-  "c0f2de19f05669ce": "2026-11-26T17:07:24.559618+00:00"
+  "c0f2de19f05669ce": "2026-11-26T17:07:24.559618+00:00",
+  "ca6d641a2bb7646a": "2026-11-27T01:07:33.136495+00:00",
+  "c9645906179823aa": "2026-11-27T01:07:33.136495+00:00",
+  "0b68c1bfb12f4197": "2026-11-27T01:07:33.136495+00:00",
+  "e854f7a6b156abdc": "2026-11-27T01:07:33.136495+00:00",
+  "c29798d3b13c86f3": "2026-11-27T01:07:33.136495+00:00",
+  "1eebf2b51d6d5f68": "2026-11-27T01:07:33.136495+00:00",
+  "008864c1b7763053": "2026-11-27T01:07:33.136495+00:00",
+  "50f5c4b995bf1f66": "2026-11-27T01:07:33.136495+00:00",
+  "5ecfe6d44924052a": "2026-11-27T01:07:33.136495+00:00",
+  "2af983f47cffac07": "2026-11-27T01:07:33.136495+00:00",
+  "9ae62b6747a8a5c2": "2026-11-27T01:07:33.136495+00:00",
+  "27f35f09a947a507": "2026-11-27T01:07:33.136495+00:00",
+  "8146ee86ed6cac3c": "2026-11-27T01:07:33.136495+00:00",
+  "074c4777b4905d17": "2026-11-27T01:07:33.136495+00:00",
+  "315f3296ad9ec109": "2026-11-27T01:07:33.136495+00:00",
+  "d5967c8d44636191": "2026-11-27T01:07:33.136495+00:00",
+  "82c4d0b53c177208": "2026-11-27T01:07:33.136495+00:00",
+  "edaccff34306b494": "2026-11-27T01:07:33.136495+00:00",
+  "0057734c8df6f17c": "2026-11-27T01:07:33.136495+00:00",
+  "c881f1e7111092b0": "2026-11-27T01:07:33.136495+00:00",
+  "79c814180f5079e5": "2026-11-27T01:07:33.136495+00:00"
  },
  "covered": [
-  {
-   "headline": "OpenAI GPT-6 models demonstrate protein-design capabilities",
-   "ts": "2026-11-25T01:07:23.087505+00:00"
-  },
   {
    "headline": "OceanBase launches OceanLake platform and OceanSeek database",
    "ts": "2026-11-25T02:07:22.841473+00:00"
@@ -1935,11 +1891,15 @@
   {
    "headline": "State attorneys general oppose Character.AI data sale",
    "ts": "2026-11-26T17:07:24.559618+00:00"
+  },
+  {
+   "headline": "Nvidia pauses AI server shipments to Southeast Asia",
+   "ts": "2026-11-27T01:07:33.136495+00:00"
   }
  ],
  "daily": {
-  "date": "2026-11-26",
-  "count": 26
+  "date": "2026-11-27",
+  "count": 1
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4352,6 +4312,36 @@
  },
  "pending": [
   {
+   "id": "09d9e4445ef2d9b1",
+   "item": {
+    "id": "09d9e4445ef2d9b1",
+    "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+    "url": "https://arxiv.org/abs/2611.34575",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 75. Abstract: Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we introduce Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters, built by combining stage-specific curation over 322.7 million candidate records with a progressive training curriculum spanning medical pretraining, staged supervised fine-tuning, and adaptive reinforcement learning. Across this curriculum, progressive supervised refinement and adaptive reinforcement learning yield consistent stage-wise gains, substantially advancing both specialized visual understanding and medical language capabilities. Evaluated against 77 competing models across 238 clinical tasks spanning 61 public and 13 private multi-center benchmarks in more than 40 modalities, Sage-Med-Preview achieves an average score of 58.26% on the 31 public multimodal benchmarks. It outperforms the state-of-the-art open-source medical model Hulu-Med-235B-A22B at 50.99% and the general scientific model Intern-S2-Preview at 52.24%, and approaches the advanced proprietary model GP…",
+    "published": "2026-11-26T00:00:00+00:00",
+    "upvotes": 75,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34575.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Shanghai AI Lab introduces Sage-Med-Preview medical AI model",
+   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters that scored 58.26% across 31 public multimodal benchmarks.",
+   "editor_note": "Verify benchmark score comparison against Hulu-Med-235B-A22B (50.99%) and Intern-S2-Preview (52.24%).",
+   "support": 0.94,
+   "published_at": "2026-11-26T00:00:00+00:00",
+   "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
+   "expires_at": "2026-11-30T00:00:00+00:00",
+   "decision": 1.53,
+   "priority": 7.498272,
+   "selection_reason": "Editorial importance; waiting 13.0h"
+  },
+  {
    "id": "242edb948acd8745",
    "item": {
     "id": "242edb948acd8745",
@@ -4377,8 +4367,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.186238,
-   "selection_reason": "Editorial importance; waiting 7.5h"
+   "priority": 7.245192,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4406,66 +4396,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.165212,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
-   "id": "09d9e4445ef2d9b1",
-   "item": {
-    "id": "09d9e4445ef2d9b1",
-    "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
-    "url": "https://arxiv.org/abs/2611.34575",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 75. Abstract: Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we introduce Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters, built by combining stage-specific curation over 322.7 million candidate records with a progressive training curriculum spanning medical pretraining, staged supervised fine-tuning, and adaptive reinforcement learning. Across this curriculum, progressive supervised refinement and adaptive reinforcement learning yield consistent stage-wise gains, substantially advancing both specialized visual understanding and medical language capabilities. Evaluated against 77 competing models across 238 clinical tasks spanning 61 public and 13 private multi-center benchmarks in more than 40 modalities, Sage-Med-Preview achieves an average score of 58.26% on the 31 public multimodal benchmarks. It outperforms the state-of-the-art open-source medical model Hulu-Med-235B-A22B at 50.99% and the general scientific model Intern-S2-Preview at 52.24%, and approaches the advanced proprietary model GP…",
-    "published": "2026-11-26T00:00:00+00:00",
-    "upvotes": 75,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34575.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Shanghai AI Lab introduces Sage-Med-Preview medical AI model",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters that scored 58.26% across 31 public multimodal benchmarks.",
-   "editor_note": "Verify benchmark score comparison against Hulu-Med-235B-A22B (50.99%) and Intern-S2-Preview (52.24%).",
-   "support": 0.94,
-   "published_at": "2026-11-26T00:00:00+00:00",
-   "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
-   "expires_at": "2026-11-30T00:00:00+00:00",
-   "decision": 1.53,
-   "priority": 7.144129,
-   "selection_reason": "Editorial importance; waiting 5.0h"
-  },
-  {
-   "id": "ca6d641a2bb7646a",
-   "item": {
-    "id": "ca6d641a2bb7646a",
-    "title": "Jio Platforms Launches JioAstro To Take On Astrotalk In India’s Booming Astrology Market",
-    "url": "https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/",
-    "source": "Inc42",
-    "image": "",
-    "snippet": "Telecom major Jio Platforms has forayed into online astrology market with the launch of a dedicated offering, JioAstro. JioAstro generates birth charts using “Swiss Ephemeris calculations” and further gives personalised insights by advanced AI trained in Vedic astrology. JioAstro is available in English, Hindi, Marathi and Gujarati. The company hasn’t disclosed which large language models (LLMs) p…",
-    "published": "2026-11-25T12:49:01+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Jio Platforms launches AI astrology service JioAstro in India",
-   "post": "Jio Platforms has launched JioAstro, an online service that uses AI trained in Vedic astrology to offer personalized insights. The tool is available in English, Hindi, Marathi, and Gujarati.",
-   "editor_note": "Verify if Jio Platforms disclosed which LLM powers the JioAstro service.",
-   "support": 0.95,
-   "published_at": "2026-11-25T12:49:01+00:00",
-   "first_seen_at": "2026-11-25T13:37:25.106913+00:00",
-   "expires_at": "2026-11-27T00:49:01+00:00",
-   "decision": 1.26,
-   "priority": 6.883707,
-   "selection_reason": "Editorial importance; waiting 27.5h"
+   "priority": 7.224166,
+   "selection_reason": "Editorial importance; waiting 15.5h"
   },
   {
    "id": "a9a0d77b488e5aa9",
@@ -4493,8 +4425,37 @@
    "first_seen_at": "2026-11-26T16:07:24.987187+00:00",
    "expires_at": "2026-11-28T01:45:00+00:00",
    "decision": 0.89,
-   "priority": 6.765451,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 7.043312,
+   "selection_reason": "Editorial importance; waiting 9.0h"
+  },
+  {
+   "id": "1d68c48dbd5983b5",
+   "item": {
+    "id": "1d68c48dbd5983b5",
+    "title": "三星推进半导体工厂无人化，组建机器人专项团队",
+    "url": "https://36kr.com/newsflashes/4087242499619202?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "三星电子设备解决方案（DS）部门在全球制造与基础设施总管之下，已经新设并启动机器人团队，任命李锡元副社长担任团队负责人。该机器人团队负责研发适配半导体工厂的机器人技术，并落地导入实际产线。据悉，三星将以该机器人团队为核心，和外部专业机器人企业合作推进技术验证与现场落地。规划路线图：年内选定合作厂商，明年开展技术评估，2028年起正式在产线投入机器人；多家韩国本土机器人企业正在筹备竞标合作。三星新设独立团队，目的是把半导体工厂里剩余的人工手工作业尽可能减少。半导体工厂里晶圆传送等核心制程自动化程度很高，但设备维保、零部件补给、设施管理等环节仍然依靠人力。（新浪财经）",
+    "published": "2026-11-27T00:52:51+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Samsung forms dedicated robot team for semiconductor factories",
+   "post": "Samsung's device solutions division established a dedicated robotics team to develop and deploy automation technology in semiconductor manufacturing lines by 2028.",
+   "editor_note": "Confirm the timeline for technology evaluation starting next year and deployment by 2028.",
+   "support": 0.93,
+   "published_at": "2026-11-27T00:52:51+00:00",
+   "first_seen_at": "2026-11-27T01:07:33.136495+00:00",
+   "expires_at": "2026-11-28T12:52:51+00:00",
+   "decision": 1.3,
+   "priority": 6.926527,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4825,614 +4786,15 @@
   "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt": "2026-11-26T15:38:04.253170+00:00",
   "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11": "2026-11-26T16:07:54.685515+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring": "2026-11-26T16:37:52.737031+00:00",
-  "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": "2026-11-26T17:07:52.908810+00:00"
+  "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": "2026-11-26T17:07:52.908810+00:00",
+  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": "2026-11-27T01:08:00.696089+00:00"
  },
  "details_daily": {
-  "date": "2026-11-26",
-  "count": 1,
-  "takes": 27
+  "date": "2026-11-27",
+  "count": 0,
+  "takes": 1
  },
  "triage": {
-  "7f74d49d11a17676": {
-   "imp": 2.05,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "e228e033f95c47e6": {
-   "imp": 1.17,
-   "ai": 0.88,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "393c9abe2334a6e6": {
-   "imp": 0.18,
-   "ai": 0.91,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "4b835e60b6c65815": {
-   "imp": 2.35,
-   "ai": 0.92,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "be8b727b149731d8": {
-   "imp": 2.77,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "9588dd0c0dfc095c": {
-   "imp": 2.02,
-   "ai": 0.98,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "93a241d236469b64": {
-   "imp": 2.75,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "3cfae749c3e541c4": {
-   "imp": 0.24,
-   "ai": 0.84,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d91c4e0c3907bc0a": {
-   "imp": 0.29,
-   "ai": 0.85,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "b429cb510b698793": {
-   "imp": 1.51,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "66574755f6b392c2": {
-   "imp": 1.09,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d0d45b2248dd790b": {
-   "imp": 0.85,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "a19f9e7086b4fb8d": {
-   "imp": 1.23,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d7174b90d189e047": {
-   "imp": 1.09,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "00a34e9a7fe6f28e": {
-   "imp": 0.92,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "c8a4b2ac137e196f": {
-   "imp": 1.38,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "2cf389d7c377c9cf": {
-   "imp": 1.36,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "74ced337548159bc": {
-   "imp": 1.78,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0e23395eb73494cf": {
-   "imp": 1.72,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "acb7f96633bb0398": {
-   "imp": 1.36,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "b7121aa7617648f3": {
-   "imp": 2.65,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "54bca3b9a46d02f4": {
-   "imp": 1.4,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "22c3131e87fdf83a": {
-   "imp": 1.31,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "246fea28a78903d1": {
-   "imp": 1.84,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "54287e141aa4a0b5": {
-   "imp": 0.54,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "2f277485244a55e7": {
-   "imp": 1.15,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "61a25aea71886a4b": {
-   "imp": 1.19,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "6ae82bdc38649050": {
-   "imp": 1.34,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0cefd4c68688efb5": {
-   "imp": 1.63,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "ab9779574333a7b5": {
-   "imp": 0.88,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "5af34f378ba5907d": {
-   "imp": 1.3,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d333effb843007c4": {
-   "imp": 1.49,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "b11abcb189598157": {
-   "imp": 1.89,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "eafe765dc7b1769d": {
-   "imp": 2.12,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "335389d60da62f8b": {
-   "imp": 2.55,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "02cad8eaae446dc5": {
-   "imp": 2.27,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0250765af6030c2e": {
-   "imp": 2.13,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "42159eae923c9536": {
-   "imp": 1.86,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d2cb25e8bf7044cb": {
-   "imp": 1.27,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "ab19112d85005e9c": {
-   "imp": 1.34,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "2a7ed7ee18a084fe": {
-   "imp": 2.73,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d839bdaf0bf9df23": {
-   "imp": 0.41,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "20bc03e10a52f5ac": {
-   "imp": 2.27,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "bef803c735fed0d0": {
-   "imp": 1.35,
-   "ai": 0.89,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "9c29c37e3d768455": {
-   "imp": 1.99,
-   "ai": 0.9,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "2c4246748c22097b": {
-   "imp": 2.78,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "1b00c6c971d2a745": {
-   "imp": 1.59,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "7f8c3da2b8ec74bd": {
-   "imp": 1.75,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "4bb6beee25509848": {
-   "imp": 1.68,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "46cd68edc4039344": {
-   "imp": 1.94,
-   "ai": 0.9,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "afcb578f81e09653": {
-   "imp": 1.29,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "bda9499345fe52b9": {
-   "imp": 1.3,
-   "ai": 0.89,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "4b340b63bc27b1eb": {
-   "imp": 0.7,
-   "ai": 0.78,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "736c8d84738642e6": {
-   "imp": 1.27,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "a4e8f88d34d09a44": {
-   "imp": 2.11,
-   "ai": 0.93,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "97833cbd485b0797": {
-   "imp": 1.94,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "ad80a0c1cbb1a3f5": {
-   "imp": 1.15,
-   "ai": 0.67,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "7586268f33517d8c": {
-   "imp": 1.3,
-   "ai": 0.65,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "c6f8be1de7b9bd8b": {
-   "imp": 1.84,
-   "ai": 0.87,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "64d4bb67d42a1972": {
-   "imp": 2.8,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "f58aac49692ddcf7": {
-   "imp": 2.11,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "5bc1bac2c163c1c4": {
-   "imp": 1.03,
-   "ai": 0.88,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0f47bc4d120e3c9f": {
-   "imp": 1.76,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "879c59d879df20bf": {
-   "imp": 2.08,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "69a85382a6c6b327": {
-   "imp": 1.54,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "81962bfb8a2b5b06": {
-   "imp": 2.12,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0e5f80e62f9075c8": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "ef97da9bd159e4a8": {
-   "imp": 2.15,
-   "ai": 0.92,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "3c5d428c72c3cc5e": {
-   "imp": 1.22,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "bc205c0ba61242b0": {
-   "imp": 1.56,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "8e85ae40a3f38057": {
-   "imp": 0.6,
-   "ai": 0.88,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "62f213e824d4666a": {
-   "imp": 1.43,
-   "ai": 0.86,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "48d1029501e294bb": {
-   "imp": 1.04,
-   "ai": 0.95,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "352d5eef159817a4": {
-   "imp": 2.12,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "39d7250929d229f2": {
-   "imp": 1.94,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "10a18ae650cb8b36": {
-   "imp": 1.39,
-   "ai": 0.85,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "d2bc73b5e958a5ab": {
-   "imp": 2.02,
-   "ai": 0.98,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "be4269a6ee4d31f6": {
-   "imp": 2.79,
-   "ai": 0.98,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "e34779ec7aae43e4": {
-   "imp": 2.11,
-   "ai": 0.99,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "63f4210f89c83337": {
-   "imp": 1.86,
-   "ai": 0.97,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "423b435a1bbf891e": {
-   "imp": 0.29,
-   "ai": 0.55,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "6993adc1defa6165": {
-   "imp": 2.01,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "c0948d4e84c4dfcc": {
-   "imp": 0.52,
-   "ai": 0.1,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "dad98a146398db05": {
-   "imp": 2.02,
-   "ai": 0.93,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "cfca34e70c82dd58": {
-   "imp": 1.0,
-   "ai": 0.88,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "eced480806a155a5": {
-   "imp": 1.56,
-   "ai": 0.9,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "1ae1397a5cd846dc": {
-   "imp": 1.69,
-   "ai": 0.69,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0d4f94b5609e67f1": {
-   "imp": 0.72,
-   "ai": 0.53,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "bd81725c24c44f2f": {
-   "imp": 1.53,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "f70778d9d9de0fe5": {
-   "imp": 1.14,
-   "ai": 0.91,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "c9a3cb565c069e79": {
-   "imp": 1.78,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "1e3aa9899c3e8c86": {
-   "imp": 1.36,
-   "ai": 0.81,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "ae0486a091c38c6c": {
-   "imp": 1.34,
-   "ai": 0.92,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "4712e713fcc62778": {
-   "imp": 2.8,
-   "ai": 0.98,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "1591dd961e5d7d9d": {
-   "imp": 1.57,
-   "ai": 0.85,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "98b5ffb826de08cd": {
-   "imp": 1.71,
-   "ai": 0.83,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "e683d40fba103b5f": {
-   "imp": 0.93,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "9fa731b0ef6c1da9": {
-   "imp": 1.54,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "b527b6f0ddceafec": {
-   "imp": 0.61,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "53f2a14376dda94d": {
-   "imp": 1.11,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "8b6ac2940fdc0d0e": {
-   "imp": 1.07,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "c7d3ecb006439a13": {
-   "imp": 1.98,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "909b75797cd1319b": {
-   "imp": 2.48,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "b898a1b2127c5756": {
-   "imp": 2.57,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "50e3ea47cbae988d": {
-   "imp": 2.1,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "f689168723dc030d": {
-   "imp": 1.31,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "75623b38e68bd27d": {
-   "imp": 0.7,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "5dbbce44001a69bf": {
-   "imp": 1.94,
-   "ai": 0.98,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "568782698f4b9cb3": {
-   "imp": 0.84,
-   "ai": 0.93,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "0320994d1ef7294c": {
-   "imp": 1.33,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "62e894a99da0a169": {
-   "imp": 0.24,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "f3cfa8572ac8ce0e": {
-   "imp": 1.13,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "1980ba70462d640e": {
-   "imp": 0.91,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "6f8f17530b912bd5": {
-   "imp": 0.95,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "eacbd26a911f6855": {
-   "imp": 0.92,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "663fa60cff593cd5": {
-   "imp": 0.7,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "44013fe75393f221": {
-   "imp": 0.83,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "a8eb0ed9ef435798": {
-   "imp": 0.51,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "59cfeb6a6aabd8c2": {
-   "imp": 0.71,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
-  "2ab4deb8d86920bc": {
-   "imp": 0.98,
-   "ai": null,
-   "ts": "2026-11-19T01:07:39.579218+00:00"
-  },
   "95c553c2433f39cb": {
    "imp": 1.91,
    "ai": 0.93,
@@ -25742,6 +25104,266 @@
    "imp": 0.28,
    "ai": 0.08,
    "ts": "2026-11-26T17:07:24.559618+00:00"
+  },
+  "0057734c8df6f17c": {
+   "imp": 0.46,
+   "ai": 0.67,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "82c4d0b53c177208": {
+   "imp": 0.68,
+   "ai": 0.94,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "c881f1e7111092b0": {
+   "imp": 2.13,
+   "ai": null,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "0b68c1bfb12f4197": {
+   "imp": 2.08,
+   "ai": null,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "27f35f09a947a507": {
+   "imp": 1.33,
+   "ai": null,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "c29798d3b13c86f3": {
+   "imp": 1.83,
+   "ai": null,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "d5967c8d44636191": {
+   "imp": 0.68,
+   "ai": 0.68,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "9ae62b6747a8a5c2": {
+   "imp": 1.03,
+   "ai": 0.59,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "8146ee86ed6cac3c": {
+   "imp": 1.31,
+   "ai": 0.58,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "e854f7a6b156abdc": {
+   "imp": 1.87,
+   "ai": 0.9,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "50f5c4b995bf1f66": {
+   "imp": 1.6,
+   "ai": 0.91,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "074c4777b4905d17": {
+   "imp": 1.2,
+   "ai": 0.95,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "edaccff34306b494": {
+   "imp": 0.52,
+   "ai": 0.65,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "1eebf2b51d6d5f68": {
+   "imp": 1.76,
+   "ai": 0.96,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "315f3296ad9ec109": {
+   "imp": 1.0,
+   "ai": 0.54,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "2cade2f730068857": {
+   "imp": 0.48,
+   "ai": 0.08,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "1d68c48dbd5983b5": {
+   "imp": 1.3,
+   "ai": 0.25,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "008864c1b7763053": {
+   "imp": 1.6,
+   "ai": 0.9,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "74e43a08c22dcf70": {
+   "imp": 0.43,
+   "ai": 0.06,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "79c814180f5079e5": {
+   "imp": 2.13,
+   "ai": 0.97,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "5ecfe6d44924052a": {
+   "imp": 1.43,
+   "ai": 0.9,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "c9645906179823aa": {
+   "imp": 0.29,
+   "ai": null,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "a867a640b74f211a": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "60f2cfa4cd93c754": {
+   "imp": 0.8,
+   "ai": 0.21,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "1e4458a57b303bf0": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "4c243da26db5a941": {
+   "imp": 0.14,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "04518e5b53df4e67": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "2af983f47cffac07": {
+   "imp": 1.09,
+   "ai": 0.81,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "f0c276480989f671": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "9d93b82150158d43": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "9415f2d6e8ba7734": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "f1e517e50e05bb76": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "e5e66e3d69626939": {
+   "imp": 1.09,
+   "ai": 0.11,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "de52e67e2dbf4d71": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "1350b081c8c4c113": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "8861f1ce0347efa5": {
+   "imp": 0.36,
+   "ai": 0.07,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "d6eabe05715ed7f7": {
+   "imp": 0.12,
+   "ai": 0.01,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "252a3a3474c0c3e6": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "7849b63dd623d75e": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "24501974813aae25": {
+   "imp": 0.65,
+   "ai": 0.09,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "02b95318a7d626b2": {
+   "imp": 1.12,
+   "ai": 0.3,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "3ca07cf20da2abf4": {
+   "imp": 0.85,
+   "ai": 0.17,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "9a086e7fbdcfd05e": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "3c961378682d6fa5": {
+   "imp": 0.16,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "04b597a87a1f8d38": {
+   "imp": 0.19,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "eaf3196366f24cf1": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "9043243ef40e2993": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "b523564edd29dab3": {
+   "imp": 0.59,
+   "ai": 0.13,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "05302db4a78b10f4": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "7450198e5702dc3b": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "41b9f4f8f5724281": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "5325ac3c6943470b": {
+   "imp": 0.22,
+   "ai": 0.03,
+   "ts": "2026-11-27T01:07:33.136495+00:00"
   }
  }
 }
