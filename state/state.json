@@ -1,11 +1,5 @@
 {
  "seen": {
-  "211fbe8009a45ecd": "2026-11-20T14:07:22.748837+00:00",
-  "aafc6ce12cd4d6f9": "2026-11-20T14:07:22.748837+00:00",
-  "1eecf80fadac4c5d": "2026-11-20T14:07:22.748837+00:00",
-  "d65a607443e34d13": "2026-11-20T14:07:22.748837+00:00",
-  "912ce9389b493fc3": "2026-11-20T14:07:22.748837+00:00",
-  "0d0c0304776da52b": "2026-11-20T14:07:22.748837+00:00",
   "6491dffe540665fa": "2026-11-20T14:37:27.350385+00:00",
   "d48a1c5f809916b7": "2026-11-20T14:37:27.350385+00:00",
   "4533e5810a89cb6f": "2026-11-20T14:37:27.350385+00:00",
@@ -1618,13 +1612,12 @@
   "f6ded91f4ad1dcb1": "2026-11-27T13:07:21.532732+00:00",
   "d7c1e3a649d0ef5a": "2026-11-27T13:07:21.532732+00:00",
   "a61fb0d29dd95c12": "2026-11-27T13:37:21.921287+00:00",
-  "a70c041fb75e2c52": "2026-11-27T13:37:21.921287+00:00"
+  "a70c041fb75e2c52": "2026-11-27T13:37:21.921287+00:00",
+  "0f99575864156ade": "2026-11-27T14:07:22.720233+00:00",
+  "24644713102c0e39": "2026-11-27T14:07:22.720233+00:00",
+  "81c7402b92ff6c29": "2026-11-27T14:07:22.720233+00:00"
  },
  "covered": [
-  {
-   "headline": "Apple removes MiniMax AI app Talkie globally over content concerns",
-   "ts": "2026-11-25T14:07:23.121669+00:00"
-  },
   {
    "headline": "Google DeepMind proposes Cooperative RSI framework for multi-agent AI evolution",
    "ts": "2026-11-25T15:07:25.006854+00:00"
@@ -1840,11 +1833,15 @@
   {
    "headline": "India plans common AI platform for citizen services",
    "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  {
+   "headline": "Touchstone AI introduces OS-Omni cross-platform agent benchmark",
+   "ts": "2026-11-27T14:07:22.720233+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 25
+  "count": 26
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4330,36 +4327,6 @@
  },
  "pending": [
   {
-   "id": "81c7402b92ff6c29",
-   "item": {
-    "id": "81c7402b92ff6c29",
-    "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
-    "url": "https://arxiv.org/abs/2611.34232",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Touchstone AI. Upvotes: 59. Abstract: Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states. We introduce OS-Omni, a live cross-platform benchmark and execution environment for evaluating computer-using agents across Windows, Ubuntu, macOS, iOS, Android, and Web environments. OS-Omni is released in versioned waves of 300 tasks each; this paper focuses on the first release, v1, which contains 48 tasks per platform and 12 cross-platform workflows that pair a desktop with an Android phone. OS-Omni provides reproducible initialization, platform-specific adapters, trajectory logging, and executable final-state evaluators, and includes controlled service-backed applications for workflows involving account, cart, budget, calendar, message, and other persistent state. Human studies show that OS-Omni tasks require 67.54 interaction steps, substantially exceeding OSWorld references of 15.0 steps. On v1, the strongest evaluated agent, Claude Opus 5.5, reaches 68.5% average success, trailing the 77.3% human reference by 8.8 points; the gap is uneven across platforms, with frontier models exceeding humans on Linux but trailing them by more than 25 points on iOS and macOS. These results indicate that current agents remain far f…",
-    "published": "2026-11-27T00:00:00+00:00",
-    "upvotes": 59,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34232.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Touchstone AI introduces OS-Omni cross-platform agent benchmark",
-   "post": "New paper: Touchstone AI introduces OS-Omni, a live cross-platform benchmark evaluating computer-using agents across Windows, Ubuntu, macOS, iOS, Android, and Web environments. On v1, Claude Opus 5.5 reached 68.5 percent average success across 300 tasks.",
-   "editor_note": "Check that OS-Omni v1 contains 48 tasks per platform and 12 cross-platform workflows pairing a desktop with an Android phone.",
-   "support": 0.78,
-   "published_at": "2026-11-27T00:00:00+00:00",
-   "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
-   "expires_at": "2026-12-01T00:00:00+00:00",
-   "decision": 1.32,
-   "priority": 7.266805,
-   "selection_reason": "Editorial importance; waiting 7.5h"
-  },
-  {
    "id": "0701b6365593a13f",
    "item": {
     "id": "0701b6365593a13f",
@@ -4386,8 +4353,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.218948,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.245002,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4414,8 +4381,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.199509,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.216878,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4444,8 +4411,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.188948,
-   "selection_reason": "Editorial importance; waiting 11.0h"
+   "priority": 7.215002,
+   "selection_reason": "Editorial importance; waiting 11.5h"
   },
   {
    "id": "63bc89be998f9e5d",
@@ -4472,8 +4439,8 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 7.041814,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.059183,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
@@ -4802,99 +4769,15 @@
   "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang": "2026-11-27T12:11:13.715686+00:00",
   "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": "2026-11-27T12:38:38.620301+00:00",
   "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform": "2026-11-27T13:08:15.803898+00:00",
-  "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services": "2026-11-27T13:38:02.371149+00:00"
+  "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services": "2026-11-27T13:38:02.371149+00:00",
+  "https://arxiv.org/abs/2611.34232": "2026-11-27T14:08:13.535182+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 23
+  "takes": 24
  },
  "triage": {
-  "606fd647b62dcacf": {
-   "imp": 1.96,
-   "ai": 0.97,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "97ccf1ecd5ed5546": {
-   "imp": 1.21,
-   "ai": null,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "79725b582e3c8e9c": {
-   "imp": 2.8,
-   "ai": null,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "dc1cead1523c47f2": {
-   "imp": 1.15,
-   "ai": null,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "cfeab4f3add0a716": {
-   "imp": 1.13,
-   "ai": null,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "5e8f1f18e97ceb07": {
-   "imp": 1.77,
-   "ai": 0.95,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "08748a8fdbbd6e7c": {
-   "imp": 1.48,
-   "ai": 0.86,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "28b848503acfcaf6": {
-   "imp": 2.54,
-   "ai": 0.94,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "144a4d2223d9b117": {
-   "imp": 0.9,
-   "ai": 0.78,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "008d4daf9942575a": {
-   "imp": 2.07,
-   "ai": 0.98,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "e86b2e1ff4fb42ce": {
-   "imp": 1.72,
-   "ai": 0.86,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "17817ee7d6c0309a": {
-   "imp": 0.78,
-   "ai": 0.39,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "ba66cb81d653444d": {
-   "imp": 1.92,
-   "ai": 0.37,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "9db0edfc2ece3c1b": {
-   "imp": 1.79,
-   "ai": 0.57,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "8f632ede93fc1177": {
-   "imp": 0.04,
-   "ai": 0.02,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "33ac543161238a8d": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
-  "32e2fe64fbf754b3": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-19T14:07:25.549373+00:00"
-  },
   "a832dcdff6380954": {
    "imp": 0.93,
    "ai": 0.93,
@@ -25184,6 +25067,41 @@
    "imp": 0.2,
    "ai": 0.06,
    "ts": "2026-11-27T13:37:21.921287+00:00"
+  },
+  "24644713102c0e39": {
+   "imp": 0.26,
+   "ai": null,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "0f99575864156ade": {
+   "imp": 0.95,
+   "ai": null,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "f6280259615b0517": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "51a48efc3d7a575e": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "78000529a8fe28c1": {
+   "imp": 0.39,
+   "ai": 0.07,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "b9b9fa7cf780a909": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
+  },
+  "8e45cb99fcd5373e": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-27T14:07:22.720233+00:00"
   }
  }
 }
