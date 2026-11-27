@@ -1,12 +1,5 @@
 {
  "seen": {
-  "05d97431e50b773a": "2026-11-20T15:07:25.281663+00:00",
-  "a0c9f9809359fa81": "2026-11-20T15:07:25.281663+00:00",
-  "f0e77c900b9f7797": "2026-11-20T15:07:25.281663+00:00",
-  "5732688c9fffac03": "2026-11-20T15:07:25.281663+00:00",
-  "17bfc23ca17d1398": "2026-11-20T15:07:25.281663+00:00",
-  "df86d89f9ea9aac7": "2026-11-20T15:07:25.281663+00:00",
-  "fe4513527f72905b": "2026-11-20T15:07:25.281663+00:00",
   "ca1b4ecb67a75764": "2026-11-20T15:37:22.263514+00:00",
   "192dc28e1e9cb828": "2026-11-20T15:37:22.263514+00:00",
   "9951213640e6ea78": "2026-11-20T15:37:22.263514+00:00",
@@ -1609,13 +1602,13 @@
   "0f99575864156ade": "2026-11-27T14:07:22.720233+00:00",
   "24644713102c0e39": "2026-11-27T14:07:22.720233+00:00",
   "81c7402b92ff6c29": "2026-11-27T14:07:22.720233+00:00",
-  "0701b6365593a13f": "2026-11-27T14:37:24.285755+00:00"
+  "0701b6365593a13f": "2026-11-27T14:37:24.285755+00:00",
+  "bad7b4e320a32d28": "2026-11-27T15:07:23.594927+00:00",
+  "742a4dc85d150158": "2026-11-27T15:07:23.594927+00:00",
+  "420300a57caf7831": "2026-11-27T15:07:23.594927+00:00",
+  "0f316b663c9a5e45": "2026-11-27T15:07:23.594927+00:00"
  },
  "covered": [
-  {
-   "headline": "Google DeepMind proposes Cooperative RSI framework for multi-agent AI evolution",
-   "ts": "2026-11-25T15:07:25.006854+00:00"
-  },
   {
    "headline": "New York passes five-year ban on AI-powered toys",
    "ts": "2026-11-25T16:37:26.354749+00:00"
@@ -1835,11 +1828,15 @@
   {
    "headline": "ByteDance Seed researchers introduce Mixture-of-Loops Transformer",
    "ts": "2026-11-27T14:37:24.285755+00:00"
+  },
+  {
+   "headline": "UK regulator warns AI agents must maintain user control",
+   "ts": "2026-11-27T15:07:23.594927+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 27
+  "count": 28
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4351,36 +4348,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.241006,
-   "selection_reason": "Editorial importance; waiting 12.0h"
-  },
-  {
-   "id": "0f316b663c9a5e45",
-   "item": {
-    "id": "0f316b663c9a5e45",
-    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
-    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
-    "published": "2026-11-27T07:28:15+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "UK regulator warns AI agents must maintain user control",
-   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
-   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
-   "support": 0.56,
-   "published_at": "2026-11-27T07:28:15+00:00",
-   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
-   "expires_at": "2026-11-28T19:28:15+00:00",
-   "decision": 1.58,
-   "priority": 7.234254,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.2358,
+   "selection_reason": "Editorial importance; waiting 12.5h"
   },
   {
    "id": "63bc89be998f9e5d",
@@ -4407,13 +4376,12 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 7.076559,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.093914,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": "2026-11-13T15:08:06.256433+00:00",
   "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
   "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00",
@@ -4739,79 +4707,15 @@
   "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform": "2026-11-27T13:08:15.803898+00:00",
   "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services": "2026-11-27T13:38:02.371149+00:00",
   "https://arxiv.org/abs/2611.34232": "2026-11-27T14:08:13.535182+00:00",
-  "https://arxiv.org/abs/2611.34923": "2026-11-27T14:37:34.111222+00:00"
+  "https://arxiv.org/abs/2611.34923": "2026-11-27T14:37:34.111222+00:00",
+  "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch": "2026-11-27T15:11:00.875097+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 25
+  "takes": 26
  },
  "triage": {
-  "0b3a38ae0a194f39": {
-   "imp": 2.85,
-   "ai": null,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "824e87dcfa8e13e0": {
-   "imp": 2.46,
-   "ai": null,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "7aead8022b295649": {
-   "imp": 0.13,
-   "ai": null,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "ae72e45d486f99d4": {
-   "imp": 2.43,
-   "ai": 0.96,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "1f4f7904707e085c": {
-   "imp": 1.88,
-   "ai": 0.89,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "46db7f87ad3e1d4b": {
-   "imp": 2.02,
-   "ai": 0.95,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "ff854732e220a47e": {
-   "imp": 2.4,
-   "ai": 0.95,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "946e9bb4988b7f6b": {
-   "imp": 2.61,
-   "ai": 0.96,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "1517aeb37ade736c": {
-   "imp": 1.7,
-   "ai": 0.75,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "db48b20db167e68c": {
-   "imp": 1.47,
-   "ai": null,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "eddcceefa8d1613f": {
-   "imp": 0.04,
-   "ai": 0.02,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "b28e56e717da58bf": {
-   "imp": 0.03,
-   "ai": 0.02,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
-  "e97afb5b21ddcc05": {
-   "imp": 0.13,
-   "ai": 0.04,
-   "ts": "2026-11-19T15:07:24.543623+00:00"
-  },
   "2600860578f34aa5": {
    "imp": 1.5,
    "ai": null,
@@ -25046,6 +24950,41 @@
    "imp": 0.07,
    "ai": 0.01,
    "ts": "2026-11-27T14:37:24.285755+00:00"
+  },
+  "bad7b4e320a32d28": {
+   "imp": 2.09,
+   "ai": null,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "420300a57caf7831": {
+   "imp": 0.77,
+   "ai": 0.51,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "742a4dc85d150158": {
+   "imp": 1.71,
+   "ai": 0.85,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "7cc7b4087c0fe887": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "41e19b65ea823e23": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "ddd040bf0e1e3415": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "224a6305a35f5fe4": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-27T15:07:23.594927+00:00"
   }
  }
 }
