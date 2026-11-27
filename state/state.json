@@ -1,12 +1,5 @@
 {
  "seen": {
-  "908916a6df9c1526": "2026-11-20T12:07:25.095728+00:00",
-  "cf861958d1e2d9e5": "2026-11-20T12:07:25.095728+00:00",
-  "b9c4bcb3a317103a": "2026-11-20T12:07:25.095728+00:00",
-  "cb7bba387b55590d": "2026-11-20T12:07:25.095728+00:00",
-  "f08f80a507e25c6c": "2026-11-20T12:07:25.095728+00:00",
-  "85dd7cfeb34af802": "2026-11-20T12:07:25.095728+00:00",
-  "07bc4c3acd8fdb1e": "2026-11-20T12:07:25.095728+00:00",
   "6b9dccbf573f188e": "2026-11-20T12:37:23.904607+00:00",
   "56880aa47234b65c": "2026-11-20T12:37:23.904607+00:00",
   "5bfe8bac3bf0a622": "2026-11-20T12:37:23.904607+00:00",
@@ -1625,13 +1618,16 @@
   "96bc09789e60d3f2": "2026-11-27T11:37:30.723154+00:00",
   "ad1e15d66a01752a": "2026-11-27T11:37:30.723154+00:00",
   "496b6f326f12ae87": "2026-11-27T11:37:30.723154+00:00",
-  "3ba3ccc66e5e23c4": "2026-11-27T11:37:30.723154+00:00"
+  "3ba3ccc66e5e23c4": "2026-11-27T11:37:30.723154+00:00",
+  "2d7f8b4f8454af31": "2026-11-27T12:07:37.445339+00:00",
+  "29e437c8d80431a2": "2026-11-27T12:07:37.445339+00:00",
+  "ded9ada8f6c6759e": "2026-11-27T12:07:37.445339+00:00",
+  "a42017c91feac68a": "2026-11-27T12:07:37.445339+00:00",
+  "15495bc32015e578": "2026-11-27T12:07:37.445339+00:00",
+  "97d8feb475bcf427": "2026-11-27T12:07:37.445339+00:00",
+  "440a596a64e0f066": "2026-11-27T12:07:37.445339+00:00"
  },
  "covered": [
-  {
-   "headline": "16-year-old founder raises 4 crore rupees from Y Combinator",
-   "ts": "2026-11-25T12:07:23.352201+00:00"
-  },
   {
    "headline": "DeepMind engineers mathematically prove Signal encryption protocol",
    "ts": "2026-11-25T12:37:23.202578+00:00"
@@ -1847,11 +1843,15 @@
   {
    "headline": "Dunzo cofounder Kabeer Biswas' AI startup M raises funding",
    "ts": "2026-11-27T11:37:30.723154+00:00"
+  },
+  {
+   "headline": "Nvidia Blackwell chips installed at Shanghai data center",
+   "ts": "2026-11-27T12:07:37.445339+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 21
+  "count": 22
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4320,6 +4320,13 @@
    "desc": "网页App双端亮出聊天账单",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://huggingface.co/blog/video-trainium3": {
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
+   "published": "2026-11-27T00:00:00.779000+00:00",
+   "excerpt": "Thanks to our partnership with AWS, we were lucky enough to get access to a Trainium3 machine (trn3.48xlarge, 64 NeuronCores) for a month. We spent most of the month testing Hugging Face models on it, and getting more of them to work. With five days left, I allowed myself a little fun. When you have a Ferrari, every now and then you want to take it out on the track. So I asked myself: what if I tried to generate videos? I picked LTX-2.5 from Lightricks, which generates video and sound together. By the end, once the models were loaded, a 10-second clip with sound took 22 to 23 s to generate, on half of the machine. Here is the result. I had two goals. The first was to see how easy it is to generate videos with diffusers on Trainium3. Not the simple clips from the examples: I wanted to make …"
   }
  },
  "pending": [
@@ -4348,8 +4355,8 @@
    "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
    "expires_at": "2026-11-28T22:27:17+00:00",
    "decision": 1.79,
-   "priority": 7.595539,
-   "selection_reason": "Time-sensitive story; waiting 0.5h"
+   "priority": 7.612965,
+   "selection_reason": "Time-sensitive story; waiting 1.0h"
   },
   {
    "id": "a70c041fb75e2c52",
@@ -4376,8 +4383,8 @@
    "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
    "expires_at": "2026-11-28T22:31:25+00:00",
    "decision": 2.25,
-   "priority": 7.250786,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.268212,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "81c7402b92ff6c29",
@@ -4406,8 +4413,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.162765,
-   "selection_reason": "Editorial importance; waiting 5.5h"
+   "priority": 7.188904,
+   "selection_reason": "Editorial importance; waiting 6.0h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4434,8 +4441,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.13015,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.147575,
+   "selection_reason": "Editorial importance; waiting 4.0h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4464,8 +4471,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.114909,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.141048,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4494,14 +4501,40 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.084909,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.111048,
+   "selection_reason": "Editorial importance; waiting 9.5h"
+  },
+  {
+   "id": "63bc89be998f9e5d",
+   "item": {
+    "id": "63bc89be998f9e5d",
+    "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
+    "source": "Analytics India Magazine",
+    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/ai-news-updates/in-just-10-days-anthropic-built-cowork-enitrely-written-by-claude-code-1769241817187-Claude-1300x731-1.we.webp",
+    "snippet": "Anthropic has rewritten its Messages API from Python to Rust, cutting CPU usage per request by around 70% and memory consumption by more than 80%. However, the migration exposed a significant problem with AI-generated code: despite passing 98% of its existing integration tests, the new implementation initially matched only around 25% of inputs when tested against live production traffic. The migra…",
+    "published": "2026-11-27T12:00:10+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Anthropic rewrites Messages API in Rust, reducing CPU usage 70%",
+   "post": "Anthropic rewrote its Messages API from Python to Rust, cutting CPU usage per request by around 70% and memory by over 80%. Despite passing 98% of integration tests, the code initially matched 25% of live traffic inputs.",
+   "editor_note": "Check Anthropic engineering details for precise testing metrics and deployment context.",
+   "support": 0.96,
+   "published_at": "2026-11-27T12:00:10+00:00",
+   "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
+   "expires_at": "2026-11-29T00:00:10+00:00",
+   "decision": 1.48,
+   "priority": 6.989881,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
-  "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00",
   "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00",
   "https://www.leiphone.com/category/industrynews/AXjuWVSD7DdsPxls.html": "2026-11-13T13:08:41.705422+00:00",
   "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri": "2026-11-13T13:37:54.419334+00:00",
@@ -4825,99 +4858,15 @@
   "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html": "2026-11-27T09:38:50.448745+00:00",
   "https://36kr.com/p/4086249473534598?f=rss": "2026-11-27T10:08:38.044592+00:00",
   "https://www.medianama.com/2026/11/223-ai-author-indian-copyright-law-delhi-hc": "2026-11-27T11:11:50.056798+00:00",
-  "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global": "2026-11-27T11:39:30.672677+00:00"
+  "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global": "2026-11-27T11:39:30.672677+00:00",
+  "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang": "2026-11-27T12:11:13.715686+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 19
+  "takes": 20
  },
  "triage": {
-  "576d950a58a68b6f": {
-   "imp": 2.67,
-   "ai": null,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "fffcffd3dd757ef9": {
-   "imp": 1.28,
-   "ai": 0.81,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "57d6e0f9adf7ae63": {
-   "imp": 1.22,
-   "ai": 0.4,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "94c87cf8fbeb5f1b": {
-   "imp": 1.12,
-   "ai": 0.89,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "884e4442a40a2084": {
-   "imp": 2.72,
-   "ai": 0.96,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "b35d28ae1b82bf6d": {
-   "imp": 1.98,
-   "ai": 0.92,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "97b20df2e79d5109": {
-   "imp": 1.28,
-   "ai": null,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "d72c864e4e9c2f4d": {
-   "imp": 0.39,
-   "ai": 0.04,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "9395479914dc063a": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "75c040461e09634e": {
-   "imp": 0.14,
-   "ai": 0.03,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "25ab72258d0fcd25": {
-   "imp": 1.49,
-   "ai": 0.55,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "f37421eafa7406d6": {
-   "imp": 0.59,
-   "ai": 0.1,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "36189ab94120a47d": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "5a4268f084fceb53": {
-   "imp": 0.82,
-   "ai": 0.23,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "5676674a31643285": {
-   "imp": 0.18,
-   "ai": 0.1,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "91e4f6fedf5f7a96": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
-  "f6629fbe28d3e645": {
-   "imp": 0.33,
-   "ai": 0.08,
-   "ts": "2026-11-19T12:07:23.170783+00:00"
-  },
   "fdfefb89d61360e3": {
    "imp": 0.79,
    "ai": null,
@@ -25227,6 +25176,121 @@
    "imp": 0.05,
    "ai": 0.02,
    "ts": "2026-11-27T11:37:30.723154+00:00"
+  },
+  "ded9ada8f6c6759e": {
+   "imp": 1.46,
+   "ai": 0.93,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "440a596a64e0f066": {
+   "imp": 1.89,
+   "ai": 0.94,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "15495bc32015e578": {
+   "imp": 0.54,
+   "ai": 0.38,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "29e437c8d80431a2": {
+   "imp": 1.42,
+   "ai": 0.93,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "a42017c91feac68a": {
+   "imp": 1.35,
+   "ai": 0.91,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "63bc89be998f9e5d": {
+   "imp": 1.48,
+   "ai": 0.92,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "c91421484ee283e1": {
+   "imp": 0.15,
+   "ai": 0.12,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "97d8feb475bcf427": {
+   "imp": 0.25,
+   "ai": 0.77,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "2d7f8b4f8454af31": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "7ab6caabc2bc165c": {
+   "imp": 0.11,
+   "ai": 0.08,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "024f3dc83a36bd33": {
+   "imp": 0.62,
+   "ai": 0.3,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "194fcecdefb30f66": {
+   "imp": 0.45,
+   "ai": 0.07,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "117fe6a19c3ec84b": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "e1c1a507c80b45b1": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "fdb18f34d7e1c3a4": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "1877bd2a3ad0127c": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "f713bbcc14cf6bf1": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "3e7ba0e0bcfb965c": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "d2e6c90d9c20f893": {
+   "imp": 0.1,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "65ee674966c9040e": {
+   "imp": 0.23,
+   "ai": 0.08,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "734ad0000f9c7e57": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "238faa8c4c6bc499": {
+   "imp": 0.24,
+   "ai": 0.05,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
+  },
+  "8089a91276fc2dec": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-27T12:07:37.445339+00:00"
   }
  }
 }
