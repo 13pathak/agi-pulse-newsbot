@@ -1,12 +1,5 @@
 {
  "seen": {
-  "79d1911aa727c295": "2026-11-20T04:07:22.842958+00:00",
-  "4ace466209c6fa00": "2026-11-20T04:07:22.842958+00:00",
-  "d5204e133f921335": "2026-11-20T04:07:22.842958+00:00",
-  "37a0e65a7c09175a": "2026-11-20T04:07:22.842958+00:00",
-  "bc554c8b99b39cd1": "2026-11-20T04:07:22.842958+00:00",
-  "b4f1a99333cf7b25": "2026-11-20T04:07:22.842958+00:00",
-  "4a53f482d48d30da": "2026-11-20T04:07:22.842958+00:00",
   "6a473a96dfd37d6c": "2026-11-20T04:37:23.119386+00:00",
   "7b3c59319af04461": "2026-11-20T04:37:23.119386+00:00",
   "c6df7bd10740dc06": "2026-11-20T04:37:23.119386+00:00",
@@ -1642,13 +1635,12 @@
   "4a772f7cdce961ae": "2026-11-27T03:07:21.295891+00:00",
   "31156cbb2f5e8b4a": "2026-11-27T03:07:21.295891+00:00",
   "203556b122598783": "2026-11-27T03:37:30.698446+00:00",
-  "ff3a298875f81830": "2026-11-27T03:37:30.698446+00:00"
+  "ff3a298875f81830": "2026-11-27T03:37:30.698446+00:00",
+  "e6cce6cb6175e450": "2026-11-27T04:07:21.527796+00:00",
+  "7cd43e5737a18ee2": "2026-11-27T04:07:21.527796+00:00",
+  "a9a0d77b488e5aa9": "2026-11-27T04:07:21.527796+00:00"
  },
  "covered": [
-  {
-   "headline": "Tidal to ban AI-generated music and delete 29 million tracks",
-   "ts": "2026-11-25T04:07:21.543328+00:00"
-  },
   {
    "headline": "Alibaba opens free AI phone calling feature in Qwen Go",
    "ts": "2026-11-25T04:37:32.846574+00:00"
@@ -1864,11 +1856,15 @@
   {
    "headline": "Tencent Hunyuan releases Hy3D 3.6 model",
    "ts": "2026-11-27T03:37:30.698446+00:00"
+  },
+  {
+   "headline": "Tihu Robot launches Lite-1 lightweight joint modules",
+   "ts": "2026-11-27T04:07:21.527796+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4289,38 +4285,15 @@
    "desc": "Quickwit查询总耗时降31%，最高降87%",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513091.html": {
+   "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+   "desc": "倒计时两周，报名从速！",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "a9a0d77b488e5aa9",
-   "item": {
-    "id": "a9a0d77b488e5aa9",
-    "title": "深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效",
-    "url": "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html",
-    "source": "LeiPhone",
-    "image": "",
-    "snippet": "近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。 当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。头部、手臂、腰部等部位空间有限，对关节的轴向尺寸提出了更高要求；多关节带来的复杂线束，也增加了走线与装配难度。关节模组的轻量化并非“减配”，而是通过结构设计优化与集成度提升，在更小的体积内实现同等的控制精度与可靠性。 结构设计：轴向长度较上代至多缩短22.5% 据介绍，该系列采用驱控板与编码器一体化集成，整机部件精简至6个，内部排布更紧凑。同外径尺寸下，关节轴向长度较上代产品至多缩短22.5%；侧出线设计减少线束转弯，使带线轴向安装空间节省多达30%，为人形机器人头部、手腕等部位留出更大设计余量，助力整机外形更贴近人形比例。 驱感一体：兼顾控制精度与运行稳定 集成带来的收益不止于结构层：信号走线更短、链路干扰更低，可支撑整机高频控制与快速响应。关节输出线性度高，搭配双编码器架构，位置反馈更稳定，实现全场景0跳变，运动更平稳精细；低温升特性减少长时间连续运行中的热衰减，为高负载工况下的可靠性与持久性提供支撑。 多规格布局：外径覆盖40至80毫米 该系列提供5种规格，外径覆盖40毫米至80毫米，可适配…",
-    "published": "2026-11-26T13:45:00+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Tihu Robot launches Lite-1 lightweight joint modules",
-   "post": "Tihu Robot released the Lite-1 series of lightweight joint modules for humanoid robots, featuring a streamlined structure that reduces axial length by up to 22.5 percent.",
-   "editor_note": "Verify the external dimensions and specifications across the 40 to 80 millimeter range stated in the source.",
-   "support": 0.95,
-   "published_at": "2026-11-26T13:45:00+00:00",
-   "first_seen_at": "2026-11-26T16:07:24.987187+00:00",
-   "expires_at": "2026-11-28T01:45:00+00:00",
-   "decision": 0.89,
-   "priority": 7.130094,
-   "selection_reason": "Editorial importance; waiting 11.5h"
-  },
   {
    "id": "57d44ce903d1ef13",
    "item": {
@@ -4347,8 +4320,8 @@
    "first_seen_at": "2026-11-27T03:07:21.295891+00:00",
    "expires_at": "2026-11-28T14:58:17+00:00",
    "decision": 1.61,
-   "priority": 7.049919,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 7.067191,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   },
   {
    "id": "1d68c48dbd5983b5",
@@ -4376,8 +4349,8 @@
    "first_seen_at": "2026-11-27T01:07:33.136495+00:00",
    "expires_at": "2026-11-28T12:52:51+00:00",
    "decision": 1.3,
-   "priority": 7.013309,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.030581,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "d2f5bca6cce19fca",
@@ -4405,8 +4378,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-28T14:31:35+00:00",
    "decision": 1.25,
-   "priority": 6.948815,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.966088,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "979537701aab32eb",
@@ -4434,8 +4407,8 @@
    "first_seen_at": "2026-11-27T01:37:22.221989+00:00",
    "expires_at": "2026-11-28T13:37:20+00:00",
    "decision": 0.93,
-   "priority": 6.879509,
-   "selection_reason": "Editorial importance; waiting 2.0h"
+   "priority": 6.896782,
+   "selection_reason": "Editorial importance; waiting 2.5h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4464,8 +4437,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 6.698242,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.724151,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4494,13 +4467,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.668242,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.694151,
+   "selection_reason": "Editorial importance; waiting 1.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": "2026-11-13T03:38:18.776346+00:00",
   "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": "2026-11-13T04:09:20.181440+00:00",
   "https://36kr.com/newsflashes/4067554198770564?f=rss": "2026-11-13T04:38:09.638610+00:00",
   "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00",
@@ -4825,94 +4797,15 @@
   "https://arxiv.org/abs/2611.34575": "2026-11-27T01:37:53.223246+00:00",
   "https://36kr.com/p/4087361074575753?f=rss": "2026-11-27T02:11:27.035648+00:00",
   "https://36kr.com/newsflashes/4086394631170692?f=rss": "2026-11-27T02:37:44.777659+00:00",
-  "https://36kr.com/newsflashes/4086378294421893?f=rss": "2026-11-27T03:07:47.083173+00:00"
+  "https://36kr.com/newsflashes/4086378294421893?f=rss": "2026-11-27T03:07:47.083173+00:00",
+  "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html": "2026-11-27T04:07:55.698836+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
-  "22a7c45512f678af": {
-   "imp": 2.05,
-   "ai": 0.96,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "83ddb5de16e8b3a4": {
-   "imp": 1.39,
-   "ai": 0.83,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "e1eec2170dd24d08": {
-   "imp": 1.65,
-   "ai": 0.89,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "ee9cab8cb647face": {
-   "imp": 1.32,
-   "ai": 0.96,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "ff7b1c1c3906c736": {
-   "imp": 2.66,
-   "ai": 0.98,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "e8b58c39212f2d0c": {
-   "imp": 2.22,
-   "ai": 0.96,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "1b0e429be108f180": {
-   "imp": 1.74,
-   "ai": 0.93,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "1920fe29d65da115": {
-   "imp": 0.24,
-   "ai": 0.05,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "79529b32269fe179": {
-   "imp": 0.37,
-   "ai": 0.14,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "56f5030130ad7688": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "8b44e71af3b8dc3d": {
-   "imp": 0.19,
-   "ai": 0.03,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "bb67bde984de5580": {
-   "imp": 0.27,
-   "ai": 0.08,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "ade9b7eb305feb8a": {
-   "imp": 0.57,
-   "ai": 0.27,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "c0dede4771aff3e5": {
-   "imp": 1.45,
-   "ai": 0.31,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "f11515059ed0fd13": {
-   "imp": 0.07,
-   "ai": 0.03,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
-  "ba57bfa1d6264034": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-19T04:07:23.650343+00:00"
-  },
   "218ba83ff3c9d062": {
    "imp": 1.07,
    "ai": 0.65,
@@ -25152,6 +25045,71 @@
    "imp": 0.23,
    "ai": 0.05,
    "ts": "2026-11-27T03:37:30.698446+00:00"
+  },
+  "7cd43e5737a18ee2": {
+   "imp": 0.2,
+   "ai": 0.72,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "e6cce6cb6175e450": {
+   "imp": 1.48,
+   "ai": 0.95,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "6d0193b83ae74396": {
+   "imp": 0.26,
+   "ai": 0.17,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "b29a7806a19df0b2": {
+   "imp": 0.91,
+   "ai": 0.43,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "52da0402a6dffbad": {
+   "imp": 0.56,
+   "ai": 0.16,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "b02b6c6dc579f160": {
+   "imp": 0.16,
+   "ai": 0.07,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "458d8647f44e1787": {
+   "imp": 0.17,
+   "ai": 0.08,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "16024ee8e18e6ae1": {
+   "imp": 0.21,
+   "ai": 0.03,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "b08bcb45b908947e": {
+   "imp": 0.26,
+   "ai": 0.07,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "62eea1b30961aa86": {
+   "imp": 0.34,
+   "ai": 0.12,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "41897cfddd14a1c1": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "95c3c5267d27727a": {
+   "imp": 0.17,
+   "ai": 0.03,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "3bd8011a6e5a7214": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-27T04:07:21.527796+00:00"
   }
  }
 }
