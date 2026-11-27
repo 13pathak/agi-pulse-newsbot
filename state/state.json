@@ -1,17 +1,5 @@
 {
  "seen": {
-  "fd2811614640e90d": "2026-11-20T10:07:27.760801+00:00",
-  "bd9ef799e681f3e1": "2026-11-20T10:07:27.760801+00:00",
-  "7a8afe98ed9f7077": "2026-11-20T10:07:27.760801+00:00",
-  "4c6ebc3be234a5ca": "2026-11-20T10:07:27.760801+00:00",
-  "910c11a7679c150c": "2026-11-20T10:07:27.760801+00:00",
-  "cc1bed186168f370": "2026-11-20T10:07:27.760801+00:00",
-  "b47c1d5a6bcac055": "2026-11-20T10:07:27.760801+00:00",
-  "f308477aea1d2625": "2026-11-20T10:07:27.760801+00:00",
-  "c1fe6e4cca9dd9e0": "2026-11-20T10:07:27.760801+00:00",
-  "55e309827a077380": "2026-11-20T10:07:27.760801+00:00",
-  "033ccd75400dbe4c": "2026-11-20T10:07:27.760801+00:00",
-  "a3863f0b4fbf0b74": "2026-11-20T10:07:27.760801+00:00",
   "4ee36b4bc5d18e3c": "2026-11-20T10:37:24.685869+00:00",
   "9b3cc20958135393": "2026-11-20T10:37:24.685869+00:00",
   "eff10dd94532cdc0": "2026-11-20T10:37:24.685869+00:00",
@@ -1638,13 +1626,16 @@
   "b382bfc93d4ee724": "2026-11-27T09:07:23.521383+00:00",
   "f41ca0f95fc32099": "2026-11-27T09:37:35.287154+00:00",
   "6ef866bf4749b6f9": "2026-11-27T09:37:35.287154+00:00",
-  "1ae1eb8bc35b2a79": "2026-11-27T09:37:35.287154+00:00"
+  "1ae1eb8bc35b2a79": "2026-11-27T09:37:35.287154+00:00",
+  "293da44ede231067": "2026-11-27T10:07:23.174018+00:00",
+  "dec6987784f252fd": "2026-11-27T10:07:23.174018+00:00",
+  "02a1fb735391e34c": "2026-11-27T10:07:23.174018+00:00",
+  "ce897622e3d5e7c5": "2026-11-27T10:07:23.174018+00:00",
+  "21800f865bba1aea": "2026-11-27T10:07:23.174018+00:00",
+  "b62610b269a0a071": "2026-11-27T10:07:23.174018+00:00",
+  "ce2e0603d85ba78e": "2026-11-27T10:07:23.174018+00:00"
  },
  "covered": [
-  {
-   "headline": "Rodic Consultants proposes 200 crore rupee infrastructure AI fund",
-   "ts": "2026-11-25T10:07:25.457270+00:00"
-  },
   {
    "headline": "Indic voice agent built using IBM CUGA framework",
    "ts": "2026-11-25T10:37:36.091192+00:00"
@@ -1864,11 +1855,15 @@
   {
    "headline": "Former xAI executives launch predictive AI startup Epochal",
    "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  {
+   "headline": "Weiyun Chuangda launches AI training appliances",
+   "ts": "2026-11-27T10:07:23.174018+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 18
+  "count": 19
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4341,63 +4336,6 @@
  },
  "pending": [
   {
-   "id": "ce2e0603d85ba78e",
-   "item": {
-    "id": "ce2e0603d85ba78e",
-    "title": "威云创达CEO何金：一家图像传感器龙头，为什么下场做AI算力？",
-    "url": "https://36kr.com/p/4086249473534598?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "作者丨邱晓芬 编辑丨袁斯来 国产算力市场迎来了一位跨界玩家。 11月25日，国产CMOS图像传感器厂商思特威旗下全资子公司威云创达，在上海召开了成立以来的首场新品发布会，推出两款AI训推一体机1000Pro、1000Ultra，以及物理AI智能体工作站Station、AI影视创作工具“织影”。 其中，旗舰级产品1000Ultra最高拥有47.5 PFLOPS FP4算力、4.66TB显存，支持多种大模型单机全参数部署；桌面级产品Station则拥有最高680GB显存，能够接入12路环境感知摄像头。 思特威成立于2017年，2022年登陆科创板，是国内头部CMOS图像传感器（CIS）厂商之一，产品覆盖智慧安防、智能手机、汽车电子及机器视觉等领域，下游客户包括海康威视、大疆、小米、OPPO、比亚迪等。 令外界好奇的是，一家以图像传感器起家的芯片公司，为何要跨界做算力？ 过去几年，国内算力厂商大多集中在云端和端侧两个市场，但随着AI进入物理世界，处于两者之间的边缘算力需求正在增长——大量传感器产生的实时数据，端侧芯片难以充分处理，上传云端又面临带宽、延时和隐私等问题。 这正是思特威在与下游客户打交道的过程中发现的产业机会。 威云创达于今年9月正式成立，其CEO何金本硕毕业于清华大学自动化系，2018年加入思特威，长期从事芯片及神经网络相关研发；COO高天昊博士毕业于上海交通大学，研究方向为大语言模型。 在竞争日趋激烈的国产算力市场，威云创达选择了一条不同的技术路线：通过自研WAAG™异构AI-ASIC集群互联架构，去掉传统服务器架构中的独立CPU和DDR内存，并兼容不同厂商的AI-A…",
-    "published": "2026-11-27T06:09:07+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Weiyun Chuangda launches AI training appliances",
-   "post": "Weiyun Chuangda, a subsidiary of SmartSens, launched its 1000Pro and 1000Ultra AI training and inference appliances, featuring up to 47.5 PFLOPS FP4 computing power.",
-   "editor_note": "Check memory bandwidth and architectural specifications for the 1000Ultra model.",
-   "support": 0.94,
-   "published_at": "2026-11-27T06:09:07+00:00",
-   "first_seen_at": "2026-11-27T06:37:21.405182+00:00",
-   "expires_at": "2026-11-28T18:09:07+00:00",
-   "decision": 1.45,
-   "priority": 7.07456,
-   "selection_reason": "Editorial importance; waiting 3.0h"
-  },
-  {
-   "id": "0f316b663c9a5e45",
-   "item": {
-    "id": "0f316b663c9a5e45",
-    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
-    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
-    "source": "MediaNama",
-    "image": "",
-    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
-    "published": "2026-11-27T07:28:15+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "UK regulator warns AI agents must maintain user control",
-   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
-   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
-   "support": 0.56,
-   "published_at": "2026-11-27T07:28:15+00:00",
-   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
-   "expires_at": "2026-11-28T19:28:15+00:00",
-   "decision": 1.58,
-   "priority": 7.060749,
-   "selection_reason": "Editorial importance; waiting 1.5h"
-  },
-  {
    "id": "81c7402b92ff6c29",
    "item": {
     "id": "81c7402b92ff6c29",
@@ -4424,8 +4362,36 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.058665,
-   "selection_reason": "Editorial importance; waiting 3.5h"
+   "priority": 7.084531,
+   "selection_reason": "Editorial importance; waiting 4.0h"
+  },
+  {
+   "id": "0f316b663c9a5e45",
+   "item": {
+    "id": "0f316b663c9a5e45",
+    "title": "UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches",
+    "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "How much access should a personal AI agent have to your accounts and information? The UK CMA says consumers must be able to control what these products can access and do. The post UK regulator warns AI agents must give users control over data access and autonomy as Meta Muse launches appeared first on MEDIANAMA .",
+    "published": "2026-11-27T07:28:15+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "UK regulator warns AI agents must maintain user control",
+   "post": "The UK Competition and Markets Authority stated that personal AI agents must allow consumers to maintain explicit control over the data and accounts the software can access and operate.",
+   "editor_note": "Confirm whether the CMA statement represents formal regulatory guidance or an initial policy warning.",
+   "support": 0.56,
+   "published_at": "2026-11-27T07:28:15+00:00",
+   "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
+   "expires_at": "2026-11-28T19:28:15+00:00",
+   "decision": 1.58,
+   "priority": 7.077993,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4454,8 +4420,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.010808,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.036675,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4484,13 +4450,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.980808,
-   "selection_reason": "Editorial importance; waiting 7.0h"
+   "priority": 7.006675,
+   "selection_reason": "Editorial importance; waiting 7.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs": "2026-11-13T10:08:21.820023+00:00",
   "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
   "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
   "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
@@ -4815,114 +4780,15 @@
   "https://36kr.com/newsflashes/4087704722061960?f=rss": "2026-11-27T08:08:25.135045+00:00",
   "https://36kr.com/newsflashes/4087340087753090?f=rss": "2026-11-27T08:39:43.939974+00:00",
   "https://36kr.com/newsflashes/4087760611178888?f=rss": "2026-11-27T09:10:06.741273+00:00",
-  "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html": "2026-11-27T09:38:50.448745+00:00"
+  "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html": "2026-11-27T09:38:50.448745+00:00",
+  "https://36kr.com/p/4086249473534598?f=rss": "2026-11-27T10:08:38.044592+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 16
+  "takes": 17
  },
  "triage": {
-  "7377e6f77e06d5d3": {
-   "imp": 2.34,
-   "ai": 0.95,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "e5fa51b75c6dacaf": {
-   "imp": 2.48,
-   "ai": 0.92,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "7e1c15465762e1fd": {
-   "imp": 1.46,
-   "ai": 0.93,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "9f990a9453793075": {
-   "imp": 0.9,
-   "ai": 0.93,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "d21398f0a33fa2b7": {
-   "imp": 1.02,
-   "ai": 0.94,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "0c778e96251b796f": {
-   "imp": 2.3,
-   "ai": 0.98,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "f31f39c0e9078859": {
-   "imp": 1.48,
-   "ai": 0.42,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "9c12441c042bf1a6": {
-   "imp": 1.44,
-   "ai": 0.91,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "5b9ed1d420ef2ece": {
-   "imp": 1.05,
-   "ai": 0.92,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "0191361613981656": {
-   "imp": 1.65,
-   "ai": 0.49,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "a5203edeaa746295": {
-   "imp": 1.46,
-   "ai": 0.94,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "3f8a3cf0e05149eb": {
-   "imp": 1.84,
-   "ai": 0.91,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "06679ca6f4088936": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "0f2d140aad96d7d0": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "acefe840f6dc75b9": {
-   "imp": 0.82,
-   "ai": 0.08,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "fa7c7039ffc6864c": {
-   "imp": 0.66,
-   "ai": 0.12,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "a4d8c47ec9e90123": {
-   "imp": 0.45,
-   "ai": 0.08,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "64f74b417f766b9f": {
-   "imp": 0.3,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "b2e9713a69a5fbfc": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
-  "001502c4ddb68fdf": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-19T10:07:23.477122+00:00"
-  },
   "e63363d23c4e9429": {
    "imp": 2.05,
    "ai": 0.96,
@@ -25252,6 +25118,106 @@
    "imp": 0.28,
    "ai": 0.03,
    "ts": "2026-11-27T09:37:35.287154+00:00"
+  },
+  "21800f865bba1aea": {
+   "imp": 1.2,
+   "ai": null,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "b62610b269a0a071": {
+   "imp": 0.46,
+   "ai": null,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "dec6987784f252fd": {
+   "imp": 1.73,
+   "ai": null,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "293da44ede231067": {
+   "imp": 2.26,
+   "ai": 0.91,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "02a1fb735391e34c": {
+   "imp": 1.52,
+   "ai": 0.86,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "a9cfa4a5ebcde1e9": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "18932f22ed9f5943": {
+   "imp": 0.46,
+   "ai": 0.13,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "ce897622e3d5e7c5": {
+   "imp": 1.36,
+   "ai": 0.97,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "bb654ecadb25e647": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "25f210e382b62046": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "48642f4c0643170a": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "2172fd14f85f27ce": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "496ab7b7c7182ed3": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "e2c47333ffe00f96": {
+   "imp": 0.09,
+   "ai": 0.04,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "9646209f2bbf55e8": {
+   "imp": 0.05,
+   "ai": 0.03,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "2f2c4173f9b60045": {
+   "imp": 0.04,
+   "ai": 0.02,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "be83e4bbde846f20": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "56115fc91e040be3": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "67ae9943ab29a786": {
+   "imp": 0.2,
+   "ai": 0.04,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  "d0a5267e0ebcf801": {
+   "imp": 0.06,
+   "ai": 0.03,
+   "ts": "2026-11-27T10:07:23.174018+00:00"
   }
  }
 }
