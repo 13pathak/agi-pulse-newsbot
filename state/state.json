@@ -1,27 +1,5 @@
 {
  "seen": {
-  "5590d4d47ed2184b": "2026-11-20T01:37:24.042985+00:00",
-  "7e9fc57c134e72d2": "2026-11-20T01:37:24.042985+00:00",
-  "cb99e2baa62e7866": "2026-11-20T01:37:24.042985+00:00",
-  "b555cb95b60d6e2b": "2026-11-20T01:37:24.042985+00:00",
-  "a0888e9365a74251": "2026-11-20T01:37:24.042985+00:00",
-  "74e2df77898470ff": "2026-11-20T01:37:24.042985+00:00",
-  "4fcd6ac84d19314d": "2026-11-20T01:37:24.042985+00:00",
-  "71fe76ed06ab9f5b": "2026-11-20T01:37:24.042985+00:00",
-  "1a810873551c1811": "2026-11-20T01:37:24.042985+00:00",
-  "91dc9797ab553920": "2026-11-20T01:37:24.042985+00:00",
-  "0810890cce223fe1": "2026-11-20T01:37:24.042985+00:00",
-  "3aff5807a280dfbc": "2026-11-20T01:37:24.042985+00:00",
-  "d8d48924d5712e74": "2026-11-20T01:37:24.042985+00:00",
-  "fd8de73e91659920": "2026-11-20T01:37:24.042985+00:00",
-  "73b84a666fa75b01": "2026-11-20T01:37:24.042985+00:00",
-  "9336b6b3add507b6": "2026-11-20T01:37:24.042985+00:00",
-  "0daf5227b7d58029": "2026-11-20T01:37:24.042985+00:00",
-  "52653ae3ad736466": "2026-11-20T01:37:24.042985+00:00",
-  "26413345f446f766": "2026-11-20T01:37:24.042985+00:00",
-  "2dbed38e5df5060e": "2026-11-20T01:37:24.042985+00:00",
-  "1200c1454b76f309": "2026-11-20T01:37:24.042985+00:00",
-  "9db0edfc2ece3c1b": "2026-11-20T01:37:24.042985+00:00",
   "c7569a295cb76304": "2026-11-20T02:07:21.754790+00:00",
   "50979d7393a8f30c": "2026-11-20T02:07:21.754790+00:00",
   "d9d2fba47fd34f0c": "2026-11-20T02:07:21.754790+00:00",
@@ -1677,7 +1655,9 @@
   "edaccff34306b494": "2026-11-27T01:07:33.136495+00:00",
   "0057734c8df6f17c": "2026-11-27T01:07:33.136495+00:00",
   "c881f1e7111092b0": "2026-11-27T01:07:33.136495+00:00",
-  "79c814180f5079e5": "2026-11-27T01:07:33.136495+00:00"
+  "79c814180f5079e5": "2026-11-27T01:07:33.136495+00:00",
+  "4a59c408fca93c23": "2026-11-27T01:37:22.221989+00:00",
+  "09d9e4445ef2d9b1": "2026-11-27T01:37:22.221989+00:00"
  },
  "covered": [
   {
@@ -1895,11 +1875,15 @@
   {
    "headline": "Nvidia pauses AI server shipments to Southeast Asia",
    "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  {
+   "headline": "Shanghai AI Lab introduces Sage-Med-Preview medical AI model",
+   "ts": "2026-11-27T01:37:22.221989+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 1
+  "count": 2
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4312,36 +4296,6 @@
  },
  "pending": [
   {
-   "id": "09d9e4445ef2d9b1",
-   "item": {
-    "id": "09d9e4445ef2d9b1",
-    "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
-    "url": "https://arxiv.org/abs/2611.34575",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Lab: Shanghai AI Laboratory. Upvotes: 75. Abstract: Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we introduce Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters, built by combining stage-specific curation over 322.7 million candidate records with a progressive training curriculum spanning medical pretraining, staged supervised fine-tuning, and adaptive reinforcement learning. Across this curriculum, progressive supervised refinement and adaptive reinforcement learning yield consistent stage-wise gains, substantially advancing both specialized visual understanding and medical language capabilities. Evaluated against 77 competing models across 238 clinical tasks spanning 61 public and 13 private multi-center benchmarks in more than 40 modalities, Sage-Med-Preview achieves an average score of 58.26% on the 31 public multimodal benchmarks. It outperforms the state-of-the-art open-source medical model Hulu-Med-235B-A22B at 50.99% and the general scientific model Intern-S2-Preview at 52.24%, and approaches the advanced proprietary model GP…",
-    "published": "2026-11-26T00:00:00+00:00",
-    "upvotes": 75,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34575.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "timely",
-   "headline": "Shanghai AI Lab introduces Sage-Med-Preview medical AI model",
-   "post": "Researchers at Shanghai AI Laboratory introduced Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters that scored 58.26% across 31 public multimodal benchmarks.",
-   "editor_note": "Verify benchmark score comparison against Hulu-Med-235B-A22B (50.99%) and Intern-S2-Preview (52.24%).",
-   "support": 0.94,
-   "published_at": "2026-11-26T00:00:00+00:00",
-   "first_seen_at": "2026-11-26T12:07:24.634480+00:00",
-   "expires_at": "2026-11-30T00:00:00+00:00",
-   "decision": 1.53,
-   "priority": 7.498272,
-   "selection_reason": "Editorial importance; waiting 13.0h"
-  },
-  {
    "id": "242edb948acd8745",
    "item": {
     "id": "242edb948acd8745",
@@ -4367,8 +4321,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:35:34+00:00",
    "decision": 1.28,
-   "priority": 7.245192,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.231387,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "31156cbb2f5e8b4a",
@@ -4396,8 +4350,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.224166,
-   "selection_reason": "Editorial importance; waiting 15.5h"
+   "priority": 7.210361,
+   "selection_reason": "Editorial importance; waiting 16.0h"
   },
   {
    "id": "a9a0d77b488e5aa9",
@@ -4425,8 +4379,8 @@
    "first_seen_at": "2026-11-26T16:07:24.987187+00:00",
    "expires_at": "2026-11-28T01:45:00+00:00",
    "decision": 0.89,
-   "priority": 7.043312,
-   "selection_reason": "Editorial importance; waiting 9.0h"
+   "priority": 7.060568,
+   "selection_reason": "Editorial importance; waiting 9.5h"
   },
   {
    "id": "1d68c48dbd5983b5",
@@ -4454,14 +4408,41 @@
    "first_seen_at": "2026-11-27T01:07:33.136495+00:00",
    "expires_at": "2026-11-28T12:52:51+00:00",
    "decision": 1.3,
-   "priority": 6.926527,
+   "priority": 6.943783,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "979537701aab32eb",
+   "item": {
+    "id": "979537701aab32eb",
+    "title": "国家统计局：人工智能算力需求持续增加，带动存储芯片和周边制造等相关行业利润持续增长",
+    "url": "https://36kr.com/newsflashes/4087340087753090?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，国家统计局工业司首席统计师于卫宁解读2026年1—10月份工业企业利润数据表示，电子行业对利润增长支撑作用明显。人工智能算力需求持续增加，带动存储芯片和周边制造等相关行业利润持续增长。1—10月份，电子行业利润同比增长1.0倍，拉动全部规模以上工业企业利润增长9.7个百分点，是规模以上工业企业利润较快增长的重要支撑。从细分领域看，计算机制造中，计算机整机制造、计算机外围设备制造行业利润分别增长4.1倍、2.0倍；电子元件及电子专用材料制造中，电子专用材料制造、电子电路制造行业利润分别增长2.2倍、81.6%；电子器件制造中，光电子器件制造、半导体分立器件制造行业利润分别增长69.7%、57.5%。",
+    "published": "2026-11-27T01:37:20+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "China National Bureau of Statistics reports AI computing demand growth",
+   "post": "China's National Bureau of Statistics reported that increased demand for AI computing drove profit growth in storage chips and peripheral manufacturing between January and October.",
+   "editor_note": "Verify bureau statistics cite 1.0 times year-on-year profit growth for the electronics sector.",
+   "support": 0.9,
+   "published_at": "2026-11-27T01:37:20+00:00",
+   "first_seen_at": "2026-11-27T01:37:22.221989+00:00",
+   "expires_at": "2026-11-28T13:37:20+00:00",
+   "decision": 0.93,
+   "priority": 6.809983,
    "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents": "2026-11-13T01:08:58.806600+00:00",
-  "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1": "2026-11-13T01:08:58.806600+00:00",
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": "2026-11-13T01:38:16.290311+00:00",
   "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395": "2026-11-13T02:07:54.801545+00:00",
   "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html": "2026-11-13T02:38:08.836413+00:00",
@@ -4787,289 +4768,15 @@
   "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11": "2026-11-26T16:07:54.685515+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring": "2026-11-26T16:37:52.737031+00:00",
   "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": "2026-11-26T17:07:52.908810+00:00",
-  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": "2026-11-27T01:08:00.696089+00:00"
+  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": "2026-11-27T01:08:00.696089+00:00",
+  "https://arxiv.org/abs/2611.34575": "2026-11-27T01:37:53.223246+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 1
+  "takes": 2
  },
  "triage": {
-  "95c553c2433f39cb": {
-   "imp": 1.91,
-   "ai": 0.93,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "7c4fb2b7f4c11b62": {
-   "imp": 1.97,
-   "ai": 0.96,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "881783ef802b37af": {
-   "imp": 1.07,
-   "ai": null,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "66831b4cb9812f3b": {
-   "imp": 0.79,
-   "ai": null,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "c0f4b43c2943df39": {
-   "imp": 0.18,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "9b09dc54b2a7e186": {
-   "imp": 0.47,
-   "ai": 0.18,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "6ba1bae0270f9a21": {
-   "imp": 1.69,
-   "ai": 0.81,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "cb025945b716cc7d": {
-   "imp": 1.94,
-   "ai": 0.94,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "e6bd830efd245922": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "3a5fc64e2d80442c": {
-   "imp": 0.47,
-   "ai": 0.32,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "1f3557556ce86619": {
-   "imp": 1.45,
-   "ai": 0.81,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "62a281961d5bf6ac": {
-   "imp": 0.15,
-   "ai": 0.06,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "f0f137b3a039a781": {
-   "imp": 0.4,
-   "ai": 0.18,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "c43dc7a7da988f9c": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "468ac0b85b577647": {
-   "imp": 0.29,
-   "ai": 0.39,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "19a789dac9e55fa8": {
-   "imp": 0.39,
-   "ai": 0.3,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "cb20c830bdcfa181": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "20f0b9e972a59cdb": {
-   "imp": 1.29,
-   "ai": 0.71,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "f5cb1663952c6939": {
-   "imp": 0.88,
-   "ai": 0.26,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "5df5d55ae23d47f9": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "9d96376427d7f2f5": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "50dfc5c6a1dc859c": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "859a451cb8656a8f": {
-   "imp": 0.17,
-   "ai": 0.04,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "0b696216ccd629f3": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "74e0bb8e864bb1f8": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "f73c568aa0b52318": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "bda402ec13d338f0": {
-   "imp": 0.22,
-   "ai": 0.03,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "665ad1fbab37a533": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "844a8c0768c188de": {
-   "imp": 0.4,
-   "ai": 0.1,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "0f76ab97dbe0175e": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "47a3ab78d767e9ea": {
-   "imp": 0.58,
-   "ai": 0.38,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "99f9b9f8e0fa01e2": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "38d68d11e20e51ac": {
-   "imp": 0.25,
-   "ai": 0.1,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "6c806577f599caa6": {
-   "imp": 0.2,
-   "ai": 0.05,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "742b4ac9d4929cdc": {
-   "imp": 0.17,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "df231e0b147ab56a": {
-   "imp": 0.35,
-   "ai": 0.1,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "21246fbe2b698a83": {
-   "imp": 0.16,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "c3cf19cee4dd9331": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "94cd7fa58607c8d8": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "02fb8f046c687273": {
-   "imp": 0.19,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "063da19623615878": {
-   "imp": 0.16,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "16ea5d51a2e1f199": {
-   "imp": 0.16,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "dfc3a766cc748162": {
-   "imp": 0.35,
-   "ai": 0.13,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "ab4391b92510d8cf": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "bde2d636f34b2ef1": {
-   "imp": 0.48,
-   "ai": 0.12,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "add792c1604578ed": {
-   "imp": 0.13,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "023ee00b7ff82e29": {
-   "imp": 0.2,
-   "ai": 0.04,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "4ff3d92e8306d56c": {
-   "imp": 0.12,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "dc10d4846ea8a2f5": {
-   "imp": 0.1,
-   "ai": 0.01,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "3e4781c2b1478f7f": {
-   "imp": 0.23,
-   "ai": 0.05,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "62b1a79eae902740": {
-   "imp": 0.17,
-   "ai": 0.03,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "d9a5102df5a30e16": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "f868ebf1f6a830f8": {
-   "imp": 0.15,
-   "ai": 0.04,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "ff11cc3668eeddb5": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
-  "41b4ad9fe4939734": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-19T01:37:25.956206+00:00"
-  },
   "abff6da5e73aa258": {
    "imp": 2.29,
    "ai": 0.97,
@@ -25364,6 +25071,56 @@
    "imp": 0.22,
    "ai": 0.03,
    "ts": "2026-11-27T01:07:33.136495+00:00"
+  },
+  "4a59c408fca93c23": {
+   "imp": 1.19,
+   "ai": 0.96,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "979537701aab32eb": {
+   "imp": 0.93,
+   "ai": 0.74,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "8efa6deb488badf7": {
+   "imp": 0.26,
+   "ai": 0.11,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "fa3977588de7b079": {
+   "imp": 0.47,
+   "ai": 0.08,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "76bbdb411437beca": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "fcc3163fd2d18e66": {
+   "imp": 0.23,
+   "ai": 0.08,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "2aa2e9cfe05988ec": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "ad0346c7b1f5a50d": {
+   "imp": 0.25,
+   "ai": 0.18,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "a6530a0aa7cc802c": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
+  },
+  "0cb930984b36ee80": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-27T01:37:22.221989+00:00"
   }
  }
 }
