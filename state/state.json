@@ -1,10 +1,5 @@
 {
  "seen": {
-  "3e97e19d49f6ea71": "2026-11-20T06:07:22.297191+00:00",
-  "ad74b50e7f7ef6b0": "2026-11-20T06:07:22.297191+00:00",
-  "539200b54fe4ce1b": "2026-11-20T06:07:22.297191+00:00",
-  "a628e3d51eab8a75": "2026-11-20T06:07:22.297191+00:00",
-  "6d6821f501bbce2e": "2026-11-20T06:07:22.297191+00:00",
   "11127e294ca2d614": "2026-11-20T06:37:35.518093+00:00",
   "c956e5a3c351c7f3": "2026-11-20T06:37:35.518093+00:00",
   "86ce3137a6f2406d": "2026-11-20T06:37:35.518093+00:00",
@@ -1634,13 +1629,16 @@
   "e7edef2778ec27b3": "2026-11-27T05:37:25.885584+00:00",
   "e5ad0122332ae693": "2026-11-27T05:37:25.885584+00:00",
   "097cb3bb897df025": "2026-11-27T05:37:25.885584+00:00",
-  "1d68c48dbd5983b5": "2026-11-27T05:37:25.885584+00:00"
+  "1d68c48dbd5983b5": "2026-11-27T05:37:25.885584+00:00",
+  "6a4696952513d4e6": "2026-11-27T06:07:24.327279+00:00",
+  "a4efc93a02d20210": "2026-11-27T06:07:24.327279+00:00",
+  "5ad0c83c5fe9110c": "2026-11-27T06:07:24.327279+00:00",
+  "ac96762828e7aac4": "2026-11-27T06:07:24.327279+00:00",
+  "22df109b65d8d992": "2026-11-27T06:07:24.327279+00:00",
+  "4caa774fe8ab25d3": "2026-11-27T06:07:24.327279+00:00",
+  "755aa823de8d9095": "2026-11-27T06:07:24.327279+00:00"
  },
  "covered": [
-  {
-   "headline": "EU plans 50 billion euro tech fund",
-   "ts": "2026-11-25T06:07:22.355988+00:00"
-  },
   {
    "headline": "Sand.ai releases MAGI-2 video generation model",
    "ts": "2026-11-25T06:37:29.240366+00:00"
@@ -1856,11 +1854,15 @@
   {
    "headline": "Samsung forms dedicated robot team for semiconductor factories",
    "ts": "2026-11-27T05:37:25.885584+00:00"
+  },
+  {
+   "headline": "Ant Lingbo releases LingBot-Map 2.0 and LingBot-Navi",
+   "ts": "2026-11-27T06:07:24.327279+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 10
+  "count": 11
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4305,6 +4307,18 @@
    "desc": "",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513211.html": {
+   "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+   "desc": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513194.html": {
+   "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+   "desc": "企业需要有用的 AI",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4334,8 +4348,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-28T14:31:35+00:00",
    "decision": 1.25,
-   "priority": 7.018213,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.035559,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "979537701aab32eb",
@@ -4363,8 +4377,8 @@
    "first_seen_at": "2026-11-27T01:37:22.221989+00:00",
    "expires_at": "2026-11-28T13:37:20+00:00",
    "decision": 0.93,
-   "priority": 6.948907,
-   "selection_reason": "Editorial importance; waiting 4.0h"
+   "priority": 6.966253,
+   "selection_reason": "Editorial importance; waiting 4.5h"
   },
   {
    "id": "1ae1eb8bc35b2a79",
@@ -4392,8 +4406,38 @@
    "first_seen_at": "2026-11-27T05:07:24.732633+00:00",
    "expires_at": "2026-11-28T14:58:00+00:00",
    "decision": 1.44,
-   "priority": 6.937459,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.954805,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "81c7402b92ff6c29",
+   "item": {
+    "id": "81c7402b92ff6c29",
+    "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+    "url": "https://arxiv.org/abs/2611.34232",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: Touchstone AI. Upvotes: 59. Abstract: Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states. We introduce OS-Omni, a live cross-platform benchmark and execution environment for evaluating computer-using agents across Windows, Ubuntu, macOS, iOS, Android, and Web environments. OS-Omni is released in versioned waves of 300 tasks each; this paper focuses on the first release, v1, which contains 48 tasks per platform and 12 cross-platform workflows that pair a desktop with an Android phone. OS-Omni provides reproducible initialization, platform-specific adapters, trajectory logging, and executable final-state evaluators, and includes controlled service-backed applications for workflows involving account, cart, budget, calendar, message, and other persistent state. Human studies show that OS-Omni tasks require 67.54 interaction steps, substantially exceeding OSWorld references of 15.0 steps. On v1, the strongest evaluated agent, Claude Opus 5.5, reaches 68.5% average success, trailing the 77.3% human reference by 8.8 points; the gap is uneven across platforms, with frontier models exceeding humans on Linux but trailing them by more than 25 points on iOS and macOS. These results indicate that current agents remain far f…",
+    "published": "2026-11-27T00:00:00+00:00",
+    "upvotes": 59,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34232.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Touchstone AI introduces OS-Omni cross-platform agent benchmark",
+   "post": "New paper: Touchstone AI introduces OS-Omni, a live cross-platform benchmark evaluating computer-using agents across Windows, Ubuntu, macOS, iOS, Android, and Web environments. On v1, Claude Opus 5.5 reached 68.5 percent average success across 300 tasks.",
+   "editor_note": "Check that OS-Omni v1 contains 48 tasks per platform and 12 cross-platform workflows pairing a desktop with an Android phone.",
+   "support": 0.78,
+   "published_at": "2026-11-27T00:00:00+00:00",
+   "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
+   "expires_at": "2026-12-01T00:00:00+00:00",
+   "decision": 1.32,
+   "priority": 6.876214,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "0701b6365593a13f",
@@ -4422,8 +4466,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 6.802339,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.828358,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4452,13 +4496,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.772339,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 6.798358,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00",
   "https://36kr.com/newsflashes/4067761515730049?f=rss": "2026-11-13T06:37:56.829334+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-said-to-be-six-times-oversubscribed-video": "2026-11-13T07:38:01.980210+00:00",
   "https://www.medianama.com/2026/11/223-footage-train-robots-meity-questions-platforms": "2026-11-13T08:08:03.735608+00:00",
@@ -4783,94 +4826,15 @@
   "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html": "2026-11-27T04:07:55.698836+00:00",
   "https://36kr.com/newsflashes/4087390505810564?f=rss": "2026-11-27T04:37:58.044970+00:00",
   "https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece": "2026-11-27T05:07:56.681718+00:00",
-  "https://36kr.com/newsflashes/4087242499619202?f=rss": "2026-11-27T05:37:55.266141+00:00"
+  "https://36kr.com/newsflashes/4087242499619202?f=rss": "2026-11-27T05:37:55.266141+00:00",
+  "https://36kr.com/newsflashes/4087580880337287?f=rss": "2026-11-27T06:07:55.191602+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 9
+  "takes": 10
  },
  "triage": {
-  "2b7cd1ebb74256da": {
-   "imp": 0.75,
-   "ai": null,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "ec384d5ce78d49c6": {
-   "imp": 1.67,
-   "ai": 0.89,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "68858cad06c816e5": {
-   "imp": 0.85,
-   "ai": 0.59,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "2cacdc7eea2cb537": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "f57a7cb9dae2e1cc": {
-   "imp": 2.25,
-   "ai": 0.95,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "c97523b0c0b867f1": {
-   "imp": 1.12,
-   "ai": 0.94,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "2ff6443dd4315fd9": {
-   "imp": 2.27,
-   "ai": 0.98,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "32d86581eb119fdc": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "a0657c8e757614fb": {
-   "imp": 0.05,
-   "ai": 0.01,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "91323c865eeba1f6": {
-   "imp": 0.22,
-   "ai": 0.05,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "c4be6f1022c44727": {
-   "imp": 0.53,
-   "ai": 0.21,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "708b538afd77e1df": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "519876610c8900bb": {
-   "imp": 1.83,
-   "ai": 0.34,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "1662a811809f673a": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "090515bfeab6084d": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
-  "515c11d2b1537c1e": {
-   "imp": 0.25,
-   "ai": 0.05,
-   "ts": "2026-11-19T06:07:23.026772+00:00"
-  },
   "27a1dd641c14877b": {
    "imp": 2.62,
    "ai": 0.98,
@@ -25135,6 +25099,101 @@
    "imp": 0.16,
    "ai": 0.04,
    "ts": "2026-11-27T05:37:25.885584+00:00"
+  },
+  "22df109b65d8d992": {
+   "imp": 0.49,
+   "ai": 0.84,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "5ad0c83c5fe9110c": {
+   "imp": 0.7,
+   "ai": 0.96,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "a4efc93a02d20210": {
+   "imp": 1.54,
+   "ai": 0.95,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "6a4696952513d4e6": {
+   "imp": 1.63,
+   "ai": 0.87,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "ac96762828e7aac4": {
+   "imp": 0.47,
+   "ai": 0.21,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "81c7402b92ff6c29": {
+   "imp": 1.32,
+   "ai": null,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "9b5c59fab9abf8f9": {
+   "imp": 0.36,
+   "ai": 0.09,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "8b47cad7c9aff199": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "755aa823de8d9095": {
+   "imp": 1.64,
+   "ai": 0.97,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "296638941dd313b5": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "5496f9bd56ef5d0a": {
+   "imp": 0.35,
+   "ai": 0.11,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "c563053a693442f0": {
+   "imp": 0.19,
+   "ai": 0.06,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "4caa774fe8ab25d3": {
+   "imp": 1.7,
+   "ai": 0.97,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "3a647f1c5d1497ce": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "f2c3e94bb420347d": {
+   "imp": 0.56,
+   "ai": 0.21,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "653ba49dcea18a76": {
+   "imp": 0.19,
+   "ai": 0.04,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "05fe386cadbecb54": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "17bbf00fec643014": {
+   "imp": 0.12,
+   "ai": 0.03,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
+  },
+  "2801e48e10f1dadf": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-27T06:07:24.327279+00:00"
   }
  }
 }
