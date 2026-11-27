@@ -1,9 +1,5 @@
 {
  "seen": {
-  "8ef210adbaf00276": "2026-11-20T16:07:21.865128+00:00",
-  "5295c8babf0e26cf": "2026-11-20T16:07:21.865128+00:00",
-  "f723e5c1cd28d1ca": "2026-11-20T16:07:21.865128+00:00",
-  "cbb45597e6dc7fa7": "2026-11-20T16:07:21.865128+00:00",
   "b8e1839046bc97c6": "2026-11-20T16:37:21.914235+00:00",
   "dfa5bae648aafd67": "2026-11-20T16:37:21.914235+00:00",
   "3f23871144f33361": "2026-11-20T16:37:21.914235+00:00",
@@ -1599,7 +1595,15 @@
   "742a4dc85d150158": "2026-11-27T15:07:23.594927+00:00",
   "420300a57caf7831": "2026-11-27T15:07:23.594927+00:00",
   "0f316b663c9a5e45": "2026-11-27T15:07:23.594927+00:00",
-  "ce17b50be0053c86": "2026-11-27T15:37:22.541851+00:00"
+  "ce17b50be0053c86": "2026-11-27T15:37:22.541851+00:00",
+  "1cbafb2225ea483d": "2026-11-27T16:07:24.910320+00:00",
+  "e7792bf08cf97349": "2026-11-27T16:07:24.910320+00:00",
+  "d2aa545b6c5c7a6c": "2026-11-27T16:07:24.910320+00:00",
+  "63f7c1abbb4c9b31": "2026-11-27T16:07:24.910320+00:00",
+  "81b97ad62cf00926": "2026-11-27T16:07:24.910320+00:00",
+  "bbc0807bea8e6884": "2026-11-27T16:07:24.910320+00:00",
+  "aced9ea9d06e7c1d": "2026-11-27T16:07:24.910320+00:00",
+  "63bc89be998f9e5d": "2026-11-27T16:07:24.910320+00:00"
  },
  "covered": [
   {
@@ -1829,11 +1833,15 @@
   {
    "headline": "Researchers propose DyLoMo-DiT for diffusion transformers",
    "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  {
+   "headline": "Anthropic rewrites Messages API in Rust, reducing CPU usage 70%",
+   "ts": "2026-11-27T16:07:24.910320+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 29
+  "count": 30
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4325,34 +4333,6 @@
  },
  "pending": [
   {
-   "id": "63bc89be998f9e5d",
-   "item": {
-    "id": "63bc89be998f9e5d",
-    "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
-    "url": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
-    "source": "Analytics India Magazine",
-    "image": "https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/ai-news-updates/in-just-10-days-anthropic-built-cowork-enitrely-written-by-claude-code-1769241817187-Claude-1300x731-1.we.webp",
-    "snippet": "Anthropic has rewritten its Messages API from Python to Rust, cutting CPU usage per request by around 70% and memory consumption by more than 80%. However, the migration exposed a significant problem with AI-generated code: despite passing 98% of its existing integration tests, the new implementation initially matched only around 25% of inputs when tested against live production traffic. The migra…",
-    "published": "2026-11-27T12:00:10+00:00",
-    "images": true,
-    "category": "news",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Anthropic rewrites Messages API in Rust, reducing CPU usage 70%",
-   "post": "Anthropic rewrote its Messages API from Python to Rust, cutting CPU usage per request by around 70% and memory by over 80%. Despite passing 98% of integration tests, the code initially matched 25% of live traffic inputs.",
-   "editor_note": "Check Anthropic engineering details for precise testing metrics and deployment context.",
-   "support": 0.96,
-   "published_at": "2026-11-27T12:00:10+00:00",
-   "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
-   "expires_at": "2026-11-29T00:00:10+00:00",
-   "decision": 1.48,
-   "priority": 7.111265,
-   "selection_reason": "Editorial importance; waiting 3.5h"
-  },
-  {
    "id": "6aa339a9d53659f7",
    "item": {
     "id": "6aa339a9d53659f7",
@@ -4378,13 +4358,12 @@
    "first_seen_at": "2026-11-27T15:37:22.541851+00:00",
    "expires_at": "2026-11-29T02:07:33+00:00",
    "decision": 1.29,
-   "priority": 6.888414,
-   "selection_reason": "Editorial importance"
+   "priority": 6.905798,
+   "selection_reason": "Editorial importance; waiting 0.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": "2026-11-13T16:07:54.956357+00:00",
   "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": "2026-11-13T16:39:15.471524+00:00",
   "https://openai.com/index/introducing-chatgpt-wallet": "2026-11-13T17:09:16.606492+00:00",
   "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models": "2026-11-14T01:09:55.668261+00:00",
@@ -4711,84 +4690,15 @@
   "https://arxiv.org/abs/2611.34232": "2026-11-27T14:08:13.535182+00:00",
   "https://arxiv.org/abs/2611.34923": "2026-11-27T14:37:34.111222+00:00",
   "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch": "2026-11-27T15:11:00.875097+00:00",
-  "https://arxiv.org/abs/2611.30844": "2026-11-27T15:38:03.416404+00:00"
+  "https://arxiv.org/abs/2611.30844": "2026-11-27T15:38:03.416404+00:00",
+  "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80": "2026-11-27T16:09:24.082888+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 27
+  "takes": 28
  },
  "triage": {
-  "cd00fa8b48fb734d": {
-   "imp": 2.03,
-   "ai": 0.94,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "34bc4c9ed856f1a2": {
-   "imp": 1.73,
-   "ai": 0.96,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "b304a45f83846b81": {
-   "imp": 2.42,
-   "ai": 0.97,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "b9519f9777cfd8b4": {
-   "imp": 2.63,
-   "ai": 0.96,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "2a1647ac742a0e6f": {
-   "imp": 1.36,
-   "ai": 0.71,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "26cfb2b5bc2a9b03": {
-   "imp": 2.06,
-   "ai": 0.96,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "57e0afd476e7c800": {
-   "imp": 1.1,
-   "ai": null,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "872f5ce55dcb021c": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "3e06e6f191e1b6cb": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "f50496676daf68bf": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "111ddd40d7e8c465": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "f4edce1881203f2b": {
-   "imp": 0.06,
-   "ai": 0.01,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "4845e03596beb5d1": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
-  "fc88fc03c424fddd": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-19T16:07:23.772129+00:00"
-  },
   "3e5d1a7c85bc41a5": {
    "imp": 2.55,
    "ai": null,
@@ -24978,6 +24888,81 @@
    "imp": 0.07,
    "ai": 0.04,
    "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  "aced9ea9d06e7c1d": {
+   "imp": 0.28,
+   "ai": null,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "1cbafb2225ea483d": {
+   "imp": 1.72,
+   "ai": null,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "63f7c1abbb4c9b31": {
+   "imp": 1.49,
+   "ai": null,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "2d9a12e5436fc7c4": {
+   "imp": 0.41,
+   "ai": 0.19,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "81b97ad62cf00926": {
+   "imp": 0.6,
+   "ai": 0.41,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "d2aa545b6c5c7a6c": {
+   "imp": 1.44,
+   "ai": 0.85,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "bbc0807bea8e6884": {
+   "imp": 0.53,
+   "ai": 0.42,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "e7792bf08cf97349": {
+   "imp": 1.54,
+   "ai": 0.96,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "648a304c1f345a36": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "f1c040d0e1123cb7": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "8d343d7adc5b3156": {
+   "imp": 0.16,
+   "ai": 0.04,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "005605341f6330c0": {
+   "imp": 0.09,
+   "ai": 0.03,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "1de6b316110b326d": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "a82fc738fad21450": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
+  },
+  "8157c2a43270b6d8": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-27T16:07:24.910320+00:00"
   }
  }
 }
