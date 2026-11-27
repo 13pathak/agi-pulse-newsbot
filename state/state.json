@@ -1,17 +1,5 @@
 {
  "seen": {
-  "5875bfe14d0e6f3d": "2026-11-20T02:37:33.141582+00:00",
-  "2fc66815c5be68f1": "2026-11-20T02:37:33.141582+00:00",
-  "8a14aef6a1d309ff": "2026-11-20T02:37:33.141582+00:00",
-  "84fa3a4888d867e7": "2026-11-20T02:37:33.141582+00:00",
-  "10643d0df969deb5": "2026-11-20T02:37:33.141582+00:00",
-  "a6f82aa8e4a14d22": "2026-11-20T02:37:33.141582+00:00",
-  "77bcf4d6e254b9f6": "2026-11-20T02:37:33.141582+00:00",
-  "315aa241d67fc5e7": "2026-11-20T02:37:33.141582+00:00",
-  "2aa4b234dbdd26e8": "2026-11-20T02:37:33.141582+00:00",
-  "f76df06913e5c7f1": "2026-11-20T02:37:33.141582+00:00",
-  "3a69a2e59b59db53": "2026-11-20T02:37:33.141582+00:00",
-  "b600a39e98e74ede": "2026-11-20T02:37:33.141582+00:00",
   "ebd75882b3d9e79b": "2026-11-20T03:07:35.111102+00:00",
   "7e4679faa3409569": "2026-11-20T03:07:35.111102+00:00",
   "e486efe85b2a356a": "2026-11-20T03:07:35.111102+00:00",
@@ -1654,13 +1642,15 @@
   "fd11efde3b580ec6": "2026-11-27T02:07:33.621328+00:00",
   "7533a8217dfb4c1b": "2026-11-27T02:07:33.621328+00:00",
   "4e18a95a69232bc1": "2026-11-27T02:07:33.621328+00:00",
-  "614acbe64a0a360b": "2026-11-27T02:07:33.621328+00:00"
+  "614acbe64a0a360b": "2026-11-27T02:07:33.621328+00:00",
+  "f5d26055137351c2": "2026-11-27T02:37:20.843733+00:00",
+  "e0217fc1c1e81e15": "2026-11-27T02:37:20.843733+00:00",
+  "c61ef3fe27f468c8": "2026-11-27T02:37:20.843733+00:00",
+  "808b899acf63ada7": "2026-11-27T02:37:20.843733+00:00",
+  "7a7b00f86f3dc83f": "2026-11-27T02:37:20.843733+00:00",
+  "242edb948acd8745": "2026-11-27T02:37:20.843733+00:00"
  },
  "covered": [
-  {
-   "headline": "KPMG report finds 59 percent of Indian firms use AI agents",
-   "ts": "2026-11-25T02:37:21.167932+00:00"
-  },
   {
    "headline": "Dell raises annual forecasts following record quarterly AI server demand",
    "ts": "2026-11-25T03:07:23.170825+00:00"
@@ -1876,11 +1866,15 @@
   {
    "headline": "Embodied AI startup Zerith Robot raises hundreds of millions of yuan",
    "ts": "2026-11-27T02:07:33.621328+00:00"
+  },
+  {
+   "headline": "Qianshu Technology raises over 200 million yuan in funding",
+   "ts": "2026-11-27T02:37:20.843733+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4293,35 +4287,6 @@
  },
  "pending": [
   {
-   "id": "242edb948acd8745",
-   "item": {
-    "id": "242edb948acd8745",
-    "title": "千曙科技引入战略投资方盘毂动力，完成逾两亿元增资",
-    "url": "https://36kr.com/newsflashes/4086394631170692?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，11月26日，北京千曙科技有限公司完成新一轮增资，合计金额逾2亿元人民币。浙江盘毂动力科技有限公司作为外部战略投资方以现金方式注资，控股股东千方科技同步完成对千曙科技的增资。本轮增资将进一步加速千曙科技自动驾驶系统迭代与车队规模扩充。公司表示，下一步将把成渝干线的验证经验复制到更多线路与场景，推动物流无人化从单一线路走向网络化运营，构建覆盖干线到末端的无人化运力平台。",
-    "published": "2026-11-26T09:35:34+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Qianshu Technology raises over 200 million yuan in funding",
-   "post": "Autonomous driving firm Qianshu Technology raised over 200 million yuan in a new funding round backed by Pangu Dynamics and Kftop. The company will use the capital to scale its autonomous driving systems and expand automated logistics fleet operations.",
-   "editor_note": "Confirm the exact funding amounts and participating investors for Qianshu Technology.",
-   "support": 0.87,
-   "published_at": "2026-11-26T09:35:34+00:00",
-   "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
-   "expires_at": "2026-11-27T21:35:34+00:00",
-   "decision": 1.28,
-   "priority": 7.21741,
-   "selection_reason": "Editorial importance; waiting 16.5h"
-  },
-  {
    "id": "31156cbb2f5e8b4a",
    "item": {
     "id": "31156cbb2f5e8b4a",
@@ -4347,8 +4312,8 @@
    "first_seen_at": "2026-11-26T09:37:24.112523+00:00",
    "expires_at": "2026-11-27T21:18:57+00:00",
    "decision": 1.24,
-   "priority": 7.196384,
-   "selection_reason": "Editorial importance; waiting 16.5h"
+   "priority": 7.182594,
+   "selection_reason": "Editorial importance; waiting 17.0h"
   },
   {
    "id": "a9a0d77b488e5aa9",
@@ -4376,8 +4341,8 @@
    "first_seen_at": "2026-11-26T16:07:24.987187+00:00",
    "expires_at": "2026-11-28T01:45:00+00:00",
    "decision": 0.89,
-   "priority": 7.078039,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.095276,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "1d68c48dbd5983b5",
@@ -4405,8 +4370,37 @@
    "first_seen_at": "2026-11-27T01:07:33.136495+00:00",
    "expires_at": "2026-11-28T12:52:51+00:00",
    "decision": 1.3,
-   "priority": 6.961254,
-   "selection_reason": "Editorial importance; waiting 1.0h"
+   "priority": 6.978491,
+   "selection_reason": "Editorial importance; waiting 1.5h"
+  },
+  {
+   "id": "d2f5bca6cce19fca",
+   "item": {
+    "id": "d2f5bca6cce19fca",
+    "title": "月之暗面宣布Kimi科研支持计划开放申请",
+    "url": "https://36kr.com/newsflashes/4087393174141577?f=rss",
+    "source": "36Kr",
+    "image": "",
+    "snippet": "36氪获悉，月之暗面宣布，Kimi科研支持计划开放申请，首期将面向自然科学、工程学及相关交叉学科的科研人员，入选申请者将获得Kimi API额度、Kimi团队的技术支持等。",
+    "published": "2026-11-27T02:31:35+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Moonshot AI opens applications for Kimi research support",
+   "post": "Moonshot AI opened applications for its Kimi research support program, offering selected natural science and engineering researchers Kimi API quotas and technical support.",
+   "editor_note": "Confirm eligibility criteria and initial focus fields for the Kimi research support program.",
+   "support": 0.98,
+   "published_at": "2026-11-27T02:31:35+00:00",
+   "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
+   "expires_at": "2026-11-28T14:31:35+00:00",
+   "decision": 1.25,
+   "priority": 6.913998,
+   "selection_reason": "Editorial importance"
   },
   {
    "id": "979537701aab32eb",
@@ -4434,8 +4428,68 @@
    "first_seen_at": "2026-11-27T01:37:22.221989+00:00",
    "expires_at": "2026-11-28T13:37:20+00:00",
    "decision": 0.93,
-   "priority": 6.827454,
-   "selection_reason": "Editorial importance; waiting 0.5h"
+   "priority": 6.844692,
+   "selection_reason": "Editorial importance; waiting 1.0h"
+  },
+  {
+   "id": "0701b6365593a13f",
+   "item": {
+    "id": "0701b6365593a13f",
+    "title": "Mixture-of-Loops Transformer",
+    "url": "https://arxiv.org/abs/2611.34923",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Lab: ByteDance Seed. Upvotes: 65. Abstract: Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings and reads current-loop local KV with preceding-loop memory KV at earlier positions for efficiency. MoLT-KV eliminates same-position cross-loop dependence and, paired with loop forcing for parallel training, unlocks single-traversal Mixture-of-Loops (MoL) decoding beyond the training loop horizon. To balance efficiency and quality, we introduce U-shaped MoLT (U-MoLT), which separates memory construction from prediction readout and skips unused decoder traversals without changing predictions. In 400B-token pretraining, U-MoLT outperforms OLMo3 across 700M/1.5B dense and 3B MoE models, achieving 1.7x validation cross-entropy (CE) token efficiency at 700M while improving 3B MoE 10-domain perplexity by 0.75 and 10-task accuracy by 2.1 percentage points. In 100B-token continued pretraining of Qwen3.5-0.8B-Base, our U-MoLT adaptation lowers CE on all 11 domains over the matched baseline with 1…",
+    "published": "2026-11-26T00:00:00+00:00",
+    "upvotes": 65,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.34923.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "ByteDance Seed researchers introduce Mixture-of-Loops Transformer",
+   "post": "Researchers at ByteDance Seed introduce the Mixture-of-Loops Transformer, which uses keys and values as memory for selective reuse across depths to improve token efficiency.",
+   "editor_note": "Check pretraining token scale (400B tokens) and baseline comparisons mentioned in the abstract.",
+   "support": 0.97,
+   "published_at": "2026-11-26T00:00:00+00:00",
+   "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
+   "expires_at": "2026-11-30T00:00:00+00:00",
+   "decision": 1.27,
+   "priority": 6.646016,
+   "selection_reason": "Editorial importance"
+  },
+  {
+   "id": "ce17b50be0053c86",
+   "item": {
+    "id": "ce17b50be0053c86",
+    "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
+    "url": "https://arxiv.org/abs/2611.30844",
+    "source": "Hugging Face Papers",
+    "kind": "paper",
+    "snippet": "Upvotes: 56. Abstract: Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation roughly fixed, but still require substantial parameter storage. In this paper, we propose Dynamic Looped MoE DiT (DyLoMo-DiT), which reuses parameters rather than adding them: a weight-shared loop repeatedly applies the middle layers, while sparse experts allocate parameter capacity across tokens. This design deepens the network without adding parameters, freeing the parameter budget for other uses, such as more experts or more distinct layers. It also allocates compute dynamically, varying the number of passes across noise levels. Experiments show that DyLoMo-DiT makes more effective use of parameter and compute budgets, with further gains from assigning more passes to low-noise steps. On ImageNet 256times256, DyLoMo-DiT reduces FID by 11-24% relative to DiT and 36-56% relative to DiT-MoE at matched parameter and compute budgets. For text-to-image generation, a scaled DyLoMo-DiT achieves a higher GenEval score than FLUX.1 (0.714 vs. 0.673), with less than one tenth of its active parameters (1.05B vs. 12B).",
+    "published": "2026-11-26T00:00:00+00:00",
+    "upvotes": 56,
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30844.png",
+    "images": true,
+    "category": "paper",
+    "source_cap": 4
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "Researchers propose DyLoMo-DiT for diffusion transformers",
+   "post": "Researchers propose Dynamic Looped MoE DiT, using weight-shared loops and sparse experts to reduce ImageNet FID by 11 to 24 percent relative to DiT at matched budgets.",
+   "editor_note": "Verify ImageNet 256x256 and GenEval score claims against the paper abstract text.",
+   "support": 0.98,
+   "published_at": "2026-11-26T00:00:00+00:00",
+   "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
+   "expires_at": "2026-11-30T00:00:00+00:00",
+   "decision": 1.18,
+   "priority": 6.616016,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4765,109 +4819,15 @@
   "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats": "2026-11-26T17:07:52.908810+00:00",
   "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": "2026-11-27T01:08:00.696089+00:00",
   "https://arxiv.org/abs/2611.34575": "2026-11-27T01:37:53.223246+00:00",
-  "https://36kr.com/p/4087361074575753?f=rss": "2026-11-27T02:11:27.035648+00:00"
+  "https://36kr.com/p/4087361074575753?f=rss": "2026-11-27T02:11:27.035648+00:00",
+  "https://36kr.com/newsflashes/4086394631170692?f=rss": "2026-11-27T02:37:44.777659+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
-  "072060b2721485c5": {
-   "imp": 2.18,
-   "ai": 0.95,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "ff477f3df25a6055": {
-   "imp": 1.08,
-   "ai": 0.35,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "dbdde1d167f48287": {
-   "imp": 2.48,
-   "ai": 0.97,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "4c393b1ac2f89b77": {
-   "imp": 0.12,
-   "ai": 0.05,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "1feb5e787ef08752": {
-   "imp": 0.95,
-   "ai": 0.47,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "48e619c8f030455c": {
-   "imp": 2.42,
-   "ai": 0.98,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "8f364743f3d80759": {
-   "imp": 2.82,
-   "ai": 0.98,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "d027d54b3e5abc0b": {
-   "imp": 1.38,
-   "ai": null,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "6806015015787671": {
-   "imp": 1.32,
-   "ai": null,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "bb48024cc2bc8895": {
-   "imp": 1.77,
-   "ai": 0.91,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "7ca46cfc20ca5ba3": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "003dcbe3c1808abd": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "ed3245f6635ad225": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "daf003fd90447b3d": {
-   "imp": 1.78,
-   "ai": 0.93,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "c8696f44cf59e307": {
-   "imp": 0.2,
-   "ai": 0.06,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "a0bf5d60d10f926e": {
-   "imp": 0.7,
-   "ai": 0.19,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "5ef0840759de6b75": {
-   "imp": 0.14,
-   "ai": 0.04,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "620ceea8d2fd03c2": {
-   "imp": 0.18,
-   "ai": 0.05,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
-  "b65c635e6abcbfda": {
-   "imp": 1.64,
-   "ai": 0.84,
-   "ts": "2026-11-19T02:37:31.986009+00:00"
-  },
   "1636eb7285b469c2": {
    "imp": 1.8,
    "ai": 0.84,
@@ -25112,6 +25072,96 @@
    "imp": 1.02,
    "ai": 0.66,
    "ts": "2026-11-27T02:07:33.621328+00:00"
+  },
+  "26bad94fdad1be05": {
+   "imp": 0.34,
+   "ai": 0.06,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "808b899acf63ada7": {
+   "imp": 1.6,
+   "ai": 0.97,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "7a7b00f86f3dc83f": {
+   "imp": 1.37,
+   "ai": 0.95,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "d2f5bca6cce19fca": {
+   "imp": 1.25,
+   "ai": 0.96,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "c61ef3fe27f468c8": {
+   "imp": 1.55,
+   "ai": 0.9,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "e0217fc1c1e81e15": {
+   "imp": 1.69,
+   "ai": 0.92,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "0701b6365593a13f": {
+   "imp": 1.27,
+   "ai": null,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "ce17b50be0053c86": {
+   "imp": 1.18,
+   "ai": null,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "f5d26055137351c2": {
+   "imp": 1.22,
+   "ai": null,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "7e0e959a60839a49": {
+   "imp": 0.36,
+   "ai": 0.15,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "62d7ed33048d2c23": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "d7c47f2c419d7ddd": {
+   "imp": 1.1,
+   "ai": 0.79,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "12480cea48eb4eeb": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "b1e064e1cb8e2622": {
+   "imp": 0.31,
+   "ai": 0.13,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "407ab09c571dcf52": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "ead2198569bb92a2": {
+   "imp": 0.97,
+   "ai": 0.18,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "0b1781aacac2d052": {
+   "imp": 0.21,
+   "ai": 0.04,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
+  },
+  "e959e7c3077d65fc": {
+   "imp": 0.17,
+   "ai": 0.04,
+   "ts": "2026-11-27T02:37:20.843733+00:00"
   }
  }
 }
