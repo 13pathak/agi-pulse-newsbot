@@ -1,22 +1,5 @@
 {
  "seen": {
-  "4ee36b4bc5d18e3c": "2026-11-20T10:37:24.685869+00:00",
-  "9b3cc20958135393": "2026-11-20T10:37:24.685869+00:00",
-  "eff10dd94532cdc0": "2026-11-20T10:37:24.685869+00:00",
-  "8d5c5eebe8733380": "2026-11-20T10:37:24.685869+00:00",
-  "5077181eb050ca74": "2026-11-20T10:37:24.685869+00:00",
-  "4432f02a18f6655d": "2026-11-20T10:37:24.685869+00:00",
-  "12b0275a8ef13e71": "2026-11-20T10:37:24.685869+00:00",
-  "59f9e58f14352257": "2026-11-20T10:37:24.685869+00:00",
-  "bda9499345fe52b9": "2026-11-20T11:07:21.876528+00:00",
-  "6a3168fe7f8d65f6": "2026-11-20T11:07:21.876528+00:00",
-  "7a2759cba3c34630": "2026-11-20T11:07:21.876528+00:00",
-  "dc4abeffea47e7ab": "2026-11-20T11:07:21.876528+00:00",
-  "543fb81f699c534a": "2026-11-20T11:07:21.876528+00:00",
-  "53f2410e3ea1cc17": "2026-11-20T11:07:21.876528+00:00",
-  "311975880d0b9886": "2026-11-20T11:07:21.876528+00:00",
-  "e5d4429b03a86f57": "2026-11-20T11:07:21.876528+00:00",
-  "ccd97c6cfbf19269": "2026-11-20T11:07:21.876528+00:00",
   "bac43362df2a372b": "2026-11-20T11:37:24.028030+00:00",
   "57b16962d516eb8c": "2026-11-20T11:37:24.028030+00:00",
   "5b143098397ffee7": "2026-11-20T11:37:24.028030+00:00",
@@ -1633,17 +1616,21 @@
   "ce897622e3d5e7c5": "2026-11-27T10:07:23.174018+00:00",
   "21800f865bba1aea": "2026-11-27T10:07:23.174018+00:00",
   "b62610b269a0a071": "2026-11-27T10:07:23.174018+00:00",
-  "ce2e0603d85ba78e": "2026-11-27T10:07:23.174018+00:00"
+  "ce2e0603d85ba78e": "2026-11-27T10:07:23.174018+00:00",
+  "4de984943d7a5c88": "2026-11-27T11:07:22.911498+00:00",
+  "da3caaaa1d63ed73": "2026-11-27T11:07:22.911498+00:00",
+  "fb54a2063065a256": "2026-11-27T11:07:22.911498+00:00",
+  "cae3b6bea4a69ee8": "2026-11-27T11:07:22.911498+00:00",
+  "395088a8263008e3": "2026-11-27T11:07:22.911498+00:00",
+  "700903321968a0da": "2026-11-27T11:07:22.911498+00:00",
+  "8e7bcbb08914f0b4": "2026-11-27T11:07:22.911498+00:00",
+  "7b9a7e700f2378f2": "2026-11-27T11:07:22.911498+00:00",
+  "b0e598fbb630d341": "2026-11-27T11:07:22.911498+00:00",
+  "cdd1f201a285fd04": "2026-11-27T11:07:22.911498+00:00",
+  "5f0317ae2a34eb2e": "2026-11-27T11:07:22.911498+00:00",
+  "71f78dcfe16db86d": "2026-11-27T11:07:22.911498+00:00"
  },
  "covered": [
-  {
-   "headline": "Indic voice agent built using IBM CUGA framework",
-   "ts": "2026-11-25T10:37:36.091192+00:00"
-  },
-  {
-   "headline": "Anthropic expands Claude Duet AI agent preview to India",
-   "ts": "2026-11-25T11:07:24.352931+00:00"
-  },
   {
    "headline": "OpenAI adds GPT-6.2 to ChatGPT Chat tab for paid tiers",
    "ts": "2026-11-25T11:37:24.071864+00:00"
@@ -1859,11 +1846,15 @@
   {
    "headline": "Weiyun Chuangda launches AI training appliances",
    "ts": "2026-11-27T10:07:23.174018+00:00"
+  },
+  {
+   "headline": "Delhi High Court examines AI authorship under copyright law",
+   "ts": "2026-11-27T11:07:22.911498+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 19
+  "count": 20
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4336,6 +4327,62 @@
  },
  "pending": [
   {
+   "id": "3bd879b42b4e7a9d",
+   "item": {
+    "id": "3bd879b42b4e7a9d",
+    "title": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
+    "url": "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content",
+    "source": "The Information",
+    "image": "",
+    "snippet": "Apple has pulled popular chatbot app Talkie, developed by Chinese AI company MiniMax, from its App Store worldwide after a media report alleged the product was using sexualized content to hook young users. MiniMax’s Talkie is an AI companion service that allows users to talk or text with a range ...",
+    "published": "2026-11-27T10:27:17+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "timely",
+   "headline": "Apple pulls MiniMax chatbot Talkie from App Store",
+   "post": "Apple removed the AI companion app Talkie, developed by Chinese firm MiniMax, from its global App Store following a media report alleging the use of sexualized content to target young users.",
+   "editor_note": "Check whether MiniMax has issued an official response regarding the App Store removal.",
+   "support": 0.94,
+   "published_at": "2026-11-27T10:27:17+00:00",
+   "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
+   "expires_at": "2026-11-28T22:27:17+00:00",
+   "decision": 1.79,
+   "priority": 7.578103,
+   "selection_reason": "Time-sensitive story"
+  },
+  {
+   "id": "a70c041fb75e2c52",
+   "item": {
+    "id": "a70c041fb75e2c52",
+    "title": "The Government is planning a common AI platform to automate citizen services",
+    "url": "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services/",
+    "source": "MediaNama",
+    "image": "",
+    "snippet": "DIC seeks an AI-enabled platform to manage citizen interactions, automate workflows and track grievances across government clients, leaving data retention and consent arrangements to individual orders. The post The Government is planning a common AI platform to automate citizen services appeared first on MEDIANAMA .",
+    "published": "2026-11-27T10:31:25+00:00",
+    "images": true,
+    "category": "news",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "India plans common AI platform for citizen services",
+   "post": "The Digital India Corporation is seeking an AI-enabled platform to automate citizen interactions, manage workflows, and track grievances across government clients, while leaving data retention to individual orders.",
+   "editor_note": "Confirm the timeline for the DIC tender or RFP release.",
+   "support": 0.73,
+   "published_at": "2026-11-27T10:31:25+00:00",
+   "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
+   "expires_at": "2026-11-28T22:31:25+00:00",
+   "decision": 2.25,
+   "priority": 7.233349,
+   "selection_reason": "Editorial importance"
+  },
+  {
    "id": "81c7402b92ff6c29",
    "item": {
     "id": "81c7402b92ff6c29",
@@ -4362,8 +4409,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.110571,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.136611,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4390,8 +4437,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.095354,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 7.112713,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4420,8 +4467,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.062715,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.088754,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4450,14 +4497,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.032715,
-   "selection_reason": "Editorial importance; waiting 8.0h"
+   "priority": 7.058754,
+   "selection_reason": "Editorial importance; waiting 8.5h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime": "2026-11-13T10:39:23.705094+00:00",
-  "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software": "2026-11-13T11:09:55.553326+00:00",
   "https://www.indiatoday.in/technology/video/nvidia-ceo-jensen-huang-steps-down-amid-controversies-and-federal-scrutiny-ytvd-3038243-2026-11-13": "2026-11-13T11:40:02.354559+00:00",
   "https://analyticsindiamag.com/ai-news/adobe-google-expand-ai-partnership-across-creative-and-productivity-tools": "2026-11-13T12:08:08.560688+00:00",
   "https://analyticsindiamag.com/ai-news/renew-pledges-80000-cr-for-green-data-centre-to-fuel-indias-ai-push": "2026-11-13T12:38:09.874818+00:00",
@@ -4781,339 +4826,15 @@
   "https://36kr.com/newsflashes/4087340087753090?f=rss": "2026-11-27T08:39:43.939974+00:00",
   "https://36kr.com/newsflashes/4087760611178888?f=rss": "2026-11-27T09:10:06.741273+00:00",
   "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html": "2026-11-27T09:38:50.448745+00:00",
-  "https://36kr.com/p/4086249473534598?f=rss": "2026-11-27T10:08:38.044592+00:00"
+  "https://36kr.com/p/4086249473534598?f=rss": "2026-11-27T10:08:38.044592+00:00",
+  "https://www.medianama.com/2026/11/223-ai-author-indian-copyright-law-delhi-hc": "2026-11-27T11:11:50.056798+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 17
+  "takes": 18
  },
  "triage": {
-  "e63363d23c4e9429": {
-   "imp": 2.05,
-   "ai": 0.96,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "a11f019a8898a489": {
-   "imp": 1.97,
-   "ai": 0.96,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "12214793035f8043": {
-   "imp": 1.71,
-   "ai": 0.66,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "b175db1dbb4adc4c": {
-   "imp": 1.52,
-   "ai": 0.7,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "06eb25d8bc9d2c4e": {
-   "imp": 0.74,
-   "ai": 0.76,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "92adff525e09cbfe": {
-   "imp": 2.13,
-   "ai": 0.94,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "a64d39853da0fc23": {
-   "imp": 1.72,
-   "ai": 0.94,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "d25121d422ff58e4": {
-   "imp": 0.91,
-   "ai": 0.51,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "c4d077949325851b": {
-   "imp": 1.28,
-   "ai": 0.25,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "99ba0615d72a889c": {
-   "imp": 0.23,
-   "ai": 0.09,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "7070b18287506acd": {
-   "imp": 2.2,
-   "ai": 0.98,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "e52f2502e27aaa06": {
-   "imp": 1.55,
-   "ai": 0.97,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "2ea14e17b7c3f4ce": {
-   "imp": 1.32,
-   "ai": null,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "6a79662aaf059733": {
-   "imp": 0.07,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "b8defdb0838c5e04": {
-   "imp": 0.07,
-   "ai": 0.04,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "2ab3e74a859f430d": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "7437685f1368bcf0": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "ae4eebd3331d9469": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "c668250dea63a04b": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "8822205adc745f55": {
-   "imp": 0.04,
-   "ai": 0.03,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "8a88e6648a88738c": {
-   "imp": 0.17,
-   "ai": 0.06,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "3ba2c84c872ec528": {
-   "imp": 0.06,
-   "ai": 0.03,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "218c557fc88e8033": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "3797e8ff7624fb0b": {
-   "imp": 0.34,
-   "ai": 0.05,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "3af41267cbbba29d": {
-   "imp": 0.14,
-   "ai": 0.02,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "856881e7d35dd131": {
-   "imp": 0.75,
-   "ai": 0.16,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "ffb3eeb670bf195c": {
-   "imp": 0.31,
-   "ai": 0.07,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "7bb60b4d798406a2": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "44ac93ebbe926638": {
-   "imp": 0.52,
-   "ai": 0.07,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "5254d326f384ee03": {
-   "imp": 0.09,
-   "ai": 0.04,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "81aac4f780a03f1d": {
-   "imp": 0.35,
-   "ai": 0.1,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "b6bb01b017fdf16f": {
-   "imp": 0.27,
-   "ai": 0.09,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "a42b6e4cd62fbefa": {
-   "imp": 0.56,
-   "ai": 0.25,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "37b396ecd594c727": {
-   "imp": 0.18,
-   "ai": 0.05,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "fc600ae994370011": {
-   "imp": 0.84,
-   "ai": 0.14,
-   "ts": "2026-11-19T10:37:29.788570+00:00"
-  },
-  "bfe9363152c3e805": {
-   "imp": 1.51,
-   "ai": 0.67,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "03b14489ed8fece5": {
-   "imp": 1.84,
-   "ai": null,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "2c4cba7482f3f6af": {
-   "imp": 1.02,
-   "ai": null,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "a12d8ce34a1ae5cc": {
-   "imp": 1.4,
-   "ai": 0.86,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "9d050e705411cb3b": {
-   "imp": 0.95,
-   "ai": 0.18,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "d5ba42fbe1ea9112": {
-   "imp": 1.63,
-   "ai": 0.9,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "7a472f90daa194f3": {
-   "imp": 1.13,
-   "ai": 0.9,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "5dd162ab8cb823d9": {
-   "imp": 1.73,
-   "ai": 0.88,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "39e613a0a15792b3": {
-   "imp": 1.2,
-   "ai": 0.91,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "4376100ec1e1baab": {
-   "imp": 0.43,
-   "ai": 0.31,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "0aabb3d60c3a9697": {
-   "imp": 1.46,
-   "ai": 0.7,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "0dfe5377d56d78f3": {
-   "imp": 1.91,
-   "ai": 0.96,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "4fbc02245f26665f": {
-   "imp": 1.3,
-   "ai": 0.9,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "ed655012f2cdb97c": {
-   "imp": 1.06,
-   "ai": 0.46,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "d6eb2ba64e0f58a8": {
-   "imp": 1.44,
-   "ai": 0.8,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "2db1d5e4b95ef175": {
-   "imp": 0.21,
-   "ai": 0.06,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "024eeaab598be5a7": {
-   "imp": 0.89,
-   "ai": 0.37,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "55ef5e853509a18a": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "1d5a20e033b0b228": {
-   "imp": 0.08,
-   "ai": 0.01,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "ef839580a5651b3c": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "b12fb39978bd84a4": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "42503044e80893bb": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "81f6fcbb26ce6750": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "59d6bec7113b97c7": {
-   "imp": 0.11,
-   "ai": 0.01,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "6a3258a2d16e26ed": {
-   "imp": 0.2,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "69b5f65727348eef": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "a7d690e887752227": {
-   "imp": 0.34,
-   "ai": 0.18,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "ba8ab3712d3717ce": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "801c84d1f8df9261": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
-  "27379fe1065ff0f4": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T11:07:22.417173+00:00"
-  },
   "2b8784d0dd7924c0": {
    "imp": 2.74,
    "ai": null,
@@ -25393,6 +25114,96 @@
    "imp": 0.05,
    "ai": 0.04,
    "ts": "2026-11-27T10:37:23.081910+00:00"
+  },
+  "cdd1f201a285fd04": {
+   "imp": 0.73,
+   "ai": 0.88,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "5f0317ae2a34eb2e": {
+   "imp": 0.64,
+   "ai": 0.84,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "395088a8263008e3": {
+   "imp": 1.12,
+   "ai": 0.53,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "8e7bcbb08914f0b4": {
+   "imp": 2.34,
+   "ai": 0.98,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "fb54a2063065a256": {
+   "imp": 1.62,
+   "ai": 0.92,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "2c1360955c289a92": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "69f5cb11dcb83d47": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "ad866e7b2f779c6c": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "3314463231bd6762": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "88a3814d825d02ee": {
+   "imp": 0.06,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "ce0bc924c0d09ba5": {
+   "imp": 1.37,
+   "ai": 0.48,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "6eb235f827b38054": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "c9957ba9d08dc525": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "8a7d6919ec8fbae3": {
+   "imp": 0.11,
+   "ai": 0.01,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "ff6cdc357260422c": {
+   "imp": 0.18,
+   "ai": 0.04,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "48b40cbd9068463e": {
+   "imp": 0.11,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "1b8a177b629c2243": {
+   "imp": 0.53,
+   "ai": 0.35,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
+  },
+  "04e294620efcecb3": {
+   "imp": 0.15,
+   "ai": 0.02,
+   "ts": "2026-11-27T11:07:22.911498+00:00"
   }
  }
 }
