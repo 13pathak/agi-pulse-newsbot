@@ -1,13 +1,5 @@
 {
  "seen": {
-  "ca1b4ecb67a75764": "2026-11-20T15:37:22.263514+00:00",
-  "192dc28e1e9cb828": "2026-11-20T15:37:22.263514+00:00",
-  "9951213640e6ea78": "2026-11-20T15:37:22.263514+00:00",
-  "a233c2ac57dd4a20": "2026-11-20T15:37:22.263514+00:00",
-  "fbb0ef253c3fe333": "2026-11-20T15:37:22.263514+00:00",
-  "5fcf7fba39c9444d": "2026-11-20T15:37:22.263514+00:00",
-  "1ab0efa6e74ce9cf": "2026-11-20T15:37:22.263514+00:00",
-  "bdc3a7c64ce65c7b": "2026-11-20T15:37:22.263514+00:00",
   "8ef210adbaf00276": "2026-11-20T16:07:21.865128+00:00",
   "5295c8babf0e26cf": "2026-11-20T16:07:21.865128+00:00",
   "f723e5c1cd28d1ca": "2026-11-20T16:07:21.865128+00:00",
@@ -1606,7 +1598,8 @@
   "bad7b4e320a32d28": "2026-11-27T15:07:23.594927+00:00",
   "742a4dc85d150158": "2026-11-27T15:07:23.594927+00:00",
   "420300a57caf7831": "2026-11-27T15:07:23.594927+00:00",
-  "0f316b663c9a5e45": "2026-11-27T15:07:23.594927+00:00"
+  "0f316b663c9a5e45": "2026-11-27T15:07:23.594927+00:00",
+  "ce17b50be0053c86": "2026-11-27T15:37:22.541851+00:00"
  },
  "covered": [
   {
@@ -1832,11 +1825,15 @@
   {
    "headline": "UK regulator warns AI agents must maintain user control",
    "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  {
+   "headline": "Researchers propose DyLoMo-DiT for diffusion transformers",
+   "ts": "2026-11-27T15:37:22.541851+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 28
+  "count": 29
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4318,39 +4315,15 @@
    "desc": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513352.html": {
+   "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+   "desc": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "ce17b50be0053c86",
-   "item": {
-    "id": "ce17b50be0053c86",
-    "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
-    "url": "https://arxiv.org/abs/2611.30844",
-    "source": "Hugging Face Papers",
-    "kind": "paper",
-    "snippet": "Upvotes: 56. Abstract: Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation roughly fixed, but still require substantial parameter storage. In this paper, we propose Dynamic Looped MoE DiT (DyLoMo-DiT), which reuses parameters rather than adding them: a weight-shared loop repeatedly applies the middle layers, while sparse experts allocate parameter capacity across tokens. This design deepens the network without adding parameters, freeing the parameter budget for other uses, such as more experts or more distinct layers. It also allocates compute dynamically, varying the number of passes across noise levels. Experiments show that DyLoMo-DiT makes more effective use of parameter and compute budgets, with further gains from assigning more passes to low-noise steps. On ImageNet 256times256, DyLoMo-DiT reduces FID by 11-24% relative to DiT and 36-56% relative to DiT-MoE at matched parameter and compute budgets. For text-to-image generation, a scaled DyLoMo-DiT achieves a higher GenEval score than FLUX.1 (0.714 vs. 0.673), with less than one tenth of its active parameters (1.05B vs. 12B).",
-    "published": "2026-11-26T00:00:00+00:00",
-    "upvotes": 56,
-    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2611.30844.png",
-    "images": true,
-    "category": "paper",
-    "source_cap": 4
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Researchers propose DyLoMo-DiT for diffusion transformers",
-   "post": "Researchers propose Dynamic Looped MoE DiT, using weight-shared loops and sparse experts to reduce ImageNet FID by 11 to 24 percent relative to DiT at matched budgets.",
-   "editor_note": "Verify ImageNet 256x256 and GenEval score claims against the paper abstract text.",
-   "support": 0.98,
-   "published_at": "2026-11-26T00:00:00+00:00",
-   "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
-   "expires_at": "2026-11-30T00:00:00+00:00",
-   "decision": 1.18,
-   "priority": 7.2358,
-   "selection_reason": "Editorial importance; waiting 12.5h"
-  },
   {
    "id": "63bc89be998f9e5d",
    "item": {
@@ -4376,8 +4349,37 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 7.093914,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.111265,
+   "selection_reason": "Editorial importance; waiting 3.5h"
+  },
+  {
+   "id": "6aa339a9d53659f7",
+   "item": {
+    "id": "6aa339a9d53659f7",
+    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+    "url": "https://www.qbitai.com/2026/11/513352.html",
+    "source": "QbitAI",
+    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+    "snippet": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+    "published": "2026-11-27T14:07:33+00:00",
+    "images": false,
+    "category": "news",
+    "language": "zh",
+    "source_cap": 3
+   },
+   "related": [],
+   "importance": 7,
+   "urgency": "routine",
+   "headline": "EngineAI opens humanoid control systems, unveils ecosystem support plan",
+   "post": "Humanoid robotics startup EngineAI has opened its high- and low-level control architectures to developers and announced a 1 billion yuan ecosystem support initiative to enable teams to build on hardware-verified results.",
+   "editor_note": "Verify whether the 1 billion yuan support consists of direct venture funding, hardware subsidies, or partner credits.",
+   "support": 0.81,
+   "published_at": "2026-11-27T14:07:33+00:00",
+   "first_seen_at": "2026-11-27T15:37:22.541851+00:00",
+   "expires_at": "2026-11-29T02:07:33+00:00",
+   "decision": 1.29,
+   "priority": 6.888414,
+   "selection_reason": "Editorial importance"
   }
  ],
  "details_queue": [],
@@ -4708,54 +4710,15 @@
   "https://www.medianama.com/2026/11/223-government-ai-platform-automate-services": "2026-11-27T13:38:02.371149+00:00",
   "https://arxiv.org/abs/2611.34232": "2026-11-27T14:08:13.535182+00:00",
   "https://arxiv.org/abs/2611.34923": "2026-11-27T14:37:34.111222+00:00",
-  "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch": "2026-11-27T15:11:00.875097+00:00"
+  "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch": "2026-11-27T15:11:00.875097+00:00",
+  "https://arxiv.org/abs/2611.30844": "2026-11-27T15:38:03.416404+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 26
+  "takes": 27
  },
  "triage": {
-  "2600860578f34aa5": {
-   "imp": 1.5,
-   "ai": null,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "66879fb13a1615ed": {
-   "imp": 2.42,
-   "ai": 0.96,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "91f74e7b9ffb90c1": {
-   "imp": 2.46,
-   "ai": 0.95,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "8700fed2e12ef959": {
-   "imp": 1.86,
-   "ai": 0.86,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "7345045cb04082a9": {
-   "imp": 1.99,
-   "ai": 0.96,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "5d6a79711599a1ad": {
-   "imp": 0.05,
-   "ai": 0.02,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "885e8d4d8a3d7c9a": {
-   "imp": 0.17,
-   "ai": 0.05,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
-  "2955c9e0493af2fd": {
-   "imp": 0.08,
-   "ai": 0.04,
-   "ts": "2026-11-19T15:37:25.902216+00:00"
-  },
   "cd00fa8b48fb734d": {
    "imp": 2.03,
    "ai": 0.94,
@@ -24985,6 +24948,36 @@
    "imp": 0.05,
    "ai": 0.02,
    "ts": "2026-11-27T15:07:23.594927+00:00"
+  },
+  "6aa339a9d53659f7": {
+   "imp": 1.29,
+   "ai": 0.94,
+   "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  "3dcf52a094f6b605": {
+   "imp": 0.04,
+   "ai": 0.01,
+   "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  "131b68db3239765a": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  "0ccc6ed196752fcf": {
+   "imp": 0.08,
+   "ai": 0.03,
+   "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  "efc4cd2080d3d83b": {
+   "imp": 0.14,
+   "ai": 0.04,
+   "ts": "2026-11-27T15:37:22.541851+00:00"
+  },
+  "6446df8489b813b8": {
+   "imp": 0.07,
+   "ai": 0.04,
+   "ts": "2026-11-27T15:37:22.541851+00:00"
   }
  }
 }
