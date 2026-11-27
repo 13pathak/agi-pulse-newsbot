@@ -1,15 +1,5 @@
 {
  "seen": {
-  "6a473a96dfd37d6c": "2026-11-20T04:37:23.119386+00:00",
-  "7b3c59319af04461": "2026-11-20T04:37:23.119386+00:00",
-  "c6df7bd10740dc06": "2026-11-20T04:37:23.119386+00:00",
-  "50425ff6da685b82": "2026-11-20T04:37:23.119386+00:00",
-  "50d1cad611d7691f": "2026-11-20T04:37:23.119386+00:00",
-  "9459a3fd0a1fa3b7": "2026-11-20T04:37:23.119386+00:00",
-  "5dde043b5320c81d": "2026-11-20T04:37:23.119386+00:00",
-  "a22c687c439c6aed": "2026-11-20T04:37:23.119386+00:00",
-  "7566cf61dbd681b2": "2026-11-20T04:37:23.119386+00:00",
-  "2ed09bbf2a0c5d3c": "2026-11-20T04:37:23.119386+00:00",
   "a8a6658d257ca4c4": "2026-11-20T05:07:31.576066+00:00",
   "1de99224c6f3338c": "2026-11-20T05:07:31.576066+00:00",
   "0abd9fbdec95bfa4": "2026-11-20T05:07:31.576066+00:00",
@@ -1638,13 +1628,15 @@
   "ff3a298875f81830": "2026-11-27T03:37:30.698446+00:00",
   "e6cce6cb6175e450": "2026-11-27T04:07:21.527796+00:00",
   "7cd43e5737a18ee2": "2026-11-27T04:07:21.527796+00:00",
-  "a9a0d77b488e5aa9": "2026-11-27T04:07:21.527796+00:00"
+  "a9a0d77b488e5aa9": "2026-11-27T04:07:21.527796+00:00",
+  "d7cdc5508c8081b0": "2026-11-27T04:37:20.169488+00:00",
+  "009f81f10cfa3132": "2026-11-27T04:37:20.169488+00:00",
+  "b5e4296a7e437818": "2026-11-27T04:37:20.169488+00:00",
+  "e01a04001d16d572": "2026-11-27T04:37:20.169488+00:00",
+  "844d0257e50e51fd": "2026-11-27T04:37:20.169488+00:00",
+  "57d44ce903d1ef13": "2026-11-27T04:37:20.169488+00:00"
  },
  "covered": [
-  {
-   "headline": "Alibaba opens free AI phone calling feature in Qwen Go",
-   "ts": "2026-11-25T04:37:32.846574+00:00"
-  },
   {
    "headline": "Entire partners with Sarvam AI for local AI coding agents in India",
    "ts": "2026-11-25T05:07:25.964686+00:00"
@@ -1860,11 +1852,15 @@
   {
    "headline": "Tihu Robot launches Lite-1 lightweight joint modules",
    "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  {
+   "headline": "Zhihu partners with DeepSeek for content integration",
+   "ts": "2026-11-27T04:37:20.169488+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 7
+  "count": 8
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4291,38 +4287,21 @@
    "desc": "倒计时两周，报名从速！",
    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
    "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513155.html": {
+   "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+   "desc": "3D生成的竞争重点正在从“能看”转向“能用”",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
+  },
+  "https://www.qbitai.com/2026/11/513101.html": {
+   "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+   "desc": "",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
-  {
-   "id": "57d44ce903d1ef13",
-   "item": {
-    "id": "57d44ce903d1ef13",
-    "title": "知乎与DeepSeek展开内容合作",
-    "url": "https://36kr.com/newsflashes/4087390505810564?f=rss",
-    "source": "36Kr",
-    "image": "",
-    "snippet": "36氪获悉，据知乎消息，知乎与DeepSeek已展开内容合作。知乎将通过数据开放平台，为DeepSeek提供社区问答、文章、热榜与话题讨论等内容的检索能力。合作覆盖DeepSeek网页端与移动端。当相关知乎内容被检索并用于回答时，用户可在参考资料中查看知乎来源标识、内容标题、摘要及创作者信息，并一键跳转至知乎阅读原文。",
-    "published": "2026-11-27T02:58:17+00:00",
-    "images": false,
-    "category": "news",
-    "language": "zh",
-    "source_cap": 3
-   },
-   "related": [],
-   "importance": 7,
-   "urgency": "routine",
-   "headline": "Zhihu partners with DeepSeek for content integration",
-   "post": "Zhihu has partnered with DeepSeek to provide community questions, answers, and articles for retrieval across DeepSeek web and mobile platforms, displaying source citations and links.",
-   "editor_note": "Verify whether the partnership covers all public Zhihu content or specific categories.",
-   "support": 0.96,
-   "published_at": "2026-11-27T02:58:17+00:00",
-   "first_seen_at": "2026-11-27T03:07:21.295891+00:00",
-   "expires_at": "2026-11-28T14:58:17+00:00",
-   "decision": 1.61,
-   "priority": 7.067191,
-   "selection_reason": "Editorial importance; waiting 1.0h"
-  },
   {
    "id": "1d68c48dbd5983b5",
    "item": {
@@ -4349,8 +4328,8 @@
    "first_seen_at": "2026-11-27T01:07:33.136495+00:00",
    "expires_at": "2026-11-28T12:52:51+00:00",
    "decision": 1.3,
-   "priority": 7.030581,
-   "selection_reason": "Editorial importance; waiting 3.0h"
+   "priority": 7.047929,
+   "selection_reason": "Editorial importance; waiting 3.5h"
   },
   {
    "id": "d2f5bca6cce19fca",
@@ -4378,8 +4357,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-28T14:31:35+00:00",
    "decision": 1.25,
-   "priority": 6.966088,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.983436,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "979537701aab32eb",
@@ -4407,8 +4386,8 @@
    "first_seen_at": "2026-11-27T01:37:22.221989+00:00",
    "expires_at": "2026-11-28T13:37:20+00:00",
    "decision": 0.93,
-   "priority": 6.896782,
-   "selection_reason": "Editorial importance; waiting 2.5h"
+   "priority": 6.91413,
+   "selection_reason": "Editorial importance; waiting 3.0h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4437,8 +4416,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 6.724151,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.750173,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4467,13 +4446,12 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 6.694151,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 6.720173,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   }
  ],
  "details_queue": [],
  "details_done": {
-  "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute": "2026-11-13T04:09:20.181440+00:00",
   "https://36kr.com/newsflashes/4067554198770564?f=rss": "2026-11-13T04:38:09.638610+00:00",
   "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523": "2026-11-13T05:09:17.387074+00:00",
   "https://www.leiphone.com/category/chips/yAWrh861diKVS1KU.html": "2026-11-13T05:39:34.346979+00:00",
@@ -4798,59 +4776,15 @@
   "https://36kr.com/p/4087361074575753?f=rss": "2026-11-27T02:11:27.035648+00:00",
   "https://36kr.com/newsflashes/4086394631170692?f=rss": "2026-11-27T02:37:44.777659+00:00",
   "https://36kr.com/newsflashes/4086378294421893?f=rss": "2026-11-27T03:07:47.083173+00:00",
-  "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html": "2026-11-27T04:07:55.698836+00:00"
+  "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html": "2026-11-27T04:07:55.698836+00:00",
+  "https://36kr.com/newsflashes/4087390505810564?f=rss": "2026-11-27T04:37:58.044970+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
-  "218ba83ff3c9d062": {
-   "imp": 1.07,
-   "ai": 0.65,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "c935eb145017922c": {
-   "imp": 2.56,
-   "ai": 0.99,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "c22ce595b58ac758": {
-   "imp": 2.14,
-   "ai": 0.96,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "81405fe79076c7e4": {
-   "imp": 1.13,
-   "ai": 0.51,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "27f2e8680ae11824": {
-   "imp": 1.62,
-   "ai": 0.97,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "2741bc4b384fe708": {
-   "imp": 0.14,
-   "ai": 0.01,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "efea126249c6b3ed": {
-   "imp": 0.2,
-   "ai": 0.01,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "840489a5e57f933a": {
-   "imp": 0.06,
-   "ai": 0.02,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
-  "8f531c54cd96396a": {
-   "imp": 0.07,
-   "ai": 0.01,
-   "ts": "2026-11-19T04:37:24.559180+00:00"
-  },
   "aae72e4c06797373": {
    "imp": 1.74,
    "ai": null,
@@ -25110,6 +25044,76 @@
    "imp": 0.15,
    "ai": 0.04,
    "ts": "2026-11-27T04:07:21.527796+00:00"
+  },
+  "009f81f10cfa3132": {
+   "imp": 1.14,
+   "ai": 0.58,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "fca9ccd587610af3": {
+   "imp": 0.47,
+   "ai": 0.18,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "e01a04001d16d572": {
+   "imp": 1.36,
+   "ai": 0.95,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "4e6fb0ec623674ce": {
+   "imp": 1.27,
+   "ai": 0.96,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "b5e4296a7e437818": {
+   "imp": 0.98,
+   "ai": 0.92,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "b7806bf82e22e383": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "360bbe8f48178c9e": {
+   "imp": 0.15,
+   "ai": 0.04,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "d7cdc5508c8081b0": {
+   "imp": 1.53,
+   "ai": 0.96,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "844d0257e50e51fd": {
+   "imp": 1.45,
+   "ai": 0.95,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "2246da349ec9871b": {
+   "imp": 0.12,
+   "ai": 0.04,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "11490730f127716c": {
+   "imp": 0.12,
+   "ai": 0.02,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "6e3238062446b187": {
+   "imp": 0.28,
+   "ai": 0.07,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "cc65ce798a8de227": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
+  },
+  "7d4937a2d7747403": {
+   "imp": 0.64,
+   "ai": 0.1,
+   "ts": "2026-11-27T04:37:20.169488+00:00"
   }
  }
 }
