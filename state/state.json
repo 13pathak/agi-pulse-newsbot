@@ -1,12 +1,5 @@
 {
  "seen": {
-  "9afed0143cc7325c": "2026-11-20T13:07:25.783540+00:00",
-  "f94b516639b4fc03": "2026-11-20T13:07:25.783540+00:00",
-  "532279bc1bfd4530": "2026-11-20T13:07:25.783540+00:00",
-  "284bcf0fd7d70759": "2026-11-20T13:07:25.783540+00:00",
-  "bb1f1691ba729eaa": "2026-11-20T13:07:25.783540+00:00",
-  "5a8303f5ab4a44fd": "2026-11-20T13:07:25.783540+00:00",
-  "8361df2178159924": "2026-11-20T13:07:25.783540+00:00",
   "5edbac8e96376665": "2026-11-20T13:37:23.217389+00:00",
   "fd3deff7466808c0": "2026-11-20T13:37:23.217389+00:00",
   "7ad6582a8b24f753": "2026-11-20T13:37:23.217389+00:00",
@@ -1623,13 +1616,14 @@
   "cac552ba2dbd27e4": "2026-11-27T12:37:26.223573+00:00",
   "4ef970468c9b3799": "2026-11-27T12:37:26.223573+00:00",
   "30193b021b5aa9a6": "2026-11-27T12:37:26.223573+00:00",
-  "3bd879b42b4e7a9d": "2026-11-27T12:37:26.223573+00:00"
+  "3bd879b42b4e7a9d": "2026-11-27T12:37:26.223573+00:00",
+  "4a33d9ec3b04ab8d": "2026-11-27T13:07:21.532732+00:00",
+  "b2b22398ee8b7af0": "2026-11-27T13:07:21.532732+00:00",
+  "005b7c4e65ee5311": "2026-11-27T13:07:21.532732+00:00",
+  "f6ded91f4ad1dcb1": "2026-11-27T13:07:21.532732+00:00",
+  "d7c1e3a649d0ef5a": "2026-11-27T13:07:21.532732+00:00"
  },
  "covered": [
-  {
-   "headline": "Nexent Capital launches $1 billion fund for AI infrastructure",
-   "ts": "2026-11-25T13:07:25.190462+00:00"
-  },
   {
    "headline": "Google DeepMind uses AI agents for Gemini training experiments",
    "ts": "2026-11-25T13:37:25.106913+00:00"
@@ -1845,11 +1839,15 @@
   {
    "headline": "Apple pulls MiniMax chatbot Talkie from App Store",
    "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  {
+   "headline": "Jio launches and withdraws AI astrology platform",
+   "ts": "2026-11-27T13:07:21.532732+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-27",
-  "count": 23
+  "count": 24
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4325,6 +4323,12 @@
    "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
    "published": "2026-11-27T00:00:00.779000+00:00",
    "excerpt": "Thanks to our partnership with AWS, we were lucky enough to get access to a Trainium3 machine (trn3.48xlarge, 64 NeuronCores) for a month. We spent most of the month testing Hugging Face models on it, and getting more of them to work. With five days left, I allowed myself a little fun. When you have a Ferrari, every now and then you want to take it out on the track. So I asked myself: what if I tried to generate videos? I picked LTX-2.5 from Lightricks, which generates video and sound together. By the end, once the models were loaded, a 10-second clip with sound took 22 to 23 s to generate, on half of the machine. Here is the result. I had two goals. The first was to see how easy it is to generate videos with diffusers on Trainium3. Not the simple clips from the examples: I wanted to make …"
+  },
+  "https://www.qbitai.com/2026/11/513346.html": {
+   "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+   "desc": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+   "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+   "published": ""
   }
  },
  "pending": [
@@ -4353,8 +4357,8 @@
    "first_seen_at": "2026-11-27T11:07:22.911498+00:00",
    "expires_at": "2026-11-28T22:31:25+00:00",
    "decision": 2.25,
-   "priority": 7.285465,
-   "selection_reason": "Editorial importance; waiting 1.5h"
+   "priority": 7.302781,
+   "selection_reason": "Editorial importance; waiting 2.0h"
   },
   {
    "id": "81c7402b92ff6c29",
@@ -4383,8 +4387,8 @@
    "first_seen_at": "2026-11-27T06:07:24.327279+00:00",
    "expires_at": "2026-12-01T00:00:00+00:00",
    "decision": 1.32,
-   "priority": 7.214783,
-   "selection_reason": "Editorial importance; waiting 6.5h"
+   "priority": 7.240757,
+   "selection_reason": "Editorial importance; waiting 7.0h"
   },
   {
    "id": "0701b6365593a13f",
@@ -4413,8 +4417,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.27,
-   "priority": 7.166927,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.192901,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "0f316b663c9a5e45",
@@ -4441,8 +4445,8 @@
    "first_seen_at": "2026-11-27T08:07:23.121605+00:00",
    "expires_at": "2026-11-28T19:28:15+00:00",
    "decision": 1.58,
-   "priority": 7.164828,
-   "selection_reason": "Editorial importance; waiting 4.5h"
+   "priority": 7.182144,
+   "selection_reason": "Editorial importance; waiting 5.0h"
   },
   {
    "id": "ce17b50be0053c86",
@@ -4471,8 +4475,8 @@
    "first_seen_at": "2026-11-27T02:37:20.843733+00:00",
    "expires_at": "2026-11-30T00:00:00+00:00",
    "decision": 1.18,
-   "priority": 7.136927,
-   "selection_reason": "Editorial importance; waiting 10.0h"
+   "priority": 7.162901,
+   "selection_reason": "Editorial importance; waiting 10.5h"
   },
   {
    "id": "63bc89be998f9e5d",
@@ -4499,8 +4503,8 @@
    "first_seen_at": "2026-11-27T12:07:37.445339+00:00",
    "expires_at": "2026-11-29T00:00:10+00:00",
    "decision": 1.48,
-   "priority": 7.007134,
-   "selection_reason": "Editorial importance"
+   "priority": 7.02445,
+   "selection_reason": "Editorial importance; waiting 1.0h"
   }
  ],
  "details_queue": [],
@@ -4829,134 +4833,15 @@
   "https://www.medianama.com/2026/11/223-ai-author-indian-copyright-law-delhi-hc": "2026-11-27T11:11:50.056798+00:00",
   "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global": "2026-11-27T11:39:30.672677+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang": "2026-11-27T12:11:13.715686+00:00",
-  "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": "2026-11-27T12:38:38.620301+00:00"
+  "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": "2026-11-27T12:38:38.620301+00:00",
+  "https://www.medianama.com/2026/11/223-jio-takes-down-ai-astrology-platform": "2026-11-27T13:08:15.803898+00:00"
  },
  "details_daily": {
   "date": "2026-11-27",
   "count": 0,
-  "takes": 21
+  "takes": 22
  },
  "triage": {
-  "ac547cb1cef4db8e": {
-   "imp": 1.8,
-   "ai": 0.94,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "d1fdc6e043a74503": {
-   "imp": 0.33,
-   "ai": 0.06,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "029ded4e9a8f172f": {
-   "imp": 1.24,
-   "ai": null,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "fea67cf9c7eff96e": {
-   "imp": 2.87,
-   "ai": null,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "50a5a499604da53a": {
-   "imp": 1.51,
-   "ai": null,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "7c83913719c6fafb": {
-   "imp": 2.26,
-   "ai": 0.95,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "c59302fc83ad9b4e": {
-   "imp": 2.76,
-   "ai": 0.96,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "8214829797b20206": {
-   "imp": 2.53,
-   "ai": 0.93,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "d91e07b92af7c4cc": {
-   "imp": 1.48,
-   "ai": 0.75,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "1fe5fdadb1357fb8": {
-   "imp": 1.58,
-   "ai": 0.88,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "2fb16e90da33e6f3": {
-   "imp": 2.45,
-   "ai": 0.95,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "48381412c5954447": {
-   "imp": 0.57,
-   "ai": 0.25,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "9f55741bb31cb1de": {
-   "imp": 2.0,
-   "ai": 0.95,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "232bfbe7637942ed": {
-   "imp": 1.24,
-   "ai": 0.35,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "60a93afcfb6fc481": {
-   "imp": 2.14,
-   "ai": 0.93,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "db7454eaacb384a4": {
-   "imp": 0.97,
-   "ai": 0.2,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "3ef85cacd7f0dbae": {
-   "imp": 0.15,
-   "ai": 0.01,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "8dc675a9434a7d0f": {
-   "imp": 0.16,
-   "ai": 0.03,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "7e94600e57035043": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "69ba482fb326551d": {
-   "imp": 1.13,
-   "ai": 0.19,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "193cc7fe7e788de4": {
-   "imp": 0.15,
-   "ai": 0.03,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "9fb8bb32fe009275": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "4a0bbdc1f9ede7cd": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
-  "190e74cee850b289": {
-   "imp": 0.2,
-   "ai": 0.05,
-   "ts": "2026-11-19T13:07:37.274771+00:00"
-  },
   "bb25daab1f924307": {
    "imp": 1.67,
    "ai": null,
@@ -25276,6 +25161,86 @@
    "imp": 0.1,
    "ai": 0.03,
    "ts": "2026-11-27T12:37:26.223573+00:00"
+  },
+  "4a33d9ec3b04ab8d": {
+   "imp": 2.04,
+   "ai": 0.93,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "f6ded91f4ad1dcb1": {
+   "imp": 1.83,
+   "ai": 0.93,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "b2b22398ee8b7af0": {
+   "imp": 1.25,
+   "ai": 0.92,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "005b7c4e65ee5311": {
+   "imp": 1.17,
+   "ai": 0.94,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "27938e06cdac8e21": {
+   "imp": 0.24,
+   "ai": 0.09,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "d7c1e3a649d0ef5a": {
+   "imp": 1.42,
+   "ai": 0.84,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "8591cf89b8536ecb": {
+   "imp": 0.1,
+   "ai": 0.04,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "368a197a8a20d1f5": {
+   "imp": 0.07,
+   "ai": 0.01,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "478bf755688eef3e": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "4aa0739d730ebeea": {
+   "imp": 0.05,
+   "ai": 0.01,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "9c58b93cb44585cf": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "920534696dc3f85b": {
+   "imp": 0.07,
+   "ai": 0.03,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "d178330d36ea7b64": {
+   "imp": 0.08,
+   "ai": 0.04,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "6e9a0a89cf75253b": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "280b9dc480de89dc": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
+  },
+  "62817be7f8358266": {
+   "imp": 0.14,
+   "ai": 0.03,
+   "ts": "2026-11-27T13:07:21.532732+00:00"
   }
  }
 }
