@@ -1,7 +1,5 @@
 {
  "seen": {
-  "1456031107b8de01": "2026-11-21T05:07:21.248258+00:00",
-  "d15ef084c8b0d15a": "2026-11-21T05:07:21.248258+00:00",
   "839edfdded9a46f2": "2026-11-21T05:37:22.374497+00:00",
   "639f3e5367578722": "2026-11-21T05:37:22.374497+00:00",
   "c9ed8520d56f273a": "2026-11-21T05:37:22.374497+00:00",
@@ -1518,13 +1516,13 @@
   "86b16d1b32dcca07": "2026-11-28T02:37:22.196909+00:00",
   "d0382bcd018877ec": "2026-11-28T02:37:22.196909+00:00",
   "90b1588dee6a3d55": "2026-11-28T04:37:21.961579+00:00",
-  "50ca07a9b0dfa71c": "2026-11-28T04:37:21.961579+00:00"
+  "50ca07a9b0dfa71c": "2026-11-28T04:37:21.961579+00:00",
+  "5b2ee32ea0133875": "2026-11-28T05:07:24.226279+00:00",
+  "81bc0dfa0e90fd06": "2026-11-28T05:07:24.226279+00:00",
+  "1b1ad1135220e483": "2026-11-28T05:07:24.226279+00:00",
+  "256cd61e1a96beca": "2026-11-28T05:07:24.226279+00:00"
  },
  "covered": [
-  {
-   "headline": "Kioxia and Nvidia partner to expand GPU memory capacity",
-   "ts": "2026-11-26T05:07:26.458046+00:00"
-  },
   {
    "headline": "Nvidia releases training datasets and fine-tuning recipe for Nemotron",
    "ts": "2026-11-26T05:37:21.103906+00:00"
@@ -1728,11 +1726,15 @@
   {
    "headline": "DeepSeek commissions third-party AI safety evaluation",
    "ts": "2026-11-28T02:07:23.708443+00:00"
+  },
+  {
+   "headline": "Experts warn top AI labs hold undisclosed encryption breakthroughs",
+   "ts": "2026-11-28T05:07:24.226279+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-28",
-  "count": 2
+  "count": 3
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4225,11 +4227,6 @@
  "pending": [],
  "details_queue": [],
  "details_done": {
-  "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace": "2026-11-14T02:08:04.704177+00:00",
-  "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1": "2026-11-14T02:38:11.425607+00:00",
-  "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1": "2026-11-14T03:07:48.477575+00:00",
-  "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo": "2026-11-14T03:40:49.518699+00:00",
-  "https://huggingface.co/blog/ggml-org/llama-cpp-v1": "2026-11-14T04:37:30.979766+00:00",
   "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00",
   "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00",
   "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": "2026-11-14T06:07:29.964403+00:00",
@@ -4551,104 +4548,15 @@
   "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80": "2026-11-27T16:09:24.082888+00:00",
   "https://www.qbitai.com/2026/11/513352.html": "2026-11-27T16:37:31.999321+00:00",
   "https://36kr.com/newsflashes/4088717934950787?f=rss": "2026-11-28T01:07:49.857213+00:00",
-  "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai": "2026-11-28T02:07:53.450307+00:00"
+  "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai": "2026-11-28T02:07:53.450307+00:00",
+  "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos": "2026-11-28T05:07:55.515711+00:00"
  },
  "details_daily": {
   "date": "2026-11-28",
   "count": 0,
-  "takes": 2
+  "takes": 3
  },
  "triage": {
-  "50425ff6da685b82": {
-   "imp": 1.22,
-   "ai": null,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "6a473a96dfd37d6c": {
-   "imp": 2.35,
-   "ai": 0.93,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "50d1cad611d7691f": {
-   "imp": 1.18,
-   "ai": 0.37,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "1ab0efa6e74ce9cf": {
-   "imp": 2.14,
-   "ai": 0.94,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "c6df7bd10740dc06": {
-   "imp": 1.45,
-   "ai": 0.74,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "bdc3a7c64ce65c7b": {
-   "imp": 2.2,
-   "ai": 0.93,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "7b3c59319af04461": {
-   "imp": 2.3,
-   "ai": 0.95,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "ab9a68a1f0e6301f": {
-   "imp": 0.11,
-   "ai": 0.02,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "5a7de4c663b964d8": {
-   "imp": 0.42,
-   "ai": 0.1,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "c79acaacd90dd6a4": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-20T04:37:23.119386+00:00"
-  },
-  "0abd9fbdec95bfa4": {
-   "imp": 0.44,
-   "ai": null,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "1de99224c6f3338c": {
-   "imp": 0.81,
-   "ai": 0.88,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "a8a6658d257ca4c4": {
-   "imp": 0.81,
-   "ai": 0.21,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "23c68cb52e47bf25": {
-   "imp": 0.65,
-   "ai": 0.14,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "a360518b8359ec4e": {
-   "imp": 0.09,
-   "ai": 0.02,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "a5b223ba7c759bd2": {
-   "imp": 0.12,
-   "ai": 0.02,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "4a4794605aa1a96c": {
-   "imp": 0.18,
-   "ai": 0.02,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
-  "1b206078ef380b0d": {
-   "imp": 1.26,
-   "ai": 0.27,
-   "ts": "2026-11-20T05:07:31.576066+00:00"
-  },
   "fb635d8eceb2d9a3": {
    "imp": 1.4,
    "ai": 0.92,
@@ -24023,6 +23931,31 @@
    "imp": 0.1,
    "ai": 0.02,
    "ts": "2026-11-28T04:37:21.961579+00:00"
+  },
+  "1b1ad1135220e483": {
+   "imp": 2.37,
+   "ai": null,
+   "ts": "2026-11-28T05:07:24.226279+00:00"
+  },
+  "256cd61e1a96beca": {
+   "imp": 2.22,
+   "ai": null,
+   "ts": "2026-11-28T05:07:24.226279+00:00"
+  },
+  "5b2ee32ea0133875": {
+   "imp": 1.21,
+   "ai": 0.82,
+   "ts": "2026-11-28T05:07:24.226279+00:00"
+  },
+  "81bc0dfa0e90fd06": {
+   "imp": 0.5,
+   "ai": 0.83,
+   "ts": "2026-11-28T05:07:24.226279+00:00"
+  },
+  "9a6c58cd887e2524": {
+   "imp": 0.03,
+   "ai": 0.02,
+   "ts": "2026-11-28T05:07:24.226279+00:00"
   }
  }
 }
