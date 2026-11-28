@@ -1511,13 +1511,11 @@
   "3b217759a6c581b8": "2026-11-28T07:07:20.887265+00:00",
   "e8c3aadf384ff618": "2026-11-28T07:07:20.887265+00:00",
   "19f3c8bdbcd25908": "2026-11-28T07:07:20.887265+00:00",
-  "c1430575a300d1cb": "2026-11-28T07:07:20.887265+00:00"
+  "c1430575a300d1cb": "2026-11-28T07:07:20.887265+00:00",
+  "6c82d0907cc3a1c4": "2026-11-28T08:07:21.352935+00:00",
+  "d46210aa8289fdde": "2026-11-28T08:07:21.352935+00:00"
  },
  "covered": [
-  {
-   "headline": "Nothing unveils Ear note AI earbuds with physical buttons",
-   "ts": "2026-11-26T08:07:36.120825+00:00"
-  },
   {
    "headline": "Pine Labs launches merchant app AI agents",
    "ts": "2026-11-26T08:37:21.187796+00:00"
@@ -1717,11 +1715,15 @@
   {
    "headline": "HP launches OmniBook Ultra 16 in India",
    "ts": "2026-11-28T07:07:20.887265+00:00"
+  },
+  {
+   "headline": "Elon Musk Says Google Interested in Leasing SpaceX Compute",
+   "ts": "2026-11-28T08:07:21.352935+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-28",
-  "count": 5
+  "count": 6
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4220,7 +4222,6 @@
  "pending": [],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": "2026-11-14T07:09:20.657244+00:00",
   "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00",
   "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00",
   "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": "2026-11-14T12:09:46.538576+00:00",
@@ -4540,94 +4541,15 @@
   "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai": "2026-11-28T02:07:53.450307+00:00",
   "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos": "2026-11-28T05:07:55.515711+00:00",
   "https://www.indiatoday.in/technology/news/story/nvidia-asks-dell-super-micro-to-stop-server-shipments-to-4-southeast-asian-countries-3048865-2026-11-28": "2026-11-28T05:37:56.180005+00:00",
-  "https://www.livemint.com/technology/tech-news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-platform-launched-in-india-at-5-49-999-price-specs-and-features-11795845254850.html": "2026-11-28T07:07:47.223670+00:00"
+  "https://www.livemint.com/technology/tech-news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-platform-launched-in-india-at-5-49-999-price-specs-and-features-11795845254850.html": "2026-11-28T07:07:47.223670+00:00",
+  "https://36kr.com/newsflashes/4089093439715968?f=rss": "2026-11-28T08:07:55.327387+00:00"
  },
  "details_daily": {
   "date": "2026-11-28",
   "count": 0,
-  "takes": 5
+  "takes": 6
  },
  "triage": {
-  "ac3e33edf9c5d72b": {
-   "imp": 1.63,
-   "ai": 0.89,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "6b0de95e1639fedf": {
-   "imp": 1.48,
-   "ai": 0.33,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "9b5308597693800b": {
-   "imp": 1.24,
-   "ai": 0.9,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "090e7b7e4f5bd2df": {
-   "imp": 2.39,
-   "ai": 0.98,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "bb562451e8e555a7": {
-   "imp": 1.68,
-   "ai": 0.79,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "4f2f1bfd0b5764ac": {
-   "imp": 1.5,
-   "ai": 0.91,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "c9cce3eb3a26db07": {
-   "imp": 0.1,
-   "ai": 0.09,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "2f911489d6ddd319": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "37cf292fb819ae9d": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "7254661351c58bae": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "b9d539e2c75e908d": {
-   "imp": 0.22,
-   "ai": 0.04,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "98a0284d5e483409": {
-   "imp": 0.48,
-   "ai": 0.12,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "c26c936713e3bd61": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "9b2635c845212ebc": {
-   "imp": 0.08,
-   "ai": 0.03,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "7cabd0d12dede422": {
-   "imp": 0.36,
-   "ai": 0.14,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
-  "bb7d47ba5cd470d7": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-20T08:07:24.187644+00:00"
-  },
   "07bc4c3acd8fdb1e": {
    "imp": 1.61,
    "ai": 0.82,
@@ -23707,6 +23629,36 @@
    "imp": 0.08,
    "ai": 0.02,
    "ts": "2026-11-28T07:37:23.283294+00:00"
+  },
+  "6c82d0907cc3a1c4": {
+   "imp": 1.09,
+   "ai": null,
+   "ts": "2026-11-28T08:07:21.352935+00:00"
+  },
+  "9c23ec8f48910998": {
+   "imp": 0.1,
+   "ai": 0.02,
+   "ts": "2026-11-28T08:07:21.352935+00:00"
+  },
+  "70ad636b4948ed01": {
+   "imp": 0.13,
+   "ai": 0.03,
+   "ts": "2026-11-28T08:07:21.352935+00:00"
+  },
+  "d46210aa8289fdde": {
+   "imp": 1.8,
+   "ai": 0.96,
+   "ts": "2026-11-28T08:07:21.352935+00:00"
+  },
+  "e45520eadfc9ffd4": {
+   "imp": 0.15,
+   "ai": 0.03,
+   "ts": "2026-11-28T08:07:21.352935+00:00"
+  },
+  "adb39b57ff64bf60": {
+   "imp": 0.11,
+   "ai": 0.03,
+   "ts": "2026-11-28T08:07:21.352935+00:00"
   }
  }
 }
