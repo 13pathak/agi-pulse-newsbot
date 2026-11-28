@@ -1215,58 +1215,121 @@ def about_another_story(image: dict, story: set[str]) -> bool:
     return len(alt) >= 3 and not alt & story
 
 
-def replacement_pictures(pick: dict, rejected: str):
+SIZE_WORDS = re.compile(r"(?:[-_](?:\d+x\d+|social|ftr|featured?|thumb(?:nail)?|scaled|large|medium|small"
+                        r"|hero|header|cover|og|share|\d{1,2}))+$")
+
+
+def picture_key(url: str) -> str:
+    """The file name without size, crop and format words, so "m-funding-social.jpg" and
+    "m-funding-ftr-760x570.webp" count as one picture. Empty for names too short to trust."""
+    name = urllib.parse.unquote(urllib.parse.urlsplit(url).path).rsplit("/", 1)[-1].casefold()
+    stem = SIZE_WORDS.sub("", re.sub(r"\.(?:jpe?g|png|webp|gif|avif)$", "", name).strip("-_"))
+    return stem if len(stem) >= 8 else ""
+
+
+BING_NEWS = "https://www.bing.com/news/search"
+WEB_RESULTS = 6              # news search results considered for pictures
+
+
+def web_coverage(pick: dict, skip_hosts: set[str]) -> list[dict]:
+    """Other outlets' articles about the story, from a Bing News search for its headline:
+    [{"url", "source", "image"}]. Results whose title shares too few words with the story
+    are dropped. Empty on any failure."""
+    headline = pick.get("headline") or pick["item"]["title"]
+    try:
+        r = requests.get(BING_NEWS, params={"q": headline, "format": "rss", "setlang": "en"},
+                         headers={"User-Agent": USER_AGENT}, timeout=10)
+        feed = feedparser.parse(r.content) if r.ok else None
+    except requests.RequestException as e:
+        log.info("news search failed (%s)", e)
+        return []
+    if not feed or not feed.entries:
+        log.info("news search found nothing (HTTP %s): %s", r.status_code, headline)
+        return []
+    story = story_words(headline)
+    needed = max(2, round(len(story) * 0.4))
+    out = []
+    for entry in feed.entries:
+        link = entry.get("link", "")
+        url = urllib.parse.parse_qs(urllib.parse.urlsplit(link).query).get("url", [link])[0]
+        host = urllib.parse.urlsplit(url).hostname or ""
+        if host.removeprefix("www.") in skip_hosts or len(story_words(entry.get("title", "")) & story) < needed:
+            continue
+        skip_hosts.add(host.removeprefix("www."))
+        image = entry.get("news_image", "")
+        out.append({"url": url, "source": entry.get("news_source") or host.removeprefix("www."),
+                    "image": f"{image}&w=1200&h=628&c=7" if image else ""})
+        if len(out) >= WEB_RESULTS:
+            break
+    return out
+
+
+def replacement_pictures(pick: dict, rejected: str, own: bool = True, web: bool = True):
     """Other pictures of the story, best first, as (url, where it came from): pictures
-    inside the article itself (charts, screenshots, product photos), then the preview
-    pictures of other outlets covering the same story. Fetched lazily, as they are needed."""
+    inside the article itself (charts, screenshots, product photos; only when `own`, i.e.
+    the source's pictures may be used), then the preview pictures of other outlets in the
+    queue's story group, then those of outlets a news search finds (when `web`).
+    Fetched lazily, as they are needed."""
     import article_details as ad   # imported here: article_details imports this module
-    seen = {ad.image_key(rejected)} if rejected else set()
+    seen: set[str] = set()
 
     def new(url: str) -> bool:
-        key = ad.image_key(url) if url else ""
-        if not key or key in seen:
+        if not url:
             return False
-        seen.add(key)
+        keys = {ad.image_key(url), picture_key(url)} - {""}
+        if keys & seen:
+            return False
+        seen.update(keys)
         return True
 
+    new(rejected)
     it = pick["item"]
-    try:
-        images = ad.fetch_article(it["url"])["images"]
-    except Exception as e:   # paywall, too little text, network: go on to other outlets
-        log.info("no pictures read from the article (%s)", e)
-        images = []
-    story = story_words(" ".join([pick.get("headline", ""), it.get("title", ""), pick.get("post", "")]))
-    for image in images:
-        if about_another_story(image, story):
-            continue
-        if new(image["url"]):
-            yield image["url"], "the article"
+    if own:
+        try:
+            images = ad.fetch_article(it["url"])["images"]
+        except Exception as e:   # paywall, too little text, network: go on to other outlets
+            log.info("no pictures read from the article (%s)", e)
+            images = []
+        story = story_words(" ".join([pick.get("headline", ""), it.get("title", ""), pick.get("post", "")]))
+        for image in images:
+            if not about_another_story(image, story) and new(image["url"]):
+                yield image["url"], "the article"
+    hosts = {(urllib.parse.urlsplit(i["url"]).hostname or "").removeprefix("www.")
+             for i in [it, *(pick.get("related") or [])]}
     for other in pick.get("related") or []:
         if other.get("images"):
             url = other.get("image") or og_image(other["url"])
             if new(url):
                 yield url, f"{other['source']}'s coverage"
+    if web:
+        for found in web_coverage(pick, hosts):
+            url = og_image(found["url"]) or found["image"]
+            if new(url):
+                yield url, f"{found['source']}'s coverage"
 
 
-def find_replacement(pick: dict, rejected: str, api_key: str, model: str, tries: int) -> tuple[str, str]:
-    """After the picture check turns down the source picture, look for one that helps.
-    At most `tries` pictures are shown to the model. Returns (url, origin) or ("", "")."""
+def find_replacement(pick: dict, rejected: str, api_key: str, model: str, tries: int,
+                     own: bool = True, web: bool = True) -> tuple[str, str]:
+    """Look for a picture that helps, after the picture check turned down the source's
+    picture or the source had none. At most `tries` pictures are shown to the model.
+    Returns (url, origin) or ("", "")."""
     if tries <= 0 or not (api_key and model):
         return "", ""
     asked = 0
-    for url, origin in replacement_pictures(pick, rejected):
-        if asked >= tries:
-            break
-        if url not in pick.get("picture_checks", {}):
-            asked += 1   # remembered verdicts cost nothing
+    checks = pick.setdefault("picture_checks", {})
+    for url, origin in replacement_pictures(pick, rejected, own, web):
+        before = len(checks)
         try:
             chance = picture_chance(pick, url, api_key, model, min_bytes=REPLACEMENT_MIN_BYTES)
         except GeminiUnavailable as e:
             log.warning("picture search stopped (%s)", e)
             break
+        asked += len(checks) > before   # unreadable files and remembered verdicts are free
         if chance is not None and chance >= PICTURE_MIN:
             log.info("picture replaced with one from %s: %s", origin, url)
             return url, origin
+        if asked >= tries:
+            break
     log.info("no better picture found (%d checked): %s", asked, pick["headline"])
     return "", ""
 
@@ -1746,16 +1809,20 @@ def run(dry_run: bool = False, now: datetime | None = None,
         post = compose_post(pick["post"], it["source"], it["url"], s.get("include_link", True),
                             s.get("show_source", True))
         photo = ""
-        if s.get("attach_images", False) and it.get("images") and not pick.get("text_only"):
+        if s.get("attach_images", False) and not pick.get("text_only"):
             if "photo" in pick:   # a replacement search already ran on an earlier attempt
                 photo = pick["photo"]
             else:
-                photo = it.get("image") or og_image(it["url"])
+                own = bool(it.get("images"))   # may this source's own pictures be used?
+                photo = (it.get("image") or og_image(it["url"])) if own else ""
                 api_key, model = os.environ.get("GEMINI_API_KEY", ""), s.get("decision_model") or ""
-                if s.get("picture_check", True) and not picture_helps(pick, photo, api_key, model):
-                    log.info("picture left out (adds nothing to the story): %s", pick["headline"])
+                checking = s.get("picture_check", True)
+                if checking and not (photo and picture_helps(pick, photo, api_key, model)):
+                    log.info("picture left out (adds nothing to the story): %s" if photo else
+                             "no source picture: %s", pick["headline"])
                     photo, origin = find_replacement(pick, photo, api_key, model,
-                                                     int(s.get("picture_search_tries", 4)))
+                                                     int(s.get("picture_search_tries", 5)), own,
+                                                     bool(s.get("picture_web_search", True)))
                     pick["photo"], pick["photo_from"] = photo, origin
         if dry_run:
             print("─" * 60)

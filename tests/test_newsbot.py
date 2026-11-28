@@ -326,6 +326,59 @@ def test_replacement_search_stops_when_the_model_is_busy(monkeypatch):
     assert len(calls) == 1                         # an unchecked picture is never attached
 
 
+BING_RSS = b"""<?xml version="1.0"?><rss version="2.0" xmlns:News="https://www.bing.com/news/search?q=x">
+<channel><title>x</title>
+<item><title>Swiggy cuts 340 Instamart roles as unit restructures</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;url=https%3a%2f%2fwww.business-standard.com%2fswiggy-cuts&amp;c=1</link>
+<News:Source>Business Standard</News:Source><News:Image>http://www.bing.com/th?id=ONUT.abc&amp;pid=News</News:Image></item>
+<item><title>Swiggy Instamart cuts 340 roles, entrackr reports</title>
+<link>http://www.bing.com/news/apiclick.aspx?url=https%3a%2f%2fentrackr.com%2fsame-outlet</link>
+<News:Source>Entrackr</News:Source></item>
+<item><title>Zomato launches a new food app</title>
+<link>http://www.bing.com/news/apiclick.aspx?url=https%3a%2f%2fother.test%2fzomato</link>
+<News:Source>Other</News:Source></item>
+<item><title>Instamart to cut 340 jobs at Swiggy</title>
+<link>http://www.bing.com/news/apiclick.aspx?url=https%3a%2f%2fwww.hindubusinessline.test%2finstamart</link>
+<News:Source>BusinessLine</News:Source></item>
+</channel></rss>"""
+
+
+def test_news_search_finds_other_outlets_covering_the_story(monkeypatch):
+    seen = []
+    monkeypatch.setattr(newsbot.requests, "get", lambda url, **kw: seen.append(kw["params"]) or Resp(content=BING_RSS))
+    pick = {"headline": "Swiggy's Instamart cuts 340 roles in restructuring", "item": {"title": ""}}
+    found = newsbot.web_coverage(pick, {"entrackr.com"})
+    assert seen[0]["q"] == pick["headline"] and seen[0]["format"] == "rss"
+    assert found == [   # the source's own outlet and an unrelated story are left out
+        {"url": "https://www.business-standard.com/swiggy-cuts", "source": "Business Standard",
+         "image": "http://www.bing.com/th?id=ONUT.abc&pid=News&w=1200&h=628&c=7"},
+        {"url": "https://www.hindubusinessline.test/instamart", "source": "BusinessLine", "image": ""}]
+    monkeypatch.setattr(newsbot.requests, "get", lambda url, **kw: Resp(status=403))
+    assert newsbot.web_coverage(pick, set()) == []
+
+
+def test_crops_and_sizes_of_one_picture_share_a_key():
+    key = newsbot.picture_key
+    assert key("https://a.test/2026/11/M-Funding-social.jpg") == key("https://a.test/2026/11/M-Funding-ftr-760x570.webp")
+    assert key("https://a.test/AI-model-social-.png") == key("https://b.test/AI-model-featured-760x570.png") == "ai-model"
+    assert key("https://a.test/gettyimages-2306835116.jpg") != key("https://a.test/gettyimages-2305973751.jpg")
+    assert key("https://a.test/1.jpg") == key("https://a.test/image.png") == ""      # too short to trust
+
+
+def test_story_without_its_own_picture_gets_one_from_other_coverage(monkeypatch):
+    verdicts = {"https://bs.test/og.jpg": 0.8}
+    pick, asked = replacement_setup(monkeypatch, verdicts, article_images=["https://cdn.test/own.jpg"])
+    pick["related"] = []
+    monkeypatch.setattr(newsbot, "web_coverage", lambda p, hosts: [{"url": "https://bs.test/story",
+                                                                     "source": "Business Standard", "image": ""}])
+    monkeypatch.setattr(newsbot, "og_image", lambda url: "https://bs.test/og.jpg")
+    found = newsbot.find_replacement(pick, "", "k", "m", tries=5, own=False)
+    assert found == ("https://bs.test/og.jpg", "Business Standard's coverage")
+    assert "https://cdn.test/own.jpg" not in asked        # this source's pictures are not allowed
+    assert newsbot.find_replacement({**pick, "picture_checks": {}}, "", "k", "m", tries=5, own=False,
+                                    web=False) == ("", "")
+
+
 def test_more_stories_cards_on_the_page_are_not_replacement_candidates():
     story = newsbot.story_words("SpaceX receives FCC approval for orbital data centers")
     assert newsbot.about_another_story({"alt": "The loneliest peptide party in New York"}, story)

@@ -58,8 +58,10 @@ settings:
   # "" turns all four off. If the model fails, the bot carries on as it did without it.
   decision_model: "gemini-decision-1"
   picture_check: true          # false = always attach the source picture
-  picture_search_tries: 4      # when the check says no, try up to this many other pictures
-                               # (inside the article, then other outlets' previews); 0 = off
+  # When the check turns a picture down, or the story has none, look for another: inside the
+  # article, then other outlets' previews, then outlets a Bing News search finds.
+  picture_search_tries: 5      # at most this many pictures shown to the model; 0 = no search
+  picture_web_search: true     # false = don't use the news search (Bing's feed: personal use only)
   decision_weight: 0.5         # its 0-3 rating moves a draft up or down the queue by at most this (0 = off)
   # Who follows the account and what they come for. The decision model reads this when it
   # ranks takes by likely response, so the more specific it is, the better the ranking.
