@@ -1,8 +1,5 @@
 {
  "seen": {
-  "839edfdded9a46f2": "2026-11-21T05:37:22.374497+00:00",
-  "639f3e5367578722": "2026-11-21T05:37:22.374497+00:00",
-  "c9ed8520d56f273a": "2026-11-21T05:37:22.374497+00:00",
   "b1af0fb93fcd3d24": "2026-11-21T06:07:31.609484+00:00",
   "00ee960a19dfa6c5": "2026-11-21T06:07:31.609484+00:00",
   "3bd15573705779b6": "2026-11-21T06:07:31.609484+00:00",
@@ -1520,13 +1517,10 @@
   "5b2ee32ea0133875": "2026-11-28T05:07:24.226279+00:00",
   "81bc0dfa0e90fd06": "2026-11-28T05:07:24.226279+00:00",
   "1b1ad1135220e483": "2026-11-28T05:07:24.226279+00:00",
-  "256cd61e1a96beca": "2026-11-28T05:07:24.226279+00:00"
+  "256cd61e1a96beca": "2026-11-28T05:07:24.226279+00:00",
+  "42c95b28f1680f1a": "2026-11-28T05:37:21.638571+00:00"
  },
  "covered": [
-  {
-   "headline": "Nvidia releases training datasets and fine-tuning recipe for Nemotron",
-   "ts": "2026-11-26T05:37:21.103906+00:00"
-  },
   {
    "headline": "Nvidia halts chip shipments to Southeast Asia",
    "ts": "2026-11-26T07:07:34.939374+00:00"
@@ -1730,11 +1724,15 @@
   {
    "headline": "Experts warn top AI labs hold undisclosed encryption breakthroughs",
    "ts": "2026-11-28T05:07:24.226279+00:00"
+  },
+  {
+   "headline": "Nvidia requests halting server shipments to four nations",
+   "ts": "2026-11-28T05:37:21.638571+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-28",
-  "count": 3
+  "count": 4
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4227,7 +4225,6 @@
  "pending": [],
  "details_queue": [],
  "details_done": {
-  "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": "2026-11-14T05:10:20.901163+00:00",
   "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": "2026-11-14T05:40:43.984752+00:00",
   "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": "2026-11-14T06:07:29.964403+00:00",
   "https://36kr.com/newsflashes/4069071474480002?f=rss": "2026-11-14T06:37:49.383303+00:00",
@@ -4549,89 +4546,15 @@
   "https://www.qbitai.com/2026/11/513352.html": "2026-11-27T16:37:31.999321+00:00",
   "https://36kr.com/newsflashes/4088717934950787?f=rss": "2026-11-28T01:07:49.857213+00:00",
   "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai": "2026-11-28T02:07:53.450307+00:00",
-  "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos": "2026-11-28T05:07:55.515711+00:00"
+  "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos": "2026-11-28T05:07:55.515711+00:00",
+  "https://www.indiatoday.in/technology/news/story/nvidia-asks-dell-super-micro-to-stop-server-shipments-to-4-southeast-asian-countries-3048865-2026-11-28": "2026-11-28T05:37:56.180005+00:00"
  },
  "details_daily": {
   "date": "2026-11-28",
   "count": 0,
-  "takes": 3
+  "takes": 4
  },
  "triage": {
-  "fb635d8eceb2d9a3": {
-   "imp": 1.4,
-   "ai": 0.92,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "42003d05f93e5c9f": {
-   "imp": 1.53,
-   "ai": 0.93,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "cf2fc4cee4364aa7": {
-   "imp": 2.47,
-   "ai": 0.95,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "f1de3533bb71b415": {
-   "imp": 1.42,
-   "ai": 0.93,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "aa33809bcac6a6ab": {
-   "imp": 0.43,
-   "ai": 0.59,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "caa645258f963bc5": {
-   "imp": 2.14,
-   "ai": 0.96,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "e2fc7857f6a0dbdf": {
-   "imp": 0.56,
-   "ai": 0.07,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "dfc51984a5fa4e66": {
-   "imp": 1.22,
-   "ai": 0.77,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "130dd9d732833e9d": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "cb88e343b35e8dac": {
-   "imp": 1.0,
-   "ai": 0.24,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "2b237acc4083b290": {
-   "imp": 0.2,
-   "ai": 0.05,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "2c40fe0acff51fba": {
-   "imp": 0.11,
-   "ai": 0.03,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "2d7b784513fd48d7": {
-   "imp": 0.1,
-   "ai": 0.02,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "6ec79409e83b7b4d": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
-  "695ad226c435cce2": {
-   "imp": 0.05,
-   "ai": 0.03,
-   "ts": "2026-11-20T05:37:34.832497+00:00"
-  },
   "ad74b50e7f7ef6b0": {
    "imp": 0.89,
    "ai": 0.4,
@@ -23956,6 +23879,16 @@
    "imp": 0.03,
    "ai": 0.02,
    "ts": "2026-11-28T05:07:24.226279+00:00"
+  },
+  "42c95b28f1680f1a": {
+   "imp": 1.55,
+   "ai": 0.82,
+   "ts": "2026-11-28T05:37:21.638571+00:00"
+  },
+  "f628c572df9c39fa": {
+   "imp": 0.07,
+   "ai": 0.02,
+   "ts": "2026-11-28T05:37:21.638571+00:00"
   }
  }
 }
