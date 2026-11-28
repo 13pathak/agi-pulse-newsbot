@@ -1,8 +1,5 @@
 {
  "seen": {
-  "003209cd0ab3a866": "2026-11-21T11:07:22.348012+00:00",
-  "263ea4d757a50252": "2026-11-21T11:07:22.348012+00:00",
-  "d82387dbcd38e0b7": "2026-11-21T11:07:22.348012+00:00",
   "6ea349c0e0a1069e": "2026-11-21T11:37:20.925678+00:00",
   "ac3df93f97de43ec": "2026-11-21T11:37:20.925678+00:00",
   "a8b9571f5922480c": "2026-11-21T12:07:23.056782+00:00",
@@ -1501,13 +1498,11 @@
   "f980b513a8d8b9ce": "2026-11-28T09:37:22.666016+00:00",
   "880873a713285f8d": "2026-11-28T10:07:20.845365+00:00",
   "35b91976f4406b51": "2026-11-28T10:07:20.845365+00:00",
-  "1ff01c74df81557f": "2026-11-28T10:37:31.762576+00:00"
+  "1ff01c74df81557f": "2026-11-28T10:37:31.762576+00:00",
+  "efda994b05727f87": "2026-11-28T11:07:21.232659+00:00",
+  "964c87b5f05255b6": "2026-11-28T11:07:21.232659+00:00"
  },
  "covered": [
-  {
-   "headline": "Guangdong targets 1,000 EFLOPS AI computing capacity by 2028",
-   "ts": "2026-11-26T11:07:23.515086+00:00"
-  },
   {
    "headline": "Microsoft details ARTEX AI framework used in automated cyberattacks",
    "ts": "2026-11-26T12:07:24.634480+00:00"
@@ -1695,11 +1690,15 @@
   {
    "headline": "Elon Musk Says Google Interested in Leasing SpaceX Compute",
    "ts": "2026-11-28T08:07:21.352935+00:00"
+  },
+  {
+   "headline": "Embo raises $110M seed funding for robotics AI",
+   "ts": "2026-11-28T11:07:21.232659+00:00"
   }
  ],
  "daily": {
   "date": "2026-11-28",
-  "count": 6
+  "count": 7
  },
  "pages": {
   "https://www.anthropic.com/news/announcements": {
@@ -4198,8 +4197,6 @@
  "pending": [],
  "details_queue": [],
  "details_done": {
-  "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": "2026-11-14T08:09:19.170724+00:00",
-  "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller": "2026-11-14T10:08:55.886475+00:00",
   "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": "2026-11-14T12:09:46.538576+00:00",
   "https://www.qbitai.com/2026/11/510003.html": "2026-11-14T13:39:20.495235+00:00",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": "2026-11-14T16:07:56.010486+00:00",
@@ -4518,134 +4515,15 @@
   "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos": "2026-11-28T05:07:55.515711+00:00",
   "https://www.indiatoday.in/technology/news/story/nvidia-asks-dell-super-micro-to-stop-server-shipments-to-4-southeast-asian-countries-3048865-2026-11-28": "2026-11-28T05:37:56.180005+00:00",
   "https://www.livemint.com/technology/tech-news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-platform-launched-in-india-at-5-49-999-price-specs-and-features-11795845254850.html": "2026-11-28T07:07:47.223670+00:00",
-  "https://36kr.com/newsflashes/4089093439715968?f=rss": "2026-11-28T08:07:55.327387+00:00"
+  "https://36kr.com/newsflashes/4089093439715968?f=rss": "2026-11-28T08:07:55.327387+00:00",
+  "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots": "2026-11-28T11:10:54.558698+00:00"
  },
  "details_daily": {
   "date": "2026-11-28",
   "count": 0,
-  "takes": 6
+  "takes": 7
  },
  "triage": {
-  "311975880d0b9886": {
-   "imp": 0.37,
-   "ai": null,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "dc4abeffea47e7ab": {
-   "imp": 1.1,
-   "ai": null,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "53f2410e3ea1cc17": {
-   "imp": 0.46,
-   "ai": null,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "ab79d8f4cd5485cb": {
-   "imp": 0.45,
-   "ai": 0.19,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "e5d4429b03a86f57": {
-   "imp": 0.43,
-   "ai": 0.23,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "7a2759cba3c34630": {
-   "imp": 1.24,
-   "ai": 0.85,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "543fb81f699c534a": {
-   "imp": 1.1,
-   "ai": 0.44,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "ccd97c6cfbf19269": {
-   "imp": 1.89,
-   "ai": 0.38,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "9ff3348bd5c28050": {
-   "imp": 0.17,
-   "ai": 0.05,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "dc1bf3e4ce00255f": {
-   "imp": 0.08,
-   "ai": 0.02,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "4b449323fda66136": {
-   "imp": 0.09,
-   "ai": 0.03,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "ee98191ab7423c24": {
-   "imp": 0.12,
-   "ai": 0.03,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "5616e037cde097f1": {
-   "imp": 0.13,
-   "ai": 0.03,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "6a3168fe7f8d65f6": {
-   "imp": 1.71,
-   "ai": 0.96,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "4b54ef30c25e1705": {
-   "imp": 0.13,
-   "ai": 0.02,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "51070dd2beacb102": {
-   "imp": 0.12,
-   "ai": 0.04,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "b3dccc0206830739": {
-   "imp": 0.56,
-   "ai": 0.23,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "42a33357ed53e512": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "e568b409c6c2a751": {
-   "imp": 0.1,
-   "ai": 0.03,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "bdf0640451d6ab5f": {
-   "imp": 0.11,
-   "ai": 0.04,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "3bab0487bf0ef371": {
-   "imp": 0.27,
-   "ai": 0.11,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "8527287a1092a181": {
-   "imp": 0.16,
-   "ai": 0.04,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "27cb6fde2522551f": {
-   "imp": 0.5,
-   "ai": 0.19,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
-  "36e10c273f41d720": {
-   "imp": 0.14,
-   "ai": 0.05,
-   "ts": "2026-11-20T11:07:21.876528+00:00"
-  },
   "3164b2dc6085d0db": {
    "imp": 1.57,
    "ai": 0.51,
@@ -23215,6 +23093,51 @@
    "imp": 0.25,
    "ai": 0.03,
    "ts": "2026-11-28T10:37:31.762576+00:00"
+  },
+  "964c87b5f05255b6": {
+   "imp": 2.05,
+   "ai": null,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "efda994b05727f87": {
+   "imp": 0.74,
+   "ai": 0.71,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "8ad785863d63aee3": {
+   "imp": 0.17,
+   "ai": 0.05,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "9d9062a9f763bf7c": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "1367a5870e572be6": {
+   "imp": 0.05,
+   "ai": 0.02,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "f090eea140b12adc": {
+   "imp": 0.09,
+   "ai": 0.02,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "daf70dcd46f07ae4": {
+   "imp": 0.08,
+   "ai": 0.02,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "eeb66a8ed6d6222f": {
+   "imp": 0.06,
+   "ai": 0.01,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
+  },
+  "42f3ccda3cda5904": {
+   "imp": 0.63,
+   "ai": 0.17,
+   "ts": "2026-11-28T11:07:21.232659+00:00"
   }
  }
 }
